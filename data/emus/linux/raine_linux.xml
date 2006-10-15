@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="raine_linux" type="linux" dat="dummy">
+	<name>RAINE for Linux</name>
+	<version>0.43.2</version>
+	<date>20/09/2005</date>
+
+	<homepage>http://www.rainemu.com/linux/</homepage>
+	<author_link id="tux">&author_tux;</author_link>
+
+	<emulates>Mainly 68000+68020 Taito, Jaleco and Capcom games</emulates>
+	<comment>Linux version of the wonderful RAINE emulator. Now with DX support!</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+		<tool_link id="eagle" type="gfx_libs">&tool_eagle;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+		<tool_link id="libpng" type="gfx_libs">&tool_libpng;</tool_link>
+	</tool_links>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="raines-0.43.2-1.tar.bz2">Source</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		</port_of>
+
+		<alt_versions>
+			<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		</alt_versions>
+	</relatives>
+</emulator>

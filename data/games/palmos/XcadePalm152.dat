@@ -1,0 +1,271 @@
+clrmamepro (
+	name Xcade
+	description "Xcade 1.52a for PalmOS"
+	category "Multi Game Arcade Emulator"
+	version 20031124
+	author "Igboo, for Zodiacgamer.com"
+)
+
+game (
+	name phoenix
+	description "Phoenix (Taito)"
+	year 1980
+	manufacturer "Taito"
+	rom ( name phoenix.45 size 2048 crc 5b8c55a8 )
+	rom ( name phoenix.46 size 2048 crc dbc942fa )
+	rom ( name phoenix.47 size 2048 crc cbbb8839 )
+	rom ( name phoenix.48 size 2048 crc cb65eff8 )
+	rom ( name phoenix.49 size 2048 crc c8a5d6d6 )
+	rom ( name phoenix.50 size 2048 crc ac5e9ec1 )
+	rom ( name phoenix.51 size 2048 crc 2eab35b4 )
+	rom ( name phoenix.52 size 2048 crc b9915263 )
+	rom ( name phoenix.23 size 2048 crc 3c7e623f )
+	rom ( name phoenix.24 size 2048 crc 59916d3b )
+	rom ( name phoenix.39 size 2048 crc 53413e8f )
+	rom ( name phoenix.40 size 2048 crc 0be2ba91 )
+)
+
+game (
+	name pleiades
+	description "Pleiads (Centuri)"
+	year 1981
+	manufacturer "Tehkan (Centuri license)"
+	rom ( name pleiades.47 size 2048 crc 711e2ba0 )
+	rom ( name pleiades.48 size 2048 crc 93a36943 )
+	rom ( name pleiades.49 size 2048 crc 87e700bb )
+	rom ( name pleiades.50 size 2048 crc 5a9beba0 )
+	rom ( name pleiades.51 size 2048 crc 1d828719 )
+	rom ( name pleiades.52 size 2048 crc f1a8a00d )
+	rom ( name pleiades.53 size 2048 crc 037b319c )
+	rom ( name pleiades.54 size 2048 crc ca264c7c )
+	rom ( name pleiades.45 size 2048 crc 8dbd3785 )
+	rom ( name pleiades.44 size 2048 crc 0db3e436 )
+	rom ( name pleiades.27 size 2048 crc 85866607 )
+	rom ( name pleiades.26 size 2048 crc a841d511 )
+)
+
+game (
+	name pengo
+	description "Pengo (Not Encrypted)"
+	year 1982
+	manufacturer "Sega"
+	rom ( name pengo.u8 size 4096 crc 3dfeb20e )
+	rom ( name pengo.u7 size 4096 crc 1db341bd )
+	rom ( name pengo.u15 size 4096 crc 7c2842d5 )
+	rom ( name pengo.u14 size 4096 crc 6e3c1f2f )
+	rom ( name pengo.u21 size 4096 crc 95f354ff )
+	rom ( name pengo.u20 size 4096 crc 0fdb04b8 )
+	rom ( name pengo.u32 size 4096 crc e5920728 )
+	rom ( name pengo.u31 size 4096 crc 13de47ed )
+	rom ( name pengo.u92 size 8192 crc d7eec6cd )
+	rom ( name pengo.105 size 8192 crc 5bfd26e9 )
+)
+
+game (
+	name pacman
+	description "Pac-Man (Midway)"
+	year 1980
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacman.6e size 4096 crc c1e6ab10 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb )
+	rom ( name pacman.6j size 4096 crc 817d94e3 )
+	rom ( name pacman.5e size 4096 crc 0c944964 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 )
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+	rom ( name boot1 size 4096 crc d16b31b7 )
+	rom ( name boot2 size 4096 crc 0d32de5e )
+	rom ( name boot3 size 4096 crc 1821ee0b )
+	rom ( name boot4 size 4096 crc 165a9dd8 )
+	rom ( name boot5 size 4096 crc 8c3e6de6 )
+	rom ( name boot6 size 4096 crc 368cb165 )
+	rom ( name 5e size 4096 crc 5c281d01 )
+	rom ( name 5f size 4096 crc 615af909 )
+)
+
+game (
+	name puckman
+	description "New Puck-X"
+	year 1980
+	manufacturer "hack"
+	rom ( name puckman.6e size 4096 crc a8ae23c5 )
+	rom ( name puckman.6f size 4096 crc 1a6fb2d4 )
+	rom ( name puckman.6h size 4096 crc 197443f8 )
+	rom ( name puckman.6j size 4096 crc 2e64a3ba )
+	rom ( name puckman.5e size 4096 crc 0c944964 )
+	rom ( name puckman.5f size 4096 crc 958fedf9 )
+)
+
+game (
+	name hanglyman
+	description "Hangly-Man"
+	year 1981
+	manufacturer "hack"
+	rom ( name hangly.6e size 4096 crc 5fe8610a )
+	rom ( name hangly.6f size 4096 crc 73726586 )
+	rom ( name hangly.6h size 4096 crc 4e7ef99f )
+	rom ( name hangly.6j size 4096 crc 7f4147e6 )
+	rom ( name hangly.5e size 4096 crc 0c944964 )
+	rom ( name hangly.5f size 4096 crc 958fedf9 )
+)
+
+game (
+	name sinvaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 )
+	rom ( name invaders.g size 2048 crc 6bfaca4a )
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+	rom ( name invaders.e size 2048 crc 14e538b0 )
+)
+
+game (
+	name sinvdelx
+	description "Space Invaders Deluxe"
+	year 1980
+	manufacturer "Midway"
+	rom ( name invdelux.h size 2048 crc e690818f )
+	rom ( name invdelux.g size 2048 crc 4268c12d )
+	rom ( name invdelux.f size 2048 crc f4aa1880 )
+	rom ( name invdelux.e size 2048 crc 408849c1 )
+	rom ( name invdelux.d size 2048 crc e8d5afcd )
+)
+
+game (
+	name lunarrescue
+	description "Lunar Rescue"
+	year 1979
+	manufacturer "Taito"
+	rom ( name lrescue.1 size 2048 crc 2bbc4778 )
+	rom ( name lrescue.2 size 2048 crc 49e79706 )
+	rom ( name lrescue.3 size 2048 crc 1ac969be )
+	rom ( name lrescue.4 size 2048 crc 782fee3c )
+	rom ( name lrescue.5 size 2048 crc 58fde8bc )
+	rom ( name lrescue.6 size 2048 crc bfb0f65d )
+)
+
+game (
+	name ladybug
+	description "Lady Bug"
+	year 1981
+	manufacturer "Universal"
+	rom ( name lb1.cpu size 4096 crc d09e0adb )
+	rom ( name lb2.cpu size 4096 crc 88bc4a0a )
+	rom ( name lb3.cpu size 4096 crc 53e9efce )
+	rom ( name lb4.cpu size 4096 crc ffc424d7 )
+	rom ( name lb5.cpu size 4096 crc ad6af809 )
+	rom ( name lb6.cpu size 4096 crc cf1acca4 )
+	rom ( name lb9.vid size 4096 crc 77b1da1e )
+	rom ( name lb10.vid size 4096 crc aa82e00b )
+	rom ( name lb8.cpu size 4096 crc 8b99910b )
+	rom ( name lb7.cpu size 4096 crc 86a5b448 )
+)
+
+game (
+	name dkong
+	description "Donkey Kong (US)"
+	year 1981
+	manufacturer "Nintendo of America"
+	rom ( name dk.5e size 4096 crc ba70b88b )
+	rom ( name dk.5c size 4096 crc 5ec461ec )
+	rom ( name dk.5b size 4096 crc 1c97d324 )
+	rom ( name dk.5a size 4096 crc b9005ac0 )
+	rom ( name dk.3h size 2048 crc 45a4ed06 )
+	rom ( name dk.3f size 2048 crc 4743fe92 )
+	rom ( name dk.3n size 2048 crc 12c8c95d )
+	rom ( name dk.3p size 2048 crc 15e9c5e9 )
+	rom ( name dk.7c size 2048 crc 59f8054d )
+	rom ( name dk.7d size 2048 crc 672e4714 )
+	rom ( name dk.7e size 2048 crc feaa59ee )
+	rom ( name dk.7f size 2048 crc 20f2ef7e )
+)
+
+game (
+	name dkongjr
+	description "Donkey Kong Junior (US)"
+	year 1982
+	manufacturer "Nintendo of America"
+	rom ( name dkj.5b size 8192 crc dea28158 )
+	rom ( name dkj.5c size 8192 crc 6fb5faf6 )
+	rom ( name dkj.5e size 8192 crc d042b6a8 )
+	rom ( name dkj.3h size 4096 crc 715da5f8 )
+	rom ( name dkj.3n size 4096 crc 8d51aca9 )
+	rom ( name dkj.3p size 4096 crc 4ef64ba5 )
+	rom ( name dkj.7c size 2048 crc dc7f4164 )
+	rom ( name dkj.7d size 2048 crc 0ce7dcf6 )
+	rom ( name dkj.7e size 2048 crc 24d1ff17 )
+	rom ( name dkj.7f size 2048 crc 0f8c083f )
+)
+
+game (
+	name mooncresta
+	description "Moon Cresta"
+	year 1980
+	manufacturer "Gremlin"
+	rom ( name epr194 size 2048 crc 0e5582b1 )
+	rom ( name epr195 size 2048 crc 12cb201b )
+	rom ( name epr196 size 2048 crc 18255614 )
+	rom ( name epr197 size 2048 crc 05ac1466 )
+	rom ( name epr198 size 2048 crc c28a2e8f )
+	rom ( name epr199 size 2048 crc 5a4571de )
+	rom ( name epr200 size 2048 crc b7c85bf1 )
+	rom ( name epr201 size 2048 crc 2caba07f )
+	rom ( name epr203 size 2048 crc be26b561 )
+	rom ( name epr172 size 2048 crc 13932a15 )
+	rom ( name epr202 size 2048 crc 26c7e800 )
+	rom ( name epr171 size 2048 crc 24cfd145 )
+)
+
+game (
+	name galaxian
+	description "Galaxian (Midway)"
+	year 1979
+	manufacturer "[Namco] (Midway license)"
+	rom ( name galaxian.u size 2048 crc 745e2d61 )
+	rom ( name galaxian.v size 2048 crc 9c999a40 )
+	rom ( name galaxian.w size 2048 crc b5894925 )
+	rom ( name galaxian.y size 2048 crc 6b3ca10b )
+	rom ( name galaxian.z size 2048 crc cb24f797 )
+	rom ( name galaxian.1j size 2048 crc 84decf98 )
+	rom ( name galaxian.1k size 2048 crc c31ada9e )
+)
+
+game (
+	name asteroid
+	description "Asteroids"
+	year 1979
+	manufacturer "Atari"
+	rom ( name 035127.02 size 2048 crc 8b71fd9e )
+	rom ( name 035143.02 size 2048 crc 312caa02 )
+	rom ( name 035144.02 size 2048 crc 096ed35c )
+	rom ( name 035145.02 size 2048 crc 0cc75459 )
+)
+
+game (
+	name ripoff
+	description "Ripoff"
+	year 1979
+	manufacturer "Cinematronics"
+	rom ( name ripoff.p7 size 2048 crc a9208afb )
+	rom ( name ripoff.r7 size 2048 crc 150bd4c8 )
+	rom ( name ripoff.t7 size 2048 crc 40c2c5b8 )
+	rom ( name ripoff.u7 size 2048 crc 29c13701 )
+)
+
+game (
+	name starcas
+	description "Star Castle"
+	year 1980
+	manufacturer "Cinematronics"
+	rom ( name starcast.p7 size 2048 crc d8f58d9a )
+	rom ( name starcast.r7 size 2048 crc 9fd3de54 )
+	rom ( name starcast.t7 size 2048 crc 65d0a225 )
+	rom ( name starcast.u7 size 2048 crc d4f35b82 )
+)

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="javanx">
+	<name>Javanx</name>
+	<email>javanx@supereva.it</email>
+	<emulator_links>
+		<emulator_link id="invemu_linux" type="linux">&emulator_invemu_linux;</emulator_link>
+	</emulator_links>
+</author>

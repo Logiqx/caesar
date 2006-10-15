@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="daphne_mac" type="mac" dat="dummy">
+	<name>Daphne (Mac)</name>
+	<version>0.99.7</version>
+	<date>24/09/2005</date>
+
+	<homepage>http://www.daphne-emu.com/</homepage>
+	<homepage>http://daphne.rulecity.com</homepage>
+	<author_link id="matt_ownby">&author_matt_ownby;</author_link>
+
+	<emulates>Dragon's Lair, Space Ace and other laserdisc games.</emulates>
+	<comment>Mac port of Daphne. Requires a laserdisc player and the game laserdisc or an MPEG version of the video footage.</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<platform>Mac</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="daphne-0.99.7-macosx.tar.gz">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

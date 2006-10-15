@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="dorun" type="single" dat="Mr._Do!_Run_Run_v1.2">
+	<name>Mr. Do! Run Run Emulator</name>
+	<version>1.2</version>
+	<date>13/10/1996</date>
+
+	<homepage status="bad">http://www.arrakis.es/~jepalza</homepage>
+	<author_link id="joseba_epalza">&author_joseba_epalza;</author_link>
+
+	<emulates>Mr. Do! Run Run (Universal)</emulates>
+	<comment>One of many single emulators by the Spanish programmer</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="ms" type="compilers">&tool_ms;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="dorun12.zip">Emulator</file>
+	</files>
+</emulator>

@@ -1,0 +1,41 @@
+game (
+	name rallyx
+	description "Rally X"
+	year 1980
+	manufacturer "Namco"
+)
+
+game (
+	name nrallyx
+	description "New Rally X"
+	year 1981
+	manufacturer "Namco"
+)
+
+game (
+	name phozon
+	description "Phozon"
+	year 1983
+	manufacturer "Namco"
+)
+
+game (
+	name todruaga
+	description "Tower of Druaga (set 1)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name tankbatt
+	description "Tank Battalion"
+	year 1980
+	manufacturer "Namco"
+)
+
+game (
+	name grobda
+	description "Grobda (New version)"
+	year 1984
+	manufacturer "Namco"
+)

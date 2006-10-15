@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="andy_milne">
+	<name>Andy Milne</name>
+	<email>andy@canetics.com</email>
+	<contribution_links>
+		<emulator_link id="crazy_climber" type="single">&emulator_crazy_climber;</emulator_link>
+	</contribution_links>
+</author>

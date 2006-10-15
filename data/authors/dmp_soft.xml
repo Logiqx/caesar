@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="dmp_soft">
+	<name>DMP SOFT</name>
+	<emulator_links>
+		<emulator_link id="hoot" type="sound">&emulator_hoot;</emulator_link>
+	</emulator_links>
+</author>

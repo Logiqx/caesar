@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="mingw" type="compilers">
+	<name>MinGW</name>
+	<version>3.4.2</version>
+	<date>13/01/2005</date>
+
+	<homepage>http://sourceforge.net/projects/mingw/</homepage>
+	<author_link id="mingw">&author_mingw;</author_link>
+
+	<comment>Port of GNU C/C++ compiler for Windows</comment>
+
+	<emulator_links>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="gxp" type="sound">&emulator_gxp;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="sega_system_24_emulator" type="multi">&emulator_sega_system_24_emulator;</emulator_link>
+		<emulator_link id="snamew" type="multi">&emulator_snamew;</emulator_link>
+		<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="gcc-core-3.4.2-20040916-1.tar.gz">GCC</file>
+		<file name="binutils-2.15.91-20040904-1.tar.gz">binutils</file>
+		<file name="mingw-runtime-3.9.tar.gz">MinGW Runtime</file>
+		<file name="w32api-3.6.tar.gz">Windows API</file>
+		<file name="gdb-5.2.1-1.exe">GDB (GNU Debugger)</file>
+		<file name="MSYS-1.0.10.exe">MSYS 1.0.10</file>
+		<file name="dx70_mgw.zip">DirectX 7.0 libraries and headers</file>
+		<file name="upx125w.zip">UPX 1.25 for Windows (useful for compacting executables)</file>
+	</files>
+</tool>

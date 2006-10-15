@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="marat_fayzullin">
+	<name>Marat Fayzullin (FMS)</name>
+	<email>fms@cs.umd.edu</email>
+	<cpu_links>
+		<library_link id="m6502" type="cpu">&library_m6502;</library_link>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+</author>

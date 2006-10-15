@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="gary_shepherdson">
+	<name>Gary Shepherdson</name>
+	<email>od67@dial.pipex.com</email>
+	<emulator_links>
+		<emulator_link id="kong" type="multi">&emulator_kong;</emulator_link>
+	</emulator_links>
+</author>

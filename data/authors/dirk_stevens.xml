@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="dirk_stevens">
+	<name>Dirk Stevens</name>
+	<email>dstevens@retrofx.com</email>
+	<emulator_links>
+		<emulator_link id="retrofx_gng" type="single">&emulator_retrofx_gng;</emulator_link>
+	</emulator_links>
+	<tool_links>
+		<tool_link id="eagle" type="gfx_libs">&tool_eagle;</tool_link>
+		<tool_link id="retrofx" type="gfx_libs">&tool_retrofx;</tool_link>
+	</tool_links>
+</author>

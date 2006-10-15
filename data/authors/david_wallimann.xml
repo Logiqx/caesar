@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="david_wallimann">
+	<name>David Wallimann</name>
+	<email>david@ganksoft.com</email>
+	<contribution_links>
+		<emulator_link id="dreampac" type="dreamcast">&emulator_dreampac;</emulator_link>
+	</contribution_links>
+</author>

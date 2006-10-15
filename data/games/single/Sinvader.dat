@@ -1,0 +1,19 @@
+clrmamepro (
+	name Sinvader
+	description "Sinvader"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 sha1 ff6200af4c9110d8181249cbcef1a8a40fa40b7f )
+	rom ( name invaders.g size 2048 crc 6bfaca4a sha1 16f48649b531bdef8c2d1446c429b5f414524350 )
+	rom ( name invaders.f size 2048 crc 0ccead96 sha1 537aef03468f63c5b9e11dd61e253f7ae17d9743 )
+	rom ( name invaders.e size 2048 crc 14e538b0 sha1 1d6ca0c99f9df71e2990b610deb9d7da0125e2d8 )
+)
+

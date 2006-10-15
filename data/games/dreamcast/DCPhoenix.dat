@@ -1,0 +1,37 @@
+game (
+	name phoenix
+	description "Phoenix (Amstar)"
+	year 1980
+	manufacturer "Amstar"
+	rom ( name ic45 size 2048 crc 9f68086b )
+	rom ( name ic46 size 2048 crc 273a4a82 )
+	rom ( name ic47 size 2048 crc 3d4284b9 )
+	rom ( name ic48 size 2048 crc cb5d9915 )
+	rom ( name ic49 size 2048 crc a105e4e7 )
+	rom ( name ic50 size 2048 crc ac5e9ec1 )
+	rom ( name ic51 size 2048 crc 2eab35b4 )
+	rom ( name ic52 size 2048 crc aff8e9c5 )
+	rom ( name ic23 size 2048 crc 3c7e623f )
+	rom ( name ic24 size 2048 crc 59916d3b )
+	rom ( name ic39 size 2048 crc 53413e8f )
+	rom ( name ic40 size 2048 crc 0be2ba91 )
+)
+
+game (
+	name pleiads
+	description "Pleiads (Centuri)"
+	year 1981
+	manufacturer "Tehkan (Centuri license)"
+	rom ( name pleaides.26 size 2048 crc a841d511 )
+	rom ( name pleaides.27 size 2048 crc 85866607 )
+	rom ( name pleaides.44 size 2048 crc 0db3e436 )
+	rom ( name pleaides.45 size 2048 crc 8dbd3785 )
+	rom ( name pleaides.47 size 2048 crc 711e2ba0 )
+	rom ( name pleaides.48 size 2048 crc 93a36943 )
+	rom ( name pleaides.49 size 2048 crc 87e700bb )
+	rom ( name pleaides.50 size 2048 crc 5a9beba0 )
+	rom ( name pleaides.51 size 2048 crc 1d828719 )
+	rom ( name pleaides.52 size 2048 crc f1a8a00d )
+	rom ( name pleaides.53 size 2048 crc 037b319c )
+	rom ( name pleaides.54 size 2048 crc ca264c7c )
+)

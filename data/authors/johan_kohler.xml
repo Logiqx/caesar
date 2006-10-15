@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="johan_kohler">
+	<name>J&amp;ouml;han Kohler</name>
+	<email>drac@netg.se</email>
+	<email>neogeo@c64.org</email>
+	<emulator_links>
+		<emulator_link id="gekko" type="single">&emulator_gekko;</emulator_link>
+		<emulator_link id="nemesis" type="single">&emulator_nemesis;</emulator_link>
+		<emulator_link id="salamander" type="single">&emulator_salamander;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
+	</contribution_links>
+</author>

@@ -1,0 +1,46 @@
+game (
+	name pacmanm
+	description "Pac-Man (Midway)"
+	year 1980
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacman.6e size 4096 crc c1e6ab10 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb )
+	rom ( name pacman.6j size 4096 crc 817d94e3 )
+	rom ( name pacman.5e size 4096 crc 0c944964 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 )
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+	rom ( name boot1 size 4096 crc d16b31b7 )
+	rom ( name boot2 size 4096 crc 0d32de5e )
+	rom ( name boot3 size 4096 crc 1821ee0b )
+	rom ( name boot4 size 4096 crc 165a9dd8 )
+	rom ( name boot5 size 4096 crc 8c3e6de6 )
+	rom ( name boot6 size 4096 crc 368cb165 )
+	rom ( name 5e size 4096 crc 5c281d01 )
+	rom ( name 5f size 4096 crc 615af909 )
+)
+
+game (
+	name crush2
+	description "Crush Roller (Kural Esco - bootleg?)"
+	year 1981
+	manufacturer "Kural Esco Electric"
+	rom ( name tp1 size 2048 crc f276592e )
+	rom ( name tp5a size 2048 crc 3d302abe )
+	rom ( name tp2 size 2048 crc 25f42e70 )
+	rom ( name tp6 size 2048 crc 98279cbe )
+	rom ( name tp3 size 2048 crc 8377b4cb )
+	rom ( name tp7 size 2048 crc d8e76c8c )
+	rom ( name tp4 size 2048 crc 90b28fa3 )
+	rom ( name tp8 size 2048 crc 10854e1b )
+	rom ( name tpa size 2048 crc c7617198 )
+	rom ( name tpc size 2048 crc e129d76a )
+	rom ( name tpb size 2048 crc d1899f05 )
+	rom ( name tpd size 2048 crc d35d1caf )
+)

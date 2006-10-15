@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="junofirst" type="multi" dat="Juno_First_v1.23">
+	<name>Juno First</name>
+	<version>1.23</version>
+	<date>12/02/1998</date>
+
+	<homepage>http://www.junofirst.freeserve.co.uk/</homepage>
+	<author_link id="chris_hardy">&author_chris_hardy;</author_link>
+
+	<emulates>Some old games and newer games (like R-Type)</emulates>
+	<comment>Uses samples for sound. All games are in MAME but RAGE is faster for these games.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="juno123.zip">Emulator</file>
+		<file name="juno.zip">Juno First Samples</file>
+		<file name="loht.zip">Legend of Hero Tonma Samples</file>
+		<file name="rtype2.zip">R-Type II Samples</file>
+		<file name="tutankhm.zip">Tutankham Samples</file>
+	</files>
+</emulator>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="sledgehammer">
+	<name>Anonymous</name>
+	<emulator_links>
+		<emulator_link id="sledgehammer" type="multi">&emulator_sledgehammer;</emulator_link>
+	</emulator_links>
+</author>

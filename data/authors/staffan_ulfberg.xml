@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="staffan_ulfberg">
+	<name>Staffan Ulfberg</name>
+	<email>staffan@ulfberg.se</email>
+	<emulator_links>
+		<emulator_link id="e2mame" type="symbian">&emulator_e2mame;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="ralph_kummlingen">
+	<name>Ralph Kummlingen</name>
+	<email>ub2f@rz.uni-karlsruhe.de</email>
+	<contribution_links>
+		<emulator_link id="phoenixarcade" type="single">&emulator_phoenixarcade;</emulator_link>
+	</contribution_links>
+</author>

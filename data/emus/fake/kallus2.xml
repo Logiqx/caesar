@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="kallus2" type="fake" dat="empty">
+	<name>Kallus 2</name>
+	<version>0.065 (Preliminary)</version>
+	<date>24/02/1999</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="jakesh">&author_jakesh;</author_link>
+
+	<emulates>Claims to emulate CPS2</emulates>
+	<comment>Don't even bother downloading it. Lord knows why I uploaded it!</comment>
+	<status>Discontinued</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Nos</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="kallus2a.zip">Emulator (that does nothing)</file>
+	</files>
+</emulator>

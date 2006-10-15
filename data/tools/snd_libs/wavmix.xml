@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="wavmix" type="snd_libs">
+	<name>WavMix</name>
+	<version>1.80</version>
+	<date>31/08/1999</date>
+
+	<homepage>http://www.compuphase.com/wavemix.htm</homepage>
+	<author_link id="microsoft">&author_microsoft;</author_link>
+
+	<comment>Wave mixer for Windows (pre DirectSound).</comment>
+
+	<emulator_links>
+		<emulator_link id="winvader" type="multi">&emulator_winvader;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="wavemix180.zip">WavMix 1.80</file>
+		<file name="mixcfg-bin.zip">Configuration Tool</file>
+	</files>
+</tool>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="tinyemu" type="single" dat="TinyEmu">
+	<name>TinyEmu</name>
+	<version>-</version>
+	<date>20/01/2002</date>
+
+	<homepage>http://www.tinywindowsgames.com</homepage>
+	<author_link id="dynofoo">&author_dynofoo;</author_link>
+
+	<emulates>A handful of arcade classics</emulates>
+	<comment>A variety of single emus for well known classics. These games all run in a tiny window so that your boss doesn't notice!</comment>
+	<status>Discontinued</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="tinydkong.zip">Donkey Kong</file>
+		<file name="tinyfrogger.zip">Frogger</file>
+		<file name="tinymariobros.zip">Mario Bros</file>
+		<file name="tinypacman.zip">Pacman</file>
+		<file name="tinypengo.zip">Pengo</file>
+	</files>
+</emulator>

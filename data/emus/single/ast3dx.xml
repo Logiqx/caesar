@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="ast3dx" type="single" dat="Ast3DX_v1.0">
+	<name>Ast3DX</name>
+	<version>1.0</version>
+	<date>28/04/2000</date>
+
+	<homepage>http://web.utanet.at/nkehrer/</homepage>
+	<author_link id="norbert_kehrer">&author_norbert_kehrer;</author_link>
+
+	<emulates>Atari Asteroids with 3d graphics and new sound</emulates>
+	<comment>Emulates Asteroids but displays it in first person perspective. This makes for challenging play but is pretty cool!</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="ast3dx.zip">Emulator</file>
+	</files>
+</emulator>

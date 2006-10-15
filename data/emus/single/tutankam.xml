@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="tutankam" type="single" dat="Tutankam_Emulator_v0.02b">
+	<name>Tutankham Arcade Machine Emulator</name>
+	<version>0.02b</version>
+	<date>19/06/1997</date>
+
+	<homepage>http://home5.swipnet.se/~w-50884/emulator/emulator.htm</homepage>
+	<author_link id="janne_korpela">&author_janne_korpela;</author_link>
+
+	<emulates>Tutanhkaman (Stern)</emulates>
+	<comment>Janne's first ever emulator</comment>
+	<status>Dormant</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="tem002b.zip">Emulator</file>
+	</files>
+</emulator>

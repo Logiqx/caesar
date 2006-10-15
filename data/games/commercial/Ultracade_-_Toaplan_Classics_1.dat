@@ -1,0 +1,41 @@
+game (
+	name truxton2
+	description "Truxton II / Tatsujin II / Tatsujin Oh (Japan)"
+	year 1992
+	manufacturer "Toaplan"
+)
+
+game (
+	name hellfire
+	description "Hellfire"
+	year 1989
+	manufacturer "Toaplan (Taito license)"
+)
+
+game (
+	name zerowing
+	description "Zero Wing"
+	year 1989
+	manufacturer "Toaplan"
+)
+
+game (
+	name demonwld
+	description "Demon's World / Horror Story"
+	year 1989
+	manufacturer "Toaplan (Taito license)"
+)
+
+game (
+	name outzone
+	description "Out Zone (set 1)"
+	year 1990
+	manufacturer "Toaplan"
+)
+
+game (
+	name snowbros
+	description "Snow Bros. - Nick & Tom (set 1)"
+	year 1990
+	manufacturer "Toaplan (Romstar license)"
+)

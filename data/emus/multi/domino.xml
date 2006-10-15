@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="domino" type="multi" dat="empty">
+	<name>Domino</name>
+	<version>0.10</version>
+	<date>29/04/2001</date>
+
+	<homepage>http://domino.emuunlim.com/</homepage>
+	<author_link id="fixxer">&author_fixxer;</author_link>
+
+	<emulates>Games that run on Pacman hardware.</emulates>
+	<comment>Uses Larry Bank's Z80 emulation library. At this moment in time I have not included a game list as it is difficult to work out exactly which ROMs it requires.</comment>
+	<status>Discontinued</status>
+
+	<tool_links>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes?</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="domino010.zip">Emulator</file>
+	</files>
+</emulator>

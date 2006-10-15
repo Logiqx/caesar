@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="david_caldwell">
+	<name>David Caldwell</name>
+	<email>david_caldwell@indigita.com</email>
+	<emulator_links>
+		<emulator_link id="macmultipac" type="mac">&emulator_macmultipac;</emulator_link>
+	</emulator_links>
+</author>

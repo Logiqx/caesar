@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mge" type="multi" dat="MGE_v0.471">
+	<name>MGE (Multi Gauntlet Emulator)</name>
+	<version>0.471</version>
+	<date>10/09/1997</date>
+
+	<homepage>http://lfx.org/~corlett/</homepage>
+	<author_link id="neill_corlett">&author_neill_corlett;</author_link>
+
+	<emulates>Gauntlet and Gauntlet 2</emulates>
+	<comment>Neil's Starscream 68000 emulator (used by MGE) is also used by many other emulators</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="mge0471.zip">Emulator</file>
+	</files>
+</emulator>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="david_mcewan">
+	<name>David McEwen</name>
+	<email>david@acornemus.freeserve.co.uk</email>
+	<email>davidm@argonaut.com</email>
+	<emulator_links>
+		<emulator_link id="rcps" type="arm">&emulator_rcps;</emulator_link>
+	</emulator_links>
+</author>

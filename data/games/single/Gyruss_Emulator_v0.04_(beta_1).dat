@@ -1,0 +1,26 @@
+clrmamepro (
+	name Gyruss
+	description "Gyruss Emulator v0.04 (beta 1)"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name gyrussce
+	description "Gyruss (Centuri)"
+	year 1983
+	manufacturer "Konami (Centuri license)"
+	rom ( name gy-5.bin size 8192 crc 822bf27e sha1 36d5bea2392a7d3476dd797dc05602705cfa23ef )
+	rom ( name gy-6.bin size 8192 crc 27d8329b sha1 564ff945465a23d93a93137ad277298770dfa06a )
+	rom ( name gy-7.bin size 8192 crc 8e8d388c sha1 8f2928d71c02aba977d67575d6e34d69bda2b9d4 )
+	rom ( name gy-8.bin size 8192 crc 47cd1fbc sha1 8203c4ff0b1cd7b4dbc708e300bfeac1e7366e09 )
+	rom ( name gy-9.bin size 8192 crc 4f22411a sha1 763bcd039f8c1838a0d7da7d4dadc14a26e25596 )
+	rom ( name gy-10.bin size 8192 crc c949db10 sha1 fcb8bcbd2bdd751fecb322a33c8a92fb6f07a7ab )
+	rom ( name gy-11.bin size 8192 crc f4ae1c17 sha1 ae568c96a31d910afe30d2b7eeb9ed1ed07290e3 )
+	rom ( name gy-12.bin size 8192 crc ba498115 sha1 9cd1f42898cc590f39ba7cb3c975b0b3d3062eba )
+	rom ( name gya-1.bin size 8192 crc 85f8b7c2 sha1 5dde696b53efedee671d500feae1d314e95b1c96 )
+	rom ( name gya-2.bin size 8192 crc 1e1a970f sha1 5a2e391489608f7571bbb4f85549a79795e2177e )
+	rom ( name gya-3.bin size 8192 crc f6dbb33b sha1 19cab8e7f2f2358b6271ab402f132654e8be95d4 )
+)
+

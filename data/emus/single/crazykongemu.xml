@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="crazykongemu" type="single" dat="Crazy_Kong_Emu_Rev_961020">
+	<name>Crazy Kong Emu</name>
+	<version>961020</version>
+	<date>20/10/1996</date>
+
+	<homepage status="bad">http://www.rocknet.net.au/~moose/</homepage>
+	<author_link id="ville_laitinen">&author_ville_laitinen;</author_link>
+
+	<emulates>Crazy Kong (Jeutel)</emulates>
+	<comment>Bad colours and no sound</comment>
+	<status>Discontinued</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="ckemu03.zip">Emulator</file>
+	</files>
+</emulator>

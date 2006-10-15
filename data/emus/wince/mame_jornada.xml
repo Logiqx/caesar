@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mame_jornada" type="wince" dat="dummy">
+	<name>MAME for Jornada 720</name>
+	<version>3</version>
+	<date>16/07/2001</date>
+
+	<homepage>http://www.johnlomax.com/720.htm</homepage>
+	<author_link id="kevin_ng">&author_kevin_ng;</author_link>
+	<author_link id="john_lomax">&author_john_lomax;</author_link>
+
+	<emulates>Emulates a subset of MAME games</emulates>
+	<comment>A Jornada 720 port of M.A.M.E based on the original source from Gandalf. An ARM version is available but there is no SH3 version (yet).</comment>
+	<status>Dormant</status>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Buttons</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		</port_of>
+		<modification_of>
+			<emulator_link id="imame_ipaq" type="wince">&emulator_imame_ipaq;</emulator_link>
+		</modification_of>
+	</relatives>	
+</emulator>

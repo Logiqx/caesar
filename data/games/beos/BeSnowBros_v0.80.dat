@@ -1,0 +1,13 @@
+game (
+	name snowbroa
+	description "Snow Bros. - Nick & Tom (set 2)"
+	year 1990
+	manufacturer "Toaplan (Romstar license)"
+	rom ( name SNOWBROS.4 size 32768 crc e6eab4e4 )
+	rom ( name CH1 size 131072 crc 76347256 )
+	rom ( name CH2 size 131072 crc fdaa634c )
+	rom ( name CH3 size 131072 crc 34024aef )
+	rom ( name SNOWBROS.2A size 131072 crc ab91cc1e )
+	rom ( name SNOWBROS.3A size 131072 crc 10cb37e1 )
+	rom ( name CH0 size 131072 crc 36d84dfe )
+)

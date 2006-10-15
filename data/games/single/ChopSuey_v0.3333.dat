@@ -1,0 +1,28 @@
+clrmamepro (
+	name ChopSuey
+	description "ChopSuey v0.3333"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name chplftb
+	description "Choplifter (alternate)"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 7152.bin size 32768 crc fe49d83e sha1 307be38dd73ed37b275c1b464d266a752cb06132 )
+	rom ( name 7153.bin size 32768 crc 48697666 sha1 0f4c6db9558272f5ceb347e742b284474f18b707 )
+	rom ( name 7154.bin size 32768 crc 56d6222a sha1 ad8ccf15fe7f1d6716f78490892da0167d79f678 )
+	rom ( name 7127.bin size 32768 crc 1e708f6d sha1 b975e13bdc44105e7a15c2694e3ec53b60e23e5e )
+	rom ( name 7128.bin size 32768 crc b922e787 sha1 16087671ec7de25f749b5fd66409d48ef7b35820 )
+	rom ( name 7129.bin size 32768 crc bd3b6e6e sha1 c66f21b98cb8fc61a9318041ac1812c13099d974 )
+	rom ( name 7121.bin size 32768 crc f2b88f73 sha1 2b06da1beabbea82d502fbe12f6ec3ef26056edd )
+	rom ( name 7120.bin size 32768 crc 517d7fd3 sha1 3fb5c00224920c3f62fb86e82caf0fee2293e1e2 )
+	rom ( name 7123.bin size 32768 crc 8f16a303 sha1 5f2465505f001dc052e9de4cf66bc1d53fc8c7da )
+	rom ( name 7122.bin size 32768 crc 7c93f160 sha1 6ab156cad7556808496070f8b02a708ce405c492 )
+	rom ( name pr7119.bpr size 256 crc b2a8260f sha1 36c1debb4b3f2f190a25b18d533319d7380416de )
+	rom ( name pr7118.bpr size 256 crc 693e20c7 sha1 9ebf4bd2c30ddd9648bc4b41c7739cfdf80100da )
+	rom ( name pr7117.bpr size 256 crc 4124307e sha1 cee28d891e6ce732c43a61acb5beeafd2200cf37 )
+)
+

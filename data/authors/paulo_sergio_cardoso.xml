@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="paulo_sergio_cardoso">
+	<name>Paulo Sergio Cardoso</name>
+	<email>pscardoso@lme.usp.br</email>
+	<emulator_links>
+		<emulator_link id="pasmulator" type="multi">&emulator_pasmulator;</emulator_link>
+	</emulator_links>
+</author>

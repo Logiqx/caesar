@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="replayplus_linux" type="linux" dat="dummy">
+	<name>Replay+ (Linux)</name>
+	<version>1.00</version>
+	<date>23/06/1998</date>
+
+	<homepage>http://www.icomm.ca/replay/</homepage>
+	<author_link id="kevin_brisley">&author_kevin_brisley;</author_link>
+
+	<emulates>Data East, Namco and Konami games from the 80's</emulates>
+	<comment>Rewrite of the original Replay emulator.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>Yes</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="rpbl100.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="starscream" type="cpu">
+	<name>Starscream 680x0 emulation library</name>
+	<version>0.26a</version>
+	<date>22/06/1999</date>
+
+	<homepage>http://lfx.org/~corlett/</homepage>
+	<author_link id="neill_corlett">&author_neill_corlett;</author_link>
+
+	<emulates>M68000 (Motorola)</emulates>
+	<comment>Written in x86 assembler and pretty fast</comment>
+
+	<emulator_links>
+		<emulator_link id="soundsgood" type="sound">&emulator_soundsgood;</emulator_link>
+		<emulator_link id="besnowbros" type="beos">&emulator_besnowbros;</emulator_link>
+		<emulator_link id="boo" type="single">&emulator_boo;</emulator_link>
+		<emulator_link id="calice" type="multi">&emulator_calice;</emulator_link>
+		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
+		<emulator_link id="marblemadness" type="single">&emulator_marblemadness;</emulator_link>
+		<emulator_link id="mge" type="multi">&emulator_mge;</emulator_link>
+		<emulator_link id="neogem" type="multi">&emulator_neogem;</emulator_link>
+		<emulator_link id="neoragex" type="multi">&emulator_neoragex;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		<emulator_link id="sega_c2_linux" type="linux">&emulator_sega_c2_linux;</emulator_link>
+		<emulator_link id="sega_system_16" type="single">&emulator_sega_system_16;</emulator_link>
+		<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+		<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
+		<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
+		<emulator_link id="slutte" type="single">&emulator_slutte;</emulator_link>
+		<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+		<emulator_link id="system16_directx" type="multi2">&emulator_system16_directx;</emulator_link>
+		<emulator_link id="system16_linux" type="linux">&emulator_system16_linux;</emulator_link>
+		<emulator_link id="xdragon" type="multi">&emulator_xdragon;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="star026a.zip">Emulator</file>
+	</files>
+</library>

@@ -1,0 +1,364 @@
+<a name="newsitem996608781,2294,"></a><h2>Tuesday 31 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:46PM [BST]</small>  </th></tr>  <tr><td> Jaydy has posted a big update on changes he is making to JEmu (they should improve performance on lower spec machines hopefully). For the full details and other news (like a new site and releasing the source) visit the <a href="http://dreamwater.net/tech/jemu/">JEmu</a> home page.  </td></tr>  </table></p>
+<a name="newsitem996554607,90543,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler v0.8.3 ported to Mac</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:43AM [BST]</small>  </th></tr>  <tr><td> <a href="http://bannister.org/software/">Richard Bannister</a> has updated Modeler for the Mac to v0.8.3 (now uses his <a href="http://bannister.org/software/blitter.htm">Blitter Library v0.7.0</a>).  There's good stuff for all you Mac users - check out Richard's <a href="http://bannister.org/software/">software page</a> (which also includes MANY console ports) or go directly to his <a href="http://bannister.org/software/modeler.htm">Modeler page</a>.  </td></tr>  </table></p>
+<a name="newsitem996553914,99262,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE v1.2b</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:31AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:friol@tiscalinet.it">Friol</a> has updated his Capcom emulator ACE.  This version fixes problems experienced by people who don't use a 32-bit desktop, and can be found <a href="http://ace.emuunlim.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem996553798,4893,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat v3.25</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:29AM [BST]</small>  </th></tr>  <tr><td> MASH has updated mameinfo.dat to include WIP news and 'Recommended Games', as well as driver writer names to the driver section.  You can get either the diff-update or the full file <a href="http://www.mameworld.net/mameinfo/">here</a>.<br>  </td></tr>  </table></p>
+<a name="newsitem996457600,82306,"></a><h2>Monday 30 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE v1.2a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 2:46AM [BST]</small>  </th></tr>  <tr><td> ACE (Another Capcom Emulator) has been updated, with a big speed increase!  Now you can play all CPS-2 games (even those with rowscrolling, like Street Fighter Alpha) at full framerate with sound.  Just follow <a href="http://ace.emuunlim.com/">this link</a>.  </td></tr>  </table></p>
+<a name="newsitem996457333,4800,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED Technical Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 2:42AM [BST]</small>  </th></tr>  <tr><td> Chances are, if you're following the MAMED for Dreamcast project, you already have <a href="http://digita.mame.net/news.htm">this site</a> bookmarked.  The author has posted a developer's diary of sorts, with both recent fixes and problems.  </td></tr>  </table></p>
+<a name="newsitem996421462,13886,"></a><h2>Sunday 29 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Final Burn v0.123 by Dave!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:44PM [BST]</small>  </th></tr>  <tr><td> Proving that you can't keep a good programmer down, Dave has re-emerged with a new official version of Final Burn:<br><br>- added G-Loc (incomplete)<br>- added Street Fighter Zero 3<br>- added Strider<br>- added Super Puzzle Fighter 2 X<br>- released source code (see <a href="http://www.finalburn.com">www.finalburn.com</a> for details)<br><br>Final Burn (as well as a screenshot-intensive history of Capcom arcade games) is available <a href="http://www.finalburn.com">here</a>.  </td></tr>  </table></p>
+<a name="newsitem996400499,18128,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>News Archives Online</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:54AM [BST]</small>  </th></tr>  <tr><td> I've finally got around to putting the news archives online. They're not quite perfect because the first few months news are from an older news system but at least they're readable! They can be accessed from the menu on the left or by clicking <a href="http://caesar.logiqx.com/news/archive.shtml">here</a>.  </td></tr>  </table></p>
+<a name="newsitem996389028,30687,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Final Burn Alpha v0.126 / Final Burn with Kaillera v0.123 Alpha 2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:43AM [BST]</small>  </th></tr>  <tr><td> And so it begins...since <a href="http://www.finalburn.com/">Dave</a> released the <a href="http://www.finalburn.com/source.htm">Final Burn source code</a>, a number of interesting builds have resulted.  Here are two of them.<br><br>Final Burn Alpha v0.126 has been updated with all of the CPS-2 drivers to be compliant with <a href="http://www.logiqx.com/">Logiqx</a>'s <a href="http://www.logiqx.com/Dats/CPS-2.shtml">CPS-2 20010727 datfile</a>.  You can find the emulation and the amended source code <a href="http://cp-systems2turbo.totalemulation.net/p0001.html?">here</a>.  There are some patched XOR files needed to play certain games.<br><br><a href="mailto:chris@aegis-corp.org">Christophe Thibault</a>, creator of <a href="http://kaillera.com/">Kaillera</a>, has released FinalBurn with Kaillera v0.123 Alpha 2.  You can either grab the file <a href="http://161.58.152.64/kaillera/FinalBurnKaillera084a_a2.zip">here</a> or read the <a href="http://kaillera.com/forums/viewtopic.php?topic=816&forum=2&20">thread</a> from the <a href="http://kaillera.com/forums/">Kaillera forums</a>.  </td></tr>  </table></p>
+<a name="newsitem996388162,2661,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:29AM [BST]</small>  </th></tr>  <tr><td> When it rains, it pours.  Check out the <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page for a bucket of updates.  </td></tr>  </table></p>
+<a name="newsitem996332629,4322,"></a><h2>Saturday 28 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED for Dreamcast News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 4:03PM [BST]</small>  </th></tr>  <tr><td> The <a href="http://digita.mame.net/news.htm">MAMED for Dreamcast</a> home page has posted a little bit of news:<br><br>For those that want to know what games are compatable with MAMED can check out quicksilv's unoffical mamed rom campatability list web site. Also, Hyper Gamer has put together a nice FAQ page to help eveyone get MAMED up and running on their Dreamcast. All self boot MAMED DJ image packs are now available on the downloads page, thanks again to CrJack. For the next release I'll make all the packs on one disk and use HyperGamers menu and hopefully make everyones life a little easier.<br><br>  </td></tr>  </table></p>
+<a name="newsitem996332368,10000,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic doing 68000</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:59PM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has started working on a 68000 core for Mimic. CPS-2 perhaps? Just kidding... he's working on old favorites like Robocop by Data East. Go and have a quick read of the <a href="http://mimic.arcadeheaven.com/">Mimic News</a>.  </td></tr>  </table></p>
+<a name="newsitem996331852,47345,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Japump Dumps</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:50PM [BST]</small>  </th></tr>  <tr><td> Team Japump have announced a few more dumps they've made. You can read what they are at the <a href="http://www.rainemu.com/japump/">Japump</a> home page.  </td></tr>  </table></p>
+<a name="newsitem996123503,11409,"></a><h2>Thursday 26 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>NeoCPS R1.08</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:58AM [BST]</small>  </th></tr>  <tr><td> NeoCPS is a special port of MAME that only emulates NeoGeo and CPS-1/2 games.  The latest version brings it in sync with the most recent MAME beta and adds some recently decrypted CPS-2 games.  There are normal, K6, and i686 builds to enjoy as well - all located <a href="http://neocps.rcroms.com/indexe.html">here</a>.  </td></tr>  </table></p>
+<a name="newsitem996123123,43446,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.14</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:52AM [BST]</small>  </th></tr>  <tr><td> There's a new version of Kawaks out that plays the latest decrypted CPS-2 games AND boasts lots of new goodies.  Check out the news <a href="http://kawaks.retrogames.com/frontpage.htm">here</a> and grab the file <a href="http://kawaks.retrogames.com/downloads.htm">here</a>.  </td></tr>  </table></p>
+<a name="newsitem996004099,14648,"></a><h2>Tuesday 24 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME32</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:48PM [BST]</small>  </th></tr>  <tr><td> The first release of MAME32 since MAMEW was first launched is now available. Go and grab a copy from the <a href="http://www.classicgaming.com/mame32qa/">MAME32 Q/A</a> site now!  </td></tr>  </table></p>
+<a name="newsitem996003827,17506,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:43PM [BST]</small>  </th></tr>  <tr><td> Jaydy has uploaded Capcom's 1942 to his site (man, I remember playing this game for hours at college). There are some minor problems like red planes disappearing and background color issues but he's working on them. He has also fixed the sprite/background allignment problem in Commando.<br><br>Go and play these great games online at the <a href="http://dreamwater.net/tech/jemu/">JEmu</a> home page.  </td></tr>  </table></p>
+<a name="newsitem995954208,70956,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat v3.24</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:56AM [BST]</small>  </th></tr>  <tr><td> MASH has posted a diff-update to convert mameinfo.dat v3.23 to v3.24.  If you're as interested about such things as I am, then <a href="http://www.mameworld.net/mameinfo/">here</a> is where it's at.  </td></tr>  </table></p>
+<a name="newsitem995953937,77726,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Berzerk for JAE</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:52AM [BST]</small>  </th></tr>  <tr><td> JAE, the Java Arcade Emulator, now includes Berzerk!  You can get into it <a href="http://web.utanet.at/nkehrer/jae.html">here</a>.<br>  </td></tr>  </table></p>
+<a name="newsitem995953793,55528,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula  v1.6a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:49AM [BST]</small>  </th></tr>  <tr><td> There's a new Nebula update at the <a href="http://nebula.emulatronia.com/indexe.html">Nebula home page</a>.  This version fixes sound in CPS1 games and some hangs in fast machines.  </td></tr>  </table></p>
+<a name="newsitem995871446,89138,"></a><h2>Monday 23 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME32 News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:57AM [BST]</small>  </th></tr>  <tr><td> Michael has checked back in and brought w/ him a new build that fixes some issues John Hardy IV ran into last time around. John is examining the new build now.<br>  </td></tr>  </table></p>
+<a name="newsitem995867190,49565,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More and Better MAME Icons</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:46AM [BST]</small>  </th></tr>  <tr><td> MAMu_ strikes again!  Not only are there new icons for the latest MAME beta, but hundreds of old icons have been touched up so they look good on a white or black background.  If you're into icons (or you just wanna see a slick Flash site), then <a href="http://www.mameworld.net/icons/">off you go</a>!  </td></tr>  </table></p>
+<a name="newsitem995866903,85332,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Final Burn Source Code Released</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:41AM [BST]</small>  </th></tr>  <tr><td> Dave has kindly released the source code to his fine Capcom emulator, Final Burn.  If you've got the itch to push the envelope of emulation, then <a href="http://www.finalburn.com/source.htm">this</a> is where you be.  </td></tr>  </table></p>
+<a name="newsitem995866743,6628,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>BeOS MAME Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:39AM [BST]</small>  </th></tr>  <tr><td> Yoshi has released another update of MAME for BeOS which fixes more bugs and adds the ability to take screenshots.  Check it out right <a href="http://www.beemulated.net/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995822752,8846,"></a><h2>Sunday 22 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED for Dreamcast News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:25PM [BST]</small>  </th></tr>  <tr><td> It's been busy over at the <a href="http://digita.mame.net/news.htm">MAMED</a> site recently:<br><br>July 22, 2001<br>There are more a self boot MAMED DJ image packs available on the downloads page, special thanks again to CrJack.<br><br>July 21, 2001<br>There is a new self boot kit for MAMED thanks to HyperGamer which allows you to still all the MAMED packs on the same disk, it has a nice menu frontend that you can run without a keyboard. The source code for MAMED for the dreamcast is now also available from the download page.<br>  </td></tr>  </table></p>
+<a name="newsitem995755260,45953,"></a><h2>Saturday 21 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula v1.6</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:41PM [BST]</small>  </th></tr>  <tr><td> There is a new release of Nebula for the Capcom fans to play with. Many changes, but the more noticeable are the new image enhacement modes, more CPS1 games and NETPLAY!!! There is also a new Jukebox version supporting more CPS1 games. Go to read what's new and download it from the <a href="http://nebula.emulatronia.com/indexe.html">Nebula</a> home page.  </td></tr>  </table></p>
+<a name="newsitem995742530,88183,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic v1.08</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:08PM [BST]</small>  </th></tr>  <tr><td> The first 32-bit version of Mimic has been released. Go and get it from Mike's <a href="http://mimic.arcadeheaven.com/index.htm">home page</a>.  </td></tr>  </table></p>
+<a name="newsitem995737418,21298,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Unofficial MAME Hiscore.dat v7.6</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:43PM [BST]</small>  </th></tr>  <tr><td> Another update has been posted by <a href="mailto:leezer@mameworld.net">Leezer</a>, and you can find it and other related goodies <a href="http://www.mameworld.net/highscore/latest.htm">right here</a>.  </td></tr>  </table></p>
+<a name="newsitem995701236,54318,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEDC v0.4</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:40AM [BST]</small>  </th></tr>  <tr><td> MAMEDC has been updated to v0.4.  Extra functionality and more games have been added, and it's all available <a href="http://mamedc.kaillera.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995700828,41563,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED Made Simple</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:33AM [BST]</small>  </th></tr>  <tr><td> A self-boot kit and a bunch of self-boot DiscJuggler image packs translate into easy-to-implement MAME for your Dreamcast.  Where?  <a href="http://digita.mame.net/news.htm">MAMED</a>, of course.  </td></tr>  </table></p>
+<a name="newsitem995700646,54740,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME for XBox?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:30AM [BST]</small>  </th></tr>  <tr><td> You read true - MAME for the XBox console exists.  Too bad Micro$oft won't let the author distribute it to anyone other than registered XBox developers.  Get all the latest at the <a href="http://www.otakunozoku.com/xbox/index.html">Otaku no Zoku</a> page.  </td></tr>  </table></p>
+<a name="newsitem995700329,43765,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>BeOS MAME Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:25AM [BST]</small>  </th></tr>  <tr><td> Yoshi released an updated version of MAME for BeOS which fixes some sound bugs.  Read all about it <a href="http://www.beemulated.net/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995650657,79322,"></a><h2>Friday 20 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Commando goes Java!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:37PM [BST]</small>  </th></tr>  <tr><td> Jaydy has added Commando to JEmu. You can play the classic Capcom game at his <a href="http://www.dreamwater.net/tech/jemu/jemu/CommandoEmu.html">home page</a>.  </td></tr>  </table></p>
+<a name="newsitem995602903,55134,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>BeOS Stuff Galore</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:21AM [BST]</small>  </th></tr>  <tr><td> Hey BeOS users!  Feeling left out of the emulation continuum?  Well, <a href="http://www.beemulated.net/">BeEmulated.net</a> has the solution - the latest MAME (0.37 beta 16) and a recent RAINE (0.31a) have been ported to BeOS, plus scads of other neat stuff.  </td></tr>  </table></p>
+<a name="newsitem995552772,63220,"></a><h2>Thursday 19 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ganksoft DC Tonic</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">soulcalibur</a> at at 3:26PM [BST]</small>  </th></tr>  <tr><td> Ganksoft now has Dreamcast programs (Such as DC Tonic and Dream-Pac) available for download. Visit the <a href="http://www.ganksoft.com/">Ganksoft home page</a>  </td></tr>  </table></p>
+<a name="newsitem995520123,55686,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:22AM [BST]</small>  </th></tr>  <tr><td> There are strange and wonderful things afoot at the <a href="http://digita.mame.net/news.htm">MAMED News Page</a>.  Much has changed and it's rather involved, so I'll leave it to all you Dreamcasters out there to discover.  </td></tr>  </table></p>
+<a name="newsitem995519827,61039,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEDC v0.3</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:17AM [BST]</small>  </th></tr>  <tr><td> A new version of MAMEDC is out, and there's zip support!  Find it <a href="http://mamedc.kaillera.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995485315,87606,"></a><h2>Wednesday 18 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:41PM [BST]</small>  </th></tr>  <tr><td> More news from Mike Beaver about <a href="http://mimic.arcadeheaven.com/">Mimic</a>:<br><br>- Added support for 2A03 and 65C02 chips.<br>- Changed SMS to work off a pallete lookup table instead of directly changing the pallete. This should improve those games that change the pallete mid-screen.<br>- Fixed a bug in the Z80 core that basically screwed up when recovering from a halt. As a result of this fix, SMS compatibility is very much improved (around 74% of games run without any glitches).   </td></tr>  </table></p>
+<a name="newsitem995484454,94737,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.13</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:27PM [BST]</small>  </th></tr>  <tr><td> There is another release of Kawaks for all the Capcom junkies out there. Get that latest version from the <a href="http://kawaks.retrogames.com/">Kawaks</a> home page.  </td></tr>  </table></p>
+<a name="newsitem995449262,99730,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Joey's Phoenix Emulator v0.4</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:41AM [BST]</small>  </th></tr>  <tr><td> There has been another release of Joey's Phoenix Emulator for the Dreamcast. It's available for download from his <a href="http://joey.consolesoft.com/">home page</a>.  </td></tr>  </table></p>
+<a name="newsitem995433315,27230,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME for the Jornada 720</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:15AM [BST]</small>  </th></tr>  <tr><td> Kevin Ng has created a MAME port for the HP Jornada 720 handheld computer.  You'll find it <a href="http://www.johnlomax.com/720.htm">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995433150,81317,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED for Dreamcast - Public Beta 1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:12AM [BST]</small>  </th></tr>  <tr><td> MAMED for Dreamcast has a public beta ready to download.  A word of warning: you'll need a working KOS development environment (translation: you gotta download a bunch of stuff first), so RTFM.  It's all happening at the <a href="http://digita.mame.net/news.htm">MAMED</a> site.  </td></tr>  </table></p>
+<a name="newsitem995432843,32008,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEDC v0.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:07AM [BST]</small>  </th></tr>  <tr><td> Christophe Thibault's MAMEDC (MAME for the Dreamcast console) has a new release, conveniently located <a href="http://mamedc.kaillera.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995364663,56400,"></a><h2>Tuesday 17 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Joey's Phoenix Emulator v0.3</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:11AM [BST]</small>  </th></tr>  <tr><td> Joey's Phoenix emulator for the Dreamcast has now had all the graphics bugs removed. You can find it at <a href="http://joey.consolesoft.com/">Joey's Console Soft</a> page.  </td></tr>  </table></p>
+<a name="newsitem995348573,69081,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:42AM [BST]</small>  </th></tr>  <tr><td> JEmu is a Java based arcade machine emulator which enables you to play classic arcade games on your browser.  The <a href="http://dreamwater.net/tech/jemu/">JEmu Homepage</a> has the latest news about this project.  </td></tr>  </table></p>
+<a name="newsitem995348312,59618,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME v0.37b16.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:38AM [BST]</small>  </th></tr>  <tr><td> AdvanceMAME has posted an update.  This version includes the new Scale2X effect.  Find it <a href="http://advancemame.arcadeheaven.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995260960,91598,"></a><h2>Monday 16 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.12</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:22AM [BST]</small>  </th></tr>  <tr><td> A quick update of the CPS-1 and CPS-2 emulator Kawaks has been released. Download it from the <a href="http://kawaks.retrogames.com/frontpage.htm">Kawaks</a> home page.   </td></tr>  </table></p>
+<a name="newsitem995260776,80975,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The NEW Arcade Flyers Archive</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:19AM [BST]</small>  </th></tr>  <tr><td> The Arcade Flyers Archive has been completely overhauled, and it looks great!  <a href="http://www.arcadeflyers.com/">Go now!</a>  </td></tr>  </table></p>
+<a name="newsitem995260446,85178,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>TourMAME v0.37 beta 16.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:14AM [BST]</small>  </th></tr>  <tr><td> Tourniquet has released a new version of TourMAME which includes the "steadykey" option.  You'll find PPro and K6 builds <a href="http://www.mameworld.net/tourniquet/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995207604,9068,"></a><h2>Sunday 15 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.11</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:33PM [BST]</small>  </th></tr>  <tr><td> A new version of Kawaks has been released which among other things fixes the sound problems. Download it from the <a href="http://kawaks.retrogames.com">Kawaks</a> home page.  </td></tr>  </table></p>
+<a name="newsitem995194766,79887,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Phoenix for Dreamcast</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:59AM [BST]</small>  </th></tr>  <tr><td> Joey has released a Phoenix emulator for the Dreamcast but there are some bugs and he would like to get some help. You can get the emulator from his <a href="http://joey.consolesoft.com/">homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem995193336,6896,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME for Dreamcast</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:35AM [BST]</small>  </th></tr>  <tr><td> James Surine has made a huge amount of progress with his Dreamcast port of MAME in the last few days and now has over 500 games running! Details and snapshots are on his <a href="http://digita.mame.net/news.htm">MAMED homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem995193194,26546,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sega Mega Play Emulation</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:33AM [BST]</small>  </th></tr>  <tr><td> Sega Megaplay is an arcade board that supports Sega Mega Drive games. Charles MacDonald has now got the BIOS emulated so he's looking to get dumps of some of the actual games themselves. On he has some I'm sure he'll get them running pretty quickly! His <a href="http://cgfm2.emuviews.com/">home page</a> has lots more information.  </td></tr>  </table></p>
+<a name="newsitem995094541,78194,"></a><h2>Saturday 14 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEDC v0.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:09AM [BST]</small>  </th></tr>  <tr><td> Christophe Thibault, the man behind <a href="http://kaillera.com/">Kaillera</a>, has introduced MAMEDC.  This is described as "an attempt to port MAME to the (wonderful) Dreamcast console".  You'll find it <a href="http://mamedc.kaillera.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem995094287,82628,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED for Dreamcast WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:04AM [BST]</small>  </th></tr>  <tr><td> <a href="http://digita.mame.net/news.htm">MAMED</a> has posted another update, this time with screenshots!  Hopefully a release is coming soon....  </td></tr>  </table></p>
+<a name="newsitem995045540,20351,"></a><h2>Friday 13 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Arcade Flyer Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:32PM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.arcadeflyers.com/">Arcade Flyers</a> page has just received a shockwave flash intro and a mysterious news item saying '2...'. A counter of some type?  </td></tr>  </table></p>
+<a name="newsitem995045395,43694,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:29PM [BST]</small>  </th></tr>  <tr><td> There is more news at the MAMED page but I'm not quite sure what device he is working on! See if you can work it out by visiting the <a href="http://digita.mame.net/news.htm">MAMED</a> page.  </td></tr>  </table></p>
+<a name="newsitem995045194,13699,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE v1.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:26PM [BST]</small>  </th></tr>  <tr><td> The Capcom emulator ACE has had it's second release. It now supports CPS-2 games and adds some additional CPS-1 games too. You can find it at the <a href="http://www.mycgiserver.com/~rollback/">ACE</a> home page.  </td></tr>  </table></p>
+<a name="newsitem995043976,44775,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE v0.32a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:06PM [BST]</small>  </th></tr>  <tr><td> What could be the last version of RAINE for a while has just been released. Emmanuel is now going to take a much deserved break from RAINE development. He has been almost singly responsible for the recent developments in RAINE; the linux port, windows port, sound improvements and too many bug fixes to mention. Thanks for your great work!  </td></tr>  </table></p>
+<a name="newsitem994997885,21681,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:18AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page has some new updates and screenshots.<br><br>5th July 2001: Uki updated the Ikki driver, fixing some graphics priority problems. <br><br>9th July 2001: Kevin Eshbach submitted an update for the Double Dragon and Double Dragon II drivers, fixing some DIP switch settings and sound frequency. Nicola Salmoria improved the graphics handling in the Taito B system driver, fixing a lot of graphics bugs. <br><br>10th July 2001: Bernd Wiebelt fixed a command line bug with the -log parameter. Bryan McPhail finished the Wrestlefest driver, fixing all the known bugs. <br><br>11th July 2001: Tatsuyuki Satoh fixed a long-standing bug in the tilemap system and converted Appooh to the tilemap system. Luca Elia fixed OKI m6295 emulation from crashing with sound disabled. Phil Stroffolino sent in another tilemap system update. <br><br>12th July 2001: Luca Elia sent in an update to the Cave driver, adding Mazinger Z and Pretty Soldier Sailor Moon. Nicola Salmoria decrypted the sprite graphics in both, so they are now fully playable. Zsolt Vasvari sent in an update for the Galaxian hardware drivers, fixing a lot of issues.<br>  </td></tr>  </table></p>
+<a name="newsitem994997466,67615,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPSMAME Updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:11AM [BST]</small>  </th></tr>  <tr><td> CPSMAME, a CPS1/CPS2 Emulator for the Power Macintosh, has been updated to include support for Capcom Sports Club (Japan and Asia 970722).  You'll find it <a href="http://mac.emuscene.com/cpsmame/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem994923321,76162,"></a><h2>Thursday 12 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Arcade PocketPak</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:35AM [BST]</small>  </th></tr>  <tr><td> Larry Bank (author of HiVE) has created a PocketPC emulator pack for Microsoft. Read about it on the <a href="http://www.microsoft.com/mobile/pocketpc/downloads/arcadepak.asp">official page</a>.  </td></tr>  </table></p>
+<a name="newsitem994923011,81287,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic Release Soon</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:30AM [BST]</small>  </th></tr>  <tr><td> According to Mike Beaver, Mimic is now ready to release. He still wants to see if he can pack some more into it though (like bug fixes, etc). More information is available from the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic home page</a>.  </td></tr>  </table></p>
+<a name="newsitem994914763,9181,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>StretchMame32 v0.37 beta 16</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:12AM [BST]</small>  </th></tr>  <tr><td> StretchMame32 has been updated to the latest MAME beta, plus other goodies.  You can find out more <a href="http://stretchmame.mameworld.net/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem994914565,33339,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPS2MAME v2.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:09AM [BST]</small>  </th></tr>  <tr><td> Razoola at <a href="http://cps2shock.retrogames.com/">CPS-2 Shock</a> has updated CPS2MAME to include all the latest CPS-2 releases.  </td></tr>  </table></p>
+<a name="newsitem994914310,8505,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME's Scale2X Effect</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:05AM [BST]</small>  </th></tr>  <tr><td> The fine folk at <a href="http://advancemame.arcadeheaven.com/">AdvanceMAME</a> are showing off their new Scale2X effect, and with good reason.  </td></tr>  </table></p>
+<a name="newsitem994914149,9507,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.10</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:02AM [BST]</small>  </th></tr>  <tr><td> Kawaks has been updated to include (among other things) the latest CPS-2 games.  There are lots of new features, so <a href="http://kawaks.retrogames.com/frontpage.htm">check it out</a>.  </td></tr>  </table></p>
+<a name="newsitem994823380,75502,"></a><h2>Wednesday 11 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:49AM [BST]</small>  </th></tr>  <tr><td> Mameinfo.dat has been updated to include all the latest bugs and fixes.  A word of warning: it's a DIFF-Update file, so it will require a bit of hands-on first.  Get it <a href="http://www.mameworld.net/mameinfo/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem994744208,20927,"></a><h2>Tuesday 10 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Cheats</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:50AM [BST]</small>  </th></tr>  <tr><td> New MAME cheat files are now available from Ultimate Patchers.  <a href="http://www.emuchina.net/emu/mame/Wipucred.zip">This one</a> just enables unlimited credits and <a href="http://www.emuchina.net/emu/mame/Wipcdbup.zip">this one</a> is a recent upgrade to the master cheat file from <a href="http://cheat.retrogames.com/jck.htm">Ultimate Patchers</a>.  Thanks to <a href="http://www.emuchina.net/">Emu-China</a> for the news.  </td></tr>  </table></p>
+<a name="newsitem994741469,98892,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>VSyncMAME Updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:04AM [BST]</small>  </th></tr>  <tr><td> <a href="http://vsynchmame.mameworld.net/">VSyncMAME</a> has been updated to 0.37 beta 16, and has added support for the Trident Blade T64 graphics card.  </td></tr>  </table></p>
+<a name="newsitem994704195,18854,"></a><h2>Monday 9 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:43PM [BST]</small>  </th></tr>  <tr><td> More news from Mike Beaver over at the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic</a> home page. Are we due for a release soon?  </td></tr>  </table></p>
+<a name="newsitem994661827,41837,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Atari 2600 Article</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:57AM [BST]</small>  </th></tr>  <tr><td> For all you nostalgic sorts out there, <a href="http://www.salon.com/tech/feature/2001/07/09/atari/index.html">here</a>'s an interesting article about the Atari 2600.  Thanks to <a href="mailto:creator@overclocked.org">David</a> at <a href="http://www.retrogames.com/">Retrogames</a> for the news.  </td></tr>  </table></p>
+<a name="newsitem994661516,99650,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sega System 16/18/24</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:51AM [BST]</small>  </th></tr>  <tr><td> Charles MacDonald is working on emulating the Sega System 16/18/24 hardware (Alien Storm with backgrounds! Yay!) and he's looking for information on the Oki MSM6253 chip as well as schematics for the Sega System 18 or System 16 hardware.  If you can help (or are just interested), <a href="mailto:cgfm2@hotmail.com">e-mail him</a> or <a href="http://cgfm2.emuviews.com/">visit the site</a>.  </td></tr>  </table></p>
+<a name="newsitem994629546,12162,"></a><h2>Sunday 8 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:59PM [BST]</small>  </th></tr>  <tr><td> The RAINE WIP page has been updated to show some of the recent progress. Head on over to the <a href="http://www.rainemu.com/html/wip.html">RAINE site</a> for the the latest.  </td></tr>  </table></p>
+<a name="newsitem994629460,83057,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Xevious Samples</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:57PM [BST]</small>  </th></tr>  <tr><td> Those missing Xevious samples for the new MAME release are now available at the <a href="http://www.mame.net/downsamples.html">MAME home page</a>.  </td></tr>  </table></p>
+<a name="newsitem994629365,31833,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:56PM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has posted some news about his emulator Mimic. Sound is now working properly in the DJGPP build so the release is getting nearer. Find out more information at the <a href="http://mimic.arcadeheaven.com/">Mimic home page</a>.  </td></tr>  </table></p>
+<a name="newsitem994604700,74,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Assorted MAME Goodies</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:05PM [BST]</small>  </th></tr>  <tr><td> For all you MAME fans out there who want that little something extra, there's a new <a href="http://www.mameworld.net/mameinfo/">mameinfo.dat</a> and unofficial <a href="http://www.mameworld.net/highscore/latest.htm">hiscore.dat</a> (don't forget to grab the latest nvram!).  </td></tr>  </table></p>
+<a name="newsitem994604417,30133,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>PhMAME Updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:00PM [BST]</small>  </th></tr>  <tr><td> PhMAME is a native Photon port of MAME desigined for users of the QNX Realtime Platform, and you can find the latest version <a href="http://www.classicgaming.com/phmame/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem994604230,41244,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>QPlayer v1.4.3</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 3:57PM [BST]</small>  </th></tr>  <tr><td> Barry Rodewald (main author of GalEMU) has released QPlayer v1.4.3. This version adds Kabuki decryption support, which allows CPS-1 games using QSound to work.  Find it <a href="http://galemu.emuunlim.com/">here</a>.  </td></tr>  </table></p>
+<a name="newsitem994603901,41446,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Performance Guide</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 3:51PM [BST]</small>  </th></tr>  <tr><td> ArchieMan has updated the indices of his <a href="http://www.mameworld.net/mameperf/">MAME Performance Guide</a> to the latest beta.  If you haven't checked it out yet, this site gives suggested hardware requirements for MAME games.  </td></tr>  </table></p>
+<a name="newsitem994543022,90279,"></a><h2>Saturday 7 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>XMAME v0.37b16</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:57PM [BST]</small>  </th></tr>  <tr><td> XMAME v0.37b16 has been released. Head on over to the <a href="http://x.mame.net/">official site</a> if you are a Linux user.  </td></tr>  </table></p>
+<a name="newsitem994535130,35446,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Answering the Call</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:45PM [BST]</small>  </th></tr>  <tr><td> Hey all, I'm Rob and I'll be posting the occasional news item on CAESAR.  Feel free to <a href="mailto:rob@logiqx.com">e-mail</a> me on any non-lamer subject (i.e., please send your 'I wanna play such-and-such CPS-2 game' mail elsewhere) - if I can't help you, I'll direct you to someone who can.  Later!  </td></tr>  </table></p>
+<a name="newsitem994450525,56163,"></a><h2>Friday 6 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>WinKawaks v1.09</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:15PM [BST]</small>  </th></tr>  <tr><td> WinKawaks has been updated again. Go and get the latest version of this great CPS-2 emulator from the <a href="http://kawaks.retrogames.com/">Kawaks home page</a>.  </td></tr>  </table></p>
+<a name="newsitem994403204,45516,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic Release Soon</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:06AM [BST]</small>  </th></tr>  <tr><td> It looks like there will be a new Mimic release in the next few days and we'll get to see all the great progress that has been made. I'm certainly looking forward to it! Check out the latest news at the <a href="http://mimic.arcadeheaven.com/">Mimic</a> home page.  </td></tr>  </table></p>
+<a name="newsitem994368997,82501,"></a><h2>Thursday 5 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>WinKawaks v1.08</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:36PM [BST]</small>  </th></tr>  <tr><td> WinKawaks had a big update yesterday. Go to the <a href="http://kawaks.retrogames.com">official site</a> for a full list of changes and a download.  </td></tr>  </table></p>
+<a name="newsitem994368083,74469,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:21PM [BST]</small>  </th></tr>  <tr><td> 2nd July 2001: Bart Puype fixed Gunbird from crashing sometimes. SUZ updated the Xevious driver, adding two new samples and adjusting clock frequencies. lax fixed the sound frequency in Pettan Pyuu, Strength & Skill and Ikki.<br><br>3rd July 2001: Olivier Galibert fixed a Win32 version bug with direct color modes. Luca Elia added Sokonuke Taisen Game to the Seta driver. Nicola Salmoria decrypted Astro Flash.<br><br>4th July 2001: Olivier Galibert simplified color mapping in 16bpp modes to make it easier to add shadow handling, and he fixed a compilation problem in jrcrypt.c. Mark McDougall added Namco Classics Vol.2 to the ncv1 driver, but it doesn't quite work because of missing rotation / zoom emulation.  </td></tr>  </table></p>
+<a name="newsitem994241644,84528,"></a><h2>Wednesday 4 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>News Poster Required!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:14AM [BST]</small>  </th></tr>  <tr><td> I am looking for one or two people that can assist me in posting arcade related news items for CAESAR. It would be nice if I can take a break occasionally and have people keep an eye out for emulator releases whilst I'm away (obviously important I don't miss anything for CAESAR's sake). If you think you could help me out then please drop me an e-mail and I'll explain the methods for monitoring web pages etc. I start a new job soon so my spare time will be greatly reduced and I will also be looking to get a couple of helpers together for the dat maintenance too (hence the FAQ I wrote about them). If you have read the FAQ at my main site and understand it completely then I would also like to hear from you.  </td></tr>  </table></p>
+<a name="newsitem994241011,71907,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME32 News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:03AM [BST]</small>  </th></tr>  <tr><td> John Hardy IV has reported that the test MAME32 build is looking good. Check it out at the <a href="http://www.classicgaming.com/mame32qa/">MAME32 QA site</a>.  </td></tr>  </table></p>
+<a name="newsitem994098714,85454,"></a><h2>Monday 2 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CAESAR Updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:31PM [BST]</small>  </th></tr>  <tr><td> CAESAR is now up to date with MAME v0.37b16 (i.e. all games remapped as necessary). A few facts for this MAME release: over 3000 games supported, the last 'non-MAME' game of JFF is now in MAME, there are only 26 'non-MAME' games remaining in RAINE now.  </td></tr>  </table></p>
+<a name="newsitem994023682,29545,"></a><h2>Sunday 1 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:41PM [BST]</small>  </th></tr>  <tr><td> More news from the MAME camp. Go and read the latest on their <a href="http://www.mame.net/wip">WIP page</a>.  </td></tr>  </table></p>
+<a name="newsitem994023651,5210,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>32-Bit Mimic</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:40PM [BST]</small>  </th></tr>  <tr><td> Mimic is now 32-bit which is a really good thing. Go and read the <a href="http://mimic.arcadeheaven.com">Mimic home page</a> to find out what this means for the future of the emu.  </td></tr>  </table></p>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="carl_henrik_skarstedt">
+	<name>Carl-Henrik Sk&amp;aring;rstedt</name>
+	<email>carl@c64.org</email>
+	<emulator_links>
+		<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
+	</emulator_links>
+</author>

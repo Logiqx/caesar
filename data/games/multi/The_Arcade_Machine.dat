@@ -1,0 +1,35 @@
+clrmamepro (
+	name "The Arcade Machine"
+	description "The Arcade Machine"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 sha1 ff6200af4c9110d8181249cbcef1a8a40fa40b7f )
+	rom ( name invaders.g size 2048 crc 6bfaca4a sha1 16f48649b531bdef8c2d1446c429b5f414524350 )
+	rom ( name invaders.f size 2048 crc 0ccead96 sha1 537aef03468f63c5b9e11dd61e253f7ae17d9743 )
+	rom ( name invaders.e size 2048 crc 14e538b0 sha1 1d6ca0c99f9df71e2990b610deb9d7da0125e2d8 )
+)
+
+game (
+	name tron
+	description "Tron (set 1)"
+	year 1982
+	manufacturer "Bally Midway"
+	rom ( name tronc2.bin size 8192 crc 5151770b sha1 26f4d830de7be228528e462dd628f439629a2641 )
+	rom ( name tronc3.bin size 8192 crc 8ddf8717 sha1 e0c294afa8ba0b0ba89e3e0fb3ff6d8fc4398e32 )
+	rom ( name tronc4.bin size 8192 crc 4241e3a0 sha1 24c1bd2f31e194542571c391c5dccf21354115c2 )
+	rom ( name tronc5.bin size 8192 crc 035d2fe7 sha1 1b827ca30a439d2f4cc94fcc0e90ee0cf87e018c )
+	rom ( name tronc6.bin size 8192 crc 24c185d8 sha1 45ac7c53f6f4eba5c7bf3fc6559cddd3821eddad )
+	rom ( name tronc7.bin size 8192 crc 38c4bbaf sha1 a7cd496ce75199b8279ea963520cf70d5f562bb2 )
+	rom ( name tronbg.0 size 8192 crc 1a9ed2f5 sha1 b0d85b47873ac8ad475da18b9540d37232cb2b7c )
+	rom ( name tronbg.1 size 8192 crc 3220f974 sha1 a38ea5f1db27f05d9689db838ce7a8de98f34837 )
+	rom ( name troncb1.bin size 32768 crc c2bbb286 sha1 5cf81d4f1c9cab49eac7112689d46a2811dac5c4 )
+)
+

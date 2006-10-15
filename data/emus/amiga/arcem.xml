@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="arcem" type="amiga" dat="ArcEm_v0.3">
+	<name>ArcEm</name>
+	<version>0.3</version>
+	<date>13/10/1997</date>
+
+	<homepage status="bad">http://www.gauss.demon.co.uk/amiga.html</homepage>
+	<author_link id="andrew_bennett">&author_andrew_bennett;</author_link>
+
+	<emulates>Space Invaders (Midway) and 4 other games on similar hardware</emulates>
+	<comment>So far as I know, the only arcade emulator on the Amiga other than MAME</comment>
+	<status>Dormant</status>
+
+	<platform>Amiga</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>?</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>?</throttle>
+	</features>
+
+	<files>
+		<file name="arcem03.lha">Emulator</file>
+	</files>
+</emulator>

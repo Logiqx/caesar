@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mr_k">
+	<name>MHz/Mr K</name>
+	<emulator_links>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+	</emulator_links>
+</author>

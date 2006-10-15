@@ -1,0 +1,24 @@
+clrmamepro (
+	name "Mr. Do!s Castle"
+	description "Mr. Do!'s Castle v2.0"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name docastle
+	description "Mr. Do's Castle (set 1)"
+	year 1983
+	manufacturer "Universal"
+	rom ( name a1 size 8192 crc 0d81fafc sha1 938c4470b022063ae66b607ca086fad98174248f )
+	rom ( name a2 size 8192 crc a13dc4ac sha1 f096d5ac8e26444ebdb4c3fb5c71592058fb6c79 )
+	rom ( name a3 size 8192 crc a1f04ffb sha1 8cb53992cc679278a0bd33e5b728f27c585e38e1 )
+	rom ( name a4 size 8192 crc 1fb14aa6 sha1 45b50db61ca2c9ace182ddba3817257308f07c89 )
+	rom ( name a5 size 16384 crc 0636b8f4 sha1 8b34773bf7b7071fb5c8ff443a08befae3b545ea )
+	rom ( name a6 size 8192 crc 3bbc9b26 sha1 1b1f79717e5c1a23eefb2d6df71ad95aac9f8be4 )
+	rom ( name a7 size 8192 crc 3dfaa9d1 sha1 cc016019efe0a2bc38c66fadf792c05f6cabeeaa )
+	rom ( name a8 size 8192 crc 9afb16e9 sha1 f951e75af658623f3b0e18ff388990b2870fad53 )
+	rom ( name a9 size 8192 crc af24bce0 sha1 0f06c5d248c9c92f2a4636d259ab843339737969 )
+)
+

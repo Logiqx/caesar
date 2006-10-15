@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="aemu" type="wince" dat="aEmu_v1.1">
+	<name>aEmu (aero Emulator)</name>
+	<version>1.1</version>
+	<date>13/11/2000</date>
+
+	<homepage>http://aemu.cjb.net/</homepage>
+	<author_link id="boris_fr">&author_boris_fr;</author_link>
+
+	<emulates>Space Invaders and clones</emulates>
+	<comment>Fully playable emulation on MIPs and x86.</comment>
+	<status>Discontinued</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Buttons</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="aemu_1_1_x86.zip">Emulator for x86</file>
+		<file name="aemu_1_1_mips.zip">Emulator for MIPs</file>
+		<file name="aemu_1_1_src.zip">Source</file>
+	</files>
+</emulator>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="namco_museum_4" type="psx" dat="Namco_Museum_Vol_4">
+	<name>Namco Museum Vol 4</name>
+	<version>-</version>
+	<date>1997</date>
+
+	<homepage>http://www.namco.com/</homepage>
+	<author_link id="namco">&author_namco;</author_link>
+
+	<emulates>Pac Land, The Genji and the Heke Clans, The Return of Ishtar, Assault, Ordyne</emulates>
+	<comment>A selection of classic games from Namco plus related information.</comment>
+	<status>Released</status>
+
+	<platform>Playstation</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>Yes</rotate>
+	</features>
+</emulator>

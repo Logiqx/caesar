@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="6502" type="cpu">
+	<name>6502 emulator</name>
+	<version>2</version>
+	<date>24/01/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="neil_bradley">&author_neil_bradley;</author_link>
+
+	<emulates>6502</emulates>
+	<comment>This was Neil Bradley's original 6502 emulator, used in his Asteroids emulator. It is coded in C, and can run at about 3mhz on a 486/100</comment>
+
+	<emulator_links>
+		<emulator_link id="astdxgl" type="multi">&emulator_astdxgl;</emulator_link>
+		<emulator_link id="asteroidsgl" type="single">&emulator_asteroidsgl;</emulator_link>
+		<emulator_link id="battlezonegl" type="single">&emulator_battlezonegl;</emulator_link>
+		<emulator_link id="tempestgl" type="single">&emulator_tempestgl;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="6502.zip">Emulator</file>
+	</files>
+</library>

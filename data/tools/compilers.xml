@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool_contents SYSTEM "../../dtd/caesar.dtd">
+<tool_contents id="compilers">
+	<title>Compilers</title>
+	<comment>Here are the development environments and compilers commonly used by emulation authors</comment>
+	<tool_links>
+		<tool_link id="borlandc" type="compilers">&tool_borlandc;</tool_link>
+		<tool_link id="delphi" type="compilers">&tool_delphi;</tool_link>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="future_basic" type="compilers">&tool_future_basic;</tool_link>
+		<tool_link id="lccwin32" type="compilers">&tool_lccwin32;</tool_link>
+		<tool_link id="ms" type="compilers">&tool_ms;</tool_link>
+		<tool_link id="mingw" type="compilers">&tool_mingw;</tool_link>
+		<tool_link id="real_basic" type="compilers">&tool_real_basic;</tool_link>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+	</tool_links>
+</tool_contents>

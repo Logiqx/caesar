@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="xcade" type="multi" dat="dummy">
+	<name>Xcade</name>
+	<version>0.85</version>
+	<date>25/04/1997</date>
+
+	<homepage>http://www.icomm.ca/~skeezix/</homepage>
+	<author_link id="jeff_mitchell">&author_jeff_mitchell;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="maximum_entropy">&author_maximum_entropy;</author_link>
+			<comment>Patches for Space Invaders Deluxe and Lunar Rescue</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Classics like Phoenix, Donkey Kong, Pac-Man and Space Invaders</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="xcade085.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="xcade_unix" type="linux">&emulator_xcade_unix;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

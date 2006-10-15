@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="nebulam2" type="multi" dat="Nebula_Model_2_v0.9b">
+	<name>Nebula Model 2</name>
+	<version>0.9b</version>
+	<date>10/11/2003</date>
+
+	<homepage>http://nebula.emulatronia.com/</homepage>
+	<author_link id="elsemi">&author_elsemi;</author_link>
+
+	<emulates>Sega Model 2</emulates>
+	<comment>The first Sega Model 2 emulator to be released. Superceded by the SEGA Model 2 Emulator.</comment>
+	<status>Superceded</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="nebulam2_v0.9b.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

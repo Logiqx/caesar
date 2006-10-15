@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="watcom" type="compilers">
+	<name>WATCOM C/C++</name>
+	<version>10.0</version>
+	<date>?</date>
+
+	<homepage>http://www.sybase.com/products/archivedproducts/watcomc/</homepage>
+	<author_link id="sybase">&author_sybase;</author_link>
+
+	<comment>A free C/C++ compiler (but now discontinued by Sybase)</comment>
+
+	<emulator_links>
+		<emulator_link id="soundsgood" type="sound">&emulator_soundsgood;</emulator_link>
+		<emulator_link id="bombjack_pc" type="single">&emulator_bombjack_pc;</emulator_link>
+		<emulator_link id="boo" type="single">&emulator_boo;</emulator_link>
+		<emulator_link id="calice" type="multi">&emulator_calice;</emulator_link>
+		<emulator_link id="classicemu" type="multi">&emulator_classicemu;</emulator_link>
+		<emulator_link id="emu" type="multi">&emulator_emu;</emulator_link>
+		<emulator_link id="gyruss" type="single">&emulator_gyruss;</emulator_link>
+		<emulator_link id="jasdd2" type="single">&emulator_jasdd2;</emulator_link>
+		<emulator_link id="jasgaplus" type="single">&emulator_jasgaplus;</emulator_link>
+		<emulator_link id="jasmappy" type="single">&emulator_jasmappy;</emulator_link>
+		<emulator_link id="jassuperpac" type="single">&emulator_jassuperpac;</emulator_link>
+		<emulator_link id="jas" type="multi">&emulator_jas;</emulator_link>
+		<emulator_link id="jas-sys1" type="multi">&emulator_jas-sys1;</emulator_link>
+		<emulator_link id="kem" type="multi">&emulator_kem;</emulator_link>
+		<emulator_link id="mhemu" type="single">&emulator_mhemu;</emulator_link>
+		<emulator_link id="nemesis_dos" type="single2">&emulator_nemesis_dos;</emulator_link>
+		<emulator_link id="qix" type="single">&emulator_qix;</emulator_link>
+		<emulator_link id="rem" type="single">&emulator_rem;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="sage" type="multi">&emulator_sage;</emulator_link>
+		<emulator_link id="thearcade" type="multi">&emulator_thearcade;</emulator_link>
+		<emulator_link id="timepilot" type="single">&emulator_timepilot;</emulator_link>
+		<emulator_link id="tmnt" type="single">&emulator_tmnt;</emulator_link>
+		<emulator_link id="zem" type="multi">&emulator_zem;</emulator_link>
+	</emulator_links>
+</tool>

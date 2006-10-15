@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="midas" type="snd_libs">
+	<name>Housemarque Audio System</name>
+	<version>1.1.2</version>
+	<date>01/03/1998</date>
+
+	<homepage>http://www.s2.org/hmqaudio/</homepage>
+	<author_link id="jarno_paananen">&author_jarno_paananen;</author_link>
+	<author_link id="petteri_kangaslampi">&author_petteri_kangaslampi;</author_link>
+
+	<comment>MIDAS is a multichannel digital sound and music system, capable of playing an unlimited number of channels of digital sound on all supported platforms. It can play music modules, individual samples, and digital audio streams, in any combination.</comment>
+
+	<emulator_links>
+		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
+		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="midas112.zip">MIDAS</file>
+		<file name="midas112-src.zip">MIDAS Source</file>
+	</files>
+</tool>

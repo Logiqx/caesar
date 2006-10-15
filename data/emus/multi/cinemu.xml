@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="cinemu" type="multi" dat="CINEMU_v1.2">
+	<name>CINEMU (Cinematronics Emulator)</name>
+	<version>1.2</version>
+	<date>17/03/2000</date>
+
+	<homepage>http://zonn.com/Cinematronics/emu.htm</homepage>
+	<author_link id="zonn_moore">&author_zonn_moore;</author_link>
+
+	<emulates>Cinematronics Games</emulates>
+	<comment>The better of the two Cinematronics emulators. A neat feature is that it can control a Cinematronics Soundboard via the parrallel port. http://www.netaxs.com/~vsp/cinema/cinema1.html (CinEmu hacking page)</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="borlandc" type="compilers">&tool_borlandc;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes (C and Assembler)</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="cine12.zip">Emulator</file>
+		<file name="cinesrc.zip">Source</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

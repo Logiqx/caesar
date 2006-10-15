@@ -1,0 +1,88 @@
+clrmamepro (
+	name Playscott
+	description "Playscott v1.2"
+	category "Capcom CPS-1 Sound Emulator"
+	version 20050103
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name 1941
+	description "1941 - Counter Attack (World)"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name 41_09.rom size 65536 crc 0f9d8527 sha1 3a00dd5772f38081fde11d8d61ba467379e2a636 region cpu2 )
+	rom ( name 41_18.rom size 131072 crc d1f15aeb sha1 88089383f2d54fc97026a67f067d448eee5bd0c2 region sound1 )
+	rom ( name 41_19.rom size 131072 crc 15aec3a6 sha1 8153c03aba005bab62bf0e8b3d15ec1c346326fd region sound1 )
+)
+
+game (
+	name 3wonders
+	description "Three Wonders (World 910520)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name 3wonders.09 size 65536 crc abfca165 sha1 428069d3bdc45775854cd0e8abe447f134fe5492 region cpu2 )
+	rom ( name 3wonders.18 size 131072 crc 26b211ab sha1 0ea03fdd9edff41eacfc52aa9e0421c10968356b region sound1 )
+	rom ( name 3wonders.19 size 131072 crc dbe64ad0 sha1 09f2ad522fe75d7bcca094b8c6696c3733b539d5 region sound1 )
+)
+
+game (
+	name captcomm
+	description "Captain Commando (World 911014)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name cc_09.rom size 65536 crc 698e8b58 sha1 b7a3d905a7ed2c430426ca2e185e3d7e75e752a1 region cpu2 )
+	rom ( name cc_18.rom size 131072 crc 6de2c2db sha1 9a1eaba8d104f59a5e61f89679bb5de0c0c64364 region sound1 )
+	rom ( name cc_19.rom size 131072 crc b99091ae sha1 b19197c7ad3aeaf5f41c26bf853b0c9b502ecfca region sound1 )
+)
+
+game (
+	name cawing
+	description "Carrier Air Wing (World 901012)"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name ca_9.rom size 65536 crc 96fe7485 sha1 10466889dfc6bc8afd3075385e241a16372efbeb region cpu2 )
+	rom ( name ca_18.rom size 131072 crc 4a613a2c sha1 06e10644fc60925b85d2ca0888c9fa057bfe996a region sound1 )
+	rom ( name ca_19.rom size 131072 crc 74584493 sha1 5cfb15f1b9729323707972646313aee8ab3ac4eb region sound1 )
+)
+
+game (
+	name ffight
+	description "Final Fight (World)"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name ff09-09.bin size 65536 crc b8367eb5 sha1 ec3db29fdd6200e9a8f4f8073a7e34aef731354f region cpu2 )
+	rom ( name ff18-18.bin size 131072 crc 375c66e7 sha1 36189e23209ce4ae5d9cbabd1574540d0591e7b3 region sound1 )
+	rom ( name ff19-19.bin size 131072 crc 1ef137f9 sha1 974b5e72aa28b87ebfa7438efbdfeda769dedf5e region sound1 )
+)
+
+game (
+	name knights
+	description "Knights of the Round (World 911127)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name kr_09.rom size 65536 crc 5e44d9ee sha1 47a7503321be8d52b5c44af838e3bb82ee15a415 region cpu2 )
+	rom ( name kr_18.rom size 131072 crc da69d15f sha1 9616207e693bae85705f786cef60b9f6951b5067 region sound1 )
+	rom ( name kr_19.rom size 131072 crc bfc654e9 sha1 01b3d92e4dedf55ea3933d387c7ddb9ba2549773 region sound1 )
+)
+
+game (
+	name sf2
+	description "Street Fighter II - The World Warrior (World 910522)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name sf2_09.bin size 65536 crc a4823a1b sha1 7b6bf59dfd578bfbbdb64c27988796783442d659 region cpu2 )
+	rom ( name sf2_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d region sound1 )
+	rom ( name sf2_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 region sound1 )
+)
+
+game (
+	name sf2ce
+	description "Street Fighter II' - Champion Edition (World 920313)"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c region cpu2 )
+	rom ( name s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d region sound1 )
+	rom ( name s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 region sound1 )
+)
+

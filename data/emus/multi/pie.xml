@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="pie" type="multi" dat="PIE_v1.12">
+	<name>PIE (Pacman Instructional Emulator)</name>
+	<version>v1.12</version>
+	<date>15/01/2004</date>
+
+	<homepage>http://www.ascotti.org/programming/pie/pie.htm</homepage>
+	<author_link id="alessandro_scotti">&author_alessandro_scotti;</author_link>
+
+	<emulates>Pacman and Ms. Pacman</emulates>
+	<comment>This emulator has been written as an educational tool for those who are interested in knowing how an emulator works. For that use, some knowledge about emulators in general and some programming skills are required. But it is also a fully functional emulator that can be used to have some good fun, and since it is very small in size it can be downloaded very quickly or even sent to friends by e-mail as an attachment.</comment>
+	<status>Discontinued</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="piewin32.zip">Emulator</file>
+		<file name="pie.zip">Source</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="pie_beos" type="beos">&emulator_pie_beos;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

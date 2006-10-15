@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="symbian">
+	<title>Emulators for Symbian OS</title>
+	<comment>These emulators are all for Symbian OS mobile phones</comment>
+	<emulator_links>
+		<emulator_link id="emame_symbian" type="symbian">&emulator_emame_symbian;</emulator_link>
+		<emulator_link id="e2mame" type="symbian">&emulator_e2mame;</emulator_link>
+	</emulator_links>
+</emulator_contents>

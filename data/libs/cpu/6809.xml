@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="6809" type="cpu">
+	<name>6809 emulator</name>
+	<version>-</version>
+	<date>16/03/1998</date>
+
+	<homepage>http://webs.ono.com/usr002/jotego/</homepage>
+	<author_link id="jose_tejada_gomez">&author_jose_tejada_gomez;</author_link>
+
+	<emulates>6809</emulates>
+	<comment>Written in x86 assembler</comment>
+
+	<emulator_links>
+		<emulator_link id="grytra" type="single">&emulator_grytra;</emulator_link>
+		<emulator_link id="mapefer3" type="multi">&emulator_mapefer3;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="6809_codigo.zip">Emulator</file>
+	</files>
+</library>

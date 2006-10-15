@@ -1,0 +1,70 @@
+clrmamepro (
+	name Rock-ulator
+	description "Rock-ulator v0.86"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name fantasy
+	description "Fantasy (US)"
+	year 1981
+	manufacturer "[SNK] (Rock-ola license)"
+	rom ( name ic12.cpu size 4096 crc 22cb2249 sha1 6c43e3fa9638b6d2e069199968923e470bd5d18b )
+	rom ( name ic07.cpu size 4096 crc 0e2880b6 sha1 666d6942864eb7a90178b3b6e2b0eb23aa3c967f )
+	rom ( name ic08.cpu size 4096 crc 4c331317 sha1 800850f4e8bcfbbade54eb9e47a53941f8798641 )
+	rom ( name ic09.cpu size 4096 crc 6ac1dbfc sha1 b9c7bf8d3b085db0b53646b5639c09f9ced2b1fe )
+	rom ( name ic10.cpu size 4096 crc c796a406 sha1 1b7f5f307a81b481a3e7791128a01d4c1a20c4bf )
+	rom ( name ic14.cpu size 4096 crc 6f1f0698 sha1 05bd114dcd08c990d897518a8ea7965bc82279bf )
+	rom ( name ic15.cpu size 4096 crc 5534d57e sha1 e564a3325766423b47de18d6adb61760cbbf88be )
+	rom ( name ic16.cpu size 4096 crc 6c2aeb6e sha1 fd0b913a663bf2a5f45fc3d342d7575a9c7dae46 )
+	rom ( name ic17.cpu size 4096 crc f6aa5de1 sha1 ca53cf66cc6cdb21a60760102f35a5b0745ce09b )
+	rom ( name ic50.vid size 4096 crc 86a801c3 sha1 c040b5807c25823072f7e8ceab57b95d4bed89fe )
+	rom ( name ic51.vid size 4096 crc 9dfff71c sha1 7a7c017170f2ea903a730a4e5ab69db379a4fc61 )
+	rom ( name ic51.cpu size 2048 crc 48094ec5 sha1 7d6118133bc1eb8ebc5d8a95d10ef842daffef89 )
+	rom ( name ic52.cpu size 2048 crc 1d0316e8 sha1 6a3ab289b5fefef8663514bd1d5817c70fe58882 )
+	rom ( name ic53.cpu size 2048 crc 49fd4ae8 sha1 96ff1267c0ffab1e8a0769fa869516e2546ab640 )
+)
+
+game (
+	name nibbler
+	description "Nibbler (set 2)"
+	year 1982
+	manufacturer "Rock-ola"
+	rom ( name ic12 size 4096 crc 6dfa1be5 sha1 bb265702a2f74cb7d5ba27081f9fb2fe01dd95a5 )
+	rom ( name ic07 size 4096 crc 808e1a03 sha1 a747a16ee0c8cb803b72ac84e80f791b2bf1813a )
+	rom ( name ic08 size 4096 crc 1571d4a2 sha1 42cbaa262c2265d904fd5844c0d3c63d3beb67a8 )
+	rom ( name ic09 size 4096 crc a599df10 sha1 68ee8b5199ec24409fcbb40c887a1eec44c68dcf )
+	rom ( name ic10 size 4096 crc a6b5abe5 sha1 a0f228dac801a54dfa1947d6b2f6b4e3d005e0b2 )
+	rom ( name ic14 size 4096 crc 9f537185 sha1 619df63f4df38014dc229f614043f867e6a5aa51 )
+	rom ( name ic15 size 4096 crc 7205fb8d sha1 bc341bc11a383aa8b8dd7b2be851907a3ec56f8b )
+	rom ( name ic16 size 4096 crc 4bb39815 sha1 1755c28d7d300524ab839aedcc744254544e9c19 )
+	rom ( name ic17 size 4096 crc ed680f19 sha1 b44203585f32ebe2a3bf0597eac7c0faa7e81a92 )
+	rom ( name ic50 size 4096 crc 01d4d0c2 sha1 5a8026210a872351ce4e39e27f6479d3ca0689e2 )
+	rom ( name ic51 size 4096 crc feff7faf sha1 50005502578a4ea9b9c8f36998670b787d2d0b20 )
+	rom ( name ic52 size 2048 crc 87d67dee sha1 bd292eab3671cb953279f3136a450deac3818367 )
+	rom ( name ic53 size 2048 crc 33189917 sha1 01a1b1693db0172609780daeb60430fa0c8bcec2 )
+)
+
+game (
+	name vanguard
+	description "Vanguard (SNK)"
+	year 1981
+	manufacturer "SNK"
+	rom ( name sk4_ic07.bin size 4096 crc 6a29e354 sha1 ff953962ebc14a28cfc96f8e269cb1e1c188ed8a )
+	rom ( name sk4_ic08.bin size 4096 crc 302bba54 sha1 1944f229481328a0635fafda65054106f42a532a )
+	rom ( name sk4_ic09.bin size 4096 crc 424755f6 sha1 b4762b40c7ed70d4b90319a1a30983a41a096afb )
+	rom ( name sk4_ic10.bin size 4096 crc 54603274 sha1 31571a560dbe300417b3ed5b114fa1d9ef742da9 )
+	rom ( name sk4_ic13.bin size 4096 crc fde157d0 sha1 3f705fb6a410004f4f86283694e3694e49701af6 )
+	rom ( name sk4_ic14.bin size 4096 crc 0d5b47d0 sha1 922621c23f33fe756cb6baa12e5465c4e64f2dda )
+	rom ( name sk4_ic15.bin size 4096 crc 8549b8f8 sha1 375bc6f7e15564d5cf7e00c44e2651793c56d6ca )
+	rom ( name sk4_ic16.bin size 4096 crc 062e0be2 sha1 45aaf315a62f37460e32d3ba99caaacf4c994810 )
+	rom ( name sk5_ic50.bin size 2048 crc e7d4315b sha1 b99e4ea07292a0eabaa6098037c92a5678627cec )
+	rom ( name sk5_ic51.bin size 2048 crc 96e87858 sha1 4e9ccb055919c8acf5837e062857647d5363af60 )
+	rom ( name sk4_ic51.bin size 2048 crc d2a64006 sha1 3f20b59ce1954f65535cd5603ca9271586428e35 )
+	rom ( name sk4_ic52.bin size 2048 crc cc4a0b6f sha1 251b24d60083d516c4ba686d75b41e04d10f7198 )
+	rom ( name sk5_ic7.bin size 32 crc ad782a73 sha1 ddf44f74a20f10ed976c434a885857dade1f86d7 )
+	rom ( name sk5_ic6.bin size 32 crc 7dc9d450 sha1 9b2d1dfb3270a562d14bd54bfb3405a9095becc0 )
+)
+

@@ -1,0 +1,6 @@
+game (
+	name asteroid
+	description "Asteroids (rev 2)"
+	year 2000
+	manufacturer "Atari/Norbert!"
+)

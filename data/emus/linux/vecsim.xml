@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="vecsim" type="linux" dat="vecsim_v0.8">
+	<name>vecsim</name>
+	<version>0.8</version>
+	<date>24/08/2003</date>
+
+	<homepage>http://www.brouhaha.com/~eric/software/vecsim/</homepage>
+	<author_link id="hedley_rainnie">&author_hedley_rainnie;</author_link>
+	<author_link id="eric_smith">&author_eric_smith;</author_link>
+
+	<emulates>Atari vector games</emulates>
+	<comment>vecsim is a simulator for some of the 6502-based Atari vector games, vecsim runs on Linux or Unix systems with X11. The main simulator was developed from 1991 to 1992 by Hedley Rainnie and Eric Smith, and the experimental static translator was added in 1993. It was released under the GPL in 1996. A crude port to Windows was done in 1997, but was not integrated into the source distribution. There has been no further development work on vecsim aside from a very small amount of cleanup in August of 2003 to eliminate compiler warnings and simplify the Makefile.</comment>
+	<status>Discontinued</status>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>?</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="vecsim-0.8.tar.gz">Source</file>
+	</files>
+</emulator>

@@ -1,0 +1,78 @@
+# Do not allow browsing
+
+Options All -Indexes
+
+# Custom error documents
+
+ErrorDocument 400 /error.php?code=400
+ErrorDocument 401 /error.php?code=401
+ErrorDocument 403 /error.php?code=403
+ErrorDocument 404 /error.php?code=404
+
+# Switch rewrite engine on
+
+RewriteEngine On
+
+# Prevent hot-linking (protect images and ZIPs)
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://www.logiqx.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://logiqx/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://caesar.logiqx.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://caesar/ [NC]
+RewriteRule ^zips/.*$ - [F]
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://caesar.logiqx.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://caesar/ [NC]
+RewriteRule ^(snaps|images)/.*$ - [F]
+
+# Redirect http://www.caesar.logiqx.com and http://www.logiqx.com/caesar/
+
+RewriteCond %{HTTP_HOST} ^www.caesar.logiqx.com$ [NC,OR]
+RewriteCond %{REQUEST_URI} ^/caesar/.*$
+RewriteRule ^(.*)$ http://caesar.logiqx.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} ^//+caesar/.*$
+RewriteRule ^(.*)//+caesar/(.*)$ http://caesar.logiqx.com/$2 [R=301,L]
+
+# Redirect Pi's old address (under the team area) to http://pi.logiqx.com/
+
+RewriteRule ^team/pi/(.*)$ http://pi.logiqx.com/$1 [R=301,L]
+
+# Convert old JPG addresses to PNG
+
+RewriteRule ^resources/caesar_big.jpg$ /resources/caesar_big.png [R=301,L]
+
+# Convert old style HTML addresses to the modern PHP ones
+
+RewriteRule ^info/([^/]+)\.s?html?$ /info/$1.php [R=301,L]
+RewriteRule ^news/archive\.s?html?$ /info/pastnews.php [R=301,L]
+RewriteRule ^news/arc([0-9]+)-([0-9]+)\.s?html?$ /?year=$2&month=$1 [R=301,L]
+RewriteRule ^html/authors/([^/]+)\.s?html?$ /php/author.php?id=$1 [R=301,L]
+RewriteRule ^html/emus/([^/]+)\.s?html?$ /php/emulators.php?id=$1 [R=301,L]
+RewriteRule ^html/emus/([^/]+)/([^/]+)_0\.s?html?$ /php/emulator_games.php?id=$2&letter=0-9 [R=301,L]
+RewriteRule ^html/emus/([^/]+)/([^/]+)_([a-z])\.s?html?$ /php/emulator_games.php?id=$2&letter=$3 [R=301,L]
+RewriteRule ^html/emus/([^/]+)/([^/]+)\.s?html?$ /php/emulator.php?id=$2 [R=301,L]
+RewriteRule ^html/emus/([^/]+)/([^/]+)/([^/]+)\.s?html?$ /php/emulator_game.php?id=$2&game=$3 [R=301,L]
+RewriteRule ^html/games/([^/]+)\.s?html? /php/game_group.php?id=$1 [R=301,L]
+RewriteRule ^html/indices/manufacturers/(.+)_t\.s?html?$ /php/game_search.php?manu=$1&manu_match=contains&sort=desc [R=301,L]
+RewriteRule ^html/indices/manufacturers/(.+)_y\.s?html?$ /php/game_search.php?manu=$1&manu_match=contains&sort=year [R=301,L]
+RewriteRule ^html/indices/manufacturers/(.+)_m\.s?html?$ /php/game_search.php?manu=$1&manu_match=contains&sort=manu [R=301,L]
+RewriteRule ^html/indices/misc/nonmame_t\.s?html?$ /php/game_search.php?nonmame=yes&sort=desc [R=301,L]
+RewriteRule ^html/indices/misc/nonmame_y\.s?html?$ /php/game_search.php?nonmame=yes&sort=year [R=301,L]
+RewriteRule ^html/indices/misc/nonmame_m\.s?html?$ /php/game_search.php?nonmame=yes&sort=manu [R=301,L]
+RewriteRule ^html/indices/titles/games_0_t\.s?html?$ /php/game_search.php?desc=a&desc_match=before&sort=desc [R=301,L]
+RewriteRule ^html/indices/titles/games_0_m\.s?html?$ /php/game_search.php?desc=a&desc_match=before&sort=manu [R=301,L]
+RewriteRule ^html/indices/titles/games_0_y\.s?html?$ /php/game_search.php?desc=a&desc_match=before&sort=year [R=301,L]
+RewriteRule ^html/indices/titles/games_([a-z])_t\.s?html?$ /php/game_search.php?desc=$1&sort=desc [R=301,L]
+RewriteRule ^html/indices/titles/games_([a-z])_m\.s?html?$ /php/game_search.php?desc=$1&sort=manu [R=301,L]
+RewriteRule ^html/indices/titles/games_([a-z])_y\.s?html?$ /php/game_search.php?desc=$1&sort=year [R=301,L]
+RewriteRule ^html/indices/years/year_([0-9]+)_t\.s?html?$ /php/game_search.php?year=$1&year_match=contains&sort=desc [R=301,L]
+RewriteRule ^html/indices/years/year_([0-9]+)_y\.s?html?$ /php/game_search.php?year=$1&year_match=contains&sort=year [R=301,L]
+RewriteRule ^html/indices/years/year_([0-9]+)_m\.s?html?$ /php/game_search.php?year=$1&year_match=contains&sort=manu [R=301,L]
+RewriteRule ^html/libs/([^/]+)\.s?html?$ /php/libraries.php?id=$1 [R=301,L]
+RewriteRule ^html/libs/([^/]+)/([^/]+)\.s?html?$ /php/library.php?id=$2 [R=301,L]
+RewriteRule ^html/tools/([^/]+)\.s?html?$ /php/tools.php?id=$1 [R=301,L]
+RewriteRule ^html/tools/([^/]+)/([^/]+)\.s?html?$ /php/tool.php?id=$2 [R=301,L]
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="tmaul">
+	<name>TMaul</name>
+	<email>xboxfba@yahoo.co.uk</email>
+	<emulator_links>
+		<emulator_link id="fbax" type="xbox">&emulator_fbax;</emulator_link>
+	</emulator_links>
+</author>

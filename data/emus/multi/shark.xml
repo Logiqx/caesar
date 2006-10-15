@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="shark" type="multi" dat="Shark_v3.1f">
+	<name>Shark</name>
+	<version>3.1f</version>
+	<date>28/07/1999</date>
+
+	<homepage>http://www.c64.org/~magnus/shark.html</homepage>
+	<author_link id="carl_henrik_skarstedt">&author_carl_henrik_skarstedt;</author_link>
+	<author_link id="magnus_danielsson">&author_magnus_danielsson;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="johan_kohler">&author_johan_kohler;</author_link>
+			<comment>Worked on original Flying Shark Emulator</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Toaplan/Taito Shoot-em-ups and the Newzealand Story</emulates>
+	<comment>Written by the Dead Serious Clan. Originally the 'Flying Shark' emulator. Some games slightly smoother than MAME on 233MMX (but not much)</comment>
+	<status>No new development planned</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="shark31f.zip">Emulator</file>
+	</files>
+</emulator>

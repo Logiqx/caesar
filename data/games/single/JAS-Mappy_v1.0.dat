@@ -1,0 +1,26 @@
+clrmamepro (
+	name JAS-Mappy
+	description "JAS-Mappy v1.0"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name mappy
+	description "Mappy (Japan)"
+	year 1983
+	manufacturer "Namco"
+	rom ( name mappy3.bin size 8192 crc db9d5ab5 sha1 32a0190f96f9c00c541b24dd17d6ad487938a8bf )
+	rom ( name mappy2.bin size 8192 crc a958a61c sha1 e5198703cdf47b2cd7fc9f2a5fde7bf4ab2275db )
+	rom ( name mappy1.bin size 8192 crc 77c0b492 sha1 631b73560ac59c3612e692fa59558773639ceda7 )
+	rom ( name mappy4.bin size 8192 crc 8182dd5b sha1 f36b57f7f1e79f00b3f07afe1960bca5f5325ee2 )
+	rom ( name mappy-5b.bin size 32 crc 56531268 sha1 2e356706c07f43eeb67783fb122bdc7fed1b3589 )
+	rom ( name mappy-4c.bin size 256 crc 50765082 sha1 f578e14f15783acb2073644db4a2f0d196cc0957 )
+	rom ( name mappy-5k.bin size 256 crc 5396bd78 sha1 2e387e5d8b8cab005f67f821b4db65d0ae8bd362 )
+	rom ( name mappy-3m.bin size 256 crc 16a9166a sha1 847cbaf7c88616576c410177e066ae1d792ac0ba )
+	rom ( name mappy6.bin size 8192 crc f2d9647a sha1 3cc216793c6a5f73c437ad2524563deb3b5e2890 )
+	rom ( name mappy7.bin size 8192 crc 757cf2b6 sha1 8dfbf03953d5219d9eb5fc654ec3392442ba1dc4 )
+	rom ( name mappy5.bin size 4096 crc 16498b9f sha1 76610149c65f955484fef1c033ddc3fed3f4e568 )
+)
+

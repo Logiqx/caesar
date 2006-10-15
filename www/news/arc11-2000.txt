@@ -1,0 +1,796 @@
+<h2>Saturday 30 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>U64Emu v1.18</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  30 December 2000, 07:20 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="/html/emus/single/u64emu.shtml">U64Emu</a> (the Killer Instinct Emulator) was released yesterday. 
+</td></tr>
+
+</table><br>
+<h2>Friday 29 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Dev Tool Usage</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  29 December 2000, 03:33 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Quite a big update: I went through all the PC emus and examined the EXEs to see what development tools the authors used (DJGPP, Allegro, VC++, WATCOM etc). If you are interested to see what tools are used to develop emus then take a look at the pages listed under 'Development Tools' (towards the bottom of the menu). 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 27 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME Variants</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  27 December 2000, 09:35 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A few MAME variants have been updated over the past few days:<br>
+<br>
+<a href="/html/emus/multi2/pacmame.shtml">PacMAME</a> v0.37 b10<br>
+<a href="/html/emus/multi2/nmame32.shtml">NMAME32</a> v0.37 b10<br>
+<a href="/html/emus/multi2/mame32j.shtml">MAME32J</a> v0.37 b10<br>
+<a href="/html/emus/wince/mamece3.shtml">MAMECE3</a> 8.1<br>
+<a href="/html/emus/multi2/apmame.shtml">APMAME</a> v0.37 b10 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Laser v0.15</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  27 December 2000, 09:38 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There were a couple of new <a href="/html/emus/multi/laser.shtml">Laser</a> releases for Christmas. Amongst the changes is the addition of Space Chaser. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  27 December 2000, 09:39 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There is a new screenshot at the <a href="http://www.finalburn.com">Final Burn</a> site. Looks like Street Fighter Zero (CPS changer) is coming along nicely. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  27 December 2000, 09:40 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More <a href="http://www.mame.net/wip0012.html">MAME WIP</a> to read over at the official site. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Sound Emus</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  27 December 2000, 09:42 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Added a couple more sound emus to CAESAR:<br>
+<br>
+<a href="/html/emus/sound/mmsnd.shtml">MMSND</a> by Hiro-Shi<br>
+<a href="/html/emus/sound/trombone.shtml">tROMbone</a> by Mutewitness 
+</td></tr>
+
+</table><br>
+<h2>Sunday 24 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CPS2 Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 December 2000, 03:45 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://cps2shock.retrogames.com/">CPS2Shock</a> now have a way to dump non encrypted program ROM's WITHOUT the need of bruteforcing. This will really speed things up once their software is finished. They also started work on data transfer between CPS-2 and PC but it will be a while before its finished. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Dave to support CPS2?</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 December 2000, 03:55 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Dave (<a href="http://www.finalburn.com/">Final Burn</a>) has posted a snapshot of Street Fighter Zero (decrypted CPS changer version) running in Final Burn. Looks like he may be working on this in anticipation of CPS2Shock decrypting the real CPS2 games. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 December 2000, 03:58 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://mimic.arcadeheaven.com/">Mimic</a> has had sprite priority to the SMS/SystemE VDP. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>ROMCenter 2 Released</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 December 2000, 04:00 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.romcenter.com">ROMCenter 2</a> has been released. Be sure to check out this great new ROM manager. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Merry Christmas</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 December 2000, 04:32 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Okay, I think this will be the last post for a day or two so have a good Christmas. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 23 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Heart Transplant</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  23 December 2000, 05:33 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+I have replaced the XSLT engine used for CAESAR (it does the XML to HTML conversion). <a href="http://www.gingerall.com">Sablotron</a> is faster, more reliable, free and portable! As all 7400 pages of CAESAR have been regenerated with the new engine I would like to know if there are any problems caused for you as a result. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Impact News</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  23 December 2000, 05:38 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Well, with Stargladiator being made public and so many sites distributing the leaked beta of <a href="/html/emus/multi/impact.shtml">Impact</a> I have now added this version into CAESAR. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>U64 v1.17</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  23 December 2000, 05:39 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/single/u64emu.shtml">U64Emu</a> v1.17 has been released. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mark Hazelwood...</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  23 December 2000, 05:42 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Mark Hazelwood (author of <a href="/html/emus/single/wingorf.shtml">WinGorf</a>) let me know of another emulator he released earlier this year called <a href="/html/emus/multi/winvader.shtml">Winvader</a>. Also updated the homepage for his <a href="/html/emus/multi/multiple_invaders.shtml">Multiple Invaders</a> emulator. 
+</td></tr>
+
+</table><br>
+<h2>Friday 22 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 December 2000, 07:15 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Gridle has posted details of the latest MAME developments. Take a look at the MAME <a href="http://www.mame.net/wip0012.html">WIP</a> page. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 20 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Quiet Today</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 December 2000, 14:40 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+No real news today but I did find time to try out the latest beta of ROMCenter 2. ROMCenter users are sure in for a treat when it's released! In the meantime, head on over to <a href="http://www.logiqx.com/">http://www.logiqx.com</a> for todays dat releases. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 19 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>RAINE32 Closer?</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  19 December 2000, 01:40 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Atani has posted a news item on his site that includes a picture of RAINE32. Head on over to read the <a href="http://www.atani-software.net/">news</a>. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>UPX Release</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  19 December 2000, 14:38 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://wildsau.idv.uni-linz.ac.at/mfx/upx.html">UPX</a> v1.04 has been released. UPX is the executable packer that is used by MAME (and many other emus). 
+</td></tr>
+
+</table><br>
+<h2>Monday 18 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>More CPS2 Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  18 December 2000, 12:31 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Head on over to the CPS2Shock <a href="http://cps2shock.retrogames.com/wip.html">WIP</a> page for the latest on their progress. Way to go Raz! 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Logiqx Releases</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  18 December 2000, 12:33 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+I've released a load of stuff at <a href="http://www.logiqx.com/">http://www.logiqx.com/</a>. Head on over there to read what it all is. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>U64Emu WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  18 December 2000, 13:08 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+RCP mentioned on the <a href="http://www.emuhq.com/truereality/trwin/index.htm">TRWin</a> website that he is looking at putting net play into <a href="/html/emus/single/u64emu.shtml">U64Emu</a>. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>GeoMAME updated</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  18 December 2000, 13:14 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/mac2/geomame.shtml">GeoMAME</a> the Neo-Geo only port of MAME for the Macintosh has received it's first update for a few betas (now caught up with v0.37 b10) 
+</td></tr>
+
+</table><br>
+<h2>Sunday 17 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 December 2000, 14:54 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Mike Beaver has made more progress on the Sega System E emulator. Head on over the <a href="http://mimic.arcadeheaven.com/">Mimic</a> home page for details. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 December 2000, 14:56 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The last few days progress have been reported at the <a href="http://www.mame.net/wip0012.html">MAME WIP</a> page. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>U64Emu v0.16</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 December 2000, 14:59 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="http://www.kiame.com/">U64Emu</a> has been released. This version of the Killer Instinct emulator should show some improvement in performance on your machine. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Update</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 December 2000, 15:07 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Added 11 of the emus that were on the <a href="/info/future.shtml">Future</a> page in to CAESAR. I also made many other updates so there are a total of 85 new/updated pages today. I don't think there can be many missing emus now so please help me find them. If you have been around the scene for a while then have a look through your archives and let me know if you find anything CAESAR is lacking. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 16 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CPS-2 Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  16 December 2000, 03:43 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+It seems that <a href="http://cps2shock.retrogames.com/">CPS2Shock</a> may be one step closer to decrypting their first CPS-2 game (Street Fighter Zero). Take a look at their <a href="http://cps2shock.retrogames.com/wip.html">WIP</a> page for further details. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>unMAMEed page has moved</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  16 December 2000, 03:46 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Bobby Tribble's unMAMEed arcade games page has now moved to <a href="http://unmamed.unemulated.com/">http://unmamed.unemulated.com/</a> 
+</td></tr>
+
+</table><br>
+<h2>Friday 15 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Shanghai Kid WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  15 December 2000, 01:25 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://unemulated.emuunlim.com/">The Guru</a> has set up a new WIP page for <a href="http://unemulated.emuunlim.com/shangkid/">Shanghai Kid</a>. If you're a developer (or just curious) please take a look at the Mame WIP driver and try to assist Phil Stroffolino with it.  
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  15 December 2000, 01:27 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Aaron Giles has been making good progress with drivers for Time Killers and Bloodstorm. Take a look at the <a href="http://www.mame.net/wip0012.html">MAME WIP</a> page for more details and screenshots. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 13 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Emus Received</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 December 2000, 11:14 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+I've received most of the emus that CAESAR is missing and added them to the <a href="/info/future.shtml">Future</a> page until such time as I can add them in (Christmas is eating up my time!) 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>New LCC-Win32</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 December 2000, 11:16 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="/html/tools/compilers/lccwin32.shtml">LCC-Win32</a> was released today. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 12 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Laser v0.14 released</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 December 2000, 10:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi/laser.shtml">Laser</a> has had Clowns and Lupin III added to it. Dats for CMPro/ROMCenter are available from my <a href="http://www.logiqx.com/">homepage</a>. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>AdvanceMAME Release</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 December 2000, 10:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi2/advancemame.shtml">AdvanceMAME</a> has been brought up to date with the main version (v0.37 b10). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 December 2000, 10:31 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another <a href="http://www.mame.net/wip0012.html">MAME WIP</a> update from Gridle. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MacMAME v0.37 b10</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 December 2000, 10:35 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/mac/macmame.shtml">MacMAME</a> has been updated to v0.37 b10 
+</td></tr>
+
+</table><br>
+<h2>Monday 11 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Emulators Added</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 December 2000, 08:57 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Added some extra emus that Idoru found for me:<br>
+<br>
+<a href="/html/emus/single/bombjack_pc.shtml">Bombjack</a> by Jakob Frandsen<br>
+<br>
+<a href="/html/emus/single/centipede_emulator.shtml">Centipede</a> and <a href="/html/emus/single/millipede_emulator.shtml">Millipede</a> by Ivan Mackintosh<br>
+<br>
+<a href="/html/emus/single/moon_cresta.shtml">Moon  Cresta</a> by Martin Scragg<br>
+<br>
+<a href="/html/emus/single/crazy_climber.shtml">Crazy Climber</a> by Nicola Salmoria 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME32 and PacMAME32</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 December 2000, 08:59 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+New versions of <a href="/html/emus/multi2/mame32.shtml">MAME32</a> and <a href="/html/emus/multi2/pacmame32.shtml">PacMAME32</a> have been released. Both are up to date with the MAME v0.37 b10. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 December 2000, 09:36 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Gridle has listed the last few days of MAME development on the <a href="http://www.mame.net/wip0012.html">MAME WIP</a> page. A variety of fixes are described and also the addition of Operation Wolf... one of my favorites from back then. 
+</td></tr>
+
+</table><br>
+<h2>Sunday 10 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Richard Mitton Updates</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 December 2000, 03:16 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Richard has supplied some additional information for his emulator <a href="/html/emus/single/tnzsemu.shtml">TNZS-EMU (The NewZealand Story Emulator)</a> and his z80 core <a href="/html/libs/cpu/raze.shtml">RAZE (Multi Asm Z80 Engine)</a> which amongst other things is used by Impact. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME32 Variants</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 December 2000, 03:19 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There are new releases of <a href="/html/emus/multi2/mame32j.shtml">MAME32J</a> and <a href="/html/emus/multi2/nmame32.shtml">NMAME32</a> to match MAME v0.37 b10. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Message Board Available</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 December 2000, 16:07 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The CAESAR message board is now available so if you have any questions about the content of CAESAR or the emulators themselves, feel free to ask on <a href="http://www.emuunderground.com/cgi/UltraBoard/UltraBoard.cgi">the board</a>. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 09 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Upload Completed</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 December 2000, 02:43 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+All ZIP uploading is now complete so you can download anything you want. Thanks for the additional information that people have been mailing me about. I'll update the site when I get home this evening. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Netscape Troubles</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 December 2000, 03:42 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Some people with Netscape 4.x have been experiencing problems with the site. I can see what has happened and put in a temporary fix which I'm hoping will remove the problem. Sorry for the inconvenience, I tested CAESAR on IE4, IE5, IE 5.5, Netscape 6 and Opera 4 but not Netscape 4.x. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Netscape Update</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 December 2000, 05:26 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Okay, the problem has gone away for some people but not all users of Netscape. As I won't be home for quite some time the problem will remain until I have access to my PC. I'll fix it as soon as is possible. Damned browsers! 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>New Information</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 December 2000, 14:58 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Updated the <a href="/html/emus/single/annoid.shtml">Annoid</a> page with information provided by <a href="/html/authors/brian_peek.shtml">Brian Peek<a> (the author) - there is a version 1.1 which basically contains the latest contact information</li><br>
+<br>
+Removed the Pong page as it was neither an emulation or simulation.<br>
+<br>
+Updated the <a href="/html/libs/cpu/genital68k.shtml">Genital 68K</a> page with yesterday's release (v0.12).<br>
+<br>
+Added another 68K core called <a href="/html/libs/cpu/musashi.shtml">Musashi</a> (the C 68K core used by MAME ).<br>
+<br>
+<a href="/html/emus/multi2/mame32af.shtml">Unofficial MAME32 with AutoFire</a> v0.37 beta 10 has been released 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Thanks Everyone</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 December 2000, 15:19 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+I would like to thank everyone who has e-mailed to say how impressed they are by CAESAR. Also, in order to make this reference as complete as possible I am keen that you help me fill in any missing blanks. If you're an emulation author I'd be especially interested to know which development tools and libraries you used for your emu. If you've got lots of old emus stashed away then please have a look through them to see if you have anything not in CAESAR. :) 
+</td></tr>
+
+</table><br>
+<h2>Friday 08 December</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Site Launch</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 December 2000, 10:35 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Welcome to my new site CAESAR! Inside it you'll find information about all the arcade emulators I could unearth, the games that they support and almost every cross reference imaginable. Over at my <a href="http://www.logiqx.com/">main site</a> I have also released CMPro/ROMCenter dats for all of the emulators inside CAESAR and a neat ROM tool called ROMBuild.<br>
+<br>
+The ZIPs are currently uploading (thanks to MikeDX for use of his cable) and I won't be around tonight as we're out celebrating his birthday. Hopefully there won't be any problems with the site :o 
+</td></tr>
+
+</table><br>
+ 

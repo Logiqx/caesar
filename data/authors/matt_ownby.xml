@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="matt_ownby">
+	<name>Matt Ownby</name>
+	<email>matt@rulecity.com</email>
+	<emulator_links>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="daphne_beos" type="beos">&emulator_daphne_beos;</emulator_link>
+		<emulator_link id="daphne_linux" type="linux">&emulator_daphne_linux;</emulator_link>
+		<emulator_link id="daphne_mac" type="mac">&emulator_daphne_mac;</emulator_link>
+	</emulator_links>
+</author>

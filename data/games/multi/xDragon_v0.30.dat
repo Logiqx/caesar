@@ -1,0 +1,143 @@
+clrmamepro (
+	name xDragon
+	description "xDragon v0.30"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name baddudes
+	description "Bad Dudes vs. Dragonninja (US)"
+	year 1988
+	manufacturer "Data East USA"
+	rom ( name baddudes.4 size 65536 crc 4bf158a7 sha1 e034f64cec3e8596a2d86dd83462592178f19611 )
+	rom ( name baddudes.1 size 65536 crc 74f5110c sha1 9b8ff24e69505846a1406f5ab82b855b84a5cdf2 )
+	rom ( name baddudes.6 size 65536 crc 3ff8da57 sha1 eea8125a3eac33d76d22e72b69633eaae138efe5 )
+	rom ( name baddudes.3 size 65536 crc f8f2bd94 sha1 622c66fea00cabb2cce16bf621b07d38a660708d )
+	rom ( name baddudes.7 size 32768 crc 9fb1ef4b sha1 f4dd0773be93c2ad8b0faacd12939c531b5aa130 )
+	rom ( name baddudes.25 size 32768 crc bcf59a69 sha1 486727e19c12ea55b47e2ef773d0d0471cf50083 )
+	rom ( name baddudes.26 size 32768 crc 9aff67b8 sha1 18c3972a9f17a48897463f48be0d723ea0cf5aba )
+	rom ( name baddudes.18 size 65536 crc 05cfc3e5 sha1 a0163921c77dc9706463a402c3dd45ec4341cd21 )
+	rom ( name baddudes.20 size 65536 crc e11e988f sha1 0c59f0d8d1abe414c7e1ebd49d454179fed2cd00 )
+	rom ( name baddudes.22 size 65536 crc b893d880 sha1 99e228174677f2e3e96154f77bfa9bf0f1c0a6a5 )
+	rom ( name baddudes.24 size 65536 crc 6f226dda sha1 65ebb16a292c57d49c135fce7ed7537146226eb5 )
+	rom ( name baddudes.30 size 65536 crc 982da0d1 sha1 d819a587905624d793988f2ea726783da527d9f2 )
+	rom ( name baddudes.28 size 65536 crc f01ebb3b sha1 1686690cb0c87d9e687b2abb4896cf285ab8378f )
+	rom ( name baddudes.15 size 65536 crc a38a7d30 sha1 5cb1fb97605829fc733c79a7e169fa52adc6863b )
+	rom ( name baddudes.16 size 32768 crc 17e42633 sha1 405f5296a741901677cca978a1b287d894eb1e54 )
+	rom ( name baddudes.11 size 65536 crc 3a77326c sha1 4de81752329cde6210a9c250a9f8ebe3dad9fe92 )
+	rom ( name baddudes.12 size 32768 crc fea2a134 sha1 525dd5f48993db1fe1e3c095442884178f75e8e0 )
+	rom ( name baddudes.13 size 65536 crc e5ae2751 sha1 4e4a3c68b11e9b0c8da70121b23296128063d4e9 )
+	rom ( name baddudes.14 size 32768 crc e83c760a sha1 d08db381658b8b3288c5eaa9048a906126e0f712 )
+	rom ( name baddudes.9 size 65536 crc 6901e628 sha1 1162c8cee20450780774cad54a9af40ebf0f0826 )
+	rom ( name baddudes.10 size 32768 crc eeee8a1a sha1 2bf8378ff38f6a7c7cbd4cbd489de25cb1f0fe71 )
+	rom ( name baddudes.8 size 65536 crc 3c87463e sha1 f17c98507b562e91e9b27599614b3249fe68ff7a )
+)
+
+game (
+	name drgninja
+	description "Dragonninja (Japan)"
+	year 1988
+	manufacturer "Data East Corporation"
+	rom ( name drgninja.04 size 65536 crc 41b8b3f8 sha1 0ab143b9f7a5f857cfd2053c24fa5213ce7641e4 )
+	rom ( name drgninja.01 size 65536 crc e08e6885 sha1 641eaf4ef6c8bfbc39611f5f81765f7915ae9d9f )
+	rom ( name drgninja.06 size 65536 crc 2b81faf7 sha1 6d10c29f5ee06856843d83e77ba24c2b6e00a9cb )
+	rom ( name drgninja.03 size 65536 crc c52c2e9d sha1 399f2b7df9d558c8f33bf1a7c8048c62e0f54cec )
+	rom ( name drgninja.07 size 32768 crc 001d2f51 sha1 f186671f0450ccf9201577a5caf0efc490c6645e )
+	rom ( name drgninja.25 size 32768 crc 6791bc20 sha1 7240b2688cda04ee9ea331472a84fbffc85b8e90 )
+	rom ( name drgninja.26 size 32768 crc 5d75fc8f sha1 92947dd78bfe8067fb5f645fa1ef212e48b69c70 )
+	rom ( name drgninja.18 size 65536 crc 05cfc3e5 sha1 a0163921c77dc9706463a402c3dd45ec4341cd21 )
+	rom ( name drgninja.20 size 65536 crc e11e988f sha1 0c59f0d8d1abe414c7e1ebd49d454179fed2cd00 )
+	rom ( name drgninja.22 size 65536 crc b893d880 sha1 99e228174677f2e3e96154f77bfa9bf0f1c0a6a5 )
+	rom ( name drgninja.24 size 65536 crc 6f226dda sha1 65ebb16a292c57d49c135fce7ed7537146226eb5 )
+	rom ( name drgninja.30 size 65536 crc 2438e67e sha1 5f143aeb83606a2c64d0b31bfee38156d231dcc9 )
+	rom ( name drgninja.28 size 65536 crc 5c692ab3 sha1 4c58ff50833f869575f1a15c776fbf1429944fab )
+	rom ( name drgninja.15 size 65536 crc 5617d67f sha1 8f684de27ae79c4d35720706cdd2733af0e0a9cc )
+	rom ( name drgninja.16 size 32768 crc 17e42633 sha1 405f5296a741901677cca978a1b287d894eb1e54 )
+	rom ( name drgninja.11 size 65536 crc ba83e8d8 sha1 63092a5d0da0c9228a72a83b43a67a47b1388724 )
+	rom ( name drgninja.12 size 32768 crc fea2a134 sha1 525dd5f48993db1fe1e3c095442884178f75e8e0 )
+	rom ( name drgninja.13 size 65536 crc fd91e08e sha1 8998f020791c8830e963096dc7b8fcb430d041d4 )
+	rom ( name drgninja.14 size 32768 crc e83c760a sha1 d08db381658b8b3288c5eaa9048a906126e0f712 )
+	rom ( name drgninja.09 size 65536 crc 6901e628 sha1 1162c8cee20450780774cad54a9af40ebf0f0826 )
+	rom ( name drgninja.10 size 32768 crc eeee8a1a sha1 2bf8378ff38f6a7c7cbd4cbd489de25cb1f0fe71 )
+	rom ( name drgninja.08 size 65536 crc 3c87463e sha1 f17c98507b562e91e9b27599614b3249fe68ff7a )
+)
+
+game (
+	name midres
+	description "Midnight Resistance (World)"
+	year 1989
+	manufacturer "Data East Corporation"
+	rom ( name fk_17.rom size 131072 crc 9029965d sha1 9b28dc38e86f24fa89d7971b141c9bdddc662c99 )
+	rom ( name fk_01.rom size 131072 crc 2c8b35a7 sha1 9ab1c2f014a24837ee99c4db000291f7e55aeb12 )
+	rom ( name fk_02.rom size 131072 crc 54d2c120 sha1 84f93bcd41d5bda8cfb39c4947fff025f53b143d )
+	rom ( name fk_03.rom size 131072 crc 1eefed3c sha1 be0ce3db211587086ae3ee8df85b7c56f831c623 )
+	rom ( name fk_04.rom size 65536 crc 325ba20c sha1 fecd6254cf8c3b18496039fe18ded13c2ae47ff4 )
+	rom ( name fk_05.rom size 65536 crc 3cdb7453 sha1 d4b7fbf4726a375b4478922db6d936274bfa963c )
+	rom ( name fk_06.rom size 131072 crc b7241ab9 sha1 3e83f9285ff4c476f1287bf73b514eace482dccc )
+	rom ( name fk_07.rom size 131072 crc 2068c45c sha1 943ed767a462ee39a42cd15f02d06c8a2e4556b3 )
+	rom ( name fk_08.rom size 131072 crc a936c03c sha1 293e69874ce9b2dfb1d605c9f988fa736b12bbcf )
+	rom ( name fk_09.rom size 131072 crc 907d5910 sha1 6f4963724987bf44007988d117a1f7276cf270d8 )
+	rom ( name fk_10.rom size 131072 crc 92245b29 sha1 3289842bbd4bd7858846b234f08ea5737c11536d )
+	rom ( name fk_11.rom size 131072 crc b86b73b4 sha1 dd0e61d60574e537aa1b7f35ffdfd08434ec8208 )
+	rom ( name fk_12.rom size 131072 crc 3494b8c9 sha1 6cb3f1421fe71d329c65c0a9056bcfae7229a37b )
+	rom ( name fk_13.rom size 131072 crc e3b3955e sha1 10ff430b14c1dbcce81b13251bac124ef4f9f1d9 )
+	rom ( name fk_14.rom size 131072 crc de7522df sha1 b627a4bf2f2308ff16e55a9e49ba4eb9bd637d90 )
+	rom ( name fk_15.rom size 131072 crc 1328354e sha1 2780a524718f351350e0fbc92a9a7ce9bdfc315e )
+	rom ( name fk_00.rom size 131072 crc 756fb801 sha1 35510c4ddf9258d87fdee0d3a64a8de0ebd1967d )
+)
+
+game (
+	name slyspy
+	description "Sly Spy (US revision 2)"
+	year 1989
+	manufacturer "Data East USA"
+	rom ( name fa14-2.bin size 65536 crc 0e431e39 sha1 ab4774966ad113e4d7004d14bfd72330d4a93a43 )
+	rom ( name fa12-2.bin size 65536 crc 1b534294 sha1 cf7badea6604c47d9f3ff8a0ef326e09de1974a0 )
+	rom ( name fa15-.bin size 65536 crc 04a79266 sha1 69d256ffb1c89721f8b1e929c581f187e047b977 )
+	rom ( name fa13-.bin size 65536 crc 641cc4b3 sha1 ce0ccd14d201f411cfc02ec988b2ad4fcb0d8f5d )
+	rom ( name fa05-.bin size 32768 crc 09802924 sha1 d9bc5fe7f053afa15cd39400aae993866d1b0226 )
+	rom ( name fa04-.bin size 32768 crc ec25b895 sha1 8c1d2b9a2487fd7114d37fe9dc271183c4cc1613 )
+	rom ( name fa07-.bin size 65536 crc e932268b sha1 ee8ed29affa951e725cf19a5f56d3beac24420c9 )
+	rom ( name fa06-.bin size 65536 crc c4dd38c0 sha1 267dbbdd5df6b13662cd307c5c95fdf643d64f45 )
+	rom ( name fa09-.bin size 131072 crc 1395e9be sha1 60693ac6236ffe1e0933d81771cfad32e14514c3 )
+	rom ( name fa08-.bin size 131072 crc 4d7464db sha1 82e2a3c3d78447985968220d52c7c1f1ff625d83 )
+	rom ( name fa01-.bin size 131072 crc 99b0cd92 sha1 2729e874730391b5fa93e9a28142c02c00eb5068 )
+	rom ( name fa03-.bin size 131072 crc 0e7ea74d sha1 22078a2856933af2d31750a4a506b993fe309e9a )
+	rom ( name fa00-.bin size 131072 crc f7df3fd7 sha1 ed9e4649e0b1fcca61cf4d159b3f8a35f06102ce )
+	rom ( name fa02-.bin size 131072 crc 84e8da9d sha1 41da6042f80ea3562aa350f4f466b16db29e2aca )
+	rom ( name fa11-.bin size 131072 crc 4e547bad sha1 655eda4d00f8846957ed40dcbf750fba3ce19f4e )
+)
+
+game (
+	name robocop
+	description "Robocop (World bootleg)"
+	year 1988
+	manufacturer "bootleg"
+	rom ( name 68k_4.bin size 65536 crc bcef3e9b sha1 0ca099ea7428f877036e6e2a6daddfd9145ed9bb )
+	rom ( name 68k_3.bin size 65536 crc c9803685 sha1 13b3b0ebee24b4453685616e9a204b4ca6fb0053 )
+	rom ( name 68k_2.bin size 65536 crc 9d7b79e0 sha1 e0d901b9b3cd62f7c947da04f7447ebfa88bf44a )
+	rom ( name 68k_1.bin size 65536 crc 80ba64ab sha1 0688f1b483a265c7324f546d38a4a5ac5b1b9214 )
+	rom ( name roboc_03.rom size 32768 crc 5b164b24 sha1 b217a2ac8b26aebd208631a13030487ed27d232e )
+	rom ( name roboc_23.rom size 65536 crc a77e4ab1 sha1 d06cc847192b6c7f642e4ff7128e298d0aa034b2 )
+	rom ( name roboc_22.rom size 65536 crc 9fbd6903 sha1 9ac6ac8a18c23e915e8ae3782867d10c0bd65778 )
+	rom ( name roboc_20.rom size 65536 crc 1d8d38b8 sha1 9add6349f8a578fb86b678cef921d6ec0cfccdad )
+	rom ( name roboc_21.rom size 65536 crc 187929b2 sha1 deca1f0a52584769caee1d2302617aa957c56a71 )
+	rom ( name roboc_18.rom size 65536 crc b6580b5e sha1 ee216d8db89b8cb7a51a4e19bf6f17788547156b )
+	rom ( name roboc_19.rom size 65536 crc 9bad01c7 sha1 947c7f9d0facaea13a924274adde0e996be7b999 )
+	rom ( name roboc_14.rom size 32768 crc ca56ceda sha1 edbaa29fc166cddf071ff5e59cfcfb7eeb127d68 )
+	rom ( name roboc_15.rom size 32768 crc a945269c sha1 de0b387e8699298f7682d6d7ca803a209888f7a1 )
+	rom ( name roboc_16.rom size 32768 crc e7fa4d58 sha1 32e3f649b4f112a4e6be00068473b82c627bc8d1 )
+	rom ( name roboc_17.rom size 32768 crc 84aae89d sha1 037520bd0f291f862c2211a6f35b2a8a54f10b2a )
+	rom ( name roboc_07.rom size 65536 crc 495d75cf sha1 0ffe677d53b7675073902e9bd40e4150f2cdfb1a )
+	rom ( name roboc_06.rom size 32768 crc a2ae32e2 sha1 4e8182205563da9d50a831c65951645e278b03e6 )
+	rom ( name roboc_11.rom size 65536 crc 62fa425a sha1 be88c1a6436df8a456c405822e28c472e3e79a69 )
+	rom ( name roboc_10.rom size 32768 crc cce3bd95 sha1 00bbb197824d970b0e404167ca4ae53e1955ad94 )
+	rom ( name roboc_09.rom size 65536 crc 11bed656 sha1 6a7d984a32982d9aef8ea7d8a720925036e7046e )
+	rom ( name roboc_08.rom size 32768 crc c45c7b4c sha1 70e3e475fe767eefa4cc1d6ca052271a099ff7a8 )
+	rom ( name roboc_13.rom size 65536 crc 8fca9f28 sha1 cac85bf2b66e49e22c33c85bdb5712feef6aae7e )
+	rom ( name roboc_12.rom size 32768 crc 3cd1d0c3 sha1 ca3546cf51ebb10dfa4e78954f0212e8fcdb3d57 )
+	rom ( name roboc_02.rom size 65536 crc 711ce46f sha1 939a8545e53776ff2180d2c7e63bc997689c088e )
+)
+

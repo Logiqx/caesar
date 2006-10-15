@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="xbox">
+	<title>Emulators for the Microsoft X-Box</title>
+	<comment>These emulators are all for the Microsoft X-Box</comment>
+	<emulator_links>
+		<emulator_link id="centipede_xbox" type="xbox">&emulator_centipede_xbox;</emulator_link>
+		<emulator_link id="fbax" type="xbox">&emulator_fbax;</emulator_link>
+		<emulator_link id="mamex" type="xbox">&emulator_mamex;</emulator_link>
+		<emulator_link id="taito_legends_xbox" type="xbox">&emulator_taito_legends_xbox;</emulator_link>
+	</emulator_links>
+</emulator_contents>

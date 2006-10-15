@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="astdxgl" type="multi" dat="AstDxGL_v0.9">
+	<name>AstDxGL</name>
+	<version>0.9</version>
+	<date>31/12/2004</date>
+
+	<homepage>http://webpages.charter.net/astgl/</homepage>
+	<author_link id="tim_astgl">&author_tim_astgl;</author_link>
+
+	<emulates>Asteroids, Asteroids Deluxe and Lunar Lander (all by Atari)</emulates>
+	<comment>Emulates a few class ic vector games by Atari, adding enhanced graphics and sounds</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="6502" type="cpu">&library_6502;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="Astdxgl-rel9.rar">Emulator</file>
+	</files>
+</emulator>

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="raine" type="multi" dat="RAINE_v0.43.2">
+	<name>RAINE</name>
+	<version>0.43.2</version>
+	<date>20/09/2005</date>
+
+	<homepage>http://www.rainemu.com/</homepage>
+	<homepage>http://sourceforge.net/projects/raine/</homepage>
+	<author_link id="antiriad">&author_antiriad;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="tux">&author_tux;</author_link>
+			<comment>Maintainer since RAINE turned open source and creator of the Linux port</comment>
+		</contributor>
+		<contributor>
+			<author_link id="mario_silva">&author_mario_silva;</author_link>
+			<comment>Organisation, coordination, rom finding, www updating and a lot of other stuff</comment>
+		</contributor>
+		<contributor>
+			<author_link id="hiromitsu_shioya">&author_hiromitsu_shioya;</author_link>
+			<comment>Main sound coding, implementation of sound playback and emulators, emulation of M6295, MSM5205 and YM2610. Plus many other improvements</comment>
+		</contributor>
+		<contributor>
+			<author_link id="richard_mitton">&author_richard_mitton;</author_link>
+			<comment>Emulation of Plotting, Bubble Bobble, Kiki Kai Kai and maybe a few other z80 games (wait and see!). Sound help, cool MCU static recompiler, and more nice things</comment>
+		</contributor>
+		<contributor>
+			<author_link id="cedrick_collomb">&author_cedrick_collomb;</author_link>
+			<comment>x86 asm optimization</comment>
+		</contributor>
+		<contributor>
+			<author_link id="katharsis">&author_katharsis;</author_link>
+			<comment>Fixing some dipswitches, crc32, other beta stuff and 'WIP' coordinator</comment>
+		</contributor>
+		<contributor>
+			<author_link id="david_haywood">&author_david_haywood;</author_link>
+			<comment>Part of the 'WIP' team</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Mainly 68000+68020 Taito, Jaleco and Campcom games</emulates>
+	<comment>Originally the 'Rainbow Islands Emulator'. Faster than MAME for the games it does. Now an open source development at SourceForge. V0.41.0 added DX support!</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+		<tool_link id="eagle" type="gfx_libs">&tool_eagle;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+		<tool_link id="libpng" type="gfx_libs">&tool_libpng;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="rained-0.43.2-1.zip">Emulator</file>
+		<file name="raineicons.zip">Icons</file>
+		<file name="rainefonts.zip">Fonts</file>
+		<file name="rainedocs.zip">Documents</file>
+		<file name="history062a.zip">History</file>
+		<file name="snapshot-am.zip">Snapshots</file>
+		<file name="big-snapshot-am.zip">Big Snapshots</file>
+		<file name="dkongg.dx2">Donkey Kong DX File</file>
+		<file name="froggerg.dx2">Frogger DX File</file>
+		<file name="mspacmang.dx2">Ms Pacman DX File</file>
+		<file name="pacmang.dx2">Pacman DX File</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+			<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+			<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

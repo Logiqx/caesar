@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="amiga">
+	<title>Emulators for the Amiga</title>
+	<comment>These emulators are all for the Amiga</comment>
+	<emulator_links>
+		<emulator_link id="amame" type="amiga">&emulator_amame;</emulator_link>
+		<emulator_link id="arcem" type="amiga">&emulator_arcem;</emulator_link>
+		<emulator_link id="asie" type="amiga">&emulator_asie;</emulator_link>
+		<emulator_link id="mame_amiga" type="amiga">&emulator_mame_amiga;</emulator_link>
+		<emulator_link id="mame_amigappc" type="amiga">&emulator_mame_amigappc;</emulator_link>
+		<emulator_link id="warpmame" type="amiga">&emulator_warpmame;</emulator_link>
+	</emulator_links>
+</emulator_contents>

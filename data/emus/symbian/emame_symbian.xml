@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="emame_symbian" type="symbian" dat="dummy">
+	<name>EMame (Symbian)</name>
+	<version>1.2</version>
+	<date>29/08/2004</date>
+
+	<homepage>http://www.yipton.demon.co.uk/</homepage>
+	<author_link id="emame">&author_emame;</author_link>
+
+	<emulates>Emulates a subset of MAME games</emulates>
+	<comment>Port of EMame to the SonyEricsson P800/P900 (Symbian OS version 7).</comment>
+	<status>Dormant</status>
+
+	<platform>Symbian</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>?</screendump>
+		<hiscoresave>?</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>?</recordinput>
+		<dips>?</dips>
+		<cheat>?</cheat>
+		<autoframeskip>?</autoframeskip>
+		<throttle>?</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>?</rotate>
+	</features>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+			<emulator_link id="emame" type="psion">&emulator_emame;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

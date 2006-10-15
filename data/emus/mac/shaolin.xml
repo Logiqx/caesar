@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="shaolin" type="mac" dat="Shaolin">
+	<name>Shaolin</name>
+	<version>1.0</version>
+	<date>22/12/1997</date>
+
+	<homepage status="bad">http://www.maya.com/local/phil/shaolin/</homepage>
+	<author_link id="phil_stroffolino">&author_phil_stroffolino;</author_link>
+
+	<emulates>Shaolin's Road</emulates>
+	<comment>I don't have a Mac so I can't really comment on this emulator!</comment>
+	<status>Discontinued</status>
+
+	<platform>Mac</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="Shaolin.sit">Emulator</file>
+	</files>
+</emulator>

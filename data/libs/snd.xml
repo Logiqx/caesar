@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE library_contents SYSTEM "../../dtd/caesar.dtd">
+<library_contents id="snd">
+	<title>Sound Emulators</title>
+	<comment>These sound emulators are openly available for people to use in their own emulators</comment>
+	<library_links>
+		<library_link id="snd" type="">&library_snd;</library_link>
+	</library_links>
+</library_contents>

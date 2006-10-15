@@ -1,0 +1,39 @@
+clrmamepro (
+	name Slutte!
+	description "Slutte! (Bligh version)"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name bionicc
+	description "Bionic Commando (US set 1)"
+	year 1987
+	manufacturer "Capcom"
+	rom ( name tsu_02b.rom size 65536 crc cf965a0a sha1 ab88742a3225a0b82ee2dfef6ed0058d3e11c38c )
+	rom ( name tsu_04b.rom size 65536 crc c9884bfb sha1 7d10cedff0a62847f8deb61a9611cc6661efb037 )
+	rom ( name tsu_03b.rom size 65536 crc 4e157ae2 sha1 cc02931376d22a7fcfc320e6fd4129e03a461a49 )
+	rom ( name tsu_05b.rom size 65536 crc e66ca0f9 sha1 a503badf2fed38786d38c313d1dc315f3175d6de )
+	rom ( name tsu_01b.rom size 32768 crc a9a6cafa sha1 55e0a0e6ca11e8e73339d5b4604e130031211291 )
+	rom ( name tsu_08.rom size 32768 crc 9bf0b7a2 sha1 1361335c3c2c8a9c6a7d99566048d8aac99e7c8f )
+	rom ( name tsu_07.rom size 32768 crc 9469efa4 sha1 53c70361e8d9e54825f61b87a10df42438aaf5b0 )
+	rom ( name tsu_06.rom size 32768 crc 40bf0eb4 sha1 fcb186c31747e2c9872de01e34b3e713dc74df82 )
+	rom ( name ts_12.rom size 32768 crc e4b4619e sha1 3bec8399ffb28fd50ce6ae88d90b091eadf8bda1 )
+	rom ( name ts_11.rom size 32768 crc ab30237a sha1 ea6c07df992ba48f9eca7daa4ea775faa94358d2 )
+	rom ( name ts_17.rom size 32768 crc deb657e4 sha1 b36b468f9bbb7a4937286230d3f6caa14c61d4dd )
+	rom ( name ts_16.rom size 32768 crc d363b5f9 sha1 1dd3991d99db2d6bcbdb12879ba50a01fef95004 )
+	rom ( name ts_13.rom size 32768 crc a8f5a004 sha1 36ab0cb8ec9ce0519876f7461ccc5020c9c5b597 )
+	rom ( name ts_18.rom size 32768 crc 3b36948c sha1 d85fcc0265ba1729c587b046cc5a7ba6f25363dd )
+	rom ( name ts_23.rom size 32768 crc bbfbe58a sha1 9b1d5672b6f3c5c0952f8dcd0da71acc68a97a5e )
+	rom ( name ts_24.rom size 32768 crc f156e564 sha1 a6cad05bcc6d9ded6294f9b5aa856d05641aed02 )
+	rom ( name tsu_10.rom size 32768 crc f1180d02 sha1 312626af48235a1f726ab596f296ef4739785ca0 )
+	rom ( name tsu_09.rom size 32768 crc 6a049292 sha1 525c862061f426d679b539b6926af4c9f14b47b5 )
+	rom ( name tsu_15.rom size 32768 crc ea912701 sha1 106336c63a1c8a0b13236268bc533a8263285cad )
+	rom ( name tsu_14.rom size 32768 crc 46b2ad83 sha1 21ebd5691a544323fdfcf330b9a37bbe0428e3e3 )
+	rom ( name tsu_20.rom size 32768 crc 17857ad2 sha1 9f45cea6e9ce82bfc9ee6896a30257d20fb38bca )
+	rom ( name tsu_19.rom size 32768 crc b5c82722 sha1 969f9159f7d59e4e4c9ef9ddbdc27cbfa531eabf )
+	rom ( name tsu_22.rom size 32768 crc 5ee1ae6a sha1 76ca53d847c940c4176d79ba49b0c10efd6342e8 )
+	rom ( name tsu_21.rom size 32768 crc 98777006 sha1 bcc2058b639e9b71d16af05f63df298bcce91fdc )
+)
+

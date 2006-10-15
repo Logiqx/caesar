@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="enhanced">
+	<title>Enhanced Emulators</title>
+	<comment>These emulators enhance the graphics and/or sound of the original arcade games</comment>
+	<emulator_links>
+		<emulator_link id="ast3dx" type="single">&emulator_ast3dx;</emulator_link>
+		<emulator_link id="astdx" type="single">&emulator_astdx;</emulator_link>
+		<emulator_link id="centipede_classic_mode" type="commercial">&emulator_centipede_classic_mode;</emulator_link>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="new_asteroids" type="java">&emulator_new_asteroids;</emulator_link>
+		<emulator_link id="pacx" type="single">&emulator_pacx;</emulator_link>
+		<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		<emulator_link id="pacifi3d" type="single">&emulator_pacifi3d;</emulator_link>
+		<emulator_link id="qbert_classic_mode" type="commercial">&emulator_qbert_classic_mode;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="retrofx_gng" type="single">&emulator_retrofx_gng;</emulator_link>
+	</emulator_links>
+</emulator_contents>

@@ -1,0 +1,188 @@
+clrmamepro (
+	name JAS
+	description "JAS v1.01"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name mappy
+	description "Mappy"
+	year 1983
+	manufacturer "Namco"
+	rom ( name mappy3.bin size 8192 crc db9d5ab5 sha1 32a0190f96f9c00c541b24dd17d6ad487938a8bf )
+	rom ( name mappy2.bin size 8192 crc a958a61c sha1 e5198703cdf47b2cd7fc9f2a5fde7bf4ab2275db )
+	rom ( name mappy1.bin size 8192 crc 77c0b492 sha1 631b73560ac59c3612e692fa59558773639ceda7 )
+	rom ( name mappy4.bin size 8192 crc 8182dd5b sha1 f36b57f7f1e79f00b3f07afe1960bca5f5325ee2 )
+	rom ( name mappy-5b.bin size 32 crc 56531268 sha1 2e356706c07f43eeb67783fb122bdc7fed1b3589 )
+	rom ( name mappy-4c.bin size 256 crc 50765082 sha1 f578e14f15783acb2073644db4a2f0d196cc0957 )
+	rom ( name mappy-5k.bin size 256 crc 5396bd78 sha1 2e387e5d8b8cab005f67f821b4db65d0ae8bd362 )
+	rom ( name mappy-3m.bin size 256 crc 16a9166a sha1 847cbaf7c88616576c410177e066ae1d792ac0ba )
+	rom ( name mappy6.bin size 8192 crc f2d9647a sha1 3cc216793c6a5f73c437ad2524563deb3b5e2890 )
+	rom ( name mappy7.bin size 8192 crc 757cf2b6 sha1 8dfbf03953d5219d9eb5fc654ec3392442ba1dc4 )
+	rom ( name mappy5.bin size 4096 crc 16498b9f sha1 76610149c65f955484fef1c033ddc3fed3f4e568 )
+)
+
+game (
+	name gaplus
+	description "Gaplus"
+	year 1984
+	manufacturer "Namco"
+	rom ( name gp2-3f.bin size 256 crc 2d9fbdd8 sha1 e6a23cd5ce3d3e76de3b70c8ab5a3c45b1147af4 )
+	rom ( name gp2-6s.bin size 256 crc 2faa3e09 sha1 781ffe9088476798409cb922350eff881590cf35 )
+	rom ( name gp2-6p.bin size 512 crc 6f99c2da sha1 955dcef363870ee8e91edc73b9ea3ce489738aad )
+	rom ( name gp2-6n.bin size 512 crc c7d31657 sha1 a93a5bc448dc127e1389d10a9cb06acadfe940cf )
+	rom ( name gp2-1p.bin size 256 crc a5091352 sha1 dcd6dfbfbd5281ba0c7b7c189d6fde23617ed3e3 )
+	rom ( name gp2-1n.bin size 256 crc 8bc8022a sha1 c76f9d9b066e268621d41a703c5280261234709a )
+	rom ( name gp2-2n.bin size 256 crc 8dabc20b sha1 64d7b333f529d3ba66aeefd380fd1cbf9ddf460d )
+	rom ( name gp2-1.64 size 8192 crc ed8aa206 sha1 4e0a31d84cb7aca497485dbe0240009d58275765 )
+	rom ( name gp2-10.64 size 8192 crc 6cd8ce11 sha1 fc346e98737c9fc20810e32d4c150ae4b4051979 )
+	rom ( name gp2-11.64 size 8192 crc 57740ff9 sha1 16873e0ac5f975768d596d7d32af7571f4817f2b )
+	rom ( name gp2-12.64 size 8192 crc 7316a1f1 sha1 368e4541a5151e906a189712bc05192c2ceec8ae )
+	rom ( name gp2-2.64 size 8192 crc 69fdfdb7 sha1 aec611336b8767897ad493d581d70b1f0e75aeba )
+	rom ( name gp2-3.64 size 8192 crc a74b0266 sha1 a534c6b4af569ed545bf52769c7d5ceb5f2c4935 )
+	rom ( name gp2-4.64 size 8192 crc 484f11e0 sha1 659756ae183dac3817440c8975f203c7dbe08c6b )
+	rom ( name gp2-5.64 size 8192 crc f3d19987 sha1 a0107fa4659597ac42c875ab1c0deb845534268b )
+	rom ( name gp2-6.64 size 8192 crc 14cd61ea sha1 05605abebcf2791e60b2d810dafcdd8582a87d9b )
+	rom ( name gp2-7.64 size 8192 crc 0621f7df sha1 b86020f819fefb134cb57e203f7c90b1b29581c8 )
+	rom ( name gp2-8.64 size 8192 crc bff601a6 sha1 e1a04354d8d0bc0d51d7341a46bd23cbd2158ee9 )
+	rom ( name gp2-9.64 size 8192 crc e6a9ae67 sha1 99c1e67c3b216aa1b63f199e21c73cdedde80e1b )
+)
+
+game (
+	name gal3
+	description "Galaga 3"
+	year 1985
+	manufacturer "Namco"
+	rom ( name g3_1c.bin size 256 crc a5091352 sha1 dcd6dfbfbd5281ba0c7b7c189d6fde23617ed3e3 )
+	rom ( name g3_1d.bin size 256 crc 8bc8022a sha1 c76f9d9b066e268621d41a703c5280261234709a )
+	rom ( name g3_2d.bin size 256 crc 8dabc20b sha1 64d7b333f529d3ba66aeefd380fd1cbf9ddf460d )
+	rom ( name g3_3e.bin size 512 crc 417ba0dc sha1 2ba51ccdd0428fc48758ed8fea36c8ce0e752a45 )
+	rom ( name g3_3f.bin size 512 crc d48c0eef sha1 6d0512958bc522d22e69336677369507847f8f6f )
+	rom ( name g3_4f.bin size 256 crc 2d9fbdd8 sha1 e6a23cd5ce3d3e76de3b70c8ab5a3c45b1147af4 )
+	rom ( name g3_8g.bin size 256 crc 2faa3e09 sha1 781ffe9088476798409cb922350eff881590cf35 )
+	rom ( name g3_8n.bin size 40 crc 6f44e937 sha1 a8c154f231bd7c144b611e61e22cf761eb646dd2 )
+	rom ( name gal3_5k.bin size 8192 crc 7316a1f1 sha1 368e4541a5151e906a189712bc05192c2ceec8ae )
+	rom ( name gal3_5l.bin size 8192 crc 6cd8ce11 sha1 fc346e98737c9fc20810e32d4c150ae4b4051979 )
+	rom ( name gal3_5m.bin size 8192 crc 57740ff9 sha1 16873e0ac5f975768d596d7d32af7571f4817f2b )
+	rom ( name gal3_5n.bin size 8192 crc e6a9ae67 sha1 99c1e67c3b216aa1b63f199e21c73cdedde80e1b )
+	rom ( name gal3_6l.bin size 8192 crc 9ec3dce5 sha1 196a975aff59be19f55041a44b201aafef083ba7 )
+	rom ( name gal3_6m.bin size 8192 crc 0621f7df sha1 b86020f819fefb134cb57e203f7c90b1b29581c8 )
+	rom ( name gal3_6n.bin size 8192 crc 6a2942c5 sha1 6fb2c4dcb2ad393220917b81f1a42e571d209d76 )
+	rom ( name gal3_7b.bin size 8192 crc ed8aa206 sha1 4e0a31d84cb7aca497485dbe0240009d58275765 )
+	rom ( name gal3_9c.bin size 8192 crc f1b00073 sha1 5d998d938251f173cedf742b95d02cc0a2b9d3be )
+	rom ( name gal3_9d.bin size 8192 crc 86fac687 sha1 07f76af524dbb3e79de41ef4bf32e7380776d9f5 )
+	rom ( name gal3_9e.bin size 8192 crc f4845e7f sha1 7b1377254f594bea4a8ffc7e388d9106e0266b55 )
+	rom ( name gal3_9l.bin size 8192 crc 8d4dcebf sha1 0a556b45976bc36eb99048b1512c446b472da1d2 )
+)
+
+game (
+	name skykid
+	description "Sky Kid"
+	year 1985
+	manufacturer "Namco"
+	rom ( name sk1-6b.bin size 16384 crc 7abe6c6c sha1 7d2631cc6149fa3e02b1355cb899de5474ff5d0a )
+	rom ( name sk5-7e.bin size 8192 crc c33a498e sha1 9f89a514888418a9bebbca341a8cc66e41b58acb )
+	rom ( name sk6-6l.bin size 8192 crc 58b731b9 sha1 40f7be85914833ce02a734c20d68c0db8b77911d )
+	rom ( name sk7-10m.bin size 16384 crc 3454671d sha1 723b26a0f208addc2a22736457cb4be6ab6c69cc )
+	rom ( name sk9-10n.bin size 16384 crc 44bb7375 sha1 5b2fa6782671150bab5f3c3ac46b47bc23f3d7e0 )
+	rom ( name sk-6n.bin size 512 crc 161514a4 sha1 4488ce60d12be6586e4a1ddbbfd06bf4e7dfaceb )
+	rom ( name sk-5n.bin size 512 crc c697ac72 sha1 3b79755e6cbb22c14fc4affdbd3f4521da1d90e8 )
+	rom ( name sk1-2n.bin size 256 crc 0218e726 sha1 8b766162a4783c058d9a1ecf8741673d7ef955fb )
+	rom ( name sk2-2p.bin size 256 crc fc0d5b85 sha1 d1b13e42e735b24594cf0b840dee8110de23369e )
+	rom ( name sk3-2r.bin size 256 crc d06b620b sha1 968a2d62c65e201d521e9efa8fcf6ad15898e4b3 )
+	rom ( name sk4-3c.bin size 8192 crc a460d0e0 sha1 7124ffeb3b84b282940dcbf9421ae4934bcce1c8 )
+	rom ( name sk1-mcu.bin size 4096 crc 6ef08fb3 sha1 4842590d60035a0059b0899eb2d5f58ae72c2529 )
+	rom ( name skysnd.bin size 512 crc 19e2d4b9 sha1 ba189f15dc635ab0e342c47bb61956dfa7c8abaa )
+	rom ( name sk3-6d.bin size 16384 crc 314b8765 sha1 d90a8a853ce672fe5ee190f07bcb33262c73df3b )
+	rom ( name sk2-6c.bin size 16384 crc ea8a5822 sha1 5b13133410bcb7d647e662b476dbfd2edab8aac0 )
+)
+
+game (
+	name digdug2
+	description "Dig Dug 2"
+	year 1985
+	manufacturer "Namco"
+	rom ( name ddug2-3.bin size 16384 crc be7ec80b sha1 a053274ffbf3200e9b89a8be1bd91744acb4a823 )
+	rom ( name ddug2-1.bin size 16384 crc 5c77c0d4 sha1 56709e5db1686fd996d21c1005accf34e2d863e1 )
+	rom ( name ddug2-4.bin size 8192 crc 737443b1 sha1 0e46204089cc6e5ffab0d2a62f9a1728f8c35948 )
+	rom ( name ddclr-5b.bin size 32 crc 9b169db5 sha1 77e840d10ab59708a051c3b15305b33d431ee06d )
+	rom ( name ddclr-4c.bin size 256 crc 55a88695 sha1 bd6bd641c9f220b6a2cc414a1117d5c089571400 )
+	rom ( name ddclr-5k.bin size 256 crc 1525a4d1 sha1 bbedb0cf5957671fca1229d38cb33086356813e1 )
+	rom ( name ddsnd.bin size 256 crc e0074ee2 sha1 f4f02977130110be52f4dd82fc3c0d02f45778b9 )
+	rom ( name ddug2-3m.bin size 16384 crc df1f4ad8 sha1 004fba630018dbf03c4b0e284c98077e19fface3 )
+	rom ( name ddug2-3n.bin size 16384 crc ccadb3ea sha1 77d8d8e6039272f73e63c8f76084138ec613365a )
+	rom ( name ddug2-3b.bin size 4096 crc afcb4509 sha1 c9a54df22b0b92efbe7417a00200587225906b46 )
+)
+
+game (
+	name superpac
+	description "Super PacMan"
+	year 1982
+	manufacturer "[Namco] (Bally Midway license)"
+	rom ( name spc2-1c.bin size 8192 crc 1a38c30e sha1 ae0ee9f3df0991a80698fe745a7a853a4bb60710 )
+	rom ( name spc1-1b.bin size 8192 crc 730e95a9 sha1 ca73c8bcb03c2f5c05968c707a5d3f7f9956b886 )
+	rom ( name spv1-3c.bin size 4096 crc 78337e74 sha1 11222adb55e6bce508896ccb1f6dbab0c1d44e5b )
+	rom ( name spv2-3f.bin size 8192 crc 670a42f2 sha1 9171922df07e31fd1dc415766f7d2cc50a9d10dc )
+	rom ( name sp-3l.bin size 256 crc d4d7026f sha1 a486573437c54bfb503424574ad82655491e85e1 )
+	rom ( name sp-4e.bin size 256 crc 1253c5c1 sha1 df46a90170e9761d45c90fbd04ef2aa1e8c9944b )
+	rom ( name sp-4c.bin size 32 crc 9ce22c46 sha1 d97f53ef4c5ef26659a22ed0de4ce7ef3758c924 )
+	rom ( name spc3-1k.bin size 4096 crc 04445ddb sha1 ce7d14963d5ddaefdeaf433a6f82c43cd1611d9b )
+	rom ( name sp-snd.bin size 256 crc ad43688f sha1 072f427453efb1dda8147da61804fff06e1bc4d5 )
+)
+
+game (
+	name pacland
+	description "PacLand (Midway)"
+	year 1984
+	manufacturer "[Namco] (Bally Midway license)"
+	rom ( name pl1-1 size 16384 crc a938ae99 sha1 bf12097d8c69685cb7af763f9b9617c767aaed2f )
+	rom ( name pl1-2 size 16384 crc 3fe43bb5 sha1 14e6144d06ff2fd786f383f36f1b8238ac364849 )
+	rom ( name pl1-3 size 16384 crc aa9fa739 sha1 7b1f7857eb5f68e166b1f8988c82051aaf05df48 )
+	rom ( name pl1-4 size 16384 crc 2b895a90 sha1 820f8873c6a5a736089406d0f03d491dfb82d00d )
+	rom ( name pl1-5 size 16384 crc 7af66200 sha1 f44161ded1633e9801b7a9cd84d481e53823f5d9 )
+	rom ( name pl1-6 size 16384 crc b01e59a9 sha1 e5b093852d33a4d09969d111fa6e42e964aa4dac )
+	rom ( name pl1-7 size 8192 crc 8c5becae sha1 14d67136395c4c64472980a69648ce2d479ae67f )
+	rom ( name pl1-8 size 16384 crc a2ebfa4a sha1 4a2a2b43a23a7a46266751415d1bde118143429c )
+	rom ( name pl1-9 size 16384 crc f5d5962b sha1 8d008a9bc06dc562c241955d9c551647b5c1f4e9 )
+	rom ( name pl1-10 size 16384 crc c7cf1904 sha1 7ca8ed20ee32eb8609ac96b4e4fcb3b6027b598a )
+	rom ( name pl1-11 size 16384 crc 6621361a sha1 4efa40adba803006e86d5e12514983d4132b5efb )
+	rom ( name pl1-12 size 8192 crc c159fbce sha1 b0326c85b7df407f3e94c38a5971f911968d7b27 )
+	rom ( name pl1-13 size 8192 crc 6c5ed9ae sha1 db919c9254289179e98ba5d2ed8c66d67ae95f35 )
+	rom ( name pl-snd size 512 crc d3aff2df sha1 213b87acdc8494e5bd24b44bc9e6a17dcb5aea5e )
+	rom ( name pl1-mcu.bin size 4096 crc 6ef08fb3 sha1 4842590d60035a0059b0899eb2d5f58ae72c2529 )
+	rom ( name pl1-1.bin size 1024 crc a78ebdaf sha1 8ea215701eb5e1a2a329ef92c19fc69b18fc28c7 )
+	rom ( name pl1-2.bin size 1024 crc 472885de sha1 8d552c90b8d5bc6ad6c60934c00f4303cd180ce7 )
+	rom ( name pl1-3.bin size 1024 crc 80558da8 sha1 7e1483467817295f36d1e2bdb32934c4f2617d52 )
+	rom ( name pl1-4.bin size 1024 crc 3a7be418 sha1 475cdc68205e3acce83fe79b00b74c6a7e28dde4 )
+	rom ( name pl1-5.bin size 1024 crc 4b7ee712 sha1 dd0ec4c632d8b160f7b54d8f18fcf4ef1508d832 )
+)
+
+game (
+	name paclandn
+	description "PacLand (Namco)"
+	year 1984
+	manufacturer "Namco"
+	rom ( name pl1-1 size 16384 crc f729fb94 sha1 332ff2e4aae67eb8ed0f52048097f74323a176f8 )
+	rom ( name pl1-2 size 16384 crc 5c66eb6f sha1 376233f51e655df8922886c1e808a2f37ccae5d4 )
+	rom ( name pl1-3 size 16384 crc aa9fa739 sha1 7b1f7857eb5f68e166b1f8988c82051aaf05df48 )
+	rom ( name pl1-4 size 16384 crc 2b895a90 sha1 820f8873c6a5a736089406d0f03d491dfb82d00d )
+	rom ( name pl1-5 size 16384 crc 7af66200 sha1 f44161ded1633e9801b7a9cd84d481e53823f5d9 )
+	rom ( name pl1-6 size 16384 crc b01e59a9 sha1 e5b093852d33a4d09969d111fa6e42e964aa4dac )
+	rom ( name pl1-7 size 8192 crc 8c5becae sha1 14d67136395c4c64472980a69648ce2d479ae67f )
+	rom ( name pl1-8 size 16384 crc 2b20e46d sha1 9f78952ae94fef6a83a15de35d5fefdf71e78488 )
+	rom ( name pl1-9 size 16384 crc 80768a87 sha1 1572f309e810d9eb007a1c8b2aa8463027c146ca )
+	rom ( name pl1-10 size 16384 crc ffd9d66e sha1 9a6e9ad500fcb7a67cb3c45d029c2aa7636a64f9 )
+	rom ( name pl1-11 size 16384 crc c59775d8 sha1 034281c8101719d79043df31ef845fd28c0c69c0 )
+	rom ( name pl1-12 size 8192 crc c159fbce sha1 b0326c85b7df407f3e94c38a5971f911968d7b27 )
+	rom ( name pl1-13 size 8192 crc 6c5ed9ae sha1 db919c9254289179e98ba5d2ed8c66d67ae95f35 )
+	rom ( name pl-snd size 512 crc d3aff2df sha1 213b87acdc8494e5bd24b44bc9e6a17dcb5aea5e )
+	rom ( name pl1-mcu.bin size 4096 crc 6ef08fb3 sha1 4842590d60035a0059b0899eb2d5f58ae72c2529 )
+	rom ( name pl1-1.bin size 1024 crc a78ebdaf sha1 8ea215701eb5e1a2a329ef92c19fc69b18fc28c7 )
+	rom ( name pl1-2.bin size 1024 crc 472885de sha1 8d552c90b8d5bc6ad6c60934c00f4303cd180ce7 )
+	rom ( name pl1-3.bin size 1024 crc 80558da8 sha1 7e1483467817295f36d1e2bdb32934c4f2617d52 )
+	rom ( name pl1-4.bin size 1024 crc 3a7be418 sha1 475cdc68205e3acce83fe79b00b74c6a7e28dde4 )
+	rom ( name pl1-5.bin size 1024 crc 4b7ee712 sha1 dd0ec4c632d8b160f7b54d8f18fcf4ef1508d832 )
+)
+

@@ -1,0 +1,69 @@
+game (
+	name joust
+	description "Joust (White/Green label)"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name defender
+	description "Defender (Red label)"
+	year 1980
+	manufacturer "Williams"
+)
+
+game (
+	name robotron
+	description "Robotron (Solid Blue label)"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name stargate
+	description "Defender II (Stargate)"
+	year 1981
+	manufacturer "Williams"
+)
+
+game (
+	name bubbles
+	description "Bubbles"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name sinistar
+	description "Sinistar (revision 3)"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name rbtapper
+	description "Tapper (Root Beer)"
+	year 1984
+	manufacturer "Bally Midway"
+)
+
+game (
+	name spyhunt
+	description "Spy Hunter"
+	year 1983
+	manufacturer "Bally Midway"
+)
+
+game (
+	name rampage
+	description "Rampage (revision 3)"
+	year 1986
+	manufacturer "Bally Midway"
+)
+
+game (
+	name shollow
+	description "Satan's Hollow (set 1)"
+	year 1981
+	manufacturer "Bally Midway"
+)

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="norbert_kehrer">
+	<name>Norbert Kehrer</name>
+	<email>norbert.kehrer@utanet.at</email>
+	<emulator_links>
+		<emulator_link id="astdx" type="single">&emulator_astdx;</emulator_link>
+		<emulator_link id="ast3dx" type="single">&emulator_ast3dx;</emulator_link>
+		<emulator_link id="jae" type="java">&emulator_jae;</emulator_link>
+		<emulator_link id="new_asteroids" type="java">&emulator_new_asteroids;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="thunder" type="single" dat="Thunder_Beta_4">
+	<name>Thunder</name>
+	<version>Beta 4</version>
+	<date>16/08/1998</date>
+
+	<homepage status="bad">http://www.emuunlim.com/Thunder/</homepage>
+	<author_link id="jimmy_hamm">&author_jimmy_hamm;</author_link>
+
+	<emulates>Rolling Thunder (Namco)</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes (Samples)</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="thunder.zip">Emulator</file>
+		<file name="rthunder.zip">Samples</file>
+	</files>
+</emulator>

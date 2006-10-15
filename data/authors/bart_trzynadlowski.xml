@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="bart_trzynadlowski">
+	<name>Bart Trzynadlowski</name>
+	<email>trzy@mailandnews.com</email>
+	<cpu_links>
+		<library_link id="turbo68k" type="cpu">&library_turbo68k;</library_link>
+	</cpu_links>
+</author>

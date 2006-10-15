@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="ultracade_toaplan_1" type="commercial" dat="Ultracade_-_Toaplan_Classics_1">
+	<name>Ultracade - Toaplan Classics 1</name>
+	<version>-</version>
+	<date>20/04/2001</date>
+
+	<homepage>http://www.ultracade.com/</homepage>
+	<author_link id="ultracade">&author_ultracade;</author_link>
+
+	<emulates>6 Toaplan classics</emulates>
+	<comment>Game Pack 8 for the Ultracade system.</comment>
+	<status>Discontinued</status>
+
+	<platform>?</platform>
+
+	<controllers>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+</emulator>

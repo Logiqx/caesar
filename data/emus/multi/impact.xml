@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="impact" type="multi" dat="Impact_Full_List">
+	<name>Impact</name>
+	<version>432756</version>
+	<date>12/01/2001</date>
+
+	<homepage>http://www.emuhype.com/</homepage>
+	<author_link id="marcin_dudar">&author_marcin_dudar;</author_link>
+	<author_link id="tratax">&author_tratax;</author_link>
+
+	<emulates>Capcom ZN1, Capcom ZN2 and Taito FX1 Games</emulates>
+	<comment>Based on PSEmuPro (a Sony Playstation Emulator), Impact emulates some of the Capcom 3D fighters from the arcade. Needs PII 450, 128MB RAM, Fast 3D Video Card.</comment>
+	<status>Superceded</status>
+
+	<cpu_links>
+		<library_link id="raze" type="cpu">&library_raze;</library_link>
+	</cpu_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="impact_432756.zip">Emulator</file>
+		<file name="impact_win2k_patched.zip">Emulator (unofficial version patched to run on Win2K)</file>
+		<file name="gliderenderer_1_3.zip">Glide Renderer</file>
+		<file name="d3drenderer_1_11.zip">Direct 3D Renderer</file>
+		<file name="oglrenderer_1_11.zip">OpenGL Renderer</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+		</successors>
+		<derivatives>
+			<emulator_link id="s11emu" type="multi">&emulator_s11emu;</emulator_link>
+		</derivatives>
+	</relatives>
+</emulator>

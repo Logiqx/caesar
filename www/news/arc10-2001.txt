@@ -1,0 +1,192 @@
+<a name="newsitem1006886357,13466,"></a><h2>Tuesday 27 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks 1.38</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 6:39PM [GMT]</small>  </th></tr>  <tr><td> The <a href="http://kawaks.retrogames.com/">Kawaks</a> releases just keep on coming.<br>This release now supports Metal Slug 3!!<br><br><li>New games supported :<br>- Metal Slug 3 (non encrypted P)<br>- Metal Slug 3 (non encrypted P, decrypted C)<br></li>      </td></tr>  </table></p>
+<a name="newsitem1006842857,5860,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks 1.37c</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:34AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:kawaks@retrogames.com?Subject=Kawaks feedback.">Mr. K</a> bugfixes it, I post it...here are the latest changes in <a href="http://kawaks.retrogames.com/">Kawaks</a>:<br>* Added more Language packs, and fixed a couple. Thanks to their authors<br>* Fixed Japanese text in Garou (Grant cinematic, namely)<br>* Fixed the most debated Close C attacks in Garou (weird bug, really)<br>* As for the Select key not working (supposed to be the Insert Coin when in console mode)<br>this one is a total mystery. It works good in other games (try kof99), just not Garou...<br>  </td></tr>  </table></p>
+<a name="newsitem1006842679,16523,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Flyers Pack #14</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:31AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:mame32qa@hotmail.com?subject=mame32_hp">John Hardy IV</a> has blessed us with another MAME Flyers pack, available at <a href="http://www.classicgaming.com/mame32qa/">The MAME QA/Test and Art Dept.</a>  </td></tr>  </table></p>
+<a name="newsitem1006842533,8277,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:28AM [GMT]</small>  </th></tr>  <tr><td> You love it, your father loves it, your aunt Netta plays it on her VCR...it's the <a href="http://www.mame.net/wip0111.html">MAME WIP Page</a>:<br><br>23rd November 2001:<br>William Kucharski and Phil Stroffolino fixed the tilemap crashing, hopefully for good.<br>David Haywood added the Japanese ROM set to the Block Out driver. <br><br>24th November 2001:<br>Bart T. submitted a small bugfix to the NEC disassembler.<br>Stefan Jokisch resubmitted an improvement to the C-Chip emulation for Bonze Adventure. <br><br>25th November 2001:<br>Phil Stroffolino added a patch to the Namco NA-1 driver for Numan Athletics, which is now playable but with graphics glitches.<br>Bryan McPhail resent an old bug fix to the 68020 CPU core which fixes a crash in Under Fire.  </td></tr>  </table></p>
+<a name="newsitem1006642861,24541,"></a><h2>Saturday 24 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks 1.37b</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 11:01PM [GMT]</small>  </th></tr>  <tr><td> Two new releases of <a href="http://kawaks.retrogames.com/">Kawaks</a> has been made, 1.37 has some big new updates and 1.37b is a small bug fix, so now the real arcade version of Garou and king of Fighters 2000 have been added. Here is the full update list:<br><br><b>Kawaks 1.37</b><br><li>New drivers:</li><br>         - Garou: Mark of the Wolves (this is the retail, non prototype game)<br>         - Garou: Mark of the Wolves (decrypted C) (same game as above, with decrypted GFX roms)<br>         - The King of Fighters 2000 (encrypted) (this is the retail, non prototype game)<br><li>The old "The King of Fighters 2000" set is now named "The King of Fighters 2000 (fully decrypted)"</li><br><li>Direct Draw rewrite: Kawaks should run fine with DirectX 5 now (that means no more DDRAW.DLL error)</li><br><li>Added a "Multitask friendly" switch (Misc menu) for those who think 1.35 was faster than 1.36</li><br><li>Language pack support. Now you can have Kawaks in your mother tongue :)<br>       If you do your own translation consider sending it to me</li><br><li>Added a hack to prevent crash while loading in kof2000n for those who still have the bad M1 rom</li><br><li>Fixed columns width in Shot Factory</li><br><li>Added many tracklists, courtesy of DarkCloud</li><br><br><b>Kawaks 1.37b</b><br><li>Hopefully fixed bug introduced in 1.37 which caused blinking borders in fullscreen</li><br><li>Added Japanese, Catalan, Polish, Chinese (simplified) language packs.<br>       Thanks a lot to their respective authors :)</li><br>  </td></tr>  </table></p>
+<a name="newsitem1006510012,80926,"></a><h2>Friday 23 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Goodies</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 10:06AM [GMT]</small>  </th></tr>  <tr><td> There's MAME goodies a-plenty!<br><br><a href="mailto:crashtest@retrogames.com">CrashTest</a> has added title and ingame screenshots for the latest MAME, conveniently located at the <a href="http://crashtest.retrogames.com/index2.html">CrashTest Emulation Page</a>.<br><br><a href="mailto:mamu@mameicons.com">MAMu_</a> has updated his MAME Icons to MAME 0.56.  If you want your frontend to be its spiffiest, then I advise a trip to <a href="http://www.mameworld.net/icons/">MAMu_'s Mameicons</a>.  </td></tr>  </table></p>
+<a name="newsitem1006509637,18644,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>XMAME 0.56.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 10:00AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:gold@aros.net">Lawrence Gold</a> has upped XMAME to the latest beta (and then some!):<br><br><ul><li>	 Everything from MAME 0.56.<br><li>	 The svgafx driver is working again--it was broken by the removal of	  8bpp support from the core.  (Henri and Jason)<li>	 Numeric keypad support is now much better.  (Andre Majorel)	<li>	 Added arbitrary height scaling, available via the -arbheight option	  and started sanitizing the blit core.  This currently only works with	  the X11 (windows, DGA1, DGA2) and svgalib drivers.  (Adam Moss)<li>	 Added support in makefile.unix for the Intel C++ compiler, and also a	  sample wrapper script in contrib/tools.  (Adam Moss)<li>	 Added -usbpspad/-pspad switch for support of the direction buttons on	  the Playstation gamepad.  (Bill Adams)<li>	 Added support for SDL under BeOS.  Sound is not currently supported,	  however.  (Jack Burton)<li>	 Fixed a bug that prevented romalizer from working.  (Shyouzou	  Sugitani)<li>	 The xgl target should work much better.  (Sven Goethel)<li>	 The -hotrod/-hr and -hotrodse/-hrse commands should actually work now.<li>	 Fixed a bunch of warnings that occurred when linking with GNU binutils	  using -warn-common.<li>	 Added DGA2 documentation: src/unix/doc/dga2.txt.  (Shyouzou Sugitani)</ul>It's all yours at <a href="http://x.mame.net/">XMAME</a>.  </td></tr>  </table></p>
+<a name="newsitem1006509452,57505,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 9:57AM [GMT]</small>  </th></tr>  <tr><td> Yeah, I'm still here...here's the latest from the <a href="http://www.mame.net/wip0111.html">MAME WIP Page</a>:<br><br>19th November 2001:<br>Aaron Giles fixed a bug where the DUMP command in the debugger caused it to crash. <br><br>20th November 2001:<br>Uki added correct sound banking to Kirameki Star Road. <br><br>21st November 2001:<br>Luca Elia added Air Gallet to the Cave driver.<br><br>22nd November 2001:<br>Stefan Jokisch partially fixed another tilemap crash bug.  </td></tr>  </table></p>
+<a name="newsitem1006217994,18076,"></a><h2>Tuesday 20 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler 0.9.3 for Mac</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:59AM [GMT]</small>  </th></tr>  <tr><td> Richard Bannister has brought Modeler for Mac in line with the latest version.  Check it out at Richard's <a href="http://www.bannister.org/software/modeler.htm">Modeler page</a>.  </td></tr>  </table></p>
+<a name="newsitem1006217740,8288,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks 1.36</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:55AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:kawaks@retrogames.com?Subject=Kawaks feedback.">Mr. K</a> strikes again with Kawaks 1.36:<br><br>* New games supported :<br>         - Dungeons & Dragons: Tower of Doom (Euro 940412)<br>         - Street Fighter Zero 3 (Asia 980701)<br>         - Vampire Savior: The Lord of Vampire (Asia 970519)<br>         - X-Men: Children of the Atom (Euro 950105)<br>         - X-Men Vs. Street Fighter (Euro 960910)<br>         - The King of Fighters 2000 (encrypted C)  (Thanks to Nicola Salmoria)<br>       The King of Fighters 2000 (encrypted C) is the exact same game as the other KOF2000<br>       The difference only lies in the romset used (Encrypted gfx roms)<br>       The Encrypted C set will load significantly slower though especially for low RAM PCs<br>       so I'd suggest you still use the older set...         <br>     * Added trackball emulation for The Irritating Maze<br>     * Fixed 257-m1.bin merge info for kof2000/kof2000n<br>     * Fixed a last bug in the Romcenter DAT generation.<br>     * Found a bug in the sound sync code. May fix some jerkiness for some people.<br>     * Included some code to try to make Kawaks less CPU intensive and more multitask friendly<br>       (meaning CPU shouldn't be 100% usage when you use Kawaks)<br>     * Changed Step frame from Space to Shift+Space (caused problems if you were using Space as in<br>       your game keys)<br>     * Added some keyboard shortcuts to modify cheats. <br>       (allows to activate/desactivate quickly some cheats without even leaving fullscreen)<br>     * Fixed the puzzle game in Three Wonders (CPS1)<br>     * Fixed macros for NeoGeo games<br>     * Changed Redefine keys dialog box so it shows macro text next to the macro key<br>     * New Shot factory (Tools menu). Works very nicely with NeoGeo games :)<br><br>All this can be yours with a trip to <a href="http://kawaks.retrogames.com/">Kawaks Saikyo Dojo</a>.  </td></tr>  </table></p>
+<a name="newsitem1006217522,79938,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>FinalBurn Alpha</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:52AM [GMT]</small>  </th></tr>  <tr><td> While on the subject of CPS-2 emulators, FinalBurn Alpha has been updated; this version fixes a few bugs that where present in the previous release.  It's available at <a href="http://cp-systems2turbo.emuunlim.com/">CP-Systems 2 Turbo</a>.  </td></tr>  </table></p>
+<a name="newsitem1006217255,82207,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPSE 0.02</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:47AM [GMT]</small>  </th></tr>  <tr><td> <a href="http://cpse.emuunlim.com/cps_.htm">CPSE</a>, a CPS-2 emulator, has been updated and now features a tile viewer.  </td></tr>  </table></p>
+<a name="newsitem1006217171,15974,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Marquees Pack #15</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:46AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:eldio@oldie.co.uk">Eldio</a> has provided the world with his 15th MAME Marquees pack, available at <a href="http://emam.mameworld.net/">EMAM</a>.  </td></tr>  </table></p>
+<a name="newsitem1006217029,64985,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Cabinets Pack #14</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:43AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:mame32qa@hotmail.com?subject=mame32_hp">John Hardy IV</a> has upped another MAME Cabinets Pack at the <a href="http://www.classicgaming.com/mame32qa/">MAME QA/Test and Art Dept.</a>  </td></tr>  </table></p>
+<a name="newsitem1006216812,9553,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:40AM [GMT]</small>  </th></tr>  <tr><td> Hey all, good to be back.  Here's the latest from the <a href="http://www.mame.net/wip0111.html">MAME WIP Page</a>:<br><br>14th November 2001:<br>Jarek Burczynski reported some progress on the road graphics emulation in Roller Jammer.<br>Phil Stroffolino added an alternate set of Chinese Hero and Shanghai Kid, and sent in a Namco NB-2 driver with support for Outfoxies but it isn't much to look at since the graphics ROMs aren't dumped.<br>Aaron Giles re-submitted some debugging features that haven't been included yet.<br><br>15th November 2001:<br>Aaron Giles adjusted the speed in Buck Rogers and Subroc-3D, fixed colors in Quantum, re-added the correct Exerion color PROM and added another version of Road Blasters that uses a different Slapstic chip.<br>Stefan Jokisch fixed the Gameplan games which were broken in 0.56. <br><br>16th November 2001:<br>Aaron Giles fixed the WWF Mania protection properly.<br>Libble added palette switching support to the Toy Pop driver.<br>Kale submitted a VSNES driver update with some small bugfixes and fixed colors. <br><br>17th November 2001:<br>Bryan McPhail fixed several problems in the Taito F3 driver, especially graphics glitches when zooming, fixing the road in Riding Fight and pitch in the football games.<br>Bryan McPhail also added sound bankswitching for the Taito F3 driver.<br>Gerardo Oporto fixed DIP switch settings in the D-Con driver. <br><br>18th November 2001:<br>David Graves did some minor changes on the Taito drivers and merged some improvements from older submissions.<br>Frank Palazzolo reported some progress with Asteroid sound emulation - only one of the sound effects remains incorrect.<br>William Kucharski submitted yet another modification to the Toki cocktail mode support.<br>Aaron Giles sent in some TMS34020 CPU core changes and a driver for Revolution X.  </td></tr>  </table></p>
+<a name="newsitem1005988705,88726,"></a><h2>Saturday 17 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler 0.9.3</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:18AM [GMT]</small>  </th></tr>  <tr><td> The Modeler team have released a big update:<br><br>Common: <br><br>- Fixed long-time bug that was causing crackling and hiss in all System 32 games. <br>- V60 core fix for the Super Visual Football attract mode (it no longer hangs on a black screen!) <br>- V60 core substantially sped up. This helps the framerate a lot on some of the more intense games like Outrunners, Radmobile, and F1 Exhaust Note.. <br>- Fixed Z80 protection for Burning Rival so sound plays again. <br>- Updated YM3834 emulation to latest version with substantial accuracy fixes by Jarek Burczynski. <br>- RF5C68 indirect banking mode added, makes the engine sounds work in F1 Exhaust Note and F1 Super Lap. Also fixes some music glitches in various games. <br>- Engine and tire screeching sounds fixed in OutRunners. <br>- Z80 core upgraded to RAZE 1.0.6. <br>- Some savestate bugs fixed. States saved in previous versions of Modeler are no longer compatible and will not load properly. <br>- Sound fixed to work again in Virtua Racing. <br>- Controls mapped better for the Model 1 games. It's now possible to enter test mode in Virtua Fighter, and the usual steering controls apply in Virtua Racing. <br>- Voice samples fixed in Virtua Racing <br>- Preliminary sound added to Virtua Fighter. Now you can hear the invisible people beating each other up during the attract mode. <br>- Log to .WAV file added. The log will go into a folder called "wave" in a file with the same name as the ROM zip, except with .wav instead of .zip. Eg for OutRunners the log is orunners.zip. <br><br>Read all about it at the <a href="http://www.impactemu.com/index.phtml?s=news">Modeler</a> home page.  </td></tr>  </table></p>
+<a name="newsitem1005927239,73874,"></a><h2>Friday 16 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ClrMamePro V2.32a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 4:13PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.mameworld.net/clrmame/">ClrMamePro</a> has been updated first to version 2.32 and then 2.32a with some new core updates, and a rare/unusual bug fix.  </td></tr>  </table></p>
+<a name="newsitem1005860105,19786,"></a><h2>Thursday 15 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>XCPS2MAME updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 9:35PM [GMT]</small>  </th></tr>  <tr><td> All you Linux fans should head over to the <a href="http://www.beimborn.com/cps2/linux/">Linux Mame & CPS2Mame</a> page to get the latest XCPS2MAME with all the latest releases from <a href="http://cps2shock.retrogames.com/">CPS2SHOCK</a> added.  </td></tr>  </table></p>
+<a name="newsitem1005790711,52720,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPS2SHOCK more and more XOR's</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 2:18AM [GMT]</small>  </th></tr>  <tr><td> It is all happening over at <a href="http://cps2shock.retrogames.com/">CPS2SHOCK</A> right now.<br>To start with they release 5 'yes count them 5' more CPS2 XOR tables:<br><br>D&D: Tower of Doom (Euro 940412)<br>Street Fighter Zero 3 (Asia 980701)<br>Vampire Savior (Asia 970519)<br>X-Men: Children of the Atom (Euro 950105)<br>X-Men Vs. Street Fighter (Euro 960910)<br><br>Also <a href="http://kawaks.retrogames.com/">Kawaks</a> is updated to v1.36 including these new XOR's plus a number of other fixes.<br><br>Then <a href="http://cp-systems2turbo.emuunlim.com/p0001.html">Final Burn Alpha</a> v0.2.10 has been released to include these new games.<br><br>And finally <a href="http://cps2shock.retrogames.com/download.html">CPS2Mame</a> V2.560 has also been updated to include the <a href="http://www.mame.net/">mame</a> 0.56 core and the new CPS2 games.<br><br>That should keep you good people busy for a while. Have fun.  </td></tr>  </table></p>
+<a name="newsitem1005692245,25375,"></a><h2>Tuesday 13 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE v0.34b</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 10:57PM [GMT]</small>  </th></tr>  <tr><td> A new version of RAINE was released a few minutes ago.<br><br>New games added :<br>- Black Heart (nmk driver) - no sound<br>- Air Gallet (playable, but partial emulation only)<br><br>Fixes :<br>- Mustang is now playable without sound<br>- Fixed black screen in f3 games when changing the rom version code and reseting.<br>- Fixed bug in hiscores saving for win32 and dos.<br>- Fixed auto-fire... Now working again !<br>- Enlarged pcm buffer in pbobble3 to try to fix a weird bug in some win95 versions...<br>- Added dynamic mode lists in vbe/af (dos).<br>- The triple buffer hacks are back !<br><br>Get it from the <a href="http://www.rainemu.com">RAINE</a> home page.  </td></tr>  </table></p>
+<a name="newsitem1005684818,55446,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE for BeOS v0.34a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 8:53PM [GMT]</small>  </th></tr>  <tr><td> The BeOS port of RAINE has just been brought up to date with the main ports (Windows, DOS and Linux). You can download it from the <a href="http://www.beemulated.net/arcade/multi.phtml">BeEmulated</a> multi-arcade page.  </td></tr>  </table></p>
+<a name="newsitem1005677182,84725,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula 1.94</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 6:46PM [GMT]</small>  </th></tr>  <tr><td> A new version of <a href="http://nebula.emulatronia.com/">Nebula</a> has release bringing it up to version 1.94.<br>The homepage does not appear to be up to date with it right now, so head over to <a href="http://cps2shock.retrogames.com/">CPS2SHOCK</a> to grab it.<br>The update goes something like this:<br><br>NEOGEO CD: <br>Fixed some loading screens that caused a emulation crash (mslug and many more). <br>Fixed CD games being reported missing. <br>Fixed ISO+MP3 crashes. <br>Fixed KOF99 from crashing. <br>Modified the NeoGeo CD docs.<br><br>NEOGEO: <br>Added King of Fighters 2000 (decrypted set). <br>Removed Metal Slug 3 from the gamelist. <br>Added 512 Kb S rom support (thanks Mr K). <br>I forgot to thank Nicola, many thanks to him for making new NeoGeo games playable. <br>Sengoku 3 is NOT SUPPORTED. This game is only 4-5 months old and still in arcades. <br>Changed the gfx decryption method, it should be faster and require less memory. <br>If there is not enough memory to perform the decryption, games run with encrypted gfx.<br><br>CPS2: <br>Fixed 4 point interpolation equation that was causing some artifacts in high pitched sound. <br>Added new QSound code to the Directsound 3D renderer (forgot to add it in last release). <br>Slightly faster Z80+QSound emulation by removing some unneeded FP operations. <br>Fixed Directsound 2d Narrow mode always being Mono, now it's Stereo.<br><br>CPS1: <br>Fixed Nemo (Japan) from always appearing in the gamelist.<br><br>GENERAL: <br>Added Hotkeys documentation.<br>  </td></tr>  </table></p>
+<a name="newsitem1005676890,84864,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MORE MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 6:41PM [GMT]</small>  </th></tr>  <tr><td> The very latest, and the very greatest.. :o)   more <a href="http://www.mame.net/wip">MAME WIP</a><br><br>12th November 2001:<br>Stefan Jokisch sent in a driver for Destroyer, which lacks sound and has garbled graphics for the waves, but works otherwise. Aaron Giles cleaned up Frank Palazzolo's Buck Rogers and Subroc-3D drivers and merged them with the Turbo driver. Neither of them has sound yet, and Subroc-3D crashes at random.<br><br>13th November 2001:<br>Bryan McPhail added Acrobat Mission to the Bombjack Twin driver. Aaron Giles fixed Subroc-3D from crashing. William Kucharski submitted another bug fix for the Toki cocktail mode.<br>  </td></tr>  </table></p>
+<a name="newsitem1005550891,12352,"></a><h2>Monday 12 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:41AM [GMT]</small>  </th></tr>  <tr><td> The latest, the greatest...the <a href="http://www.mame.net/wip0111.html">MAME WIP Page</a>:<br><br>6th November 2001:<br>Pierpaolo Prazzoli submitted several fixes for input ports and DIP switch settings. <br><br>7th November 2001:<br>Kale resubmitted some DIP switch and input port fixes. <br><br>8th November 2001:<br>William Kucharski submitted fixes for Toki cocktail modes. <br><br>9th November 2001:<br>Bryan McPhail added SD Gundam Psycho Salamander no Kyoui to the D-Con driver.<br><br>10th November 2001:<br>Stephane Humbert fixed DIP switch settings and input ports in several drivers. <br><br>11th November 2001:<br>Uki added Onna Sanshirou to The Fairyland Story driver.  </td></tr>  </table></p>
+<a name="newsitem1005550616,5580,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Laser WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:36AM [GMT]</small>  </th></tr>  <tr><td> <a href="http://devcast.wolfnet.org/">ss_teven</a> has been busy fixing things for the next release of <a href="http://www.emucamp.com/laser/">Laser</a>:<br><br>* Frog now has more accurate colors.<br>* Crazy Kong support has been added.<br><br>* As well as fixes and additions to many 8080 games:<br>* Polaris Colors have improved<br>* 280 Zzzap, Boot Hill, Checkmate, Extra Innings, Space Center  </td></tr>  </table></p>
+<a name="newsitem1005489353,6101,"></a><h2>Sunday 11 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I'm back!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 2:35PM [GMT]</small>  </th></tr>  <tr><td> Now I'm back from my holiday I have updated CAESAR for MAME v0.56 and all of the emulator releases over the past week. As always a huge number of pages have been affected - almost 1,000 of the 10,000 available!  </td></tr>  </table></p>
+<a name="newsitem1005196686,11845,"></a><h2>Thursday 8 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME 0.56 for BeOS</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:18AM [GMT]</small>  </th></tr>  <tr><td> Yoshi has updated his MAME port to the latest version 0.56. It features the following new things: <br><br>* Some game driver improvements in graphics and Sound <br>* Updated the cheat engine                            <br>* V60 cpu core                                       <br>* more bugfixes and new game additions               <br><br>You can get it at <a href="http://www.beemulated.net/">BeEmulated</a>.  </td></tr>  </table></p>
+<a name="newsitem1005177872,4721,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 12:04AM [GMT]</small>  </th></tr>  <tr><td> Some more <a href="http://www.raineemu.com/html/wip.html">RAINE WIP</a> news, it reads:<br>I just added black heart, fully playble but without sound (custom sound chip...). Thanks to Haze for the rom...  </td></tr>  </table></p>
+<a name="newsitem1005106064,5034,"></a><h2>Wednesday 7 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ClrMamePro 2.31a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:07AM [GMT]</small>  </th></tr>  <tr><td> (No 2.31a, he said...:o))  <a href="mailto:roman.scherzer@t-online.de">Roman Scherzer</a> has given his rom manager ClrMamePro a bugfix:<br><br>* fixed: some import issues with weird pathnames <br>* fixed: sysdefaultpaths window crash <br>* misc: last sysdefpaths will be remembered now <br>* misc: warnings window can't be closed with ESC anymore <br>* misc: some more profiler index checks<br><br>Find out more at the <a href="http://www.mameworld.net/clrmame/">ClrMame Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1005025870,83465,"></a><h2>Tuesday 6 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME 0.56.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:51AM [GMT]</small>  </th></tr>  <tr><td> A new version of <a href="http://advancemame.sourceforge.net/">AdvanceMAME</a> is now available:<br><br>* Change at the SVGALIB Rage 128/Radeon drivers for the low clocks <br>  </td></tr>  </table></p>
+<a name="newsitem1005025767,28886,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Marquees Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:49AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:eldio@oldie.co.uk">Eldio</a> has changed some names in his marquees collection and provided new dats.  Find out more at <a href="http://emam.mameworld.net/">EMAM</a>.  </td></tr>  </table></p>
+<a name="newsitem1004979155,88490,"></a><h2>Monday 5 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>KAWAKS 1.35 (Supports KOF2000)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 4:52PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://kawaks.retrogames.com/">KAWAKS</a> does <B>King of Fighters 2000</B>, this update adds a number of the new NEOGEO games, plus a few other fixes.  </td></tr>  </table></p>
+<a name="newsitem1004971123,67410,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 2:38PM [GMT]</small>  </th></tr>  <tr><td> Another Month, another <a href="http://www.mame.net/wip">MAME WIP</a> update:<br><br>1st November 2001: Brad Oliver and Aaron Giles fixed several compile problems. <br><br>2nd November 2001: Olivier Galibert resubmitted the OS dependant keys and tilemap viewing support. <br><br>3rd November 2001: William Kucharski resubmitted a load of flip screen support and cocktail mode patches. <br><br>4th November 2001: Stephane Humbert updated Jack the Giantkiller driver, fixing DIP switch settings and input ports. <br><br>5th November 2001: Luca Elia added Quiz Kokology 2 to the Seta driver.  </td></tr>  </table></p>
+<a name="newsitem1004925751,93830,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE 1.7a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 2:02AM [GMT]</small>  </th></tr>  <tr><td> ACE has been bugfixed - enjoy the freshest CPS-2 games with a trip to the <a href="http://ace.emuunlim.com/">ACE Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1004925638,13133,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>PhMAME 0.56.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 2:00AM [GMT]</small>  </th></tr>  <tr><td> Got QNX?  <a href="http://www.classicgaming.com/phmame/">PhMAME</a> has been brought inline with the latest MAME beta (beating xmame...hmm...).  </td></tr>  </table></p>
+<a name="newsitem1004925505,58368,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 1:58AM [GMT]</small>  </th></tr>  <tr><td> The <a href="http://www.rainemu.com/html/wip.html">RAINE WIP Page</a> has been updated:<br><br>- Fixed the autofire<br>- USAAF Mustang is now playable  </td></tr>  </table></p>
+<a name="newsitem1004925431,53989,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula Jukebox 1.62</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 1:57AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:NebulaEmu@myrealbox.com">ElSemi</a>'s Nebula Jukebox has been updated with the recent Neo-Geo dumps and new QSound code.  Find it at the <a href="http://nebula.emulatronia.com/indexe.html">Nebula Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1004925302,39588,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME 0.56 Screenshots & Icons</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 1:55AM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:mame32qa@hotmail.com?subject=mame32_hp">John Hardy IV</a> has provided screenshots & icons for the latest MAME games.  These pics can be had at <a href="http://www.classicgaming.com/mame32qa/">The MAME32 QA/Test and Art Dept.</a>  </td></tr>  </table></p>
+<a name="newsitem1004925114,60947,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A/PMAME 0.56 / MAMEK6 0.56</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 1:51AM [GMT]</small>  </th></tr>  <tr><td> For those of you who want those extra FPS with your MAME, might I suggest a trip to the <a href="http://onramp.micoks.net/~rodimus/ap_main.html">PentiuMAME Page</a> (home of A/PMAME) or <a href="http://www.shonk.eu.org/Mamek6/">Shonk's MameK6 Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1004887320,43875,"></a><h2>Sunday 4 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat 3.61</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 3:22PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.mameworld.net/mameinfo/">Mameinfo.dat</a> has been updated to contain the latest info for MAME 0.56  </td></tr>  </table></p>
+<a name="newsitem1004886557,46881,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula 1.93  /  Kawakas 1.34</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 3:09PM [GMT]</small>  </th></tr>  <tr><td> Both these two great CPS-2 / NeoGeo emulators have received updates lately.<br>Kawakas has added the latest NeoGeo releases, and Nebula now also supports NeoGeo CD!!<br>Check Out the <a href="http://kawaks.retrogames.com/">Kawaks Homepage</a> or the <a href="http://nebula.emulatronia.com/">Nebula Homepage</a> for more details.  </td></tr>  </table></p>
+<a name="newsitem1004728736,16072,"></a><h2>Friday 2 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME32 0.56</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 7:18PM [GMT]</small>  </th></tr>  <tr><td> MAME32 version 0.56 is now available over at the <a href="http://www.classicgaming.com/mame32">MAME32 homepage</a>  </td></tr>  </table></p>
+<a name="newsitem1004642098,33705,"></a><h2>Thursday 1 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME 0.56</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 7:14PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.mame.net/">MAME 0.56</a> is here. Need I say more?<br><br>Update:<br>My diff list showing all that is new or changed in this release is now available at <a href="http://mamerominfo.retrogames.com/">MAME Rom Info</a>.<br>There are a lot of renamed roms to look out for in this release.  </td></tr>  </table></p>
+<a name="newsitem1004628861,81906,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ClrMamePro 2.31</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">GordonJ</a> at at 3:34PM [GMT]</small>  </th></tr>  <tr><td> <a href="mailto:roman.scherzer@t-online.de">Roman Scherzer</a> just keeps on going, and so now he has released another new version of <a href="http://www.mameworld.net/clrmame/">ClrMamePro</a>.  </td></tr>  </table></p>
+<a name="newsitem1004599535,17588,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AMAME 0.55 (Hey Rodimus)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:25AM [GMT]</small>  </th></tr>  <tr><td> Hey all, remember the AMD-optimized version of MAME called AMAME?  Well, <a href="mailto:rodimus@Starband.Net">Rodimus Prime</a> is back after a 10-month hiatus with a new build of AMAME.  All he asks is that some of you AMD owners out there provide him with some feedback and benchmarks.  Downloads and details are available at the <a href="http://www.micoks.net/~rodimus/index.html">PentiuMAME Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1004599214,96363,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:20AM [GMT]</small>  </th></tr>  <tr><td> October ends at the <a href="http://www.mame.net/wip0110.html">MAME WIP Page</a>:<br><br>30th October 2001:<br>inside out boy submitted a driver for Popper. It has several little problems but is playable.<br><br>31st October 2001:<br>Aaron Giles moved bitmap allocation to the core code as opposed to being in the OS-dependant code.<br>Aaron also fixed Pipe Dream from crashing.<br>Stephane Humbert fixed cocktail mode in Space Zap.  </td></tr>  </table></p>
+<a name="newsitem1004599124,59887,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Laser 0.18a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:18AM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.emucamp.com/laser/">Laser</a> got a bugfix, with speed throttling and re-added sound for the 8080 games.  </td></tr>  </table></p>
+<a name="newsitem1004599059,22186,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE 1.7 / Kawaks 1.33</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:17AM [GMT]</small>  </th></tr>  <tr><td> <a href="http://ace.emuunlim.com/">ACE</a> and <a href="http://kawaks.retrogames.com/">Kawaks</a> have been updated.  Both emulators can play the latest decrypted CPS-2 game, Vampire Savior 2.  </td></tr>  </table></p>

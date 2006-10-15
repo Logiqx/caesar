@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="system8" type="multi" dat="System_8_v0.61b">
+	<name>System 8 Emulator</name>
+	<version>0.61b</version>
+	<date>21/08/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="roberto_ventura">&author_roberto_ventura;</author_link>
+
+	<emulates>SEGA Z80 based games (Wonderboy Deluxe and Pitfall 2)</emulates>
+	<comment>The emulator was formerly known as Sega 8 and before that was a single Pitfall 2 emulator</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="maze" type="cpu">&library_maze;</library_link>
+	</cpu_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="system8.zip">Emulator</file>
+	</files>
+</emulator>

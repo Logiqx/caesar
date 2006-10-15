@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="thomas_stratham">
+	<name>Thomas Stratham</name>
+	<email>mul8@egroups.com</email>
+	<emulator_links>
+		<emulator_link id="jabawape" type="single">&emulator_jabawape;</emulator_link>
+	</emulator_links>
+</author>

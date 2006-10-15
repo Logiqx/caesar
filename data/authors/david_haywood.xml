@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="david_haywood">
+	<name>David Haywood (Haze)</name>
+	<email>neohaze@hotmail.com</email>
+	<email>hazemamewip@hotmail.com</email>
+	<homepage>http://haze.mameworld.info/</homepage>
+	<homepage>http://haze.mame.net/</homepage>
+	<contribution_links>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+	</contribution_links>
+</author>

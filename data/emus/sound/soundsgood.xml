@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="soundsgood" type="sound" dat="Bally-Midway_Sounds_Good_Emulator_v0.2">
+	<name>Bally-Midway "Sounds Good" Emulator</name>
+	<version>0.2</version>
+	<date>24/09/1997</date>
+
+	<homepage status="bad">http://www.fensende.com/Users/mcuddy</homepage>
+	<author_link id="michael_cuddy">&author_michael_cuddy;</author_link>
+
+	<emulates>Bally/Midway "Sounds Good" (SG) and "Cheap Squeak Deluxe" (CSD) boards</emulates>
+	<comment>Has a graphical display of sounds as they are played.</comment>
+	<status>Complete</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>N/A</screendump>
+		<hiscoresave>N/A</hiscoresave>
+		<savegame>N/A</savegame>
+		<recordinput>N/A</recordinput>
+		<dips>N/A</dips>
+		<cheat>N/A</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>N/A</throttle>
+	</features>
+
+	<files>
+		<file name="sg002.zip">Player</file>
+	</files>
+</emulator>

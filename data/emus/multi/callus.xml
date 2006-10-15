@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="callus" type="multi" dat="Callus_v0.42">
+	<name>Callus</name>
+	<version>0.42</version>
+	<date>24/06/1998</date>
+
+	<homepage>http://bloodlust.zophar.net/Callus/callus.html</homepage>
+	<author_link id="sardu">&author_sardu;</author_link>
+
+	<emulates>Capcom System 1 Games</emulates>
+	<comment>Mainly assembler so faster than MAME for the games it does</comment>
+	<status>Discontinued</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>Yes</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="cls042.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="callus95" type="multi2">&emulator_callus95;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="system16" type="multi" dat="System_16_v0.82a">
+	<name>System 16 Emulator</name>
+	<version>0.82a</version>
+	<date>01/01/1999</date>
+
+	<homepage>http://www.system16.com/</homepage>
+	<author_link id="thierry_lescott">&author_thierry_lescott;</author_link>
+	<author_link id="li_jih_hwa">&author_li_jih_hwa;</author_link>
+
+	<emulates>Sega System 16 Games</emulates>
+	<comment>Originally called the Shinobi Emulator. Faster than MAME at the games it does</comment>
+	<status>Development Stopped</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+		<tool_link id="eagle" type="gfx_libs">&tool_eagle;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="system16-0.82a_dos.zip">Emulator</file>
+		<file name="aliensyn.zip">Alien Syndrome Samples</file>
+		<file name="altbeast.zip">Altered Beast Samples</file>
+		<file name="goldnaxe.zip">Golden Axe Samples</file>
+		<file name="shdancer.zip">Shadow Dancer Samples</file>
+		<file name="shinobi.zip">Shinobi Samples</file>
+		<file name="wrestwar.zip">Wrestle War Samples</file>
+	</files>
+
+	<relatives>
+		<alt_versions>
+			<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+		</alt_versions>
+
+		<ports>
+			<emulator_link id="system16_directx" type="multi2">&emulator_system16_directx;</emulator_link>
+			<emulator_link id="system16_linux" type="linux">&emulator_system16_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

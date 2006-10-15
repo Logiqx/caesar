@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="victor_moya">
+	<name>Victor Moya del Barrio</name>
+	<email>victor@dynarec.com</email>
+	<emulator_links>
+		<emulator_link id="si" type="single">&emulator_si;</emulator_link>
+	</emulator_links>
+</author>

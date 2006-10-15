@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="djgpp" type="compilers">
+	<name>DJGPP (DJ Delorie's port of GPP)</name>
+	<version>2.03</version>
+	<date>10/06/2002</date>
+
+	<homepage>http://www.delorie.com/djgpp/</homepage>
+	<author_link id="dj_delorie">&author_dj_delorie;</author_link>
+
+	<comment>Port of GNU C++ compiler for DOS</comment>
+
+	<emulator_links>
+		<emulator_link id="1942" type="single">&emulator_1942;</emulator_link>
+		<emulator_link id="amoad" type="single">&emulator_amoad;</emulator_link>
+		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
+		<emulator_link id="asciipac" type="single">&emulator_asciipac;</emulator_link>
+		<emulator_link id="astdx" type="single">&emulator_astdx;</emulator_link>
+		<emulator_link id="ast3dx" type="single">&emulator_ast3dx;</emulator_link>
+		<emulator_link id="centipede_emulator" type="single">&emulator_centipede_emulator;</emulator_link>
+		<emulator_link id="cityconnection" type="single">&emulator_cityconnection;</emulator_link>
+		<emulator_link id="cloakanddagulator" type="single">&emulator_cloakanddagulator;</emulator_link>
+		<emulator_link id="crazy_climber" type="single">&emulator_crazy_climber;</emulator_link>
+		<emulator_link id="crazykongemu" type="single">&emulator_crazykongemu;</emulator_link>
+		<emulator_link id="diamondrun" type="single">&emulator_diamondrun;</emulator_link>
+		<emulator_link id="dtmnt" type="single">&emulator_dtmnt;</emulator_link>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="epp" type="multi">&emulator_epp;</emulator_link>
+		<emulator_link id="finalpengo" type="single">&emulator_finalpengo;</emulator_link>
+		<emulator_link id="fm_emu" type="sound">&emulator_fm_emu;</emulator_link>
+		<emulator_link id="galemu" type="multi">&emulator_galemu;</emulator_link>
+		<emulator_link id="gg" type="single">&emulator_gg;</emulator_link>
+		<emulator_link id="grytra" type="single">&emulator_grytra;</emulator_link>
+		<emulator_link id="invemu" type="multi">&emulator_invemu;</emulator_link>
+		<emulator_link id="invmz" type="multi">&emulator_invmz;</emulator_link>
+		<emulator_link id="jabawape" type="single">&emulator_jabawape;</emulator_link>
+		<emulator_link id="jumpbug" type="single">&emulator_jumpbug;</emulator_link>
+		<emulator_link id="kallus2" type="fake">&emulator_kallus2;</emulator_link>
+		<emulator_link id="ladybug_nicola" type="single">&emulator_ladybug_nicola;</emulator_link>
+		<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		<emulator_link id="les" type="single">&emulator_les;</emulator_link>
+		<emulator_link id="mapefer3" type="multi">&emulator_mapefer3;</emulator_link>
+		<emulator_link id="mcemu" type="single">&emulator_mcemu;</emulator_link>
+		<emulator_link id="mimic" type="multi">&emulator_mimic;</emulator_link>
+		<emulator_link id="mmsnd" type="sound">&emulator_mmsnd;</emulator_link>
+		<emulator_link id="mrdo_nicola" type="single">&emulator_mrdo_nicola;</emulator_link>
+		<emulator_link id="mulator" type="multi">&emulator_mulator;</emulator_link>
+		<emulator_link id="m72" type="multi">&emulator_m72;</emulator_link>
+		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+		<emulator_link id="macmultipac" type="mac">&emulator_macmultipac;</emulator_link>
+		<emulator_link id="mge" type="multi">&emulator_mge;</emulator_link>
+		<emulator_link id="millipede_emulator" type="single">&emulator_millipede_emulator;</emulator_link>
+		<emulator_link id="moon_cresta" type="single">&emulator_moon_cresta;</emulator_link>
+		<emulator_link id="multipac" type="multi">&emulator_multipac;</emulator_link>
+		<emulator_link id="multipacd" type="digita">&emulator_multipacd;</emulator_link>
+		<emulator_link id="naughtyboy" type="single">&emulator_naughtyboy;</emulator_link>
+		<emulator_link id="neogem" type="multi">&emulator_neogem;</emulator_link>
+		<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		<emulator_link id="pengo" type="single">&emulator_pengo;</emulator_link>
+		<emulator_link id="penix" type="single">&emulator_penix;</emulator_link>
+		<emulator_link id="phmame" type="qnx">&emulator_phmame;</emulator_link>
+		<emulator_link id="phoenix98" type="single">&emulator_phoenix98;</emulator_link>
+		<emulator_link id="phoenixarcade" type="single">&emulator_phoenixarcade;</emulator_link>
+		<emulator_link id="pooyan" type="single">&emulator_pooyan;</emulator_link>
+		<emulator_link id="qplayer_dos" type="sound2">&emulator_qplayer_dos;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		<emulator_link id="rallyx" type="single">&emulator_rallyx;</emulator_link>
+		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		<emulator_link id="retrovaders" type="multi">&emulator_retrovaders;</emulator_link>
+		<emulator_link id="rockulator_orig" type="multi">&emulator_rockulator_orig;</emulator_link>
+		<emulator_link id="rockulator" type="multi">&emulator_rockulator;</emulator_link>
+		<emulator_link id="sega_system_16" type="single">&emulator_sega_system_16;</emulator_link>
+		<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+		<emulator_link id="sega_c2_linux" type="linux">&emulator_sega_c2_linux;</emulator_link>
+		<emulator_link id="sideway" type="multi">&emulator_sideway;</emulator_link>
+		<emulator_link id="sse" type="single">&emulator_sse;</emulator_link>
+		<emulator_link id="sinvader" type="single">&emulator_sinvader;</emulator_link>
+		<emulator_link id="sname" type="multi2">&emulator_sname;</emulator_link>
+		<emulator_link id="spaceinvaders" type="multi">&emulator_spaceinvaders;</emulator_link>
+		<emulator_link id="spaceinvaderstheemu" type="single">&emulator_spaceinvaderstheemu;</emulator_link>
+		<emulator_link id="spaders" type="multi">&emulator_spaders;</emulator_link>
+		<emulator_link id="system_16_sound_player" type="sound">&emulator_system_16_sound_player;</emulator_link>
+		<emulator_link id="theend" type="single">&emulator_theend;</emulator_link>
+		<emulator_link id="thunder" type="single">&emulator_thunder;</emulator_link>
+		<emulator_link id="tnzsemu" type="single">&emulator_tnzsemu;</emulator_link>
+		<emulator_link id="slutte" type="single">&emulator_slutte;</emulator_link>
+		<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+		<emulator_link id="vpcb" type="multi">&emulator_vpcb;</emulator_link>
+		<emulator_link id="vantage" type="multi">&emulator_vantage;</emulator_link>
+		<emulator_link id="virtua" type="multi">&emulator_virtua;</emulator_link>
+		<emulator_link id="vulgus" type="single">&emulator_vulgus;</emulator_link>
+		<emulator_link id="xain_d_sleena" type="single">&emulator_xain_d_sleena;</emulator_link>
+		<emulator_link id="xcade" type="multi">&emulator_xcade;</emulator_link>
+		<emulator_link id="xdragon" type="multi">&emulator_xdragon;</emulator_link>
+		<emulator_link id="yaame" type="multi">&emulator_yaame;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="djdev203.zip">DJGPP 2.03 (Development Kit and Libraries)</file>
+		<file name="gcc321b.zip">GCC 3.21 (GNU C Compiler)</file>
+		<file name="mak3791b.zip">GNU Make 3.79.1 for DJGPP v2</file>
+		<file name="bnu213b.zip">GNU Binutils 2.13 for DJGPP v2</file>
+		<file name="fil41b.zip">GNU Fileutils 4.1 for DJGPP v2</file>
+		<file name="txi42b.zip">GNU Texinfo 4.2 for DJGPP v2</file>
+		<file name="dif28b.zip">GNU Diffutils 2.8 for DJGPP v2</file>
+		<file name="pat253b.zip">GNU Patch 2.5.3 for DJGPP v2</file>
+		<file name="upx124d.zip">UPX 1.24 for DOS (useful for compacting executables)</file>
+	</files>
+</tool>

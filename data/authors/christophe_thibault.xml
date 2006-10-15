@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="christophe_thibault">
+	<name>Christophe Thibault</name>
+	<email>chris@aegis-corp.org</email>
+	<emulator_links>
+		<emulator_link id="mamedc" type="dreamcast">&emulator_mamedc;</emulator_link>
+	</emulator_links>
+</author>

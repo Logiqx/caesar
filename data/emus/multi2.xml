@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="multi2">
+	<title>Multi Emulators</title>
+	<comment>These emulators support a variety of different games, not just a single game and it's clones</comment>
+	<emulator_links>
+		<emulator_link id="callus95" type="multi2">&emulator_callus95;</emulator_link>
+		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="galemu_windows" type="multi2">&emulator_galemu_windows;</emulator_link>
+		<emulator_link id="laser32" type="multi2">&emulator_laser32;</emulator_link>
+		<emulator_link id="laser_sdl" type="multi2">&emulator_laser_sdl;</emulator_link>
+		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
+		<emulator_link id="sname" type="multi2">&emulator_sname;</emulator_link>
+		<emulator_link id="sparcade_stable" type="multi2">&emulator_sparcade_stable;</emulator_link>
+		<emulator_link id="ssvbemu" type="multi2">&emulator_ssvbemu;</emulator_link>
+		<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+		<emulator_link id="system16_directx" type="multi2">&emulator_system16_directx;</emulator_link>
+	</emulator_links>
+</emulator_contents>

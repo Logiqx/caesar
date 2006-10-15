@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="jrok">
+	<name>James Rowan (JROK)</name>
+	<email>jrokweb@san.rr.com</email>
+	<emulator_links>
+		<emulator_link id="jas" type="multi">&emulator_jas;</emulator_link>
+		<emulator_link id="jasdd2" type="single">&emulator_jasdd2;</emulator_link>
+		<emulator_link id="jasgaplus" type="single">&emulator_jasgaplus;</emulator_link>
+		<emulator_link id="jasmappy" type="single">&emulator_jasmappy;</emulator_link>
+		<emulator_link id="jas-sys1" type="multi">&emulator_jas-sys1;</emulator_link>
+		<emulator_link id="jassuperpac" type="single">&emulator_jassuperpac;</emulator_link>
+	</emulator_links>
+</author>

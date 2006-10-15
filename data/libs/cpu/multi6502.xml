@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="multi6502" type="cpu">
+	<name>Multi-6502 32 Bit emulator</name>
+	<version>1.6</version>
+	<date>15/11/1998</date>
+
+	<homepage>ftp://ftp.synthcom.com/pub/emulators/cpu/</homepage>
+	<author_link id="neil_bradley">&author_neil_bradley;</author_link>
+
+	<emulates>6502</emulates>
+	<comment>Written in x86 assembler and very fast</comment>
+
+	<emulator_links>
+		<emulator_link id="centipede_emulator" type="single">&emulator_centipede_emulator;</emulator_link>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="junofirst" type="multi">&emulator_junofirst;</emulator_link>
+		<emulator_link id="mhemu" type="single">&emulator_mhemu;</emulator_link>
+		<emulator_link id="marblemadness" type="single">&emulator_marblemadness;</emulator_link>
+		<emulator_link id="millipede_emulator" type="single">&emulator_millipede_emulator;</emulator_link>
+		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		<emulator_link id="rockulator_orig" type="multi">&emulator_rockulator_orig;</emulator_link>
+		<emulator_link id="rockulator" type="multi">&emulator_rockulator;</emulator_link>
+		<emulator_link id="vector_dream" type="multi">&emulator_vector_dream;</emulator_link>
+		<emulator_link id="yaame" type="multi">&emulator_yaame;</emulator_link>
+	</emulator_links>
+
+	<tool_links>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+	</tool_links>
+
+	<files>
+		<file name="make6502.zip">Emulator</file>
+	</files>
+</library>

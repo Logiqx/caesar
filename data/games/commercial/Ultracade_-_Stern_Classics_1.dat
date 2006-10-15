@@ -1,0 +1,55 @@
+game (
+	name anteater
+	description "Anteater"
+	year 1982
+	manufacturer "[Stern] (Tago license)"
+)
+
+game (
+	name armorcar
+	description "Armored Car (set 1)"
+	year 1981
+	manufacturer "Stern"
+)
+
+game (
+	name astinvad
+	description "Astro Invader"
+	year 1980
+	manufacturer "Stern"
+)
+
+game (
+	name berzerk
+	description "Berzerk (set 1)"
+	year 1980
+	manufacturer "Stern"
+)
+
+game (
+	name calipso
+	description "Calipso"
+	year 1982
+	manufacturer "[Stern] (Tago license)"
+)
+
+game (
+	name frenzy
+	description "Frenzy"
+	year 1982
+	manufacturer "Stern"
+)
+
+game (
+	name spdcoin
+	description "Speed Coin (prototype)"
+	year 1984
+	manufacturer "Stern"
+)
+
+game (
+	name tazmania
+	description "Tazz-Mania (Scramble hardware)"
+	year 1982
+	manufacturer "Stern"
+)

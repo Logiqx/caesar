@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="dave_spicer">
+	<name>Dave Spicer</name>
+	<email>dave@sparcade.freeserve.co.uk</email>
+	<emulator_links>
+		<emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link>
+		<emulator_link id="sparcade_stable" type="multi2">&emulator_sparcade_stable;</emulator_link>
+	</emulator_links>
+</author>

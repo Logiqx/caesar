@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="calice" type="multi" dat="Calice_v0.6.6">
+	<name>Calice32</name>
+	<version>0.6.6</version>
+	<date>13/04/2003</date>
+
+	<homepage>http://calice.emu-france.com/calice/</homepage>
+	<author_link id="david_raingeard">&author_david_raingeard;</author_link>
+
+	<emulates>Capcom CPS-1, CPS-2 (plus ZN-1/ZN-2 sound) and Sega System-16 games</emulates>
+	<comment>This is by the author of BeGameboy and BePCEngine. It emulates Capcom CPS-1 and CPS-2 games plus the QSound from ZN-1 and ZN-2 games. It also emulates some of Sega's System-16 based games. The original DOS port is no longer supported.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="qmdx" type="snd_libs">&tool_qmdx;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="calice-0.6.6-win32.zip">Calice v0.6.6 (Main release - 27/10/2002)</file>
+		<file name="calice-mpang-update.zip">Calice v0.6.6 (Mighty! Pang update - 13/04/2003)</file>
+		<file name="Calice v0.6.6.zip">Driver fixes by Logiqx (to avoid ROM name conflicts)</file>
+	</files>
+</emulator>

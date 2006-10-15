@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="aaron_giles">
+	<name>Aaron Giles</name>
+	<email>agiles@mame.net</email>
+	<homepage>http://www.aarongiles.com/</homepage>
+	<emulator_links>
+		<emulator_link id="macmame" type="mac">&emulator_macmame;</emulator_link>
+		<emulator_link id="radikal_bikers_emulator" type="single">&emulator_radikal_bikers_emulator;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+	<tool_links>
+		<tool_link id="asgard" type="snd_libs">&tool_asgard;</tool_link>
+	</tool_links>
+</author>

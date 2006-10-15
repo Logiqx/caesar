@@ -1,0 +1,36 @@
+clrmamepro (
+	name VBPac
+	description "VBPac v0.10a"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name pacman
+	description "Pac-Man (Midway)"
+	year 1980
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
+	rom ( name pacman.6j size 4096 crc 817d94e3 sha1 d4a70d56bb01d27d094d73db8667ffb00ca69cb9 )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+	rom ( name boot1 size 4096 crc d16b31b7 sha1 bc2247ec946b639dd1f00bfc603fa157d0baaa97 )
+	rom ( name boot2 size 4096 crc 0d32de5e sha1 13ea0c343de072508908be885e6a2a217bbb3047 )
+	rom ( name boot3 size 4096 crc 1821ee0b sha1 5ea4d907dbb2690698db72c4e0b5be4d3e9a7786 )
+	rom ( name boot4 size 4096 crc 165a9dd8 sha1 3022a408118fa7420060e32a760aeef15b8a96cf )
+	rom ( name boot5 size 4096 crc 8c3e6de6 sha1 fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b )
+	rom ( name boot6 size 4096 crc 368cb165 sha1 387010a0c76319a1eab61b54c9bcb5c66c4b67a1 )
+	rom ( name 5e size 4096 crc 5c281d01 sha1 5e8b472b615f12efca3fe792410c23619f067845 )
+	rom ( name 5f size 4096 crc 615af909 sha1 fd6a1dde780b39aea76bf1c4befa5882573c2ef4 )
+)
+

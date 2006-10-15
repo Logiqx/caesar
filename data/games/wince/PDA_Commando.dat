@@ -1,0 +1,6 @@
+game (
+	name commando
+	description "Commando (World)"
+	year 1985
+	manufacturer "Capcom"
+)

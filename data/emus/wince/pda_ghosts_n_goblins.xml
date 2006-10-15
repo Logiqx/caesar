@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="pda_ghosts_n_goblins" type="wince" dat="PDA_Ghosts_n_Goblins">
+	<name>Ghosts n Goblins (PDA)</name>
+	<version>-</version>
+	<date>December 2001</date>
+
+	<homepage>http://www.capcom.com/pc.xpml</homepage>
+	<homepage>http://hive.speedhost.com/</homepage>
+	<author_link id="larry_bank">&author_larry_bank;</author_link>
+
+	<emulates>Ghosts n Goblins (Capcom)</emulates>
+	<comment>A commercial Capcom title for your PDA.</comment>
+	<status>Dormant</status>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Stylus</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+</emulator>
+

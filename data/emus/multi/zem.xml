@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="zem" type="multi" dat="ZEM_v0.001">
+	<name>ZEM Arcade Emulator</name>
+	<version>0.001</version>
+	<date>01/06/1998</date>
+
+	<homepage>http://www.emucamp.com/zem/</homepage>
+	<author_link id="juan_arnal_arlandis">&author_juan_arnal_arlandis;</author_link>
+	<author_link id="bernat_arlandis_mano">&author_bernat_arlandis_mano;</author_link>
+
+	<emulates>SEGA Z80 based games (Wonderboy Deluxe, Wonderboy in Monsterland and Pitfall 2)</emulates>
+	<comment>Updated version of the WBMLEMU beta (which was released 17/04/1998)</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="zem-0001b.zip">Emulator</file>
+	</files>
+</emulator>

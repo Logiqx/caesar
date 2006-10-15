@@ -1,0 +1,150 @@
+clrmamepro (
+	name Pac-X
+	description "Pac-X v0.2"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name pacman
+	description "Pac-Man (Midway)"
+	year 1980
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
+	rom ( name pacman.6j size 4096 crc 817d94e3 sha1 d4a70d56bb01d27d094d73db8667ffb00ca69cb9 )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name namcopac
+	description "PuckMan (Japan set 1)"
+	year 1980
+	manufacturer "Namco"
+	rom ( name namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
+	rom ( name namcopac.6f size 4096 crc 39d1fc83 sha1 326dbbf94c6fa2e96613dedb53702f8832b47d59 )
+	rom ( name namcopac.6h size 4096 crc 02083b03 sha1 7e1945f6eb51f2e51806d0439f975f7a2889b9b8 )
+	rom ( name namcopac.6j size 4096 crc 7a36fe55 sha1 01b4c38108d9dc4e48da4f8d685248e1e6821377 )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name pacmanjp
+	description "PuckMan (Japan set 2)"
+	year 1980
+	manufacturer "Namco"
+	rom ( name chg1 size 2048 crc 2066a0b7 sha1 6d4ccc27d6be185589e08aa9f18702b679e49a4a )
+	rom ( name chg2 size 2048 crc 3591b89d sha1 79bb456be6c39c1ccd7d077fbe181523131fb300 )
+	rom ( name prg7 size 2048 crc b6289b26 sha1 d249fa9cdde774d5fee7258147cd25fa3f4dc2b3 )
+	rom ( name prg8 size 2048 crc 17a88c13 sha1 eb462de79f49b7aa8adb0cc6d31535b10550c0ce )
+	rom ( name chg3 size 2048 crc 9e39323a sha1 be933e691df4dbe7d12123913c3b7b7b585b7a35 )
+	rom ( name chg4 size 2048 crc 1b1d9096 sha1 53771c573051db43e7185b1d188533056290a620 )
+	rom ( name prg1 size 2048 crc f36e88ab sha1 813cecf44bf5464b1aed64b36f5047e4c79ba176 )
+	rom ( name prg2 size 2048 crc 618bd9b3 sha1 b9ca52b63a49ddece768378d331deebbe34fe177 )
+	rom ( name prg3 size 2048 crc 7d177853 sha1 9b5ddaaa8b564654f97af193dbcc29f81f230a25 )
+	rom ( name prg4 size 2048 crc d3e8914c sha1 c2f00e1773c6864435f29c8b7f44f2ef85d227d3 )
+	rom ( name prg5 size 2048 crc 6bf4f625 sha1 afe72fdfec66c145b53ed865f98734686b26e921 )
+	rom ( name prg6 size 2048 crc a948ce83 sha1 08759833f7e0690b2ccae573c929e2a48e5bde7f )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name pacmod
+	description "Pac-Man (Midway, harder)"
+	year 1981
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacmanh.6e size 4096 crc 3b2ec270 sha1 48fc607ad8d86249948aa377c677ae44bb8ad3da )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pacmanh.6h size 4096 crc 18811780 sha1 ab34acaa3dbcafe8b20c2197f36641e471984487 )
+	rom ( name pacmanh.6j size 4096 crc 5c96a733 sha1 22ae15a6f088e7296f77c7487a350c4bd102f00e )
+	rom ( name pacmanh.5e size 4096 crc 299fb17a sha1 ad97adc2122482a9018bacd137df9d8f409ddf85 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name hangly
+	description "Hangly-Man (set 1)"
+	year 1981
+	manufacturer "hack"
+	rom ( name hangly.6e size 4096 crc 5fe8610a sha1 d63eaebd85e10aa6c27bb7f47642dd403eeb6934 )
+	rom ( name hangly.6f size 4096 crc 73726586 sha1 cedddc5194589039dd8b64f07ab6320d7d4f55f9 )
+	rom ( name hangly.6h size 4096 crc 4e7ef99f sha1 bd42e68b29b4d654dc817782ba00db69b7d2dfe2 )
+	rom ( name hangly.6j size 4096 crc 7f4147e6 sha1 0a7ac0e59d4d26fe52a2f4196c9f19e5ab677c87 )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name puckman
+	description "New Puck-X"
+	year 1980
+	manufacturer "hack"
+	rom ( name puckman.6e size 4096 crc a8ae23c5 sha1 1481a4f083b563350744f9d25b1bcd28073875d6 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name puckman.6h size 4096 crc 197443f8 sha1 119aab12a9e1052c7b9a1f81e563740b41429a8c )
+	rom ( name puckman.6j size 4096 crc 2e64a3ba sha1 f86a921173f32211b18d023c2701664d13ae23be )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name pacheart
+	description "Pac-Man (Hearts)"
+	year 1981
+	manufacturer "hack"
+	rom ( name pacheart.pg1 size 2048 crc d844b679 sha1 c4486198b3126bb8e05a308c53787e51065f77ae )
+	rom ( name pacheart.pg2 size 2048 crc b9152a38 sha1 b6be2cb6bc7dd123503eb6bf1165dd1c99456813 )
+	rom ( name prg3 size 2048 crc 7d177853 sha1 9b5ddaaa8b564654f97af193dbcc29f81f230a25 )
+	rom ( name pacheart.pg4 size 2048 crc 842d6574 sha1 40e32d09cc8d701eb318716493a68cf3f95d3d6d )
+	rom ( name pacheart.pg5 size 2048 crc 9045a44c sha1 a97d7016effbd2ace9a7d92ceb04a6ce18fb42f9 )
+	rom ( name pacheart.pg6 size 2048 crc 888f3c3e sha1 c2b5917bf13071131dd53ea76f0da86706db2d80 )
+	rom ( name pacheart.pg7 size 2048 crc f5265c10 sha1 9a320790d7a03fd6192a92d30b3e9c754bbc6a9d )
+	rom ( name pacheart.pg8 size 2048 crc 1a21a381 sha1 d5367a327d19fb57ba5e484bd4fda1b10953c040 )
+	rom ( name pacheart.ch1 size 2048 crc c62bbabf sha1 f6f28ae33c2ab274105283b22b49ad243780a95e )
+	rom ( name chg2 size 2048 crc 3591b89d sha1 79bb456be6c39c1ccd7d077fbe181523131fb300 )
+	rom ( name pacheart.ch3 size 2048 crc ca8c184c sha1 833aa845824ed80777b62f03df36a920ad7c3656 )
+	rom ( name pacheart.ch4 size 2048 crc 1b1d9096 sha1 53771c573051db43e7185b1d188533056290a620 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+
+game (
+	name piranha
+	description "Piranha"
+	year 1981
+	manufacturer "hack"
+	rom ( name pr1.cpu size 4096 crc bc5ad024 sha1 a3ed781b514a1068b24a7146a28f0a2adfaa2719 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pr3.cpu size 4096 crc 473c379d sha1 6e7985367c3e544b4cb98ba8291908df88eafe7f )
+	rom ( name pr4.cpu size 4096 crc 63fbf895 sha1 d328bf3b8f307fb774614834edec211117148e64 )
+	rom ( name pr5.cpu size 2048 crc 3fc4030c sha1 5e45f0c19cf96daa17afd2fa1c628d7ac7f4a79c )
+	rom ( name pr7.cpu size 2048 crc 30b9a010 sha1 b0ba8b6cd430feb32d11d092e1959b9f5d240f1b )
+	rom ( name pr6.cpu size 2048 crc f3e9c9d5 sha1 709a75b2457f21f0f1a3d9e7f4c8579468ee5cad )
+	rom ( name pr8.cpu size 2048 crc 133d720d sha1 8af75ed9e115a996379acedd44d0c09332ec5a03 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+)
+

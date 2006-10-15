@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="ghostsngoblins" type="single" dat="GEM_-_Ghosts_n_Goblins_Emulator">
+	<name>GEM (Ghosts n Goblins Emulator)</name>
+	<version>-only version-</version>
+	<date>19/05/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="roberto_ventura">&author_roberto_ventura;</author_link>
+
+	<emulates>Ghosts'n Goblins (Capcom)</emulates>
+	<comment>Written entirely in assembler</comment>
+	<status>Dormant</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="gem32.zip">Emulator</file>
+	</files>
+</emulator>

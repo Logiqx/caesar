@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="retrocade" type="multi" dat="Retrocade_v1.2_b2">
+	<name>Retrocade</name>
+	<version>1.2 beta 2</version>
+	<date>23/05/1999</date>
+
+	<homepage status="bad">http://www.retrocade.com/</homepage>
+	<author_link id="neil_bradley">&author_neil_bradley;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="richard_bannister">&author_richard_bannister;</author_link>
+			<comment>Macintosh Port</comment>
+		</contributor>
+		<contributor>
+			<author_link id="paul_biondich">&author_paul_biondich;</author_link>
+			<comment>Composed the artwork for the GUI and the intro screen</comment>
+		</contributor>
+		<contributor>
+			<author_link id="antiriad">&author_antiriad;</author_link>
+			<comment>Technical advisor for adding "RAINE" supported games and wrote a few game extensions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="neill_corlett">&author_neill_corlett;</author_link>
+			<comment>Starscream 68000 emulator plus TMS5220 and YM2151 sound chip emulators</comment>
+		</contributor>
+		<contributor>
+			<author_link id="michael_cuddy">&author_michael_cuddy;</author_link>
+			<comment>GUI and MCR game extensions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="aaron_giles">&author_aaron_giles;</author_link>
+			<comment>Macintosh consultant and provided 68000 core for the Mac</comment>
+		</contributor>
+		<contributor>
+			<author_link id="peter_hirschberg">&author_peter_hirschberg;</author_link>
+			<comment>Vector games, backdrops and samples</comment>
+		</contributor>
+		<contributor>
+			<author_link id="patrick_lawrence">&author_patrick_lawrence;</author_link>
+			<comment>6808 and 6809 CPU emulation cores, raster graphics system and various game extensions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="brian_levine">&author_brian_levine;</author_link>
+			<comment>Assisted with raster graphics system and added some game extensions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="jeff_mitchell">&author_jeff_mitchell;</author_link>
+			<comment>Wrote the Generic UNIX port, Linux port and rewrote some cores in C (for generalised ports)</comment>
+		</contributor>
+		<contributor>
+			<author_link id="zonn_moore">&author_zonn_moore;</author_link>
+			<comment>Emulation Cores, cinematronics games and sound related stuff</comment>
+		</contributor>
+		<contributor>
+			<author_link id="alex_pasadyn">&author_alex_pasadyn;</author_link>
+			<comment>34010 core and game extensions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="brian_peek">&author_brian_peek;</author_link>
+			<comment>Game extensions and work on windows port</comment>
+		</contributor>
+		<contributor>
+			<author_link id="brian_stern">&author_brian_stern;</author_link>
+			<comment>Various game extensions</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Over 100 Classics (Late 70's to mid/late 80's)</emulates>
+	<comment>Nice interface and although everything is covered by MAME it is far more efficient and takes much less of a system to run it. For example, I am informed that Retrocade can run Galaga with full sound on a 486/33 but MAME requires a Pentium 200.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="mathbox" type="cpu">&library_mathbox;</library_link>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multi6808" type="cpu">&library_multi6808;</library_link>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="retro-dos12.zip">Emulator</file>
+		<file name="retro-anim11.zip">Animations</file>
+		<file name="retro-art11.zip">Artwork (Game Backdrops)</file>
+		<file name="retro-green11.zip">GUI Extensions</file>
+		<file name="retro-gui11.zip">GUI</file>
+		<file name="retro-wav11.zip">Samples</file>
+		<file name="retro-hist.zip">History</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="cinemu" type="multi">&emulator_cinemu;</emulator_link>
+			<emulator_link id="emu" type="multi">&emulator_emu;</emulator_link>
+			<emulator_link id="kem" type="multi">&emulator_kem;</emulator_link>
+		</predecessors>
+
+		<ports>
+			<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

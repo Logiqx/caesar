@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="amoad" type="single" dat="AMOAD_I_-_XXII">
+	<name>AMOAD (Arcade Machine On A Disk)</name>
+	<version>-only version-</version>
+	<date>05/07/1998</date>
+
+	<homepage>http://surf.to/amoad</homepage>
+	<author_link id="tony_docherty">&author_tony_docherty;</author_link>
+	<author_link id="marcel_silvius">&author_marcel_silvius;</author_link>
+
+	<emulates>Various Games</emulates>
+	<comment>A collection of single emulators that each fit on a floppy disk. Binaries for AMOAD 20+22 are missing (they need re-compiling with Allegro v3.0 and SEAL v1.03).</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="amoad1.zip">AMOAD 1 (Space Invaders)</file>
+		<file name="amoad2.zip">AMOAD 2 (Space Invaders Pt II)</file>
+		<file name="amoad2s.zip">AMOAD 2 (Space Invaders Pt II) - Source</file>
+		<file name="amoad3.zip">AMOAD 3 (Galaxy Wars)</file>
+		<file name="amoad3s.zip">AMOAD 3 (Galaxy Wars) - Source</file>
+		<file name="amoad4.zip">AMOAD 4 (Invaders Revenge)</file>
+		<file name="amoad4s.zip">AMOAD 4 (Invaders Revenge) - Source</file>
+		<file name="amoad5.zip">AMOAD 5 (Lunar Rescue)</file>
+		<file name="amoad5s.zip">AMOAD 5 (Lunar Rescue) - Source</file>
+		<file name="amoad6.zip">AMOAD 6 (Space Attack II)</file>
+		<file name="amoad6s.zip">AMOAD 6 (Space Attack II) - Source</file>
+		<file name="amoad7.zip">AMOAD 7 (Super Earth Invasion)</file>
+		<file name="amoad7s.zip">AMOAD 7 (Super Earth Invasion) - Source</file>
+		<file name="amoad8.zip">AMOAD 8 (Asteroids)</file>
+		<file name="amoad8s.zip">AMOAD 8 (Asteroids) - Source</file>
+		<file name="amoad9.zip">AMOAD 9 (Bombjack)</file>
+		<file name="amoad10.zip">AMOAD 10 (Galaxian)</file>
+		<file name="amoad11.zip">AMOAD 11 (Frogger)</file>
+		<file name="amoad12.zip">AMOAD 12 (Galaga)</file>
+		<file name="amoad13.zip">AMOAD 13 (Cosmic Monsters)</file>
+		<file name="amoad13s.zip">AMOAD 13 (Cosmic Monsters) - Source</file>
+		<file name="amoad14.zip">AMOAD 14 (Phoenix)</file>
+		<file name="amoad15.zip">AMOAD 15 (Ms Pacman)</file>
+		<file name="amoad15s.zip">AMOAD 15 (Ms Pacman) - Source</file>
+		<file name="amoad16.zip">AMOAD 16 (Amidar)</file>
+		<file name="amoad16s.zip">AMOAD 16 (Amidar) - Source</file>
+		<file name="amoad17.zip">AMOAD 17 (Crazy Kong)</file>
+		<file name="amoad17s.zip">AMOAD 17 (Crazy Kong) - Source</file>
+		<file name="amoad18.zip">AMOAD 18 (Pacman)</file>
+		<file name="amoad18s.zip">AMOAD 18 (Pacman) - Source</file>
+		<file name="amoad19.zip">AMOAD 19 (Pengo)</file>
+		<file name="amoad19s.zip">AMOAD 19 (Pengo) - Source</file>
+		<file name="amoad20s.zip">AMOAD 20 (Scramble) - Source</file>
+		<file name="amoad21.zip">AMOAD 21 (Crush Roller)</file>
+		<file name="amoad21s.zip">AMOAD 21 (Crush Roller) - Source</file>
+		<file name="amoad22s.zip">AMOAD 22 (Crazy Climber) - Source</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="asteroids" type="single">&emulator_asteroids;</emulator_link>
+			<emulator_link id="spaceinvaders" type="multi">&emulator_spaceinvaders;</emulator_link>
+		</predecessors>
+	</relatives>
+</emulator>

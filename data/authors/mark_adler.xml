@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mark_adler">
+	<name>Mark Adler</name>
+	<email>madler@alumni.caltech.edu</email>
+	<tool_links>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+</author>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="murilo_queiroz">
+	<name>Murilo Saraiva de Queiroz</name>
+	<email>muriloq@dcc.ufmg.br</email>
+	<emulator_links>
+		<emulator_link id="java_phoenix_emulator" type="java">&emulator_java_phoenix_emulator;</emulator_link>
+		<emulator_link id="java_pleiads_emulator" type="java">&emulator_java_pleiads_emulator;</emulator_link>
+	</emulator_links>
+</author>

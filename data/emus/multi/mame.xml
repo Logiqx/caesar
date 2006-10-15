@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mame" type="multi" dat="MAME_v0.109">
+	<name>MAME (Multiple Arcade Machine Emulator)</name>
+	<version>0.109</version>
+	<date>27/09/2006</date>
+
+	<homepage>http://www.mame.net/</homepage>
+	<homepage>http://www.mamedev.org/</homepage>
+	<author_link id="nicola_salmoria">&author_nicola_salmoria;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="mike_balfour">&author_mike_balfour;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="aaron_giles">&author_aaron_giles;</author_link>
+			<comment>Long term contributor and looks after Mac Port. Also created MAMEW when MAME was just DOS based.</comment>
+		</contributor>
+		<contributor>
+			<author_link id="chris_moore">&author_chris_moore;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="brad_oliver">&author_brad_oliver;</author_link>
+			<comment>Long term contributor and looks after Mac Port</comment>
+		</contributor>
+		<contributor>
+			<author_link id="andrew_scott">&author_andrew_scott;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="zsolt_vasvari">&author_zsolt_vasvari;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="daniel_boris">&author_daniel_boris;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="ernesto_corvi">&author_ernesto_corvi;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="juergen_buchmueller">&author_juergen_buchmueller;</author_link>
+			<comment>Long term contributor of drivers and discrete sound emulation</comment>
+		</contributor>
+		<contributor>
+			<author_link id="mike_coates">&author_mike_coates;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="mirko_buffoni">&author_mirko_buffoni;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="paul_leaman">&author_paul_leaman;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="phil_stroffolino">&author_phil_stroffolino;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+		<contributor>
+			<author_link id="tatsuyuki_satoh">&author_tatsuyuki_satoh;</author_link>
+			<comment>Long term contributor (several sound cores)</comment>
+		</contributor>
+		<contributor>
+			<author_link id="david_haywood">&author_david_haywood;</author_link>
+			<comment>Long term contributor of drivers</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Emulates far more than anything else!</emulates>
+	<comment>The biggest arcade emulator ever... need I say more? Also related is MESS which is the home console/computer version of MAME. Normal and i686 optimised versions available.</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="a68k" type="cpu">&library_a68k;</library_link>
+		<library_link id="musashi" type="cpu">&library_musashi;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="mingw" type="compilers">&tool_mingw;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="multipac" type="multi">&emulator_multipac;</emulator_link>
+		</predecessors>
+
+		<ports>
+			<emulator_link id="mame64" type="n64">&emulator_mame64;</emulator_link>
+			<emulator_link id="amame" type="amiga">&emulator_amame;</emulator_link>
+			<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+			<emulator_link id="macmame" type="mac">&emulator_macmame;</emulator_link>
+			<emulator_link id="xmame" type="linux">&emulator_xmame;</emulator_link>
+			<emulator_link id="mame_os2" type="os2">&emulator_mame_os2;</emulator_link>
+			<emulator_link id="bemame" type="beos">&emulator_bemame;</emulator_link>
+			<emulator_link id="mame_beos" type="beos">&emulator_mame_beos;</emulator_link>
+			<emulator_link id="xmame_beos" type="beos">&emulator_xmame_beos;</emulator_link>
+			<emulator_link id="xmame_ps2" type="ps2">&emulator_xmame_ps2;</emulator_link>
+			<emulator_link id="emame" type="psion">&emulator_emame;</emulator_link>
+			<emulator_link id="emame_symbian" type="symbian">&emulator_emame_symbian;</emulator_link>
+			<emulator_link id="e2mame" type="symbian">&emulator_e2mame;</emulator_link>
+			<emulator_link id="phmame" type="qnx">&emulator_phmame;</emulator_link>
+			<emulator_link id="mame_amiga" type="amiga">&emulator_mame_amiga;</emulator_link>
+			<emulator_link id="mame_amigappc" type="amiga">&emulator_mame_amigappc;</emulator_link>
+			<emulator_link id="warpmame" type="amiga">&emulator_warpmame;</emulator_link>
+			<emulator_link id="armmame" type="arm">&emulator_armmame;</emulator_link>
+			<emulator_link id="mamece" type="wince">&emulator_mamece;</emulator_link>
+			<emulator_link id="imame_ipaq" type="wince">&emulator_imame_ipaq;</emulator_link>
+			<emulator_link id="mamece3" type="wince">&emulator_mamece3;</emulator_link>
+			<emulator_link id="mame_jornada" type="wince">&emulator_mame_jornada;</emulator_link>
+			<emulator_link id="mamed" type="digita">&emulator_mamed;</emulator_link>
+			<emulator_link id="mamed_dc" type="dreamcast">&emulator_mamed_dc;</emulator_link>
+			<emulator_link id="mame_gp32" type="gp32">&emulator_mame_gp32;</emulator_link>
+			<emulator_link id="mamedc" type="dreamcast">&emulator_mamedc;</emulator_link>
+			<emulator_link id="mamex" type="xbox">&emulator_mamex;</emulator_link>
+			<emulator_link id="zmame" type="wince">&emulator_zmame;</emulator_link>
+		</ports>
+
+		<modified_versions>
+			<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		</modified_versions>
+
+		<derivatives>
+			<emulator_link id="snamew" type="multi">&emulator_snamew;</emulator_link>
+		</derivatives>
+	</relatives>
+</emulator>

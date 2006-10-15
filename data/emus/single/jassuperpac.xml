@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="jassuperpac" type="single" dat="JAS-Super_Pacman_v1.01">
+	<name>JAS-Super Pacman (JROK's Arcade Simulator)</name>
+	<version>1.01</version>
+	<date>31/07/1997</date>
+
+	<homepage>http://www.jrok.com/</homepage>
+	<author_link id="jrok">&author_jrok;</author_link>
+
+	<emulates>Super Pacman (Bally Midway)</emulates>
+	<comment>Grew up to become the multi-arcade emulator JAS</comment>
+	<status>Now part of JAS</status>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+	</tool_links>
+
+	<platform>DOS (but Windows friendly)</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="jas-spm.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="jas" type="multi">&emulator_jas;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

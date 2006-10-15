@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="yiearkungfu" type="single" dat="Yie_Ar_Kung-Fu_Emulator_v0.48">
+	<name>Yie Ar Kung-Fu Arcade Machine Emulator</name>
+	<version>0.48</version>
+	<date>23/07/1997</date>
+
+	<homepage>http://home5.swipnet.se/~w-50884/emulator/emulator.htm</homepage>
+	<author_link id="janne_korpela">&author_janne_korpela;</author_link>
+
+	<emulates>Yie Ar Kung-Fu (Konami)</emulates>
+	<comment>Janne's second emulator</comment>
+	<status>Dormant</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="yem048.zip">Emulator</file>
+	</files>
+</emulator>

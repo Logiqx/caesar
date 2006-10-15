@@ -1,0 +1,31 @@
+clrmamepro (
+	name Bombjack
+	description "Bombjack PC v1.1"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name bombjack
+	description "Bomb Jack (set 2)"
+	year 1984
+	manufacturer "Tehkan"
+	rom ( name bj-09.bin size 8192 crc c668dc30 sha1 51dd6a2688b42e9f28f0882bd76f75be7ec3222a )
+	rom ( name bj-10.bin size 8192 crc 52a1e5fb sha1 e1cdc4b4efbc6c7a1e4fa65019486617f2acba1b )
+	rom ( name bj-11.bin size 8192 crc b68a062a sha1 43bae56494ac0202aaa8f1ed5c1ed1bff775b2b8 )
+	rom ( name bj-12.bin size 8192 crc 1d3ecee5 sha1 8b3c49e21ea4952cae7042890d1be2115f7d6fda )
+	rom ( name bj-13.bin size 8192 crc bcafdd29 sha1 d243eb1249e885aa75fc910fce6e7744770d6e82 )
+	rom ( name bj-01.bin size 8192 crc 8407917d sha1 318face9f7a7ab6c7eeac773995040425e780aaf )
+	rom ( name bj-03.bin size 4096 crc 9f0470d5 sha1 94ef52ef47b4399a03528fe3efeac9c1d6983446 )
+	rom ( name bj-04.bin size 4096 crc 81ec12e6 sha1 e29ba193f21aa898499187603b25d2e226a07c7b )
+	rom ( name bj-05.bin size 4096 crc e87ec8b1 sha1 a66808ef2d62fca2854396898b86bac9be5f17a3 )
+	rom ( name bj-06.bin size 8192 crc 51eebd89 sha1 515128a3971fcb97b60c5b6bdd2b03026aec1921 )
+	rom ( name bj-07.bin size 8192 crc 9dd98e9d sha1 6db6006a6e20ff7c243d88293ca53681c4703ea5 )
+	rom ( name bj-08.bin size 8192 crc 3155ee7d sha1 e7897dca4c145f10b7d975b8ef0e4d8aa9354c25 )
+	rom ( name bj-16.bin size 8192 crc 94694097 sha1 de71bcd67f97d05527f2504fc8430be333fb9ec2 )
+	rom ( name bj-15.bin size 8192 crc 013f58f2 sha1 20c64593ab9fcb04cefbce0cd5d17ce3ff26441b )
+	rom ( name bj-14.bin size 8192 crc 101c858d sha1 ed1746c15cdb04fae888601d940183d5c7702282 )
+	rom ( name bj-02.bin size 4096 crc 398d4a02 sha1 ac18a8219f99ba9178b96c9564de3978e39c59fd )
+)
+

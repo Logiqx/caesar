@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mike_green">
+	<name>Mike Green</name>
+	<email>emudx@emuviews.com</email>
+	<emulator_links>
+		<emulator_link id="asciipac" type="single">&emulator_asciipac;</emulator_link>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		<emulator_link id="sinvader" type="single">&emulator_sinvader;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,88 @@
+clrmamepro (
+	name "System 16 Sound Player"
+	description "System 16 Sound Player"
+	category "Sound Player"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name shinobi
+	description "Shinobi [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf sha1 ddfac640e442537acb015de8bb088659f5a217ee )
+)
+
+game (
+	name shinobl
+	description "Shinobi (bootleg) [sound only]"
+	year 1987
+	manufacturer "bootleg"
+	rom ( name epr11267.12 size 32768 crc dd50b745 sha1 52e1977569d3713ad864d607170c9a61cd059a65 )
+)
+
+game (
+	name altbeast
+	description "Altered Beast [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name 11671 size 32768 crc 2b71343b sha1 8a657f787de2b9d5161ed2c109642a148348af09 )
+)
+
+game (
+	name altbeas2
+	description "Altered Beast (Version 2) [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name opr11686 size 32768 crc 828a45b3 sha1 df921701b411afac1b6716b6798a1bffc2180133 )
+)
+
+game (
+	name goldnaxe
+	description "Golden Axe [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name epr12390 size 32768 crc 399fc5f5 sha1 6f290b36dc71ff4759598e2a9c185a8945a3c9e7 )
+)
+
+game (
+	name aurail
+	description "Aurail (set 1) [sound only]"
+	year 1990
+	manufacturer "Sega / Westone"
+	rom ( name 13448 size 32768 crc b5183fb9 sha1 c8372b57fa486256d49dc5851d6b17c92de593fb )
+)
+
+game (
+	name eswat
+	description "E-Swat - Cyber Police [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name e12617 size 32768 crc 537930cb sha1 da3d50aff3cbe1587809e804f840fa5138fb6811 )
+)
+
+game (
+	name eswatbl
+	description "E-Swat - Cyber Police (bootleg) [sound only]"
+	year 1989
+	manufacturer "bootleg"
+	rom ( name ic8.bin size 32768 crc 7efecf23 sha1 2b87af7cfaab5942a3f7b38c987fcba01d3475ab )
+)
+
+game (
+	name aliensyn
+	description "Alien Syndrome [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name 10723.a7 size 32768 crc 99953526 sha1 4a980370923fd5d3dc9e25d42a032c9e78c7ff47 )
+)
+
+game (
+	name aliensya
+	description "Alien Syndrome (set 2) [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name 10705 size 32768 crc 777b749e sha1 086b03100064a98228f95db7962b2671121c46ea )
+)
+

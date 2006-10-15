@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="derek_smith">
+	<name>Derek Smith</name>
+	<email>dereksmi@hawaii.edu</email>
+	<contribution_links>
+		<emulator_link id="macslomo" type="mac">&emulator_macslomo;</emulator_link>
+	</contribution_links>
+</author>

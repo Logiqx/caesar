@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="finalburn_qnx" type="qnx" dat="dummy">
+	<name>Final Burn for QNX</name>
+	<version>Preview</version>
+	<date>19/10/2001</date>
+
+	<homepage>http://www.iespana.es/comac_es/fbpre/</homepage>
+	<author_link id="daniel_moreno">&author_daniel_moreno;</author_link>
+
+	<emulates>Sega and Capcom 68000 games</emulates>
+	<comment>QNX port of Final Burn.</comment>
+	<status>Dormant</status>
+
+	<platform>QNX</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="finalburn.20010912.qnx.tar.bz2">Final Burn for QNX</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="smf">
+	<name>SMF</name>
+	<emulator_links>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+		<emulator_link id="zinc_linux" type="linux">&emulator_zinc_linux;</emulator_link>
+	</emulator_links>
+</author>

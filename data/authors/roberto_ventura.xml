@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="roberto_ventura">
+	<name>Roberto Ventura</name>
+	<email>jdoe@galactica.it</email>
+	<email>jdoe@micronet.it</email>
+	<emulator_links>
+		<emulator_link id="ghostsngoblins" type="single">&emulator_ghostsngoblins;</emulator_link>
+		<emulator_link id="jff" type="multi">&emulator_jff;</emulator_link>
+		<emulator_link id="system8" type="multi">&emulator_system8;</emulator_link>
+		<emulator_link id="vastar" type="single">&emulator_vastar;</emulator_link>
+	</emulator_links>
+</author>

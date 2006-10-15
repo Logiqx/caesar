@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="cesar_nicolas_gonzalez">
+	<name>C&amp;eacute;sar Nicol&amp;aacute;s Gonz&amp;aacute;lez (CNGSoft)</name>
+	<email>cngsoft@emuunlim.com</email>
+	<emulator_links>
+		<emulator_link id="cpse" type="sound">&emulator_cpse;</emulator_link>
+	</emulator_links>
+</author>

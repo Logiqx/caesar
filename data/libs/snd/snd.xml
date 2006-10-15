@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="snd" type="snd">
+	<name>Sound Chip Emulator</name>
+	<version>1.27</version>
+	<date>16/02/2000</date>
+
+	<homepage>http://etc.home.dhs.org/</homepage>
+	<author_link id="richard_mitton">&author_richard_mitton;</author_link>
+
+	<emulates>YM2149 (AY-3-8910), SN76489, YM2203, YM2610, YM2612, YM3526, YM3812, generic 8-bit DAC</emulates>
+	<comment>This emulates several audio chips via the SoundBlaster's OPL3 chip, and the SoundBlaster's DAC/DSP/DMA</comment>
+
+	<emulator_links>
+		<emulator_link id="tnzsemu" type="single">&emulator_tnzsemu;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="snd.zip">Emulator</file>
+	</files>
+</library>

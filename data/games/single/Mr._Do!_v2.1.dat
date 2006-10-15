@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Mr. Do!"
+	description "Mr. Do! v2.1"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name mrdo
+	description "Mr. Do! (Taito)"
+	year 1982
+	manufacturer "Universal (Taito license)"
+	rom ( name d1 size 8192 crc 3dcd9359 sha1 bfe00450ee8822f437d87514f051ad1be6de9463 )
+	rom ( name d2 size 8192 crc 710058d8 sha1 168cc179f2266bbf9437445bef9ff7d3358a8e6b )
+	rom ( name d3 size 8192 crc 467d12d8 sha1 7bb85e6a780de1c0c224229ee571cab39098f78d )
+	rom ( name d4 size 8192 crc fce9afeb sha1 26236a42c1c620975d4480c4315d0c6f112429b6 )
+	rom ( name d9 size 4096 crc de4cfe66 sha1 c217dcc24305f3b4badfb778a1cf4e57c178d168 )
+	rom ( name d10 size 4096 crc a6c2f38b sha1 7c132771bf385c8ed28d8c8bdfc3dbf0b4aa75e8 )
+	rom ( name d8 size 4096 crc dbdc9ffa sha1 93f29fc106283eecbba3fd69cf3c4658aa38ab9f )
+	rom ( name d7 size 4096 crc 4b9973db sha1 8766c51a345a5e63446e65614c6f665ab5fbe0d7 )
+	rom ( name d5 size 4096 crc e1218cc5 sha1 d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8 )
+	rom ( name d6 size 4096 crc b1f68b04 sha1 25709cd81c03df51f27cd730fecf86a1daa9e27e )
+)
+

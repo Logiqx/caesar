@@ -1,0 +1,27 @@
+clrmamepro (
+	name "City Connection"
+	description "City Connection Emulator v2.4"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name citycon
+	description "City Connection (set 1)"
+	year 1985
+	manufacturer "Jaleco"
+	rom ( name c10 size 16384 crc ae88b53c sha1 dd12310bd9c9b93462446e8e0a1c853506bf3aa1 )
+	rom ( name c11 size 32768 crc 139eb1aa sha1 c570e8ca1499f7ea61938e78c32c1cc3050ca2b7 )
+	rom ( name c1 size 32768 crc 1fad7589 sha1 2e626bbbab8cffe11ee7de3e56aa1871c29d5fa9 )
+	rom ( name c4 size 8192 crc a6b32fc6 sha1 d99d5a527440e9a91525c1084b95b213e3b760ec )
+	rom ( name c12 size 8192 crc 08eaaccd sha1 a970381e3ba22bcdea6df2d31cd8a10c4b2bc413 )
+	rom ( name c13 size 8192 crc 1819aafb sha1 8a5ffcd8866e09c5568879257384767d61796111 )
+	rom ( name c9 size 32768 crc 8aeb47e6 sha1 bb09dbe6b37e1bd02abf3024ac4d954c8f0e70f2 )
+	rom ( name c8 size 16384 crc 0d7a1eeb sha1 60b8d4124ce857a248d3c41fdb050f11be58549f )
+	rom ( name c6 size 32768 crc 2246fe9d sha1 f7f8708d499bcbd1a583e1092b54425ad1105f94 )
+	rom ( name c7 size 16384 crc e8b97de9 sha1 f4d1b7075f47ab4522c36281b97eaa02fe383814 )
+	rom ( name c2 size 32768 crc f2da4f23 sha1 5ea1a51c3ac283796f7eafb6719d88356767340d )
+	rom ( name c3 size 16384 crc 7ef3ac1b sha1 8a0497c4e4733f9c50d576f632210b82497a5e1c )
+)
+

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="n6502" type="cpu">
+	<name>n6502</name>
+	<version>1.0</version>
+	<date>21/08/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="sardu">&author_sardu;</author_link>
+
+	<emulates>6502</emulates>
+	<comment>This is the 6502 source code used in NESticle .4x. It was coded in 32 bit assembly by Bloodlust Software, and is the fastest 6502 cpu emulator there is</comment>
+
+	<tool_links>
+		<tool_link id="tasm" type="assemblers">&tool_tasm;</tool_link>
+	</tool_links>
+
+	<files>
+		<file name="n6502.zip">Emulator</file>
+	</files>
+</library>

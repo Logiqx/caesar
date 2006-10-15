@@ -1,0 +1,1020 @@
+clrmamepro (
+	name MMSnd
+	description "MMSnd v0.36b10"
+	category "Sound Player"
+	version 20040709
+	author "Ben Jos Walbeehm - Team Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name 4dwarrio
+	description "4D Warriors [sound only]"
+	year 1985
+	manufacturer "Coreland / Sega"
+	rom ( name 4d.120 size 8192 crc 5241c009 sha1 b7a21f95b63234f2496d5ea6e7dc8050ca1b39fc )
+)
+
+game (
+	name ab1
+	description "After Burner [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name ab1_fm.dat size 65536 crc 6888eb8f sha1 8f8fffb214842a5d356e33f5a97099bc6407384f )
+	rom ( name ab_pcm.dat size 393216 crc d7f3957d )
+)
+
+game (
+	name abcop
+	description "AB Cop [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name 13560 size 65536 crc 83050925 )
+	rom ( name 13561 size 131072 crc 80a7c02a )
+	rom ( name 13562 size 131072 crc 3cc3968f )
+	rom ( name 13563 size 131072 crc 4083e74f )
+)
+
+game (
+	name aburner
+	description "After Burner II [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name 10930 size 131072 crc 9209068f sha1 01f3dda1c066d00080c55f2c86c506b6b2407f98 )
+	rom ( name 10931 size 131072 crc 6493368b sha1 328aff19ff1d1344e9115f519d3962390c4e5ba4 )
+	rom ( name 11102 size 131072 crc 6c07c78d sha1 3868b1824f43e4f2b4fbcd9274bfb3000c889d12 )
+	rom ( name 11112 size 65536 crc d777fc6d sha1 46ce1c3875437044c0a172960d560d6acd6eaa92 )
+)
+
+game (
+	name ajax
+	description "Ajax [sound only]"
+	year 1987
+	manufacturer "Konami"
+	rom ( name 770c10 size 262144 crc 7fac825f sha1 581522d7a02dad16d2803ff344b4db133f767e6b )
+	rom ( name 770c11 size 524288 crc 299a615a sha1 29cdcc21998c72f4cf311792b904b79bde236bab )
+	rom ( name h03.f16 size 32768 crc 2ffd2afc sha1 ca2ef684f87bcf9b70b3ec66ec80685edaf04b9b )
+)
+
+game (
+	name alexkidd
+	description "Alex Kidd [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name 10434.12 size 32768 crc 77141cce sha1 6c5e83527f7e11a5ff5cc4fa75d55618a55e1a58 )
+)
+
+game (
+	name aliensyn
+	description "Alien Syndrome [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name 10723.a7 size 32768 crc 99953526 sha1 4a980370923fd5d3dc9e25d42a032c9e78c7ff47 )
+	rom ( name 10724.a8 size 32768 crc f971a817 sha1 502c95638e4fd5f87e5fc837cb44b39a5d62f4e4 )
+	rom ( name 10725.a9 size 32768 crc 6a50e08f sha1 d34b2ccadb8b07d5ad99cab5c5b5b79642c65574 )
+	rom ( name 10726.a10 size 32768 crc d50b7736 sha1 b1f8e3b0cf2ffee5382098100cfabe21b383cd51 )
+)
+
+game (
+	name altbeast
+	description "Altered Beast [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name ab11671.bin size 32768 crc 2b71343b sha1 8a657f787de2b9d5161ed2c109642a148348af09 )
+	rom ( name opr11672 size 131072 crc bbd7f460 sha1 bbc5c2219cb3a827d84062b19affd9780da2a3cf )
+	rom ( name opr11673 size 131072 crc 400c4a36 sha1 de4bdfa91734410e0a7f6a16bf8336db172f458a )
+)
+
+game (
+	name arabfght
+	description "Arabian Fight [sound only]"
+	year 1992
+	manufacturer "Sega"
+	rom ( name mpr14593.bin size 1048576 crc aa037047 sha1 5cb1cfb235bbbf875d2b07ac4a9130ba13d47e57 )
+	rom ( name mpr14594.bin size 1048576 crc 01777645 sha1 7bcbe7687bd80b94bd3b2b3099cdd036bf7e0cd3 )
+	rom ( name mpr14595.bin size 1048576 crc 5173d1af sha1 dccda644488d0c561c8ff7fa9619bd9504d8d9c6 )
+	rom ( name epr14596.bin size 131072 crc bd01faec sha1 c909dcb8ef2672c4b0060d911d295e445ca311eb )
+)
+
+game (
+	name astormj
+	description "Alien Storm [sound only]"
+	year 1990
+	manufacturer "Sega"
+	rom ( name mpr13076.bin size 262144 crc 94e6c76e sha1 f99e58a9bf372c41af211bd9b9ea3ac5b924c6ed )
+	rom ( name mpr13077.bin size 262144 crc e2ec0d8d sha1 225b0d223b7282cba7710300a877fb4a2c6dbabb )
+	rom ( name mpr13078.bin size 262144 crc 15684dc5 sha1 595051006de24f791dae937584e502ff2fa31d9c )
+	rom ( name epr13083.bin size 131072 crc 5df3af20 sha1 e49105fcfd5bf37d14bd760f6adca5ce2412883d )
+)
+
+game (
+	name aurail
+	description "Aurail [sound only]"
+	year 1990
+	manufacturer "Sega / Westone"
+	rom ( name 13448 size 32768 crc b5183fb9 sha1 c8372b57fa486256d49dc5851d6b17c92de593fb )
+	rom ( name aurail.a12 size 131072 crc d3d9aaf9 sha1 0fb3a8cb11033accceb3a43a691fb424cf8b9619 )
+)
+
+game (
+	name blockgal
+	description "Block Gal [sound only]"
+	year 1987
+	manufacturer "Sega / Vic Tokai"
+	rom ( name bg.120 size 8192 crc d848faff sha1 5974cc0c3090800ca79f580a620f5b6615f5d039 )
+)
+
+game (
+	name bloxeed
+	description "Bloxeed [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name sound0.rom size 131072 crc 6f2fc63c sha1 3cce22c8f80013f05b5a2d36c42a61a81e4d6cbd )
+)
+
+game (
+	name brain
+	description "Brain [sound only]"
+	year 1986
+	manufacturer "Coreland / Sega"
+	rom ( name brain.120 size 32768 crc c7e50278 sha1 9709a59004c6bc39173d0cb94f3602c358367976 )
+)
+
+game (
+	name bullfgtj
+	description "Bullfight [sound only]"
+	year 1984
+	manufacturer "Sega / Coreland"
+	rom ( name 6077 size 8192 crc 02a37602 sha1 1b67b0d80a228f7faf054bfd79aff120d92c8166 )
+)
+
+game (
+	name charon
+	description "Charon [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name s_pro size 32768 crc 8aa61955 )
+	rom ( name s0 size 131072 crc 82a24191 )
+	rom ( name s1 size 131072 crc e033bccf )
+)
+
+game (
+	name cheqflag
+	description "Chequered Flag [sound only]"
+	year 1988
+	manufacturer "Konami"
+	rom ( name 717e01.rom size 32768 crc 966b8ba8 sha1 ab7448cb61fa5922b1d8ae5f0d0f42d734ed4f93 )
+	rom ( name 717e03.rom size 524288 crc ebe73c22 sha1 fad3334e5e91bf8d11b74ffdbbfd57567e6f6f8c )
+	rom ( name 717e09.rom size 524288 crc d74e857d sha1 00c851c857650d67fc4caccea4461d99be4acb3c )
+)
+
+game (
+	name chplft
+	description "Choplifter [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 7130.126 size 32768 crc 346af118 sha1 ef579818a45b8ebb276d5832092b26e232d5a737 )
+)
+
+game (
+	name dakkochn
+	description "DakkoChan Jansoh [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name epr11229.126 size 32768 crc c11648d0 sha1 c2df3d767d497c3365ae70748c4790f4ee394958 )
+)
+
+game (
+	name darius
+	description "Darius [sound only]"
+	year 1986
+	manufacturer "Taito Corporation"
+	rom ( name a96_56.18 size 65536 crc 292ef55c sha1 67bfe3693e43daece06d4795645d54cd66419e5b )
+	rom ( name a96_57.33 size 65536 crc 33ceb730 sha1 05070ea503ac57ff8445145d6f97115f7aad90a5 )
+)
+
+game (
+	name darius2
+	description "Darius II [sound only]"
+	year 1989
+	manufacturer "Taito Corporation"
+	rom ( name c07-10 size 524288 crc 4bbe0ed9 sha1 081b73c4e4d4fa548445e5548573099bcb1e9213 )
+	rom ( name c07-11 size 524288 crc 3c815699 sha1 0471ff5b0c0da905267f2cee52fd68c8661cccc9 )
+	rom ( name c07-12 size 524288 crc e0b71258 sha1 0258e308b643d723475824752ebffc4ea29d1ac4 )
+	rom ( name c07-28 size 131072 crc da304bc5 sha1 689b4f329d9a640145f82e12dff3dd1fcf8a28c8 )
+)
+
+game (
+	name darius2a
+	description "Darius II (dual screen) [sound only]"
+	year 1989
+	manufacturer "Taito Corporation"
+	rom ( name c07-10.bin size 524288 crc 4bbe0ed9 sha1 081b73c4e4d4fa548445e5548573099bcb1e9213 )
+	rom ( name c07-11.bin size 524288 crc 3c815699 sha1 0471ff5b0c0da905267f2cee52fd68c8661cccc9 )
+	rom ( name c07-12.bin size 524288 crc e0b71258 sha1 0258e308b643d723475824752ebffc4ea29d1ac4 )
+	rom ( name c07-17.bin size 131072 crc ae16c905 sha1 70ba5aacd8a8e00b94719e3955abad8827c67aa8 )
+)
+
+game (
+	name darkedge
+	description "Dark Edge [sound only]"
+	year 1993
+	manufacturer "Sega"
+	rom ( name mpr15240.bin size 1048576 crc 867d59e8 sha1 fb1c0d26dbb1bde9d8bc86419cd911b8e37bf923 )
+	rom ( name mpr15241.bin size 1048576 crc 8eccc4fe sha1 119724b9b6d2b51ad4f065ebf74d200960090e68 )
+	rom ( name mpr15242.bin size 1048576 crc ffb7d917 sha1 bfeae1a2bd7250edb695b7034f6b1f851f6fd48a )
+	rom ( name epr15243.bin size 131072 crc 08ca5f11 sha1 c2c48d2f02770941a93794f82cb407d6264904d2 )
+)
+
+game (
+	name dduxbl
+	description "Dynamite Dux (bootleg) [sound only]"
+	year 1989
+	manufacturer "bootleg"
+	rom ( name dduxb01.bin size 32768 crc 0dbef0d7 sha1 8b9afb2fcb946cec467b1e691c267194b503f841 )
+)
+
+game (
+	name devilwld
+	description "Devil World [sound only]"
+	year 1987
+	manufacturer "Konami"
+	rom ( name dw-ic5a.rom size 131072 crc d4992dfb sha1 c65bef07b6adb9ab6328d679595450945dbf6a88 )
+	rom ( name dw-ic7c.rom size 131072 crc e5947501 sha1 9ec7319bd97711981db60af6f477c2ba2ec7e6b8 )
+	rom ( name dw-m03.rom size 32768 crc 7201983c sha1 06d089406d2f702e8d51ffdfbf34e4727a28d506 )
+)
+
+game (
+	name dinorex
+	description "Dino Rex [sound only]"
+	year 1992
+	manufacturer "Taito Corporation"
+	rom ( name drex_07m.rom size 1048576 crc 28262816 sha1 6df9a31a2edf1dfc23070b41b1da2c0a9e91d1b0 )
+	rom ( name drex_08m.rom size 524288 crc 377b8b7b sha1 4905ac3b9b52c70afe5f451f860fb9acd81a1dbb )
+	rom ( name drex_12.rom size 65536 crc 8292c7c1 sha1 2ff20726f6cc6d98d860d96b8eb3c10f46b87d58 )
+)
+
+game (
+	name dumpmtmt
+	description "Dump Matsumoto [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name epr-0007.bin size 32768 crc e923f80d )
+	rom ( name epr-0008.bin size 32768 crc 4c439750 )
+	rom ( name epr-0009.bin size 32768 crc 285cdf9d )
+	rom ( name epr-0010.bin size 32768 crc 0563c86a )
+	rom ( name epr-0011.bin size 32768 crc a7d6c394 )
+)
+
+game (
+	name endracer
+	description "Enduro Racer [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name er7680 size 32768 crc 627b3c8c sha1 806fe7dce619ad19c09178061be4607d2beba14d )
+	rom ( name er7681 size 32768 crc bc0c4d12 sha1 3de71bde4c23e3c31984f20fc4bc7e221354c56f )
+	rom ( name er7682 size 32768 crc c4efbf48 sha1 2bcbc4757d98f291fcaec467abc36158b3f59be3 )
+)
+
+game (
+	name endrcbl
+	description "Enduro Racer (bootleg set 2) [sound only]"
+	year 1985
+	manufacturer "bootleg"
+	rom ( name enduro.a14 size 32768 crc 627b3c8c sha1 806fe7dce619ad19c09178061be4607d2beba14d )
+	rom ( name enduro.a15 size 32768 crc bc0c4d12 sha1 3de71bde4c23e3c31984f20fc4bc7e221354c56f )
+	rom ( name enduro.a16 size 32768 crc d2cb6eb5 sha1 80c5fab16ec4ddfa67fae94808026b2e6285b7f1 )
+)
+
+game (
+	name endurob1
+	description "Enduro Racer (bootleg set 1) [sound only]"
+	year 1985
+	manufacturer "bootleg"
+	rom ( name 10.f2 size 32768 crc bc0c4d12 sha1 3de71bde4c23e3c31984f20fc4bc7e221354c56f )
+	rom ( name 11.e2 size 32768 crc 627b3c8c sha1 806fe7dce619ad19c09178061be4607d2beba14d )
+	rom ( name 12.16e size 16384 crc 755bfdad sha1 2942f3da5a45a3ac7bba6a73142663fd975f4379 )
+	rom ( name 13.16d size 16384 crc 81c82fc9 sha1 99eae7edc62d719993c46a703f9daaf332e236e9 )
+)
+
+game (
+	name eswatbl
+	description "E-Swat - Cyber Police (bootleg) [sound only]"
+	year 1989
+	manufacturer "bootleg"
+	rom ( name ic8.bin size 32768 crc 7efecf23 sha1 2b87af7cfaab5942a3f7b38c987fcba01d3475ab )
+)
+
+game (
+	name exelizer
+	description "Exerizer [sound only]"
+	year 1987
+	manufacturer "Jaleco"
+	rom ( name exelizer.06 size 32768 crc 0b283bf5 sha1 5b14d0beea689ee7e9174017e5a127435df4fbe3 )
+)
+
+game (
+	name fantzone
+	description "Fantasy Zone (Japan New Ver.) [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name epr7535.fz size 32768 crc bc1374fa sha1 ed2c87ae024dc251e175239f1bccc728fc096548 )
+)
+
+game (
+	name flicky
+	description "Flicky [sound only]"
+	year 1984
+	manufacturer "Sega"
+	rom ( name epr5869 size 8192 crc 6d220d4e sha1 fe02a7a94a1ad046fc775a7f67f460c8d0f6dca6 )
+)
+
+game (
+	name fntzonej
+	description "Fantasy Zone (Old Ver.) [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name 7535.12 size 32768 crc 0cb2126a sha1 42b18a81bed58ef59eaad929007eef89ad273dbb )
+)
+
+game (
+	name forgottn
+	description "Forgotten Worlds (US) [sound only]"
+	year 1988
+	manufacturer "Capcom"
+	rom ( name lw-03u size 131072 crc 807d051f sha1 720e4733787b9b11f4d1cdce0892b69475802844 )
+	rom ( name lw-04u size 131072 crc e6cd098e sha1 667f6e5736f76a1c4c450c4e2035574ea89d7910 )
+	rom ( name lwu00 size 65536 crc 59df2a63 sha1 dfe1fffc7a17179a80a2ae623e93b30a7d6df20d )
+)
+
+game (
+	name fpointbl
+	description "Flash Point [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name epr12592.bin size 32768 crc 9a8c11bb sha1 399f8e9bdd7aaa4d25817fa9cd4bbf413e5baebe )
+)
+
+game (
+	name fullthr
+	description "Full Throttle [sound only]"
+	year 1987
+	manufacturer "Taito Corporation"
+	rom ( name b14-25 size 65536 crc 9eab28ef sha1 9a90f2c1881f4664d6d6241f3bc57faeaf150ffc )
+	rom ( name b14-28 size 65536 crc df11d0ae sha1 259e1e6cc7ab100bfdb60e3d7a6bb46acb6fe2ea )
+)
+
+game (
+	name g-loc
+	description "G-Loc [sound only]"
+	year 1990
+	manufacturer "Sega"
+	rom ( name epr13033 size 65536 crc 6df5e827 sha1 ec260886a27ba00690490500fcf4ebf07fb35205 )
+	rom ( name mpr13034 size 524288 crc cd22d95d sha1 857aa320df0b3fb44fc8a5526ba5ee82cc74fe63 )
+	rom ( name mpr13035 size 524288 crc 009fa13e sha1 c7b224b471696b12332fc7c403c127b19c297df7 )
+	rom ( name mpr13036 size 524288 crc 7890c26c sha1 97e0678bb571de5cf732804f8909e5cbd24980f1 )
+)
+
+game (
+	name gardia
+	description "Gardia [sound only]"
+	year 1986
+	manufacturer "Sega / Coreland"
+	rom ( name epr10243.120 size 32768 crc 726a3fdb sha1 291691637c422db20cd147f4b42a38513d1b185d )
+)
+
+game (
+	name gforce
+	description "Galaxy Force II [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name 11465 size 524288 crc e1436dab sha1 363f4c111de38cb1d82b245e4fcc65308f506e6a )
+	rom ( name 11516 size 131072 crc 19d0e17f sha1 7171131226cf1fe260a2db310fad2ec264adca26 )
+	rom ( name 11516a size 65536 crc 0497785c sha1 f077e71efdc96d6eb3f1a1f989650466554fb13a )
+	rom ( name 11517 size 131072 crc 0b05d376 sha1 8d0c0be2fd9dbc714c82c7cd1c439d5ff65e1317 )
+)
+
+game (
+	name gngcps
+	description "Ghouls'n Ghosts [sound only]"
+	year 1988
+	manufacturer "Capcom"
+	rom ( name dmu.26 size 65536 crc 3692f6e5 sha1 61b8438d60a39b4cf5062dff0a53228e8a4e4b5f )
+)
+
+game (
+	name goldnaxe
+	description "Golden Axe [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name ga12384.bin size 65536 crc 50eb5a56 sha1 d59ba04254000de5577e8a58d0b51c73112a4c80 )
+	rom ( name ga12390.bin size 32768 crc 399fc5f5 sha1 6f290b36dc71ff4759598e2a9c185a8945a3c9e7 )
+)
+
+game (
+	name gprider
+	description "GP Rider [sound only]"
+	year 1990
+	manufacturer "Sega"
+	rom ( name epr13388.bin size 65536 crc 706581e4 sha1 51c9dbf2bf0d6b8826de24cd33596f5c95136870 )
+	rom ( name opr13389.bin size 131072 crc 4e4c758e sha1 181750dfcdd6d5b28b063c980c251991163d9474 )
+	rom ( name opr13390.bin size 131072 crc 8c93cd05 sha1 bb08094abac6c104eddf14f634e9791f03122946 )
+	rom ( name opr13391.bin size 131072 crc 8c30c867 sha1 0d735291b1311890938f8a1143fae6af9feb2a69 )
+)
+
+game (
+	name growl
+	description "Growl [sound only]"
+	year 1990
+	manufacturer "Taito Corporation"
+	rom ( name growl_04.rom size 1048576 crc 2d97edf2 sha1 d3a995303facdad4f8e1fdda04eaaec4440ff371 )
+	rom ( name growl_05.rom size 524288 crc e29c0828 sha1 f541d724f118130bb7a8f9e790582c68779cc6b6 )
+	rom ( name growl_12.rom size 65536 crc bb6ed668 sha1 e8c3a15ccbc788ac57d42bd2cabcdb2db6305489 )
+)
+
+game (
+	name hang-on
+	description "Hang-On [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 6831.rom size 32768 crc cfef5481 sha1 c04b302fee58f0e59a097b2be2b61e5d03df7c91 )
+	rom ( name 6832.rom size 32768 crc 4165aea5 sha1 be05c6d295807af2f396a1ff72d5a3d2a1e6054d )
+	rom ( name 6833.rom size 16384 crc 3b942f5f sha1 4384b5c090954e69de561dde0ef32104aa11399a )
+)
+
+game (
+	name harrier
+	description "Space Harrier [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 7231 size 32768 crc 871c6b14 sha1 6d04ddc32fdf1db409cb519890821bd10fc9e58b )
+	rom ( name 7232 size 32768 crc 4b59340c sha1 a01ba8580b65dd17bfd92560265e502d95d3ff16 )
+	rom ( name 7233 size 16384 crc 504e76d9 sha1 302af9101da01c97ca4be6acd21fb5b8e8f0b7ef )
+	rom ( name 7234 size 16384 crc d6397933 sha1 b85bb47efb6c113b3676b10ab86f1798a89d45b4 )
+)
+
+game (
+	name hotchase
+	description "Hot Chase [sound only]"
+	year 1988
+	manufacturer "Konami"
+	rom ( name 763e08 size 524288 crc 054a9a63 sha1 45d7926c9e7af47c041ba9b733e334bccd730a6d )
+	rom ( name 763e09 size 524288 crc c39857db sha1 64b135a9ccf9e1dd50789cdd5c6bc03da8decfd0 )
+	rom ( name 763e10.rom size 262144 crc ca409210 sha1 703d7619c4bd33d2ff5fad127d98c82906fede33 )
+	rom ( name 763e11.rom size 262144 crc 9d99a5a7 sha1 96e37bbb259e0a91d124c26b6b1a9b70de2e19a4 )
+	rom ( name 763f01 size 32768 crc 4fddd061 sha1 ff0aa18605612f6102107a6be1f93ae4c5edc84f )
+)
+
+game (
+	name hvymetal
+	description "Heavy Metal [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name epr6787.120 size 32768 crc b64ac7f0 sha1 2b16c2702d3230891b700714a66ece95f1a74b44 )
+)
+
+game (
+	name hwchamp
+	description "Heavyweight Champ [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name s-prog.bin size 32768 crc 96a12d9d sha1 f4ba70c3b5d80a1b6a187c940b922d5182d5ab12 )
+)
+
+game (
+	name imsorry
+	description "I'm Sorry [sound only]"
+	year 1985
+	manufacturer "Coreland / Sega"
+	rom ( name epr6656.113 size 8192 crc 25e3d685 sha1 a0267d6533af6ff5bf76b9858f2913821a915baf )
+)
+
+game (
+	name liquidk
+	description "Liquid Kids [sound only]"
+	year 1990
+	manufacturer "Taito Corporation"
+	rom ( name lk_snd.bin size 524288 crc 474d45a4 sha1 20cb818d753a185973098007e645f1aa75c5528d )
+	rom ( name lq08.bin size 65536 crc 413c310c sha1 cecb1c0c9fe3c8b744f95ce29009650a289107ab )
+)
+
+game (
+	name loffire
+	description "Line of Fire [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name epr12798.rom size 65536 crc 0587738d sha1 24c79b0c73616d5532a49a2c9121dfabe3a80c7d )
+	rom ( name epr12799.rom size 131072 crc bc60181c sha1 3c89161348db7cafb5636ab4eaba91fbd3541f90 )
+	rom ( name epr12800.rom size 131072 crc 1158c1a3 sha1 e1d664a203eed5a0130b39ced7bea8328f06f107 )
+	rom ( name epr12801.rom size 131072 crc 2d6567c4 sha1 542be9d8e91cf2df18d95f4e259cfda0560697cb )
+)
+
+game (
+	name metalb
+	description "Metal Black [sound only]"
+	year 1991
+	manufacturer "Taito Corporation"
+	rom ( name d12-02.rom size 1048576 crc 79263e74 sha1 f9ef222239855d593b5855dbf9ea0376ea349c4b )
+	rom ( name d12-05.rom size 524288 crc 7fd036c5 sha1 f412c6302cfba73df110943d7d6679dc908479f7 )
+	rom ( name d12-13.rom size 131072 crc bcca2649 sha1 d932134416c951d849ae41598f75609d453ed520 )
+)
+
+game (
+	name moonwlkb
+	description "Moon Walker [sound only]"
+	year 1990
+	manufacturer "Sega"
+	rom ( name moonwalk.a4 size 131072 crc 56c2e82b sha1 d5755a1bb6e889d274dc60e883d4d65f12fdc877 )
+	rom ( name moonwalk.b4 size 262144 crc 19e2061f sha1 2dcf1718a43dab4da53b4f67722664e70ddd2169 )
+	rom ( name moonwalk.b5 size 262144 crc 58d4d9ce sha1 725e73a656845b02702ef131b4c0aa2a73cdd02e )
+	rom ( name moonwalk.b6 size 262144 crc 623edc5d sha1 c32d9f818d40f311877fbe6532d9e95b6045c3c4 )
+)
+
+game (
+	name mrviking
+	description "Mister Viking [sound only]"
+	year 1984
+	manufacturer "Sega"
+	rom ( name vepr5763 size 8192 crc d712280d sha1 8393dfb57d9af22b3280ecaef736b6f9d856dbee )
+)
+
+game (
+	name myhero
+	description "My Hero [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name epr69xx.120 size 8192 crc 0039e1e9 sha1 ead2e8a8a518da5ac6ccd5cd6db4cf167ea47c76 )
+)
+
+game (
+	name nemesis
+	description "Nemesis [sound only]"
+	year 1985
+	manufacturer "Konami"
+	rom ( name 09c_snd.bin size 16384 crc 26bf9636 sha1 009dcbf18ea6230fc75a72232bd4fc29ad28dbf0 )
+	rom ( name 400-a01.fse size 256 crc 5827b1e8 sha1 fa8cf5f868cfb08bce203baaebb6c4055ee2a000 )
+	rom ( name 400-a02.fse size 256 crc 2f44f970 sha1 7ab46f9d5d587665782cefc623b8de0124a6d38a )
+)
+
+game (
+	name nightstr
+	description "Night Striker [sound only]"
+	year 1989
+	manufacturer "Taito Corporation"
+	rom ( name b91-12.bin size 524288 crc da77c7af sha1 49662a69b83739e2e0209cabff83995a951383f4 )
+	rom ( name b91-13.bin size 524288 crc 8c7bf0f5 sha1 6e18531991225c24a9722c9fbe1af6ae6e9b866b )
+	rom ( name b91-14.bin size 524288 crc 6bc314d3 sha1 ae3e9c6b853bab4ec81a6bd951b39a4bc883f456 )
+	rom ( name b91-41.bin size 131072 crc 2694bb42 sha1 ee770472655ac0ef55eeff04037457dbf6744e4f )
+)
+
+game (
+	name ninjaw
+	description "The Ninja Warriors [sound only]"
+	year 1987
+	manufacturer "Taito Corporation"
+	rom ( name b31-08 size 524288 crc a0a1f87d sha1 6b0f8094f3a3ef1ced76984e333e22a17c51af29 )
+	rom ( name b31-09 size 524288 crc 60a73382 sha1 0ddeb86fcd4d19a58e62bf8564f996d17e36e5c5 )
+	rom ( name b31-10 size 524288 crc c6434aef sha1 3348ce87882e3f668aa85bbb517975ec1fc9b6fd )
+	rom ( name b31-11 size 524288 crc 8da531d4 sha1 525dfab0a0729e9fb6f0e4c8187bf4ce16321b20 )
+	rom ( name b31-37 size 131072 crc 0ca5799d sha1 6485dde076d15b69b9ee65880dda57ad4f8d129c )
+)
+
+game (
+	name nprinces
+	description "Ninja Princess [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 6559.120 size 8192 crc 5a1570ee sha1 fd9215e007b6687d057ea7aee01f6d3dcbc8f894 )
+)
+
+game (
+	name outrun
+	description "Out Run [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name 10187.rom size 32768 crc a10abaa9 sha1 01c8a819587a66d2ee4d255656e36fa0904377b0 )
+	rom ( name 10188.rom size 32768 crc bad30ad9 sha1 f70dd3a6362c314adef313b064102f7a250401c8 )
+	rom ( name 10189.rom size 32768 crc 01366b54 sha1 f467a6b807694d5832a985f5381c170d24aaee4e )
+	rom ( name 10190.rom size 32768 crc 7cab70e2 sha1 a3c581d2b438630d0d4c39481dcfd85681c9f889 )
+	rom ( name 10191.rom size 32768 crc 20a284ab sha1 7c9027416d4122791ba53782fe2230cf02b7d506 )
+	rom ( name 10192.rom size 32768 crc 770f1270 sha1 686bdf44d45c1d6002622f6658f037735382f3e0 )
+	rom ( name 10193.rom size 32768 crc bcd10dde sha1 417ce1d7242884640c5b14f4db8ee57cde7d085d )
+)
+
+game (
+	name passshtb
+	description "Passing Shot [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name passshot.a7 size 32768 crc 789edc06 sha1 8c89c94e503513c287807d187de78a7fbd75a7cf )
+	rom ( name passshot.a8 size 32768 crc 08ab0018 sha1 0685f80a7d403208c9cfffea3f2035324f3924fe )
+	rom ( name passshot.a9 size 32768 crc 8673e01b sha1 e79183ab30e683fdf61ced2e9dbe010567c324cb )
+	rom ( name passshot.a10 size 32768 crc 10263746 sha1 1f981fb185c6a9795208ecdcfba36cf892a99ed5 )
+	rom ( name passshot.a11 size 32768 crc 38b54a71 sha1 68ec4ef5b115844214ff2213be1ce6678904fbd2 )
+)
+
+game (
+	name pitfall
+	description "Pitfall II [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 6462 size 8192 crc 2a17492d )
+)
+
+game (
+	name plusalph
+	description "Plus Alpha [sound only]"
+	year 1989
+	manufacturer "Jaleco"
+	rom ( name pa-rom10.bin size 131072 crc 395df3b2 sha1 6f69b573e997ba4bb5aabf745843921f0866d209 )
+	rom ( name pa-rom5.bin size 65536 crc ddc2739b sha1 dee31660428baea44c73dec238ed7f39a6771fe6 )
+	rom ( name pa-rom6.bin size 65536 crc f6f8a167 sha1 60d5c9db18d8f6704b68ccde5d026174679cec36 )
+	rom ( name pa-rom7.bin size 131072 crc 9f5d800e sha1 c0a7bdedc8a1294b8d29f7f6007542ea006e70cb )
+	rom ( name pa-rom8.bin size 131072 crc ae007750 sha1 b48784fd6bcf205296e3e5b59c258f76da5c2d1b )
+	rom ( name pa-rom9.bin size 131072 crc 065364bd sha1 bacb268b1c76c286e89eb823d8c3477ec5f2516c )
+)
+
+game (
+	name psyforce
+	description "Psychic Force [sound only]"
+	year 1995
+	manufacturer "Taito Corporation"
+	rom ( name e22-01 size 2097152 crc 808b8340 sha1 d8bde850dd9b5b71e94ea707d2d728754f907977 )
+	rom ( name e22-07 size 131072 crc 739af589 sha1 dbb4d1c6d824a99ccf27168e2c21644e19811523 )
+)
+
+game (
+	name pulirula
+	description "PuLiRuLa [sound only]"
+	year 1991
+	manufacturer "Taito Corporation"
+	rom ( name c98-01.rom size 1048576 crc 197f66f5 sha1 cc5d104033f9ab7d614afd47eeb61a22ef5714ea )
+	rom ( name c98-05.rom size 524288 crc 9ddd9c39 sha1 4005a540c5cef6754284361da79a9e5e15612146 )
+	rom ( name c98-14.rom size 131072 crc a858e17c sha1 4389f43035a94e776a25350a8989dcfdb3e4675a )
+)
+
+game (
+	name pwrdrift
+	description "Power Drift [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name 11754 size 524288 crc cad59f39 sha1 7890e22c0b039ab75a38095473b572c887094f53 )
+	rom ( name 11755 size 131072 crc c2db1244 sha1 c98fe17c9f04a639a862cc2a86fab17d1f5d025c )
+	rom ( name 11756 size 131072 crc 12e43f8a sha1 0f9a11ba6b7c1a352daa1146a01ce147945e91e4 )
+	rom ( name 11899 size 65536 crc ed9fa889 sha1 25d1a069254b34c31d8ee82d301ada895e8dc391 )
+)
+
+game (
+	name quartet2
+	description "Quartet [sound only]"
+	year 1986
+	manufacturer "Sega"
+	rom ( name 7751.bin size 1024 crc 6a9534fc sha1 67ad94674db5c2aab75785668f610f6f4eccd158 )
+	rom ( name quartet2.b1 size 32768 crc 9f291306 sha1 96a09542a863ccf2ded43e2df6f913722b3f97b1 )
+	rom ( name quartet2.c1 size 32768 crc 06ec75fa sha1 5f14bc887449122700c46ad22c0379a1682e0bdb )
+	rom ( name quartet2.c2 size 32768 crc 7abd1206 sha1 54d52dc0b9c245cd2df647e714310a71b803cbcf )
+	rom ( name quartet2.c3 size 32768 crc dbf853b8 sha1 e82f497e1144f23f3233b5c45ef182bfc7923715 )
+	rom ( name quartet2.c4 size 32768 crc 5eba655a sha1 6713ef12037cba3139d0f469c82bd90b44bae8ce )
+)
+
+game (
+	name railchas
+	description "Rail Chase [sound only]"
+	year 1991
+	manufacturer "Sega"
+	rom ( name epr13993.bin size 65536 crc 7cc3b543 sha1 c5e6a2dca891d0b6528e6d66ccd18b24ed4a9464 )
+	rom ( name mpr13994.bin size 524288 crc 76095538 sha1 aab830e3675116c475fe69e0e991118c045b131b )
+	rom ( name mpr13995.bin size 524288 crc f604c270 sha1 02023786fec2f2702c2f19f51aff5b7e4928ae91 )
+	rom ( name mpr13996.bin size 524288 crc 345f5a41 sha1 d414c3485ba31863c2b36282756709e06a41d262 )
+)
+
+game (
+	name raimais
+	description "Raimais [sound only]"
+	year 1988
+	manufacturer "Taito Corporation"
+	rom ( name b36-03.bin size 524288 crc 96166516 sha1 a6748218188cbd1b037f6c0845416665c0d55a7b )
+	rom ( name b36-06.bin size 65536 crc 29bbc4f8 sha1 39a68729c6180c5f6cdf604e692018e7d6bf5591 )
+)
+
+game (
+	name rastan2
+	description "Rastan Saga 2 [sound only]"
+	year 1988
+	manufacturer "Taito Corporation"
+	rom ( name b81-01.bin size 524288 crc b33f796b sha1 6cdb32f56283acdf20eb46a1e658e3bd7c97978c )
+	rom ( name b81-02.bin size 524288 crc 20ec3b86 sha1 fcdcc7f0a09feb824d8d73b1af0aae7ec30fd1ed )
+	rom ( name b81-11.bin size 65536 crc 3704bf09 sha1 a0a37b23e3df482c5f5aa43825345ea8affbba34 )
+)
+
+game (
+	name regulus
+	description "Regulus [sound only]"
+	year 1983
+	manufacturer "Sega"
+	rom ( name epr5652.3 size 8192 crc 74edcb98 sha1 bc181c73a6009ca723e715650adb920b77bd311c )
+)
+
+game (
+	name rhero
+	description "Racing Hero [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name bank0.rom size 65536 crc 7e87d0e4 )
+	rom ( name bank1.rom size 65536 crc 70b45b61 )
+	rom ( name bank2.rom size 65536 crc 7796d746 )
+	rom ( name bank3.rom size 65536 crc 4742bea6 )
+	rom ( name bank4.rom size 65536 crc 32939a5b )
+	rom ( name rhero.com size 46425 crc cfa22fa7 )
+)
+
+game (
+	name rmobile
+	description "Rad Mobile [sound only]"
+	year 1990
+	manufacturer "Sega"
+	rom ( name epr13523.bin size 524288 crc d5563697 sha1 eb3fd3dbfea383ac1bb5d2e1552723994cb4693d )
+	rom ( name epr13527.bin size 131072 crc a2e3fbbe sha1 2787bbef696ab3f2b7855ac991867837d3de54cd )
+	rom ( name epr13699.bin size 524288 crc 33fd2913 sha1 60b664559b4989446b1c7d875432e53a36fe27df )
+)
+
+game (
+	name s-hangon
+	description "Super Hang-On [sound only]"
+	year 1992
+	manufacturer "Sega"
+	rom ( name s-hangon.01 size 65536 crc 8b10e601 sha1 75e9bcdd3f096be9bed672d61064b9240690deec )
+	rom ( name s-hangon.02 size 65536 crc da08ca2b sha1 2c94c127efd66f6cf86b25e2653637818a99aed1 )
+	rom ( name s-hangon.03 size 32768 crc 83347dc0 sha1 079bb750edd6372750a207764e8c84bb6abf2f79 )
+)
+
+game (
+	name sdi
+	description "SDI - Strategic Defense Initiative [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name a7.rom size 32768 crc 793f9f7f sha1 9e4fde376db9e99a83eb2fc734c6721c122ba9af )
+)
+
+game (
+	name shdancer
+	description "Shadow Dancer [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name shdancer.a4 size 131072 crc 7a0d8de1 sha1 eca5e2104e5b3e772d083a718171234f06ea8a55 )
+	rom ( name shdancer.b4 size 262144 crc 07051a52 sha1 d48658497f4a34665d3e051f893ff057c38925ae )
+)
+
+game (
+	name shinobi
+	description "Shinobi [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf sha1 ddfac640e442537acb015de8bb088659f5a217ee )
+	rom ( name shinobi.a8 size 32768 crc c8df8460 sha1 0aeb41a493df155edb5f600f53ec43b798927dff )
+	rom ( name shinobi.a9 size 32768 crc e5a4cf30 sha1 d1982da7a550c11ab2253f5d64ac6ab847da0a04 )
+)
+
+game (
+	name slocomo
+	description "Super Locomotive [sound only]"
+	year 1982
+	manufacturer "Sega"
+	rom ( name 5222.ic6 size 8192 crc 0aa57207 sha1 b29b533505cb5b47c90534f2f610baeb7265d030 )
+)
+
+game (
+	name soldam
+	description "Soldam [sound only]"
+	year 1992
+	manufacturer "Jaleco"
+	rom ( name soldam.5 size 65536 crc d1019a67 sha1 32d77914a67c009bf1bb397772f195594f7cc03f )
+	rom ( name soldam.6 size 65536 crc 3ed219b4 sha1 afffa5596027181ae94488d54d6266f8a7ead180 )
+	rom ( name soldam.7 size 262144 crc fcd36019 sha1 f4edb55bd62b697c5a73c461008e764c2f16956b )
+	rom ( name soldam.9 size 262144 crc 8d5613bf sha1 eee217dd2ab64d86b7f5eda55a3c331d862c079e )
+)
+
+game (
+	name spidrman
+	description "Spiderman [sound only]"
+	year 1991
+	manufacturer "Sega"
+	rom ( name mpr14282.bin size 524288 crc 876721f3 )
+	rom ( name mpr14283.bin size 524288 crc c863a91c sha1 afdc76bbb9b207cfcb47d437248a757d03212f4e )
+	rom ( name mpr14284.bin size 524288 crc 760542d4 sha1 dcac73869c02fefd328bd6bdbcbdb3b68b0647da )
+	rom ( name epr14285.bin size 262144 crc 25aefad6 sha1 10153f4e773a0f55378f869eb1d85156e85f893f )
+)
+
+game (
+	name starjack
+	description "Star Jacker [sound only]"
+	year 1983
+	manufacturer "Sega"
+	rom ( name 5332 size 8192 crc 7a72ab3d sha1 4a6ad09949a438562d7043532d628cefdbb5a2fe )
+)
+
+game (
+	name stdragon
+	description "Saint Dragon [sound only]"
+	year 1989
+	manufacturer "Jaleco"
+	rom ( name jsd-05.bin size 65536 crc 8c04feaa sha1 57e86fd88dc72d123a41f0dee80a16be38ac2e81 )
+	rom ( name jsd-06.bin size 65536 crc 0bb62f3a sha1 68d9f161ba2568f8e046b1a40127bbb973d7a884 )
+	rom ( name jsd-07.bin size 131072 crc 6a48e979 sha1 617281d9fe3c3927f94bf2f66d0a08923a92a6ab )
+	rom ( name jsd-08.bin size 131072 crc 40704962 sha1 4efd8c4d406600aa486c8b84b6f9882cca5970a4 )
+	rom ( name jsd-09.bin size 131072 crc e366bc5a sha1 c97bc1f25357366b4ff1343dfc9d0808a2630b28 )
+	rom ( name jsd-10.bin size 131072 crc 4a8f4fe6 sha1 4f13f0149aa29b7cbddcd782f043bb71b3d27ede )
+)
+
+game (
+	name strider
+	description "Strider [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name strider.09 size 65536 crc 2ed403bc sha1 4ce863ea40d789db5a7cfce91d2c7c720deb9be5 )
+	rom ( name strider.18 size 131072 crc 4386bc80 sha1 fb2b261995aeacfa13e7ee40b1a973dfb178f015 )
+	rom ( name strider.19 size 131072 crc 444536d7 sha1 a14f5de2f6b5b29ae5161dca1f8c08c566301a91 )
+)
+
+game (
+	name swat
+	description "SWAT [sound only]"
+	year 1984
+	manufacturer "Coreland / Sega"
+	rom ( name epr5819.3 size 8192 crc f6afd0fd sha1 06062648b9ebc70b4b5c30b043f537adc0052047 )
+)
+
+game (
+	name syvalion
+	description "Syvalion [sound only]"
+	year 1988
+	manufacturer "Taito Corporation"
+	rom ( name b51-17.bin size 524288 crc d85096aa sha1 dac39ed182e9eda06575f1667c4c1ff9a4a56599 )
+	rom ( name b51-18.bin size 524288 crc 8b23ac83 sha1 340b9e7f09c1809a332b41d3fb579f5f8cd6367f )
+	rom ( name b51-23.bin size 65536 crc 734662de sha1 0058d6de68f26cd58b9eb8859e15f3ced6bd3489 )
+)
+
+game (
+	name teddybb
+	description "TeddyBoy Blues [sound only]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name 6748.120 size 8192 crc c2a1b89d sha1 55c5461640ccb26bed332c13adfbb99c27237bcb )
+)
+
+game (
+	name tetrisbl
+	description "Tetris [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name s-prog.rom size 32768 crc bd9ba01b sha1 fafa7dc36cc057a50ae4cdf7a35f3594292336f4 )
+)
+
+game (
+	name thndcept
+	description "Thunder Cepter [sound only]"
+	year 1986
+	manufacturer "Namco"
+	rom ( name tc1-21.bin size 16384 crc 3b942f5f sha1 4384b5c090954e69de561dde0ef32104aa11399a )
+	rom ( name tc1-22.bin size 32768 crc cfef5481 sha1 c04b302fee58f0e59a097b2be2b61e5d03df7c91 )
+)
+
+game (
+	name thundbus
+	description "Thunder Blade [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name ic017.bin size 65536 crc d37b54a4 sha1 c230fe7241a1f13ca13506d1492f348f506c40a7 )
+	rom ( name ic011.bin size 131072 crc d4e7ac1f sha1 ec5d6e4949938adf56e5613801ae56ff2c3dede5 )
+	rom ( name ic012.bin size 131072 crc 70d3f02c sha1 391aac2bc5673e06150de27e19c7c6359da8ca82 )
+	rom ( name ic013.bin size 131072 crc 50d9242e sha1 a106371bf680c3088ec61f07fc5c4ce467973c15 )
+)
+
+game (
+	name thunderb
+	description "Thunder Blade (Japan) [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name epr11312.bin size 65536 crc 3b974ed2 sha1 cf18a2d0f01643c747a884bf00e5b7037ba2e64a )
+	rom ( name epr11317.bin size 131072 crc d4e7ac1f sha1 ec5d6e4949938adf56e5613801ae56ff2c3dede5 )
+	rom ( name epr11318.bin size 131072 crc 70d3f02c sha1 391aac2bc5673e06150de27e19c7c6359da8ca82 )
+	rom ( name epr11319.bin size 131072 crc 4a053070 )
+)
+
+game (
+	name timscanr
+	description "Time Scanner [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name ts10562.bin size 32768 crc 3f5028bf sha1 02081569a5f4dc64771e97651a9902a98d54a952 )
+)
+
+game (
+	name tokisen
+	description "Toki no Senshi - Chrono Soldier [sound only]"
+	year 1987
+	manufacturer "Sega"
+	rom ( name epr10967.126 size 32768 crc 97966bf2 sha1 b5a3d36afbb3d6e2e2e2c121609a30dc080ccf13 )
+)
+
+game (
+	name tuoutrun
+	description "Turbo Outrun [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name tor300 size 65536 crc e8ff7011 sha1 6eaf3aea507007ea31d507ed7825d905f4b8e7ab )
+	rom ( name tor301 size 65536 crc 6e78ad15 sha1 c31ddf434b459cd1a381d2a028beabddd4ed10d2 )
+	rom ( name tor302 size 65536 crc e72928af sha1 40e0b178958cfe97c097fe9d82b5de54bc27a29f )
+	rom ( name tor303 size 65536 crc 8384205c sha1 c1f9d52bc587eab5a97867198e9aa7c19e973429 )
+	rom ( name tor304 size 65536 crc e1762ac3 sha1 855f06c082a17d90857e6efa3cf95b0eda0e634d )
+	rom ( name tor305 size 65536 crc ba9ce677 sha1 056781f92450c902e1d279a02bda28337815cba9 )
+	rom ( name tor306 size 65536 crc e49249fd sha1 ff36e4dba4e9d3d354e3dd528edeb50ad9c18ee4 )
+)
+
+game (
+	name ufoyoko
+	description "Ufo Senshi Yohko Chan [sound only]"
+	year 1988
+	manufacturer "Sega"
+	rom ( name 11667 size 32768 crc 110baba9 sha1 e14cf5af11ac9691eca897bbae7c238665cd2a4d )
+)
+
+game (
+	name upndown
+	description "Up'n Down [sound only]"
+	year 1983
+	manufacturer "Sega"
+	rom ( name upnd5528.bin size 8192 crc 00cd44ab sha1 7f5385aa0773681329a4759b0fa6f975e3de6755 )
+)
+
+game (
+	name vulcan
+	description "Vulcan Venture [sound only]"
+	year 1988
+	manufacturer "Konami"
+	rom ( name vulcan.g03 size 32768 crc 67a3b50d sha1 3c83f3b0df73d9361ec3cda26a6c4c603a088419 )
+	rom ( name vulcan.f01 size 131072 crc a0d8d69e sha1 2994e5740b7c099d55fb162a363a26ef1995c756 )
+	rom ( name vulcan.f02 size 131072 crc c39f5ca4 sha1 92ebea11b7d3a72d0f58c456f16a6ff36d6b3062 )
+)
+
+game (
+	name warriorb
+	description "Warrior Blade [sound only]"
+	year 1991
+	manufacturer "Taito Corporation"
+	rom ( name d24-09.bin size 1048576 crc ece5cc59 sha1 337db41d5a74fa4202b1be1a672a068ec3b205a8 )
+	rom ( name d24-10.bin size 1048576 crc 0e0c716d sha1 5e2f334dd484678766c5a71196d9bad0ba0fe8d9 )
+	rom ( name d24-11.bin size 1048576 crc 15362573 sha1 8602c9f24134cac6fe1375fb189b152f0c68aeb7 )
+	rom ( name d24-12.bin size 1048576 crc 279203a1 sha1 ed75e811a1f0863c134034457ce2e97372726bdb )
+	rom ( name d24-17.bin size 131072 crc e41e4aae sha1 9bf40b6e8aa5c6ec62c5d21edbb2214f6550c94f )
+)
+
+game (
+	name wb3bl
+	description "Wonder Boy III - Monster Lair [sound only]"
+	year 1988
+	manufacturer "Sega / Westone"
+	rom ( name a07.bin size 32768 crc 0bb901bb sha1 c81b198df8e3b0ec568032c76addf0d1a1711194 )
+)
+
+game (
+	name wbdeluxe
+	description "Wonder Boy Deluxe [sound only]"
+	year 1986
+	manufacturer "Sega (Escape license)"
+	rom ( name epra7498.120 size 8192 crc c198205c sha1 d2d5cd154ce6a5a3c6a099b4ab2ea7cc045ab0a1 )
+)
+
+game (
+	name wbmland
+	description "Wonder Boy in Monster Land [sound only]"
+	year 1987
+	manufacturer "Sega / Westone"
+	rom ( name 11037 size 32768 crc 7a4ee585 sha1 050436106cced5dcbf40a3d94d48202eedddc3ad )
+)
+
+game (
+	name wboy
+	description "Wonder Boy [sound only]"
+	year 1986
+	manufacturer "Sega (Escape license)"
+	rom ( name ic120_98.bin size 8192 crc 78ae1e7b sha1 86032f443359b0bb2766e33024ed2e320aa9bc84 )
+)
+
+game (
+	name wecleman
+	description "WEC Le Mans 24 [sound only]"
+	year 1986
+	manufacturer "Konami"
+	rom ( name 602a01.6d size 32768 crc deafe5f1 sha1 4cfbe2841233b1222c22160af7287b7a7821c3a0 )
+	rom ( name 602a02.8a size 131072 crc e2be10ae sha1 109c31bf7252c83a062d259143cd8299681db778 )
+	rom ( name 602a03.10a size 131072 crc 31392b01 sha1 0424747bc2015c9c93afd20e6a23083c0dcc4fb7 )
+)
+
+game (
+	name wrestwar
+	description "Wrestle War [sound only]"
+	year 1989
+	manufacturer "Sega"
+	rom ( name ww.a10 size 32768 crc c3609607 sha1 2e0acb775c60851bf0b2037b91b07ead061d5862 )
+)
+

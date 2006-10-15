@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="galemu" type="multi" dat="GalEmu_v40.9">
+	<name>GalEmu</name>
+	<version>40.9</version>
+	<date>13/02/2000</date>
+
+	<homepage>http://galemu.emuunlim.com/</homepage>
+	<author_link id="barry_rodewald">&author_barry_rodewald;</author_link>
+
+	<emulates>Runs games that use the Galaxian/Pisces/Moon Cresta Hardware</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="gal0409.zip">Emulator for DOS</file>
+		<file name="galaxian.zip">Samples (shot.sam and backgrnd.sam)</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="galemu_windows" type="multi2">&emulator_galemu_windows;</emulator_link>
+			<emulator_link id="galemu_linux" type="linux">&emulator_galemu_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

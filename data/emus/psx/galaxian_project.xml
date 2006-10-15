@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="galaxian_project" type="psx" dat="The_Galaxian_Project_v1.04">
+	<name>The Galaxian Project</name>
+	<version>1.04</version>
+	<date>11/10/2000</date>
+
+	<homepage>http://doubledutchdesigns.co.uk/</homepage>
+	<author_link id="double_dutch_designs">&author_double_dutch_designs;</author_link>
+
+	<emulates>Galaxian (Namco) and other games on similar hardware</emulates>
+	<comment>Runs full screen and full speed.</comment>
+	<status>Dormant</status>
+
+	<platform>Playstation</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="galaxian.zip">Emulator</file>
+	</files>
+</emulator>

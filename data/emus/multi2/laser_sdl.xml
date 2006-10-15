@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="laser_sdl" type="multi2" dat="dummy">
+	<name>Laser SDL</name>
+	<version>1.0 revision 1</version>
+	<date>23/03/2004</date>
+
+	<homepage>http://laser.sourceforge.net/</homepage>
+	<author_link id="lopantu">&author_lopantu;</author_link>
+
+	<emulates>Midway 8080 based games like space invaders</emulates>
+	<comment>SDL port of Laser</comment>
+	<status>Dormant</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="laser-1.0.r1.src.tar.gz">Source</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

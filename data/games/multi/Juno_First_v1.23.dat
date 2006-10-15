@@ -1,0 +1,453 @@
+clrmamepro (
+	name "Juno First"
+	description "Juno First v1.23"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name circusch
+	description "Circus Charlie (no level select)"
+	year 1984
+	manufacturer "Konami"
+	rom ( name h03_r05.bin size 8192 crc ed52c60f sha1 aa9dc6a57e29895be521ac6a146de56a7beef957 )
+	rom ( name h04_n04.bin size 8192 crc fcc99e33 sha1 da140a849ac22419e8890414b8984aa264f7e3c7 )
+	rom ( name h05_n03.bin size 8192 crc 5ef5b3b5 sha1 b058600c915a0d6653eaa5fc87ecee44a38eed00 )
+	rom ( name h06_n02.bin size 8192 crc a5a5e796 sha1 a41700b272ff4198447ed75138d65ec3a759d221 )
+	rom ( name h07_n01.bin size 8192 crc 70d26721 sha1 eb71cb0da26991a3628150f45f1389c2f2ef90fc )
+	rom ( name cd05_l14.bin size 8192 crc 607df0fb sha1 67103d61994fd3a1e2de7cf9487e4f763234b18e )
+	rom ( name cd07_l15.bin size 8192 crc a6ad30e1 sha1 14f305717edcc2471e763b262960a0b96eef3530 )
+	rom ( name a04_j12.bin size 8192 crc 56e5b408 sha1 73b9e3d46dfe9e39b390c634df153648a0906876 )
+	rom ( name a05_k13.bin size 8192 crc 5aca0193 sha1 4d0b0a773c385b7f1dcf024760d0437f47e78fbe )
+	rom ( name e11_j06.bin size 8192 crc df0405c6 sha1 70a50dcc86dfbdaa9c2af613105aae7f90747804 )
+	rom ( name e12_j07.bin size 8192 crc 23dfe3a6 sha1 2ad7cbcbdbb434dc43e9c94cd00df9e57ac097f5 )
+	rom ( name e13_j08.bin size 8192 crc 3ba95390 sha1 b22ad7cfda392894208eb4b39505f38bfe4c4342 )
+	rom ( name e14_j09.bin size 8192 crc a9fba85a sha1 1a649ec667d377ffab26b4694be790b3a2742f30 )
+	rom ( name e15_j10.bin size 8192 crc 0532347e sha1 4c02b75a62993cce60d2cb87b81c7738abbc9a0d )
+	rom ( name e16_j11.bin size 8192 crc e1725d24 sha1 d315588e6cc2f4263be621d2d8603c8215a90046 )
+)
+
+game (
+	name circusc2
+	description "Circus Charlie"
+	year 1984
+	manufacturer "Konami"
+	rom ( name s05 size 8192 crc 48feafcf sha1 0e5bd350fa5fee42569eb0c4accf7512d645b792 )
+	rom ( name q04 size 8192 crc c283b887 sha1 458c398911453d558003f49c298b0d593c941c11 )
+	rom ( name q03 size 8192 crc e90c0e86 sha1 03211f0cc90b6e356989c5e2a41b70f4ff2ead83 )
+	rom ( name q02 size 8192 crc 4d847dc6 sha1 a1f65e73c4e5abff1b0970bad32a128173245561 )
+	rom ( name q01 size 8192 crc 18c20adf sha1 2f40e1a109d129bb127a8b98e27817988cd08c8b )
+	rom ( name l14 size 8192 crc 607df0fb sha1 67103d61994fd3a1e2de7cf9487e4f763234b18e )
+	rom ( name l15 size 8192 crc a6ad30e1 sha1 14f305717edcc2471e763b262960a0b96eef3530 )
+	rom ( name j12 size 8192 crc 56e5b408 sha1 73b9e3d46dfe9e39b390c634df153648a0906876 )
+	rom ( name k13 size 8192 crc 5aca0193 sha1 4d0b0a773c385b7f1dcf024760d0437f47e78fbe )
+	rom ( name j06 size 8192 crc df0405c6 sha1 70a50dcc86dfbdaa9c2af613105aae7f90747804 )
+	rom ( name j07 size 8192 crc 23dfe3a6 sha1 2ad7cbcbdbb434dc43e9c94cd00df9e57ac097f5 )
+	rom ( name j08 size 8192 crc 3ba95390 sha1 b22ad7cfda392894208eb4b39505f38bfe4c4342 )
+	rom ( name j09 size 8192 crc a9fba85a sha1 1a649ec667d377ffab26b4694be790b3a2742f30 )
+	rom ( name j10 size 8192 crc 0532347e sha1 4c02b75a62993cce60d2cb87b81c7738abbc9a0d )
+	rom ( name j11 size 8192 crc e1725d24 sha1 d315588e6cc2f4263be621d2d8603c8215a90046 )
+)
+
+game (
+	name crystalc
+	description "Crystal Castles (set 1)"
+	year 1983
+	manufacturer "Atari"
+	rom ( name 136022.303 size 8192 crc 10e39fce sha1 5247f52e14ccf39f0ec699a39c8ebe35e61e07d2 )
+	rom ( name 136022.304 size 8192 crc 74510f72 sha1 d22550f308ff395d51869b52449bc0669a4e35e4 )
+	rom ( name 136022.305 size 8192 crc 9418cf8a sha1 1f835db94270e4a16e721b2ac355fb7e7c052285 )
+	rom ( name 136022.102 size 8192 crc f6ccfbd4 sha1 69c3da2cbefc5e03a77357e817e3015da5d8334a )
+	rom ( name 136022.101 size 8192 crc e2e17236 sha1 81fa95b4d9beacb06d6b4afdf346d94117396557 )
+	rom ( name 136022.107 size 8192 crc 39960b7d sha1 82bdf764ac23e72598883283c5e957169387abd4 )
+	rom ( name 136022.106 size 8192 crc 9d1d89fc sha1 01c279edee322cc28f34506c312e4a9e3363b1be )
+)
+
+game (
+	name hyperspt
+	description "Hyper Sports"
+	year 1984
+	manufacturer "Konami (Centuri license)"
+	rom ( name c01 size 8192 crc 0c720eeb sha1 cc0719db7e59c72e603ab2ca42565303bc41d281 )
+	rom ( name c02 size 8192 crc 560258e0 sha1 788d0d3cbbd97fb54eceb3281ccf84a31e5e3e98 )
+	rom ( name c03 size 8192 crc 9b01c7e6 sha1 0106f94b38ad62e7514e56aab35581968074bbe0 )
+	rom ( name c04 size 8192 crc 10d7e9a2 sha1 ebf1dd7ba10179c41b42358c45e49424ce8495cd )
+	rom ( name c05 size 8192 crc b105a8cd sha1 7d77ab4d75c0bff7ac7372a5ff5fe55839b57d19 )
+	rom ( name c06 size 8192 crc 1a34a849 sha1 daa42a959ea162ca7f098010c85a7453a8805df8 )
+	rom ( name c10 size 8192 crc 3dc1a6ff sha1 1e67cac46b6c8a9a0bb1560e135983435520f1fc )
+	rom ( name c09 size 8192 crc 9b525c3e sha1 d8775ec3b4f12117431a2b7c7eaa038c1255241b )
+	rom ( name c26 size 8192 crc a6897eac sha1 a1dd950c29885f7bb4784fed46810ae47bff87dd )
+	rom ( name c24 size 8192 crc 5fb230c0 sha1 8caebf3788c1fb71c1ba72b0045503d45936d4ce )
+	rom ( name c22 size 8192 crc ed9271a0 sha1 a458ad79922383f45f6522775e19cf693e226883 )
+	rom ( name c20 size 8192 crc 183f4324 sha1 f6bcd03c25dea300876ace950f118a971557168f )
+	rom ( name c14 size 8192 crc c72d63be sha1 0677b4f7196551ebc1bbbecd0e15d79f8e32857d )
+	rom ( name c13 size 8192 crc 76565608 sha1 418fb9a81c0583d0214afb27fea28794563b8460 )
+	rom ( name c12 size 8192 crc 74d2cc69 sha1 684b65455217f243b3690822d445efdcb18211bb )
+	rom ( name c11 size 8192 crc 66cbcb4d sha1 c4ea51a6f30d2cd0cd6e22fdadb83d889f2cc471 )
+	rom ( name c18 size 8192 crc ed25e669 sha1 2e306db101cd4443b0a81cecf817e5ebbdaf1bba )
+	rom ( name c17 size 8192 crc b145b39f sha1 e696e1f9b44aa44360ea9962c4ee9b61db8e53f5 )
+	rom ( name c16 size 8192 crc d7ff9f2b sha1 b0e6a056db96027ba0c10d3ee3bfdef145a236e2 )
+	rom ( name c15 size 8192 crc f3d454e6 sha1 9d04dcd1b0354e01773923295bba2602e00467f9 )
+	rom ( name c08 size 8192 crc e8f8ea78 sha1 8d37818e5a2740c96696f37996f2a3f870386690 )
+)
+
+game (
+	name juno
+	description "Juno First"
+	year 1983
+	manufacturer "Konami"
+	rom ( name jfa_b9.bin size 8192 crc f5a7ab9d sha1 9603e797839290f8e1f93ccff9cc820604cc49ab )
+	rom ( name jfb_b10.bin size 8192 crc f20626e0 sha1 46f58bdc1a613124e2c148b61f774fcc6c232868 )
+	rom ( name jfc_a10.bin size 8192 crc 1e7744a7 sha1 bee69833af886436016560295cddf0c8b4c5e771 )
+	rom ( name jfc1_a4.bin size 8192 crc 03ccbf1d sha1 02b45fe3c51bdc940919aac68136a121ed9bee18 )
+	rom ( name jfc2_a5.bin size 8192 crc cb372372 sha1 a48e7de08647cbece7787c287217eac7e7a7510b )
+	rom ( name jfc3_a6.bin size 8192 crc 879d194b sha1 3c7af8767c9ce908fa1761180c6e585823216d8a )
+	rom ( name jfc4_a7.bin size 8192 crc f28af80b sha1 4d0e247e729365476dd3996c7d1f2a19fc83d773 )
+	rom ( name jfc5_a8.bin size 8192 crc 0539f328 sha1 c532aaed7f9e6f564e3df0dc6d8fdbee6ed721a2 )
+	rom ( name jfc6_a9.bin size 8192 crc 1da2ad6e sha1 de997d1b2ff6671088b57192bc9f1279359fad5d )
+	rom ( name jfs1_j3.bin size 4096 crc 235a2893 sha1 b90251c4971f7ba12e407f86c32723d513d6b4a0 )
+	rom ( name jfs2_p4.bin size 4096 crc d0fa5d5f sha1 9d0730d1d037bf96b0c933a32355602bf2d735dd )
+	rom ( name jfs3_c7.bin size 8192 crc aeacf6db sha1 f99ef9f9153d7a83e1881d9181faac99cb8c8a57 )
+	rom ( name jfs4_d7.bin size 8192 crc 206d954c sha1 65494766676f18d8b5ae9a54cee00790e7b1e67e )
+	rom ( name jfs5_e7.bin size 8192 crc 1eb87a6e sha1 f5471b9f6f1fa6d6e5d76300d89f71da3129516a )
+	sample juno_01.wav
+	sample juno_02.wav
+	sample juno_03.wav
+	sample juno_04.wav
+	sample juno_05.wav
+	sample juno_06.wav
+	sample juno_07.wav
+	sample juno_08.wav
+	sample juno_09.wav
+	sample juno_10.wav
+	sample juno_11.wav
+	sample juno_12.wav
+	sample juno_13.wav
+	sample juno_14.wav
+	sample juno_15.wav
+	sample juno_16.wav
+	sample juno_17.wav
+	sample juno_20.wav
+	sample juno_22.wav
+	sample juno_24l.wav
+	sample juno_25l.wav
+	sample juno_26l.wav
+	sample juno_38.wav
+	sample juno_44.wav
+	sample juno_45.wav
+	sample juno_47.wav
+	sample juno_49.wav
+	sample juno_50.wav
+	sample juno_51.wav
+	sample juno_52.wav
+	sample juno_54.wav
+)
+
+game (
+	name loht
+	description "Legend of Hero Tonma"
+	year 1989
+	manufacturer "Irem"
+	rom ( name tom_c-h0.rom size 131072 crc a63204b6 sha1 d217bc70650a1a1bbe0cf536ec3bb678f670718d )
+	rom ( name tom_c-l0.rom size 131072 crc e788002f sha1 35f509976b342fd47e645453381faa3d86645876 )
+	rom ( name tom_c-h3.rom size 131072 crc 714778b5 sha1 e2eaa35d6b5fa5df5163fe0d7b45fa66667f9947 )
+	rom ( name tom_c-l3.rom size 131072 crc 2f049b03 sha1 21047cb10912b1fc23795673af3ea7de249328b7 )
+	rom ( name tom_m53.rom size 131072 crc 0b83265f sha1 b31918d6442b79c9fe4f20410189788b050a994e )
+	rom ( name tom_m51.rom size 131072 crc 8ec5f6f3 sha1 210f2753f5eeb06396758d21ab1778d459add247 )
+	rom ( name tom_m49.rom size 131072 crc a41d3bfd sha1 536fb7c0321dbbc1a8b73e9647fba9c53a253fcc )
+	rom ( name tom_m47.rom size 131072 crc 9d81a25b sha1 a354537c2fbba85f06485aa8487d7583a7133357 )
+	rom ( name tom_m21.rom size 65536 crc 3ca3e771 sha1 be052e01c5429ee89057c9d408794f2c7744047c )
+	rom ( name tom_m22.rom size 65536 crc 7a05ee2f sha1 7d1ca5db9a5a85610129e3bc6c640ade036fe7f9 )
+	rom ( name tom_m20.rom size 65536 crc 79aa2335 sha1 6b70c79d800a7b755aa7c9a368c4ea74029aaa1e )
+	rom ( name tom_m23.rom size 65536 crc 789e8b24 sha1 e957cd25c3c155ca295ab1aea03d610f91562cfb )
+	rom ( name tom_m26.rom size 65536 crc 44626bf6 sha1 571ef74d42d30a272ff0fb33f830652b4a4bad29 )
+	rom ( name tom_m27.rom size 65536 crc 464952cf sha1 6b99360b6ba1ed5a72c257f51291f9f7a1ddf363 )
+	rom ( name tom_m25.rom size 65536 crc 3db9b2c7 sha1 02a318ffc459c494b7f40827eff5f89b41ac0426 )
+	rom ( name tom_m24.rom size 65536 crc f01fe899 sha1 c5ab967b7af55a757638bcdc9975f4b15064022d )
+	rom ( name tom_m44.rom size 65536 crc 3ed51d1f sha1 84f3aa17d640df91387e5f1f5b5971cf8dcd4e17 )
+	sample lohta_02.wav
+	sample lohta_04.wav
+	sample lohta_10.wav
+	sample lohta_13.wav
+	sample lohta_14.wav
+	sample lohta_41.wav
+	sample lohta_43.wav
+	sample lohta_44.wav
+	sample lohta_46.wav
+	sample lohta_47.wav
+	sample lohtb_01.wav
+	sample lohtb_02.wav
+	sample lohtb_03.wav
+	sample lohtb_04.wav
+	sample lohtb_07.wav
+	sample lohtb_08.wav
+	sample lohtb_09.wav
+	sample lohtb_10.wav
+	sample lohtb_12.wav
+	sample lohtb_13.wav
+	sample lohtb_18.wav
+	sample lohtb_19.wav
+	sample lohtb_20.wav
+	sample lohtb_22.wav
+	sample lohtb_23.wav
+	sample lohtb_24.wav
+	sample lohtb_25.wav
+	sample lohtb_27.wav
+	sample lohtb_28.wav
+	sample lohtb_29.wav
+	sample lohtb_31.wav
+	sample lohtb_32.wav
+	sample lohtb_34.wav
+	sample lohtb_35.wav
+	sample lohtb_37.wav
+	sample lohtb_38.wav
+	sample lohtb_39.wav
+	sample lohtb_40.wav
+	sample lohtb_41.wav
+	sample lohtb_42.wav
+	sample lohtb_44.wav
+	sample lohtb_46.wav
+	sample lohtb_47.wav
+	sample lohtc_01.wav
+	sample lohtc_02.wav
+	sample lohtc_03.wav
+	sample lohtc_04.wav
+	sample lohtc_05.wav
+	sample lohtc_06.wav
+	sample lohtc_08.wav
+	sample lohtc_11.wav
+	sample lohtc_12.wav
+	sample lohtc_13.wav
+	sample lohtc_14.wav
+	sample lohtc_15.wav
+	sample lohtc_16.wav
+	sample lohtc_17.wav
+	sample lohtc_18.wav
+	sample lohtc_19.wav
+	sample lohtc_20.wav
+	sample lohtc_21.wav
+	sample lohtc_22.wav
+	sample lohtc_23.wav
+	sample lohtc_24.wav
+	sample lohtc_25.wav
+	sample lohtc_26.wav
+	sample lohtc_27.wav
+	sample lohtc_28.wav
+	sample lohtc_29.wav
+	sample lohtc_31.wav
+	sample lohtc_32.wav
+	sample lohtc_33.wav
+)
+
+game (
+	name rocnrope
+	description "Roc'n Rope (Kosuka)"
+	year 1983
+	manufacturer "Konami + Kosuka"
+	rom ( name rnr_h1.vid size 8192 crc 0fddc1f6 sha1 a9c6c033799883dc45eaa448387d4f0728b9e47e )
+	rom ( name rnr_h2.vid size 8192 crc ce9db49a sha1 7a6ffb65cb65aa90e953706ee67c6ae91322ebf6 )
+	rom ( name rnr_h3.vid size 8192 crc 6d278459 sha1 a1417f158f288b0b0cbffc58f9e22b6c7cdf0fc7 )
+	rom ( name rnr_h4.vid size 8192 crc 9b2e5f2a sha1 e91d7a9141dbe0fc5eacc2c5a672935993a3316f )
+	rom ( name rnr_h5.vid size 8192 crc 150a6264 sha1 930ccf8dcf4971d0a15f406d9114be5ecfaa1727 )
+	rom ( name rnr_7a.snd size 4096 crc 75d2c4e2 sha1 b701019b4e7b06b268be660ce7958b5367318c27 )
+	rom ( name rnr_8a.snd size 4096 crc ca4325ae sha1 34ac035c0c2ed6bcafde1491d976bb9e9d2a2a7d )
+	rom ( name rnr_h12.vid size 8192 crc e2114539 sha1 0ea19ae4d7c2da14f23c81abb8e2c931785b2715 )
+	rom ( name rnr_h11.vid size 8192 crc 169a8f3f sha1 182c7c9b9849ebb57b3ff7c0b629f2f8e2efa9ba )
+	rom ( name rnr_a11.vid size 8192 crc afdaba5e sha1 27c090cb1c3767c997daeedbe1ba24786f9e78f1 )
+	rom ( name rnr_a12.vid size 8192 crc 054cafeb sha1 4c3cd850b347217af3dd5c9bb84bcff7b30689bd )
+	rom ( name rnr_a9.vid size 8192 crc 9d2166b2 sha1 42d2b05360e58b1b2b3ad06c98eb46d9da2b1c21 )
+	rom ( name rnr_a10.vid size 8192 crc aff6e22f sha1 476d67821519feddc9f9c8537b46e6eede790035 )
+)
+
+game (
+	name rtype
+	description "R-Type (US)"
+	year 1987
+	manufacturer "Irem (Nintendo of America license)"
+	rom ( name aud-h0.bin size 65536 crc 36008a4e sha1 832006cb14a34e1671e305cc8ae606c3c6185a6a )
+	rom ( name aud-l0.bin size 65536 crc 4aaa668e sha1 87059460b59f43f2ca8cd959d76f721facd9de96 )
+	rom ( name aud-h1.bin size 65536 crc 7ebb2a53 sha1 1466df19888c3374847eb77f702060647e49d6ad )
+	rom ( name aud-l1.bin size 65536 crc c28b103b sha1 f294a23c3917b97812eb4c7f3a99253fd0cbb7ea )
+	rom ( name cpu-00.bin size 65536 crc dad53bc0 sha1 1e3bc498861946278a0b1fe24259f5d224e265d7 )
+	rom ( name cpu-01.bin size 65536 crc b28d1a60 sha1 26d0b5a381f5b462a223cb474067c7b5e67706df )
+	rom ( name cpu-10.bin size 65536 crc d6a66298 sha1 d2873d05aa3b257e7699c188880ac3daad672fa5 )
+	rom ( name cpu-11.bin size 65536 crc bb182f1a sha1 93b24bb0d6abd5c42c84a041c79b1dcea568e443 )
+	rom ( name cpu-20.bin size 65536 crc fc247c8a sha1 01cf0a60f47fa5e2ed430a3f075e69e6cb762a48 )
+	rom ( name cpu-21.bin size 65536 crc 5b41f5f3 sha1 8f47a77fb6513b8f611671d34721e33d284dc035 )
+	rom ( name cpu-30.bin size 65536 crc eb02a1cb sha1 60a394ab53afdcbbf9e88083b8dbe8c897170d77 )
+	rom ( name cpu-31.bin size 65536 crc 2bec510a sha1 3455e72095832135ac006944a1209e720ec5c8bf )
+	rom ( name cpu-a0.bin size 32768 crc 4e212fb0 sha1 687061ecade2ebd0bd1343c9c4a831791853f79c )
+	rom ( name cpu-a1.bin size 32768 crc 8a65bdff sha1 130bf6af521f13247a739a95eab4bdaa24b2ac10 )
+	rom ( name cpu-a2.bin size 32768 crc 5a4ae5b9 sha1 95c3b64f50e6f673b2bf9b40642c152da5009d25 )
+	rom ( name cpu-a3.bin size 32768 crc 73327606 sha1 9529ecdedd30e2a0400fb1083117992cc18b5158 )
+	rom ( name cpu-b0.bin size 32768 crc a7b17491 sha1 5b390770e56ba2d35e108534d7eda8dca996fdf7 )
+	rom ( name cpu-b1.bin size 32768 crc b9709686 sha1 700905a3e9661e0874939f54da2909e1396ce596 )
+	rom ( name cpu-b2.bin size 32768 crc 433b229a sha1 14222eaa3e67e5a7f80eafcf22bac4eb2d485a9a )
+	rom ( name cpu-b3.bin size 32768 crc ad89b072 sha1 e2683d0e7415f3abd147e518bf6c87e44744cd4f )
+)
+
+game (
+	name trackfld
+	description "Track & Field"
+	year 1983
+	manufacturer "Konami"
+	rom ( name a01_e01.bin size 8192 crc 2882f6d4 sha1 f7ddae2c5412a2849efd7f9629e92a5b0328e7cb )
+	rom ( name a02_e02.bin size 8192 crc 1743b5ee sha1 31301031a525f893c31461f634350f01a9492ef4 )
+	rom ( name a03_k03.bin size 8192 crc 6c0d1ee9 sha1 380ab2162153a61910a6fe5b6d091ca9451ad4fd )
+	rom ( name a04_e04.bin size 8192 crc 21d6c448 sha1 6c42cc76302485954a31520bdd08469fa948c72f )
+	rom ( name a05_e05.bin size 8192 crc f08c7b7e sha1 50e65d9b0ea37d2afb2dfdf1f3e1378e3290bc81 )
+	rom ( name c2_d13.bin size 8192 crc 95bf79b6 sha1 ea9135acd7ad162c19c5cdde356e69792d61b675 )
+	rom ( name h16_e12.bin size 8192 crc 50075768 sha1 dfff92c0f59dd3d8d3d6256944bfd48792cef6a9 )
+	rom ( name h15_e11.bin size 8192 crc dda9e29f sha1 0f41cde82bb60c3f1591ee14dc3cff4642bbddc1 )
+	rom ( name h14_e10.bin size 8192 crc c2166a5c sha1 5ba25900e653ce4edcf35f1fbce758a327a715ce )
+	rom ( name c11_d06.bin size 8192 crc 82e2185a sha1 1da9ea20e7af0b49c62fb39834a7ec686491af04 )
+	rom ( name c12_d07.bin size 8192 crc 800ff1f1 sha1 33d73b18903e3e6bfb30f1a06db4b8105d4040d8 )
+	rom ( name c13_d08.bin size 8192 crc d9faf183 sha1 4448b6242790783d37acf50704d597af5878c2ab )
+	rom ( name c14_d09.bin size 8192 crc 5886c802 sha1 884a12a8f63600da4f23b29be6dbaacef37add20 )
+	rom ( name c9_d15.bin size 8192 crc f546a56b sha1 caee3d8546eb7a75ce2a578c6a1a630246aec6b8 )
+)
+
+game (
+	name tutankhm
+	description "Tutankham (Stern)"
+	year 1982
+	manufacturer "[Konami] (Stern license)"
+	rom ( name ra1_1h.cpu size 4096 crc da18679f sha1 8d2a3665db937d0e1d19300ae22277d9db61fcbc )
+	rom ( name ra1_1i.cpu size 4096 crc 7eb59b21 sha1 664d3e08df0f3d6690838810b6fe273eec3b7821 )
+	rom ( name ra1_2h.cpu size 4096 crc a0f02c85 sha1 29a78b3ffd6b597772953543b02dd59acf5af38c )
+	rom ( name ra1_2i.cpu size 4096 crc 6615eff3 sha1 e8455eab03f66642880595cfa0e9be285bf9fad0 )
+	rom ( name ra1_3h.cpu size 4096 crc 2d62d7b1 sha1 910718f36735f2614cda0c3a1abdfa995d82dbd2 )
+	rom ( name ra1_3i.cpu size 4096 crc a10d4444 sha1 683899e1014ee075b16d9d2610c3c5b5c4efedb6 )
+	rom ( name ra1_4h.cpu size 4096 crc bd06fad0 sha1 bd10bbb413d8dd362072522e902575d819fa8336 )
+	rom ( name ra1_4i.cpu size 4096 crc 58cd143c sha1 e4ab27c09858cede478f4ed3ac6d7392e383a470 )
+	rom ( name ra1_5h.cpu size 4096 crc bf9fd9b0 sha1 458ea2ff5eedaaa02e32444dd6004d2eaadbdeab )
+	rom ( name ra1_5i.cpu size 4096 crc d7e7ae95 sha1 7068797770a6c42dc733b253bf6b7376eb6e071e )
+	rom ( name ra1_6h.cpu size 4096 crc c43b3865 sha1 3112cf831c5b6318337e591ccb0003aeab722652 )
+	rom ( name ra1_6i.cpu size 4096 crc 91f62b82 sha1 2a78039ee63226978544142727d00d1ccc6d2ab4 )
+	rom ( name ra1_7a.snd size 4096 crc b52d01fa sha1 9b6cf9ea51d3a87c174f34d42a4b1b5f38b48723 )
+	rom ( name ra1_7i.cpu size 4096 crc afd0a81f sha1 cf10308a0fa4ffabd0deeb186b5602468028ff92 )
+	rom ( name ra1_8a.snd size 4096 crc 9db5c0ce sha1 b5bc1d89a7f7d7a0baae64390c37ee11f69a0e76 )
+	rom ( name ra1_8i.cpu size 4096 crc dabb609b sha1 773b99b670db41a9de58d14b51f81ce0c446ca84 )
+	rom ( name ra1_9i.cpu size 4096 crc 8ea9c6a6 sha1 fe1b299f8760fc5418179d3569932ee2c4dff461 )
+	sample tut_crd2.wav
+	sample tut_key2.wav
+	sample tut_maz2.wav
+	sample tut_mon2.wav
+	sample tut_sht2.wav
+)
+
+game (
+	name rtype2
+	description "R-Type II"
+	year 1989
+	manufacturer "Irem"
+	rom ( name rt2_g00l.bin size 65536 crc b79a958e sha1 e3931ebfbce2326bfd2c1d3eb234f3e64c2db055 )
+	rom ( name rt2_g00u.bin size 65536 crc 955beb3d sha1 c5415e2d9b372d2b5872d3bccff324143c8bd2de )
+	rom ( name rt2_g01l.bin size 65536 crc 9afc5896 sha1 e29ce121ea95e73faecf9a234eb8be371d873186 )
+	rom ( name rt2_g01u.bin size 65536 crc d7978eeb sha1 1adc95bebe9eea8c112d40cd04ab7a8d75c4f961 )
+	rom ( name rt2_g10l.bin size 65536 crc 8453dca5 sha1 aa074132ff2747f3592045a3b998738955685355 )
+	rom ( name rt2_g10u.bin size 65536 crc 2bc7cf79 sha1 be5ed199adb19d13a765b3ce2d69d7557d4dfdc5 )
+	rom ( name rt2_g11l.bin size 65536 crc d350c2c6 sha1 d16a4daa816283121304c0ea6543ae7107b99e15 )
+	rom ( name rt2_g11u.bin size 65536 crc d7978eeb sha1 1adc95bebe9eea8c112d40cd04ab7a8d75c4f961 )
+	rom ( name rt2_g20l.bin size 65536 crc 1135b455 sha1 017de29d643a20561c9603d8452a5ccf7dfdbb41 )
+	rom ( name rt2_g20u.bin size 65536 crc 48c4a6e0 sha1 a450d56e953f473778b4cede0750308d48ba3845 )
+	rom ( name rt2_g21l.bin size 65536 crc 8a6a29fa sha1 fdf8af067a3136347a24ef85e65975db625c6300 )
+	rom ( name rt2_g21u.bin size 65536 crc d7978eeb sha1 1adc95bebe9eea8c112d40cd04ab7a8d75c4f961 )
+	rom ( name rt2_g30l.bin size 65536 crc 77e2e8fc sha1 6a5817e629b37072512d5362f60fa483c71fcd88 )
+	rom ( name rt2_g30u.bin size 65536 crc bff5e464 sha1 245f05fbbb0624980c16acfebcd98d80d5d63655 )
+	rom ( name rt2_g31l.bin size 65536 crc 5b64cbd5 sha1 2a048120354f600977303f5bc8fccf79c7a9f09b )
+	rom ( name rt2_g31u.bin size 65536 crc d7978eeb sha1 1adc95bebe9eea8c112d40cd04ab7a8d75c4f961 )
+	rom ( name rt2_h0.bin size 131072 crc d8ece6f4 sha1 f7bb246fe8b75af24716d419bb3c6e7d9cd0971e )
+	rom ( name rt2_h1.bin size 131072 crc 4f6e9b15 sha1 ef733c2615951f54691877ad3e84d08107723324 )
+	rom ( name rt2_l0.bin size 131072 crc 32cfb2e4 sha1 d4b44a40e2933040eddb2b09de7bfe28d76c5f25 )
+	rom ( name rt2_l1.bin size 131072 crc 0fd123bf sha1 1133163f6716e9a4bbb437b3a471477d0bd97051 )
+	rom ( name rt2_n0_l.bin size 65536 crc 78d2c8b2 sha1 8b6a0e914cb7937afc522e7a23728c807e99d9a4 )
+	rom ( name rt2_n0_u.bin size 65536 crc b0a42f9c sha1 3c93ac9e804ef4c38effe490972569004e0a17cb )
+	rom ( name rt2_n1_l.bin size 65536 crc e3fcdc8b sha1 fff53efe91c55f6ede17db018d779dc9c8749444 )
+	rom ( name rt2_n1_u.bin size 65536 crc 48dc911e sha1 62c59602f4fe144272f182e5075d7919b41d6b40 )
+	rom ( name rt2_n2_l.bin size 65536 crc 1591294a sha1 a56c9c6ff6687b6363cc8c9bc2408f2d96355bb7 )
+	rom ( name rt2_n2_u.bin size 65536 crc e898b182 sha1 511c14f61d5f70bd0939b6fc039320ae2f9e4264 )
+	rom ( name rt2_n3_l.bin size 65536 crc 696ac2b7 sha1 d5c3d0b70d86171c3164e28e1205ac9b5307a164 )
+	rom ( name rt2_n3_u.bin size 65536 crc bfa202b1 sha1 68d75b0cb0a97f583edafc3888194064e7cea3f1 )
+	rom ( name rt2_sp.bin size 65536 crc 73ffecb4 sha1 4795bf0d6263060c3d3759b659bdb189a4087600 )
+	rom ( name rt2_vo.bin size 131072 crc 637172d5 sha1 9dd0dc409306287238826bf301e2a7a12d6cd9ce )
+	sample rtiia_02.wav
+	sample rtiia_05.wav
+	sample rtiia_06.wav
+	sample rtiia_14.wav
+	sample rtiia_39.wav
+	sample rtiia_41.wav
+	sample rtiia_43.wav
+	sample rtiia_45.wav
+	sample rtiia_46.wav
+	sample rtiib_02.wav
+	sample rtiib_03.wav
+	sample rtiib_06.wav
+	sample rtiib_07.wav
+	sample rtiib_09.wav
+	sample rtiib_10.wav
+	sample rtiib_11.wav
+	sample rtiib_13.wav
+	sample rtiib_15.wav
+	sample rtiib_17.wav
+	sample rtiib_18.wav
+	sample rtiib_20.wav
+	sample rtiib_22.wav
+	sample rtiib_23.wav
+	sample rtiib_35.wav
+	sample rtiib_36.wav
+	sample rtiib_37.wav
+	sample rtiib_38.wav
+	sample rtiib_40.wav
+	sample rtiib_41.wav
+	sample rtiib_42.wav
+	sample rtiib_43.wav
+	sample rtiib_44.wav
+	sample rtiib_45.wav
+	sample rtiic_03.wav
+	sample rtiic_04.wav
+	sample rtiic_06.wav
+	sample rtiic_09.wav
+	sample rtiic_10.wav
+	sample rtiic_11.wav
+	sample rtiic_12.wav
+	sample rtiic_13.wav
+	sample rtiic_14.wav
+	sample rtiic_15.wav
+	sample rtiic_16.wav
+	sample rtiic_17.wav
+	sample rtiic_18.wav
+	sample rtiic_19.wav
+	sample rtiic_20.wav
+	sample rtiic_21.wav
+	sample rtiic_23.wav
+	sample rtiic_24.wav
+	sample rtiic_25.wav
+	sample rtiic_26.wav
+	sample rtiic_30.wav
+	sample rtiic_31.wav
+	sample rtiic_35.wav
+	sample rtiic_36.wav
+	sample rtiic_37.wav
+	sample rtiic_38.wav
+	sample rtiic_40.wav
+	sample rtiic_41.wav
+	sample rtiic_42.wav
+	sample rtiic_44.wav
+	sample rtiic_47.wav
+	sample rtiid_01.wav
+	sample rtiid_02.wav
+	sample rtiid_03.wav
+	sample rtiid_04.wav
+	sample rtiid_05.wav
+	sample rtiid_06.wav
+	sample rtiid_07.wav
+	sample rtiid_11.wav
+	sample rtiid_12.wav
+	sample rtiid_13.wav
+	sample rtiid_14.wav
+	sample rtiid_15.wav
+	sample rtiid_17.wav
+)
+

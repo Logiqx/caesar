@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="phoenixarcade" type="single" dat="Phoenix_Arcade_Machine_Emulator_v0.1">
+	<name>Phoenix Arcade Machine Emulator</name>
+	<version>0.1</version>
+	<date>31/01/1996</date>
+
+	<homepage>http://www.debaser.force9.co.uk/</homepage>
+	<author_link id="richard_davies">&author_richard_davies;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="ralph_kummlingen">&author_ralph_kummlingen;</author_link>
+			<comment>Phoenix hardware data</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Phoenix (Taito)</emulates>
+	<comment>Based on Nicola Salmoria's arcade structure</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="Phoenix Arcade Machine Emulator V0.1 960131 [Dos].zip">Emulator</file>
+	</files>
+</emulator>

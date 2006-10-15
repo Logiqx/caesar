@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="jack_burton">
+	<name>Jack Burton</name>
+	<emulator_links>
+		<emulator_link id="xmame_beos" type="beos">&emulator_xmame_beos;</emulator_link>
+	</emulator_links>
+</author>

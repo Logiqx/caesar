@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="borland">
+	<name>Borland</name>
+	<tool_links>
+		<tool_link id="borlandc" type="compilers">&tool_borlandc;</tool_link>
+		<tool_link id="delphi" type="compilers">&tool_delphi;</tool_link>
+	</tool_links>
+</author>

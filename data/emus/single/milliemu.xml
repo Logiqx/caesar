@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="milliemu" type="single" dat="milliEmu_v0.0.2">
+	<name>milliEmu</name>
+	<version>0.0.2</version>
+	<date>02/05/1999</date>
+
+	<homepage>http://home.att.net/~r.jarrett/milliEmu.html</homepage>
+	<author_link id="don_jarrett">&author_don_jarrett;</author_link>
+
+	<emulates>Millipede (Atari)</emulates>
+	<comment>Written in Visual Basic</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="m6502_slomo" type="cpu">&library_m6502_slomo;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Visual Basic</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="milliemu.zip">Emulator</file>
+	</files>
+</emulator>

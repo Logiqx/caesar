@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="u64emu" type="multi" dat="U64Emu_v3.05">
+	<name>U64Emu</name>
+	<version>3.05</version>
+	<date>14/10/2002</date>
+
+	<homepage>http://kiame.emuhq.com/</homepage>
+	<homepage>http://rcp.emuhq.com/</homepage>
+	<author_link id="rcp">&author_rcp;</author_link>
+
+	<emulates>Killer Instinct and Killer Instinct 2</emulates>
+	<comment>Formerly known as KIAME, this emulator emulates Killer Instinct and Killer Instinct 2 (based on Nintendo's Ultra-64 Hardware). Much of the code is taken from TRWin (Nintendo 64 emulator), also by RCP.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="u64emu305_dist.zip">Emulator v3.05 distribution</file>
+		<file name="u64emu302.zip">Emulator v3.02</file>
+		<file name="u64emu302src.zip">Source v3.02</file>
+		<file name="nekkid10.zip">Nekkid can convert between the various HD images</file>
+	</files>
+</emulator>

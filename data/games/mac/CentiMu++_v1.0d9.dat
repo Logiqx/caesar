@@ -1,0 +1,12 @@
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name centiped.307 size 2048 crc 5ab0d9de )
+	rom ( name centiped.308 size 2048 crc 4c07fd3e )
+	rom ( name centiped.309 size 2048 crc ff69b424 )
+	rom ( name centiped.310 size 2048 crc 44e40fa4 )
+	rom ( name centiped.201 size 2048 crc 880acfb9 )
+	rom ( name centiped.202 size 2048 crc b1397029 )
+)

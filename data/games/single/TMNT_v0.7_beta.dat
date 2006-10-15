@@ -1,0 +1,29 @@
+clrmamepro (
+	name TMNT
+	description "TMNT v0.7 beta"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name tmnt
+	description "Teenage Mutant Ninja Turtles (4 Players US)"
+	year 1989
+	manufacturer "Konami"
+	rom ( name tmnt.j17 size 131072 crc a7f61195 sha1 db231ffb045f512040793b6815bcb998cee04c3d )
+	rom ( name tmnt.k17 size 131072 crc 661e056a sha1 4773883a66540c07dbc969881689184697355537 )
+	rom ( name tmnt.j15 size 65536 crc de047bb6 sha1 d41d11f1b7dfd3824308f7fff43a5a7ced432ec2 )
+	rom ( name tmnt.k15 size 65536 crc d86a0888 sha1 c761b3e8acc45a36ae691758c639eb826a8ab5b2 )
+	rom ( name tmnt.g13 size 32768 crc 1692a6d6 sha1 68c3419012b2863e91a7d7e479fce5ceabb10b88 )
+	rom ( name tmnt.h27 size 524288 crc db4769a8 sha1 810811914f9c1fbf2320d5a9030cbf124f6d78cf )
+	rom ( name tmnt.k27 size 524288 crc 8069cd2e sha1 54095d3546119ccd1e8814d692aceb1327c9369f )
+	rom ( name tmnt.h04 size 524288 crc b5239a44 sha1 84e94807e7c51aa652b4e4b827b36be59a53d0d6 )
+	rom ( name tmnt.h06 size 524288 crc dd51adef sha1 5010c0911b0b9e4f23a785e8a751a0bde5be5be0 )
+	rom ( name tmnt.k04 size 524288 crc 1f324eed sha1 971a675578518fffa341a943d0cc4fdea005fde0 )
+	rom ( name tmnt.k06 size 524288 crc d4bd9984 sha1 d780ae7f72e16767c3a492544f02f0f1a332ab22 )
+	rom ( name tmnt.c13 size 131072 crc e2ac3063 sha1 5bb294c46fb5eaba9935a18c0aa5d3931168f474 )
+	rom ( name tmnt.d18 size 131072 crc 2dfd674b sha1 bbec5896c70056964fbc972a84bd5b0dfc6af257 )
+	rom ( name tmnt.d05 size 524288 crc fca078c7 sha1 3e1124d72c9db4cb11d8de6c44b7aeca967f44e1 )
+)
+

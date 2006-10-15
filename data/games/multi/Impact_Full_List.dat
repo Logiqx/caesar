@@ -1,0 +1,210 @@
+clrmamepro (
+	name Impact
+	description "Impact Full List"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+	forcemerging full
+)
+
+game (
+	name ts2j
+	description "Battle Arena Toshinden 2 (Japan)"
+	year 1995
+	manufacturer "Capcom/Takara"
+	rom ( name ts2-01 size 4194304 crc d7a505e0 sha1 f1b0cdea712101f695bd326eccd753eb79a07490 )
+	rom ( name ts2-02 size 131072 crc 2f45c461 sha1 513b6b9b5a2f7c567c30c958e0e13834cd9bd266 )
+	rom ( name ts2j-04 size 524288 crc 4aba8c5e sha1 a56001bf50bfc1b03036e88ae1febd1aac8c63c0 )
+	rom ( name ts2-05 size 4194304 crc 7f4228e2 sha1 3690a76d19d97e55bc7b05a8456328697cfd7a77 )
+	rom ( name ts2-06m size 4194304 crc cd7e0a27 sha1 325b5f2e653cdea07cddc9d20d12b5ab50dca949 )
+	rom ( name ts2-08m size 4194304 crc b1f7f115 sha1 3f416d2aac07aa73a99593b5a21b047da60cea6a )
+	rom ( name ts2-10 size 2097152 crc ad90679a sha1 19dd30764f892ee7f89c78ccbccdaf4d6b0e6e09 )
+)
+
+game (
+	name rvschool
+	description "Rival Schools"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name jst-01m size 4194304 crc 9a7c98f9 sha1 764c6c4f41047e1f36d2dceac4aa9b943a9d529a )
+	rom ( name jst-02 size 131072 crc 7809e2c3 sha1 0216a665f7978bc8db3f7fdab038e1c7aa120844 )
+	rom ( name jst-03 size 131072 crc 860ff24d sha1 eea72fa5eaf407a112a5b3daf60f7ac8ad191cc7 )
+	rom ( name jst-04a size 524288 crc 034b1011 sha1 6773246be242ee336503d21d7d44a3884832eb1e )
+	rom ( name jst-05m size 4194304 crc 723372b8 sha1 2a7c95d1f9a3f58c469dfc28ead1fd192eaaebd1 )
+	rom ( name jst-06m size 4194304 crc 4248988e sha1 4bdf7cac17d70ea85aa2002fc6b21a64d05e6e5a )
+	rom ( name jst-07m size 4194304 crc c84c5a16 sha1 5c0ca7454189c766f1ca7305504ff1867007c8e6 )
+	rom ( name jst-08m size 4194304 crc 791b57f3 sha1 4ea12a0f7a7110d7dcbc55b3f02aa9a92dea4b12 )
+	rom ( name jst-09m size 4194304 crc 6df42048 sha1 9e2b4a424de3918e5e54bc87fd9dcceff8d162be )
+	rom ( name jst-10m size 4194304 crc d7e22769 sha1 733f96dce2586fc0a8af3cec18153085750c9a4d )
+	rom ( name jst-11m size 4194304 crc 0a033ac5 sha1 218b33cb51db99d3e9ee180da6a74460f4444fc6 )
+	rom ( name jst-12m size 4194304 crc 43bd2ddd sha1 7f2976e394362cb648f620e430b3bf11b71485a6 )
+	rom ( name jst-13m size 4194304 crc 6b443235 sha1 c764d8b742aa1c46bc8d37f36e864ef50a1ff4e4 )
+)
+
+game (
+	name rvschoolj
+	description "Justice Gakuen"
+	year 1997
+	manufacturer "Capcom"
+	cloneof rvschool
+	romof rvschool
+	rom ( name jst-01m merge jst-01m size 4194304 crc 9a7c98f9 sha1 764c6c4f41047e1f36d2dceac4aa9b943a9d529a )
+	rom ( name jst-02 merge jst-02 size 131072 crc 7809e2c3 sha1 0216a665f7978bc8db3f7fdab038e1c7aa120844 )
+	rom ( name jst-03 merge jst-03 size 131072 crc 860ff24d sha1 eea72fa5eaf407a112a5b3daf60f7ac8ad191cc7 )
+	rom ( name jst-04j size 524288 crc 28b8000a sha1 9ebf74b453d775cadca9c2d7d8e2c7eb57bb9a38 )
+	rom ( name jst-05m merge jst-05m size 4194304 crc 723372b8 sha1 2a7c95d1f9a3f58c469dfc28ead1fd192eaaebd1 )
+	rom ( name jst-06m merge jst-06m size 4194304 crc 4248988e sha1 4bdf7cac17d70ea85aa2002fc6b21a64d05e6e5a )
+	rom ( name jst-07m merge jst-07m size 4194304 crc c84c5a16 sha1 5c0ca7454189c766f1ca7305504ff1867007c8e6 )
+	rom ( name jst-08m merge jst-08m size 4194304 crc 791b57f3 sha1 4ea12a0f7a7110d7dcbc55b3f02aa9a92dea4b12 )
+	rom ( name jst-09m merge jst-09m size 4194304 crc 6df42048 sha1 9e2b4a424de3918e5e54bc87fd9dcceff8d162be )
+	rom ( name jst-10m merge jst-10m size 4194304 crc d7e22769 sha1 733f96dce2586fc0a8af3cec18153085750c9a4d )
+	rom ( name jst-11m merge jst-11m size 4194304 crc 0a033ac5 sha1 218b33cb51db99d3e9ee180da6a74460f4444fc6 )
+	rom ( name jst-12m merge jst-12m size 4194304 crc 43bd2ddd sha1 7f2976e394362cb648f620e430b3bf11b71485a6 )
+	rom ( name jst-13m merge jst-13m size 4194304 crc 6b443235 sha1 c764d8b742aa1c46bc8d37f36e864ef50a1ff4e4 )
+)
+
+game (
+	name sfex
+	description "Street Fighter EX (Asia)"
+	year 1996
+	manufacturer "Capcom/Arika"
+	rom ( name sfe-01m size 4194304 crc f5afff0d sha1 7f9ac32ba0a3d9c6fef367e36a92d47c9ac1feb3 )
+	rom ( name sfe-02 size 131072 crc 1908475c sha1 99f68cff2d92f5697eec0846201f6fb317d5dc08 )
+	rom ( name sfe-03 size 131072 crc 95c1e2e0 sha1 383bbe9613798a3ac6944d18768280a840994e40 )
+	rom ( name sfe-04a size 524288 crc 08247bd4 sha1 07f356ef2827b3fbd0bfaf2010915315d9d60ef1 )
+	rom ( name sfe-05m size 4194304 crc eab781fe sha1 205476cb72c8dac915e140fb32243dfc5d209ba4 )
+	rom ( name sfe-06m size 4194304 crc 999de60c sha1 092882698c411fc5c3bcb43105bf1886f94b8e40 )
+	rom ( name sfe-07m size 4194304 crc 76117b0a sha1 027233199170fa6e5b32f28da2031638c6d3d14a )
+	rom ( name sfe-08m size 4194304 crc a36bbec5 sha1 fa22ea50d4d8bed2ded97a346f61b2f5f68769b9 )
+	rom ( name sfe-09m size 4194304 crc 62c424cc sha1 ea19c49b486473b150dbf8541286e225655496db )
+	rom ( name sfe-10m size 4194304 crc 83791a8b sha1 534969797640834ca692c11d0ce7c3a060fc7e4b )
+)
+
+game (
+	name sfexj
+	description "Street Fighter EX (Japan)"
+	year 1996
+	manufacturer "Capcom/Arika"
+	cloneof sfex
+	romof sfex
+	rom ( name sfe-01m merge sfe-01m size 4194304 crc f5afff0d sha1 7f9ac32ba0a3d9c6fef367e36a92d47c9ac1feb3 )
+	rom ( name sfe-02 merge sfe-02 size 131072 crc 1908475c sha1 99f68cff2d92f5697eec0846201f6fb317d5dc08 )
+	rom ( name sfe-03 merge sfe-03 size 131072 crc 95c1e2e0 sha1 383bbe9613798a3ac6944d18768280a840994e40 )
+	rom ( name sfe-04j size 524288 crc ea100607 sha1 27ef8c619804999d32d14fcc5ec783c057b4dc73 )
+	rom ( name sfe-05m merge sfe-05m size 4194304 crc eab781fe sha1 205476cb72c8dac915e140fb32243dfc5d209ba4 )
+	rom ( name sfe-06m merge sfe-06m size 4194304 crc 999de60c sha1 092882698c411fc5c3bcb43105bf1886f94b8e40 )
+	rom ( name sfe-07m merge sfe-07m size 4194304 crc 76117b0a sha1 027233199170fa6e5b32f28da2031638c6d3d14a )
+	rom ( name sfe-08m merge sfe-08m size 4194304 crc a36bbec5 sha1 fa22ea50d4d8bed2ded97a346f61b2f5f68769b9 )
+	rom ( name sfe-09m merge sfe-09m size 4194304 crc 62c424cc sha1 ea19c49b486473b150dbf8541286e225655496db )
+	rom ( name sfe-10m merge sfe-10m size 4194304 crc 83791a8b sha1 534969797640834ca692c11d0ce7c3a060fc7e4b )
+)
+
+game (
+	name sfexp
+	description "Street Fighter EX PLUS (USA)"
+	year 1997
+	manufacturer "Capcom/Arika"
+	rom ( name sfp-01 size 4194304 crc f5afff0d sha1 7f9ac32ba0a3d9c6fef367e36a92d47c9ac1feb3 )
+	rom ( name sfp-02 size 131072 crc 1908475c sha1 99f68cff2d92f5697eec0846201f6fb317d5dc08 )
+	rom ( name sfp-03 size 131072 crc 95c1e2e0 sha1 383bbe9613798a3ac6944d18768280a840994e40 )
+	rom ( name sfp-04e size 524288 crc 305e4ec0 sha1 0df9572d7fc1bbc7131483960771d016fa5487a5 )
+	rom ( name sfp-05 size 4194304 crc ac7dcc5e sha1 216de2de691a9bd7982d5d6b5b1e3e35ff381a2f )
+	rom ( name sfp-06 size 4194304 crc 1d504758 sha1 bd56141aba35dbb5b318445ba5db12eff7442221 )
+	rom ( name sfp-07 size 4194304 crc 0f585f30 sha1 24ffdbc360f8eddb702905c99d315614327861a7 )
+	rom ( name sfp-08 size 4194304 crc 65eabc61 sha1 bbeb3bcd8dd8f7f88ed82412a81134a3d6f6ffd9 )
+	rom ( name sfp-09 size 4194304 crc 15f8b71e sha1 efb28fbe750f443550ee9718385355aae7e858c9 )
+	rom ( name sfp-10 size 4194304 crc c1ecf652 sha1 616e14ff63d38272730c810b933a6b3412e2da17 )
+)
+
+game (
+	name sfexpj
+	description "Street Fighter EX PLUS (Japan)"
+	year 1997
+	manufacturer "Capcom/Arika"
+	cloneof sfexp
+	romof sfexp
+	rom ( name sfp-01 merge sfp-01 size 4194304 crc f5afff0d sha1 7f9ac32ba0a3d9c6fef367e36a92d47c9ac1feb3 )
+	rom ( name sfp-02 merge sfp-02 size 131072 crc 1908475c sha1 99f68cff2d92f5697eec0846201f6fb317d5dc08 )
+	rom ( name sfp-03 merge sfp-03 size 131072 crc 95c1e2e0 sha1 383bbe9613798a3ac6944d18768280a840994e40 )
+	rom ( name sfp-04j size 524288 crc 18d043f5 sha1 9e6e24a722d13888fbfd391ddb1a5045b162488c )
+	rom ( name sfp-05 merge sfp-05 size 4194304 crc ac7dcc5e sha1 216de2de691a9bd7982d5d6b5b1e3e35ff381a2f )
+	rom ( name sfp-06 merge sfp-06 size 4194304 crc 1d504758 sha1 bd56141aba35dbb5b318445ba5db12eff7442221 )
+	rom ( name sfp-07 merge sfp-07 size 4194304 crc 0f585f30 sha1 24ffdbc360f8eddb702905c99d315614327861a7 )
+	rom ( name sfp-08 merge sfp-08 size 4194304 crc 65eabc61 sha1 bbeb3bcd8dd8f7f88ed82412a81134a3d6f6ffd9 )
+	rom ( name sfp-09 merge sfp-09 size 4194304 crc 15f8b71e sha1 efb28fbe750f443550ee9718385355aae7e858c9 )
+	rom ( name sfp-10 merge sfp-10 size 4194304 crc c1ecf652 sha1 616e14ff63d38272730c810b933a6b3412e2da17 )
+)
+
+game (
+	name "psychic force"
+	description "Psychic Force (Japan)"
+	year 1995
+	manufacturer "Taito"
+	rom ( name "psychic force 1" size 1048576 crc 304c8e51 sha1 fd858e9b0d05fcd48557dbb2ff8e14c17dd0a36a )
+	rom ( name "psychic force 2" size 2097152 crc 03b50064 sha1 0259537e86b266b3f34308c4fc0bcc04c037da71 )
+	rom ( name "psychic force 3" size 2097152 crc 8372f839 sha1 646b3919b6be63412c11850ec1524685abececc0 )
+	rom ( name "psychic force 4" size 2097152 crc 397b71aa sha1 48743c362503c1d2dbeb3c8be4cb2aaaae015b88 )
+	rom ( name "psychic force 5" size 2097152 crc 808b8340 sha1 d8bde850dd9b5b71e94ea707d2d728754f907977 )
+	rom ( name "psychic force 6" size 131072 crc 739af589 sha1 dbb4d1c6d824a99ccf27168e2c21644e19811523 )
+)
+
+game (
+	name sfex2
+	description "Street Fighter EX 2 (Jap)"
+	year 1998
+	manufacturer "Capcom/Arika"
+	rom ( name ex2-01m size 4194304 crc 14a5bb0e sha1 dfe3c3a53bd4c58743d8039b5344d3afbe2a9c24 )
+	rom ( name ex2-02 size 131072 crc 9489875e sha1 1fc9985ff98232c63ea8d05a69f7d77cdf72919f )
+	rom ( name ex2-05m size 8388608 crc 78726b17 sha1 2da449df335ef133ebc3997bbad73ef4137f4771 )
+	rom ( name ex2-06m size 8388608 crc be1075ed sha1 36dc673372f30f8b3ff5689ae568c5cd01fe2c07 )
+	rom ( name ex2-07m size 8388608 crc 6496c6ed sha1 054bcecbb04033abea14d9ffe6634b2bd11ca88b )
+	rom ( name ex2-08m size 8388608 crc 3194132e sha1 d1324fcf0a8528fc683791d6342697a7e08674f4 )
+	rom ( name ex2-09m size 4194304 crc 075ae585 sha1 6b88851db618fc3e96f1d740c46c1bc5be0ee21b )
+	rom ( name ex2j-04 size 524288 crc 5d603586 sha1 ff546d3bd011d6441e9672b88bab763d3cd89be2 )
+)
+
+game (
+	name sfex2p
+	description "Street Fighter EX 2 PLUS"
+	year 1999
+	manufacturer "Capcom/Arika"
+	rom ( name sf2p-01 size 4194304 crc 14a5bb0e sha1 dfe3c3a53bd4c58743d8039b5344d3afbe2a9c24 )
+	rom ( name sf2p-02 size 131072 crc 3705de5e sha1 847007ca271da64bf13ffbf496d4291429eee27a )
+	rom ( name sf2p-03 size 131072 crc 6ae828f6 sha1 41c54165e87b846a845da581f408b96979288158 )
+	rom ( name sf2p-04 size 524288 crc c6d0aea3 sha1 f48ee889dd743109f830063da3eb0f687db2d86c )
+	rom ( name sf2p-05 size 8388608 crc 4ee3110f sha1 704f8dca7d0b698659af9e3271ea5072dfd42b8b )
+	rom ( name sf2p-06 size 8388608 crc 4cd53a45 sha1 39499ea6c9aa51c71f4fe44cc02f93d5a39e14ec )
+	rom ( name sf2p-07 size 8388608 crc 11207c2a sha1 0182652819f1c3a36e7b42e34ef86d2455a2dd90 )
+	rom ( name sf2p-08 size 8388608 crc 3560c2cc sha1 8b0ce22d954387f7bb032b5220d1014ef68741e8 )
+	rom ( name sf2p-09 size 8388608 crc 344aa227 sha1 69dc6f511939bf7fa25c2531ecf307a7565fe7a8 )
+	rom ( name sf2p-10 size 8388608 crc 2eef5931 sha1 e5227529fb68eeb1b2f25813694173a75d906b52 )
+)
+
+game (
+	name sg2j
+	description "Stargladiator 2: Nightmare of Bilstein (Jap)"
+	year 1998
+	manufacturer "Capcom"
+	rom ( name sg2-01m size 4194304 crc 643ea27b sha1 40747432d5cfebac54d3824b6a6f26b5e7742fc1 )
+	rom ( name sg2-02 size 131072 crc 415ee138 sha1 626083c8705f012552691c450f95401ddc88065b )
+	rom ( name sg2-03 size 131072 crc 43806735 sha1 88d389bcc79cbd4fa1f4b62008e171a897e77652 )
+	rom ( name sg2-05m size 8388608 crc f1759236 sha1 fbe3a820a8c571dfb186eae68346e6461168ed48 )
+	rom ( name sg2-06m size 8388608 crc 33de4f72 sha1 ab32af76b5682e3d9f67dadbaed35abc043912b4 )
+	rom ( name sg2-07m size 8388608 crc 72f724ba sha1 e6658b495d308d1de6710f87b5b9d346008b0c5a )
+	rom ( name sg2-08m size 8388608 crc 9e169eee sha1 6141b1a7863fdfb200ca35d2893979a34dcc3f6c )
+	rom ( name sg2-09m size 4194304 crc 33f73d4c sha1 954695a43e77b58585409678bd87c76adac1d855 )
+	rom ( name sg2j-04 size 524288 crc cf4ce6ac sha1 52b6f61d79671c9c108b3dfbd3c2ac333285412c )
+)
+
+game (
+	name tgmj
+	description "Tetris: The Grand Master (Jap)"
+	year 1998
+	manufacturer "Capcom/Akira"
+	rom ( name ate-01 size 4194304 crc a21c6521 sha1 560e4855f6e00def5277bdd12064b49e55c3b46b )
+	rom ( name ate-02 size 131072 crc f4f6e82f sha1 ad6c49197a60f456367c9f78353741fb847819a1 )
+	rom ( name ate-04j size 524288 crc bb4bbb96 sha1 808f4b29493e74efd661d561d11cbec2f4afd1c8 )
+	rom ( name ate-05 size 4194304 crc 50977f5a sha1 78c2b1965957ff1756c25b76e549f11fc0001153 )
+	rom ( name ate-06 size 4194304 crc 05973f16 sha1 c9262e8de14c4a9489f7050316012913c1caf0ff )
+)
+

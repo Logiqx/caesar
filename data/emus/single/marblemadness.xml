@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="marblemadness" type="single" dat="Marble_Madness_Emulator_v0.2_beta">
+	<name>Marble Madness Emulator</name>
+	<version>0.2 beta</version>
+	<date>13/09/1998</date>
+
+	<homepage status="bad">http://www.rmaonline.net/hippies/theplasticfactory/</homepage>
+	<author_link id="peter_hirschberg">&author_peter_hirschberg;</author_link>
+
+	<emulates>Marble Madness (Atari)</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="mmeb2.zip">Emulator</file>
+	</files>
+</emulator>

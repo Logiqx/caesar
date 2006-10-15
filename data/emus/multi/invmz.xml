@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="invmz" type="multi" dat="INVMZ_v0.05">
+	<name>INVMZ</name>
+	<version>0.05</version>
+	<date>16/01/1999</date>
+
+	<homepage status="bad">http://zan.emuunlim.com/emul8/projects/invmz/invmz.html</homepage>
+	<author_link id="zan">&author_zan;</author_link>
+	<author_link id="ld">&author_ld;</author_link>
+	<author_link id="steb">&author_steb;</author_link>
+
+	<emulates>Space Invaders (Midway) and 10 other games on similar hardware</emulates>
+	<comment>One of the projects at Zan's EMUL8 site</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes (Samples)</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="invmz005.zip">Source for v0.05</file>
+		<file name="invmz001.zip">Source for v0.01 (no graphical output)</file>
+	</files>
+</emulator>

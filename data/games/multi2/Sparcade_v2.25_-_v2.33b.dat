@@ -1,0 +1,64 @@
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name centiped.307 size 2048 crc 5ab0d9de sha1 8ea6e3304202831aabaf31dbd0f970a7b3bfe421 )
+	rom ( name centiped.308 size 2048 crc 4c07fd3e sha1 af4fdbf32c23b1864819d620a874e7f205da3cdb )
+	rom ( name centiped.309 size 2048 crc ff69b424 sha1 689fa560d40a384dcbcad7c8095bc12e91875580 )
+	rom ( name centiped.310 size 2048 crc 44e40fa4 sha1 c557db83876afc8ab52047ab1a3c3bfef34d6351 )
+	rom ( name centiped.201 size 2048 crc 880acfb9 sha1 6c862352c329776f2f9974a0df9dbe41f9dbc361 )
+	rom ( name centiped.202 size 2048 crc b1397029 sha1 974c03d29aeca672fffa4dfc00a06be6a851aacb )
+)
+
+game (
+	name jrpacman
+	description "Jr. Pac-Man"
+	year 1983
+	manufacturer "Bally Midway"
+	rom ( name jrpacman.8d size 8192 crc e3fa972e sha1 5ea34621213c649ca2848ab31aab2cbe751723d4 )
+	rom ( name jrpacman.8e size 8192 crc ec889e94 sha1 8294e9e79f8fd19a419431fa690e6ac4a1302f58 )
+	rom ( name jrpacman.8h size 8192 crc 35f1fc6e sha1 b84b34560b9aae18b24274712b052283faa01730 )
+	rom ( name jrpacman.8j size 8192 crc 9737099e sha1 07d912a61824323c8fc1b8bd0da89172d4f70b91 )
+	rom ( name jrpacman.8k size 8192 crc 5252dd97 sha1 18bd4d5381656120e4242811006c20776774de4d )
+	rom ( name jrpacman.2c size 8192 crc 0527ff9b sha1 37fe3176b0d125b7d629e108e7ebdc1196e4a132 )
+	rom ( name jrpacman.2e size 8192 crc 73477193 sha1 f00a488958ea0438642d345693787bdf771219ad )
+)
+
+game (
+	name milliped
+	description "Millipede"
+	year 1982
+	manufacturer "Atari"
+	rom ( name milliped.104 size 4096 crc 40711675 sha1 b595d6a0f5d3c611ade1b83a94c3b909d2124dc4 )
+	rom ( name milliped.103 size 4096 crc fb01baf2 sha1 9c1d0bbc20bf25dd21761a311fd1ed80aa029241 )
+	rom ( name milliped.102 size 4096 crc 62e137e0 sha1 9fe40db55ba1d20d4f11704f7f5df9ff75b87f30 )
+	rom ( name milliped.101 size 4096 crc 46752c7d sha1 ab06b1fd80271849946f90757b3837b617394929 )
+	rom ( name milliped.107 size 2048 crc 68c3437a sha1 4c7ea33d9501456ee8f5a642da7d6c972f2bb90d )
+	rom ( name milliped.106 size 2048 crc f4468045 sha1 602fcc7290f9f4eacb841c76665961ebf4307f80 )
+)
+
+game (
+	name tutankhm
+	description "Tutankham (Stern)"
+	year 1982
+	manufacturer "[Konami] (Stern license)"
+	rom ( name tutankhm.1h size 4096 crc da18679f sha1 8d2a3665db937d0e1d19300ae22277d9db61fcbc )
+	rom ( name tutankhm.2h size 4096 crc a0f02c85 sha1 29a78b3ffd6b597772953543b02dd59acf5af38c )
+	rom ( name tutankhm.3h size 4096 crc 2d62d7b1 sha1 910718f36735f2614cda0c3a1abdfa995d82dbd2 )
+	rom ( name tutankhm.4h size 4096 crc bd06fad0 sha1 bd10bbb413d8dd362072522e902575d819fa8336 )
+	rom ( name tutankhm.5h size 4096 crc bf9fd9b0 sha1 458ea2ff5eedaaa02e32444dd6004d2eaadbdeab )
+	rom ( name tutankhm.6h size 4096 crc c43b3865 sha1 3112cf831c5b6318337e591ccb0003aeab722652 )
+	rom ( name tutankhm.1i size 4096 crc 7eb59b21 sha1 664d3e08df0f3d6690838810b6fe273eec3b7821 )
+	rom ( name tutankhm.2i size 4096 crc 6615eff3 sha1 e8455eab03f66642880595cfa0e9be285bf9fad0 )
+	rom ( name tutankhm.3i size 4096 crc a10d4444 sha1 683899e1014ee075b16d9d2610c3c5b5c4efedb6 )
+	rom ( name tutankhm.4i size 4096 crc 58cd143c sha1 e4ab27c09858cede478f4ed3ac6d7392e383a470 )
+	rom ( name tutankhm.5i size 4096 crc d7e7ae95 sha1 7068797770a6c42dc733b253bf6b7376eb6e071e )
+	rom ( name tutankhm.6i size 4096 crc 91f62b82 sha1 2a78039ee63226978544142727d00d1ccc6d2ab4 )
+	rom ( name tutankhm.7i size 4096 crc afd0a81f sha1 cf10308a0fa4ffabd0deeb186b5602468028ff92 )
+	rom ( name tutankhm.8i size 4096 crc dabb609b sha1 773b99b670db41a9de58d14b51f81ce0c446ca84 )
+	rom ( name tutankhm.9i size 4096 crc 8ea9c6a6 sha1 fe1b299f8760fc5418179d3569932ee2c4dff461 )
+	rom ( name tutankhm.7a size 4096 crc b52d01fa sha1 9b6cf9ea51d3a87c174f34d42a4b1b5f38b48723 )
+	rom ( name tutankhm.8a size 4096 crc 9db5c0ce sha1 b5bc1d89a7f7d7a0baae64390c37ee11f69a0e76 )
+)
+

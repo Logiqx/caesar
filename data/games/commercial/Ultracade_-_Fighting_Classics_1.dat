@@ -1,0 +1,55 @@
+game (
+	name champwr
+	description "Champion Wrestler (World)"
+	year 1989
+	manufacturer "Taito Corporation Japan"
+)
+
+game (
+	name matmania
+	description "Mat Mania"
+	year 1985
+	manufacturer "Technos (Taito America license)"
+)
+
+game (
+	name megaman
+	description "Mega Man - The Power Battle (Asia)"
+	year 1995
+	manufacturer "Capcom"
+)
+
+game (
+	name slammast
+	description "Saturday Night Slam Masters (World)"
+	year 1993
+	manufacturer "Capcom"
+)
+
+game (
+	name sf1
+	description "Street Fighter (World)"
+	year 1987
+	manufacturer "Capcom"
+)
+
+game (
+	name sf2
+	description "Street Fighter II - The World Warrior (World 910214)"
+	year 1991
+	manufacturer "Capcom"
+)
+
+game (
+	name sf2ce
+	description "Street Fighter II' - Champion Edition (World)"
+	year 1992
+	manufacturer "Capcom"
+)
+
+game (
+	name sf2t
+	description "Street Fighter II' - Hyper Fighting (US)"
+	year 1992
+	manufacturer "Capcom"
+)

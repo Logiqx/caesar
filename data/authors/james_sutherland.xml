@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="james_sutherland">
+	<name>James Sutherland</name>
+	<email>james@guybrush.demon.co.uk</email>
+	<emulator_links>
+		<emulator_link id="epp" type="multi">&emulator_epp;</emulator_link>
+	</emulator_links>
+</author>

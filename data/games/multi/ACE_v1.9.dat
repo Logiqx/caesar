@@ -1,0 +1,2289 @@
+clrmamepro (
+	name ACE
+	description "ACE v1.9"
+	category "Capcom CPS-1, CPS-2, and SNK Neo-Geo"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+	forcemerging split
+	forcezipping zip
+)
+
+game (
+	name 3wonders
+	description "Three Wonders (World)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name rte.30a size 131072 crc ef5b8b33 sha1 2313168e5f10505ceece5fdaada0d30df3ca146c )
+	rom ( name rte.35a size 131072 crc 7d705529 sha1 b456629b5755b701cca8a438d24957367a260ec5 )
+	rom ( name rte.31a size 131072 crc 32835e5e sha1 9ec530561030a75a1283ff2aacc21e55613b682b )
+	rom ( name rte.36a size 131072 crc 7637975f sha1 56935032eebd3e1c5059f6842b97001dae0aa55f )
+	rom ( name 3wonders.28 size 131072 crc 054137c8 sha1 e4c406e0a32198323a5931093fbaa6836510b8ad )
+	rom ( name 3wonders.33 size 131072 crc 7264cb1b sha1 b367acb9f6579569321ecaa98a14e29dd775b9db )
+	rom ( name rte.29a size 131072 crc cddaa919 sha1 0c98e95ad5033d2c5ade7651243e7ccdb4e35463 )
+	rom ( name rte.34a size 131072 crc ed52e7e5 sha1 352433ae484967d26376141e3a8a0f968b98fde6 )
+	rom ( name 3wonders.05 size 524288 crc 86aef804 sha1 723927ef3bf992d12395c52db051ece7bf57d5e5 )
+	rom ( name 3wonders.07 size 524288 crc 4f057110 sha1 b7d35c883a74cf4bfb242d9f15a0e40ed1ec111f )
+	rom ( name 3wonders.01 size 524288 crc 902489d0 sha1 748ba416a8b9343059a3e7d8b93f02162feb1d0b )
+	rom ( name 3wonders.03 size 524288 crc e35ce720 sha1 6c1a87a1f819bdc20408b5a7823cf35a79d34110 )
+	rom ( name 3wonders.06 size 524288 crc 13cb0e7c sha1 e429d594d9a7ff4cc6306e2796a9d6ad0fa25569 )
+	rom ( name 3wonders.08 size 524288 crc 1f055014 sha1 d64f5be9bb2ef761ca9b2e797dbc3554cf996a79 )
+	rom ( name 3wonders.02 size 524288 crc e9a034f4 sha1 deb4cb5886705380b57d4fe9b9bf3c032e1d6227 )
+	rom ( name 3wonders.04 size 524288 crc df0eea8b sha1 5afa05654cccb0504bd44569d42fd68f08fd172f )
+	rom ( name 3wonders.09 size 65536 crc abfca165 sha1 428069d3bdc45775854cd0e8abe447f134fe5492 )
+	rom ( name 3wonders.18 size 131072 crc 26b211ab sha1 0ea03fdd9edff41eacfc52aa9e0421c10968356b )
+	rom ( name 3wonders.19 size 131072 crc dbe64ad0 sha1 09f2ad522fe75d7bcca094b8c6696c3733b539d5 )
+)
+
+game (
+	name armwar
+	description "Armored Warriors (Euro 941011)"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name pwge.03b size 524288 crc e822e3e9 sha1 dcd153bb70f6c2baffa2f3687def30d85fca44ba )
+	rom ( name pwge.04b size 524288 crc 4f89de39 sha1 1e54ed70a6ed9330ec83fb189f76e9417c6dfc13 )
+	rom ( name pwge.05a size 524288 crc 83df24e5 sha1 39801452769569c3271b26c6be8d3ce5e72b0629 )
+	rom ( name pwg.06 size 524288 crc 87a60ce8 sha1 e2085c7c8c6792d055dbbb023c7f4e4aa38ae924 )
+	rom ( name pwg.07 size 524288 crc f7b148df sha1 f369669713cf647222094c570a2eacd48a8637cf )
+	rom ( name pwg.08 size 524288 crc cc62823e sha1 edaf9bebdfc65ae5414090abd6844176eec39a00 )
+	rom ( name pwg.09 size 524288 crc ddc85ca6 sha1 e794c679531632e2142c6a5e3b858494389ce65e )
+	rom ( name pwg.10 size 524288 crc 07c4fb28 sha1 58a1ff3d105be7df833dd4f32973766649efcbcf )
+	rom ( name pwgex.03b size 524288 crc 741fc2b0 sha1 9bcaf48a753ca9c5a6a06485782c3d185aba3cef )
+	rom ( name pwgex.04b size 524288 crc 5bb96a5d sha1 3ac1bc6dec365cccdabb3edb365ff1ac52255aa9 )
+	rom ( name pwg.13 size 4194304 crc ae8fe08e sha1 b6f09663dcda69b5d7ac13e4afaf1efd692fb61e )
+	rom ( name pwg.15 size 4194304 crc db560f58 sha1 0c3716b32eb24544ff5d16b5dcadce195cd10d00 )
+	rom ( name pwg.17 size 4194304 crc bc475b94 sha1 a157664450895a146a532581dd6f4b63dff21c86 )
+	rom ( name pwg.19 size 4194304 crc 07439ff7 sha1 f71e07c6d77c32828f5e319268b24b13a1a4b0c2 )
+	rom ( name pwg.14 size 1048576 crc c3f9ba63 sha1 66191a52c39daa89b17ede5804ee41c028036f14 )
+	rom ( name pwg.16 size 1048576 crc 815b0e7b sha1 549785daac3122253fb94f6541bc7016147f5306 )
+	rom ( name pwg.18 size 1048576 crc 0109c71b sha1 eb51284ee0c85ff8f605fe1d166b7aa202be1344 )
+	rom ( name pwg.20 size 1048576 crc eb75ffbe sha1 e9d1deca60be696ac5bff2017fb5de3525e5239a )
+	rom ( name pwg.01 size 131072 crc 18a5c0e4 sha1 bb1353dd74884aaeec9b5f1d0b284d9cad53c0ff )
+	rom ( name pwg.02 size 131072 crc c9dfffa6 sha1 64e71028befe9a2514074be765dd020e1d2ea70b )
+	rom ( name pwg.11 size 2097152 crc a78f7433 sha1 e47ffba7b9dac9d0dda985c5d966194be18260f7 )
+	rom ( name pwg.12 size 2097152 crc 77438ed0 sha1 733ca6c6a792e66e2aa12c5fc06dd459527afe4b )
+)
+
+game (
+	name armwaru
+	description "Armored Warriors (US 941024)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof armwar
+	romof armwar
+	rom ( name pwgu.03b size 524288 crc 8b95497a sha1 0c037b8a484d69f5e8c9600de71177fb78e9ede0 )
+	rom ( name pwgu.04b size 524288 crc 29eb5661 sha1 7ee9150072882c9e158ca8231f26a9f62c8fa50e )
+	rom ( name pwgu.05b size 524288 crc a54e9e44 sha1 e235dcdbd0111f018519d9c8eef130121ea20a20 )
+	rom ( name pwg.06 merge pwg.06 size 524288 crc 87a60ce8 sha1 e2085c7c8c6792d055dbbb023c7f4e4aa38ae924 )
+	rom ( name pwg.07 merge pwg.07 size 524288 crc f7b148df sha1 f369669713cf647222094c570a2eacd48a8637cf )
+	rom ( name pwg.08 merge pwg.08 size 524288 crc cc62823e sha1 edaf9bebdfc65ae5414090abd6844176eec39a00 )
+	rom ( name pwg.09a size 524288 crc 4c26baee sha1 685f050206b9b904ce6a1ae9a8e8f019012cea43 )
+	rom ( name pwg.10 merge pwg.10 size 524288 crc 07c4fb28 sha1 58a1ff3d105be7df833dd4f32973766649efcbcf )
+	rom ( name pwgux.03b size 524288 crc 5d41ddde sha1 61ac83a74d0f54cea50d97bda584ba28fb0a278f )
+	rom ( name pwgux.04b size 524288 crc 4d0619f3 sha1 ec89017df9a3f36e492c95bce664e65ed2a51e42 )
+	rom ( name pwg.13 merge pwg.13 size 4194304 crc ae8fe08e sha1 b6f09663dcda69b5d7ac13e4afaf1efd692fb61e )
+	rom ( name pwg.15 merge pwg.15 size 4194304 crc db560f58 sha1 0c3716b32eb24544ff5d16b5dcadce195cd10d00 )
+	rom ( name pwg.17 merge pwg.17 size 4194304 crc bc475b94 sha1 a157664450895a146a532581dd6f4b63dff21c86 )
+	rom ( name pwg.19 merge pwg.19 size 4194304 crc 07439ff7 sha1 f71e07c6d77c32828f5e319268b24b13a1a4b0c2 )
+	rom ( name pwg.14 merge pwg.14 size 1048576 crc c3f9ba63 sha1 66191a52c39daa89b17ede5804ee41c028036f14 )
+	rom ( name pwg.16 merge pwg.16 size 1048576 crc 815b0e7b sha1 549785daac3122253fb94f6541bc7016147f5306 )
+	rom ( name pwg.18 merge pwg.18 size 1048576 crc 0109c71b sha1 eb51284ee0c85ff8f605fe1d166b7aa202be1344 )
+	rom ( name pwg.20 merge pwg.20 size 1048576 crc eb75ffbe sha1 e9d1deca60be696ac5bff2017fb5de3525e5239a )
+	rom ( name pwg.01 merge pwg.01 size 131072 crc 18a5c0e4 sha1 bb1353dd74884aaeec9b5f1d0b284d9cad53c0ff )
+	rom ( name pwg.02 merge pwg.02 size 131072 crc c9dfffa6 sha1 64e71028befe9a2514074be765dd020e1d2ea70b )
+	rom ( name pwg.11 merge pwg.11 size 2097152 crc a78f7433 sha1 e47ffba7b9dac9d0dda985c5d966194be18260f7 )
+	rom ( name pwg.12 merge pwg.12 size 2097152 crc 77438ed0 sha1 733ca6c6a792e66e2aa12c5fc06dd459527afe4b )
+)
+
+game (
+	name pgear
+	description "Powered Gear: Strategic Variant Armor Equipment (Japan 941024)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof armwar
+	romof armwar
+	rom ( name pwgj.03a size 524288 crc c79c0c02 sha1 4e24d34be255bb3886bd6b767779ee5fc81dca6e )
+	rom ( name pwgj.04a size 524288 crc 167c6ed8 sha1 23a4a7faae817ffc6c5faa4db5b96b8c8c0dfe86 )
+	rom ( name pwgj.05a size 524288 crc a63fb400 sha1 b27464b000cd12d9247254f843be27639fbf3a48 )
+	rom ( name pwg.06 merge pwg.06 size 524288 crc 87a60ce8 sha1 e2085c7c8c6792d055dbbb023c7f4e4aa38ae924 )
+	rom ( name pwg.07 merge pwg.07 size 524288 crc f7b148df sha1 f369669713cf647222094c570a2eacd48a8637cf )
+	rom ( name pwg.08 merge pwg.08 size 524288 crc cc62823e sha1 edaf9bebdfc65ae5414090abd6844176eec39a00 )
+	rom ( name pwg.09a size 524288 crc 4c26baee sha1 685f050206b9b904ce6a1ae9a8e8f019012cea43 )
+	rom ( name pwg.10 merge pwg.10 size 524288 crc 07c4fb28 sha1 58a1ff3d105be7df833dd4f32973766649efcbcf )
+	rom ( name pwgjx.03a size 524288 crc cf0284a9 sha1 444d7788072be253bb7c4cecc487a26d5f61d73c )
+	rom ( name pwgjx.04a size 524288 crc 99437cf1 sha1 f2b4ad733a2467e89c8d082291e330bc29411998 )
+	rom ( name pwg.13 merge pwg.13 size 4194304 crc ae8fe08e sha1 b6f09663dcda69b5d7ac13e4afaf1efd692fb61e )
+	rom ( name pwg.15 merge pwg.15 size 4194304 crc db560f58 sha1 0c3716b32eb24544ff5d16b5dcadce195cd10d00 )
+	rom ( name pwg.17 merge pwg.17 size 4194304 crc bc475b94 sha1 a157664450895a146a532581dd6f4b63dff21c86 )
+	rom ( name pwg.19 merge pwg.19 size 4194304 crc 07439ff7 sha1 f71e07c6d77c32828f5e319268b24b13a1a4b0c2 )
+	rom ( name pwg.14 merge pwg.14 size 1048576 crc c3f9ba63 sha1 66191a52c39daa89b17ede5804ee41c028036f14 )
+	rom ( name pwg.16 merge pwg.16 size 1048576 crc 815b0e7b sha1 549785daac3122253fb94f6541bc7016147f5306 )
+	rom ( name pwg.18 merge pwg.18 size 1048576 crc 0109c71b sha1 eb51284ee0c85ff8f605fe1d166b7aa202be1344 )
+	rom ( name pwg.20 merge pwg.20 size 1048576 crc eb75ffbe sha1 e9d1deca60be696ac5bff2017fb5de3525e5239a )
+	rom ( name pwg.01 merge pwg.01 size 131072 crc 18a5c0e4 sha1 bb1353dd74884aaeec9b5f1d0b284d9cad53c0ff )
+	rom ( name pwg.02 merge pwg.02 size 131072 crc c9dfffa6 sha1 64e71028befe9a2514074be765dd020e1d2ea70b )
+	rom ( name pwg.11 merge pwg.11 size 2097152 crc a78f7433 sha1 e47ffba7b9dac9d0dda985c5d966194be18260f7 )
+	rom ( name pwg.12 merge pwg.12 size 2097152 crc 77438ed0 sha1 733ca6c6a792e66e2aa12c5fc06dd459527afe4b )
+)
+
+game (
+	name pgearr1
+	description "Powered Gear: Strategic Variant Armor Equipment (Japan 940916)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof armwar
+	romof armwar
+	rom ( name pwgj.03 size 524288 crc f264e74b sha1 db0a675a9d46df9227334259db633e27f7dc79ab )
+	rom ( name pwgj.04 size 524288 crc 23a84983 sha1 a3ed606f6213bb6e447c4ff84d6d3435a0170762 )
+	rom ( name pwgj.05 size 524288 crc bef58c62 sha1 178c255171c4010cec758ee11d96bdcee85abee0 )
+	rom ( name pwg.06 merge pwg.06 size 524288 crc 87a60ce8 sha1 e2085c7c8c6792d055dbbb023c7f4e4aa38ae924 )
+	rom ( name pwg.07 merge pwg.07 size 524288 crc f7b148df sha1 f369669713cf647222094c570a2eacd48a8637cf )
+	rom ( name pwg.08 merge pwg.08 size 524288 crc cc62823e sha1 edaf9bebdfc65ae5414090abd6844176eec39a00 )
+	rom ( name pwg.09 merge pwg.09 size 524288 crc ddc85ca6 sha1 e794c679531632e2142c6a5e3b858494389ce65e )
+	rom ( name pwg.10 merge pwg.10 size 524288 crc 07c4fb28 sha1 58a1ff3d105be7df833dd4f32973766649efcbcf )
+	rom ( name pwgjx.03 size 524288 crc ebd9e371 sha1 e4ed713ed924918d44ad8fdcbca7a805098b7892 )
+	rom ( name pwgjx.04 size 524288 crc e05a4756 sha1 ef29b663493f4101202df601134ffe61e2fa5edf )
+	rom ( name pwg.13 merge pwg.13 size 4194304 crc ae8fe08e sha1 b6f09663dcda69b5d7ac13e4afaf1efd692fb61e )
+	rom ( name pwg.15 merge pwg.15 size 4194304 crc db560f58 sha1 0c3716b32eb24544ff5d16b5dcadce195cd10d00 )
+	rom ( name pwg.17 merge pwg.17 size 4194304 crc bc475b94 sha1 a157664450895a146a532581dd6f4b63dff21c86 )
+	rom ( name pwg.19 merge pwg.19 size 4194304 crc 07439ff7 sha1 f71e07c6d77c32828f5e319268b24b13a1a4b0c2 )
+	rom ( name pwg.14 merge pwg.14 size 1048576 crc c3f9ba63 sha1 66191a52c39daa89b17ede5804ee41c028036f14 )
+	rom ( name pwg.16 merge pwg.16 size 1048576 crc 815b0e7b sha1 549785daac3122253fb94f6541bc7016147f5306 )
+	rom ( name pwg.18 merge pwg.18 size 1048576 crc 0109c71b sha1 eb51284ee0c85ff8f605fe1d166b7aa202be1344 )
+	rom ( name pwg.20 merge pwg.20 size 1048576 crc eb75ffbe sha1 e9d1deca60be696ac5bff2017fb5de3525e5239a )
+	rom ( name pwg.01 merge pwg.01 size 131072 crc 18a5c0e4 sha1 bb1353dd74884aaeec9b5f1d0b284d9cad53c0ff )
+	rom ( name pwg.02 merge pwg.02 size 131072 crc c9dfffa6 sha1 64e71028befe9a2514074be765dd020e1d2ea70b )
+	rom ( name pwg.11 merge pwg.11 size 2097152 crc a78f7433 sha1 e47ffba7b9dac9d0dda985c5d966194be18260f7 )
+	rom ( name pwg.12 merge pwg.12 size 2097152 crc 77438ed0 sha1 733ca6c6a792e66e2aa12c5fc06dd459527afe4b )
+)
+
+game (
+	name avsp
+	description "Alien vs. Predator (Euro 940520)"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name avpe.03d size 524288 crc 774334a9 sha1 f60b0e39139ea40e0b0ba97ed01d4a757ed65e1a )
+	rom ( name avpe.04d size 524288 crc 7fa83769 sha1 930f02e4d35686e80fbdd673380c4b2bd784a9e5 )
+	rom ( name avp.05d size 524288 crc fbfb5d7a sha1 5549bc9d780753bc9c10fba82588e5c3d4a2acb2 )
+	rom ( name avp.06 size 524288 crc 190b817f sha1 9bcfc0a015ffba9cdac25b6270939a9690de5da7 )
+	rom ( name avpex.03d size 524288 crc 73dd740e sha1 c577928eb42616c87439fa30299daa5986514c37 )
+	rom ( name avpex.04d size 524288 crc 185f8c43 sha1 6802787918a794c8c44aec887c7f17eeeee1885d )
+	rom ( name avp.13 size 2097152 crc 8f8b5ae4 sha1 457ce959aa5db3a003de7dda2b3799b2f1ae279b )
+	rom ( name avp.15 size 2097152 crc b00280df sha1 bc1291a4a222d410bc99b6f1ed392067d9c3999e )
+	rom ( name avp.17 size 2097152 crc 94403195 sha1 efaad001527a5eba8f626aea9037ac6ef9a2c295 )
+	rom ( name avp.19 size 2097152 crc e1981245 sha1 809ccb7f10262e227d5e9d9f710e06f0e751f550 )
+	rom ( name avp.14 size 2097152 crc ebba093e sha1 77aaf4197d1dae3321cf9c6d2b7967ee54cf3f30 )
+	rom ( name avp.16 size 2097152 crc fb228297 sha1 ebd02a4ba085dc70c0603662e14d61625fa04648 )
+	rom ( name avp.18 size 2097152 crc 34fb7232 sha1 8b1f15bfa758a61e6ad519af24ca774edc70d194 )
+	rom ( name avp.20 size 2097152 crc f90baa21 sha1 20a900819a9d321316e3dfd241210725d7191ecf )
+	rom ( name avp.01 size 131072 crc 2d3b4220 sha1 2b2d04d4282550fa9f6e1ad8528f20d1f2ac02eb )
+	rom ( name avp.11 size 2097152 crc 83499817 sha1 e65b0ebd61ddc748842a9d4d92404b5305307623 )
+	rom ( name avp.12 size 2097152 crc f4110d49 sha1 f27538776cc1ba8213f19f98728ed8c02508d3ac )
+)
+
+game (
+	name avspj
+	description "Alien vs. Predator (Japan 940520)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof avsp
+	romof avsp
+	rom ( name avpj.03d size 524288 crc 49799119 sha1 71a938b779291c3092ef6ef22935d89fd9c1186c )
+	rom ( name avpj.04d size 524288 crc 8cd2bba8 sha1 1ea493d0d4b6e202ad38843b93035fa3f7e1b8c7 )
+	rom ( name avp.05d merge avp.05d size 524288 crc fbfb5d7a sha1 5549bc9d780753bc9c10fba82588e5c3d4a2acb2 )
+	rom ( name avp.06 merge avp.06 size 524288 crc 190b817f sha1 9bcfc0a015ffba9cdac25b6270939a9690de5da7 )
+	rom ( name avpjx.03d size 524288 crc 94095fb0 sha1 06cc9951b7868bedf6185902a105ca003ecf6c62 )
+	rom ( name avpjx.04d size 524288 crc a56b00ae sha1 41c9f830129ad48f10bd0ac0b818328dc8e52e4c )
+	rom ( name avp.13 merge avp.13 size 2097152 crc 8f8b5ae4 sha1 457ce959aa5db3a003de7dda2b3799b2f1ae279b )
+	rom ( name avp.15 merge avp.15 size 2097152 crc b00280df sha1 bc1291a4a222d410bc99b6f1ed392067d9c3999e )
+	rom ( name avp.17 merge avp.17 size 2097152 crc 94403195 sha1 efaad001527a5eba8f626aea9037ac6ef9a2c295 )
+	rom ( name avp.19 merge avp.19 size 2097152 crc e1981245 sha1 809ccb7f10262e227d5e9d9f710e06f0e751f550 )
+	rom ( name avp.14 merge avp.14 size 2097152 crc ebba093e sha1 77aaf4197d1dae3321cf9c6d2b7967ee54cf3f30 )
+	rom ( name avp.16 merge avp.16 size 2097152 crc fb228297 sha1 ebd02a4ba085dc70c0603662e14d61625fa04648 )
+	rom ( name avp.18 merge avp.18 size 2097152 crc 34fb7232 sha1 8b1f15bfa758a61e6ad519af24ca774edc70d194 )
+	rom ( name avp.20 merge avp.20 size 2097152 crc f90baa21 sha1 20a900819a9d321316e3dfd241210725d7191ecf )
+	rom ( name avp.01 merge avp.01 size 131072 crc 2d3b4220 sha1 2b2d04d4282550fa9f6e1ad8528f20d1f2ac02eb )
+	rom ( name avp.11 merge avp.11 size 2097152 crc 83499817 sha1 e65b0ebd61ddc748842a9d4d92404b5305307623 )
+	rom ( name avp.12 merge avp.12 size 2097152 crc f4110d49 sha1 f27538776cc1ba8213f19f98728ed8c02508d3ac )
+)
+
+game (
+	name avspu
+	description "Alien vs. Predator (US 940520)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof avsp
+	romof avsp
+	rom ( name avpu.03d size 524288 crc 42757950 sha1 e6acae73a300c0e07c21f776e6aa87628184b152 )
+	rom ( name avpu.04d size 524288 crc 5abcdee6 sha1 205e1ac8f4e359fd04e3a1e12425ba0b8330b1c1 )
+	rom ( name avp.05d merge avp.05d size 524288 crc fbfb5d7a sha1 5549bc9d780753bc9c10fba82588e5c3d4a2acb2 )
+	rom ( name avp.06 merge avp.06 size 524288 crc 190b817f sha1 9bcfc0a015ffba9cdac25b6270939a9690de5da7 )
+	rom ( name avpux.03d size 524288 crc d5b01046 sha1 59ddf1949fcbd5aae344696bcac9659d33884eed )
+	rom ( name avpux.04d size 524288 crc 94bd7603 sha1 4662c6a21f32eaac3127593079d72800758293bb )
+	rom ( name avp.13 merge avp.13 size 2097152 crc 8f8b5ae4 sha1 457ce959aa5db3a003de7dda2b3799b2f1ae279b )
+	rom ( name avp.15 merge avp.15 size 2097152 crc b00280df sha1 bc1291a4a222d410bc99b6f1ed392067d9c3999e )
+	rom ( name avp.17 merge avp.17 size 2097152 crc 94403195 sha1 efaad001527a5eba8f626aea9037ac6ef9a2c295 )
+	rom ( name avp.19 merge avp.19 size 2097152 crc e1981245 sha1 809ccb7f10262e227d5e9d9f710e06f0e751f550 )
+	rom ( name avp.14 merge avp.14 size 2097152 crc ebba093e sha1 77aaf4197d1dae3321cf9c6d2b7967ee54cf3f30 )
+	rom ( name avp.16 merge avp.16 size 2097152 crc fb228297 sha1 ebd02a4ba085dc70c0603662e14d61625fa04648 )
+	rom ( name avp.18 merge avp.18 size 2097152 crc 34fb7232 sha1 8b1f15bfa758a61e6ad519af24ca774edc70d194 )
+	rom ( name avp.20 merge avp.20 size 2097152 crc f90baa21 sha1 20a900819a9d321316e3dfd241210725d7191ecf )
+	rom ( name avp.01 merge avp.01 size 131072 crc 2d3b4220 sha1 2b2d04d4282550fa9f6e1ad8528f20d1f2ac02eb )
+	rom ( name avp.11 merge avp.11 size 2097152 crc 83499817 sha1 e65b0ebd61ddc748842a9d4d92404b5305307623 )
+	rom ( name avp.12 merge avp.12 size 2097152 crc f4110d49 sha1 f27538776cc1ba8213f19f98728ed8c02508d3ac )
+)
+
+game (
+	name batcirj
+	description "Battle Circuit (Japan 970319)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name btcj.03 size 524288 crc 6b7e168d sha1 7e95cc436d53d1ce34b575bc7e2b6e2a7ae06cfb )
+	rom ( name btcj.04 size 524288 crc 46ba3467 sha1 0cc4a6c82f110d2334fd81f2d3abe5de882768bd )
+	rom ( name btcj.05 size 524288 crc 0e23a859 sha1 6c7eec9bf823c66fddbc6b297ea6aa883d03bff5 )
+	rom ( name btcj.06 size 524288 crc a853b59c sha1 841c178722d4850994afee90ef3079607d8847ed )
+	rom ( name btc.07 size 524288 crc 7322d5db sha1 473be1f1bf603bdd82451661a6206507f50ed2b6 )
+	rom ( name btc.08 size 524288 crc 6aac85ab sha1 ad02d4185c2b3664fb96350d8ad317d3939a7554 )
+	rom ( name btc.09 size 524288 crc 1203db08 sha1 fdbea14618b277132f9e010ef36c134a8ea42162 )
+	rom ( name btcjx.03 size 524288 crc 01482d08 sha1 72c0681722b4c4204a42c145d906e351ddb620de )
+	rom ( name btcjx.04 size 524288 crc 3d4c976b sha1 45f0f4beb47e3f24d53f44d01c828529a615fb45 )
+	rom ( name btcjx.05 size 524288 crc 5bf819e1 sha1 4afd2a80220e359be47d66c4f11d8e79abb8a874 )
+	rom ( name btcjx.06 size 524288 crc 5d2fd190 sha1 4c7413befe9010b15d1701d8784c9529a4d5a3dd )
+	rom ( name btc.13 size 4194304 crc dc705bad sha1 96e37147674bf9cd21c770897da59daac25d921a )
+	rom ( name btc.15 size 4194304 crc e5779a3c sha1 bbd7fbe061e751388d2f02434144daf9b1e36640 )
+	rom ( name btc.17 size 4194304 crc b33f4112 sha1 e501fd921c8bcede69946b029e05d422714c1040 )
+	rom ( name btc.19 size 4194304 crc a6fcdb7e sha1 7a28d5d7aa036d23d97fad17d0cdb8210dc8153a )
+	rom ( name btc.01 size 131072 crc 1e194310 sha1 3b29de0aca9dbca59d6b50fb2509e2a913c6b0af )
+	rom ( name btc.02 size 131072 crc 01aeb8e6 sha1 50a5d1cce0caf7c5143d4904431e8f41e2a57464 )
+	rom ( name btc.11 size 2097152 crc c27f2229 sha1 df2459493af40937b6656a16fad43ff51bed2204 )
+	rom ( name btc.12 size 2097152 crc 418a2e33 sha1 0642ddff2ab9255f154419da24ba644ed63f34ab )
+)
+
+game (
+	name csclubj
+	description "Capcom Sports Club (Japan 970722)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name cscj.03 size 524288 crc ec4ddaa2 sha1 f84af8bd01cc994ecd6ac24e829e2bd33817d862 )
+	rom ( name cscj.04 size 524288 crc 60c632bb sha1 0d42c33aa476d2cc4efcdad78667353b88225966 )
+	rom ( name cscj.05 size 524288 crc ad042003 sha1 1e167c88f3b0617c38c9f43bdc816045ac0296e0 )
+	rom ( name cscj.06 size 524288 crc 169e4d40 sha1 6540d89df5e76189d32b696be7626087fe26e33b )
+	rom ( name csc.07 size 524288 crc 01b05caa sha1 5b84487da68e6b6f2889c76bf9e070e25941988c )
+	rom ( name cscjx.03 size 524288 crc 2de1d45d sha1 204574607d2dc45e233ed2f88fadc1d5a3790ba6 )
+	rom ( name cscjx.04 size 524288 crc 81b25d76 sha1 e81a5768c053cea10d340c6624e270dd5604c855 )
+	rom ( name cscjx.05 size 524288 crc 5adb1c93 sha1 734aff59e3819ca2250d1fe3e945bd0f0410deef )
+	rom ( name cscjx.06 size 524288 crc f5558f79 sha1 0cb75f19db9c83dffb998f6fc6dcf35a58d35dd9 )
+	rom ( name csc.14 size 2097152 crc e8904afa sha1 39713ffca4e3a754c7c44c0ef4d99fb5a77d8da7 )
+	rom ( name csc.16 size 2097152 crc c98c8079 sha1 22d68ba2ef62b51981bb3e99ec2cde8d1b36514b )
+	rom ( name csc.18 size 2097152 crc c030df5a sha1 6d5e5a05531e168d0d44c591f9185ae300908fc2 )
+	rom ( name csc.20 size 2097152 crc b4e55863 sha1 da66f0a36266b906e4c149aec152c323bb184c57 )
+	rom ( name csc.01 size 131072 crc ee162111 sha1 ce8d4bd32bb10ee8b0274ba6fcef05a583b39d48 )
+	rom ( name csc.11 size 2097152 crc a027b827 sha1 6d58a63efc7bd5d07353d9b55826c01a3c416c33 )
+	rom ( name csc.12 size 2097152 crc cb7f6e55 sha1 b64e6b663fd09e887d2dc0f4b545e88688c0af55 )
+)
+
+game (
+	name cscluba
+	description "Capcom Sports Club (Asia 970722)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof csclubj
+	romof csclubj
+	rom ( name csca.03 size 524288 crc b6acd708 sha1 27d316053b0e74b1e9db979d500767cfa49fbce3 )
+	rom ( name csca.04 size 524288 crc d44ae35f sha1 cd464792fe777183b0b0587239fb1b52bd7f9ec7 )
+	rom ( name csca.05 size 524288 crc 8da76aec sha1 04552f2c9c424d808703136a7909df903aec290a )
+	rom ( name csca.06 size 524288 crc a1b7b1ee sha1 77ba745f094a29521bb686982399b8b9babd7cc6 )
+	rom ( name csc.07 merge csc.07 size 524288 crc 01b05caa sha1 5b84487da68e6b6f2889c76bf9e070e25941988c )
+	rom ( name cscax.03 size 524288 crc 9f95b1e1 sha1 22cd75f030bbef6b9655dad4ac83fb7fcd083f05 )
+	rom ( name cscax.04 size 524288 crc 08e85ab2 sha1 e4e4062caefdc73b97e3dd374eef9ceda0a1f9fb )
+	rom ( name cscax.05 size 524288 crc 1b2fae1d sha1 3a345f7c5511150d034dd57369e2372bef837dee )
+	rom ( name cscax.06 size 524288 crc 9e548ba8 sha1 f40acdf2bd1820afe12c115b89678f46e64bd015 )
+	rom ( name csc.14 merge csc.14 size 2097152 crc e8904afa sha1 39713ffca4e3a754c7c44c0ef4d99fb5a77d8da7 )
+	rom ( name csc.16 merge csc.16 size 2097152 crc c98c8079 sha1 22d68ba2ef62b51981bb3e99ec2cde8d1b36514b )
+	rom ( name csc.18 merge csc.18 size 2097152 crc c030df5a sha1 6d5e5a05531e168d0d44c591f9185ae300908fc2 )
+	rom ( name csc.20 merge csc.20 size 2097152 crc b4e55863 sha1 da66f0a36266b906e4c149aec152c323bb184c57 )
+	rom ( name csc.01 merge csc.01 size 131072 crc ee162111 sha1 ce8d4bd32bb10ee8b0274ba6fcef05a583b39d48 )
+	rom ( name csc.11 merge csc.11 size 2097152 crc a027b827 sha1 6d58a63efc7bd5d07353d9b55826c01a3c416c33 )
+	rom ( name csc.12 merge csc.12 size 2097152 crc cb7f6e55 sha1 b64e6b663fd09e887d2dc0f4b545e88688c0af55 )
+)
+
+game (
+	name cybotsj
+	description "Cyberbots: Fullmetal Madness (Japan 950420)"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name cybj.03 size 524288 crc 6096eada sha1 ea3fa2e6229d90cc3f69c59f447b6b373d64d2aa )
+	rom ( name cybj.04 size 524288 crc 7b0ffaa9 sha1 595c3e679ea02282bf8a5aa6c7c09e5c30e839c7 )
+	rom ( name cybj.05 size 524288 crc ec40408e sha1 dd611c1708e7ef86e4f7cac4b7b0dff7baaee5ed )
+	rom ( name cybj.06 size 524288 crc 1ad0bed2 sha1 2ea005f3e73b05f8f0ec006cd9e95f7731a73897 )
+	rom ( name cybj.07 size 524288 crc 6245a39a sha1 4f607e733e2dea80211497522be6d0f09571928d )
+	rom ( name cybj.08 size 524288 crc 4b48e223 sha1 9714579a7a78b9716e44bca6c18bf1a93aa4e482 )
+	rom ( name cybj.09 size 524288 crc e15238f6 sha1 16abd92ebed921a6a7e8eac4b098dc61f7e5485c )
+	rom ( name cybj.10 size 524288 crc 75f4003b sha1 8a65026ae35247cda016ce85a34034c62b3aa1a6 )
+	rom ( name cybjx.03 size 524288 crc 867c9acd sha1 3a494d96ceb3adc8209101792bfbd54768f044e3 )
+	rom ( name cybjx.04 size 524288 crc 57ed677f sha1 4edae387d0399ab58c07928bea28b77937602af9 )
+	rom ( name cyb.13 size 4194304 crc f0dce192 sha1 b743938dc8e772dc3f63ed88a4a54c34fffdba21 )
+	rom ( name cyb.15 size 4194304 crc 187aa39c sha1 80e3cf5c69f13343de667e1476bb716d45d3ff63 )
+	rom ( name cyb.17 size 4194304 crc 8a0e4b12 sha1 40132f3cc79b0a74460ebd4e0d4ddbe240efc06f )
+	rom ( name cyb.19 size 4194304 crc 34b62612 sha1 154bbceb7d303a208abb1b2f3d507d5afacc71ed )
+	rom ( name cyb.14 size 4194304 crc c1537957 sha1 bfb1cc6786277b94ce28bfd464e2bbb6f6d3486e )
+	rom ( name cyb.16 size 4194304 crc 15349e86 sha1 b0cde577d29a9f4e718b673c8645529ef0ababc9 )
+	rom ( name cyb.18 size 4194304 crc d83e977d sha1 e03f4a120c95a2f476ffc8492bca85e0c5cea068 )
+	rom ( name cyb.20 size 4194304 crc 77cdad5c sha1 94d0cc5f05de4bc2d43977d91f887005dc10310c )
+	rom ( name cyb.01 size 131072 crc 9c0fb079 sha1 06d260875a76da08d56ea2b2ae277e8c2dbae6e3 )
+	rom ( name cyb.02 size 131072 crc 51cb0c4e sha1 c322957558d8d3e9dad090aebbe485978cbce8f5 )
+	rom ( name cyb.11 size 2097152 crc 362ccab2 sha1 28e537067d4846f22657ee37166d18b8f05f4da1 )
+	rom ( name cyb.12 size 2097152 crc 7066e9cc sha1 eb6a9d4998b3311344d73bae88d661d81609c492 )
+)
+
+game (
+	name ddsom
+	description "Dungeons & Dragons: Shadow over Mystara (Euro 960209)"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name dd2e.03b size 524288 crc cd2deb66 sha1 8a3fa5aca364f11bea76f69504e82416efc0ec11 )
+	rom ( name dd2e.04d size 524288 crc bfee43cc sha1 16cb34103bede42599ff3083a70ff918fdce9929 )
+	rom ( name dd2e.05b size 524288 crc 049ab19d sha1 dfd2ed64c409389fed9b1d96955cbe0cf2abd2b7 )
+	rom ( name dd2e.06d size 524288 crc 3994fb8b sha1 9b864f6cbd9b12d9409fcc2739e12f9a0775f205 )
+	rom ( name dd2e.07 size 524288 crc bb777a02 sha1 4b2c65a9129fc2262b35be1c10d06f60f5108981 )
+	rom ( name dd2e.08 size 524288 crc 30970890 sha1 fd366a9323230f6997006ab4cc216f9a97865ebe )
+	rom ( name dd2e.09 size 524288 crc 99e2194d sha1 cbcecdf5beeac3eac6c2c3fa395710e1b8347531 )
+	rom ( name dd2e.10 size 524288 crc e198805e sha1 37ae9d88d98c59337b657cfa6feb56e4f9cae95f )
+	rom ( name dd2ex.03b size 524288 crc e4924c80 sha1 de7cf9a9aac67cb50b34af69e9569a1fcd1f562d )
+	rom ( name dd2ex.04d size 524288 crc 13c8b16f sha1 75d6a97935a0798eec5dadc628c5f0a539c9fabc )
+	rom ( name dd2.13 size 4194304 crc a46b4e6e sha1 fb90f42868c581c481b4ceff9f692753fb186b30 )
+	rom ( name dd2.15 size 4194304 crc d5fc50fc sha1 bc692f17b18bb47a724cd5152377cd5ccd6e184a )
+	rom ( name dd2.17 size 4194304 crc 837c0867 sha1 3d6db290a8f76299a23543f0ccf6a7905e1088ac )
+	rom ( name dd2.19 size 4194304 crc bb0ec21c sha1 e43ccc1cf63ccd2b504cc9fd701af849a7321914 )
+	rom ( name dd2.14 size 2097152 crc 6d824ce2 sha1 0ccfe6c8a944937718e28a1a373b5822c7b7001b )
+	rom ( name dd2.16 size 2097152 crc 79682ae5 sha1 ee84f4791c29ce9e2bae06ba3ec47ff4d2cd7054 )
+	rom ( name dd2.18 size 2097152 crc acddd149 sha1 7f50de9b2d1cc733594c642be1804190519caffa )
+	rom ( name dd2.20 size 2097152 crc 117fb0c0 sha1 15c01fa1a71b6469b0e1bde0ce5835c5ff9d938c )
+	rom ( name dd2.01 size 131072 crc 99d657e5 sha1 1528dd6b07a0e79951a35c0457c8a9c9770e9c78 )
+	rom ( name dd2.02 size 131072 crc 117a3824 sha1 14f3a12170b601c5466c93af9d2f24e0b386b4e4 )
+	rom ( name dd2.11 size 2097152 crc 98d0c325 sha1 7406e8d943d77c468eb418c4113261f4ab973bbf )
+	rom ( name dd2.12 size 2097152 crc 5ea2e7fa sha1 0e6a9fd007f637adcb2226c902394f07de45e803 )
+)
+
+game (
+	name ddsomjr1
+	description "Dungeons & Dragons: Shadow over Mystara (Japan 960206)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof ddsom
+	romof ddsom
+	rom ( name dd2j.03b size 524288 crc 965d74e5 sha1 d7aa1b78043cdf09ee71a6dd5fe78e0588ca7875 )
+	rom ( name dd2j.04b size 524288 crc 958eb8f3 sha1 3d9747bc9091b0b42c953a19992b94cb2bf69159 )
+	rom ( name dd2j.05b size 524288 crc d38571ca sha1 f0105a4f201e11f489e44c8061b0025de2e32f93 )
+	rom ( name dd2j.06b size 524288 crc 6d5a3bbb sha1 549e31398e706a80d41db6600555e27e902c335c )
+	rom ( name dd2.07 size 524288 crc 909a0b8b sha1 58bda17c36063a79df8b5031755c7909a9bda221 )
+	rom ( name dd2.08 size 524288 crc e53c4d01 sha1 bad872e4e793a39f68bc0e580772e982714b5876 )
+	rom ( name dd2.09 size 524288 crc 5f86279f sha1 c2a454e5f821b1cdd49f2cf0602e9bfb7ba63340 )
+	rom ( name dd2.10 size 524288 crc ad954c26 sha1 468c01735dbdb1114b37060546a660678290a97f )
+	rom ( name dd2jx.03b size 524288 crc a63488bb sha1 2b224a9f405a5ae67c99f67885c5fc0536d2207c )
+	rom ( name dd2jx.04b size 524288 crc e3ff7985 sha1 3fbe184d7a066cb929239066ee2fccfd1d0314e6 )
+	rom ( name dd2.13 merge dd2.13 size 4194304 crc a46b4e6e sha1 fb90f42868c581c481b4ceff9f692753fb186b30 )
+	rom ( name dd2.15 merge dd2.15 size 4194304 crc d5fc50fc sha1 bc692f17b18bb47a724cd5152377cd5ccd6e184a )
+	rom ( name dd2.17 merge dd2.17 size 4194304 crc 837c0867 sha1 3d6db290a8f76299a23543f0ccf6a7905e1088ac )
+	rom ( name dd2.19 merge dd2.19 size 4194304 crc bb0ec21c sha1 e43ccc1cf63ccd2b504cc9fd701af849a7321914 )
+	rom ( name dd2.14 merge dd2.14 size 2097152 crc 6d824ce2 sha1 0ccfe6c8a944937718e28a1a373b5822c7b7001b )
+	rom ( name dd2.16 merge dd2.16 size 2097152 crc 79682ae5 sha1 ee84f4791c29ce9e2bae06ba3ec47ff4d2cd7054 )
+	rom ( name dd2.18 merge dd2.18 size 2097152 crc acddd149 sha1 7f50de9b2d1cc733594c642be1804190519caffa )
+	rom ( name dd2.20 merge dd2.20 size 2097152 crc 117fb0c0 sha1 15c01fa1a71b6469b0e1bde0ce5835c5ff9d938c )
+	rom ( name dd2.01 merge dd2.01 size 131072 crc 99d657e5 sha1 1528dd6b07a0e79951a35c0457c8a9c9770e9c78 )
+	rom ( name dd2.02 merge dd2.02 size 131072 crc 117a3824 sha1 14f3a12170b601c5466c93af9d2f24e0b386b4e4 )
+	rom ( name dd2.11 merge dd2.11 size 2097152 crc 98d0c325 sha1 7406e8d943d77c468eb418c4113261f4ab973bbf )
+	rom ( name dd2.12 merge dd2.12 size 2097152 crc 5ea2e7fa sha1 0e6a9fd007f637adcb2226c902394f07de45e803 )
+)
+
+game (
+	name ddsomu
+	description "Dungeons & Dragons: Shadow over Mystara (US 960209)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof ddsom
+	romof ddsom
+	rom ( name dd2u.03d size 524288 crc 0f700d84 sha1 f4788d4046e0f6aba146c18a930196f5f9f8f14a )
+	rom ( name dd2u.04d size 524288 crc b99eb254 sha1 507ad31b0d77dfbaaaf0fa5830c4ef14845a80de )
+	rom ( name dd2u.05d size 524288 crc b23061f3 sha1 471a1238770a5109f34a0b450b214a5490cc6ecb )
+	rom ( name dd2u.06d size 524288 crc 8bf1d8ce sha1 384dda9dfa2a851d30432f29bba456e138a5ca28 )
+	rom ( name dd2.07 size 524288 crc 909a0b8b sha1 58bda17c36063a79df8b5031755c7909a9bda221 )
+	rom ( name dd2.08 size 524288 crc e53c4d01 sha1 bad872e4e793a39f68bc0e580772e982714b5876 )
+	rom ( name dd2.09 size 524288 crc 5f86279f sha1 c2a454e5f821b1cdd49f2cf0602e9bfb7ba63340 )
+	rom ( name dd2.10 size 524288 crc ad954c26 sha1 468c01735dbdb1114b37060546a660678290a97f )
+	rom ( name dd2ux.03d size 524288 crc 5cecbdb3 sha1 61a9e42711bd0b92244a269948e843b302566c3d )
+	rom ( name dd2ux.04d size 524288 crc 1307a77d sha1 5c0330c4ef657fa8af27c540f98d8c25f83e5994 )
+	rom ( name dd2.13 merge dd2.13 size 4194304 crc a46b4e6e sha1 fb90f42868c581c481b4ceff9f692753fb186b30 )
+	rom ( name dd2.15 merge dd2.15 size 4194304 crc d5fc50fc sha1 bc692f17b18bb47a724cd5152377cd5ccd6e184a )
+	rom ( name dd2.17 merge dd2.17 size 4194304 crc 837c0867 sha1 3d6db290a8f76299a23543f0ccf6a7905e1088ac )
+	rom ( name dd2.19 merge dd2.19 size 4194304 crc bb0ec21c sha1 e43ccc1cf63ccd2b504cc9fd701af849a7321914 )
+	rom ( name dd2.14 merge dd2.14 size 2097152 crc 6d824ce2 sha1 0ccfe6c8a944937718e28a1a373b5822c7b7001b )
+	rom ( name dd2.16 merge dd2.16 size 2097152 crc 79682ae5 sha1 ee84f4791c29ce9e2bae06ba3ec47ff4d2cd7054 )
+	rom ( name dd2.18 merge dd2.18 size 2097152 crc acddd149 sha1 7f50de9b2d1cc733594c642be1804190519caffa )
+	rom ( name dd2.20 merge dd2.20 size 2097152 crc 117fb0c0 sha1 15c01fa1a71b6469b0e1bde0ce5835c5ff9d938c )
+	rom ( name dd2.01 merge dd2.01 size 131072 crc 99d657e5 sha1 1528dd6b07a0e79951a35c0457c8a9c9770e9c78 )
+	rom ( name dd2.02 merge dd2.02 size 131072 crc 117a3824 sha1 14f3a12170b601c5466c93af9d2f24e0b386b4e4 )
+	rom ( name dd2.11 merge dd2.11 size 2097152 crc 98d0c325 sha1 7406e8d943d77c468eb418c4113261f4ab973bbf )
+	rom ( name dd2.12 merge dd2.12 size 2097152 crc 5ea2e7fa sha1 0e6a9fd007f637adcb2226c902394f07de45e803 )
+)
+
+game (
+	name ddtod
+	description "Dungeons & Dragons: Tower of Doom (Euro 940412)"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name dade.03c size 524288 crc 8e73533d sha1 6eece222e562dd0c453d8dec188c9553c46dfe3c )
+	rom ( name dade.04c size 524288 crc 00c2e82e sha1 fad4dcdac8d6ef04b71e987936bf27e3d93809fc )
+	rom ( name dade.05c size 524288 crc ea996008 sha1 9f41679531e971e62483415c07ef4ee7489ff779 )
+	rom ( name dade.06a size 524288 crc 6225495a sha1 a9a02abb072e3482ac92d7aed8ce9a5bcf636bc0 )
+	rom ( name dade.07a size 524288 crc b3480ec3 sha1 a66f8dba67101fd71c2af4f3c3d71e55778a9f2c )
+	rom ( name dadex.03c size 524288 crc 7b8b9b2c sha1 56abd1c1db0ded9d504ee8d7eaedf6798d646118 )
+	rom ( name dadex.04c size 524288 crc 370626d3 sha1 a858658af04e96e905e0db0ccd896989760b9f99 )
+	rom ( name dadex.05c size 524288 crc 5fd29e95 sha1 7a7ef9ee84ce23e19a1a8b3b2a35f5d2fc14e5d9 )
+	rom ( name dad.13 size 2097152 crc da3cb7d6 sha1 d59bb53d5f32889eb6eb7f8b1c8781948c97283d )
+	rom ( name dad.15 size 2097152 crc 92b63172 sha1 9bed7dbbb17729f2ad3d318396f5335c0bd39937 )
+	rom ( name dad.17 size 2097152 crc b98757f5 sha1 3eead22e097906bf0e1e151cd0a9c75abc5a32d4 )
+	rom ( name dad.19 size 2097152 crc 8121ce46 sha1 40c4dc969318d38f0c6d5401c9c64371f51aa12c )
+	rom ( name dad.14 size 1048576 crc 837e6f3f sha1 c060183474fba0e82d765b9f282b84838550dff6 )
+	rom ( name dad.16 size 1048576 crc f0916bdb sha1 9354d258dd26cbbf12c78ecfc277c357cbdb360e )
+	rom ( name dad.18 size 1048576 crc cef393ef sha1 830b33c86cc24776d17ad65fa89a3b16c40446a1 )
+	rom ( name dad.20 size 1048576 crc 8953fe9e sha1 f4795beb006335d13e3934aa9760e775eb0bb950 )
+	rom ( name dad.01 size 131072 crc 3f5e2424 sha1 4aa744576bc6752c43a90a27a816ebd90076b248 )
+	rom ( name dad.11 size 2097152 crc 0c499b67 sha1 a8ebd8a1cd6dece8344b7cb0439d85843fb97616 )
+	rom ( name dad.12 size 2097152 crc 2f0b5a4e sha1 8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2 )
+)
+
+game (
+	name ddtodj
+	description "Dungeons & Dragons: Tower of Doom (Japan 940113)"
+	year 1993
+	manufacturer "Capcom"
+	cloneof ddtod
+	romof ddtod
+	rom ( name dadj.03a size 524288 crc 711638dc sha1 30c1d1a694aa8e51d072b26b47ba55aed6d77b7b )
+	rom ( name dadj.04a size 524288 crc 4869639c sha1 1544813e6712a78267c1d27b6b49148d42c11127 )
+	rom ( name dadj.05a size 524288 crc 484c0efa sha1 d4ddef54149ef0141dcbe05df5f669fccf462559 )
+	rom ( name dad.06 size 524288 crc 13aa3e56 sha1 ccd3cda528d625bbf4dc0e8c5ad629af6080d705 )
+	rom ( name dad.07 size 524288 crc 431cb6dd sha1 ad3342e2fb8f0b3d7f57e845d5b80a871923324d )
+	rom ( name dadjx.03a size 524288 crc 4c7334d3 sha1 83b11f0a78fd6c30dc5aaed92fec52ee38a6d034 )
+	rom ( name dadjx.04a size 524288 crc cfd15109 sha1 d16657ee83d6aa6a682b0aa6330d7cec7a0185de )
+	rom ( name dadjx.05a size 524288 crc d23bcd71 sha1 557fd7e8f76aa7aae940ff5ed80ec6e6d0957353 )
+	rom ( name dad.13 merge dad.13 size 2097152 crc da3cb7d6 sha1 d59bb53d5f32889eb6eb7f8b1c8781948c97283d )
+	rom ( name dad.15 merge dad.15 size 2097152 crc 92b63172 sha1 9bed7dbbb17729f2ad3d318396f5335c0bd39937 )
+	rom ( name dad.17 merge dad.17 size 2097152 crc b98757f5 sha1 3eead22e097906bf0e1e151cd0a9c75abc5a32d4 )
+	rom ( name dad.19 merge dad.19 size 2097152 crc 8121ce46 sha1 40c4dc969318d38f0c6d5401c9c64371f51aa12c )
+	rom ( name dad.14 merge dad.14 size 1048576 crc 837e6f3f sha1 c060183474fba0e82d765b9f282b84838550dff6 )
+	rom ( name dad.16 merge dad.16 size 1048576 crc f0916bdb sha1 9354d258dd26cbbf12c78ecfc277c357cbdb360e )
+	rom ( name dad.18 merge dad.18 size 1048576 crc cef393ef sha1 830b33c86cc24776d17ad65fa89a3b16c40446a1 )
+	rom ( name dad.20 merge dad.20 size 1048576 crc 8953fe9e sha1 f4795beb006335d13e3934aa9760e775eb0bb950 )
+	rom ( name dad.01 merge dad.01 size 131072 crc 3f5e2424 sha1 4aa744576bc6752c43a90a27a816ebd90076b248 )
+	rom ( name dad.11 merge dad.11 size 2097152 crc 0c499b67 sha1 a8ebd8a1cd6dece8344b7cb0439d85843fb97616 )
+	rom ( name dad.12 merge dad.12 size 2097152 crc 2f0b5a4e sha1 8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2 )
+)
+
+game (
+	name ddtodu
+	description "Dungeons & Dragons: Tower of Doom (US 940125)"
+	year 1993
+	manufacturer "Capcom"
+	cloneof ddtod
+	romof ddtod
+	rom ( name dadu.03b size 524288 crc a519905f sha1 7f846d7ac5d5e0d06657f712a7a09bee984a4f4b )
+	rom ( name dadu.04b size 524288 crc 52562d38 sha1 3ee21399a19ee5e2db2a8c2a893d8a31a3419399 )
+	rom ( name dadu.05b size 524288 crc ee1cfbfe sha1 4107e495827ada1712a2393dffcdf52d98aca2e0 )
+	rom ( name dad.06 size 524288 crc 13aa3e56 sha1 ccd3cda528d625bbf4dc0e8c5ad629af6080d705 )
+	rom ( name dad.07 size 524288 crc 431cb6dd sha1 ad3342e2fb8f0b3d7f57e845d5b80a871923324d )
+	rom ( name dadux.03b size 524288 crc f59ee70c sha1 df902b8c10f9fcfa738b26b65233e4b67c0ef163 )
+	rom ( name dadux.04b size 524288 crc 622628ae sha1 f2d0f99acee91331c6e198b4c63332c50cdac076 )
+	rom ( name dadux.05b size 524288 crc 424bd6e3 sha1 fcd1705654b88f14927d19fa4ea2bc891728bcdf )
+	rom ( name dad.13 merge dad.13 size 2097152 crc da3cb7d6 sha1 d59bb53d5f32889eb6eb7f8b1c8781948c97283d )
+	rom ( name dad.15 merge dad.15 size 2097152 crc 92b63172 sha1 9bed7dbbb17729f2ad3d318396f5335c0bd39937 )
+	rom ( name dad.17 merge dad.17 size 2097152 crc b98757f5 sha1 3eead22e097906bf0e1e151cd0a9c75abc5a32d4 )
+	rom ( name dad.19 merge dad.19 size 2097152 crc 8121ce46 sha1 40c4dc969318d38f0c6d5401c9c64371f51aa12c )
+	rom ( name dad.14 merge dad.14 size 1048576 crc 837e6f3f sha1 c060183474fba0e82d765b9f282b84838550dff6 )
+	rom ( name dad.16 merge dad.16 size 1048576 crc f0916bdb sha1 9354d258dd26cbbf12c78ecfc277c357cbdb360e )
+	rom ( name dad.18 merge dad.18 size 1048576 crc cef393ef sha1 830b33c86cc24776d17ad65fa89a3b16c40446a1 )
+	rom ( name dad.20 merge dad.20 size 1048576 crc 8953fe9e sha1 f4795beb006335d13e3934aa9760e775eb0bb950 )
+	rom ( name dad.01 merge dad.01 size 131072 crc 3f5e2424 sha1 4aa744576bc6752c43a90a27a816ebd90076b248 )
+	rom ( name dad.11 merge dad.11 size 2097152 crc 0c499b67 sha1 a8ebd8a1cd6dece8344b7cb0439d85843fb97616 )
+	rom ( name dad.12 merge dad.12 size 2097152 crc 2f0b5a4e sha1 8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2 )
+)
+
+game (
+	name ddtodur1
+	description "Dungeons & Dragons: Tower of Doom (US 940113)"
+	year 1993
+	manufacturer "Capcom"
+	cloneof ddtod
+	romof ddtod
+	rom ( name dadu.03a size 524288 crc 4413f177 sha1 26c8d06adc83ffc5bec4abf05aa64e874e85d539 )
+	rom ( name dadu.04a size 524288 crc 168de230 sha1 3f8af1625bb0d9097e538f8ba7cd23d95b0233aa )
+	rom ( name dadu.05a size 524288 crc 03d39e91 sha1 92461b87c55cb41bbe89bcb3e3f2e9b1ed521067 )
+	rom ( name dad.06 size 524288 crc 13aa3e56 sha1 ccd3cda528d625bbf4dc0e8c5ad629af6080d705 )
+	rom ( name dad.07 size 524288 crc 431cb6dd sha1 ad3342e2fb8f0b3d7f57e845d5b80a871923324d )
+	rom ( name dadux.03a size 524288 crc f9ba14b6 sha1 8e3648de732e44267119995a489f8c635643420d )
+	rom ( name dadux.04a size 524288 crc ed85ec29 sha1 001a360bcfa45904c6b2c6ab4d7e033c8dd93055 )
+	rom ( name dadux.05a size 524288 crc dbae3d1b sha1 c3fa5dc0ff88f05c1514449c050e8de3ff04fab5 )
+	rom ( name dad.13 merge dad.13 size 2097152 crc da3cb7d6 sha1 d59bb53d5f32889eb6eb7f8b1c8781948c97283d )
+	rom ( name dad.15 merge dad.15 size 2097152 crc 92b63172 sha1 9bed7dbbb17729f2ad3d318396f5335c0bd39937 )
+	rom ( name dad.17 merge dad.17 size 2097152 crc b98757f5 sha1 3eead22e097906bf0e1e151cd0a9c75abc5a32d4 )
+	rom ( name dad.19 merge dad.19 size 2097152 crc 8121ce46 sha1 40c4dc969318d38f0c6d5401c9c64371f51aa12c )
+	rom ( name dad.14 merge dad.14 size 1048576 crc 837e6f3f sha1 c060183474fba0e82d765b9f282b84838550dff6 )
+	rom ( name dad.16 merge dad.16 size 1048576 crc f0916bdb sha1 9354d258dd26cbbf12c78ecfc277c357cbdb360e )
+	rom ( name dad.18 merge dad.18 size 1048576 crc cef393ef sha1 830b33c86cc24776d17ad65fa89a3b16c40446a1 )
+	rom ( name dad.20 merge dad.20 size 1048576 crc 8953fe9e sha1 f4795beb006335d13e3934aa9760e775eb0bb950 )
+	rom ( name dad.01 merge dad.01 size 131072 crc 3f5e2424 sha1 4aa744576bc6752c43a90a27a816ebd90076b248 )
+	rom ( name dad.11 merge dad.11 size 2097152 crc 0c499b67 sha1 a8ebd8a1cd6dece8344b7cb0439d85843fb97616 )
+	rom ( name dad.12 merge dad.12 size 2097152 crc 2f0b5a4e sha1 8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2 )
+)
+
+game (
+	name dstlk
+	description "Darkstalkers: The Night Warriors (Euro 940705)"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name vame.03a size 524288 crc 004c9cff sha1 9cab8ab734b29abf321b47e46271dab549bf46df )
+	rom ( name vame.04a size 524288 crc ae413ff2 sha1 e9b85ac04d6d1a57368c70aa24e3ab8a8d67409f )
+	rom ( name vame.05a size 524288 crc 60678756 sha1 5d10829ad7522b5de3b318dd8cbf1b506ba4c2d4 )
+	rom ( name vame.06a size 524288 crc 912870b3 sha1 9c7620c7e25d236050411ba94fbc5b3b501970a3 )
+	rom ( name vame.07a size 524288 crc dabae3e8 sha1 126f8433491db36649f5e1908bbe45eb123048e4 )
+	rom ( name vame.08a size 524288 crc 2c6e3077 sha1 d8042312ec546e3e807e3ef0a14af9b4f716e415 )
+	rom ( name vame.09a size 524288 crc f16db74b sha1 7b7e31916a61e7fb35ec20849c6d22d74e169ec0 )
+	rom ( name vame.10a size 524288 crc 701e2147 sha1 c0a0603e01fbed67a600b83902091c1073e2ed27 )
+	rom ( name vamex.03a size 524288 crc 2d1e4919 sha1 804c573caf4f93df55159ba09f237951edc18de0 )
+	rom ( name vamex.04a size 524288 crc e5172837 sha1 d9f06ddad9f8ba9277dc8b4afb75a3a47f7f5415 )
+	rom ( name vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name dstlka
+	description "Darkstalkers: The Night Warriors (Asia 940705)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof dstlk
+	romof dstlk
+	rom ( name vama.03a size 524288 crc 294e0bec sha1 e90844cd18ad431e999e606d076738384b346b9d )
+	rom ( name vama.04a size 524288 crc bc18e128 sha1 53116cddb7123b573d76064640c3829fd978c67a )
+	rom ( name vama.05a size 524288 crc e709fa59 sha1 824d2b22c5627b9dba046b76c1ff5a46f577eddd )
+	rom ( name vama.06a size 524288 crc 55e4d387 sha1 c8b9be072e5de44e6d50f7a80d4c79ae1449588e )
+	rom ( name vama.07a size 524288 crc 24e8f981 sha1 5dd28efa325fded290d9eb1643be83ab84a2ac8e )
+	rom ( name vama.08a size 524288 crc 743f3a8e sha1 f7bde0f989582ba2cf93c9397cc38d3eec9ad92d )
+	rom ( name vama.09a size 524288 crc 67fa5573 sha1 2dab32cf0d361d2c52cce5eb41b389a0e32dd192 )
+	rom ( name vama.10a size 524288 crc 5e03d747 sha1 044ef85ca927108f5e66967819dbf7c25bb34f77 )
+	rom ( name vamax.03a size 524288 crc 9b7d6254 sha1 8208ee3f9da9a294f2cf2b64d42a3012673ffc85 )
+	rom ( name vamax.04a size 524288 crc d9ec3a82 sha1 4afaaa38a736efb7a21f771a190a54e40b57edcc )
+	rom ( name vam.13 merge vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 merge vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 merge vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 merge vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 merge vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 merge vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 merge vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 merge vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 merge vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 merge vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 merge vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 merge vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name dstlku
+	description "Darkstalkers: The Night Warriors (US 940818)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof dstlk
+	romof dstlk
+	rom ( name vamu.03b size 524288 crc 68a6343f sha1 9e1b13e3419470b3c14065c85342b2dcf42eb4cd )
+	rom ( name vamu.04b size 524288 crc 58161453 sha1 7b5674b8bdb7e3165e090105f6716073696d4bd0 )
+	rom ( name vamu.05b size 524288 crc dfc038b8 sha1 1b8911033a458f2d20f740c1bd1b3a2157d24b8a )
+	rom ( name vamu.06b size 524288 crc c3842c89 sha1 38137ae2c4ec2a6523413c0891287ad7ae70f005 )
+	rom ( name vamu.07b size 524288 crc 25b60b6e sha1 8b7dc014d1953a6f4c003811ef8813d46136959d )
+	rom ( name vamu.08b size 524288 crc 2113c596 sha1 6c0e5c406c08af922920500679eaa89e0b83f029 )
+	rom ( name vamu.09b size 524288 crc 2d1e9ae5 sha1 1c4aced7dd0356ee445ca1e5db2c3a2ad4ee56c6 )
+	rom ( name vamu.10b size 524288 crc 81145622 sha1 66c5439b564cea4b49c47db7e095283481d962c7 )
+	rom ( name vamux.03b size 524288 crc 15ff2d3e sha1 a9a8043430785e8b38070bacbe66601399286d37 )
+	rom ( name vamux.04b size 524288 crc 4cf62f1b sha1 b5ef1c9ac163435274ae26b90632afd5df063273 )
+	rom ( name vam.13 merge vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 merge vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 merge vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 merge vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 merge vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 merge vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 merge vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 merge vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 merge vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 merge vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 merge vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 merge vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name vampja
+	description "Vampire: The Night Warriors (Japan 940705 alt)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof dstlk
+	romof dstlk
+	rom ( name vamj.03a size 524288 crc f55d3722 sha1 e26bbcc47a2485914d567a6cf1cddd0f668689a1 )
+	rom ( name vamj.04a size 524288 crc fdcbdae3 sha1 46a1251a2affbe13b200448cf77a455d840f3c9f )
+	rom ( name vamj.05a size 524288 crc 6c497e92 sha1 7c1ccdfd77fb50afe024c8402376daaeab641a24 )
+	rom ( name vamj.06a size 524288 crc f1bbecb6 sha1 6adba89393e05f16f70b57085cabd6b4c20f53e8 )
+	rom ( name vamj.07a size 524288 crc 1067ad84 sha1 5e4cc75cfdfd512b6230c656e7304262b5143aee )
+	rom ( name vamj.08a size 524288 crc 4b89f41f sha1 bd78f33a6d448655eecf7448921d282b302fa4cb )
+	rom ( name vamj.09a size 524288 crc fc0a4aac sha1 a2c79eb4dc838c238e182a4da3567ac8db3488d8 )
+	rom ( name vamj.10a size 524288 crc 9270c26b sha1 c2a7e199a74c9f27704cf935483ebddc6da256a1 )
+	rom ( name vamjx.03a size 524288 crc 2549f7bc sha1 de2262756c61a4309a35d2548ed2cc68a7e924b7 )
+	rom ( name vamjx.04a size 524288 crc fe64a5cf sha1 f58c03bc27460826718ae91faa3d4bb28237c994 )
+	rom ( name vam.13 merge vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 merge vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 merge vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 merge vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 merge vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 merge vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 merge vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 merge vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 merge vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 merge vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 merge vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 merge vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name vampjr1
+	description "Vampire: The Night Warriors (Japan 940630)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof dstlk
+	romof dstlk
+	rom ( name vamj.03 size 524288 crc 8895bf77 sha1 7977dad8c4baf89f28668f54225233a8e759aa3e )
+	rom ( name vamj.04 size 524288 crc 5027db3d sha1 64bd09f2b5fd2435d8ec86f64543b640ab08f82f )
+	rom ( name vamj.05 size 524288 crc 97c66fdb sha1 fe5c099dd29797aef28a247913f8931aa8ce6160 )
+	rom ( name vamj.06 size 524288 crc 9b4c3426 sha1 a527535e5d23c3d12bac7617fd5d8e15c2522bbd )
+	rom ( name vamj.07 size 524288 crc 303bc4fd sha1 2e3b687c725d389afa7c3e1fe8720a53d0f40269 )
+	rom ( name vamj.08 size 524288 crc 3dea3646 sha1 3b3f7105284a04b12b3de40633bc8f21a8d73f58 )
+	rom ( name vamj.09 size 524288 crc c119a827 sha1 422864dda2a12621175350b8a130f970ed690719 )
+	rom ( name vamj.10 size 524288 crc 46593b79 sha1 ff003cc80ed4f3cfaff722b43a09076828c9a9d7 )
+	rom ( name vamjx.03 size 524288 crc f6fe646a sha1 3f67cad0deb128418a693eca3697a12e0f6be6b0 )
+	rom ( name vamjx.04 size 524288 crc 566014e5 sha1 11ba392b2537d2a88e87b1109dab31ac442dcbaf )
+	rom ( name vam.13 merge vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 merge vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 merge vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 merge vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 merge vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 merge vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 merge vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 merge vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 merge vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 merge vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 merge vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 merge vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name ecofghtr
+	description "Eco Fighters (World 931203)"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name uece.03 size 524288 crc ec2c1137 sha1 19c5b68cccd682d3996faf8c5f07a644b2384b1c )
+	rom ( name uece.04 size 524288 crc b35f99db sha1 4dd5c4840406a9323431f5bda7224cadacf8b419 )
+	rom ( name uece.05 size 524288 crc d9d42d31 sha1 58e7438fa212655ca56cbb477ea353e1083e0933 )
+	rom ( name uece.06 size 524288 crc 9d9771cf sha1 d1c76672f2e0437cd1204d5552d32ed3377c1356 )
+	rom ( name uecex.03 size 524288 crc e0ff3d51 sha1 fe1ebbed46d44ade3b6de8d326c7d25217bda104 )
+	rom ( name uecex.04 size 524288 crc b9f998e8 sha1 ef617f18822546a0bf233d315a6d9edfbf704abd )
+	rom ( name uecex.05 size 524288 crc 12410260 sha1 19ae7d8f175804f464dd07bc6c1b7b250f511b5f )
+	rom ( name uecex.06 size 524288 crc d5b4b1a2 sha1 0093f805e4ca60b522586de12cdf3a7c8bea6395 )
+	rom ( name uec.13 size 2097152 crc dcaf1436 sha1 ba124cc0bb10c1d1c07592a3623add4ed054182e )
+	rom ( name uec.15 size 2097152 crc 2807df41 sha1 66a9800af435055737ce50a0b0ced7c5718c2004 )
+	rom ( name uec.17 size 2097152 crc 8a708d02 sha1 95ec527edc904a66e325667521b4d07d72579211 )
+	rom ( name uec.19 size 2097152 crc de7be0ef sha1 bf8df9a31f8923f4b726ea12fe8327368463ebe1 )
+	rom ( name uec.14 size 1048576 crc 1a003558 sha1 64bbd89e65dc0cf6f4ab5ea93a4cc6312d0d0802 )
+	rom ( name uec.16 size 1048576 crc 4ff8a6f9 sha1 03968a301417e8843d42d4e0db42aa0a3a38664b )
+	rom ( name uec.18 size 1048576 crc b167ae12 sha1 48c552d02caad27d680aa51170560794f2a51478 )
+	rom ( name uec.20 size 1048576 crc 1064bdc2 sha1 c51f75ac8d3f02a771feda0a933314a928555c4e )
+	rom ( name uec.01 size 131072 crc c235bd15 sha1 feb7cd7db9dc0b9887b33eed9796bb0205fb719d )
+	rom ( name uec.11 size 2097152 crc 81b25d39 sha1 448adfcc7d98873a48c710d857225cdd1580e5c9 )
+	rom ( name uec.12 size 2097152 crc 27729e52 sha1 a55c8159adf766dda70cb047f5ac85ce6bc0a3f3 )
+)
+
+game (
+	name ffight
+	description "Final Fight (World)"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name ff30-36.bin size 131072 crc f9a5ce83 sha1 0756ae576a1f6d5b8b22f8630dca40ef38567ea6 )
+	rom ( name ff35-42.bin size 131072 crc 65f11215 sha1 5045a467f3e228c02b4a355b52f58263ffa90113 )
+	rom ( name ff31-37.bin size 131072 crc e1033784 sha1 38f44434c8befd623953ae23d6e5ff4e201d6627 )
+	rom ( name ff36-43.bin size 131072 crc 995e968a sha1 de16873d1639ac1738be0937270b108a9914f263 )
+	rom ( name ff32-32m.bin size 524288 crc c747696e sha1 d3362dadded31ccb7eaf71ef282d698d18edd722 )
+	rom ( name ff05-05m.bin size 524288 crc 9c284108 sha1 7868f5801347340867720255f8380548ad1a65a7 )
+	rom ( name ff07-07m.bin size 524288 crc a7584dfb sha1 f7b00a3ca8cb85264ab293089f9f540a8292b49c )
+	rom ( name ff01-01m.bin size 524288 crc 0b605e44 sha1 5ce16af72858a57aefbf6efed820c2c51935882a )
+	rom ( name ff03-03m.bin size 524288 crc 52291cd2 sha1 df5f3d3aa96a7a33ff22f2a31382942c4c4f1111 )
+	rom ( name ff09-09.bin size 65536 crc b8367eb5 sha1 ec3db29fdd6200e9a8f4f8073a7e34aef731354f )
+	rom ( name ff18-18.bin size 131072 crc 375c66e7 sha1 36189e23209ce4ae5d9cbabd1574540d0591e7b3 )
+	rom ( name ff19-19.bin size 131072 crc 1ef137f9 sha1 974b5e72aa28b87ebfa7438efbdfeda769dedf5e )
+)
+
+game (
+	name goalx3
+	description "Goal! Goal! Goal!"
+	year 1995
+	manufacturer "Visco"
+	romof neogeo
+	rom ( name goal!_p1.rom size 2097152 crc 2a019a79 sha1 422a639e74284fef2e53e1b49cf8803b0a7e80c6 )
+	rom ( name goal!_s1.rom size 131072 crc c0eaad86 sha1 99412093c9707d51817893971e73fb8469cdc9d0 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name goal!_m1.rom size 65536 crc dd945773 sha1 2304d070864da79dceb29c64e8d71b7db0992d1e )
+	rom ( name goal!_v1.rom size 2097152 crc ef214212 sha1 3e05ccaa2d06decb18b379b96f900c0e6b39ce70 )
+	rom ( name goal!_c1.rom size 4194304 crc d061f1f5 sha1 7cde2f4c6cc54fb0ffbe1d407831d652610a3aaf )
+	rom ( name goal!_c2.rom size 4194304 crc 3f63c1a2 sha1 3ce2c66fb2bee3face976e9f8973ccc483101ae5 )
+	rom ( name goal!_c3.rom size 1048576 crc 5f91bace sha1 3864be27dce6d8f8828d3bf09bfc8116116a2b56 )
+	rom ( name goal!_c4.rom size 1048576 crc 1e9f76f2 sha1 b57fdc226bfe328b8848127fb4292295f1287bf6 )
+)
+
+game (
+	name kof94
+	description "The King of Fighters '94"
+	year 1994
+	manufacturer "SNK"
+	romof neogeo
+	rom ( name kof94_p1.rom size 2097152 crc f10a2042 sha1 d08a3f3c28be4b1793de7d362456281329fe1828 )
+	rom ( name kof94_s1.rom size 131072 crc 825976c1 sha1 cb6a70bdd95d449d25196ca269b621c362db6743 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name kof94_m1.rom size 131072 crc f6e77cf5 sha1 292a3e3a4918ffe72bd1c41acb927b91844e035e )
+	rom ( name kof94_v1.rom size 2097152 crc 8889596d sha1 c9ce713b720511438dbd3fe3bcc7c246f475c6a2 )
+	rom ( name kof94_v2.rom size 2097152 crc 25022b27 sha1 2b040a831c3c92ac6e4719de38009a0d55b64f6b )
+	rom ( name kof94_v3.rom size 2097152 crc 83cf32c0 sha1 34a31a37eb10945b5169e96321bcea06eec33a00 )
+	rom ( name kof94_c1.rom size 2097152 crc b96ef460 sha1 e52f5303c17b50ce165c008be2837336369c110b )
+	rom ( name kof94_c2.rom size 2097152 crc 15e096a7 sha1 237c2a3d059de00bfca66e0016ed325d7a32bfec )
+	rom ( name kof94_c3.rom size 2097152 crc 54f66254 sha1 c594384bcd8b03beb8c595591505fecc44b185ac )
+	rom ( name kof94_c4.rom size 2097152 crc 0b01765f sha1 ec1fdcc944611408367bf5023d4ebe7edd9dfa88 )
+	rom ( name kof94_c5.rom size 2097152 crc ee759363 sha1 8a5621c1b1f8267b9b9b6a14ab4944de542e1945 )
+	rom ( name kof94_c6.rom size 2097152 crc 498da52c sha1 1e6e6202ee053a5261db889177ce3a087e078bda )
+	rom ( name kof94_c7.rom size 2097152 crc 62f66888 sha1 ac91a0eab0753bee175ad40213a4ae5d38ed5b87 )
+	rom ( name kof94_c8.rom size 2097152 crc fe0a235d sha1 a45c66836e4e3c77dfef9d4c6cc422cb59169149 )
+)
+
+game (
+	name megaman
+	description "Mega Man - The Power Battle (Asia)"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name rcma_23b.rom size 524288 crc 61e4a397 sha1 a90b1cbef4206a4554398bc458a4b3e2c46d4c4f )
+	rom ( name rcma_22b.rom size 524288 crc 708268c4 sha1 554e011cad285b95dd1b6aa19be61b2413662a3a )
+	rom ( name rcma_21a.rom size 524288 crc 4376ea95 sha1 7370ceffca513aa9f68a74f6869d561476589200 )
+	rom ( name rcm_01.rom size 524288 crc 6ecdf13f sha1 2a8fe06bf5011e3f990f90d9224f91d8631ec0cc )
+	rom ( name rcm_02.rom size 524288 crc 944d4f0f sha1 665dc9a537e9c9b565f6136f939ff5c2861f875f )
+	rom ( name rcm_03.rom size 524288 crc 36f3073c sha1 457d68e63599d06a136e152a9ad60adac1c91edd )
+	rom ( name rcm_04.rom size 524288 crc 54e622ff sha1 36f6297e3d410f041be5e582919478b0d52520ca )
+	rom ( name rcm_05.rom size 524288 crc 5dd131fd sha1 1a7fc8cf38901245d40901996e946e7ad9c0e0c5 )
+	rom ( name rcm_06.rom size 524288 crc f0faf813 sha1 adff01c2ecc4c8ce6f8a50cbd07d8f8bb9f48168 )
+	rom ( name rcm_07.rom size 524288 crc 826de013 sha1 47f36b1d92a487c43c8dadc8293b8e6f40649286 )
+	rom ( name rcm_08.rom size 524288 crc fbff64cf sha1 f0cb531ef195dc1dcd224a208906a62fb5d199a1 )
+	rom ( name rcm_10.rom size 524288 crc 4dc8ada9 sha1 776c2b3ef24c2b8f390c05a9c6728b14ceec696e )
+	rom ( name rcm_11.rom size 524288 crc f2b9ee06 sha1 db315b00d1caed1a8c0f6e0ae726e8fa05b011fa )
+	rom ( name rcm_12.rom size 524288 crc fed5f203 sha1 23db14490519b5e2d0bb92ffe6e14540d1999e4b )
+	rom ( name rcm_13.rom size 524288 crc 5069d4a9 sha1 b832b98be94371af52bd4bb911e18ec57430a7db )
+	rom ( name rcm_14.rom size 524288 crc 303be3bd sha1 1e5c3fd71966ea9f457840c40582795b501c323e )
+	rom ( name rcm_15.rom size 524288 crc 4f2d372f sha1 db6a94d1f92c1b96e404b38ebcb1eedbec3ae6cc )
+	rom ( name rcm_16.rom size 524288 crc 93d97fde sha1 e4be5216f98ad08a9118d629d398be2bd54e2e2a )
+	rom ( name rcm_17.rom size 524288 crc 92371042 sha1 c55833cbaddcc986edd23c009a3e3c7ff09c2708 )
+	rom ( name rcm_09.rom size 131072 crc 9632d6ef sha1 2bcb6f17005ffbc9ef8fa4478a814f24b2e6e0b6 )
+	rom ( name rcm_18.rom size 131072 crc 80f1f8aa sha1 4a5b7b2a6941ad68da7472c63362c7bcd353fa54 )
+	rom ( name rcm_19.rom size 131072 crc f257dbe1 sha1 967def6b6f93039dbc46373caabeb3301577be75 )
+)
+
+game (
+	name mshvsf
+	description "Marvel Super Heroes Vs. Street Fighter (US 970625)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name mvsu.03d size 524288 crc ae60a66a sha1 1fa7e6534d02ec8059153705b1161a55b9cfe803 )
+	rom ( name mvsu.04d size 524288 crc 91f67d8a sha1 e95f7a3fb281e1bafdbe7a1b22532c4fab5ec89d )
+	rom ( name mvs.05a size 524288 crc 1a5de0cb sha1 738a27f83704c208d36d73bf766d861ef2d51a89 )
+	rom ( name mvs.06a size 524288 crc 959f3030 sha1 fbbaa915324815246738f3426232e623f039ce26 )
+	rom ( name mvs.07b size 524288 crc 7f915bdb sha1 683da09c5ba55e31b59aa95a8e13c45dc574ab3c )
+	rom ( name mvs.08a size 524288 crc c2813884 sha1 49e5d4bc48f90c8146cb6aafb9240aff0119f1a7 )
+	rom ( name mvs.09b size 524288 crc 3ba08818 sha1 9ab132a3cac55fcccebe6c99b6fb0ba1305f8f6e )
+	rom ( name mvs.10b size 524288 crc cf0dba98 sha1 f4c1f8a6e7a79ecc6241d5268b3039f8a09ea516 )
+	rom ( name mvsux.03d size 524288 crc 281bcb48 sha1 060ab490ecd29a4d088309d45fa595a2d3e7afd2 )
+	rom ( name mvsux.04d size 524288 crc a2d68628 sha1 f703a41833148138276fa6118a9317cb36a69ec6 )
+	rom ( name mvs.13 size 4194304 crc 29b05fd9 sha1 e8fdb1ee5515a560eb4256ae4fd99bb1192e1a87 )
+	rom ( name mvs.15 size 4194304 crc faddccf1 sha1 4ed03ea91883a0413325f57edcc1614120b5922c )
+	rom ( name mvs.17 size 4194304 crc 97aaf4c7 sha1 6a054921cc14fe080cb3f62c391f8ae3cc7e8ba9 )
+	rom ( name mvs.19 size 4194304 crc cb70e915 sha1 da4d2480d348ac6dfd01256a88f4f3db8357ae46 )
+	rom ( name mvs.14 size 4194304 crc b3b1972d sha1 0f2c3fb7de014181ee481ec35d0578b2c116c2dc )
+	rom ( name mvs.16 size 4194304 crc 08aadb5d sha1 3a2c222eca3e7df80ce69951b3db6442312751a4 )
+	rom ( name mvs.18 size 4194304 crc c1228b35 sha1 7afdfb552888c79d0fbb30242b3d917b87fad57a )
+	rom ( name mvs.20 size 4194304 crc 366cc6c2 sha1 6f2a789087c8e404c5227b927fa8328c03593243 )
+	rom ( name mvs.01 size 131072 crc 68252324 sha1 138ef320ef27956b2ab5591d49a1315b7b0a194c )
+	rom ( name mvs.02 size 131072 crc b34e773d sha1 3bcf44bf06c35814cff29d244142db7abe05bd39 )
+	rom ( name mvs.11 size 4194304 crc 86219770 sha1 4e5b68d382a5aa37f8b0b6434c53a2b95f5f9a4d )
+	rom ( name mvs.12 size 4194304 crc f2fd7f68 sha1 28a30d55d3eaf963006c7cbe7c288099cd3ba536 )
+)
+
+game (
+	name mshvsfj
+	description "Marvel Super Heroes Vs. Street Fighter (Japan 970707)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof mshvsf
+	romof mshvsf
+	rom ( name mvsj.03i size 524288 crc d8cbb691 sha1 16820cf3bc7285477e61bd598a3ed4ea5e0e770d )
+	rom ( name mvsj.04i size 524288 crc 32741ace sha1 36db3a3aeaf29369977593c051bf5665cffefb2d )
+	rom ( name mvs.05h size 524288 crc 77870dc3 sha1 924a7c82456bb44d7b0be65af11dbe1a2420a3f0 )
+	rom ( name mvs.06a merge mvs.06a size 524288 crc 959f3030 sha1 fbbaa915324815246738f3426232e623f039ce26 )
+	rom ( name mvs.07b merge mvs.07b size 524288 crc 7f915bdb sha1 683da09c5ba55e31b59aa95a8e13c45dc574ab3c )
+	rom ( name mvs.08a merge mvs.08a size 524288 crc c2813884 sha1 49e5d4bc48f90c8146cb6aafb9240aff0119f1a7 )
+	rom ( name mvs.09b merge mvs.09b size 524288 crc 3ba08818 sha1 9ab132a3cac55fcccebe6c99b6fb0ba1305f8f6e )
+	rom ( name mvs.10b merge mvs.10b size 524288 crc cf0dba98 sha1 f4c1f8a6e7a79ecc6241d5268b3039f8a09ea516 )
+	rom ( name mvsjx.03i size 524288 crc 55170c4c sha1 021a8a136d3212f60c63ee2df3556a1598db866e )
+	rom ( name mvsjx.04i size 524288 crc e7883768 sha1 c17be39eccc816d09199e77478f9eb2f42f348d9 )
+	rom ( name mvs.13 merge mvs.13 size 4194304 crc 29b05fd9 sha1 e8fdb1ee5515a560eb4256ae4fd99bb1192e1a87 )
+	rom ( name mvs.15 merge mvs.15 size 4194304 crc faddccf1 sha1 4ed03ea91883a0413325f57edcc1614120b5922c )
+	rom ( name mvs.17 merge mvs.17 size 4194304 crc 97aaf4c7 sha1 6a054921cc14fe080cb3f62c391f8ae3cc7e8ba9 )
+	rom ( name mvs.19 merge mvs.19 size 4194304 crc cb70e915 sha1 da4d2480d348ac6dfd01256a88f4f3db8357ae46 )
+	rom ( name mvs.14 merge mvs.14 size 4194304 crc b3b1972d sha1 0f2c3fb7de014181ee481ec35d0578b2c116c2dc )
+	rom ( name mvs.16 merge mvs.16 size 4194304 crc 08aadb5d sha1 3a2c222eca3e7df80ce69951b3db6442312751a4 )
+	rom ( name mvs.18 merge mvs.18 size 4194304 crc c1228b35 sha1 7afdfb552888c79d0fbb30242b3d917b87fad57a )
+	rom ( name mvs.20 merge mvs.20 size 4194304 crc 366cc6c2 sha1 6f2a789087c8e404c5227b927fa8328c03593243 )
+	rom ( name mvs.01 merge mvs.01 size 131072 crc 68252324 sha1 138ef320ef27956b2ab5591d49a1315b7b0a194c )
+	rom ( name mvs.02 merge mvs.02 size 131072 crc b34e773d sha1 3bcf44bf06c35814cff29d244142db7abe05bd39 )
+	rom ( name mvs.11 merge mvs.11 size 4194304 crc 86219770 sha1 4e5b68d382a5aa37f8b0b6434c53a2b95f5f9a4d )
+	rom ( name mvs.12 merge mvs.12 size 4194304 crc f2fd7f68 sha1 28a30d55d3eaf963006c7cbe7c288099cd3ba536 )
+)
+
+game (
+	name mshvsfj1
+	description "Marvel Super Heroes Vs. Street Fighter (Japan 970702)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof mshvsf
+	romof mshvsf
+	rom ( name mvsj.03h size 524288 crc fbe2115f sha1 b2d8a62e394c2eb4070cac742b0f403252e46a25 )
+	rom ( name mvsj.04h size 524288 crc b528a367 sha1 ecac71b032b431c63a4cf73a1d1d1be1faebc12b )
+	rom ( name mvs.05g size 524288 crc 9515a245 sha1 eafa877fd4a4e58e7c98336658e986a4a27d6b91 )
+	rom ( name mvs.06a merge mvs.06a size 524288 crc 959f3030 sha1 fbbaa915324815246738f3426232e623f039ce26 )
+	rom ( name mvs.07b merge mvs.07b size 524288 crc 7f915bdb sha1 683da09c5ba55e31b59aa95a8e13c45dc574ab3c )
+	rom ( name mvs.08a merge mvs.08a size 524288 crc c2813884 sha1 49e5d4bc48f90c8146cb6aafb9240aff0119f1a7 )
+	rom ( name mvs.09b merge mvs.09b size 524288 crc 3ba08818 sha1 9ab132a3cac55fcccebe6c99b6fb0ba1305f8f6e )
+	rom ( name mvs.10b merge mvs.10b size 524288 crc cf0dba98 sha1 f4c1f8a6e7a79ecc6241d5268b3039f8a09ea516 )
+	rom ( name mvsjx.03h size 524288 crc 6b4201c1 sha1 bf99fef1989161d3e6bbaa92714cb250b33a215a )
+	rom ( name mvsjx.04h size 524288 crc ab1b04cc sha1 29f40e2e151c3cdeafb5cbce038433e94818300e )
+	rom ( name mvs.13 merge mvs.13 size 4194304 crc 29b05fd9 sha1 e8fdb1ee5515a560eb4256ae4fd99bb1192e1a87 )
+	rom ( name mvs.15 merge mvs.15 size 4194304 crc faddccf1 sha1 4ed03ea91883a0413325f57edcc1614120b5922c )
+	rom ( name mvs.17 merge mvs.17 size 4194304 crc 97aaf4c7 sha1 6a054921cc14fe080cb3f62c391f8ae3cc7e8ba9 )
+	rom ( name mvs.19 merge mvs.19 size 4194304 crc cb70e915 sha1 da4d2480d348ac6dfd01256a88f4f3db8357ae46 )
+	rom ( name mvs.14 merge mvs.14 size 4194304 crc b3b1972d sha1 0f2c3fb7de014181ee481ec35d0578b2c116c2dc )
+	rom ( name mvs.16 merge mvs.16 size 4194304 crc 08aadb5d sha1 3a2c222eca3e7df80ce69951b3db6442312751a4 )
+	rom ( name mvs.18 merge mvs.18 size 4194304 crc c1228b35 sha1 7afdfb552888c79d0fbb30242b3d917b87fad57a )
+	rom ( name mvs.20 merge mvs.20 size 4194304 crc 366cc6c2 sha1 6f2a789087c8e404c5227b927fa8328c03593243 )
+	rom ( name mvs.01 merge mvs.01 size 131072 crc 68252324 sha1 138ef320ef27956b2ab5591d49a1315b7b0a194c )
+	rom ( name mvs.02 merge mvs.02 size 131072 crc b34e773d sha1 3bcf44bf06c35814cff29d244142db7abe05bd39 )
+	rom ( name mvs.11 merge mvs.11 size 4194304 crc 86219770 sha1 4e5b68d382a5aa37f8b0b6434c53a2b95f5f9a4d )
+	rom ( name mvs.12 merge mvs.12 size 4194304 crc f2fd7f68 sha1 28a30d55d3eaf963006c7cbe7c288099cd3ba536 )
+)
+
+game (
+	name mslug
+	description "Metal Slug - Super Vehicle-001"
+	year 1996
+	manufacturer "Nazca"
+	romof neogeo
+	rom ( name mslug_p1.rom size 2097152 crc 08d8daa5 sha1 b888993dbb7e9f0a28a01d7d2e1da00ef9cf6f38 )
+	rom ( name mslug_s1.rom size 131072 crc 2f55958d sha1 550b53628daec9f1e1e11a398854092d90f9505a )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name mslug_m1.rom size 131072 crc c28b3253 sha1 fd75bd15aed30266a8b3775f276f997af57d1c06 )
+	rom ( name mslug_v1.rom size 4194304 crc 23d22ed1 sha1 cd076928468ad6bcc5f19f88cb843ecb5e660681 )
+	rom ( name mslug_v2.rom size 4194304 crc 472cf9db sha1 5f79ea9286d22ed208128f9c31ca75552ce08b57 )
+	rom ( name mslug_c1.rom size 4194304 crc d00bd152 sha1 eb688dba2233bece1c3ba120ac8eb342f37fba37 )
+	rom ( name mslug_c2.rom size 4194304 crc ddff1dea sha1 e6ac8950d8ad8498270097a248c4b49876804197 )
+	rom ( name mslug_c3.rom size 4194304 crc d3d5f9e5 sha1 7d259314c2198ee81a380d76728c3c1ac2c8b528 )
+	rom ( name mslug_c4.rom size 4194304 crc 5ac1d497 sha1 313249ea47b3553974cde1c4c36f1ff3adeb07d1 )
+)
+
+game (
+	name mslug2
+	description "Metal Slug 2 - Super Vehicle-001/II"
+	year 1998
+	manufacturer "SNK"
+	romof neogeo
+	rom ( name ms2_p1.rom size 1048576 crc 2a53c5da sha1 5a6aba482cac588a6c2c51179c95b487c6e11899 )
+	rom ( name ms2_p2.rom size 2097152 crc 38883f44 sha1 fcf34b8c6e37774741542393b963635412484a27 )
+	rom ( name ms2_s1.rom size 131072 crc f3d32f0f sha1 2dc38b7dfd3ff14f64d5c0733c510b6bb8c692d0 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name ms2_m1.rom size 131072 crc 94520ebd sha1 f8a1551cebcb91e416f30f50581feed7f72899e9 )
+	rom ( name ms2_v1.rom size 4194304 crc 99ec20e8 sha1 80597707f1fe115eed1941bb0701fc00790ad504 )
+	rom ( name ms2_v2.rom size 4194304 crc ecb16799 sha1 b4b4ddc680836ed55942c66d7dfe756314e02211 )
+	rom ( name ms2_c1.rom size 8388608 crc 394b5e0d sha1 4549926f5054ee6aa7689cf920be0327e3908a50 )
+	rom ( name ms2_c2.rom size 8388608 crc e5806221 sha1 1e5475cfab129c77acc610f09369ca42ba5aafa5 )
+	rom ( name ms2_c3.rom size 8388608 crc 9f6bfa6f sha1 a4319b48004e723f81a980887678e3e296049a53 )
+	rom ( name ms2_c4.rom size 8388608 crc 7d3e306f sha1 1499316fb381775218d897b81a6a0c3465d1a37c )
+)
+
+game (
+	name mslugx
+	description "Metal Slug X - Super Vehicle-001"
+	year 1999
+	manufacturer "SNK"
+	romof neogeo
+	rom ( name msx_p1.rom size 1048576 crc 81f1f60b sha1 4c19f2e9824e606178ac1c9d4b0516fbaa625035 )
+	rom ( name msx_p2.rom size 4194304 crc 1fda2e12 sha1 18aaa7a3ba8da99f78c430e9be69ccde04bc04d9 )
+	rom ( name msx_s1.rom size 131072 crc fb6f441d sha1 2cc392ecde5d5afb28ddbaa1030552b48571dcfb )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name msx_m1.rom size 131072 crc fd42a842 sha1 55769bad4860f64ef53a333e0da9e073db483d6a )
+	rom ( name msx_v1.rom size 4194304 crc c79ede73 sha1 ebfcc67204ff9677cf7972fd5b6b7faabf07280c )
+	rom ( name msx_v2.rom size 4194304 crc ea9aabe1 sha1 526c42ca9a388f7435569400e2f132e2724c71ff )
+	rom ( name msx_v3.rom size 2097152 crc 2ca65102 sha1 45979d1edb1fc774a415d9386f98d7cb252a2043 )
+	rom ( name msx_c1.rom size 8388608 crc 09a52c6f sha1 c3e8a8ccdac0f8bddc4c3413277626532405fae2 )
+	rom ( name msx_c2.rom size 8388608 crc 31679821 sha1 554f600a3aa09c16c13c625299b087a79d0d15c5 )
+	rom ( name msx_c3.rom size 8388608 crc fd602019 sha1 c56646c62387bc1439d46610258c755beb8d7dd8 )
+	rom ( name msx_c4.rom size 8388608 crc 31354513 sha1 31be8ea2498001f68ce4b06b8b90acbf2dcab6af )
+	rom ( name msx_c5.rom size 8388608 crc a4b56124 sha1 d41069856df990a1a99d39fb263c8303389d5475 )
+	rom ( name msx_c6.rom size 8388608 crc 83e3e69d sha1 39be66287696829d243fb71b3fb8b7dc2bc3298f )
+)
+
+game (
+	name mvsc
+	description "Marvel Vs. Capcom: Clash of Super Heroes (US 980123)"
+	year 1998
+	manufacturer "Capcom"
+	rom ( name mvcu.03d size 524288 crc c6007557 sha1 c027c1a204345ce611cb042d60939e4de156763f )
+	rom ( name mvcu.04d size 524288 crc 724b2b20 sha1 872bbcf5d344d634f3523318fa4763e6d6302bb5 )
+	rom ( name mvc.05a size 524288 crc 2d8c8e86 sha1 b07d640a734c5d336054ed05195786224c9a6cd4 )
+	rom ( name mvc.06a size 524288 crc 8528e1f5 sha1 cd065c05268ab581b05676da544baf6af642acac )
+	rom ( name mvc.07 size 524288 crc c3baa32b sha1 d35589847e0753e869ffcd7c3abed925bfdb0fa2 )
+	rom ( name mvc.08 size 524288 crc bc002fcd sha1 0b6735a071a9274f7ab25c743271fc30411fe819 )
+	rom ( name mvc.09 size 524288 crc c67b26df sha1 6e9969246c57269d7ba0992a5cc319c8910bf8a9 )
+	rom ( name mvc.10 size 524288 crc 0fdd1e26 sha1 5fa684d823b4f4eec61ed9e9b8938af5272ae1ed )
+	rom ( name mvcux.03d size 524288 crc 86685cbf sha1 f1dd866bf564ae30c516b1a33e6d5c86bb9cd523 )
+	rom ( name mvcux.04d size 524288 crc 438ba92b sha1 e4aae2051c71eff4e15529fff695842a0103d52a )
+	rom ( name mvc.13 size 4194304 crc fa5f74bc sha1 79a619248938a85ce4f7794a704647b9cf564fbc )
+	rom ( name mvc.15 size 4194304 crc 71938a8f sha1 6982f7203458c1c46a1c1c13c0d0f2a5e109d271 )
+	rom ( name mvc.17 size 4194304 crc 92741d07 sha1 ddfd70eab7c983ab452194b1860059f8ad694459 )
+	rom ( name mvc.19 size 4194304 crc bcb72fc6 sha1 46ab98dcdf6f5d611646a22a7355939ef5b2bbe5 )
+	rom ( name mvc.14 size 4194304 crc 7f1df4e4 sha1 ede92b31c1fe87f91b4fe74ac211f2fb5f863bc2 )
+	rom ( name mvc.16 size 4194304 crc 90bd3203 sha1 ed83208c486ea0f407b7e5d16a8cf242a6f73774 )
+	rom ( name mvc.18 size 4194304 crc 67aaf727 sha1 e0e69104e31d2c41e18c0d24e9ab962406a7ca9a )
+	rom ( name mvc.20 size 4194304 crc 8b0bade8 sha1 c5732361bb4bf284c4d12a82ac2c5750b1f9d441 )
+	rom ( name mvc.01 size 131072 crc 41629e95 sha1 36925c05b5fdcbe43283a882d021e5360c947061 )
+	rom ( name mvc.02 size 131072 crc 963abf6b sha1 6b784870e338701cefabbbe4669984b5c4e8a9a5 )
+	rom ( name mvc.11 size 4194304 crc 850fe663 sha1 81e519d05a08855f242ea2e17ee0859b449db895 )
+	rom ( name mvc.12 size 4194304 crc 7ccb1896 sha1 74caadf3282fcc6acffb1bbe3734106f81124121 )
+)
+
+game (
+	name mvsca
+	description "Marvel Vs. Capcom: Clash of Super Heroes (Asia 980112)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof mvsc
+	romof mvsc
+	rom ( name mvca.03 size 524288 crc fe5fa7b9 sha1 c27b987ffb631c3433aa32a29989dbf2b3e53f1e )
+	rom ( name mvca.04 size 524288 crc 082b701c sha1 363770ecd5f4e160db6448845ba6d7fd0beea291 )
+	rom ( name mvc.05 size 524288 crc 7db71ce9 sha1 a0097109e9f4aba40791932269d600c0ffa099a7 )
+	rom ( name mvc.06 size 524288 crc 4b0b6d3e sha1 375372adf0a508bb6fc6a79326b2d4171db9ca0f )
+	rom ( name mvc.07 merge mvc.07 size 524288 crc c3baa32b sha1 d35589847e0753e869ffcd7c3abed925bfdb0fa2 )
+	rom ( name mvc.08 merge mvc.08 size 524288 crc bc002fcd sha1 0b6735a071a9274f7ab25c743271fc30411fe819 )
+	rom ( name mvc.09 merge mvc.09 size 524288 crc c67b26df sha1 6e9969246c57269d7ba0992a5cc319c8910bf8a9 )
+	rom ( name mvc.10 merge mvc.10 size 524288 crc 0fdd1e26 sha1 5fa684d823b4f4eec61ed9e9b8938af5272ae1ed )
+	rom ( name mvcax.03 size 524288 crc 4512a6af sha1 6586973cc89213ddb1a4dab0f9e764b96c861515 )
+	rom ( name mvcax.04 size 524288 crc e6f537d2 sha1 25c1ec6318bd84f2fb1918ea1279f7fbde23428d )
+	rom ( name mvc.13 merge mvc.13 size 4194304 crc fa5f74bc sha1 79a619248938a85ce4f7794a704647b9cf564fbc )
+	rom ( name mvc.15 merge mvc.15 size 4194304 crc 71938a8f sha1 6982f7203458c1c46a1c1c13c0d0f2a5e109d271 )
+	rom ( name mvc.17 merge mvc.17 size 4194304 crc 92741d07 sha1 ddfd70eab7c983ab452194b1860059f8ad694459 )
+	rom ( name mvc.19 merge mvc.19 size 4194304 crc bcb72fc6 sha1 46ab98dcdf6f5d611646a22a7355939ef5b2bbe5 )
+	rom ( name mvc.14 merge mvc.14 size 4194304 crc 7f1df4e4 sha1 ede92b31c1fe87f91b4fe74ac211f2fb5f863bc2 )
+	rom ( name mvc.16 merge mvc.16 size 4194304 crc 90bd3203 sha1 ed83208c486ea0f407b7e5d16a8cf242a6f73774 )
+	rom ( name mvc.18 merge mvc.18 size 4194304 crc 67aaf727 sha1 e0e69104e31d2c41e18c0d24e9ab962406a7ca9a )
+	rom ( name mvc.20 merge mvc.20 size 4194304 crc 8b0bade8 sha1 c5732361bb4bf284c4d12a82ac2c5750b1f9d441 )
+	rom ( name mvc.01 merge mvc.01 size 131072 crc 41629e95 sha1 36925c05b5fdcbe43283a882d021e5360c947061 )
+	rom ( name mvc.02 merge mvc.02 size 131072 crc 963abf6b sha1 6b784870e338701cefabbbe4669984b5c4e8a9a5 )
+	rom ( name mvc.11 merge mvc.11 size 4194304 crc 850fe663 sha1 81e519d05a08855f242ea2e17ee0859b449db895 )
+	rom ( name mvc.12 merge mvc.12 size 4194304 crc 7ccb1896 sha1 74caadf3282fcc6acffb1bbe3734106f81124121 )
+)
+
+game (
+	name mvscj
+	description "Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof mvsc
+	romof mvsc
+	rom ( name mvcj.03a size 524288 crc 3df18879 sha1 2b91da6e5dd792967337e873ebb08ecf5194a97b )
+	rom ( name mvcj.04a size 524288 crc 07d212e8 sha1 c5420e9bd580910c1f1d0264240aeef20aac30a7 )
+	rom ( name mvc.05a merge mvc.05a size 524288 crc 2d8c8e86 sha1 b07d640a734c5d336054ed05195786224c9a6cd4 )
+	rom ( name mvc.06a merge mvc.06a size 524288 crc 8528e1f5 sha1 cd065c05268ab581b05676da544baf6af642acac )
+	rom ( name mvc.07 merge mvc.07 size 524288 crc c3baa32b sha1 d35589847e0753e869ffcd7c3abed925bfdb0fa2 )
+	rom ( name mvc.08 merge mvc.08 size 524288 crc bc002fcd sha1 0b6735a071a9274f7ab25c743271fc30411fe819 )
+	rom ( name mvc.09 merge mvc.09 size 524288 crc c67b26df sha1 6e9969246c57269d7ba0992a5cc319c8910bf8a9 )
+	rom ( name mvc.10 merge mvc.10 size 524288 crc 0fdd1e26 sha1 5fa684d823b4f4eec61ed9e9b8938af5272ae1ed )
+	rom ( name mvcjx.03a size 524288 crc e696a098 sha1 2ff7bb4642e1a5611f29789cccffc92595e259df )
+	rom ( name mvcjx.04a size 524288 crc 7faeee82 sha1 eeb0967698e3f84d9d11d713bd5b016fe5cc899c )
+	rom ( name mvc.13 merge mvc.13 size 4194304 crc fa5f74bc sha1 79a619248938a85ce4f7794a704647b9cf564fbc )
+	rom ( name mvc.15 merge mvc.15 size 4194304 crc 71938a8f sha1 6982f7203458c1c46a1c1c13c0d0f2a5e109d271 )
+	rom ( name mvc.17 merge mvc.17 size 4194304 crc 92741d07 sha1 ddfd70eab7c983ab452194b1860059f8ad694459 )
+	rom ( name mvc.19 merge mvc.19 size 4194304 crc bcb72fc6 sha1 46ab98dcdf6f5d611646a22a7355939ef5b2bbe5 )
+	rom ( name mvc.14 merge mvc.14 size 4194304 crc 7f1df4e4 sha1 ede92b31c1fe87f91b4fe74ac211f2fb5f863bc2 )
+	rom ( name mvc.16 merge mvc.16 size 4194304 crc 90bd3203 sha1 ed83208c486ea0f407b7e5d16a8cf242a6f73774 )
+	rom ( name mvc.18 merge mvc.18 size 4194304 crc 67aaf727 sha1 e0e69104e31d2c41e18c0d24e9ab962406a7ca9a )
+	rom ( name mvc.20 merge mvc.20 size 4194304 crc 8b0bade8 sha1 c5732361bb4bf284c4d12a82ac2c5750b1f9d441 )
+	rom ( name mvc.01 merge mvc.01 size 131072 crc 41629e95 sha1 36925c05b5fdcbe43283a882d021e5360c947061 )
+	rom ( name mvc.02 merge mvc.02 size 131072 crc 963abf6b sha1 6b784870e338701cefabbbe4669984b5c4e8a9a5 )
+	rom ( name mvc.11 merge mvc.11 size 4194304 crc 850fe663 sha1 81e519d05a08855f242ea2e17ee0859b449db895 )
+	rom ( name mvc.12 merge mvc.12 size 4194304 crc 7ccb1896 sha1 74caadf3282fcc6acffb1bbe3734106f81124121 )
+)
+
+game (
+	name mvscjr1
+	description "Marvel Vs. Capcom: Clash of Super Heroes (Japan 980112)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof mvsc
+	romof mvsc
+	rom ( name mvcj.03 size 524288 crc 2164213f sha1 00e3500ed334bb80d4d159eacf439860a2bfc3b7 )
+	rom ( name mvcj.04 size 524288 crc c905c86f sha1 965fa3bdc29bd901e9efcc53b195c6be3a74c9f9 )
+	rom ( name mvc.05 size 524288 crc 7db71ce9 sha1 a0097109e9f4aba40791932269d600c0ffa099a7 )
+	rom ( name mvc.06 size 524288 crc 4b0b6d3e sha1 375372adf0a508bb6fc6a79326b2d4171db9ca0f )
+	rom ( name mvc.07 merge mvc.07 size 524288 crc c3baa32b sha1 d35589847e0753e869ffcd7c3abed925bfdb0fa2 )
+	rom ( name mvc.08 merge mvc.08 size 524288 crc bc002fcd sha1 0b6735a071a9274f7ab25c743271fc30411fe819 )
+	rom ( name mvc.09 merge mvc.09 size 524288 crc c67b26df sha1 6e9969246c57269d7ba0992a5cc319c8910bf8a9 )
+	rom ( name mvc.10 merge mvc.10 size 524288 crc 0fdd1e26 sha1 5fa684d823b4f4eec61ed9e9b8938af5272ae1ed )
+	rom ( name mvcjx.03 size 524288 crc cc94ab89 sha1 405c6ba53f1e91cbc817c9486436447b6f27c556 )
+	rom ( name mvcjx.04 size 524288 crc c5a83202 sha1 a113c6a5f4244eae8f9d2f62e342a8dbd4e4c553 )
+	rom ( name mvc.13 merge mvc.13 size 4194304 crc fa5f74bc sha1 79a619248938a85ce4f7794a704647b9cf564fbc )
+	rom ( name mvc.15 merge mvc.15 size 4194304 crc 71938a8f sha1 6982f7203458c1c46a1c1c13c0d0f2a5e109d271 )
+	rom ( name mvc.17 merge mvc.17 size 4194304 crc 92741d07 sha1 ddfd70eab7c983ab452194b1860059f8ad694459 )
+	rom ( name mvc.19 merge mvc.19 size 4194304 crc bcb72fc6 sha1 46ab98dcdf6f5d611646a22a7355939ef5b2bbe5 )
+	rom ( name mvc.14 merge mvc.14 size 4194304 crc 7f1df4e4 sha1 ede92b31c1fe87f91b4fe74ac211f2fb5f863bc2 )
+	rom ( name mvc.16 merge mvc.16 size 4194304 crc 90bd3203 sha1 ed83208c486ea0f407b7e5d16a8cf242a6f73774 )
+	rom ( name mvc.18 merge mvc.18 size 4194304 crc 67aaf727 sha1 e0e69104e31d2c41e18c0d24e9ab962406a7ca9a )
+	rom ( name mvc.20 merge mvc.20 size 4194304 crc 8b0bade8 sha1 c5732361bb4bf284c4d12a82ac2c5750b1f9d441 )
+	rom ( name mvc.01 merge mvc.01 size 131072 crc 41629e95 sha1 36925c05b5fdcbe43283a882d021e5360c947061 )
+	rom ( name mvc.02 merge mvc.02 size 131072 crc 963abf6b sha1 6b784870e338701cefabbbe4669984b5c4e8a9a5 )
+	rom ( name mvc.11 merge mvc.11 size 4194304 crc 850fe663 sha1 81e519d05a08855f242ea2e17ee0859b449db895 )
+	rom ( name mvc.12 merge mvc.12 size 4194304 crc 7ccb1896 sha1 74caadf3282fcc6acffb1bbe3734106f81124121 )
+)
+
+game (
+	name neodrift
+	description "Neo Drift Out - New Technology"
+	year 1996
+	manufacturer "Visco"
+	romof neogeo
+	rom ( name drift_p1.rom size 2097152 crc e397d798 sha1 10f459111db4bab7aaa63ca47e83304a84300812 )
+	rom ( name drift_s1.rom size 131072 crc b76b61bc sha1 5fdb407d16ab9e33c4f26ee09ff70891ae1d2bd0 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name drift_m1.rom size 131072 crc 200045f1 sha1 7a6cd1c8d4447ea260d7ff4520c676b8d685f2e4 )
+	rom ( name drift_v1.rom size 2097152 crc a421c076 sha1 129f05c1a28a6493442f47a79c2d3577a1a43ef5 )
+	rom ( name drift_v2.rom size 2097152 crc 233c7dd9 sha1 be7f980aa83831b6605aaaf4ec904180bb96c935 )
+	rom ( name drift_c1.rom size 4194304 crc 62c5edc9 sha1 df3ed81b37fc03503c8702741d361f44adfcd481 )
+	rom ( name drift_c2.rom size 4194304 crc 9dc9c72a sha1 c3960b18d940233332c2b1ee2b2b94685c724d1e )
+)
+
+game (
+	name pbobble
+	description "Puzzle Bobble / Bust-A-Move (Neo-Geo)"
+	year 1994
+	manufacturer "Taito"
+	romof neogeo
+	rom ( name puzzb_p1.rom size 262144 crc 7c3c34e1 sha1 50fafb3529351c82a3656e6b07ab174a7bf8da0b )
+	rom ( name puzzb_s1.rom size 131072 crc 9caae538 sha1 cf2d90a7c1a42107c0bb8b9a61397634286dbe0a )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name puzzb_m1.rom size 65536 crc 129e6054 sha1 4edd18c44759e7a140705f1544413c649131c551 )
+	rom ( name puzzb_v1.rom size 1048576 crc 2ced86df sha1 d6b73d1f31efbd74fb745200d4dade5f80b71541 )
+	rom ( name puzzb_v2.rom size 1048576 crc 970851ab sha1 6c9b04e9cc6b92133f1154e5bdd9d38d8ef050a7 )
+	rom ( name puzzb_v3.rom size 1048576 crc 0840cbc4 sha1 1adbd7aef44fa80832f63dfb8efdf69fd7256a57 )
+	rom ( name puzzb_v4.rom size 524288 crc 0a548948 sha1 e1e4afd17811cb60401c14fbcf0465035165f4fb )
+	rom ( name puzzb_c1.rom size 1048576 crc 7f250f76 sha1 5109a41adcb7859e24dc43d88842d4cc18cd3305 )
+	rom ( name puzzb_c2.rom size 1048576 crc 20912873 sha1 2df8766b531e47ffc30457e41c63b83557b4f468 )
+	rom ( name puzzb_c3.rom size 1048576 crc 4b641ba1 sha1 7a9c42a30163eda455f7bde2302402b1a5de7178 )
+	rom ( name puzzb_c4.rom size 1048576 crc 35072596 sha1 4150a21041f06514c97592bd8af686504b06e187 )
+	rom ( name puzzb_c5.rom size 524288 crc e89ad494 sha1 69c9ea415773af94ac44c48af05d55ada222b138 )
+	rom ( name puzzb_c6.rom size 524288 crc 4b42d7eb sha1 042ae50a528cea21cf07771d3915c57aa16fd5af )
+)
+
+game (
+	name puzzledp
+	description "Puzzle De Pon"
+	year 1995
+	manufacturer "Taito (Visco license)"
+	romof neogeo
+	rom ( name pdpon_p1.rom size 524288 crc 2b61415b sha1 0e3e4faf2fd6e63407425e1ac788003e75aeeb4f )
+	rom ( name pdpon_s1.rom size 65536 crc 4a421612 sha1 8a79055be7bf6e2c344a72d6afe6a33be3d4a6c3 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name pdpon_m1.rom size 131072 crc 9c0291ea sha1 3fa67c62acba79be6b3a98cc1601e45569fa11ae )
+	rom ( name pdpon_v1.rom size 524288 crc debeb8fb sha1 49a3d3578c087f1a0050168571ef8d1b08c5dc05 )
+	rom ( name pdpon_c1.rom size 1048576 crc cc0095ef sha1 3d86f455e6db10a2449b775dc386f1826ba3b62e )
+	rom ( name pdpon_c2.rom size 1048576 crc 42371307 sha1 df794f989e2883634bf7ffeea48d6bc3854529af )
+)
+
+game (
+	name rckman2j
+	description "Rockman 2: The Power Fighters (Japan 960708)"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name rm2j.03 size 524288 crc dbaa1437 sha1 849572090bdbde7d9f191959f4b6ad26f46811f4 )
+	rom ( name rm2j.04 size 524288 crc cf5ba612 sha1 f0b56db8df7ad676e00325c97cf16791f409e35a )
+	rom ( name rm2j.05 size 524288 crc 02ee9efc sha1 1b80c40389b51a03b930051f232630616c12e6c5 )
+	rom ( name rm2jx.03 size 524288 crc 2c297750 sha1 bf93b275113aac4fa290aea920772060324db9b3 )
+	rom ( name rm2jx.04 size 524288 crc 676a116e sha1 c8b6ab70efb22fdd9b7b4b736084a0d3eb123e3c )
+	rom ( name rm2.14 size 2097152 crc 9b1f00b4 sha1 c1c5c2d9d00121425ae6598444d704f420ef4eef )
+	rom ( name rm2.16 size 2097152 crc c2bb0c24 sha1 38724c49d9db49765a4ed9bc2dc8f57cec45ec7c )
+	rom ( name rm2.18 size 2097152 crc 12257251 sha1 20cb58afda0e6200991277817485340a6a41ae2b )
+	rom ( name rm2.20 size 2097152 crc f9b6e786 sha1 aeb4acff7208e66a35198143fd2478039fdaa3a6 )
+	rom ( name rm2.01 size 131072 crc d18e7859 sha1 0939fac70042d0b4db5c2fdcef1f79b95febd45e )
+	rom ( name rm2.02 size 131072 crc c463ece0 sha1 5c3e41eb61610b3f8c431206f6672907e3a0bdb0 )
+	rom ( name rm2.11 size 2097152 crc 2106174d sha1 0a35d9ca8ebcad74904b20648d5320f839d6377e )
+	rom ( name rm2.12 size 2097152 crc 546c1636 sha1 f96b172ab899f2c6ee17a5dd1fb61af9432e3cd2 )
+)
+
+game (
+	name ringdest
+	description "Ring of Destruction: Slammasters II (Euro 940902)"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name smbe.03b size 524288 crc b8016278 sha1 f744b08b27c11b8567ca7a94fbd75e398563c008 )
+	rom ( name smbe.04b size 524288 crc 18c4c447 sha1 3723ad6d6939fa1ac7dd016254b32017b5e7b24e )
+	rom ( name smbe.05b size 524288 crc 18ebda7f sha1 eacc3e76af5c47abe0a778be7a7beacf0924884e )
+	rom ( name smbe.06b size 524288 crc 89c80007 sha1 4c85aa5b224fdbb64f719a7b8b5b2e7413107c70 )
+	rom ( name smb.07 size 524288 crc b9a11577 sha1 e9b58ef8acd1fedd3c9e0a3489593c7e931106c0 )
+	rom ( name smb.08 size 524288 crc f931b76b sha1 0b7e8d1278dcba89f0063bd09cda96d6ae1bc282 )
+	rom ( name smbex.03b size 524288 crc 3b1457bd sha1 7e5eaaed00c4ed106a685b1f34a3695fed9b014e )
+	rom ( name smbex.04b size 524288 crc 6299eb4e sha1 232b09cc1e65b47e11369d0dbe5b0724567269e1 )
+	rom ( name smbex.05b size 524288 crc be4a84d1 sha1 a958c98140fa52798f78d955cf56e24c7c0b8f21 )
+	rom ( name smb.13 size 2097152 crc d9b2d1de sha1 e8658983070dadcd1300a680a42c8431579e2b4f )
+	rom ( name smb.15 size 2097152 crc 9a766d92 sha1 afdf88afbec527268d63c11ea32f861b52e11489 )
+	rom ( name smb.17 size 2097152 crc 51800f0f sha1 9526cd69a23340a81841271b51de03d9bf2b979f )
+	rom ( name smb.19 size 2097152 crc 35757e96 sha1 c915f3b9e4fdec3defc7eecb2c1f7377e6072228 )
+	rom ( name smb.14 size 2097152 crc e5bfd0e7 sha1 327e626df4c2152f921f15535c01dda6c4437527 )
+	rom ( name smb.16 size 2097152 crc c56c0866 sha1 1e2218e852ae72a9a95861dd37129fe78d4b1329 )
+	rom ( name smb.18 size 2097152 crc 4ded3910 sha1 d883541ce4d83f4e7ab095f2ef273408d9911f9a )
+	rom ( name smb.20 size 2097152 crc 26ea1ec5 sha1 22be249b1f73272feacf4026f09fc877f5d86353 )
+	rom ( name smb.21 size 524288 crc 0a08c5fc sha1 ff3fad4fbc98e3013291c7ba7ee5e057a2628b36 )
+	rom ( name smb.23 size 524288 crc 0911b6c4 sha1 e7a7061b192658724d98cae8693f63dd5bc40c00 )
+	rom ( name smb.25 size 524288 crc 82d6c4ec sha1 ed8ed02a00f59a048b9891ec2a77720bb6a5e03d )
+	rom ( name smb.27 size 524288 crc 9b48678b sha1 4fa300d356c538947983ae85bb5c5cfd1fb835e7 )
+	rom ( name smb.01 size 131072 crc 0abc229a sha1 967f574e6358dfc1b01e6a4a4df1a8f34eb3d814 )
+	rom ( name smb.02 size 131072 crc d051679a sha1 583c2521a30db1740d95dd94a38751fbeff3aae5 )
+	rom ( name smb.11 size 2097152 crc c56935f9 sha1 ca1705e48e31ddc13505e6297bceca2bec1bb209 )
+	rom ( name smb.12 size 2097152 crc 955b0782 sha1 ee09500e7b44e923126533613bfe26cdabc7ab5f )
+)
+
+game (
+	name smbomb
+	description "Super Muscle Bomber: The International Blowout (Japan 940831)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof ringdest
+	romof ringdest
+	rom ( name smbj.03a size 524288 crc 1c5613de sha1 e6257078ad2e18537aa606b0d0c5e04806244386 )
+	rom ( name smbj.04a size 524288 crc 29071ed7 sha1 eb438fcb42e3fbe38e20bc021be079a3dd7a89fa )
+	rom ( name smbj.05a size 524288 crc eb20bce4 sha1 b78a447d3d1d3f9a62a6b5abcd893f5e091f1bbc )
+	rom ( name smbj.06a size 524288 crc 94b420cd sha1 4cc43d3f7fed224443e26df5b0076bd24e6cd04b )
+	rom ( name smb.07 merge smb.07 size 524288 crc b9a11577 sha1 e9b58ef8acd1fedd3c9e0a3489593c7e931106c0 )
+	rom ( name smb.08 merge smb.08 size 524288 crc f931b76b sha1 0b7e8d1278dcba89f0063bd09cda96d6ae1bc282 )
+	rom ( name smbjx.03a size 524288 crc 3600f8d8 sha1 6ab25c8ab17e5a53ab48103c235542c69373be1b )
+	rom ( name smbjx.04a size 524288 crc 6d0f1b81 sha1 870d057c1f9ad22a1b2163fabfbad67107956ea4 )
+	rom ( name smbjx.05a size 524288 crc 97f5b4af sha1 559c95b29607c223a8ad7f410d89ff4d45087d74 )
+	rom ( name smb.13 merge smb.13 size 2097152 crc d9b2d1de sha1 e8658983070dadcd1300a680a42c8431579e2b4f )
+	rom ( name smb.15 merge smb.15 size 2097152 crc 9a766d92 sha1 afdf88afbec527268d63c11ea32f861b52e11489 )
+	rom ( name smb.17 merge smb.17 size 2097152 crc 51800f0f sha1 9526cd69a23340a81841271b51de03d9bf2b979f )
+	rom ( name smb.19 merge smb.19 size 2097152 crc 35757e96 sha1 c915f3b9e4fdec3defc7eecb2c1f7377e6072228 )
+	rom ( name smb.14 merge smb.14 size 2097152 crc e5bfd0e7 sha1 327e626df4c2152f921f15535c01dda6c4437527 )
+	rom ( name smb.16 merge smb.16 size 2097152 crc c56c0866 sha1 1e2218e852ae72a9a95861dd37129fe78d4b1329 )
+	rom ( name smb.18 merge smb.18 size 2097152 crc 4ded3910 sha1 d883541ce4d83f4e7ab095f2ef273408d9911f9a )
+	rom ( name smb.20 merge smb.20 size 2097152 crc 26ea1ec5 sha1 22be249b1f73272feacf4026f09fc877f5d86353 )
+	rom ( name smb.21 merge smb.21 size 524288 crc 0a08c5fc sha1 ff3fad4fbc98e3013291c7ba7ee5e057a2628b36 )
+	rom ( name smb.23 merge smb.23 size 524288 crc 0911b6c4 sha1 e7a7061b192658724d98cae8693f63dd5bc40c00 )
+	rom ( name smb.25 merge smb.25 size 524288 crc 82d6c4ec sha1 ed8ed02a00f59a048b9891ec2a77720bb6a5e03d )
+	rom ( name smb.27 merge smb.27 size 524288 crc 9b48678b sha1 4fa300d356c538947983ae85bb5c5cfd1fb835e7 )
+	rom ( name smb.01 merge smb.01 size 131072 crc 0abc229a sha1 967f574e6358dfc1b01e6a4a4df1a8f34eb3d814 )
+	rom ( name smb.02 merge smb.02 size 131072 crc d051679a sha1 583c2521a30db1740d95dd94a38751fbeff3aae5 )
+	rom ( name smb.11 merge smb.11 size 2097152 crc c56935f9 sha1 ca1705e48e31ddc13505e6297bceca2bec1bb209 )
+	rom ( name smb.12 merge smb.12 size 2097152 crc 955b0782 sha1 ee09500e7b44e923126533613bfe26cdabc7ab5f )
+)
+
+game (
+	name smbombr1
+	description "Super Muscle Bomber: The International Blowout (Japan 940808)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof ringdest
+	romof ringdest
+	rom ( name smbj.03 size 524288 crc 52eafb10 sha1 5abfe07e948748eba982dc8f2e21462aec187590 )
+	rom ( name smbj.04 size 524288 crc aa6e8078 sha1 58b4e15e7e3209e59a37ce48d8b9f0dc8b933cdc )
+	rom ( name smbj.05 size 524288 crc b69e7d5f sha1 e66430ef05ed0d1c848d24c7436ee5f1b511dcea )
+	rom ( name smbj.06 size 524288 crc 8d857b56 sha1 48c4e5f195e4343a8b7b9ec496fa1a77d659f72e )
+	rom ( name smb.07 merge smb.07 size 524288 crc b9a11577 sha1 e9b58ef8acd1fedd3c9e0a3489593c7e931106c0 )
+	rom ( name smb.08 merge smb.08 size 524288 crc f931b76b sha1 0b7e8d1278dcba89f0063bd09cda96d6ae1bc282 )
+	rom ( name smbjx.03 size 524288 crc b0b67439 sha1 eec7e9c4172379946d642e9bb2cb0188e77ae2e2 )
+	rom ( name smbjx.04 size 524288 crc a012f690 sha1 b9c591d9cedfc7e69267c79bfab9b198a22d8c6e )
+	rom ( name smbjx.05 size 524288 crc f6e886d0 sha1 ea7e3bfa39b115b74b8969cbedcc0c5c0fe404cb )
+	rom ( name smb.13 merge smb.13 size 2097152 crc d9b2d1de sha1 e8658983070dadcd1300a680a42c8431579e2b4f )
+	rom ( name smb.15 merge smb.15 size 2097152 crc 9a766d92 sha1 afdf88afbec527268d63c11ea32f861b52e11489 )
+	rom ( name smb.17 merge smb.17 size 2097152 crc 51800f0f sha1 9526cd69a23340a81841271b51de03d9bf2b979f )
+	rom ( name smb.19 merge smb.19 size 2097152 crc 35757e96 sha1 c915f3b9e4fdec3defc7eecb2c1f7377e6072228 )
+	rom ( name smb.14 merge smb.14 size 2097152 crc e5bfd0e7 sha1 327e626df4c2152f921f15535c01dda6c4437527 )
+	rom ( name smb.16 merge smb.16 size 2097152 crc c56c0866 sha1 1e2218e852ae72a9a95861dd37129fe78d4b1329 )
+	rom ( name smb.18 merge smb.18 size 2097152 crc 4ded3910 sha1 d883541ce4d83f4e7ab095f2ef273408d9911f9a )
+	rom ( name smb.20 merge smb.20 size 2097152 crc 26ea1ec5 sha1 22be249b1f73272feacf4026f09fc877f5d86353 )
+	rom ( name smb.21 merge smb.21 size 524288 crc 0a08c5fc sha1 ff3fad4fbc98e3013291c7ba7ee5e057a2628b36 )
+	rom ( name smb.23 merge smb.23 size 524288 crc 0911b6c4 sha1 e7a7061b192658724d98cae8693f63dd5bc40c00 )
+	rom ( name smb.25 merge smb.25 size 524288 crc 82d6c4ec sha1 ed8ed02a00f59a048b9891ec2a77720bb6a5e03d )
+	rom ( name smb.27 merge smb.27 size 524288 crc 9b48678b sha1 4fa300d356c538947983ae85bb5c5cfd1fb835e7 )
+	rom ( name smb.01 merge smb.01 size 131072 crc 0abc229a sha1 967f574e6358dfc1b01e6a4a4df1a8f34eb3d814 )
+	rom ( name smb.02 merge smb.02 size 131072 crc d051679a sha1 583c2521a30db1740d95dd94a38751fbeff3aae5 )
+	rom ( name smb.11 merge smb.11 size 2097152 crc c56935f9 sha1 ca1705e48e31ddc13505e6297bceca2bec1bb209 )
+	rom ( name smb.12 merge smb.12 size 2097152 crc 955b0782 sha1 ee09500e7b44e923126533613bfe26cdabc7ab5f )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
+	year 1996
+	manufacturer "Technos"
+	romof neogeo
+	rom ( name sdb_p1.rom size 2097152 crc 127f3d32 sha1 18e77b79b1197a89371533ef9b1e4d682c44d875 )
+	rom ( name sdb_s1.rom size 131072 crc 64abd6b3 sha1 0315d724e4d83a44ce84c531ff9b8c398363c039 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name sdb_m1.rom size 131072 crc 0a5f3325 sha1 04e0236df478a5452654c823dcb42fea65b6a718 )
+	rom ( name sdb_v1.rom size 2097152 crc 8b53e945 sha1 beb7d63f6101f8435f35321fddb8479d312505c4 )
+	rom ( name sdb_v2.rom size 2097152 crc af37ebf8 sha1 f5c511479483533480f2b9ecf8edd4b7ae64c2d9 )
+	rom ( name sdb_c1.rom size 4194304 crc 93d8619b sha1 6588cb67e38722d5843fb29943d92e3905101aff )
+	rom ( name sdb_c2.rom size 4194304 crc 1c737bb6 sha1 8e341989981a713e61dfed8bde9a6459583ef46d )
+	rom ( name sdb_c3.rom size 2097152 crc 14cb1703 sha1 a46acec03c1b2351fe36810628f02b7c848d13db )
+	rom ( name sdb_c4.rom size 2097152 crc c7165f19 sha1 221f03de893dca0e5305fa17aa94f96c67713818 )
+)
+
+game (
+	name sf2
+	description "Street Fighter II - The World Warrior (World 910214)"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name sf2e_30b.rom size 131072 crc 57bd7051 sha1 5e211e75b1649b07723cabc03cf15636dbbae595 )
+	rom ( name sf2e_37b.rom size 131072 crc 62691cdd sha1 328703c3e737ada544e67c36119eeb4a100ca740 )
+	rom ( name sf2e_31b.rom size 131072 crc a673143d sha1 e565f0ec23d6deb543c72af5a83f070c07319477 )
+	rom ( name sf2e_38b.rom size 131072 crc 4c2ccef7 sha1 77b119c70c255622b023de25d9af3b3aac52ea47 )
+	rom ( name sf2_28b.rom size 131072 crc 4009955e sha1 7842dbef7650485639fbae49b9f4db7494d4f73d )
+	rom ( name sf2_35b.rom size 131072 crc 8c1f3994 sha1 5e1d334399d05a837c2d80f79eada543e83afaf7 )
+	rom ( name sf2_29b.rom size 131072 crc bb4af315 sha1 75f0827f4f7e9f292add46467f8d4fe19b2514c9 )
+	rom ( name sf2_36b.rom size 131072 crc c02a13eb sha1 b807cc495bff3f95d03b061fc629c95f965cb6d8 )
+	rom ( name sf2gfx01.rom size 524288 crc ba529b4f sha1 520840d727161cf09ca784919fa37bc9b54cc3ce )
+	rom ( name sf2gfx10.rom size 524288 crc 14b84312 sha1 2eea16673e60ba7a10bd4d8f6c217bb2441a5b0e )
+	rom ( name sf2gfx20.rom size 524288 crc c1befaa8 sha1 a6a7f4725e52678cbd8d557285c01cdccb2c2602 )
+	rom ( name sf2gfx02.rom size 524288 crc 22c9cc8e sha1 b9194fb337b30502c1c9501cd6c64ae4035544d4 )
+	rom ( name sf2gfx11.rom size 524288 crc 2c7e2229 sha1 357c2275af9133fd0bd6fbb1fa9ad5e0b490b3a2 )
+	rom ( name sf2gfx21.rom size 524288 crc 994bfa58 sha1 5669b845f624b10e7be56bfc89b76592258ce48b )
+	rom ( name sf2gfx03.rom size 524288 crc 4b1b33a8 sha1 2360cff890551f76775739e2d6563858bff80e41 )
+	rom ( name sf2gfx12.rom size 524288 crc 5e9cd89a sha1 f787aab98668d4c2c54fc4ba677c0cb808e4f31e )
+	rom ( name sf2gfx22.rom size 524288 crc 0627c831 sha1 f9a92d614e8877d648449de2612fc8b43c85e4c2 )
+	rom ( name sf2gfx04.rom size 524288 crc 57213be8 sha1 3759b851ac0904ec79cbb67a2264d384b6f2f9f9 )
+	rom ( name sf2gfx13.rom size 524288 crc b5548f17 sha1 baa92b91cf616bc9e2a8a66adc777ffbf962a51b )
+	rom ( name sf2gfx23.rom size 524288 crc 3e66ad9d sha1 9af9df0826988872662753e9717c48d46f2974b0 )
+	rom ( name sf2_09.rom size 65536 crc a4823a1b sha1 7b6bf59dfd578bfbbdb64c27988796783442d659 )
+	rom ( name sf2_18.rom size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name sf2_19.rom size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sfa
+	description "Street Fighter Alpha: Warriors' Dreams (Euro 950727)"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name sfze.03b size 524288 crc ebf2054d sha1 6e7b9e4202b86ab237ea5634c98b71b82d812ef2 )
+	rom ( name sfz.04b size 524288 crc 8b73b0e5 sha1 5318761f615c21395366b5333e75eaaa73ef2073 )
+	rom ( name sfz.05a size 524288 crc 0810544d sha1 5f39bda3e7b16508eb58e5a2e0cc58c09cf428ce )
+	rom ( name sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzex.03b size 524288 crc 505a1b4a sha1 3bfdd956ceb4412f260a6044ab2bcee334c1c5cb )
+	rom ( name sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfar1
+	description "Street Fighter Alpha: Warriors' Dreams (Euro 950605)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfa
+	romof sfa
+	rom ( name sfze.03a size 524288 crc fdbcd434 sha1 1d5f9b821d9e0d45be61896969500b877a112fad )
+	rom ( name sfz.04 size 524288 crc 0c436d30 sha1 84229896c99bb2a4fbbab33644f779c9f86704fb )
+	rom ( name sfz.05 size 524288 crc 1f363612 sha1 87203b5db2d3887762da431d6fc2f2b76d4feedb )
+	rom ( name sfz.06 merge sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzex.03a size 524288 crc b50d87c7 sha1 f2361f669875bc261862014f331f94f9d1d3ac71 )
+	rom ( name sfz.14 merge sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 merge sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 merge sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 merge sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 merge sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 merge sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 merge sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 merge sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfau
+	description "Street Fighter Alpha: Warriors' Dreams (US 950627)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfa
+	romof sfa
+	rom ( name sfzu.03a size 524288 crc 49fc7db9 sha1 2a13d987fade88e0372f418cf451f34de67372d5 )
+	rom ( name sfz.04a size 524288 crc 5f99e9a5 sha1 e9f286315d17096adc08e6b4e6ff7c5351f5bef3 )
+	rom ( name sfz.05a merge sfz.05a size 524288 crc 0810544d sha1 5f39bda3e7b16508eb58e5a2e0cc58c09cf428ce )
+	rom ( name sfz.06 merge sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzux.03 size 524288 crc 1a3160ed sha1 da2487b1cbd73a399a6feb15eb8c4d5f4ef26fc3 )
+	rom ( name sfz.14 merge sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 merge sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 merge sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 merge sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 merge sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 merge sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 merge sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 merge sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfzj
+	description "Street Fighter Zero (Japan 950727)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfa
+	romof sfa
+	rom ( name sfzj.03c size 524288 crc f5444120 sha1 22158894971754ad83b8eeb8bdfb9874794b98c0 )
+	rom ( name sfz.04b merge sfz.04b size 524288 crc 8b73b0e5 sha1 5318761f615c21395366b5333e75eaaa73ef2073 )
+	rom ( name sfz.05a merge sfz.05a size 524288 crc 0810544d sha1 5f39bda3e7b16508eb58e5a2e0cc58c09cf428ce )
+	rom ( name sfz.06 merge sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzjx.03c size 524288 crc d6b17a9b sha1 f6d3726427c6bee7e02505a9332759fc959b7d43 )
+	rom ( name sfz.14 merge sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 merge sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 merge sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 merge sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 merge sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 merge sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 merge sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 merge sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfzjr1
+	description "Street Fighter Zero (Japan 950627)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfa
+	romof sfa
+	rom ( name sfzj.03b size 524288 crc 844220c2 sha1 ff295207e0f9679285d805aa494537ae7daf1634 )
+	rom ( name sfz.04a size 524288 crc 5f99e9a5 sha1 e9f286315d17096adc08e6b4e6ff7c5351f5bef3 )
+	rom ( name sfz.05a merge sfz.05a size 524288 crc 0810544d sha1 5f39bda3e7b16508eb58e5a2e0cc58c09cf428ce )
+	rom ( name sfz.06 merge sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzjx.03b size 524288 crc b501f03c sha1 9f73a6177acae9174f06811642f7675e51a5809d )
+	rom ( name sfz.14 merge sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 merge sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 merge sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 merge sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 merge sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 merge sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 merge sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 merge sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfzjr2
+	description "Street Fighter Zero (Japan 950605)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfa
+	romof sfa
+	rom ( name sfzj.03a size 524288 crc 3cfce93c sha1 5f64e9707cb3d911f44e041d980e4b2250f49d75 )
+	rom ( name sfz.04 size 524288 crc 0c436d30 sha1 84229896c99bb2a4fbbab33644f779c9f86704fb )
+	rom ( name sfz.05 size 524288 crc 1f363612 sha1 87203b5db2d3887762da431d6fc2f2b76d4feedb )
+	rom ( name sfz.06 merge sfz.06 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfzjx.03a size 524288 crc 3cc138b5 sha1 9192989793c4388744d89df93781bb73e99315a0 )
+	rom ( name sfz.14 merge sfz.14 size 2097152 crc 90fefdb3 sha1 5eb28c8de57acfeaefebdd01509c7d9ba5244705 )
+	rom ( name sfz.16 merge sfz.16 size 2097152 crc 5354c948 sha1 07588f1ba6addc04fef3274c971174aaf3e632ab )
+	rom ( name sfz.18 merge sfz.18 size 2097152 crc 41a1e790 sha1 ce25dad542308691dbe9606b26279bbd59ea4b81 )
+	rom ( name sfz.20 merge sfz.20 size 2097152 crc a549df98 sha1 f054e95df650a891ef56da8bfb31cb2c945a9aed )
+	rom ( name sfz.01 merge sfz.01 size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz.02 merge sfz.02 size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz.11 merge sfz.11 size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfz.12 merge sfz.12 size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name sfa2
+	description "Street Fighter Alpha 2 (US 960306)"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name sz2u.03 size 524288 crc 84a09006 sha1 334c33f9eb324d71443cc9c44e94f5a72451fa3f )
+	rom ( name sz2u.04 size 524288 crc ac46e5ed sha1 a01b57daba4c255d5f07465c553bcbfe51d9ab0d )
+	rom ( name sz2u.05 size 524288 crc 6c0c79d3 sha1 ae2a4e2903beec1f10fff6edac1a2385d6ac1c38 )
+	rom ( name sz2u.06 size 524288 crc c5c8eb63 sha1 4ea033834c7b260877335296f88c0db484dea289 )
+	rom ( name sz2u.07 size 524288 crc 5de01cc5 sha1 b19bfe970b217c96e782860fc3ae3fcb976ed30d )
+	rom ( name sz2u.08 size 524288 crc bea11d56 sha1 a1d475066d36de7cc5d931671ccdcd89737bc7ee )
+	rom ( name sz2ux.03 size 524288 crc 6bb6005f sha1 faf8052047052cb353c2fbcf2aa2840c9d3b2cea )
+	rom ( name sz2ux.04 size 524288 crc 74308a4b sha1 d3dfeec64198be73b5594fd6a8f8d5440c637da1 )
+	rom ( name sz2.13 size 4194304 crc 4d1f1f22 sha1 659fb4305bcf0cbbbbec97ede6e68a8323b13308 )
+	rom ( name sz2.15 size 4194304 crc 19cea680 sha1 4cb88963a0fbcef191c8419b6379387c01b4c81e )
+	rom ( name sz2.17 size 4194304 crc e01b4588 sha1 c2936608fd75ff6cd5fa94c6d6d6f0c77c44a450 )
+	rom ( name sz2.19 size 4194304 crc 0feeda64 sha1 f5b350601437bd94b70d97feb23d791df19da6b3 )
+	rom ( name sz2.14 size 1048576 crc 0560c6aa sha1 f2bed3a8efef18052b51a7f0f6a888a18db813a1 )
+	rom ( name sz2.16 size 1048576 crc ae940f87 sha1 39ee26333abbe302ba76dced0196a2e6b3b1d02a )
+	rom ( name sz2.18 size 1048576 crc 4bc3c8bc sha1 6256963c515bf56f39b6e559afefd653ead56c54 )
+	rom ( name sz2.20 size 1048576 crc 39e674c0 sha1 8e771a2d8c2accad0463bccd21d7b23af0c895a1 )
+	rom ( name sz2.01a size 131072 crc 1bc323cf sha1 83fbd6e9b327700dc9f1c59700b7385bc3705749 )
+	rom ( name sz2.02a size 131072 crc ba6a5013 sha1 7814f3e56b69529b9860dd61c3b1e8d700244b03 )
+	rom ( name sz2.11 size 2097152 crc aa47a601 sha1 a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9 )
+	rom ( name sz2.12 size 2097152 crc 2237bc53 sha1 96d5693047e4cf1ed10a8ee1905cea267a278e92 )
+)
+
+game (
+	name sfz2a
+	description "Street Fighter Zero 2 (Asia 960227)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof sfa2
+	romof sfa2
+	rom ( name sz2a.03a size 524288 crc 30d2099f sha1 d4c7d8c2ad08cae228544bd692aedecd4fab829c )
+	rom ( name sz2a.04a size 524288 crc 1cc94db1 sha1 518151f443ff5219b20c9fd59b7614920302aecd )
+	rom ( name sz2.05 size 524288 crc 98e8e992 sha1 41745b63e6b3888081d189b8315ed3b7526b3d20 )
+	rom ( name sz2.06 size 524288 crc 5b1d49c0 sha1 f0a0c894c9cbe2b18e7f59058665949ee0025732 )
+	rom ( name sz2a.07a size 524288 crc 0aed2494 sha1 7beb1a394f17cd78a27128292b626aae28754ca2 )
+	rom ( name sz2.08 size 524288 crc 0fe8585d sha1 0cd5369a5aa90c98d8dc1ff3342cd4d990631cff )
+	rom ( name sz2ax.03a size 524288 crc b76d8578 sha1 78a9599e8d5d20d8c30772a498d3d5d0af4ec85b )
+	rom ( name sz2ax.04a size 524288 crc d4dc0b1e sha1 fa87ed3135061a32efd0cfdc0f18aa5aa03aab55 )
+	rom ( name sz2.13 merge sz2.13 size 4194304 crc 4d1f1f22 sha1 659fb4305bcf0cbbbbec97ede6e68a8323b13308 )
+	rom ( name sz2.15 merge sz2.15 size 4194304 crc 19cea680 sha1 4cb88963a0fbcef191c8419b6379387c01b4c81e )
+	rom ( name sz2.17 merge sz2.17 size 4194304 crc e01b4588 sha1 c2936608fd75ff6cd5fa94c6d6d6f0c77c44a450 )
+	rom ( name sz2.19 merge sz2.19 size 4194304 crc 0feeda64 sha1 f5b350601437bd94b70d97feb23d791df19da6b3 )
+	rom ( name sz2.14 merge sz2.14 size 1048576 crc 0560c6aa sha1 f2bed3a8efef18052b51a7f0f6a888a18db813a1 )
+	rom ( name sz2.16 merge sz2.16 size 1048576 crc ae940f87 sha1 39ee26333abbe302ba76dced0196a2e6b3b1d02a )
+	rom ( name sz2.18 merge sz2.18 size 1048576 crc 4bc3c8bc sha1 6256963c515bf56f39b6e559afefd653ead56c54 )
+	rom ( name sz2.20 merge sz2.20 size 1048576 crc 39e674c0 sha1 8e771a2d8c2accad0463bccd21d7b23af0c895a1 )
+	rom ( name sz2.01a merge sz2.01a size 131072 crc 1bc323cf sha1 83fbd6e9b327700dc9f1c59700b7385bc3705749 )
+	rom ( name sz2.02a merge sz2.02a size 131072 crc ba6a5013 sha1 7814f3e56b69529b9860dd61c3b1e8d700244b03 )
+	rom ( name sz2.11 merge sz2.11 size 2097152 crc aa47a601 sha1 a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9 )
+	rom ( name sz2.12 merge sz2.12 size 2097152 crc 2237bc53 sha1 96d5693047e4cf1ed10a8ee1905cea267a278e92 )
+)
+
+game (
+	name sfz2aj
+	description "Street Fighter Zero 2 Alpha (Japan 960805)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof sfa2
+	romof sfa2
+	rom ( name szaj.03a size 524288 crc a3802fe3 sha1 c983a15ed675b22aebfe6ac55890b4e0b5eb8d48 )
+	rom ( name szaj.04a size 524288 crc e7ca87c7 sha1 e44c930b27431dd2b983d93471a440d292e7a8bb )
+	rom ( name szaj.05a size 524288 crc c88ebf88 sha1 e37cf232fc70b9a3254dea99754e288232f04e25 )
+	rom ( name szaj.06a size 524288 crc 35ed5b7a sha1 b03cb92f594eb35fa374445f74930e9040a2baff )
+	rom ( name szaj.07a size 524288 crc 975dcb3e sha1 a2ca8e5a768e49cce9e2137ec0dcba9337ed2ad5 )
+	rom ( name szaj.08a size 524288 crc dc73f2d7 sha1 09fa10e7d1ff5f0dac87a6cf3d66730e3ab9ad25 )
+	rom ( name szajx.03a size 524288 crc 6d3aa71e sha1 f7827993639c7fe626f15dcb520de4d9ee361ca3 )
+	rom ( name szajx.04a size 524288 crc 006d5cb8 sha1 45773cb0b376faef5053603acca71ce577ada2aa )
+	rom ( name sz2.13 merge sz2.13 size 4194304 crc 4d1f1f22 sha1 659fb4305bcf0cbbbbec97ede6e68a8323b13308 )
+	rom ( name sz2.15 merge sz2.15 size 4194304 crc 19cea680 sha1 4cb88963a0fbcef191c8419b6379387c01b4c81e )
+	rom ( name sz2.17 merge sz2.17 size 4194304 crc e01b4588 sha1 c2936608fd75ff6cd5fa94c6d6d6f0c77c44a450 )
+	rom ( name sz2.19 merge sz2.19 size 4194304 crc 0feeda64 sha1 f5b350601437bd94b70d97feb23d791df19da6b3 )
+	rom ( name sz2.14 merge sz2.14 size 1048576 crc 0560c6aa sha1 f2bed3a8efef18052b51a7f0f6a888a18db813a1 )
+	rom ( name sz2.16 merge sz2.16 size 1048576 crc ae940f87 sha1 39ee26333abbe302ba76dced0196a2e6b3b1d02a )
+	rom ( name sz2.18 merge sz2.18 size 1048576 crc 4bc3c8bc sha1 6256963c515bf56f39b6e559afefd653ead56c54 )
+	rom ( name sz2.20 merge sz2.20 size 1048576 crc 39e674c0 sha1 8e771a2d8c2accad0463bccd21d7b23af0c895a1 )
+	rom ( name sz2.01a merge sz2.01a size 131072 crc 1bc323cf sha1 83fbd6e9b327700dc9f1c59700b7385bc3705749 )
+	rom ( name sz2.02a merge sz2.02a size 131072 crc ba6a5013 sha1 7814f3e56b69529b9860dd61c3b1e8d700244b03 )
+	rom ( name sz2.11 merge sz2.11 size 2097152 crc aa47a601 sha1 a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9 )
+	rom ( name sz2.12 merge sz2.12 size 2097152 crc 2237bc53 sha1 96d5693047e4cf1ed10a8ee1905cea267a278e92 )
+)
+
+game (
+	name sfz2j
+	description "Street Fighter Zero 2 (Japan 960227)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof sfa2
+	romof sfa2
+	rom ( name sz2j.03a size 524288 crc 97461e28 sha1 8fbe4c9a59f51612f86adb8ef5057e43be0348bf )
+	rom ( name sz2j.04a size 524288 crc ae4851a9 sha1 4771bc22fe1b376b753a68506c012c52bd4b886d )
+	rom ( name sz2.05 size 524288 crc 98e8e992 sha1 41745b63e6b3888081d189b8315ed3b7526b3d20 )
+	rom ( name sz2.06 size 524288 crc 5b1d49c0 sha1 f0a0c894c9cbe2b18e7f59058665949ee0025732 )
+	rom ( name sz2j.07a size 524288 crc d910b2a2 sha1 aa201660caa9cef993c147a1077c9e7767b34a78 )
+	rom ( name sz2.08 size 524288 crc 0fe8585d sha1 0cd5369a5aa90c98d8dc1ff3342cd4d990631cff )
+	rom ( name sz2jx.03a size 524288 crc 6a765c08 sha1 dab39e17e749b32908a22fa62812034a0e1a5189 )
+	rom ( name sz2jx.04a size 524288 crc 66139273 sha1 e9a3c56bfd0f29f192cc9a53447bddadadb3815a )
+	rom ( name sz2.13 merge sz2.13 size 4194304 crc 4d1f1f22 sha1 659fb4305bcf0cbbbbec97ede6e68a8323b13308 )
+	rom ( name sz2.15 merge sz2.15 size 4194304 crc 19cea680 sha1 4cb88963a0fbcef191c8419b6379387c01b4c81e )
+	rom ( name sz2.17 merge sz2.17 size 4194304 crc e01b4588 sha1 c2936608fd75ff6cd5fa94c6d6d6f0c77c44a450 )
+	rom ( name sz2.19 merge sz2.19 size 4194304 crc 0feeda64 sha1 f5b350601437bd94b70d97feb23d791df19da6b3 )
+	rom ( name sz2.14 merge sz2.14 size 1048576 crc 0560c6aa sha1 f2bed3a8efef18052b51a7f0f6a888a18db813a1 )
+	rom ( name sz2.16 merge sz2.16 size 1048576 crc ae940f87 sha1 39ee26333abbe302ba76dced0196a2e6b3b1d02a )
+	rom ( name sz2.18 merge sz2.18 size 1048576 crc 4bc3c8bc sha1 6256963c515bf56f39b6e559afefd653ead56c54 )
+	rom ( name sz2.20 merge sz2.20 size 1048576 crc 39e674c0 sha1 8e771a2d8c2accad0463bccd21d7b23af0c895a1 )
+	rom ( name sz2.01a merge sz2.01a size 131072 crc 1bc323cf sha1 83fbd6e9b327700dc9f1c59700b7385bc3705749 )
+	rom ( name sz2.02a merge sz2.02a size 131072 crc ba6a5013 sha1 7814f3e56b69529b9860dd61c3b1e8d700244b03 )
+	rom ( name sz2.11 merge sz2.11 size 2097152 crc aa47a601 sha1 a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9 )
+	rom ( name sz2.12 merge sz2.12 size 2097152 crc 2237bc53 sha1 96d5693047e4cf1ed10a8ee1905cea267a278e92 )
+)
+
+game (
+	name sfa3
+	description "Street Fighter Alpha 3 (US 980904)"
+	year 1998
+	manufacturer "Capcom"
+	rom ( name sz3u.03c size 524288 crc e007da2e sha1 d190ac7ca2c27f11b9b4f96860b226bbea0ee403 )
+	rom ( name sz3u.04c size 524288 crc 5f78f0e7 sha1 f4df30fd3515fe9f1125f470b96028052c61f57b )
+	rom ( name sz3.05c size 524288 crc 57fd0a40 sha1 bc2d5f4d57117bbf58b1adb088e00424ef489e92 )
+	rom ( name sz3.06c size 524288 crc f6305f8b sha1 3fd1ebdbad96103aca604e950b488e52460a71ec )
+	rom ( name sz3.07c size 524288 crc 6eab0f6f sha1 f8d093dda65cf4e8a3000dc1b96355bb03dcb495 )
+	rom ( name sz3.08c size 524288 crc 910c4a3b sha1 dbd41280f9b16ad6a5b8f12092549970349395f1 )
+	rom ( name sz3.09c size 524288 crc b29e5199 sha1 c6c215eb5aa37f678a9cafcbd8620969fb5ca12f )
+	rom ( name sz3.10b size 524288 crc deb2ff52 sha1 0aa4722aad68a04164946c78bf05752f947b4322 )
+	rom ( name sz3ux.03c size 524288 crc 7091276b sha1 3e101c5c1399a76196e08394420b4b332123063b )
+	rom ( name sz3ux.04c size 524288 crc 83b213b1 sha1 d246ba1db1930ef03b00615575a51e78612a2118 )
+	rom ( name sz3.13 size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15 size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17 size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19 size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14 size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16 size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18 size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20 size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11 size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12 size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name sfa3r1
+	description "Street Fighter Alpha 3 (US 980629)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfa3
+	romof sfa3
+	rom ( name sz3u.03 size 524288 crc b5984a19 sha1 e225dd1d3a5d1b94adcfc5f720775e9ba321996e )
+	rom ( name sz3u.04 size 524288 crc 7e8158ba sha1 a9984d7c9d02a9ebaf98cfd0dcbcf26e82e904de )
+	rom ( name sz3.05 size 524288 crc 9b21518a sha1 5a928307cb90a98a62e7598cb101fb66d62b85f9 )
+	rom ( name sz3.06 size 524288 crc e7a6c3a7 sha1 63441eb19efcbf9149f4b723d3e9191fa972de2a )
+	rom ( name sz3.07 size 524288 crc ec4c0cfd sha1 1a5148e77bf633c728a8179dacb59c776f981bc4 )
+	rom ( name sz3.08 size 524288 crc 5c7e7240 sha1 33bdcdd1889f8fa77916373ed33b0854410d0263 )
+	rom ( name sz3.09 size 524288 crc c5589553 sha1 cda1fdc2ab2f390a2358defd9923a2796093926d )
+	rom ( name sz3.10 size 524288 crc a9717252 sha1 7ee94ace2a49e4e5d30474e49c0da04a488010fe )
+	rom ( name sz3ux.03 size 524288 crc 42994875 sha1 5d304d75cce15097681a33c7934e188097a8611d )
+	rom ( name sz3ux.04 size 524288 crc 86ee79e3 sha1 093c2759de7b06dde633c7a09fb8595045c2d950 )
+	rom ( name sz3.13 merge sz3.13 size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15 merge sz3.15 size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17 merge sz3.17 size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19 merge sz3.19 size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14 merge sz3.14 size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16 merge sz3.16 size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18 merge sz3.18 size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20 merge sz3.20 size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3.01 merge sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 merge sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11 merge sz3.11 size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12 merge sz3.12 size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name sfz3a
+	description "Street Fighter Zero 3 (Asia 980701)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfa3
+	romof sfa3
+	rom ( name sz3a.03a size 524288 crc 29c681fd sha1 5ee4c4e282789e4cdba5a317c7049e8c0d8b774b )
+	rom ( name sz3a.04 size 524288 crc 9ddd1484 sha1 d484b93d1653f522ee33285e58139167b3214902 )
+	rom ( name sz3.05 size 524288 crc 9b21518a sha1 5a928307cb90a98a62e7598cb101fb66d62b85f9 )
+	rom ( name sz3.06 size 524288 crc e7a6c3a7 sha1 63441eb19efcbf9149f4b723d3e9191fa972de2a )
+	rom ( name sz3.07 size 524288 crc ec4c0cfd sha1 1a5148e77bf633c728a8179dacb59c776f981bc4 )
+	rom ( name sz3.08 size 524288 crc 5c7e7240 sha1 33bdcdd1889f8fa77916373ed33b0854410d0263 )
+	rom ( name sz3.09 size 524288 crc c5589553 sha1 cda1fdc2ab2f390a2358defd9923a2796093926d )
+	rom ( name sz3.10 size 524288 crc a9717252 sha1 7ee94ace2a49e4e5d30474e49c0da04a488010fe )
+	rom ( name sz3ax.03a size 524288 crc f3ad39ac sha1 70a8b1abf1a9fe4a4250122a0584ba5c214f9933 )
+	rom ( name sz3ax.04 size 524288 crc 792527ca sha1 8aef6a30267ba64e86c53ef2610575ec6050388e )
+	rom ( name sz3.13 merge sz3.13 size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15 merge sz3.15 size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17 merge sz3.17 size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19 merge sz3.19 size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14 merge sz3.14 size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16 merge sz3.16 size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18 merge sz3.18 size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20 merge sz3.20 size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3.01 merge sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 merge sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11 merge sz3.11 size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12 merge sz3.12 size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name sfz3j
+	description "Street Fighter Zero 3 (Japan 980727)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfa3
+	romof sfa3
+	rom ( name sz3j.03a size 524288 crc 6ee0beae sha1 243436fb64628f70cd130c7029d365ae97f3f42d )
+	rom ( name sz3j.04a size 524288 crc a6e2978d sha1 27e350e78aa204670c0ee6c60baddee46a92a584 )
+	rom ( name sz3.05a size 524288 crc 05964b7d sha1 ac9fa2c69c712a01647f0572381d875b1eb90886 )
+	rom ( name sz3.06a size 524288 crc 78ce2179 sha1 98a6f55bbdc45167fcc04cd6c3b7d71ffab31911 )
+	rom ( name sz3.07a size 524288 crc 398bf52f sha1 2c8880b65b83724b956294b903b5038091b543c5 )
+	rom ( name sz3.08a size 524288 crc 866d0588 sha1 f2e9ca1bb606e4d2e3c9b62dd80074670a2e8e45 )
+	rom ( name sz3.09a size 524288 crc 2180892c sha1 65a44c612b1c6dd527b306c262caa5040897ce7b )
+	rom ( name sz3.10 size 524288 crc a9717252 sha1 7ee94ace2a49e4e5d30474e49c0da04a488010fe )
+	rom ( name sz3jx.03a size 524288 crc b2f4046d sha1 c6f2149162bc70cb28a8894028ab01b4ccad51e7 )
+	rom ( name sz3jx.04a size 524288 crc 85c38642 sha1 82fab019daaef12476a5cf7130ec78fcb871b915 )
+	rom ( name sz3.13 merge sz3.13 size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15 merge sz3.15 size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17 merge sz3.17 size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19 merge sz3.19 size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14 merge sz3.14 size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16 merge sz3.16 size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18 merge sz3.18 size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20 merge sz3.20 size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3.01 merge sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 merge sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11 merge sz3.11 size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12 merge sz3.12 size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name sfz3jr1
+	description "Street Fighter Zero 3 (Japan 980629)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfa3
+	romof sfa3
+	rom ( name sz3j.03 size 524288 crc f7cb4b13 sha1 5f86d23cf3725d9440200732405b437545ac8dd7 )
+	rom ( name sz3j.04 size 524288 crc 0846c29d sha1 f2e96b4f6e0187c382411276ff3a485cdc2df289 )
+	rom ( name sz3.05 size 524288 crc 9b21518a sha1 5a928307cb90a98a62e7598cb101fb66d62b85f9 )
+	rom ( name sz3.06 size 524288 crc e7a6c3a7 sha1 63441eb19efcbf9149f4b723d3e9191fa972de2a )
+	rom ( name sz3.07 size 524288 crc ec4c0cfd sha1 1a5148e77bf633c728a8179dacb59c776f981bc4 )
+	rom ( name sz3.08 size 524288 crc 5c7e7240 sha1 33bdcdd1889f8fa77916373ed33b0854410d0263 )
+	rom ( name sz3.09 size 524288 crc c5589553 sha1 cda1fdc2ab2f390a2358defd9923a2796093926d )
+	rom ( name sz3.10 size 524288 crc a9717252 sha1 7ee94ace2a49e4e5d30474e49c0da04a488010fe )
+	rom ( name sz3jx.03 size 524288 crc acd88307 sha1 bbe12ea38015497d4ef2cf067df112ce6a4a7c1b )
+	rom ( name sz3jx.04 size 524288 crc 2c15655b sha1 3277c8fd9319a16b3c30b1690d7a7b19a2d94004 )
+	rom ( name sz3.13 merge sz3.13 size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15 merge sz3.15 size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17 merge sz3.17 size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19 merge sz3.19 size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14 merge sz3.14 size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16 merge sz3.16 size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18 merge sz3.18 size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20 merge sz3.20 size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3.01 merge sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 merge sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11 merge sz3.11 size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12 merge sz3.12 size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name shdancer
+	description "Shadow Dancer (US)"
+	year 1989
+	manufacturer "Sega"
+	rom ( name shdancer.a6 size 262144 crc 3d5b3fa9 sha1 370dd6e8ab9fb9e77eee9262d13fbdb4cf575abc )
+	rom ( name shdancer.a5 size 262144 crc 2596004e sha1 1b993aa74e7559f7e99253fd2144db9449c04cce )
+	rom ( name sd12712.bin size 262144 crc 9bdabe3d sha1 4bb30fa2d4cdefe4a864cef7153b516bc5b02c42 )
+	rom ( name sd12713.bin size 262144 crc 852d2b1c sha1 8e5bc83d45e48b621ea3016207f2028fe41701e6 )
+	rom ( name sd12714.bin size 262144 crc 448226ce sha1 3060e4a43311069e2691d659c1e0c1a48edfeedb )
+	rom ( name sd12719.bin size 262144 crc d6888534 sha1 2201f1921a68cf39e5a94b487c90e48d032d630f )
+	rom ( name sd12726.bin size 262144 crc ff344945 sha1 2743778c42f53321f9691d60bbf94ea8baf1382f )
+	rom ( name sd12718.bin size 262144 crc ba2efc0c sha1 459a1a280f870c94aefb70127ed007cb090ed203 )
+	rom ( name sd12725.bin size 262144 crc 268a0c17 sha1 2756054fa3c3aed30a1fce5e41acb0ceaebe90b5 )
+	rom ( name sd12717.bin size 262144 crc c81cc4f8 sha1 22f364e85057ceef533e051c8d0755b9691c5ec4 )
+	rom ( name sd12724.bin size 262144 crc 0f4903dc sha1 851bd60e877c9e39be23dc1fde91efc9da513c29 )
+	rom ( name sd12716.bin size 262144 crc a870e629 sha1 29f6633240f9737ec19e16100decc7aa045b2060 )
+	rom ( name sd12723.bin size 262144 crc c606cf90 sha1 cb53ae9a6da1eb31c584173d1fbbd1c8539fb54c )
+)
+
+game (
+	name shinobi
+	description "Shinobi (set 1)"
+	year 1987
+	manufacturer "Sega"
+	rom ( name shinobi.a4 size 65536 crc b930399d sha1 955ff2948e1990463631b0bc5c7f5275384236cc )
+	rom ( name shinobi.a1 size 65536 crc 343f4c46 sha1 2cf5d00462ad85ae9a2e16d59171c8ab85e10f49 )
+	rom ( name epr11283 size 65536 crc 9d46e707 sha1 37ab25b3b37365c9f45837bfb6ec80652691dd4c )
+	rom ( name epr11281 size 65536 crc 7961d07e sha1 38cbdab35f901532c0ad99ad0083513abd2ff182 )
+	rom ( name shinobi.b9 size 65536 crc 5f62e163 sha1 03f008745a1af84142ada647acf3601049f43ad5 )
+	rom ( name shinobi.b10 size 65536 crc 75f8fbc9 sha1 29072edcd583af60ec66b4c8bb82b179a3751edf )
+	rom ( name shinobi.b11 size 65536 crc 06508bb9 sha1 57c9036123ec8e35d0275ab6eaff25a16aa203d4 )
+	rom ( name epr11290.10 size 65536 crc 611f413a sha1 180f83216e2dfbfd77b0fb3be83c3042954d12df )
+	rom ( name epr11294.11 size 65536 crc 5eb00fc1 sha1 97e02eee74f61fabcad2a9e24f1868cafaac1d51 )
+	rom ( name epr11291.17 size 65536 crc 3c0797c0 sha1 df18c7987281bd9379026c6cf7f96f6ae49fd7f9 )
+	rom ( name epr11295.18 size 65536 crc 25307ef8 sha1 91ffbe436f80d583524ee113a8b7c0cf5d8ab286 )
+	rom ( name epr11292.23 size 65536 crc c29ac34e sha1 b5e9b8c3233a7d6797f91531a0d9123febcf1660 )
+	rom ( name epr11296.24 size 65536 crc 04a437f8 sha1 ea5fed64443236e3404fab243761e60e2e48c84c )
+	rom ( name epr11293.29 size 65536 crc 41f41063 sha1 5cc461e9738dddf9eea06831fce3702d94674163 )
+	rom ( name epr11297.30 size 65536 crc b6e1fd72 sha1 eb86e4bf880bd1a1d9bcab3f2f2e917bcaa06172 )
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf sha1 ddfac640e442537acb015de8bb088659f5a217ee )
+)
+
+game (
+	name shocktro
+	description "Shock Troopers"
+	year 1997
+	manufacturer "Saurus"
+	romof neogeo
+	rom ( name shock_p1.rom size 1048576 crc 5677456f sha1 f76169fa5c90871d65e2a16fd1bb036c90533ac8 )
+	rom ( name shock_p2.rom size 4194304 crc 646f6c76 sha1 d8fb851414995ba09dbe397d9ed1c765a52d8e1e )
+	rom ( name shock_s1.rom size 131072 crc 1f95cedb sha1 adfa74868147fd260481e4c387d254d3b6de83f4 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name shock_m1.rom size 131072 crc 075b9518 sha1 ac21b88a860b9572bf24432b4cadcc96d108055d )
+	rom ( name shock_v1.rom size 4194304 crc 260c0bef sha1 9c4f80ce4bb205afed11bb8b8926d20748eb5512 )
+	rom ( name shock_v2.rom size 2097152 crc 4ad7d59e sha1 bfdf2684f7f38af4e75ad0068ff9463dc2601598 )
+	rom ( name shock_c1.rom size 4194304 crc aad087fc sha1 7246269496d53b4af2ee12a69620f29272ea9037 )
+	rom ( name shock_c2.rom size 4194304 crc 7e39df1f sha1 ecead5bf06dc5719de0ae7593560b37e0f1481b0 )
+	rom ( name shock_c3.rom size 4194304 crc 6682a458 sha1 2dc2c8c88d5c471869b08596eef585ad18f2b370 )
+	rom ( name shock_c4.rom size 4194304 crc cbef1f17 sha1 25080c4f4ac4e7075c4f976d8fa6ab4d8f7d7237 )
+	rom ( name shock_c5.rom size 4194304 crc e17762b1 sha1 1cc8cb9e485d86e5e0e50bcbe0e81cfb273f0664 )
+	rom ( name shock_c6.rom size 4194304 crc 28beab71 sha1 683abb317b1b95ba122859aea701f52197c10208 )
+	rom ( name shock_c7.rom size 4194304 crc a47e62d2 sha1 39285f78a9ed1138034de91efb7045084a5925f0 )
+	rom ( name shock_c8.rom size 4194304 crc e8e890fb sha1 abbbfa0e162d7711d62df08a9721d8c923888c78 )
+)
+
+game (
+	name spf2t
+	description "Super Puzzle Fighter 2 Turbo (US 960620)"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name pzfu.03a size 524288 crc 346e62ef sha1 9db5ea0aac2d459be957f8b6e2e0d18421587d4d )
+	rom ( name pzf.04a size 524288 crc b80649e2 sha1 5bfccd656aea7ff82e9a20bb5856f4ab99b5a007 )
+	rom ( name pzfux.03a size 524288 crc 200feea6 sha1 6f549caa9d7456b8ddc59739be87a1b2c0cc844e )
+	rom ( name pzf.14 size 1048576 crc 2d4881cb sha1 fd3baa183c25bed153b19c251980e2fb761600e2 )
+	rom ( name pzf.16 size 1048576 crc 4b0fd1be sha1 377aafdcdb7a866b1c8487670e3598d8197976e4 )
+	rom ( name pzf.18 size 1048576 crc e43aac33 sha1 d041e0688c3807d3363861a7f216de43b34d846c )
+	rom ( name pzf.20 size 1048576 crc 7f536ff1 sha1 905b9d62ef7bef47297c7f4a4dd697aed6df38a5 )
+	rom ( name pzf.01 size 131072 crc 600fb2a3 sha1 1fab1c2a23bf6ad8309d29ddbbc29435a8aeea13 )
+	rom ( name pzf.02 size 131072 crc 496076e0 sha1 1ee4e135140afd0e8e03231e570cd77d140f6367 )
+	rom ( name pzf.11 size 2097152 crc 78442743 sha1 b61190bb586871de6d54af580e3e1d9cc0de0acb )
+	rom ( name pzf.12 size 2097152 crc 399d2c7b sha1 e849dea97b8d16540415c0d9bbc4f9f4eb755ec4 )
+)
+
+game (
+	name spf2xj
+	description "Super Puzzle Fighter 2 X (Japan 960531)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof spf2t
+	romof spf2t
+	rom ( name pzfj.03a size 524288 crc 2070554a sha1 fa818e6bd2e11667345d3d8f2397b60802ef72f9 )
+	rom ( name pzf.04a merge pzf.04a size 524288 crc b80649e2 sha1 5bfccd656aea7ff82e9a20bb5856f4ab99b5a007 )
+	rom ( name pzfjx.03a size 524288 crc c2e3f231 sha1 094054502e42c8a5347cc1d8d914bef786328b5a )
+	rom ( name pzf.14 merge pzf.14 size 1048576 crc 2d4881cb sha1 fd3baa183c25bed153b19c251980e2fb761600e2 )
+	rom ( name pzf.16 merge pzf.16 size 1048576 crc 4b0fd1be sha1 377aafdcdb7a866b1c8487670e3598d8197976e4 )
+	rom ( name pzf.18 merge pzf.18 size 1048576 crc e43aac33 sha1 d041e0688c3807d3363861a7f216de43b34d846c )
+	rom ( name pzf.20 merge pzf.20 size 1048576 crc 7f536ff1 sha1 905b9d62ef7bef47297c7f4a4dd697aed6df38a5 )
+	rom ( name pzf.01 merge pzf.01 size 131072 crc 600fb2a3 sha1 1fab1c2a23bf6ad8309d29ddbbc29435a8aeea13 )
+	rom ( name pzf.02 merge pzf.02 size 131072 crc 496076e0 sha1 1ee4e135140afd0e8e03231e570cd77d140f6367 )
+	rom ( name pzf.11 merge pzf.11 size 2097152 crc 78442743 sha1 b61190bb586871de6d54af580e3e1d9cc0de0acb )
+	rom ( name pzf.12 merge pzf.12 size 2097152 crc 399d2c7b sha1 e849dea97b8d16540415c0d9bbc4f9f4eb755ec4 )
+)
+
+game (
+	name ssideki
+	description "Super Sidekicks / Tokuten Ou"
+	year 1992
+	manufacturer "SNK"
+	romof neogeo
+	rom ( name sidek_p1.rom size 524288 crc 9cd97256 sha1 1c780b711137fd79cc81b01941e84f3d59e0071f )
+	rom ( name sidek_s1.rom size 131072 crc 97689804 sha1 fa8dab3b3353d7115a0368f3fc749950c0186fbc )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name sidek_m1.rom size 131072 crc 49f17d2d sha1 70971fcf71ae3a6b2e26e7ade8063941fb178ae5 )
+	rom ( name sidek_v1.rom size 2097152 crc 22c097a5 sha1 328c4e6db0a026f54a633cff1443a3f964a8daea )
+	rom ( name sidek_c1.rom size 2097152 crc 53e1c002 sha1 2125b1be379ea7933893ffb1cd65d6c4bf8b03bd )
+	rom ( name sidek_c2.rom size 2097152 crc 776a2d1f sha1 bca0bac87443e9e78c623d284f6cc96cc9c9098f )
+)
+
+game (
+	name turfmast
+	description "Neo Turf Masters / Big Tournament Golf"
+	year 1996
+	manufacturer "Nazca"
+	romof neogeo
+	rom ( name turfm_p1.rom size 2097152 crc 28c83048 sha1 e7ef87e1de21d2bb17ef17bb08657e92363f0e9a )
+	rom ( name turfm_s1.rom size 131072 crc 9a5402b2 sha1 ae1a0b5450869d61b2bb23671c744d3dda8769c4 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name turfm_m1.rom size 131072 crc 9994ac00 sha1 7bded797f3b80fd00bcbe451ac0abe6646b19a14 )
+	rom ( name turfm_v1.rom size 2097152 crc 00fd48d2 sha1 ddfee09328632e598fd51537b3ae8593219b2111 )
+	rom ( name turfm_v2.rom size 2097152 crc 082acb31 sha1 2f1c053040e9d50a6d45fd7bea1b96742bae694f )
+	rom ( name turfm_v3.rom size 2097152 crc 7abca053 sha1 e229bc0ea82a371d6ee8fd9fe442b0fd141d0a71 )
+	rom ( name turfm_v4.rom size 2097152 crc 6c7b4902 sha1 d55e0f542d928a9a851133ff26763c8236cbbd4d )
+	rom ( name turfm_c1.rom size 4194304 crc 8c6733f2 sha1 c4d20a8df03bbb6bb72b8fc089d4833b79c75cee )
+	rom ( name turfm_c2.rom size 4194304 crc 596cc256 sha1 705f949b3ba721b2e7973eaf2b2f9283dfef778c )
+)
+
+game (
+	name viewpoin
+	description "Viewpoint"
+	year 1992
+	manufacturer "Sammy"
+	romof neogeo
+	rom ( name viewp_p1.rom size 1048576 crc 17aa899d sha1 674cd8ace7acdf4f407de741e3d0071bcb49c902 )
+	rom ( name viewp_s1.rom size 65536 crc 6d0f146a sha1 537fc5ef099f46fef64d147c0d1264b319758b4f )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name viewp_m1.rom size 65536 crc d57bd7af sha1 9ed766dbc3c07dbba7869ff335eeb7e297c8e2d9 )
+	rom ( name viewp_v1.rom size 2097152 crc 019978b6 sha1 7896a551115fc6ed38b5944e0c8dcb2b2c1c077d )
+	rom ( name viewp_v2.rom size 2097152 crc 5758f38c sha1 da10f4b7d22d9139bbf068bd940be82168a74ca1 )
+	rom ( name viewp_c1.rom size 2097152 crc d624c132 sha1 49c7e9f020cba45d7083b45252bcc03397f8c286 )
+	rom ( name viewp_c2.rom size 2097152 crc 40d69f1e sha1 ec4a13582772594957f927622d50f54b0dfcd8d8 )
+)
+
+game (
+	name vsav
+	description "Vampire Savior: The Lord of Vampire (Euro 970519)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name vm3e.03d size 524288 crc f5962a8c sha1 e37d48b78186c7c097894d6c17faf7c9333f61eb )
+	rom ( name vm3e.04d size 524288 crc 21b40ea2 sha1 6790fa3e618850f518cbd470f44434a71be6f29f )
+	rom ( name vm3.05a size 524288 crc 4118e00f sha1 94ce8abc5ff547667f4c6022d84d0ed4cd062d7e )
+	rom ( name vm3.06a size 524288 crc 2f4fd3a9 sha1 48549ff0121312ea4a18d0fa167a32f905c14c9f )
+	rom ( name vm3.07b size 524288 crc cbda91b8 sha1 31b20aa92422384b1d7a4706ad4c01ea2bd0e0d1 )
+	rom ( name vm3.08a size 524288 crc 6ca47259 sha1 485d8f3a132ccb3f7930cae74de8662d2d44e412 )
+	rom ( name vm3.09b size 524288 crc f4a339e3 sha1 abd101a55f7d9ddb8aba04fe8d3f0f5d2006c925 )
+	rom ( name vm3.10b size 524288 crc fffbb5b8 sha1 38aecb820bd1cbd17287848c3ffb013e1d464ddf )
+	rom ( name vm3ex.03d size 524288 crc fa586edf sha1 75a6b2c20a59c668d262121db4ba56464823e09b )
+	rom ( name vm3ex.04d size 524288 crc eb912f2b sha1 4067e2c4ae5c014825d1283eba6a890845a5632c )
+	rom ( name vm3.13 size 4194304 crc fd8a11eb sha1 21b9773959e17976ff46b75a6a405042836b2c5f )
+	rom ( name vm3.15 size 4194304 crc dd1e7d4e sha1 30476e061cdebdb1838b83f4ebd5efae12b7dbfb )
+	rom ( name vm3.17 size 4194304 crc 6b89445e sha1 2abd489839d143c46e25f4fc3db476b70607dc03 )
+	rom ( name vm3.19 size 4194304 crc 3830fdc7 sha1 ebd3f559c254d349e256c9feb3477f1ed7518206 )
+	rom ( name vm3.14 size 4194304 crc c1a28e6c sha1 012803af33174c0602649d2a2d84f6ee79f54ad2 )
+	rom ( name vm3.16 size 4194304 crc 194a7304 sha1 a19a9a6fb829953b054dc5c3b0dc017f60d37928 )
+	rom ( name vm3.18 size 4194304 crc df9a9f47 sha1 ce29ff00cf4b6fdd9b3b1ed87823534f1d364eab )
+	rom ( name vm3.20 size 4194304 crc c22fc3d9 sha1 df7538c05b03a4ad94d369f8083799979e6fac42 )
+	rom ( name vm3.01 size 131072 crc f778769b sha1 788ce1ad8a322179f634df9e62a31ad776b96762 )
+	rom ( name vm3.02 size 131072 crc cc09faa1 sha1 2962ef0ceaf7e7279de3c421ea998763330eb43e )
+	rom ( name vm3.11 size 4194304 crc e80e956e sha1 74181fca4b764fb3c56ceef2cb4c6fd6c18ec4b6 )
+	rom ( name vm3.12 size 4194304 crc 9cd71557 sha1 7059db25698a0b286314c5961c618f6d2e6f24a1 )
+)
+
+game (
+	name vsava
+	description "Vampire Savior: The Lord of Vampire (Asia 970519)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof vsav
+	romof vsav
+	rom ( name vm3a.03d size 524288 crc 44c1198f sha1 35714b2f6ebeafea93be6467b5b22ea41b9f3826 )
+	rom ( name vm3a.04d size 524288 crc 2218b781 sha1 5dd28cc1b70b2953fbd4d5fd14abeeb3b83b193e )
+	rom ( name vm3.05a merge vm3.05a size 524288 crc 4118e00f sha1 94ce8abc5ff547667f4c6022d84d0ed4cd062d7e )
+	rom ( name vm3.06a merge vm3.06a size 524288 crc 2f4fd3a9 sha1 48549ff0121312ea4a18d0fa167a32f905c14c9f )
+	rom ( name vm3.07b merge vm3.07b size 524288 crc cbda91b8 sha1 31b20aa92422384b1d7a4706ad4c01ea2bd0e0d1 )
+	rom ( name vm3.08a merge vm3.08a size 524288 crc 6ca47259 sha1 485d8f3a132ccb3f7930cae74de8662d2d44e412 )
+	rom ( name vm3.09b merge vm3.09b size 524288 crc f4a339e3 sha1 abd101a55f7d9ddb8aba04fe8d3f0f5d2006c925 )
+	rom ( name vm3.10b merge vm3.10b size 524288 crc fffbb5b8 sha1 38aecb820bd1cbd17287848c3ffb013e1d464ddf )
+	rom ( name vm3ax.03d size 524288 crc 3aea7d92 sha1 733cb81b19c94feaf708d8de2e0811fc2e8bf008 )
+	rom ( name vm3ax.04d size 524288 crc b5697f3a sha1 525f659604261bfbdde8bcfbb2eb0b56d2d0a60b )
+	rom ( name vm3.13 merge vm3.13 size 4194304 crc fd8a11eb sha1 21b9773959e17976ff46b75a6a405042836b2c5f )
+	rom ( name vm3.15 merge vm3.15 size 4194304 crc dd1e7d4e sha1 30476e061cdebdb1838b83f4ebd5efae12b7dbfb )
+	rom ( name vm3.17 merge vm3.17 size 4194304 crc 6b89445e sha1 2abd489839d143c46e25f4fc3db476b70607dc03 )
+	rom ( name vm3.19 merge vm3.19 size 4194304 crc 3830fdc7 sha1 ebd3f559c254d349e256c9feb3477f1ed7518206 )
+	rom ( name vm3.14 merge vm3.14 size 4194304 crc c1a28e6c sha1 012803af33174c0602649d2a2d84f6ee79f54ad2 )
+	rom ( name vm3.16 merge vm3.16 size 4194304 crc 194a7304 sha1 a19a9a6fb829953b054dc5c3b0dc017f60d37928 )
+	rom ( name vm3.18 merge vm3.18 size 4194304 crc df9a9f47 sha1 ce29ff00cf4b6fdd9b3b1ed87823534f1d364eab )
+	rom ( name vm3.20 merge vm3.20 size 4194304 crc c22fc3d9 sha1 df7538c05b03a4ad94d369f8083799979e6fac42 )
+	rom ( name vm3.01 merge vm3.01 size 131072 crc f778769b sha1 788ce1ad8a322179f634df9e62a31ad776b96762 )
+	rom ( name vm3.02 merge vm3.02 size 131072 crc cc09faa1 sha1 2962ef0ceaf7e7279de3c421ea998763330eb43e )
+	rom ( name vm3.11 merge vm3.11 size 4194304 crc e80e956e sha1 74181fca4b764fb3c56ceef2cb4c6fd6c18ec4b6 )
+	rom ( name vm3.12 merge vm3.12 size 4194304 crc 9cd71557 sha1 7059db25698a0b286314c5961c618f6d2e6f24a1 )
+)
+
+game (
+	name vsavu
+	description "Vampire Savior: The Lord of Vampire (US 970519)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof vsav
+	romof vsav
+	rom ( name vm3u.03d size 524288 crc 1f295274 sha1 c926d8af4fccee5104507ee0196b05dcd419ee20 )
+	rom ( name vm3u.04d size 524288 crc c46adf81 sha1 85ffb9b3282874d6ce9318a88429666e98f67cea )
+	rom ( name vm3.05a merge vm3.05a size 524288 crc 4118e00f sha1 94ce8abc5ff547667f4c6022d84d0ed4cd062d7e )
+	rom ( name vm3.06a merge vm3.06a size 524288 crc 2f4fd3a9 sha1 48549ff0121312ea4a18d0fa167a32f905c14c9f )
+	rom ( name vm3.07b merge vm3.07b size 524288 crc cbda91b8 sha1 31b20aa92422384b1d7a4706ad4c01ea2bd0e0d1 )
+	rom ( name vm3.08a merge vm3.08a size 524288 crc 6ca47259 sha1 485d8f3a132ccb3f7930cae74de8662d2d44e412 )
+	rom ( name vm3.09b merge vm3.09b size 524288 crc f4a339e3 sha1 abd101a55f7d9ddb8aba04fe8d3f0f5d2006c925 )
+	rom ( name vm3.10b merge vm3.10b size 524288 crc fffbb5b8 sha1 38aecb820bd1cbd17287848c3ffb013e1d464ddf )
+	rom ( name vm3ux.03d size 524288 crc fb135627 sha1 0ee29f632fb830ac477a276117e8cbb53d28717f )
+	rom ( name vm3ux.04d size 524288 crc cf02f61d sha1 99fb941dca6d337679332c7d319721adac247c0e )
+	rom ( name vm3.13 merge vm3.13 size 4194304 crc fd8a11eb sha1 21b9773959e17976ff46b75a6a405042836b2c5f )
+	rom ( name vm3.15 merge vm3.15 size 4194304 crc dd1e7d4e sha1 30476e061cdebdb1838b83f4ebd5efae12b7dbfb )
+	rom ( name vm3.17 merge vm3.17 size 4194304 crc 6b89445e sha1 2abd489839d143c46e25f4fc3db476b70607dc03 )
+	rom ( name vm3.19 merge vm3.19 size 4194304 crc 3830fdc7 sha1 ebd3f559c254d349e256c9feb3477f1ed7518206 )
+	rom ( name vm3.14 merge vm3.14 size 4194304 crc c1a28e6c sha1 012803af33174c0602649d2a2d84f6ee79f54ad2 )
+	rom ( name vm3.16 merge vm3.16 size 4194304 crc 194a7304 sha1 a19a9a6fb829953b054dc5c3b0dc017f60d37928 )
+	rom ( name vm3.18 merge vm3.18 size 4194304 crc df9a9f47 sha1 ce29ff00cf4b6fdd9b3b1ed87823534f1d364eab )
+	rom ( name vm3.20 merge vm3.20 size 4194304 crc c22fc3d9 sha1 df7538c05b03a4ad94d369f8083799979e6fac42 )
+	rom ( name vm3.01 merge vm3.01 size 131072 crc f778769b sha1 788ce1ad8a322179f634df9e62a31ad776b96762 )
+	rom ( name vm3.02 merge vm3.02 size 131072 crc cc09faa1 sha1 2962ef0ceaf7e7279de3c421ea998763330eb43e )
+	rom ( name vm3.11 merge vm3.11 size 4194304 crc e80e956e sha1 74181fca4b764fb3c56ceef2cb4c6fd6c18ec4b6 )
+	rom ( name vm3.12 merge vm3.12 size 4194304 crc 9cd71557 sha1 7059db25698a0b286314c5961c618f6d2e6f24a1 )
+)
+
+game (
+	name vsav2
+	description "Vampire Savior 2: The Lord of Vampire (Japan 970913)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name vs2j.03 size 524288 crc 89fd86b4 sha1 a52f40618d7f12f1df5862ad8e15fea60bef22a2 )
+	rom ( name vs2j.04 size 524288 crc 107c091b sha1 bf5c2e4339e1a66b3c819900cc9b723a537adf6b )
+	rom ( name vs2j.05 size 524288 crc 61979638 sha1 4d5625a9a06926c1a42c8f6e3a4c943f17750ec2 )
+	rom ( name vs2j.06 size 524288 crc f37c5bc2 sha1 d8c1040a6ee6b9fc677a6a32b99bf02b6a707812 )
+	rom ( name vs2j.07 size 524288 crc 8f885809 sha1 69dac07e1f483b6478f792d20a137d6a081fbea3 )
+	rom ( name vs2j.08 size 524288 crc 2018c120 sha1 de1184ab771c6f075cdefa744a28b09f78d91643 )
+	rom ( name vs2j.09 size 524288 crc fac3c217 sha1 0e9dd54e401e6d7c4fe81107ffd27e42ca810fcb )
+	rom ( name vs2j.10 size 524288 crc eb490213 sha1 bf0416df66a33c7a4678ab4a047de334dfd3b31e )
+	rom ( name vs2jx.03 size 524288 crc 8f83159a sha1 d7e74cf23697f56daa4adba6cdf27b6424c70898 )
+	rom ( name vs2jx.04 size 524288 crc e9822de8 sha1 06fabf8b6532d710e3cd0f9c625198b39c9b7cce )
+	rom ( name vs2.13 size 4194304 crc 5c852f52 sha1 528ce7fc9a0451e2e2d221dbf5e4a5796584e053 )
+	rom ( name vs2.15 size 4194304 crc a20f58af sha1 e873ad3e0fc8a06a5029113faf991f5c1b765316 )
+	rom ( name vs2.17 size 4194304 crc 39db59ad sha1 da94f1529da82a6bf2129f51548412e1ab2b001a )
+	rom ( name vs2.19 size 4194304 crc 00c763a7 sha1 0ff528e12e255ebf699101ac71f05b1f6bef7165 )
+	rom ( name vs2.14 size 4194304 crc cd09bd63 sha1 e582b20a948ae54f52590496051688dbfae2bc9c )
+	rom ( name vs2.16 size 4194304 crc e0182c15 sha1 a924d53ab39f4d85173bdb92a197dde2db0dc3f7 )
+	rom ( name vs2.18 size 4194304 crc 778dc4f6 sha1 8d0cd1c387b4b6ac7f92bb2e5a25983856328cdc )
+	rom ( name vs2.20 size 4194304 crc 605d9d1d sha1 99bc27557741527ca678d7b6307164bc04ebedc6 )
+	rom ( name vs2.01 size 131072 crc 35190139 sha1 07f8e53ea398461de5dcda9814dde7c09faf9f65 )
+	rom ( name vs2.02 size 131072 crc c32dba09 sha1 1fe337ff334fab79847f9677ba0e168e93daa1c8 )
+	rom ( name vs2.11 size 4194304 crc d67e47b7 sha1 15a3f6779eccb10551ed94edf7e6e406a79b3de7 )
+	rom ( name vs2.12 size 4194304 crc 6d020a14 sha1 e98f862fac1e357c90949768bb2646263d9981a0 )
+)
+
+game (
+	name wakuwak7
+	description "Waku Waku 7"
+	year 1996
+	manufacturer "Sunsoft"
+	romof neogeo
+	rom ( name waku7_p1.rom size 1048576 crc b14da766 sha1 bdffd72ff705fc6b085a4026217bac1c4bc93163 )
+	rom ( name waku7_p2.rom size 2097152 crc fe190665 sha1 739d9a8fc2da34381654d9e291141eacc210ae5c )
+	rom ( name waku7_s1.rom size 131072 crc 71c4b4b5 sha1 9410f13807f01082dc86f2d84051be4bed8e9f7c )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name waku7_m1.rom size 131072 crc 0634bba6 sha1 153aaf016440500df7a4454f3f2f2911219cb7d8 )
+	rom ( name waku7_v1.rom size 4194304 crc 6195c6b4 sha1 66c06b5904aedb256e3997bbec60f8ab50c6ff0c )
+	rom ( name waku7_v2.rom size 4194304 crc 6159c5fe sha1 9015e93416497f1ef877c717afed40f7ecfa42e4 )
+	rom ( name waku7_c1.rom size 4194304 crc d91d386f sha1 35cd98aa5153f5da2d106ea2e138f419ea8eeccd )
+	rom ( name waku7_c2.rom size 4194304 crc 36b5cf41 sha1 6a135cf0b950a7ea5a5084d8affbe7b318566f13 )
+	rom ( name waku7_c3.rom size 4194304 crc 02fcff2f sha1 e160d6410185a9bf7dd7dd81cdbecf3d0c524ede )
+	rom ( name waku7_c4.rom size 4194304 crc cd7f1241 sha1 51b3d47025e705eee6d95da52ecd74de3be52029 )
+	rom ( name waku7_c5.rom size 4194304 crc 03d32f25 sha1 19ca7a77dfd645170ec2e77a8836ce4ba5b4da3a )
+	rom ( name waku7_c6.rom size 4194304 crc d996a90a sha1 f0365056a7b4f660b00c670a17efbb9f70e8db5d )
+)
+
+game (
+	name xmcota
+	description "X-Men: Children of the Atom (Euro 950105)"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name xmne.03e size 524288 crc a9a09b09 sha1 e316f443d393139894592dbb1b676f3a2385ed14 )
+	rom ( name xmne.04e size 524288 crc 52fa2106 sha1 6904eef0fb11e44046e160a1c0ff6ea48337f630 )
+	rom ( name xmn.05a size 524288 crc ac0d7759 sha1 650d4474b13f16af7910a0f721fcda2ddb2414fd )
+	rom ( name xmn.06a size 524288 crc 1b86a328 sha1 2469cd705139ee9f1142e6e379e68d0c9675b37e )
+	rom ( name xmn.07a size 524288 crc 2c142a44 sha1 7624875f9c39b361fc83e52e87e0fd5e96279713 )
+	rom ( name xmn.08a size 524288 crc f712d44f sha1 0d18d4a4eacad94a66beca6ec509ac7f690c6882 )
+	rom ( name xmn.09a size 524288 crc 9241cae8 sha1 bb6980abf25aaf3eb14e230ca6942f3e2ab2c660 )
+	rom ( name xmn.10a size 524288 crc 53c0eab9 sha1 e3b1ec1fd517735f7801cfebb257c43185c6d3fb )
+	rom ( name xmnex.03e size 524288 crc 2f5daa9f sha1 16a25c45ab2a267b402539c5b9b6dbaf8bcc56ba )
+	rom ( name xmnex.04e size 524288 crc f0e24605 sha1 c72105491d9c1d97286eea09c9ac506fa234a776 )
+	rom ( name xmn.13 size 4194304 crc bf4df073 sha1 4d2740c3a827f0ec2cf75ad99c65e393c6a11c23 )
+	rom ( name xmn.15 size 4194304 crc 4d7e4cef sha1 50b8797b8099a8d76ad063ba1201a13dbb88ae3a )
+	rom ( name xmn.17 size 4194304 crc 513eea17 sha1 a497477ad9ac13180911d8745ef6ee1955c0b877 )
+	rom ( name xmn.19 size 4194304 crc d23897fc sha1 1e31627999736652252164d32662779a1ac6ca29 )
+	rom ( name xmn.14 size 4194304 crc 778237b7 sha1 89a759ec383518ec52f5059d10ec342f2247aa20 )
+	rom ( name xmn.16 size 4194304 crc 67b36948 sha1 692fb6e4096b880aa22996d554b160f664bbd907 )
+	rom ( name xmn.18 size 4194304 crc 015a7c4c sha1 cccc95dafd076a1a9fa004710006149c42d058ba )
+	rom ( name xmn.20 size 4194304 crc 9dde2758 sha1 17ba259cad03c7b5d56c0a5eda9ab53521665729 )
+	rom ( name xmn.01a size 131072 crc 40f479ea sha1 f29e15f537675305264ae2138a0a537fb9e2008b )
+	rom ( name xmn.02a size 131072 crc 39d9b5ad sha1 af502debfd36100d4fc971ed25fdf9d7121d6f18 )
+	rom ( name xmn.11 size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xmn.12 size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name xmcotaj1
+	description "X-Men: Children of the Atom (Japan 941217)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof xmcota
+	romof xmcota
+	rom ( name xmnj.03a size 524288 crc 00761611 sha1 e780dbe1d21a0d5b6981f0395942c9fa59688113 )
+	rom ( name xmnj.04a size 524288 crc 614d3f60 sha1 2272ae243557562a0bc85d2cd2b37dd876f6902c )
+	rom ( name xmnj.05 size 524288 crc c3ed62a2 sha1 4e3317d7ca981e33318822103a16e59f4ce20deb )
+	rom ( name xmnj.06 size 524288 crc f03c52e1 sha1 904b2312ee594f5ece0484cad0eed25cc758185e )
+	rom ( name xmnj.07 size 524288 crc 325626b1 sha1 3f3a0aabbe5ffad8136ac91e0de785103b16059b )
+	rom ( name xmnj.08 size 524288 crc 7194ea10 sha1 40a5892d816f24cbfd4c310792eeabf689c6fa7e )
+	rom ( name xmnj.09 size 524288 crc ae946df3 sha1 733671f76d766bda7110df9d338791cc5202b050 )
+	rom ( name xmnj.10 size 524288 crc 32a6be1d sha1 8f5fcb33b528abed670b4fc3fa62431a6e033c56 )
+	rom ( name xmnjx.03a size 524288 crc 515b9bf9 sha1 57e4604e7e013d95629546988db2448896dc95f2 )
+	rom ( name xmnjx.04a size 524288 crc 5419572b sha1 7f25cd7aaa30569b4e3889d9b6066bb6b638e91e )
+	rom ( name xmn.13 merge xmn.13 size 4194304 crc bf4df073 sha1 4d2740c3a827f0ec2cf75ad99c65e393c6a11c23 )
+	rom ( name xmn.15 merge xmn.15 size 4194304 crc 4d7e4cef sha1 50b8797b8099a8d76ad063ba1201a13dbb88ae3a )
+	rom ( name xmn.17 merge xmn.17 size 4194304 crc 513eea17 sha1 a497477ad9ac13180911d8745ef6ee1955c0b877 )
+	rom ( name xmn.19 merge xmn.19 size 4194304 crc d23897fc sha1 1e31627999736652252164d32662779a1ac6ca29 )
+	rom ( name xmn.14 merge xmn.14 size 4194304 crc 778237b7 sha1 89a759ec383518ec52f5059d10ec342f2247aa20 )
+	rom ( name xmn.16 merge xmn.16 size 4194304 crc 67b36948 sha1 692fb6e4096b880aa22996d554b160f664bbd907 )
+	rom ( name xmn.18 merge xmn.18 size 4194304 crc 015a7c4c sha1 cccc95dafd076a1a9fa004710006149c42d058ba )
+	rom ( name xmn.20 merge xmn.20 size 4194304 crc 9dde2758 sha1 17ba259cad03c7b5d56c0a5eda9ab53521665729 )
+	rom ( name xmn.01a merge xmn.01a size 131072 crc 40f479ea sha1 f29e15f537675305264ae2138a0a537fb9e2008b )
+	rom ( name xmn.02a merge xmn.02a size 131072 crc 39d9b5ad sha1 af502debfd36100d4fc971ed25fdf9d7121d6f18 )
+	rom ( name xmn.11 merge xmn.11 size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xmn.12 merge xmn.12 size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name xmcotajr
+	description "X-Men: Children of the Atom (Japan 941208 rent version)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof xmcota
+	romof xmcota
+	rom ( name xmno.03a size 524288 crc 7ab19acf sha1 ca02e58f1d713ee74c6c1515772da0ca26f9deb9 )
+	rom ( name xmno.04a size 524288 crc 7615dd21 sha1 f393c985ae1c7f378f9184fd2c8530b7494ba06d )
+	rom ( name xmno.05a size 524288 crc 0303d672 sha1 4816b5ac6a9bf78665112d54a8f3569d590721b2 )
+	rom ( name xmno.06a size 524288 crc 332839a5 sha1 c7b80fad1130cc025de3fad372b727d360adc47b )
+	rom ( name xmno.07 size 524288 crc 6255e8d5 sha1 159f7983b93ee82c2012a3a6a9f451a521f98ed6 )
+	rom ( name xmno.08 size 524288 crc b8ebe77c sha1 3ef06f19f2ba0aee8be9d9a9f0b1742f9ee1282a )
+	rom ( name xmno.09 size 524288 crc 5440d950 sha1 d5338718964b6f36655ddd62dbbe2bbfb44db114 )
+	rom ( name xmno.10a size 524288 crc b8296966 sha1 b13496956d8288302bf5c9a7478d4791e41e1bfd )
+	rom ( name xmnox.03a size 524288 crc c2d26e40 sha1 2cf214c3bc1f5060e4a7cec2c4cab97bca1269bc )
+	rom ( name xmnox.04a size 524288 crc 9fb6b396 sha1 82f121e22bb345ed173e46e13b1f190a9a0f5c62 )
+	rom ( name xmn.13 merge xmn.13 size 4194304 crc bf4df073 sha1 4d2740c3a827f0ec2cf75ad99c65e393c6a11c23 )
+	rom ( name xmn.15 merge xmn.15 size 4194304 crc 4d7e4cef sha1 50b8797b8099a8d76ad063ba1201a13dbb88ae3a )
+	rom ( name xmn.17 merge xmn.17 size 4194304 crc 513eea17 sha1 a497477ad9ac13180911d8745ef6ee1955c0b877 )
+	rom ( name xmn.19 merge xmn.19 size 4194304 crc d23897fc sha1 1e31627999736652252164d32662779a1ac6ca29 )
+	rom ( name xmn.14 merge xmn.14 size 4194304 crc 778237b7 sha1 89a759ec383518ec52f5059d10ec342f2247aa20 )
+	rom ( name xmn.16 merge xmn.16 size 4194304 crc 67b36948 sha1 692fb6e4096b880aa22996d554b160f664bbd907 )
+	rom ( name xmn.18 merge xmn.18 size 4194304 crc 015a7c4c sha1 cccc95dafd076a1a9fa004710006149c42d058ba )
+	rom ( name xmn.20 merge xmn.20 size 4194304 crc 9dde2758 sha1 17ba259cad03c7b5d56c0a5eda9ab53521665729 )
+	rom ( name xmn.01 size 131072 crc 7178336e sha1 d94cddcc144336fa3ee2778b3531badcc4646e9d )
+	rom ( name xmn.02 size 131072 crc 0ec58501 sha1 3af500049f901897086bd35b83ca83f4bbc8b3f6 )
+	rom ( name xmn.11 merge xmn.11 size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xmn.12 merge xmn.12 size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name xmcotau
+	description "X-Men: Children of the Atom (US 950105)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof xmcota
+	romof xmcota
+	rom ( name xmnu.03e size 524288 crc 0bafeb0e sha1 170c819bd7ffafefb9b2a587509bdf2c0415474b )
+	rom ( name xmnu.04e size 524288 crc c29bdae3 sha1 c605a4fd90336459c7b24cd7b2b243eef10f6407 )
+	rom ( name xmn.05a merge xmn.05a size 524288 crc ac0d7759 sha1 650d4474b13f16af7910a0f721fcda2ddb2414fd )
+	rom ( name xmn.06a merge xmn.06a size 524288 crc 1b86a328 sha1 2469cd705139ee9f1142e6e379e68d0c9675b37e )
+	rom ( name xmn.07a merge xmn.07a size 524288 crc 2c142a44 sha1 7624875f9c39b361fc83e52e87e0fd5e96279713 )
+	rom ( name xmn.08a merge xmn.08a size 524288 crc f712d44f sha1 0d18d4a4eacad94a66beca6ec509ac7f690c6882 )
+	rom ( name xmn.09a merge xmn.09a size 524288 crc 9241cae8 sha1 bb6980abf25aaf3eb14e230ca6942f3e2ab2c660 )
+	rom ( name xmn.10a merge xmn.10a size 524288 crc 53c0eab9 sha1 e3b1ec1fd517735f7801cfebb257c43185c6d3fb )
+	rom ( name xmnux.03e size 524288 crc 27636ac7 sha1 b1aee9afbc1feebc7bf810411175771cac1addfb )
+	rom ( name xmnux.04e size 524288 crc 0aed300c sha1 9f1b69ebb4c31cbf3ff195e9297da0742c487482 )
+	rom ( name xmn.13 merge xmn.13 size 4194304 crc bf4df073 sha1 4d2740c3a827f0ec2cf75ad99c65e393c6a11c23 )
+	rom ( name xmn.15 merge xmn.15 size 4194304 crc 4d7e4cef sha1 50b8797b8099a8d76ad063ba1201a13dbb88ae3a )
+	rom ( name xmn.17 merge xmn.17 size 4194304 crc 513eea17 sha1 a497477ad9ac13180911d8745ef6ee1955c0b877 )
+	rom ( name xmn.19 merge xmn.19 size 4194304 crc d23897fc sha1 1e31627999736652252164d32662779a1ac6ca29 )
+	rom ( name xmn.14 merge xmn.14 size 4194304 crc 778237b7 sha1 89a759ec383518ec52f5059d10ec342f2247aa20 )
+	rom ( name xmn.16 merge xmn.16 size 4194304 crc 67b36948 sha1 692fb6e4096b880aa22996d554b160f664bbd907 )
+	rom ( name xmn.18 merge xmn.18 size 4194304 crc 015a7c4c sha1 cccc95dafd076a1a9fa004710006149c42d058ba )
+	rom ( name xmn.20 merge xmn.20 size 4194304 crc 9dde2758 sha1 17ba259cad03c7b5d56c0a5eda9ab53521665729 )
+	rom ( name xmn.01a merge xmn.01a size 131072 crc 40f479ea sha1 f29e15f537675305264ae2138a0a537fb9e2008b )
+	rom ( name xmn.02a merge xmn.02a size 131072 crc 39d9b5ad sha1 af502debfd36100d4fc971ed25fdf9d7121d6f18 )
+	rom ( name xmn.11 merge xmn.11 size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xmn.12 merge xmn.12 size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name xmvsf
+	description "X-Men Vs. Street Fighter (Euro 960910)"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name xvse.03d size 524288 crc 5ae5bd3b sha1 f687f018008cef24f86f53373c3f5547741a4c5b )
+	rom ( name xvse.04d size 524288 crc 5eb9c02e sha1 25a392913213b98ce1bbd463bf5e5e10729bde0c )
+	rom ( name xvs.05a size 524288 crc 7db6025d sha1 2d74f48f83f45359bfaca28ab686625766af12ee )
+	rom ( name xvs.06a size 524288 crc e8e2c75c sha1 929408cb5d98e95cec75ea58e4701b0cbdbcd016 )
+	rom ( name xvs.07 size 524288 crc 08f0abed sha1 ef16c376232dba63b0b9bc3aa0640f9001ccb68a )
+	rom ( name xvs.08 size 524288 crc 81929675 sha1 19cf7afbc1daaefec40195e40ba74970f3906a1c )
+	rom ( name xvs.09 size 524288 crc 9641f36b sha1 dcba3482d1ba37ccfb30d402793ee063c6621aed )
+	rom ( name xvsex.03d size 524288 crc 3b3e7836 sha1 fca470d98a04f4391dee3dd3bb1cb9fa47999341 )
+	rom ( name xvsex.04d size 524288 crc 108863ce sha1 5ffa4af1afa4ea3530927fabfc49bf95ba87c5c6 )
+	rom ( name xvs.13 size 4194304 crc f6684efd sha1 c0a2f3a9e82ab8b084a500aec71ac633e947328c )
+	rom ( name xvs.15 size 4194304 crc 29109221 sha1 898b8f678fd03c462ce0d8eb7fb3441ef601085b )
+	rom ( name xvs.17 size 4194304 crc 92db3474 sha1 7b6f4c8ebfdac167b25f35029068b6253c141fe6 )
+	rom ( name xvs.19 size 4194304 crc 3733473c sha1 6579da7145c95b3ad00844a5fc8c2e22c23365e2 )
+	rom ( name xvs.14 size 4194304 crc bcac2e41 sha1 838ff24f7e8543a787a55a5d592c9517ce3b8b93 )
+	rom ( name xvs.16 size 4194304 crc ea04a272 sha1 cd7c79037b5b4a39bef5156433e984dc4dc2c081 )
+	rom ( name xvs.18 size 4194304 crc b0def86a sha1 da3a6705ea7050fc5c2c10d33400ed67be9f455d )
+	rom ( name xvs.20 size 4194304 crc 4b40ff9f sha1 9a981d442132efff09a27408d74646ba357c7357 )
+	rom ( name xvs.01 size 131072 crc 3999e93a sha1 fefcff8a9a5c83df7655a16187cf9ba3e7efbb25 )
+	rom ( name xvs.02 size 131072 crc 101bdee9 sha1 75920e88bf46fcd33a7957777a1d799818ffb0d6 )
+	rom ( name xvs.11 size 2097152 crc 9cadcdbc sha1 64d3bd53b04daec84c9af4aa3ff010867b3d306d )
+	rom ( name xvs.12 size 2097152 crc 7b11e460 sha1 a581c84acaaf0ce056841c15a6f36889e88be68d )
+)
+
+game (
+	name xmvsfu
+	description "X-Men Vs. Street Fighter (US 961004)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof xmvsf
+	romof xmvsf
+	rom ( name xvsu.03h size 524288 crc 5481155a sha1 799a2488684cbead33206498d13261b79624a46e )
+	rom ( name xvsu.04h size 524288 crc 1e236388 sha1 329c08103840fadbc4176785c4b24013a7a2b1bc )
+	rom ( name xvs.05a merge xvs.05a size 524288 crc 7db6025d sha1 2d74f48f83f45359bfaca28ab686625766af12ee )
+	rom ( name xvs.06a merge xvs.06a size 524288 crc e8e2c75c sha1 929408cb5d98e95cec75ea58e4701b0cbdbcd016 )
+	rom ( name xvs.07 merge xvs.07 size 524288 crc 08f0abed sha1 ef16c376232dba63b0b9bc3aa0640f9001ccb68a )
+	rom ( name xvs.08 merge xvs.08 size 524288 crc 81929675 sha1 19cf7afbc1daaefec40195e40ba74970f3906a1c )
+	rom ( name xvs.09 merge xvs.09 size 524288 crc 9641f36b sha1 dcba3482d1ba37ccfb30d402793ee063c6621aed )
+	rom ( name xvsux.03h size 524288 crc 1539c639 sha1 cf3535ca6fc1916458120b3151ee1f5c66aef942 )
+	rom ( name xvsux.04h size 524288 crc 68916b3f sha1 ec8e109b30826387d567d0567a625c9fe5e7aa1f )
+	rom ( name xvs.13 merge xvs.13 size 4194304 crc f6684efd sha1 c0a2f3a9e82ab8b084a500aec71ac633e947328c )
+	rom ( name xvs.15 merge xvs.15 size 4194304 crc 29109221 sha1 898b8f678fd03c462ce0d8eb7fb3441ef601085b )
+	rom ( name xvs.17 merge xvs.17 size 4194304 crc 92db3474 sha1 7b6f4c8ebfdac167b25f35029068b6253c141fe6 )
+	rom ( name xvs.19 merge xvs.19 size 4194304 crc 3733473c sha1 6579da7145c95b3ad00844a5fc8c2e22c23365e2 )
+	rom ( name xvs.14 merge xvs.14 size 4194304 crc bcac2e41 sha1 838ff24f7e8543a787a55a5d592c9517ce3b8b93 )
+	rom ( name xvs.16 merge xvs.16 size 4194304 crc ea04a272 sha1 cd7c79037b5b4a39bef5156433e984dc4dc2c081 )
+	rom ( name xvs.18 merge xvs.18 size 4194304 crc b0def86a sha1 da3a6705ea7050fc5c2c10d33400ed67be9f455d )
+	rom ( name xvs.20 merge xvs.20 size 4194304 crc 4b40ff9f sha1 9a981d442132efff09a27408d74646ba357c7357 )
+	rom ( name xvs.01 merge xvs.01 size 131072 crc 3999e93a sha1 fefcff8a9a5c83df7655a16187cf9ba3e7efbb25 )
+	rom ( name xvs.02 merge xvs.02 size 131072 crc 101bdee9 sha1 75920e88bf46fcd33a7957777a1d799818ffb0d6 )
+	rom ( name xvs.11 merge xvs.11 size 2097152 crc 9cadcdbc sha1 64d3bd53b04daec84c9af4aa3ff010867b3d306d )
+	rom ( name xvs.12 merge xvs.12 size 2097152 crc 7b11e460 sha1 a581c84acaaf0ce056841c15a6f36889e88be68d )
+)
+
+game (
+	name dstlkr1
+	description "Darkstalkers: The Night Warriors (US 940705)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof dstlk
+	romof dstlk
+	rom ( name vamu.03a size 524288 crc 628899f9 sha1 989414a62aed67504f15a542a148e32a4b349949 )
+	rom ( name vamu.04a size 524288 crc 696d9b25 sha1 743c53ac7fc27960ecc80fed3f2a3c506ee655a1 )
+	rom ( name vamu.05a size 524288 crc 673ed50a sha1 7dff27dba1da55a18eb459e4a2d679cf699f2804 )
+	rom ( name vamu.06a size 524288 crc f2377be7 sha1 4520d44f94a03bd40c27062344e56ba8718c2fb8 )
+	rom ( name vamu.07a size 524288 crc d8f498c4 sha1 569d9c309e9d95d2501a7c0a2c1291b49320d767 )
+	rom ( name vamu.08a size 524288 crc e6a8a1a0 sha1 adf621e12623a2af4dbf0858a8fa3816e7c7073b )
+	rom ( name vamu.09a size 524288 crc 8dd55b24 sha1 d99c2cbc4a9899a3d187201e6e730b7b8fb13d1d )
+	rom ( name vamu.10a size 524288 crc c1a3d9be sha1 82b4ce3325a7ecf3a60dd781f9b224fdde8daa65 )
+	rom ( name vamux.03a size 524288 crc db0837f5 sha1 a90b2f0b2d20f5c970813bb296f21cf6fd7bcfb0 )
+	rom ( name vamux.04a size 524288 crc 8a924055 sha1 83399b1808400c5754595007e2699250852a8049 )
+	rom ( name vam.13 merge vam.13 size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vam.15 merge vam.15 size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vam.17 merge vam.17 size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vam.19 merge vam.19 size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vam.14 merge vam.14 size 1048576 crc bd87243c sha1 87b33aeb72514e1228ffc27ec6dd534f14882760 )
+	rom ( name vam.16 merge vam.16 size 1048576 crc afec855f sha1 cd117833b8d475489b90ff44b57e2c5cb1af3af5 )
+	rom ( name vam.18 merge vam.18 size 1048576 crc 3a033625 sha1 294238f30cba5cf4f8f1de951d54c2077bd95de9 )
+	rom ( name vam.20 merge vam.20 size 1048576 crc 2bff6a89 sha1 8f4e131e5ce0af48fb89f98026d9f0356c7c301f )
+	rom ( name vam.01 merge vam.01 size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vam.02 merge vam.02 size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vam.11 merge vam.11 size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vam.12 merge vam.12 size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name mslug3nd
+	description "Metal Slug 3 (non encrypted P, decrypted C)"
+	year 2000
+	manufacturer "Nazca"
+	romof neogeo
+	rom ( name 256-ph1.rom size 1048576 crc 9c42ca85 sha1 7a8f77a89867b889295ae9b9dfd4ba28f02d234d )
+	rom ( name 256-ph2.rom size 4194304 crc 1f3d8ce8 sha1 08b05a8abfb86ec09a5e758d6273acf1489961f9 )
+	rom ( name ng-sfix.rom merge ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name neo-geo.rom merge neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom merge ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name 256-m1.bin size 524288 crc eaeec116 sha1 54419dbb21edc8c4b37eaac2e7ad9496d2de037a )
+	rom ( name 256-v1.bin size 4194304 crc f2690241 sha1 fd56babc1934d10e0d27c32f032f9edda7ca8ce9 )
+	rom ( name 256-v2.bin size 4194304 crc 7e2a10bd sha1 0d587fb9f64cba0315ce2d8a03e2b8fe34936dff )
+	rom ( name 256-v3.bin size 4194304 crc 0eaec17c sha1 c3ed613cc6993edd6fc0d62a90bcd85de8e21915 )
+	rom ( name 256-v4.bin size 4194304 crc 9b4b22d4 sha1 9764fbf8453e52f80aa97a46fb9cf5937ef15a31 )
+	rom ( name ms3n_c1.rom size 8388608 crc 3540398c sha1 0a96f2360eb26c66bf02bbc6f52230b55cc95e4e )
+	rom ( name ms3n_c2.rom size 8388608 crc bdd220f0 sha1 f52851023f3bc120b05f622af0e0ab1bedc41604 )
+	rom ( name ms3n_c3.rom size 8388608 crc bfaade82 sha1 66b07e592c9a9b35567fe463496f8f75c32a7db9 )
+	rom ( name ms3n_c4.rom size 8388608 crc 1463add6 sha1 4db91b46d6430da272d27d00a6dc0eb25949bea1 )
+	rom ( name ms3n_c5.rom size 8388608 crc 48ca7f28 sha1 e903876be5fb4fa582c988d74c6bef1c3b9c7083 )
+	rom ( name ms3n_c6.rom size 8388608 crc 806eb36f sha1 a412a9cab80c326733dde7652d1db2a46afb3ebb )
+	rom ( name ms3n_c7.rom size 8388608 crc 9395b809 sha1 ca9ac9832017094eee3623f0b6c4c4b7b4f1374d )
+	rom ( name ms3n_c8.rom size 8388608 crc a369f9d4 sha1 f8146ea80a1a23da7e7e04c88f778ee9abdfeb5c )
+)
+
+game (
+	name sgemf
+	description "Super Gem Fighter Mini Mix (US 970904)"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name pcfu.03 size 524288 crc ac2e8566 sha1 5975aae46bded231c0f478f40c7257434ade36b0 )
+	rom ( name pcf.04 size 524288 crc f4314c96 sha1 c40ed74039bf0096eb3648b7243a8e697638e0a6 )
+	rom ( name pcf.05 size 524288 crc 215655f6 sha1 242c0f4401520f2a3b0deafc3a807b18b987e496 )
+	rom ( name pcf.06 size 524288 crc ea6f13ea sha1 1bc924a8a9da1d2ad7667685cdb92fe317a39aba )
+	rom ( name pcf.07 size 524288 crc 5ac6d5ea sha1 9ce8e4668b565658597a868830545fb75a5eeaa6 )
+	rom ( name pcfux.03 size 524288 crc 652b7647 sha1 03259f536e8c988b288de5e13df8b2ee22d8a168 )
+	rom ( name pcf.13 size 4194304 crc 22d72ab9 sha1 653efd95c34b4b9d2ab0d219f41a99ca84e12214 )
+	rom ( name pcf.15 size 4194304 crc 16a4813c sha1 bf5fce6008214f353414d1b64bea4ed0c7673670 )
+	rom ( name pcf.17 size 4194304 crc 1097e035 sha1 4bd51e4e9447af27d2cac1f6d2201e37c949912b )
+	rom ( name pcf.19 size 4194304 crc d362d874 sha1 30c42af18440496cc05e4418e4efa41172ae4ced )
+	rom ( name pcf.14 size 1048576 crc 0383897c sha1 aba14afa1d0c971afcee4317f480e88117d77b5e )
+	rom ( name pcf.16 size 1048576 crc 76f91084 sha1 3d1e32467f2aa5dd6fb96bd5c866ecc9691660fc )
+	rom ( name pcf.18 size 1048576 crc 756c3754 sha1 be2f709b90222a567f198f851cf07ffb0ad433d7 )
+	rom ( name pcf.20 size 1048576 crc 9ec9277d sha1 b7ceeaca30dfcdf498b61a6961f0aa1a068b8ec4 )
+	rom ( name pcf.01 size 131072 crc 254e5f33 sha1 c413ec0630b9bdd15e64f42893eba8958a09b573 )
+	rom ( name pcf.02 size 131072 crc 6902f4f9 sha1 9bfe4ddade3c666076d26a2b545120f6d059fd7c )
+	rom ( name pcf.11 size 4194304 crc a5dea005 sha1 3ae79baf6ff5bd527f82b26f164c7e3c65423ae2 )
+	rom ( name pcf.12 size 4194304 crc 4ce235fe sha1 795b94557e954cc0e45fd3778b609064d57a34a2 )
+)
+
+resource (
+	name neogeo
+	description "Neo-Geo"
+	year 1990
+	manufacturer "SNK"
+	rom ( name neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+)
+

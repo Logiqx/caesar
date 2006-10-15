@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="phoenix_project" type="psx" dat="The_Phoenix_Project_v2.10">
+	<name>The Phoenix Project</name>
+	<version>2.10</version>
+	<date>23/09/2000</date>
+
+	<homepage>http://doubledutchdesigns.co.uk/</homepage>
+	<author_link id="double_dutch_designs">&author_double_dutch_designs;</author_link>
+
+	<emulates>Phoenix and Pleiads variants</emulates>
+	<comment>Runs full screen and full speed.</comment>
+	<status>Dormant</status>
+
+	<platform>Playstation</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="phoenix.zip">Emulator</file>
+	</files>
+</emulator>

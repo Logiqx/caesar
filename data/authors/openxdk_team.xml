@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="openxdk_team">
+	<name>OpenXDK Team</name>
+	<tool_links>
+		<tool_link id="openxdk" type="gfx_libs">&tool_openxdk;</tool_link>
+	</tool_links>
+</author>

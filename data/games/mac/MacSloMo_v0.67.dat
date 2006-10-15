@@ -1,0 +1,76 @@
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name centiped.307 size 2048 crc 5ab0d9de )
+	rom ( name centiped.308 size 2048 crc 4c07fd3e )
+	rom ( name centiped.309 size 2048 crc ff69b424 )
+	rom ( name centiped.310 size 2048 crc 44e40fa4 )
+	rom ( name centiped.201 size 2048 crc 880acfb9 )
+	rom ( name centiped.202 size 2048 crc b1397029 )
+)
+
+game (
+	name centipd2
+	description "Centipede (revision 2)"
+	year 1980
+	manufacturer "Atari"
+	cloneof centiped
+	romof centiped
+	rom ( name centiped.207 size 2048 crc b2909e2f )
+	rom ( name centiped.208 size 2048 crc 110e04ff )
+	rom ( name centiped.209 size 2048 crc cc2edb26 )
+	rom ( name centiped.210 size 2048 crc 93999153 )
+	rom ( name centiped.211 merge centiped.211 size 2048 crc 880acfb9 )
+	rom ( name centiped.212 merge centiped.212 size 2048 crc b1397029 )
+)
+
+game (
+	name milliped
+	description "Millipede"
+	year 1982
+	manufacturer "Atari"
+	rom ( name milliped.104 size 4096 crc 40711675 region cpu1 offs 4000 )
+	rom ( name milliped.103 size 4096 crc fb01baf2 region cpu1 offs 5000 )
+	rom ( name milliped.102 size 4096 crc 62e137e0 region cpu1 offs 6000 )
+	rom ( name milliped.101 size 4096 crc 46752c7d region cpu1 offs 7000 )
+	rom ( name milliped.106 size 2048 crc f4468045 region gfx1 flags dispose offs 0 )
+	rom ( name milliped.107 size 2048 crc 68c3437a region gfx1 flags dispose offs 800 )
+)
+
+game (
+	name astrof
+	description "Astro Fighter (set 1)"
+	year 1980
+	manufacturer "Data East"
+	rom ( name afii.6 size 2048 crc d6cd13a4 region cpu1 offs d000 )
+	rom ( name afii.5 size 2048 crc 6fd3c4df region cpu1 offs d800 )
+	rom ( name afii.4 size 2048 crc 9612dae3 region cpu1 offs e000 )
+	rom ( name afii.3 size 2048 crc 5a0fef42 region cpu1 offs e800 )
+	rom ( name afii.2 size 2048 crc 69f8a4fc region cpu1 offs f000 )
+	rom ( name afii.1 size 2048 crc 322c09d2 region cpu1 offs f800 )
+)
+
+game (
+	name astrof3
+	description "Astro Fighter (set 3)"
+	year 1980
+	manufacturer "Data East"
+	cloneof astrof
+	romof astrof
+	rom ( name kei2 size 1024 crc 9f0bd355 region cpu1 offs d000 )
+	rom ( name keii size 1024 crc 71f229f0 region cpu1 offs d400 )
+	rom ( name kei0 size 1024 crc 88114f7c region cpu1 offs d800 )
+	rom ( name ke9 size 1024 crc 29cbaea6 region cpu1 offs dc00 )
+	rom ( name ke8 size 1024 crc 08e44b12 region cpu1 offs e000 )
+	rom ( name ke7 size 1024 crc 8a42d62c region cpu1 offs e400 )
+	rom ( name ke6 size 1024 crc 3e9aa743 region cpu1 offs e800 )
+	rom ( name ke5 size 1024 crc 712a4557 region cpu1 offs ec00 )
+	rom ( name ke4 size 1024 crc ad06f306 region cpu1 offs f000 )
+	rom ( name ke3 size 1024 crc 680b91b4 region cpu1 offs f400 )
+	rom ( name ke2 size 1024 crc 2c4cab1a region cpu1 offs f800 )
+	rom ( name kei size 1024 crc fce4718d region cpu1 offs fc00 )
+)
+
+

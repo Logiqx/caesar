@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="hiromitsu_shioya">
+	<name>Hiromitsu Shioya (Hiro-Shi)</name>
+	<emulator_links>
+		<emulator_link id="mmsnd" type="sound">&emulator_mmsnd;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+	</contribution_links>
+</author>

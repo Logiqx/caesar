@@ -1,0 +1,20 @@
+clrmamepro (
+	name Annoid
+	description "Annoid v1.0"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name arkboot
+	description "Arkanoid (Tayto bootleg, Japanese)"
+	year 1986
+	manufacturer "bootleg"
+	rom ( name arkboot.01 size 32768 crc 6e0a2b6f sha1 5227d7a944cb1e815f60ec87a67f7462870ff9fe )
+	rom ( name arkboot.02 size 32768 crc 5a97dd56 sha1 b71c7b5ced2b0eebbcc5996dd21a1bb1c2da4819 )
+	rom ( name arkboot.03 size 32768 crc 038b74ba sha1 ac053cc4908b4075f918748b89570e07a0ba5116 )
+	rom ( name arkboot.04 size 32768 crc 71fae199 sha1 5d253c46ccf4cd2976a5fb8b8713f0f345443d06 )
+	rom ( name arkboot.05 size 32768 crc c76374e2 sha1 7520dd48de20db60a2038f134dcaa454988e7874 )
+)
+

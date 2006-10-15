@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="system16_directx" type="multi2" dat="dummy">
+	<name>System 16 (Direct X)</name>
+	<version>0.80</version>
+	<date>06/05/1999</date>
+
+	<homepage>http://www.system16.com/</homepage>
+	<author_link id="bartman">&author_bartman;</author_link>
+	<author_link id="abyss">&author_abyss;</author_link>
+
+	<emulates>Sega System 16 Games</emulates>
+	<comment>Direct-X Port of System 16</comment>
+	<status>Development ceased (source lost)</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="eagle" type="gfx_libs">&tool_eagle;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="s16079dx.zip">System 16 (Direct X)</file>
+		<file name="s16080dx.zip">System 16 (Direct X) - Upgrade from 0.79</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

@@ -1,0 +1,40 @@
+clrmamepro (
+	name SiEmu
+	description "SiEmu v1.03"
+	category "8080 Space Invaders Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 sha1 ff6200af4c9110d8181249cbcef1a8a40fa40b7f )
+	rom ( name invaders.g size 2048 crc 6bfaca4a sha1 16f48649b531bdef8c2d1446c429b5f414524350 )
+	rom ( name invaders.f size 2048 crc 0ccead96 sha1 537aef03468f63c5b9e11dd61e253f7ae17d9743 )
+	rom ( name invaders.e size 2048 crc 14e538b0 sha1 1d6ca0c99f9df71e2990b610deb9d7da0125e2d8 )
+)
+
+game (
+	name invrvnge
+	description "Invader's Revenge"
+	manufacturer "Zenitone Microsec"
+	rom ( name invrvnge.h size 2048 crc aca41bbb sha1 ca71f792abd6d9a44d15b19d2ccf678e82ccba4f )
+	rom ( name invrvnge.g size 2048 crc cfe89dad sha1 218b6a0b636c49c4cdc3667e8b1387ef0e257115 )
+	rom ( name invrvnge.f size 2048 crc e350de2c sha1 e845565e2f96f9dec3242ec5ab75910a515428c9 )
+	rom ( name invrvnge.e size 2048 crc 1ec8dfc8 sha1 fc8fbe1161958f57c9f4ccbcab8a769184b1c562 )
+)
+
+game (
+	name spaceatt
+	description "Space Attack II"
+	year 1980
+	manufacturer "Zenitone-Microsec Ltd"
+	rom ( name spaceatt.h size 2048 crc a31d0756 sha1 2b76929654ed0b180091348546dac29fc6e5438e )
+	rom ( name spaceatt.g size 2048 crc f41241f7 sha1 d93cead75922510075433849c4f7099279eafc18 )
+	rom ( name spaceatt.f size 2048 crc 4c060223 sha1 957e75a978aa600627399061cae0a6525e92ad11 )
+	rom ( name spaceatt.e size 2048 crc 7cf6f604 sha1 469557de15178c4b2d686e5724e1006f7c20d7a4 )
+)
+

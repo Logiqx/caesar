@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="michael_strutt">
+	<name>Michael Strutt</name>
+	<email>mstrutt@pixie.co.za</email>
+	<emulator_links>
+		<emulator_link id="spaceinvaders" type="multi">&emulator_spaceinvaders;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mcemu" type="single" dat="MCEmu_v0.85">
+	<name>MCEmu</name>
+	<version>0.85</version>
+	<date>26/04/1997</date>
+
+	<homepage>http://www.albany.net/~maloney/mcemu.html</homepage>
+	<author_link id="patrick_maloney">&author_patrick_maloney;</author_link>
+
+	<emulates>Missile Command (Atari)</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="mcemu085.zip">Emulator</file>
+	</files>
+</emulator>

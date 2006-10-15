@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="jose_tejada_gomez">
+	<name>Jos&amp;eacute; Tejada G&amp;oacute;mez</name>
+	<email>jotego@iespana.es</email>
+	<email>jotego@teleco.upv.es</email>
+	<email>combatschool@hotmail.com</email>
+	<info>Spanish document on how to make arcade emulators and how arcade systems work available at http://webs.ono.com/usr002/jotego/recreativas.pdf</info>
+	<emulator_links>
+		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
+		<emulator_link id="grytra" type="single">&emulator_grytra;</emulator_link>
+		<emulator_link id="mapefer3" type="multi">&emulator_mapefer3;</emulator_link>
+	</emulator_links>
+	<cpu_links>
+		<library_link id="6809" type="cpu">&library_6809;</library_link>
+	</cpu_links>
+</author>

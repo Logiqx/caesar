@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="salamander" type="single" dat="Salamander_Arcade_Emulator_Preview">
+	<name>Salamander Arcade Emulator Emulator</name>
+	<version>Preview</version>
+	<date>25/09/1997</date>
+
+	<homepage>http://www.netg.se/~drac/nemesis.html</homepage>
+	<author_link id="johan_kohler">&author_johan_kohler;</author_link>
+
+	<emulates>Salamander (Konami)</emulates>
+	<comment>Preview Version</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="salamander.zip">Emulator</file>
+	</files>
+</emulator>

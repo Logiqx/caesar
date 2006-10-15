@@ -1,0 +1,42 @@
+game (
+	name galaga
+	description "Galaga (Namco)"
+	year 1981
+	manufacturer "Namco"
+)
+
+game (
+	name pacman
+	description "PuckMan (Japan set 1)"
+	year 1980
+	manufacturer "Namco"
+)
+
+game (
+	name polepos
+	description "Pole Position"
+	year 1982
+	manufacturer "Namco"
+)
+
+game (
+	name galaxian
+	description "Galaxian (Namco)"
+	year 1979
+	manufacturer "Namco"
+)
+
+game (
+	name digdug
+	description "Dig Dug (set 1)"
+	year 1982
+	manufacturer "Namco"
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+)
+

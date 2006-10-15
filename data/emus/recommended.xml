@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="recommended">
+	<title>Recommended Emulators</title>
+	<comment>These are the most popular of all the emulators, either due to the games they support or the speed of emulation being faster than MAME. You should definitely try these out but don't ignore the other emus out there! Be sure to check out all recent emulators and the ones that support games not in MAME (see relevant pages in CAESAR).</comment>
+	<emulator_links>
+		<!-- <emulator_link id="callus95patch" type="multi">&emulator_callus95patch;</emulator_link> -->
+		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<!-- <emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link> -->
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<!-- <emulator_link id="jff" type="multi">&emulator_jff;</emulator_link> -->
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<!-- <emulator_link id="m72" type="multi">&emulator_m72;</emulator_link> -->
+		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<!-- <emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link> -->
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
+		<!-- <emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link> -->
+		<!-- <emulator_link id="neoragex" type="multi">&emulator_neoragex;</emulator_link> -->
+		<emulator_link id="radikal_bikers_emulator" type="single">&emulator_radikal_bikers_emulator;</emulator_link>
+		<!-- <emulator_link id="rage" type="multi">&emulator_rage;</emulator_link> -->
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<!-- <emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link> -->
+		<!-- <emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link> -->
+		<!-- <emulator_link id="system16" type="multi">&emulator_system16;</emulator_link> -->
+		<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
+		<emulator_link id="u64emu" type="multi">&emulator_u64emu;</emulator_link>
+		<emulator_link id="viva_nonno" type="multi">&emulator_viva_nonno;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+	</emulator_links>
+</emulator_contents>

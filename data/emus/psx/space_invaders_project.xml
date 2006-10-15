@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="space_invaders_project" type="psx" dat="The_Space_Invaders_Project_v1.08">
+	<name>The Space Invaders Project</name>
+	<version>1.08</version>
+	<date>26/09/2000</date>
+
+	<homepage>http://doubledutchdesigns.co.uk/</homepage>
+	<author_link id="double_dutch_designs">&author_double_dutch_designs;</author_link>
+
+	<emulates>Space Invaders and other games on Midway 8080 hardware</emulates>
+	<comment>Runs full screen and full speed.</comment>
+	<status>Dormant</status>
+
+	<platform>Playstation</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="invaders.zip">Emulator</file>
+	</files>
+</emulator>

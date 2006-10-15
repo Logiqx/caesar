@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="seagal">
+	<name>_Seagal_</name>
+	<emulator_links>
+		<emulator_link id="centipede_xbox" type="xbox">&emulator_centipede_xbox;</emulator_link>
+	</emulator_links>
+</author>

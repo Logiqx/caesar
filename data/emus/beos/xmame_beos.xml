@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="xmame_beos" type="beos" dat="dummy">
+	<name>X-MAME (BeOS)</name>
+	<version>0.78.1</version>
+	<date>21/01/2004</date>
+
+	<homepage>http://www.beemulated.net/</homepage>
+	<homepage>http://x.mame.net/</homepage>
+	<author_link id="jack_burton">&author_jack_burton;</author_link>
+
+	<emulates>Emulates far more than anything else!</emulates>
+	<comment>Requires SDL 1.2.3.</comment>
+	<status>Active</status>
+
+	<platform>BeOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+			<emulator_link id="xmame" type="linux">&emulator_xmame;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

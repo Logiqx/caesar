@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="psx">
+	<title>Emulators for the Playstation</title>
+	<comment>These emulators are all for the Playstation</comment>
+	<emulator_links>
+		<emulator_link id="arcade_party_pak" type="psx">&emulator_arcade_party_pak;</emulator_link>
+		<emulator_link id="atari_collection" type="psx">&emulator_atari_collection;</emulator_link>
+		<emulator_link id="atari_collection_2" type="psx">&emulator_atari_collection_2;</emulator_link>
+		<emulator_link id="midway_collection_2" type="psx">&emulator_midway_collection_2;</emulator_link>
+		<emulator_link id="konami_arcade_classics" type="psx">&emulator_konami_arcade_classics;</emulator_link>
+		<emulator_link id="namco_museum_encore" type="psx">&emulator_namco_museum_encore;</emulator_link>
+		<emulator_link id="namco_museum_1" type="psx">&emulator_namco_museum_1;</emulator_link>
+		<emulator_link id="namco_museum_2" type="psx">&emulator_namco_museum_2;</emulator_link>
+		<emulator_link id="namco_museum_3" type="psx">&emulator_namco_museum_3;</emulator_link>
+		<emulator_link id="namco_museum_4" type="psx">&emulator_namco_museum_4;</emulator_link>
+		<emulator_link id="namco_museum_5" type="psx">&emulator_namco_museum_5;</emulator_link>
+		<emulator_link id="qbert_classic_mode_psx" type="psx">&emulator_qbert_classic_mode_psx;</emulator_link>
+		<emulator_link id="galaxian_project" type="psx">&emulator_galaxian_project;</emulator_link>
+		<emulator_link id="phoenix_project" type="psx">&emulator_phoenix_project;</emulator_link>
+		<emulator_link id="space_invaders_project" type="psx">&emulator_space_invaders_project;</emulator_link>
+		<emulator_link id="williams_greatest_hits" type="psx">&emulator_williams_greatest_hits;</emulator_link>
+	</emulator_links>
+</emulator_contents>

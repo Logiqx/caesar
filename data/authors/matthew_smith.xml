@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="matthew_smith">
+	<name>Matthew Smith</name>
+	<email>amsmith@hotkey.net.au</email>
+	<emulator_links>
+		<emulator_link id="retrovaders" type="multi">&emulator_retrovaders;</emulator_link>
+	</emulator_links>
+</author>

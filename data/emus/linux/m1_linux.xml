@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="m1_linux" type="linux" dat="M1_v0.7.7">
+	<name>M1 for Linux</name>
+	<version>0.7.7</version>
+	<date>02/09/2005</date>
+
+	<homepage>http://rbelmont.mameworld.info/</homepage>
+	<homepage>http://www.emuhype.com/</homepage>
+	<author_link id="richter_belmont">&author_richter_belmont;</author_link>
+
+	<emulates>Lots of arcade games!</emulates>
+	<comment>A sound emulator that emulates a huge number of systems (over 1000 games).</comment>
+	<status>Active</status>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>N/A</screendump>
+		<hiscoresave>N/A</hiscoresave>
+		<savegame>N/A</savegame>
+		<recordinput>N/A</recordinput>
+		<dips>N/A</dips>
+		<cheat>N/A</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>N/A</throttle>
+	</features>
+
+	<files>
+		<file name="m1077b-lnx.tar.bz2">Emulator</file>
+		<file name="m1077b-lnx64.tar.bz2">Emulator (64-bit)</file>
+		<file name="m1071-sdk-lnx.tar.bz2">SDK (Source)</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+			<emulator_link id="m1_mac" type="mac">&emulator_m1_mac;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

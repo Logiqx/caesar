@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="java">
+	<title>Emulators for Java</title>
+	<comment>These emulators are all written in Java. They can therefore be run on any machine that supports Java.</comment>
+	<emulator_links>
+		<emulator_link id="cottage" type="java">&emulator_cottage;</emulator_link>
+		<emulator_link id="jae" type="java">&emulator_jae;</emulator_link>
+		<emulator_link id="java_phoenix_emulator" type="java">&emulator_java_phoenix_emulator;</emulator_link>
+		<emulator_link id="java_pleiads_emulator" type="java">&emulator_java_pleiads_emulator;</emulator_link>
+		<emulator_link id="jemu" type="java">&emulator_jemu;</emulator_link>
+		<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
+		<emulator_link id="new_asteroids" type="java">&emulator_new_asteroids;</emulator_link>
+		<emulator_link id="oldspark" type="java">&emulator_oldspark;</emulator_link>
+		<emulator_link id="playscott" type="java">&emulator_playscott;</emulator_link>
+		<emulator_link id="potatomulti" type="java">&emulator_potatomulti;</emulator_link>
+	</emulator_links>
+</emulator_contents>

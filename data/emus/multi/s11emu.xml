@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="s11emu" type="multi" dat="S11Emu_v0.2">
+	<name>S11Emu</name>
+	<version>v0.2</version>
+	<date>21/12/2001</date>
+
+	<homepage>http://www.emuhype.com/</homepage>
+	<author_link id="marcin_dudar">&author_marcin_dudar;</author_link>
+
+	<emulates>Namco System 11</emulates>
+	<comment>S11Emu emulates Namco System 11 games but does not have sound emulation yet.</comment>
+	<status>Superceded</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="s11np02.zip">Emulator (includes new Plugin)</file>
+		<file name="s11op02.zip">Emulator (for use with old Plugins - below)</file>
+		<file name="d3drenderer_1_11.zip">D3D Plugin</file>
+		<file name="gliderenderer_1_3.zip">Glide Plugin</file>
+		<file name="oglrenderer_1_11.zip">OGL Plugin</file>
+	</files>
+
+	<relatives>
+		<derivative_of>
+			<emulator_link id="impact" type="multi">&emulator_impact;</emulator_link>
+		</derivative_of>
+		<successors>
+			<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

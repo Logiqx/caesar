@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="xain_d_sleena" type="single" dat="Xain'D_Sleena_v1.0">
+	<name>Xain'D Sleena Emulator</name>
+	<version>1.0</version>
+	<date>05/04/1998</date>
+
+	<homepage status="bad">http://www.parlorcity.com/bester/main.html</homepage>
+	<author_link id="carlos_a_lozano">&author_carlos_a_lozano;</author_link>
+	<author_link id="rob_rosenbrock">&author_rob_rosenbrock;</author_link>
+
+	<emulates>Xain'D Sleena/Solar Warrior (Technos Japan)</emulates>
+	<comment>Runs too fast on my P233MMX due to no throttling</comment>
+	<status>Discontinued</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="xs010.zip">Emulator</file>
+	</files>
+</emulator>

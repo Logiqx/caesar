@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="jakob_frandsen">
+	<name>Jakob Frandsen</name>
+	<email>jfrandsen@ite.dk</email>
+	<emulator_links>
+		<emulator_link id="bombjack_pc" type="single">&emulator_bombjack_pc;</emulator_link>
+	</emulator_links>
+</author>

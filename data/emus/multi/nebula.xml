@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="nebula" type="multi" dat="Nebula_v2.25">
+	<name>Nebula</name>
+	<version>2.25</version>
+	<date>10/09/2005</date>
+
+	<homepage>http://nebula.emulatronia.com/</homepage>
+	<author_link id="elsemi">&author_elsemi;</author_link>
+
+	<emulates>Capcom CPS-1, CPS-2, Neo-Geo, Konami and PGM games</emulates>
+	<comment>A very good emulator for CPS-1, CPS-2, Neo-Geo, Konami and PGM games with the ability to add new games through text based drivers.</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="a68k" type="cpu">&library_a68k;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>Yes</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="nebula225.zip">Emulator</file>
+		<file name="cheater18.zip">Cheat Utility</file>
+		<file name="shots15.zip">Screenshots</file>
+		<file name="gui16.zip">GUI Templates</file>
+		<file name="logos.zip">Logos</file>
+	</files>
+</emulator>

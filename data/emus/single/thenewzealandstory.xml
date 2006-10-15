@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="thenewzealandstory" type="single" dat="The_NewZealand_Story">
+	<name>The NewZealand Story Emulator</name>
+	<version>-</version>
+	<date>01/04/2001</date>
+
+	<homepage>http://www.mycgiserver.com/~rollback/</homepage>
+	<author_link id="rollback">&author_rollback;</author_link>
+
+	<emulates>The NewZealand Story (Taito)</emulates>
+	<comment>Very small but seems to be a bit slow!</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="tnzsemu.zip">Emulator</file>
+	</files>
+</emulator>

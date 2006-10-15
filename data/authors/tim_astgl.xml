@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="tim_astgl">
+	<name>Tim</name>
+	<email>astgl@charter.net</email>
+	<emulator_links>
+		<emulator_link id="astdxgl" type="multi">&emulator_astdxgl;</emulator_link>
+		<emulator_link id="asteroidsgl" type="single">&emulator_asteroidsgl;</emulator_link>
+		<emulator_link id="battlezonegl" type="single">&emulator_battlezonegl;</emulator_link>
+		<emulator_link id="tempestgl" type="single">&emulator_tempestgl;</emulator_link>
+	</emulator_links>
+</author>

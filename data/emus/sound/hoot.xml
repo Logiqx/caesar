@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="hoot" type="sound" dat="Hoot_20011002">
+	<name>Hoot</name>
+	<version>20020928</version>
+	<date>28/09/2002</date>
+
+	<homepage>http://dmpsoft.s17.xrea.com/hoot/</homepage>
+	<author_link id="dmp_soft">&author_dmp_soft;</author_link>
+
+	<emulates>Lots of arcade games!</emulates>
+	<comment>A sound emulator that emulates a huge number of systems. You can configure it to play additional games on supported hardware through an XML formatted configuration file. For instructions on using this emulator, visit http://crashtest.retrogames.com/Hoot/index.html (it is the configuration from this page that was used for the game list below).</comment>
+	<status>Unknown</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>N/A</screendump>
+		<hiscoresave>N/A</hiscoresave>
+		<savegame>N/A</savegame>
+		<recordinput>N/A</recordinput>
+		<dips>N/A</dips>
+		<cheat>N/A</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>N/A</throttle>
+	</features>
+
+	<files>
+		<file name="hoot20020928.cab">Emulator</file>
+		<file name="mxdrv20010330.cab">Driver needed by the emulator</file>
+		<file name="my_hoot.zip">Hoot configuration from CrashTest's page (most of the drivers are by Ryo Takaoka)</file>
+		<file name="hootsrc20011006.cab">Source (6th October 2001)</file>
+	</files>
+</emulator>

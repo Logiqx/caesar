@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="midway_collection_2" type="psx" dat="Arcades_Greatest_Hits_PSX_-_The_Midway_Collection_2">
+	<name>Arcades Greatest Hits: The Midway Collection 2</name>
+	<version>-</version>
+	<date>1997</date>
+
+	<homepage>http://www.digitaleclipse.com</homepage>
+	<author_link id="midway">&author_midway;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="digital_eclipse">&author_digital_eclipse;</author_link>
+			<comment>Development</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Joust 2, Splat!, Blaster, Moon Patrol, Root Beer Tapper, Spy Hunter, Burger Time</emulates>
+	<comment>The third of the arcade emulators that Digital Eclipse created for the Playstation. There was no Midway Collection 1, it was called Williams Arcade's Greatest Hits.</comment>
+	<status>Released</status>
+
+	<platform>Playstation</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>?</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<relatives>
+		<ports>
+			<emulator_link id="midway_collection_2_pc" type="commercial">&emulator_midway_collection_2_pc;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

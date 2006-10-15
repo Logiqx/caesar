@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="cityconnection" type="single" dat="City_Connection_Emulator_v2.4">
+	<name>City Connection Emulator</name>
+	<version>2.4</version>
+	<date>27/08/1997</date>
+
+	<homepage status="bad">http://www.arrakis.es/~jepalza</homepage>
+	<author_link id="joseba_epalza">&author_joseba_epalza;</author_link>
+
+	<emulates>City Connection (Jaleco)</emulates>
+	<comment>One of many single emulators by the Spanish programmer</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="city24.zip">Emulator</file>
+	</files>
+</emulator>

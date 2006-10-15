@@ -1,0 +1,233 @@
+clrmamepro (
+	name QSound
+	description "QSound Player v2"
+	category "Sound Player"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name wof
+	description "Warriors of Fate [sound only]"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name tk2_q1.rom size 524288 crc 611268cf sha1 83ab059f2110fb25fdcff928d56b790fc1f5c975 )
+	rom ( name tk2_q2.rom size 524288 crc 20f55ca9 sha1 90134e9a9c4749bb65c728b66ea4dac1fd4d88a4 )
+	rom ( name tk2_q3.rom size 524288 crc bfcf6f52 sha1 2a85ff3fc89b4cbabd20779ec12da2e116333c7c )
+	rom ( name tk2_q4.rom size 524288 crc 36642e88 sha1 8ab25b19e2b67215a5cb1f3aa81b9d26009cfeb8 )
+	rom ( name tk2_qa.rom size 131072 crc c9183a0d sha1 d8b1d41c572f08581f8ab9eb878de77d6ea8615d )
+)
+
+game (
+	name dino
+	description "Cadillacs & Dinosaurs [sound only]"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name cd_q.rom size 131072 crc 605fdb0b sha1 9da90ddc6513aaaf2260f0c69719c6b0e585ba8c )
+	rom ( name cd_q1.rom size 524288 crc 60927775 sha1 f8599bc84c38573ebbe8685822c58b6a38b50462 )
+	rom ( name cd_q2.rom size 524288 crc 770f4c47 sha1 fec8ef00a6669d4d5e37787ecc7b58ee46709326 )
+	rom ( name cd_q3.rom size 524288 crc 2f273ffc sha1 f0de462f6c4d251911258e0ebd886152c14d1586 )
+	rom ( name cd_q4.rom size 524288 crc 2c67821d sha1 6e2528d0b22508300a6a142a796dd3bf53a66946 )
+)
+
+game (
+	name mbomber
+	description "Muscle Bomber Duo [sound only]"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name mb_q.rom size 131072 crc d6fa76d1 sha1 3bfcb703e0e458ef1bb843230f8537167f1d4c3c )
+	rom ( name mb_q1.rom size 524288 crc 0630c3ce sha1 520fc74c5c3638f611fa2f1b5efb08b91747e29b )
+	rom ( name mb_q2.rom size 524288 crc 354f9c21 sha1 1dc6b39791fd0f760697f409a6b62361a7bf62e9 )
+	rom ( name mb_q3.rom size 524288 crc 7838487c sha1 056b7da05cfca46873edacd674ca25c70855c6db )
+	rom ( name mb_q4.rom size 524288 crc ab66e087 sha1 066ea69a0157e8647eea3c44d0a1843898860678 )
+	rom ( name mb_q5.rom size 524288 crc c789fef2 sha1 10d1e3d92288fccd4e064a3716a788a165efc3c9 )
+	rom ( name mb_q6.rom size 524288 crc ecb81b61 sha1 e339f21ae47de4782f3b338befcdac659c3503f6 )
+	rom ( name mb_q7.rom size 524288 crc 041e49ba sha1 3220b033a5c0cfbbe75c0c113cf2db39fb093a7e )
+	rom ( name mb_q8.rom size 524288 crc 59fe702a sha1 807178dfc6d864e49fd7aabb5c4895835cf0e85b )
+)
+
+game (
+	name slammast
+	description "Slam Masters [sound only]"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name mb_qa.rom size 131072 crc e21a03c4 sha1 98c03fd2c9b6bf8a4fc25a4edca87fff7c3c3819 )
+	rom ( name mb_q1.rom size 524288 crc 0630c3ce sha1 520fc74c5c3638f611fa2f1b5efb08b91747e29b )
+	rom ( name mb_q2.rom size 524288 crc 354f9c21 sha1 1dc6b39791fd0f760697f409a6b62361a7bf62e9 )
+	rom ( name mb_q3.rom size 524288 crc 7838487c sha1 056b7da05cfca46873edacd674ca25c70855c6db )
+	rom ( name mb_q4.rom size 524288 crc ab66e087 sha1 066ea69a0157e8647eea3c44d0a1843898860678 )
+	rom ( name mb_q5.rom size 524288 crc c789fef2 sha1 10d1e3d92288fccd4e064a3716a788a165efc3c9 )
+	rom ( name mb_q6.rom size 524288 crc ecb81b61 sha1 e339f21ae47de4782f3b338befcdac659c3503f6 )
+	rom ( name mb_q7.rom size 524288 crc 041e49ba sha1 3220b033a5c0cfbbe75c0c113cf2db39fb093a7e )
+	rom ( name mb_q8.rom size 524288 crc 59fe702a sha1 807178dfc6d864e49fd7aabb5c4895835cf0e85b )
+)
+
+game (
+	name punish
+	description "The Punisher [sound only]"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name ps_q.rom size 131072 crc 49ff4446 sha1 87af12f87a940a6c5428b4574ad44a4b54867bc3 )
+	rom ( name ps_q1.rom size 524288 crc 31fd8726 sha1 1d73a76682e9fb908db0c55b9a18163f7539fea1 )
+	rom ( name ps_q2.rom size 524288 crc 980a9eef sha1 36571381f349bc726508a7e618ba1c635ec9d271 )
+	rom ( name ps_q3.rom size 524288 crc 0dd44491 sha1 903cea1d7f3120545ea3229d30fbd687d11ad68f )
+	rom ( name ps_q4.rom size 524288 crc bed42f03 sha1 21302f7e75f9c795392a3b34e16a959fc5f6e4e9 )
+)
+
+game (
+	name sfxj
+	description "Super Street Fighter 2 X: Grand Master Challenge [sound only]"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name sfx_01.bin size 131072 crc b47b8835 sha1 c8b2d50fe3a329bd0592ea160d505155d873dab1 )
+	rom ( name sfx_02.bin size 131072 crc 0022633f sha1 cab3afc79da53e3887eb1ccd1f4d19790728e6cd )
+	rom ( name sfx_s11.bin size 2097152 crc 9bdbd476 sha1 a8520f77f30b97aae36408e0c4ca1ebbde1808a5 )
+	rom ( name sfx_s12.bin size 2097152 crc a05e3aab sha1 d4eb9cae66c74e956569fea8b815156fbd420f83 )
+)
+
+game (
+	name vmj
+	description "Vampire: The Night Warriors [sound only]"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name vm_01.bin size 131072 crc 64b685d5 sha1 6c180e7420db754eca5cad17a40f5a64f5c3bd15 )
+	rom ( name vm_02.bin size 131072 crc cf7c97c7 sha1 109a4b56ecd59be9c3f5869de99d40619bdaef21 )
+	rom ( name vm_s11.bin size 2097152 crc 4a39deb2 sha1 7e63e615869958db66a4e52a0272afee5a10e446 )
+	rom ( name vm_s12.bin size 2097152 crc 1a3e5c03 sha1 c5a556e125d6c3d68da745b4d56cd7a851f2a23d )
+)
+
+game (
+	name sfzj
+	description "Street Fighter Zero [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name sfz_01.bin size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz_02.bin size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfzj_s11.bin size 2097152 crc c4b093cd sha1 256526bb693a0b72443f047e060304c9b739acd1 )
+	rom ( name sfzj_s12.bin size 2097152 crc 8bdbc4b4 sha1 0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec )
+)
+
+game (
+	name msh
+	description "Marvel Super Heroes [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name msh.1 size 131072 crc c976e6f9 sha1 281025e5aaf97c0aeddc8bd0f737d092daadad9e )
+	rom ( name msh.2 size 131072 crc ce67d0d9 sha1 324226597cc5a11603f04085fef7715a314ecc05 )
+	rom ( name msh.11 size 2097152 crc 37ac6d30 sha1 ec67421fbf4a08a686e76792cb35e9cbf04d022d )
+	rom ( name msh.12 size 2097152 crc de092570 sha1 a03d0df901f6ea79685eaed67db65bee14ec29c6 )
+)
+
+game (
+	name xmencota
+	description "X-Men: Children of the Atom [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name xcota.1 size 131072 crc 40f479ea sha1 f29e15f537675305264ae2138a0a537fb9e2008b )
+	rom ( name xcota.2 size 131072 crc 39d9b5ad sha1 af502debfd36100d4fc971ed25fdf9d7121d6f18 )
+	rom ( name xcota.11 size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xcota.12 size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name mvscap
+	description "Marvel Super Heroes vs. Capcom: Clash of Super Heroes [sound only]"
+	year 1998
+	manufacturer "Capcom"
+	rom ( name mvsc.1 size 131072 crc 41629e95 sha1 36925c05b5fdcbe43283a882d021e5360c947061 )
+	rom ( name mvsc.2 size 131072 crc 963abf6b sha1 6b784870e338701cefabbbe4669984b5c4e8a9a5 )
+	rom ( name mvsc.11a size 2097152 crc 1bab466f sha1 342a27c280e8272171c7c3d83dc580a647721ddf )
+	rom ( name mvsc.11b size 2097152 crc c2e8c3dc sha1 0527a227f5cd0fb2ed3658d983f63c4e9174fd6b )
+	rom ( name mvsc.12a size 2097152 crc f255dccb sha1 a32b321d9a7680c778af58db6c64c2a546ab236b )
+	rom ( name mvsc.12b size 2097152 crc d1583593 sha1 a5ce50313eb9c57ad39a9b28adf8c40d7877cfd7 )
+)
+
+game (
+	name vsavior
+	description "Vampire Savior: The Lord of Vampire [sound only]"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name vsavior.1 size 131072 crc f778769b sha1 788ce1ad8a322179f634df9e62a31ad776b96762 )
+	rom ( name vsavior.2 size 131072 crc cc09faa1 sha1 2962ef0ceaf7e7279de3c421ea998763330eb43e )
+	rom ( name vsavior.11a size 2097152 crc f2b92cff sha1 98a667aa04b5b5eb8606ac7242b96c2cc082b219 )
+	rom ( name vsavior.11b size 2097152 crc 7927e272 sha1 615ae32dbc900d827e6980e4568495882bc41e1a )
+	rom ( name vsavior.12a size 2097152 crc 51564e82 sha1 bece596798203841c1f5680e32f2abdfc30d49f9 )
+	rom ( name vsavior.12b size 2097152 crc c80293e6 sha1 2169a815c145840b8bc1432667c54902ab84a6d1 )
+)
+
+game (
+	name vm3j
+	description "Vampire Savior: The Lord of Vampire (Japan) [sound only]"
+	year 1997
+	manufacturer "Capcom"
+	rom ( name vm3_01.bin size 131072 crc f778769b sha1 788ce1ad8a322179f634df9e62a31ad776b96762 )
+	rom ( name vm3_02.bin size 131072 crc cc09faa1 sha1 2962ef0ceaf7e7279de3c421ea998763330eb43e )
+	rom ( name vm3_s11.bin size 4194304 crc e80e956e sha1 74181fca4b764fb3c56ceef2cb4c6fd6c18ec4b6 )
+	rom ( name vm3_s12.bin size 4194304 crc 9cd71557 sha1 7059db25698a0b286314c5961c618f6d2e6f24a1 )
+)
+
+game (
+	name sfz2j
+	description "Street Fighter Zero 2 [sound only]"
+	year 1996
+	manufacturer "Capcom"
+	rom ( name sz2_01a.bin size 131072 crc 1bc323cf sha1 83fbd6e9b327700dc9f1c59700b7385bc3705749 )
+	rom ( name sz2_02a.bin size 131072 crc ba6a5013 sha1 7814f3e56b69529b9860dd61c3b1e8d700244b03 )
+	rom ( name sz2j_s11.bin size 2097152 crc aa47a601 sha1 a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9 )
+	rom ( name sz2j_s12.bin size 2097152 crc 2237bc53 sha1 96d5693047e4cf1ed10a8ee1905cea267a278e92 )
+)
+
+game (
+	name vphj
+	description "Vampire Hunter: DarkStalkers Revenge [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name vph_01.bin size 131072 crc 5045dcac sha1 fd1a6586fbdd48a707df1fa52309b4cf50e3cc4c )
+	rom ( name vph_02.bin size 131072 crc 86b60e59 sha1 197d07ced8b9850729c83fa59b7afc283500bdee )
+	rom ( name vphj_s11.bin size 2097152 crc e1837d33 sha1 e3cb69f64767bacbec7286d0b4cd0ce7a0ba13d8 )
+	rom ( name vphj_s12.bin size 2097152 crc fbd3cd90 sha1 4813c25802ad71b77ca04fd8f3a86344f99f0d6a )
+)
+
+game (
+	name dadtod
+	description "Dungeons & Dragons: Tower of Doom [sound only]"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name dad-01.bin size 131072 crc 3f5e2424 sha1 4aa744576bc6752c43a90a27a816ebd90076b248 )
+	rom ( name dad-11m.bin size 2097152 crc 0c499b67 sha1 a8ebd8a1cd6dece8344b7cb0439d85843fb97616 )
+	rom ( name dad-12m.bin size 2097152 crc 2f0b5a4e sha1 8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2 )
+)
+
+game (
+	name sfa
+	description "Street Fighter Alpha: The Warriors Dream [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name sfz_01.rom size 131072 crc ffffec7d sha1 75b4aef001b72a0f571b51b2b97803facc1832dd )
+	rom ( name sfz_02.rom size 131072 crc 45f46a08 sha1 e32dbd27b52ab708278045b5a829376e55a4ca81 )
+	rom ( name sfz_11-a.rom size 524288 crc 5aef5091 sha1 8942437d682128d25f5553d8487eda2fce941559 )
+	rom ( name sfz_11-b.rom size 524288 crc 1a7b31a3 sha1 8cd302dac4c7b58577018819038946d6f20068b6 )
+	rom ( name sfz_11-c.rom size 524288 crc f4540c35 sha1 c56b4d01cde34fe01bac8cd3ed548af79e98eb14 )
+	rom ( name sfz_11-d.rom size 524288 crc 3a88e8da sha1 a573ce4bcb28ede7e65fd12238de5a6181ec17fc )
+	rom ( name sfz_12-a.rom size 524288 crc 207b8d90 sha1 ad620019bfe4da4c53b5c633baf9b473d5b02ec6 )
+	rom ( name sfz_12-b.rom size 524288 crc d2958f9b sha1 76491192026a7858d8941ca0d3b1591f986a9218 )
+	rom ( name sfz_12-c.rom size 524288 crc 8673691e sha1 1b758f5838263ab20930c3d7c0b47e4f9578fbf4 )
+	rom ( name sfz_12-d.rom size 524288 crc 545f3cc3 sha1 72e557206a693a909de4e0d060ca1e5be7af5f10 )
+)
+
+game (
+	name ssf2
+	description "Super Street Fighter 2: The New Challengers [sound only]"
+	year 1993
+	manufacturer "Capcom"
+	rom ( name ssfj01.bin size 131072 crc eb247e8c sha1 24296c18d9b1136d69712bf1c9d9d15463041e83 )
+	rom ( name ssf-q1.bin size 524288 crc a6f9da5c sha1 6d19f83a01bd25b838d5c2871f7964529d926c98 )
+	rom ( name ssf-q2.bin size 524288 crc 8c66ae26 sha1 32a82aee6ed4480e5a990f9af161734c7c0a1403 )
+	rom ( name ssf-q3.bin size 524288 crc 695cc2ca sha1 c2675f0233608b76de528d2a6ef19846d1348060 )
+	rom ( name ssf-q4.bin size 524288 crc 9d9ebe32 sha1 9b26329370041374f1a90b479a172d2bc2801c4d )
+	rom ( name ssf-q5.bin size 524288 crc 4770e7b7 sha1 0e764f0befb9227b0b36508d8ca8ec9be31bcb05 )
+	rom ( name ssf-q6.bin size 524288 crc 4e79c951 sha1 1144781d7dc57ef8a6458d982f5c91548ff59e27 )
+	rom ( name ssf-q7.bin size 524288 crc cdd14313 sha1 ebe767a9d4b51dba4282fa0a36a546a88620dd59 )
+	rom ( name ssf-q8.bin size 524288 crc 6f5a088c sha1 6c0b4690479647a99d76335f174be8455b4ff118 )
+)
+

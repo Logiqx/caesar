@@ -1,0 +1,34 @@
+clrmamepro (
+	name "Radikal Bikers Emulator"
+	description "Radikal Bikers Emulator v0.9"
+	category "Single Game Arcade Emulator"
+	version 20041231
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name radikalb
+	description "Radikal Bikers"
+	year 1998
+	manufacturer "Gaelco"
+	rom ( name rab.6 size 524288 crc ccac98c5 sha1 43a30caf9880f48aba79676f9e746fdc6258139d region cpu1 )
+	rom ( name rab.12 size 524288 crc 26199506 sha1 1b7b44895aa296eab8061ae85cbb5b0d30119dc7 region cpu1 )
+	rom ( name rab.14 size 524288 crc 4a0ac8cb sha1 4883e5eddb833dcd39376be435aa8e8e2ec47ab5 region cpu1 )
+	rom ( name rab.19 size 524288 crc 2631bd61 sha1 57331ad49e7284b82073f696049de109b7683b03 region cpu1 )
+	rom ( name rab.23 size 4194304 crc dcf52520 sha1 ab54421c182436660d2a56a334c1aa335424644a region user1 )
+	rom ( name rab.48 size 4194304 crc 9c56a06a sha1 54f12d8b55fa14446c47e31684c92074c4157fe1 region user2 )
+	rom ( name rab.45 size 4194304 crc 7e698584 sha1 a9423835a126396902c499e9f7df3b68c2ab28a8 region user2 )
+	rom ( name rab.8 size 4194304 crc 4fbd4737 sha1 594438d3edbe00682290986cc631615d7bef67f3 region user4 )
+	rom ( name rab.10 size 4194304 crc 870b0ce4 sha1 75910dca87d2eb3a6b4a28f6e9c63a6b6700de84 region user4 )
+	rom ( name rab.15 size 4194304 crc edb9d409 sha1 1f8df507e990eee197f2779b45bd8f143d1bd439 region user4 )
+	rom ( name rab.17 size 4194304 crc e120236b sha1 37d7996530eda3df0c19bca1cbf26e5ba58b0977 region user4 )
+	rom ( name rab.9 size 4194304 crc 9e3e038d sha1 4a5f0b3c54c508d7f310f270dbd11bffb2bcfa89 region user4 )
+	rom ( name rab.11 size 4194304 crc 75672271 sha1 ebbdf089b4a4d5ead7d62555bb5c9a921aaa1c22 region user4 )
+	rom ( name rab.16 size 4194304 crc 9d595e46 sha1 b985332974e1fb0b9d20d521da0d7deceea93a8a region user4 )
+	rom ( name rab.18 size 4194304 crc 3084bc49 sha1 9da43482293eeb08ceae67455b2fcd97b6ef5109 region user4 )
+	rom ( name rab.24 size 131072 crc 2984bc1d sha1 1f62bdaa86feeff96640e325f8241b9c5f383a44 region user5 )
+	rom ( name rab.25 size 131072 crc 777758e3 sha1 bd334b1ba46189ac8509eee3a4ab295c121400fd region user5 )
+	rom ( name rab.26 size 131072 crc bd9c1b54 sha1 c9ef679cf7eca9ed315ea62a7ada452bc85f7a6a region user5 )
+	rom ( name rab.27 size 131072 crc bbcf6977 sha1 0282c8ba79c35ed1240711d5812bfb590d151738 region user5 )
+)
+

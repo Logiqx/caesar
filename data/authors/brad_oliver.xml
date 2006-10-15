@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="brad_oliver">
+	<name>Brad Oliver</name>
+	<email>bradman@pobox.com</email>
+	<homepage>http://www.brad-oliver.com:8081/~boliver/blog/</homepage>
+	<emulator_links>
+		<emulator_link id="macmame" type="mac">&emulator_macmame;</emulator_link>
+		<emulator_link id="nemesis_mac" type="mac">&emulator_nemesis_mac;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+	</contribution_links>
+</author>

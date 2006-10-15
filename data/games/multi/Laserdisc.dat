@@ -1,0 +1,13 @@
+game (
+	name dlair
+	description "Dragon's Lair"
+	year 1983
+	manufacturer "Cinematronics"
+)
+
+game (
+	name spaceace
+	description "Space Ace"
+	year 1983
+	manufacturer "Cinematronics"
+)

@@ -1,0 +1,18 @@
+game (
+	name phoenix
+	description "Phoenix (Amstar)"
+	year 1980
+	manufacturer "Amstar"
+	rom ( name ic45 size 2048 crc 9f68086b )
+	rom ( name ic46 size 2048 crc 273a4a82 )
+	rom ( name ic47 size 2048 crc 3d4284b9 )
+	rom ( name ic48 size 2048 crc cb5d9915 )
+	rom ( name ic49 size 2048 crc a105e4e7 )
+	rom ( name ic50 size 2048 crc ac5e9ec1 )
+	rom ( name ic51 size 2048 crc 2eab35b4 )
+	rom ( name ic52 size 2048 crc aff8e9c5 )
+	rom ( name ic23 size 2048 crc 3c7e623f )
+	rom ( name ic24 size 2048 crc 59916d3b )
+	rom ( name ic39 size 2048 crc 53413e8f )
+	rom ( name ic40 size 2048 crc 0be2ba91 )
+)

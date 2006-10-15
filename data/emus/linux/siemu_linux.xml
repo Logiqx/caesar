@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="siemu_linux" type="linux" dat="dummy">
+	<name>8080A Simulator (siemu) for Linux</name>
+	<version>1.03</version>
+	<date>15/11/2002</date>
+
+	<homepage>http://www.darkpact.com/proj/</homepage>
+	<author_link id="anoakie_turner">&author_anoakie_turner;</author_link>
+
+	<emulates>Space Invaders (Taito)</emulates>
+	<comment>A simple Space Invaders emulator. Can also emulate other Space Invaders clones if you name the ROMs appropriately. Requires SDL library to run.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+	</tool_links>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="siemu-1.03.zip">Emulator and source (ZIP)</file>
+		<file name="siemu-1.03.tar.gz">Emulator and source (GZip)</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="siemu" type="multi">&emulator_siemu;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

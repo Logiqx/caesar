@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sledgehammer" type="multi" dat="SledgeHammer_v0.02">
+	<name>SledgeHammer</name>
+	<version>0.02</version>
+	<date>13/03/2002</date>
+
+	<homepage>http://sledgehammer.emuunlim.com/</homepage>
+	<author_link id="sledgehammer">&author_sledgehammer;</author_link>
+
+	<emulates>Namco System 21</emulates>
+	<comment>Created by an anonymous author, this preliminary emulator doesn't even get past the hardware tests yet.</comment>
+	<status>Dormant</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="sledgehammer-0.02-win32-binary.zip">Emulator</file>
+	</files>
+</emulator>

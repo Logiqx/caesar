@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="matt_barney">
+	<name>Matt Barney</name>
+	<email>matt@barney36.freeserve.co.uk</email>
+	<emulator_links>
+		<emulator_link id="visualam" type="single">&emulator_visualam;</emulator_link>
+	</emulator_links>
+</author>

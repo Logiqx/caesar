@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="qmdx" type="snd_libs">
+	<name>QMDX</name>
+	<version>5.00 Build #76</version>
+	<date>08/10/1999</date>
+
+	<homepage>http://www.qsound.com/gamedev/</homepage>
+	<author_link id="qsound_labs">&author_qsound_labs;</author_link>
+
+	<comment>On a plain stereo sound-card system, you get an extremely efficient 3D-to-stereo translation.</comment>
+
+	<emulator_links>
+		<emulator_link id="calice" type="multi">&emulator_calice;</emulator_link>
+		<emulator_link id="qplayer" type="sound">&emulator_qplayer;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="qm500sdk.exe">QMDX Distribution</file>
+	</files>
+</tool>

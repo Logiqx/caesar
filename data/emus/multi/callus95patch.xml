@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="callus95patch" type="multi" dat="Callus95_v0.42_patch_2.4">
+	<name>Callus95 (Patched)</name>
+	<version>0.42 patch 2.4</version>
+	<date>21/11/2000</date>
+
+	<homepage>http://cps2shock.retrogames.com/cls95p/</homepage>
+	<author_link id="callus95patch">&author_callus95patch;</author_link>
+
+	<emulates>Capcom System 1 Games</emulates>
+	<comment>Mainly assembler so faster than MAME for the games it does</comment>
+	<status>Dormant</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>Yes</network>
+		<recordsound>Yes</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="cls95p24.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="callus95" type="multi2">&emulator_callus95;</emulator_link>
+		</predecessors>
+	</relatives>
+</emulator>

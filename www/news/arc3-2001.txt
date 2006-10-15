@@ -1,0 +1,744 @@
+<h2>Sunday 22 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 April 2001, 04:03 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+As well as emulating arcade games, Mimic is starting to look good with GameBoy emulation. Go and take a look at the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic</a> home page. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CPS2MAME Releases</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 April 2001, 12:21 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The various CPS-2 only versions of MAME have been updated for todays release of Marvel Super Heroes (Hispanic). The relevant pages in CAESAR are up to date now. 
+</td></tr>
+
+</table><br>
+ 
+<h2>Friday 20 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Ultracade Game Packs</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 April 2001, 00:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new game pack has been released for <a href="http://www.ultracade.com/">Ultracade</a>. Toaplan Classics 1 contains Truxton II, Hellfire, Zero Wing, Demon's World, Out Zone and Snow Bros.  
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>XMAME v0.37 b14.1</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 April 2001, 00:30 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://x.mame.net/">XMAME v0.37 b14.1</a> has been released, bringing it up to date with the main DOS version. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Calice adds CPS-2</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 April 2001, 00:33 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://calice.emuunlim.com">Calice</a> has received a large update and also adds CPS-2 support. The DOS version is now discontinued but the Windows version is greatly improved. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 April 2001, 11:51 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More news, no snapshots:<br>
+<br>
+18th April 2001: Sean Young adjusted the Z80 core to work better with MSX emulation, and he fixed a frequency calculation bug in the K051649 (SCC) sound core. Aaron Giles added the correct Ninja Clowns sound ROM to the itech8 driver, and added controls emulation to Slick Shot, which is now somewhat playable. Ian Patterson submitted a fix for redraw problems in the exidy440 driver. <br>
+<br>
+19th April 2001: Ian Patterson submitted an updated version of the cheat engine, including a lot of bugfixes and functionality enhancements. inside out boy sent a fix for playing back inp files on certain games. Dave Haywood added another ROM set of Takeda Shingen to the Mega System 1 driver.  
+</td></tr>
+
+</table><br>
+<h2>Tuesday 17 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>AdvanceMAME v0.37 b14.0</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 April 2001, 12:49 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://advancemame.arcadeheaven.com/">AdvanceMAME</a> is now up to date with the main DOS port. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>PhMAME v0.37 b13</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 April 2001, 12:53 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.classicgaming.com/phmame/">PhMAME</a> the port of MAME for QNX devices is now up to date with the main DOS version. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>RAINE WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 April 2001, 12:54 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.rainemu.com/html/wip.html">RAINE WIP</a> page has received a few updates from Warlock. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 April 2001, 12:55 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+14th April 2001: Zsolt Vasvari added cloud graphics emulation to Polaris and fixed cocktail mode support in 8080bw driver. Mathis Rosenhauer fixed the Space Encounters overlay to display correctly. Leandro Dardini submitted a fix for the Mutant Night lagging sprites problem. Phil Stroffolino further improved the Tunnel Hunt driver with help from Owen Rubin, and he added the USA version of Cosmo Gang the Puzzle to the Namco NA1/2 driver.<br>
+<br>
+15th April 2001: Zsolt Vasvari fixed an i8085 CPU core bug which affected Meteoroids title screen. Nicola Salmoria fixed an i8086 CPU core bug which broke the high score screen in Q*Bert. Bart Puype submitted a fix for potential crashes in Atari System 1 games. Sean Young fixed some more undocumented flags in the Z80 CPU core. Brad Oliver fixed Thunder Dragon bootleg ROM descrambler, which was broken in MacMAME. <br>
+<br>
+16th April 2001: Zsolt Vasvari fixed Centipede cocktail mode and Polaris cloud scroll speed. Mike Haaland fixed an ASM 68k CPU core compilation bug. Yochizo sent in drivers for Bonze's Adventure / Jigoku Meguri and Exzisus. Mathis Rosenhauer fixed another artwork system problem, and fixed Discs of Tron from crashing. Paul Hampson and Quench finished off the China Gate driver.<br>
+<br>
+17th April 2001: Stefan Jokisch merged his and Yochizo's drivers for Bonze's Adventure / Jigoku Meguri, improving the C-Chip emulation and making the final levels playable.<br>
+<br>
+Screenshots also available at the <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page. 
+</td></tr>
+
+</table><br>
+<h2>Monday 16 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MacMAME  v0.37 b14</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  16 April 2001, 01:41 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+MacMAME has now caught up with the DOS version. Head on over to the <a href="http://www.macmame.org/">official site</a> to read what is new. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Tempest goes JAE</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  16 April 2001, 01:43 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Norbert Kehrer has made game 34 for the Java Arcade Emulator. Tempest is one of Atari's classic vector games from back in 1980. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 14 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Virtua Snaps</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  14 April 2001, 05:46 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Did you ever wonder how far Virtua got with the emulation of Virtua Fighter, Virtua Racer, Manx TT and Daytona USA? Well, I have added snapshots to the <a href="/html/emus/multi/virtua.shtml">Virtua</a> page of CAESAR now. Go and take a look if you're interested. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAMEBoyX</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  14 April 2001, 05:50 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+MAMEBoyX, a special unsupported version of MAMEBoy with many requested games enabled is available for download from the <a href="http://www.mameworld.net/mameboy/">MAMEBoy</a> home page. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic v1.06</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  14 April 2001, 10:02 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Mike Beaver has released <a href="/html/emus/multi/mimic.shtml">Mimic v1.06</a>. This release fixes a control related bug in v1.05 and also adds Moon Cresta. 
+</td></tr>
+
+</table><br>
+<h2>Friday 13 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic News</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 April 2001, 01:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://mimic.arcadeheaven.com/">Mimic</a> home page has been updated with some news. Mike has got Galaxian and Moon Cresta hardware working again. He says he could do a release right now, but he wants to see what else he can get working first. Maybe he will try to adapt the old star field code over is one idea. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Visual PinMAME</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 April 2001, 01:30 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Boris (author of <a href="/html/emus/wince/aemu.shtml">aEmu</a>) is now playing with pinball tables for Visual PinMAME. In addition to the ones he has done there are several others available and all can be found at <a href="http://www.hippie.net/vp/downloads.htm">http://www.hippie.net/vp/downloads.htm</a>. To quote Boris:<br>
+<br>
+For now there is Twilight Zone, High Speed, Monster Bash, Gorgar and The Addams Family. More to come ! (Indy 500, Terminator 2, Attack From Mars, Star Treck Next Generation, EarthShaker, F14 Tomcat,... for the next coming)<br>
+<br>
+This all looks very cool so I'll be playing with it this weekend. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler News</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 April 2001, 12:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Modeler is now capable of displaying multi play screens (two screens). Take a look at the <a href="http://www.impactemu.com/news.html">Modeler</a> home page. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 April 2001, 12:26 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+11th April 2001: Zsolt Vasvari added two bootleg clones to the Galaxian driver. Nicola Salmoria fixed some compilation problems.<br>
+<br>
+12th April 2001: E. Watanabe fixed Hexion sound. Zsolt Vasvari resubmitted the addition of Jungle Hunt Brazil version. David Graves added the subwoofer emulation to darius2d and fixed a few other problems.<br>
+<br>
+13th April 2001: Aaron Giles added Power Play to the Leland driver, added a few clones to the itech8 driver and resubmitted the fix for analog input sensitivity problems. Nicola Salmoria fixed colors in Polaris. inside out boy fixed the flip screen effect in Space Panic and its clones. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Nebula v1.2</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 April 2001, 12:28 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Nebula v1.2 has been released. Grab it from over at <a href="http://cps2shock.retrogames.com">CPS2Shock</a>. 
+</td></tr>
+
+</table><br>
+<h2>Thursday 12 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>RAINE v0.31</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 April 2001, 01:39 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.rainemu.com/">RAINE v0.31</a> has just been released for Linux and the DOS version will be available shortly. The new version includes several fixes, most notably 24bpp and rotation in pretty much all of the games. See the official RAINE site for more details. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 11 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 April 2001, 00:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More <a href="http://www.mame.net/wip">WIP</a> and snapshots:<br>
+<br>
+8th April 2001: Mike Coates changed the way in which interrupts are processed in the ASM 68k core, which should fix a few problems. Bart Puype submitted a few fixes to occasional MAME32 crashes. Luca Elia added Magic Bubble to the Shocking driver. Olivier Galibert fixed the state saving code to work in multisession environments.<br>
+<br>
+9th April 2001: Ben Bruscella fixed some MAME32 compilation bugs. Zsolt Vasvari fixed the dip switch settings in Phoenix and Pleiads.<br>
+<br>
+10th April 2001: Marco Cassili fixed dip switch settings in suna8 and balsente drivers. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>New Look Ganksoft</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 April 2001, 00:37 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.ganksoft.com">Ganksoft</a> have changed the look of their website. The site is home to Annoid and DreamPac and I also noticed that the DreamPac individual file distribution was changed a couple of days ago. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Kaillera v0.72</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 April 2001, 10:59 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="http://www.kaillera.com/">Kaillera</a> has been released. The new version is based on MAME v0.37 b14 and has a variety of improvements since v0.71. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 10 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Advance MAME Effects</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 April 2001, 00:23 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://advancemame.arcadeheaven.com/">AdvanceMAME</a> has added some new RGB effects as well as some alternative scanline modes. Go and take a look! 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAMELang32 Updated</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 April 2001, 00:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.emuhq.com/ml32/">MAMELang32</a> has been updated to match MAME v0.37 beta 14. 
+</td></tr>
+
+</table><br>
+<h2>Monday 09 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 April 2001, 00:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.impactemu.com/news.html">Modeler</a> site has added some new screenshots of games. Alien 3, Holosseum and Super Visual Football now has correct colors and Rad Mobile has had some color improvements as well. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>XMAME v0.37 b13.2</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 April 2001, 00:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+An updated version of XMAME is available at the <a href="http://x.mame.net/">XMAME</a> home page. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Updated</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 April 2001, 11:35 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Updated CAESAR to use the new information in <a href="/html/emus/multi/mame.shtml">MAME beta 14</a>. Over 600 pages have changed as a result. Also added <a href="/html/emus/multi/mimic.shtml">Mimic v1.05</a> and <a href="/html/emus/multi/nebula.shtml">Nebula v1.1</a>. 
+</td></tr>
+
+</table><br>
+<h2>Sunday 08 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 April 2001, 09:06 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More <a href="http://www.mame.net/wip">MAME WIP</a> while I've been away:<br>
+<br>
+3rd April 2001: Jarek Burczynski added state saving support to the YM2151 sound core. Aaron Giles fixed several compilation problems. <br>
+<br>
+4th April 2001: Quench fixed a graphics scrolling bug in Green Beret bootleg. Phil Stroffolino sent in a preliminary Tunnel Hunt driver, but a lot of work still needs to be done. M.A.S.H. resubmitted an addition of some unemulated games.<br>
+<br>
+5th April 2001: Luca Elia sent in a driver for Gyakuten!! Puzzle Bancho. Nicola Salmoria fixed Tempest and Quantum screen orientation and added screen flip / rotate support to the vector routines, but the changes are not yet complete.<br>
+<br>
+6th April 2001: Uki wrote a driver for XX Mission. Aaron Giles fixed a bug in Hydra and Pit Fighter, which caused crashes in MAME32. Jarek Burczynski sent in drivers for Tube Panic and Roller Jammers, but background graphics and sprites are missing.<br>
+<br>
+7th April 2001: Zsolt Vasvari sent in an EPOS driver for The Glob, Super Glob and IGMO. Guru fixed dip switch settings in Yie Ar Kung Fu. Bernd Wiebelt fixed some problems in the screen flip / rotate support in the vector routines. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME v0.37 beta 14</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 April 2001, 09:09 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new MAME was released yesterday. As usual, a variety of new games and clones have been added as well as some generic changes. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic v1.05</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 April 2001, 09:10 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="http://mimic.arcadeheaven.com/">Mimic</a> has been released. Several new drivers have been added as well as the first ever smeulation of Sega System E games. The main program itself has also had major changes since the last release. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Nebula v1.1</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 April 2001, 09:11 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.emugenerations.com/">Nebula v1.1</a> has been released, adding raster effects and a variety of other improvements. 
+</td></tr>
+
+</table><br>
+<h2>Friday 06 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>VSyncMAME</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  06 April 2001, 15:17 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There are some great photos that show you what VSyncMAME can do if you follow <a href="http://www.mameworld.net/suzuki2go/vsyncmame/gallery/examples.html">this link</a>. It's definitely worth a look! 
+</td></tr>
+
+</table><br>
+<h2>Thursday 05 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn Discontinued</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  05 April 2001, 02:58 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Sadly, Dave has now called it a day and ceased work on <a href="http://www.finalburn.com">Final Burn</a>. Dave's contributions to the arcade emulation scene have been significant but the end result has been constant demands from strangers and personal criticism. It is a great pity that he has been driven to the point of giving up and it's a sad fact that it is just as likely to happen again with other talented emu authors. Thanks for all you have done Dave; DTMNT, After Burner, Galaxy Force, Thunder Blade, Power Drift and CPS-2 to name a few. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 04 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Updates</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  04 April 2001, 11:40 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+CAESAR is back up to date again after my time away. There were quite a few updates but the most notable were the addition of <a href="/html/emus/multi/nebula.shtml">Nebula</a> (the new CPS-2 emulator) and <a href="/html/emus/multi/pinmame.shtml">PinMAME</a> the successor of WPCmame. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 03 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Mimic WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  03 April 2001, 00:15 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Mike Beaver has been making some progress with his emulator <a href="http://mimic.arcadeheaven.com/">Mimic</a>. Check out his homepage for details. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  03 April 2001, 00:22 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+News for April:<br>
+<br>
+1st April 2001: Luca Elia decrypted Hard Head 2, Star Fighter and Brick Zone, but none of the games are working due to other problems. Quench fixed a problem with the Flying Shark driver that caused the user interface to stay on the screen. Zsolt Vasvari added Survival to the Phoenix driver, but that game isn't working either due to unemulated protection. <br>
+<br>
+2nd April 2001: David Haywood added Thunder Dragon 2 to the Bombjack Twin driver. Olivier Galibert fixed a bug in the tilemap system which caused crashes under certain conditions. Jarek Burczynski added state saving support to ADPCM and OKIM6295 sound emulation cores. Nicola Salmoria fixed Lady Killer from crashing and improved performance in Mouja.<br>
+<br>
+Snapshots are at the <a href="http://www.mame.net/wip">MAME site</a>. 
+</td></tr>
+
+</table><br>
+<h2>Monday 02 April</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler Progress</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There has been quite a bit of progress reported for <a href="http://www.impactemu.com">Modeler</a> while I've been away. Go take a look for the latest info on Out Runners, Hard Dunk, Holosseum and Alien 3. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:21 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More news from over at the MAME WIP page:<br>
+<br>
+29th March 2001: Nicola Salmoria fixed a few graphical bugs in the Namco System 2 driver, and added another Super World Stadium '92 ROM set. Aaron Giles added another Rim Rockin' Basketball ROM set to the itech8 driver. Tatsuyuki Satoh improved the VLM5030 emulator a little, but further progress will be very difficult without the exact decoding algorithm. Gerardo Oporto fixed yet more dip switch settings in the Taito L driver. <br>
+<br>
+30th March 2001: David Graves and Jarek Burczynski fixed a few bugs and added state saving support to Rainbow Islands, Rastan and Operation Wolf. Aaron Giles fixed some compiling bugs.<br>
+<br>
+31st March 2001: Mike Coates changed the steady key code to be dependant of an option in MAME.CFG. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Arkanoid goes JAE</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:25 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Norbert Kehrer has added the old classic Arkanoid to the list games supported by <a href="http://web.utanet.at/nkehrer/jae.html">JAE</a> 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Pinball Emulation</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:33 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+If you're a pinball fan then make sure you visit the home of <a href="http://pinmame.emuviews.com/home.html">PINMAME/Visual PinMAME</a>. There have been a few updates over the past few days. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.113</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:37 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new release of <a href="http://www.finalburn.com/">Final Burn</a> is now available, adding support for X-Men Vs Street Fighter. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Nebula Released</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:41 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The new CPS-2 emulator called <a href="http://emugenerations.hypermart.net/">Nebula</a> was released on Saturday. The latest version is 1.0a but I haven't had a chance to try it yet. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>It had to happen!</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 April 2001, 11:57 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Well, after hundreds of fantastic e-mails from people someone finally sent this:<br>
+<br>
+<b>i think the caesar site sucks ... why would anybody want to look at lists and specs? I want to DOWNLOAD a frickin game! get off the web you just wasted my time!</b><br>
+<br>
+Feel free express you own views on the <a href="http://www.emuunderground.com/cgi/UltraBoard/UltraBoard.cgi?action=Headlines&BID=15&SID=">message board</a> and I'll direct him to that. Anyone want his address? 
+</td></tr>
+
+</table><br>

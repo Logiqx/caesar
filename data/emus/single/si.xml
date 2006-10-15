@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="si" type="single" dat="SI_v0.1">
+	<name>SI (Space Invaders)</name>
+	<version>0.1</version>
+	<date>10/01/2001</date>
+
+	<homepage>http://www.dynarec.com/~victor/</homepage>
+	<author_link id="victor_moya">&author_victor_moya;</author_link>
+
+	<emulates>Space Invaders (Taito)</emulates>
+	<comment>Simple Space Invaders emulator for Windows.</comment>
+	<status>Dormant</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="si2001.zip">Emulator</file>
+		<file name="sisrc.zip">Source</file>
+	</files>
+</emulator>

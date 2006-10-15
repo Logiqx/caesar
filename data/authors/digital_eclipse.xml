@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="digital_eclipse">
+	<name>Digital Eclipse</name>
+	<email></email>
+	<contribution_links>
+		<emulator_link id="williams_digital_arcade" type="mac">&emulator_williams_digital_arcade;</emulator_link>
+		<emulator_link id="williams_arcade_classics" type="commercial">&emulator_williams_arcade_classics;</emulator_link>
+		<emulator_link id="williams_arcade_classics_95" type="commercial">&emulator_williams_arcade_classics_95;</emulator_link>
+		<emulator_link id="williams_greatest_hits" type="psx">&emulator_williams_greatest_hits;</emulator_link>
+		<emulator_link id="williams_greatest_hits_sat" type="saturn">&emulator_williams_greatest_hits_sat;</emulator_link>
+		<emulator_link id="midway_greatest_hits" type="dreamcast">&emulator_midway_greatest_hits;</emulator_link>
+		<emulator_link id="midway_collection_2" type="psx">&emulator_midway_collection_2;</emulator_link>
+		<emulator_link id="midway_collection_2_pc" type="commercial">&emulator_midway_collection_2_pc;</emulator_link>
+		<emulator_link id="atari_collection" type="psx">&emulator_atari_collection;</emulator_link>
+		<emulator_link id="atari_collection_sat" type="saturn">&emulator_atari_collection_sat;</emulator_link>
+		<emulator_link id="atari_arcade_hits_1" type="commercial">&emulator_atari_arcade_hits_1;</emulator_link>
+		<emulator_link id="atari_arcade_hits_2" type="commercial">&emulator_atari_arcade_hits_2;</emulator_link>
+		<emulator_link id="atari_collection_2" type="psx">&emulator_atari_collection_2;</emulator_link>
+		<emulator_link id="atari_collection_2_pc" type="commercial">&emulator_atari_collection_2_pc;</emulator_link>
+		<emulator_link id="centipede_classic_mode" type="commercial">&emulator_centipede_classic_mode;</emulator_link>
+		<emulator_link id="centipede_classic_mode_dc" type="dreamcast">&emulator_centipede_classic_mode_dc;</emulator_link>
+		<emulator_link id="qbert_classic_mode" type="commercial">&emulator_qbert_classic_mode;</emulator_link>
+		<emulator_link id="qbert_classic_mode_psx" type="psx">&emulator_qbert_classic_mode_psx;</emulator_link>
+		<emulator_link id="qbert_classic_mode_dc" type="dreamcast">&emulator_qbert_classic_mode_dc;</emulator_link>
+		<emulator_link id="arcade_party_pak" type="psx">&emulator_arcade_party_pak;</emulator_link>
+		<emulator_link id="arcade_party_pak_pc" type="commercial">&emulator_arcade_party_pak_pc;</emulator_link>
+		<emulator_link id="shockwave_arcade" type="shockwave">&emulator_shockwave_arcade;</emulator_link>
+	</contribution_links>
+</author>

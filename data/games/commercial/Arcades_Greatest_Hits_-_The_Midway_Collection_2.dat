@@ -1,0 +1,48 @@
+game (
+	name joust2
+	description "Joust 2 - Survival of the Fittest (set 1)"
+	year 1986
+	manufacturer "Williams"
+)
+
+game (
+	name splat
+	description "Splat!"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name blaster
+	description "Blaster"
+	year 1983
+	manufacturer "Williams"
+)
+
+game (
+	name mpatrolw
+	description "Moon Patrol (Williams)"
+	year 1982
+	manufacturer "Irem (Williams license)"
+)
+
+game (
+	name rbtapper
+	description "Tapper (Root Beer)"
+	year 1984
+	manufacturer "Bally Midway"
+)
+
+game (
+	name spyhunt
+	description "Spy Hunter"
+	year 1983
+	manufacturer "Bally Midway"
+)
+
+game (
+	name btimem
+	description "Burger Time (Midway)"
+	year 1982
+	manufacturer "Data East (Bally Midway license)"
+)

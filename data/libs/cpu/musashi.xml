@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="musashi" type="cpu">
+	<name>Musashi</name>
+	<version>3.3.1</version>
+	<date>03/02/2001</date>
+
+	<homepage status="bad">http://members.nbci.com/kstenerud/musashi.html</homepage>
+	<author_link id="karl_stenerud">&author_karl_stenerud;</author_link>
+
+	<emulates>M68000 (Motorola)</emulates>
+	<comment>Written to ANSI C specifications with the exception of inline function use. Portable and fast.</comment>
+
+	<emulator_links>
+		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
+		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+		<emulator_link id="rcps" type="arm">&emulator_rcps;</emulator_link>
+		<emulator_link id="sega_system_24_emulator" type="multi">&emulator_sega_system_24_emulator;</emulator_link>
+		<emulator_link id="viva_nonno" type="multi">&emulator_viva_nonno;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="musashi331.zip">Emulator</file>
+	</files>
+</library>

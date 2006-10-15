@@ -1,0 +1,215 @@
+###############################################################################
+# CPS-1 - Calice, FBA, Nebula, Kawaks
+################################################################################
+
+game (
+	name sfzch
+	description "CPS Changer (Street Fighter ZERO)"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name sfzch23 size 524288 crc 1140743f region cpu1 offs 0 )
+	rom ( name sfza22 size 524288 crc 8d9b2480 region cpu1 offs 80000 )
+	rom ( name sfzch21 size 524288 crc 5435225d region cpu1 offs 100000 )
+	rom ( name sfza20 size 524288 crc 806e8f38 region cpu1 offs 180000 )
+	rom ( name sfz03 size 524288 crc 9584ac85 region gfx1 flags dispose offs 0 )
+	rom ( name sfz07 size 524288 crc bb2c734d region gfx1 flags dispose offs 80000 )
+	rom ( name sfz12 size 524288 crc f122693a region gfx1 flags dispose offs 100000 )
+	rom ( name sfz16 size 524288 crc 19a5abd6 region gfx1 flags dispose offs 180000 )
+	rom ( name sfz01 size 524288 crc 0dd53e62 region gfx1 flags dispose offs 200000 )
+	rom ( name sfz05 size 524288 crc 2b47b645 region gfx1 flags dispose offs 280000 )
+	rom ( name sfz10 size 524288 crc 2a7d675e region gfx1 flags dispose offs 300000 )
+	rom ( name sfz14 size 524288 crc 09038c81 region gfx1 flags dispose offs 380000 )
+	rom ( name sfz04 size 524288 crc b983624c region gfx1 flags dispose offs 400000 )
+	rom ( name sfz08 size 524288 crc 454f7868 region gfx1 flags dispose offs 480000 )
+	rom ( name sfz13 size 524288 crc 7cf942c8 region gfx1 flags dispose offs 500000 )
+	rom ( name sfz17 size 524288 crc 248b3b73 region gfx1 flags dispose offs 580000 )
+	rom ( name sfz02 size 524288 crc 94c31e3f region gfx1 flags dispose offs 600000 )
+	rom ( name sfz06 size 524288 crc 74fd9fb1 region gfx1 flags dispose offs 680000 )
+	rom ( name sfz11 size 524288 crc e35546c8 region gfx1 flags dispose offs 700000 )
+	rom ( name sfz15 size 524288 crc 1aa17391 region gfx1 flags dispose offs 780000 )
+	rom ( name sfz09 size 65536 crc c772628b region cpu2 offs 0 )
+	rom ( name sfz18 size 131072 crc 61022b2d region sound1 offs 0 )
+	rom ( name sfz19 size 131072 crc 3b5886d5 region sound1 offs 20000 )
+)
+
+game (
+	name sfach
+	description "Street Fighter Alpha (Publicity CPS Changer 950727)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof sfzch
+	romof sfzch
+	rom ( name sfach23 size 524288 crc 02a1a853 sha1 d92b9e774844fdcc9d9946b3e892b021e672d876 )
+	rom ( name sfza22 merge sfza22 size 524288 crc 8d9b2480 sha1 405305c1572908d00eab735f28676fbbadb4fac6 )
+	rom ( name sfzch21 merge sfzch21 size 524288 crc 5435225d sha1 6b1156fd82d0710e244ede39faaae0847c598376 )
+	rom ( name sfza20 merge sfza20 size 524288 crc 806e8f38 sha1 b6d6912aa8f2f590335d7ff9a8214648e7131ebb )
+	rom ( name sfz01 merge sfz01 size 524288 crc 0dd53e62 sha1 5f3bcf5ca0fd564d115fe5075a4163d3ee3226df )
+	rom ( name sfz02 merge sfz02 size 524288 crc 94c31e3f sha1 2187b3d4977514f2ae486eb33ed76c86121d5745 )
+	rom ( name sfz03 merge sfz03 size 524288 crc 9584ac85 sha1 bbd62d66b0f6909630e801ce5d6331d43f44d741 )
+	rom ( name sfz04 merge sfz04 size 524288 crc b983624c sha1 841106bb9453e3dfb7869c4b0e9149cc610d515a )
+	rom ( name sfz05 merge sfz05 size 524288 crc 2b47b645 sha1 bc6426eff5df9417f32666586744626fa544f7b5 )
+	rom ( name sfz06 merge sfz06 size 524288 crc 74fd9fb1 sha1 7945472591f3c06970e96611a0363ed8f3d52c36 )
+	rom ( name sfz07 merge sfz07 size 524288 crc bb2c734d sha1 97a06935f86f31755d2ffdc5b56bef53944bdecd )
+	rom ( name sfz08 merge sfz08 size 524288 crc 454f7868 sha1 eecccba7542d893bc41676246a20aa4914b79bbc )
+	rom ( name sfz10 merge sfz10 size 524288 crc 2a7d675e sha1 0144ba34a29fb08b41c780ce65bb06d25724e88f )
+	rom ( name sfz11 merge sfz11 size 524288 crc e35546c8 sha1 7b08aa3413494d12c5c550263a5f00b64b98e6ab )
+	rom ( name sfz12 merge sfz12 size 524288 crc f122693a sha1 71ce901d8d30207e506b6a8d6a4e0fcf3a1b0eac )
+	rom ( name sfz13 merge sfz13 size 524288 crc 7cf942c8 sha1 a7109facb97a8a11ddf1b4e07de6ff3164d713a1 )
+	rom ( name sfz14 merge sfz14 size 524288 crc 09038c81 sha1 3461d70902fbfb92ce40f804be6388276a01d153 )
+	rom ( name sfz15 merge sfz15 size 524288 crc 1aa17391 sha1 b4d0f760a430b7fc4443b6c94da2659315c5b926 )
+	rom ( name sfz16 merge sfz16 size 524288 crc 19a5abd6 sha1 73ba1de15c883fdc69fd7dccdb58d00ca512d4ea )
+	rom ( name sfz17 merge sfz17 size 524288 crc 248b3b73 sha1 95810a17b1caf6372b33ed3e4ee8a7e51482c70d )
+	rom ( name sfz09 merge sfz09 size 65536 crc c772628b sha1 ebc5b7c173caf1e151f733f23c1b20abec24e16d )
+	rom ( name sfz18 merge sfz18 size 131072 crc 61022b2d sha1 6369d0c1d08a30ee19b94e52ab1463a7784b9de5 )
+	rom ( name sfz19 merge sfz19 size 131072 crc 3b5886d5 sha1 7e1b7d40ef77b5df628dd663d45a9a13c742cf58 )
+)
+
+game (
+	name wofh
+	description "Warriors of Fate (Hack)"
+	year 1992
+	manufacturer "Capcom"
+	cloneof wof
+	romof wof
+	rom ( name tk2_23h.rom size 1048576 crc 3703a650 sha1 6cb8d6f99df5e2e5cf04aee8737bb585f9328ffd )
+	rom ( name sgyx-1.160 size 2097152 crc a60be9f6 sha1 2298a4b6a2c83b76dc106a1efa19606b298d378a )
+	rom ( name sgyx-2.160 size 2097152 crc 6ad9d048 sha1 d47212d28d0a1ce349e4c59e5d0d99c541b3458e )
+	rom ( name tk2_qa.rom merge tk2_qa.rom size 131072 crc c9183a0d sha1 d8b1d41c572f08581f8ab9eb878de77d6ea8615d )
+	rom ( name tk2_q1.rom merge tk2_q1.rom size 524288 crc 611268cf sha1 83ab059f2110fb25fdcff928d56b790fc1f5c975 )
+	rom ( name tk2_q2.rom merge tk2_q2.rom size 524288 crc 20f55ca9 sha1 90134e9a9c4749bb65c728b66ea4dac1fd4d88a4 )
+	rom ( name tk2_q3.rom merge tk2_q3.rom size 524288 crc bfcf6f52 sha1 2a85ff3fc89b4cbabd20779ec12da2e116333c7c )
+	rom ( name tk2_q4.rom merge tk2_q4.rom size 524288 crc 36642e88 sha1 8ab25b19e2b67215a5cb1f3aa81b9d26009cfeb8 )
+)
+
+game (
+	name knightsh
+	description "Knights of the Round (Hack)"
+	year 1991
+	manufacturer "Capcom"
+	cloneof knights
+	romof knights
+	rom ( name kre_23h.rom size 524288 crc fa2ff63d sha1 f3800102aadeccd13ed49c88039732453266283a )
+	rom ( name kre_22h.rom size 524288 crc 1438d070 sha1 4f6fad844c3e8eb960bb6cb85ac570979c0ae973 )
+	rom ( name kr_09.rom merge kr_09.rom size 65536 crc 5e44d9ee )
+	rom ( name kr_18.rom merge kr_18.rom size 131072 crc da69d15f )
+	rom ( name kr_19.rom merge kr_19.rom size 131072 crc bfc654e9 )
+	rom ( name kr_gfx1.rom merge kr_gfx1.rom size 524288 crc 9e36c1a4 )
+	rom ( name kr_gfx3.rom merge kr_gfx3.rom size 524288 crc c5832cae )
+	rom ( name kr_gfx2.rom merge kr_gfx2.rom size 524288 crc f095be2d )
+	rom ( name kr_gfx4.rom merge kr_gfx4.rom size 524288 crc 179dfd96 )
+	rom ( name kr_gfx5.rom merge kr_gfx5.rom size 524288 crc 1f4298d2 )
+	rom ( name kr_gfx7.rom merge kr_gfx7.rom size 524288 crc 37fa8751 )
+	rom ( name kr_gfx6.rom merge kr_gfx6.rom size 524288 crc 0200bc3d )
+	rom ( name kr_gfx8.rom merge kr_gfx8.rom size 524288 crc 0bb2b4e7 )
+)
+
+game (
+	name dinoh
+	description "Cadillacs and Dinosaurs (Hack)"
+	year 1993
+	manufacturer "Capcom"
+	cloneof dino
+	romof dino
+	rom ( name cda_23h.rom size 524288 crc 8e2a9cf0 )
+	rom ( name cda_22h.rom size 524288 crc f72cd219 )
+	rom ( name cda_21h.rom size 524288 crc bc275b76 )
+	rom ( name cda_20h.rom size 524288 crc 8987c975 )
+	rom ( name cd_gfx01.rom merge cd_gfx01.rom size 524288 crc 8da4f917 )
+	rom ( name cd_gfx03.rom merge cd_gfx03.rom size 524288 crc 6c40f603 )
+	rom ( name cd_gfx02.rom merge cd_gfx02.rom size 524288 crc 09c8fc2d )
+	rom ( name cd_gfx04.rom merge cd_gfx04.rom size 524288 crc 637ff38f )
+	rom ( name cd_gfx05.rom merge cd_gfx05.rom size 524288 crc 470befee )
+	rom ( name cd_gfx07.rom merge cd_gfx07.rom size 524288 crc 22bfb7a3 )
+	rom ( name cd_gfx06.rom merge cd_gfx06.rom size 524288 crc e7599ac4 )
+	rom ( name cd_gfx08.rom merge cd_gfx08.rom size 524288 crc 211b4b15 )
+	rom ( name cd_q.rom merge cd_q.rom size 131072 crc 605fdb0b )
+	rom ( name cd_q1.rom merge cd_q1.rom size 524288 crc 60927775 )
+	rom ( name cd_q2.rom merge cd_q2.rom size 524288 crc 770f4c47 )
+	rom ( name cd_q3.rom merge cd_q3.rom size 524288 crc 2f273ffc )
+	rom ( name cd_q4.rom merge cd_q4.rom size 524288 crc 2c67821d )
+)
+
+game (
+	name sf2turyu
+	description "Street Fighter II' - Champion Edition (non-MAME, Turyu)"
+	year 1992
+	manufacturer "hack"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name u222-f83.040 size 1048576 crc 47468198 sha1 d68d6342da9b53163f36f44517f6dadf35e2a279 )
+	rom ( name u196-99d.040 size 1048576 crc 47d34191 sha1 6718fdc8a0dafebca7c35553cc270d16ce3f5d3e )
+	rom ( name u221-59e.010 size 262144 crc 5507bac9 sha1 7797ca13cb02db469dcba00a07b1517c3586423e )
+	rom ( name u195-472.010 size 262144 crc 7755a20a sha1 60ed4009c9c767a375a754c06c124ef81ba45f5a )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2turyu1
+	description "Street Fighter II' - Champion Edition (Turyu Alternate)"
+	year 1992
+	manufacturer "hack"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name tl4m1 size 524288 crc afc7bd18 sha1 ef7af7fb3563073b96563274ec48783feb2be757 )
+	rom ( name tl4m2 size 524288 crc 882cd1c4 sha1 0cb971756352b1022ecd309b1bc3688c1f1acbd8 )
+	rom ( name 221.rom size 131072 crc d1707134 sha1 5bfdf7bc57bdb85183647ebb175346070dd102ee )
+	rom ( name 195.rom size 131072 crc cd1d5666 sha1 8befd2c324eb29bdad6fc8fb2554cdfaf9808f9b )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2toryu
+	description "Street Fighter II' - Champion Edition (Tulong)"
+	year 1992
+	manufacturer "hack"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name tl4mt.1 size 524288 crc 158635ca sha1 878b56064861993ac92fbd88eb1117d3680fe7d7 )
+	rom ( name tl4m.2 size 524288 crc 882cd1c4 sha1 0cb971756352b1022ecd309b1bc3688c1f1acbd8 )
+	rom ( name u221t.1m size 131072 crc 1073b7b6 sha1 81ca1eab65ceac69520584bb23a684ccb9d92f89 )
+	rom ( name u195t.1m size 131072 crc db7e1f72 sha1 1ca99a3b425ac137f3c104cf4deb50d9431dacdd )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+

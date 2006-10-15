@@ -1,0 +1,24 @@
+clrmamepro (
+	name "Yie Ar Kung-Fu"
+	description "Yie Ar Kung-Fu Emulator v0.48"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name yiear
+	description "Yie Ar Kung-Fu (set 2)"
+	year 1985
+	manufacturer "Konami"
+	rom ( name d12_8.bin size 16384 crc 49ecd9dd sha1 15692029351e87837cc5a251947ff315fd723aa4 )
+	rom ( name d14_7.bin size 16384 crc bc2e1208 sha1 a5a0c78ff4e02bd7da3eab3842dfe99956e74155 )
+	rom ( name g16_1.bin size 8192 crc b68fd91d sha1 c267931d69794c292b7ebae5bc35ad842194683a )
+	rom ( name g15_2.bin size 8192 crc d9b167c6 sha1 a2fd10bddfa4e95e9d49892737ace146209bfa2b )
+	rom ( name g04_5.bin size 16384 crc 45109b29 sha1 0794935b490497b21b99045c90231b7bac151d42 )
+	rom ( name g03_6.bin size 16384 crc 1d650790 sha1 5f2a4983b20251c712358547a7c62c0331c6cb6f )
+	rom ( name g06_3.bin size 16384 crc e6aa945b sha1 c5757d16c28f5966fd04675c0c640ef9b6b76ca5 )
+	rom ( name g05_4.bin size 16384 crc cc187c22 sha1 555ba18a9648681e5140b3fd84af16959ee5296d )
+	rom ( name a12_9.bin size 8192 crc f75a1539 sha1 f139f6cb41351eb81ee47d777db03012aa5fadb1 )
+)
+

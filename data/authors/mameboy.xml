@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mameboy">
+	<name>MAMEBoy</name>
+	<emulator_links>
+		<emulator_link id="mameboy" type="wince">&emulator_mameboy;</emulator_link>
+	</emulator_links>
+</author>

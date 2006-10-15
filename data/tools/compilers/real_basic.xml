@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="real_basic" type="compilers">
+	<name>Real Basic</name>
+	<version>4.0.2</version>
+	<date>15/03/2002</date>
+
+	<homepage>http://www.realsoftware.com/</homepage>
+	<author_link id="real_software">&author_real_software;</author_link>
+
+	<comment>Highly Visual Basic compatible language for the Macintosh</comment>
+
+	<emulator_links>
+		<emulator_link id="astrofmu" type="mac">&emulator_astrofmu;</emulator_link>
+		<emulator_link id="centimu" type="mac">&emulator_centimu;</emulator_link>
+	</emulator_links>
+</tool>

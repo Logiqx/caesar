@@ -1,0 +1,238 @@
+clrmamepro (
+	name WinGorf
+	description "WinGorf v1.3.1"
+	category "Emulates Gorf"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+	forcemerging full
+)
+
+game (
+	name gorf
+	description "Gorf"
+	year 1981
+	manufacturer "Midway"
+	rom ( name gorf-a.bin size 4096 crc 5b348321 sha1 76e2e3ad1a66755f1a369167fdb157690fd44a52 )
+	rom ( name gorf-b.bin size 4096 crc 62d6de77 sha1 2601faf12d0ab4972c5535ffd722b03ecd8c097c )
+	rom ( name gorf-c.bin size 4096 crc 1d3bc9c9 sha1 0b363a71d7585a4828e08668ebb2999c55e02721 )
+	rom ( name gorf-d.bin size 4096 crc 70046e56 sha1 392214cc6ed4155bfe022d36f0f86c2594a5ab57 )
+	rom ( name gorf-e.bin size 4096 crc 2d456eb5 sha1 720fb8b48e20c1fc281d8804259016c3c5364a07 )
+	rom ( name gorf-f.bin size 4096 crc f7e4e155 sha1 9c9d6d3bfee6556dc7a01de81d6148dd02f04fc9 )
+	rom ( name gorf-g.bin size 4096 crc 4e2bd9b9 sha1 9edccceea5af015275582553ed238c40c73d8f4f )
+	rom ( name gorf-h.bin size 4096 crc fe7b863d sha1 5aa8d824814ee1c30eaf0044da78d3aa8220dcaa )
+	sample a.wav
+	sample again.wav
+	sample am.wav
+	sample and.wav
+	sample anhilatn.wav
+	sample another.wav
+	sample are.wav
+	sample avenger.wav
+	sample bad.wav
+	sample be.wav
+	sample been.wav
+	sample but.wav
+	sample button.wav
+	sample cadet.wav
+	sample cannot.wav
+	sample captain.wav
+	sample chronicl.wav
+	sample coin.wav
+	sample coins.wav
+	sample colonel.wav
+	sample consciou.wav
+	sample defender.wav
+	sample destroy.wav
+	sample destroyd.wav
+	sample doom.wav
+	sample draws.wav
+	sample empire.wav
+	sample end.wav
+	sample enemy.wav
+	sample escape.wav
+	sample flagship.wav
+	sample for.wav
+	sample galactic.wav
+	sample general.wav
+	sample gorf.wav
+	sample gorphian.wav
+	sample gorphins.wav
+	sample hahahahu.wav
+	sample hahaher.wav
+	sample harder.wav
+	sample have.wav
+	sample hitting.wav
+	sample i.wav
+	sample impossib.wav
+	sample in.wav
+	sample insert.wav
+	sample is.wav
+	sample live.wav
+	sample long.wav
+	sample meet.wav
+	sample move.wav
+	sample my.wav
+	sample near.wav
+	sample next.wav
+	sample nice.wav
+	sample no.wav
+	sample now.wav
+	sample pause.wav
+	sample player.wav
+	sample prepare.wav
+	sample prisonrs.wav
+	sample promoted.wav
+	sample push.wav
+	sample robot.wav
+	sample robots.wav
+	sample seek.wav
+	sample ship.wav
+	sample shot.wav
+	sample some.wav
+	sample space.wav
+	sample spause.wav
+	sample survival.wav
+	sample take.wav
+	sample the.wav
+	sample time.wav
+	sample to.wav
+	sample unbeatab.wav
+	sample warrior.wav
+	sample warriors.wav
+	sample will.wav
+	sample you.wav
+	sample your.wav
+	sample yourself.wav
+	sample s.wav
+	sample gorph.wav
+	sample attack.wav
+	sample bite.wav
+	sample conquer.wav
+	sample devour.wav
+	sample dust.wav
+	sample galaxy.wav
+	sample got.wav
+	sample power.wav
+	sample try.wav
+	sample supreme.wav
+	sample all.wav
+	sample hail.wav
+	sample emperor.wav
+)
+
+game (
+	name gorfpgm1
+	description "Gorf (Program 1)"
+	year 1981
+	manufacturer "Midway"
+	cloneof gorf
+	romof gorf
+	rom ( name 873a size 4096 crc 97cb4a6a sha1 efdae9a437c665fb861665a38c6cb13fd848ad91 )
+	rom ( name 873b size 4096 crc 257236f8 sha1 d1e8555fe5e6705ef88535bcd6071d1072b01386 )
+	rom ( name 873c size 4096 crc 16b0638b sha1 65e1e2e4df80140976915e0982ce3219b14beece )
+	rom ( name 873d size 4096 crc b5e821dc sha1 152840e353d567cbf5a86206dde70e5b64b27236 )
+	rom ( name 873e size 4096 crc 8e82804b sha1 24250edb30efa63c80514629c86c9372b7ca3020 )
+	rom ( name 873f size 4096 crc 715fb4d9 sha1 c9f33162093e6ed7e3cb6bb716419e5bc43c0381 )
+	rom ( name 873g size 4096 crc 8a066456 sha1 f64bcdadbc62566b55573039b03baf5358e24a36 )
+	rom ( name 873h size 4096 crc 56d40c7c sha1 c7c9a618d9438a76121972ac029ad7036bcf8c6f )
+	sampleof gorf
+	sample a.wav
+	sample again.wav
+	sample am.wav
+	sample and.wav
+	sample anhilatn.wav
+	sample another.wav
+	sample are.wav
+	sample avenger.wav
+	sample bad.wav
+	sample be.wav
+	sample been.wav
+	sample but.wav
+	sample button.wav
+	sample cadet.wav
+	sample cannot.wav
+	sample captain.wav
+	sample chronicl.wav
+	sample coin.wav
+	sample coins.wav
+	sample colonel.wav
+	sample consciou.wav
+	sample defender.wav
+	sample destroy.wav
+	sample destroyd.wav
+	sample doom.wav
+	sample draws.wav
+	sample empire.wav
+	sample end.wav
+	sample enemy.wav
+	sample escape.wav
+	sample flagship.wav
+	sample for.wav
+	sample galactic.wav
+	sample general.wav
+	sample gorf.wav
+	sample gorphian.wav
+	sample gorphins.wav
+	sample hahahahu.wav
+	sample hahaher.wav
+	sample harder.wav
+	sample have.wav
+	sample hitting.wav
+	sample i.wav
+	sample impossib.wav
+	sample in.wav
+	sample insert.wav
+	sample is.wav
+	sample live.wav
+	sample long.wav
+	sample meet.wav
+	sample move.wav
+	sample my.wav
+	sample near.wav
+	sample next.wav
+	sample nice.wav
+	sample no.wav
+	sample now.wav
+	sample pause.wav
+	sample player.wav
+	sample prepare.wav
+	sample prisonrs.wav
+	sample promoted.wav
+	sample push.wav
+	sample robot.wav
+	sample robots.wav
+	sample seek.wav
+	sample ship.wav
+	sample shot.wav
+	sample some.wav
+	sample space.wav
+	sample spause.wav
+	sample survival.wav
+	sample take.wav
+	sample the.wav
+	sample time.wav
+	sample to.wav
+	sample unbeatab.wav
+	sample warrior.wav
+	sample warriors.wav
+	sample will.wav
+	sample you.wav
+	sample your.wav
+	sample yourself.wav
+	sample s.wav
+	sample gorph.wav
+	sample attack.wav
+	sample bite.wav
+	sample conquer.wav
+	sample devour.wav
+	sample dust.wav
+	sample galaxy.wav
+	sample got.wav
+	sample power.wav
+	sample try.wav
+	sample supreme.wav
+	sample all.wav
+	sample hail.wav
+	sample emperor.wav
+)
+

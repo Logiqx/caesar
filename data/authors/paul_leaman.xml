@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="paul_leaman">
+	<name>Paul Leaman</name>
+	<email>paull@phonelink.com</email>
+	<emulator_links>
+		<emulator_link id="1942" type="single">&emulator_1942;</emulator_link>
+		<emulator_link id="diamondrun" type="single">&emulator_diamondrun;</emulator_link>
+		<emulator_link id="gg" type="single">&emulator_gg;</emulator_link>
+		<emulator_link id="vulgus" type="single">&emulator_vulgus;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+	</contribution_links>
+</author>

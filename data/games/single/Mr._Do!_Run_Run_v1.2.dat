@@ -1,0 +1,24 @@
+clrmamepro (
+	name "Mr. Do! Run Run"
+	description "Mr. Do! Run Run v1.2"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name dorunrun
+	description "Do! Run Run (set 1)"
+	year 1984
+	manufacturer "Universal"
+	rom ( name 2764.p1 size 8192 crc 95c86f8e sha1 9fe44911e0aa8d4c7299472a31c401e064d63d17 )
+	rom ( name 2764.l1 size 8192 crc e9a65ba7 sha1 fbee57d68352fd4062aac55cd1070f001714d0a3 )
+	rom ( name 2764.k1 size 8192 crc b1195d3d sha1 095ad2ee1f53be3203830263cb0c9efbe4710c56 )
+	rom ( name 2764.n1 size 8192 crc 6a8160d1 sha1 12101c351bf800319172c459b5e7c69cb5603806 )
+	rom ( name 27128.a3 size 16384 crc 4be96dcf sha1 f9b45e6297cbbc4d1ee2df7ac377c5daf5181b0f )
+	rom ( name 2764.m4 size 8192 crc 4bb231a0 sha1 350423a1e602e23b229095021942d4b14a4736a7 )
+	rom ( name 2764.l4 size 8192 crc 0c08508a sha1 1e235a0f44207c53af2c8da631e5a8e08b231258 )
+	rom ( name 2764.j4 size 8192 crc 79287039 sha1 e2e3c056f35a22e48115557e10fcd172ad2f91f1 )
+	rom ( name 2764.h4 size 8192 crc 523aa999 sha1 1d4aa0af79a2ed7b935d4ce92d978bf738f08eb3 )
+)
+

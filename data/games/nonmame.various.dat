@@ -1,0 +1,2281 @@
+###############################################################################
+# VectorGL (TempestGL and BattleZoneGL)
+################################################################################
+
+// CRC information from http://www.ionpool.net/arcade/atari/roms.html
+
+game (
+	name aliensa
+	description "Aliens"
+	year 1981
+	manufacturer "Atari"
+	cloneof tempest
+	romof tempest
+	rom ( name aliens_r3.bin size 2048 crc 6cabcd08 sha1 e3950de50f3dfbc4d4d2f4fe26625d8ef94c0819 )
+	rom ( name aliens_r1.bin size 2048 crc 555c3070 sha1 032f03af23c7ccac8a2bf50c3c646e141921ffee )
+	rom ( name aliens_p1.bin size 2048 crc 7c10adbd sha1 38579128a90bff4a7a4ae46d6aaa42118b8bc218 )
+	rom ( name aliens_n3.bin size 2048 crc 5c8fd38b sha1 bb0d6bd062eba53b5d64b3f444d5ce0a34728bf5 )
+	rom ( name aliens_n1.bin size 2048 crc bd98c5f3 sha1 268487d9cf46b4b7b49eab7420d078bf676e636c )
+	rom ( name aliens_l1.bin size 2048 crc cd246ac2 sha1 de2e6fe2e72c092c3874e797fc302a71dbf57710 )
+	rom ( name aliens_k1.bin size 2048 crc 0ac96e87 sha1 37461e84e6f46516c25dbf4ddb2ffd65877445c0 )
+	rom ( name aliens_j1.bin size 2048 crc 5487d531 sha1 c95f037151b824345af03f27a6c3c7eb8a899b2c )
+	rom ( name aliens_d1.bin size 2048 crc 337e21f6 sha1 7adadeaa975e22f0b20e8f1fb6ad68b5c3934133 )
+	rom ( name aliens_f1.bin size 2048 crc 4d2aabb0 sha1 31106a1fc22d2a19866f07b8d6c6f4bf76007909 )
+	rom ( name aliens_e1.bin size 2048 crc 337e21f6 sha1 7adadeaa975e22f0b20e8f1fb6ad68b5c3934133 )
+	rom ( name aliens_h1.bin size 2048 crc a503f54a sha1 91ebf9f69a183a04a5bf55fcdd9e191523bb66bb )
+)
+
+// CRC information from http://www.ionpool.net/arcade/atari/roms.html
+
+game (
+	name vortex
+	description "Vortex"
+	year 1981
+	manufacturer "Atari"
+	cloneof tempest
+	romof tempest
+	rom ( name e1.bin size 2048 crc 11861be3 sha1 a35797c649e8286c844cee6dac86ac50f4fbd669 )
+	rom ( name f1.bin size 2048 crc 1d251111 sha1 2912a21dc708231e28d6164e54e593a8300b9c4a )
+	rom ( name h1.bin size 2048 crc 937a9859 sha1 336b25291533d19294f1ced730bbf20971849adf )
+	rom ( name j1.bin size 2048 crc 79481246 sha1 c5362670fd29ef1432f8e626323da395d6e8a675 )
+	rom ( name k1.bin size 2048 crc 390f872a sha1 c5463ea2d2307e21c941b5b459e3652c12154609 )
+	rom ( name lm1.bin size 2048 crc 515760dd sha1 773f06c9a64e72f9d3d8a5c622bf3ec2b4ba678d )
+	rom ( name mn1.bin size 2048 crc c6c41c68 sha1 9323c07fc80a947142dde008c53f5e8c0b0c572d )
+	rom ( name n3.bin size 2048 crc 29c6a1cb sha1 290702a1c0942a68e288b37963e51eba02177a3f )
+	rom ( name p1.bin size 2048 crc 3c2ff130 sha1 32ebabcb2cbd7aab5e29de2b873f02ed78776ae6 )
+	rom ( name r1.bin size 2048 crc 67cafbb1 sha1 467515733d843398e6fe29661002536a1e6c8fc9 )
+	rom ( name r3.bin size 2048 crc 7fbe5e21 sha1 e5de6c3af82e64444b0ddcda559e9cb4fbf6c1da )
+	rom ( name d1.bin size 2048 crc 3aff3417 sha1 3b7c31f01b7467757ec85e98a17038e5df5720bb )
+)
+
+// CRC information from http://www.ionpool.net/arcade/atari/roms.html
+
+game (
+	name vectorb
+	description "Vector Breakout"
+	year 1999
+	manufacturer "Clay Cowgill"
+	cloneof tempest
+	romof tempest
+	rom ( name 136002.113 merge 136002.113 size 2048 crc 65d61fe7 sha1 38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa )
+	rom ( name 136002.114 merge 136002.114 size 2048 crc 11077375 sha1 ed8ff0ca969da6672a7683b93d4fcf2935a0d903 )
+	rom ( name 136002.115 merge 136002.115 size 2048 crc f3e2827a sha1 bd04fcfbbba995e08c3144c1474fcddaaeb1c700 )
+	rom ( name 136002.116 size 2048 crc 7356896c sha1 a013ede292189a8f5a907de882ee1a573d784b3c )
+	rom ( name 136002.117 size 2048 crc 55952119 sha1 470d914fa52fce3786cb6330889876d3547dca65 )
+	rom ( name 136002.118 merge 136002.118 size 2048 crc beb352ab sha1 f213166d3970e0bd0f29d8dea8d6afa6990cce38 )
+	rom ( name vb_r3.bin size 2048 crc c16ec351 sha1 a30a3662c740810c0f20e3712679606921b8ca06 )
+	rom ( name vb_r1.bin size 2048 crc 1ae2dd53 sha1 b908ba6b59195aea853380a56a243aa8fa2fba71 )
+	rom ( name vb_n3.bin size 2048 crc 29f7e937 sha1 686c8b9b8901262e743497cee7f2f7dd5cb3af7e )
+	rom ( name vb_h1.bin size 2048 crc cd58fc11 sha1 060e31e55183ccef67a1adc91fb48c22424a4ba5 )
+	rom ( name vb_d1.bin size 2048 crc 6fd3efe5 sha1 d195d08984ad8797607bc1989e8a606d51547c68 )
+	rom ( name vb_e1.bin size 2048 crc 9974b9a5 sha1 6ecc6f72070895bb15992977348f58835233911f )
+	rom ( name vb_f1.bin size 2048 crc 44d611d8 sha1 82cd63fc9067ea1f00feeffbee66e7d750cab7e5 )
+)
+
+// CRC information from http://www.ionpool.net/arcade/atari/roms.html
+
+game (
+	name tempestm
+	description "Tempest (Multi-game)"
+	year 2001
+	manufacturer "Clay Cowgill"
+	cloneof tempest
+	romof tempest
+	rom ( name 136002.113 merge 136002.113 size 2048 crc 65d61fe7 sha1 38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa )
+	rom ( name 136002.114 merge 136002.114 size 2048 crc 11077375 sha1 ed8ff0ca969da6672a7683b93d4fcf2935a0d903 )
+	rom ( name 136002.115 merge 136002.115 size 2048 crc f3e2827a sha1 bd04fcfbbba995e08c3144c1474fcddaaeb1c700 )
+	rom ( name 136002.116 size 2048 crc 7356896c sha1 a013ede292189a8f5a907de882ee1a573d784b3c )
+	rom ( name 136002.117 size 2048 crc 55952119 sha1 470d914fa52fce3786cb6330889876d3547dca65 )
+	rom ( name 136002.118 merge 136002.118 size 2048 crc beb352ab sha1 f213166d3970e0bd0f29d8dea8d6afa6990cce38 )
+	rom ( name menu_r3.bin size 2048 crc c16ec351 sha1 a30a3662c740810c0f20e3712679606921b8ca06 )
+	rom ( name menu_d1.bin size 2048 crc 8a6633fb sha1 b143a5d2019f24666b350b40b0dab2924bb9c7c0 )
+	rom ( name menu_n3.bin size 2048 crc 29f7e937 sha1 686c8b9b8901262e743497cee7f2f7dd5cb3af7e )
+	rom ( name menu_f1.bin size 2048 crc 12f62746 sha1 37356b5738c27ffe4c38f1b6cf99ae21441d8e8e )
+	rom ( name menu_e1.bin size 2048 crc 2eedfdf6 sha1 2ed494bd8610bebd07284289ca8b7059fd805300 )
+	rom ( name menu_r1.bin size 2048 crc 1d8f194a sha1 c77f6b83f5c498c0f2d5372089a4604913a4aad5 )
+)
+
+// CRC information from http://www.ionpool.net/arcade/atari/roms.html
+
+game (
+	name bzonep
+	description "Battle Zone Plus!"
+	year 2000
+	manufacturer "Clay Cowgill"
+	cloneof bzone
+	romof bzone
+	rom ( name 036422.01.bin size 2048 crc 7414177b sha1 147d97a3b475e738ce00b1a7909bbd787ad06eda )
+	rom ( name 036421.01.bin size 2048 crc 8ea8f939 sha1 b71e0ab0e220c3e64dc2b094c701fb1a960b64e4 )
+	rom ( name 036414.01.bin size 2048 crc 55e0b5d5 sha1 88cbf5c98b41cde5524e9bef537a03db9e783f17 )
+	rom ( name 036413.01.bin size 2048 crc 5d9d9111 sha1 42638cff53a9791a0f18d316f62a0ea8eea4e194 )
+	rom ( name 036412.01.bin size 2048 crc 3e0931d7 sha1 1366a8e9b18a5b2d3f23d9069845403b5d65d32d )
+	rom ( name 036411.01.bin size 2048 crc ad281297 sha1 54c5e06b2e69eb731a6c9b1704e4340f493e7ea5 )
+	rom ( name 036408.01.bin size 2048 crc 7513fc40 sha1 c01c8959df2c24435a50caa46104a88a9fb7f7fd )
+	rom ( name 036409.01.bin size 2048 crc debaea12 sha1 d23cf62182e76562f4d4e9023a8be6243183da00 )
+	rom ( name 036410.01.bin size 2048 crc 0b7bfaa4 sha1 33ae0f68b4e2eae9f3aecbee2d0b29003ce460b2 )
+)
+
+###############################################################################
+# Tickle
+################################################################################
+
+game (
+	name rebound
+	description "Rebound"
+	year 1973
+	manufacturer "Atari"
+)
+
+###############################################################################
+# Pinball - M1
+################################################################################
+
+game (
+	name gldneye
+	description "GoldenEye (pinball)"
+	year 1994
+	manufacturer "Sega"
+	rom ( name bondu7.bin size 65536 crc 7581a349 )
+	rom ( name bondu17.bin size 524288 crc d9c56b9d )
+	rom ( name bondu21.bin size 524288 crc 5be0f205 )
+)
+
+game (
+	name gnr_300
+	description "Guns 'N Roses (pinball)"
+	year 1994
+	manufacturer "Data East"
+	rom ( name gnru7.snd size 65536 crc 3b9de915 )
+	rom ( name gnru17.snd size 524288 crc 3d3219d6 )
+	rom ( name gnru21.snd size 524288 crc d2ca17ab )
+	rom ( name gnru36.snd size 524288 crc 5b32396e )
+	rom ( name gnru37.snd size 524288 crc 4930e1f2 )
+)
+
+game (
+	name jupk_513
+	description "Jurassic Park (pinball)"
+	year 1993
+	manufacturer "Data East"
+	rom ( name jpu7.dat size 65536 crc f3afcf13 )
+	rom ( name jpu17.dat size 524288 crc 38135a23 )
+	rom ( name jpu21.dat size 262144 crc 6ac1554c )
+)
+
+game (
+	name lah_112
+	description "Last Action Hero (pinball)"
+	year 1993
+	manufacturer "Data East"
+	rom ( name lahsnd.u7 size 65536 crc 0279c45b )
+	rom ( name lahsnd.u17 size 524288 crc d0c15fa6 )
+	rom ( name lahsnd.u21 size 262144 crc 4571dc2e )
+)
+
+game (
+	name lw3_208
+	description "Lethal Weapon 3 (pinball)"
+	year 1992
+	manufacturer "Data East"
+	rom ( name lw3u7.dat size 32768 crc ba845ac3 )
+	rom ( name lw3u17.dat size 262144 crc e34cf2fc )
+	rom ( name lw3u21.dat size 262144 crc 82bed051 )
+)
+
+game (
+	name rab_130
+	description "Rocky and Bullwinkle (pinball)"
+	year 1993
+	manufacturer "Data East"
+	rom ( name rab.u7 size 65536 crc b232e630 )
+	rom ( name rab.u17 size 524288 crc 7f2b53b8 )
+	rom ( name rab.u21 size 262144 crc 3de1b375 )
+)
+
+game (
+	name stwr_103
+	description "Star Wars (pinball)"
+	year 1992
+	manufacturer "Data East"
+	rom ( name s-wars.u7 size 32768 crc cefa19d5 )
+	rom ( name s-wars.u17 size 524288 crc 7950a147 )
+	rom ( name s-wars.u21 size 262144 crc 7b08fdf1 )
+)
+
+game (
+	name tftc_303
+	description "Tales from the Crypt (pinball)"
+	year 1993
+	manufacturer "Data East"
+	rom ( name sndu7.dat size 65536 crc 7963740e )
+	rom ( name sndu17.dat size 524288 crc 5c5d009a )
+	rom ( name sndu21.dat size 524288 crc a0ae61f7 )
+)
+
+game (
+	name tomy_400
+	description "Tommy (pinball)"
+	year 1994
+	manufacturer "Data East"
+	rom ( name tommysnd.u7 size 65536 crc ab0b4626 )
+	rom ( name tommysnd.u17 size 524288 crc 11bb2aa7 )
+	rom ( name tommysnd.u21 size 524288 crc bb4aeec3 )
+	rom ( name tommysnd.u36 size 524288 crc 208d7aeb )
+	rom ( name tommysnd.u37 size 524288 crc 46180085 )
+)
+
+game (
+	name trek_201
+	description "Star Trek 25th Anniversary (pinball)"
+	year 1992
+	manufacturer "Data East"
+	rom ( name trek.u7 size 32768 crc f137abbb )
+	rom ( name trek.u17 size 262144 crc 531545da )
+	rom ( name trek.u21 size 262144 crc 6107b004 )
+)
+
+game (
+	name wwfr_106
+	description "WWF Royal Rumble (pinball)"
+	year 1994
+	manufacturer "Data East"
+	rom ( name wfsndu7.512 size 65536 crc eb01745c )
+	rom ( name wfsndu17.400 size 524288 crc 7d9c2ca8 )
+	rom ( name wfsndu21.400 size 524288 crc 242dcdcb )
+	rom ( name wfsndu36.400 size 524288 crc 39db8d85 )
+)
+
+game (
+	name xfilesp
+	description "The X-Files (pinball)"
+	year 1994
+	manufacturer "Sega"
+	rom ( name xfsndu7.512 size 65536 crc 01d65239 )
+	rom ( name xfsndu17.c40 size 524288 crc 40bfc835 )
+	rom ( name xfsndu21.c40 size 524288 crc b56a5ca6 )
+)
+
+game (
+	name afm_113
+	description "Attack From Mars (pinball)"
+	year 1995
+	manufacturer "Bally"
+	rom ( name afm_s2.l1 size 1048576 crc 6e39d96e )
+	rom ( name afm_s3.l1 size 1048576 crc 1cbce9b1 )
+	rom ( name afm_s4.l1 size 1048576 crc 5ff7fbb7 )
+)
+
+game (
+	name cc_13
+	description "Cactus Canyon (pinball)"
+	year 1998
+	manufacturer "Bally"
+	rom ( name sav2_8.rom size 1048576 crc 94928841 )
+	rom ( name sav3_8.rom size 1048576 crc a22b13f0 )
+	rom ( name sav4_8.rom size 1048576 crc fe8324e2 )
+	rom ( name sav5_8.rom size 1048576 crc 1b2a1ff3 )
+	rom ( name sav6_8.rom size 1048576 crc 2cccf10e )
+	rom ( name sav7_8.rom size 1048576 crc 90fb1277 )
+)
+
+game (
+	name congo_21
+	description "Congo (pinball)"
+	year 1995
+	manufacturer "Williams"
+	rom ( name cgs2v1_1.rom size 1048576 crc 2b7637ae )
+	rom ( name cgs3v1_0.rom size 1048576 crc 6cfd9fe0 )
+	rom ( name cgs4v1_0.rom size 1048576 crc 2a1980e7 )
+)
+
+game (
+	name corv_21
+	description "Corvette (pinball)"
+	year 1994
+	manufacturer "Bally"
+	rom ( name corvsnd2 size 524288 crc 630d20a3 )
+	rom ( name corvsnd3 size 524288 crc 6ace0353 )
+	rom ( name corvsnd4 size 524288 crc 87807278 )
+	rom ( name corvsnd5 size 524288 crc 35f82c21 )
+	rom ( name corvsnd6 size 524288 crc 61e56d90 )
+	rom ( name corvsnd7 size 524288 crc 1417b547 )
+)
+
+game (
+	name cp_16
+	description "Championship Pub (pinball)"
+	year 1998
+	manufacturer "Bally"
+	rom ( name cp_s2.bin size 524288 crc e0b67f6f )
+	rom ( name cp_s3.bin size 1048576 crc 68accf24 )
+	rom ( name cp_s4.bin size 1048576 crc 50d1c920 )
+	rom ( name cp_s5.bin size 1048576 crc 69af347a )
+	rom ( name cp_s6.bin size 1048576 crc 76ca4fed )
+	rom ( name cp_s7.bin size 1048576 crc be619157 )
+)
+
+game (
+	name cv_14
+	description "Cirqus Voltaire (pinball)"
+	year 1997
+	manufacturer "Bally"
+	rom ( name s2v1_0.rom size 524288 crc 79dbb8ee )
+	rom ( name s3v0_4.rom size 1048576 crc 8c6c0c56 )
+	rom ( name s4v0_4.rom size 1048576 crc a9014b78 )
+	rom ( name s5v0_4.rom size 1048576 crc 7e07a2fc )
+	rom ( name s6v0_4.rom size 1048576 crc 36ca43d3 )
+)
+
+game (
+	name dh_lx2
+	description "Dirty Harry (pinball)"
+	year 1995
+	manufacturer "Williams"
+	rom ( name dh_snd.u2 size 524288 crc dce5339a )
+	rom ( name dh_snd.u3 size 524288 crc 27c30ada )
+	rom ( name dh_snd.u4 size 524288 crc 8bde0089 )
+	rom ( name dh_snd.u5 size 524288 crc bfacfbdb )
+	rom ( name dh_snd.u6 size 524288 crc 793dcfb8 )
+)
+
+game (
+	name dm_lx4
+	description "Demolition Man (pinball)"
+	year 1994
+	manufacturer "Williams"
+	rom ( name dm_u2_s.l2 size 524288 crc 85fb8bce )
+	rom ( name dm_u3_s.l2 size 524288 crc 2b65a66e )
+	rom ( name dm_u4_s.l2 size 524288 crc 9d6815fe )
+	rom ( name dm_u5_s.l2 size 524288 crc 9f614c27 )
+	rom ( name dm_u6_s.l2 size 524288 crc 3efc2c0e )
+	rom ( name dm_u7_s.l2 size 524288 crc 75066af1 )
+)
+
+game (
+	name fs_lx5
+	description "Flintstones (pinball)"
+	year 1994
+	manufacturer "Williams"
+	rom ( name fs_u2_s.l1 size 524288 crc aa3da768 )
+	rom ( name fs_u3_s.l1 size 524288 crc e8a0b2d1 )
+	rom ( name fs_u4_s.l1 size 524288 crc a5de69f4 )
+	rom ( name fs_u5_s.l1 size 524288 crc 74b4d495 )
+	rom ( name fs_u6_s.l1 size 524288 crc 3c7f7a04 )
+	rom ( name fs_u7_s.l1 size 524288 crc f32b9271 )
+	rom ( name fs_u8_s.l1 size 524288 crc a7aafa3e )
+	rom ( name fs_u9_s.l1 size 524288 crc 0a6664fb )
+)
+
+game (
+	name i500_11r
+	description "Indianapolis 500 (pinball)"
+	year 1995
+	manufacturer "Bally"
+	rom ( name su2 size 524288 crc d2f9ab24 )
+	rom ( name su3 size 524288 crc 067f4df6 )
+	rom ( name su4 size 524288 crc 229b96c2 )
+	rom ( name su5 size 524288 crc f0c006a5 )
+	rom ( name su6 size 524288 crc a2b60d31 )
+	rom ( name su7 size 524288 crc 94eea5a4 )
+)
+
+game (
+	name ij_l7
+	description "Indiana Jones (pinball)"
+	year 1993
+	manufacturer "Williams"
+	rom ( name ijsnd_l3.u2 size 524288 crc fbd91a0d )
+	rom ( name ijsnd_l3.u3 size 524288 crc 3f12a996 )
+	rom ( name ijsnd_l3.u4 size 524288 crc 05a92937 )
+	rom ( name ijsnd_l3.u5 size 524288 crc e6fe417c )
+	rom ( name ijsnd_l3.u6 size 524288 crc 975f3e48 )
+	rom ( name ijsnd_l3.u7 size 524288 crc 2d9cd098 )
+	rom ( name ijsnd_l3.u8 size 524288 crc 45e35bd7 )
+)
+
+game (
+	name jb_10r
+	description "Jackbot (pinball)"
+	year 1995
+	manufacturer "Williams"
+	rom ( name jbsnd_u2.rom size 524288 crc b116d59f )
+	rom ( name jbsnd_u3.rom size 524288 crc 76ad3aad )
+	rom ( name jbsnd_u4.rom size 524288 crc 038b1309 )
+	rom ( name jbsnd_u5.rom size 524288 crc 0957e2ad )
+	rom ( name jbsnd_u6.rom size 524288 crc 7a1e2c3d )
+)
+
+game (
+	name jd_l7
+	description "Judge Dredd (pinball)"
+	year 1993
+	manufacturer "Bally"
+	rom ( name jdsnd_u2.bin size 524288 crc d8f453c6 )
+	rom ( name jdsnd_u3.bin size 524288 crc 0a11f673 )
+	rom ( name jdsnd_u4.bin size 524288 crc 93f6ebc1 )
+	rom ( name jdsnd_u5.bin size 524288 crc c9f28ba6 )
+	rom ( name jdsnd_u6.bin size 524288 crc ef0bf094 )
+	rom ( name jdsnd_u7.bin size 524288 crc aebab88b )
+	rom ( name jdsnd_u8.bin size 524288 crc 77604893 )
+	rom ( name jdsnd_u9.bin size 524288 crc 885b7c70 )
+)
+
+game (
+	name jm_12r
+	description "Johnny Mnemonic (pinball)"
+	year 1995
+	manufacturer "Williams"
+	rom ( name jm_u2_s.1_0 size 524288 crc 4aeeff3d )
+	rom ( name jm_u3_s.1_0 size 524288 crc 9bf7bc43 )
+	rom ( name jm_u4_s.1_0 size 524288 crc 2e044582 )
+	rom ( name jm_u5_s.1_0 size 524288 crc 50cc06a7 )
+	rom ( name jm_u6_s.1_0 size 524288 crc bfc94707 )
+	rom ( name jm_u7_s.1_0 size 524288 crc 9d4d9e9d )
+	rom ( name jm_u8_s.1_0 size 524288 crc fc7af6c0 )
+)
+
+game (
+	name jy_12
+	description "Junkyard (pinball)"
+	year 1996
+	manufacturer "Williams"
+	rom ( name jy_s2.rom size 524288 crc 1a1bc2ca )
+	rom ( name jy_s3.rom size 1048576 crc 0fc36a8e )
+	rom ( name jy_s4.rom size 1048576 crc 0aebcd77 )
+	rom ( name jy_s5.rom size 1048576 crc f18ad10b )
+)
+
+game (
+	name mb_10
+	description "Monster Bash (pinball)"
+	year 1998
+	manufacturer "Williams"
+	rom ( name mb_s2.rom size 524288 crc 9152f559 )
+	rom ( name mb_s3.rom size 1048576 crc c3cd6e81 )
+	rom ( name mb_s4.rom size 1048576 crc 00b88352 )
+	rom ( name mb_s5.rom size 1048576 crc dae16105 )
+	rom ( name mb_s6.rom size 1048576 crc 3975d5da )
+	rom ( name mb_s7.rom size 1048576 crc c242fb78 )
+)
+
+game (
+	name mm_10
+	description "Medieval Madness (pinball)"
+	year 1997
+	manufacturer "Williams"
+	rom ( name mm_s2.1_0 size 524288 crc c55c3b71 )
+	rom ( name mm_sav3.rom size 1048576 crc ed1be570 )
+	rom ( name mm_sav4.rom size 1048576 crc 9c89eacf )
+	rom ( name mm_sav5.rom size 1048576 crc 45089e30 )
+	rom ( name mm_sav6.rom size 1048576 crc 439d55f2 )
+)
+
+game (
+	name nbaf_31
+	description "NBA Fast Break (pinball)"
+	year 1997
+	manufacturer "Bally"
+	rom ( name fb-s2.3_0 size 1048576 crc 4594abd3 )
+	rom ( name fb-s3.1_0 size 1048576 crc 033aa54a )
+	rom ( name fb-s4.1_0 size 1048576 crc 6965a7c5 )
+	rom ( name fb-s5.1_0 size 1048576 crc db50b79a )
+	rom ( name fb-s6.1_0 size 1048576 crc f1633371 )
+)
+
+game (
+	name nf_23x
+	description "No Fear (pinball)"
+	year 1995
+	manufacturer "Williams"
+	rom ( name nfu2s size 524288 crc 136caeb9 )
+	rom ( name nfu3s size 524288 crc 983e5578 )
+	rom ( name nfu4s size 524288 crc 9469cd40 )
+	rom ( name nfu5s size 524288 crc e14d4315 )
+	rom ( name nfu6s size 524288 crc 40a58903 )
+	rom ( name nfu7s size 524288 crc 61002bdd )
+)
+
+game (
+	name ngg_13
+	description "No Good Gofers (pinball)"
+	year 1997
+	manufacturer "Williams"
+	rom ( name nggsndl1.s2 size 524288 crc 6263866d )
+	rom ( name nggsndl1.s3 size 1048576 crc 6871b20d )
+	rom ( name nggsndl1.s4 size 1048576 crc 86ed8f5a )
+	rom ( name nggsndl1.s5 size 1048576 crc ea2062f0 )
+	rom ( name nggsndl1.s6 size 1048576 crc b1b8b514 )
+)
+
+game (
+	name pop_lx5
+	description "Popeye (pinball)"
+	year 1994
+	manufacturer "Bally"
+	rom ( name popsndl2.u2 size 524288 crc 00590f2d )
+	rom ( name popsndl2.u3 size 524288 crc 87032b27 )
+	rom ( name popsndl2.u4 size 524288 crc b0808aa8 )
+	rom ( name popsndl2.u5 size 524288 crc 3662206b )
+	rom ( name popsndl2.u6 size 524288 crc 84a5f317 )
+	rom ( name popsndl2.u7 size 524288 crc b8fde2c7 )
+)
+
+game (
+	name rs_l6
+	description "Red and Ted's Roadshow (pinball)"
+	year 1994
+	manufacturer "Williams"
+	rom ( name rs_u2_s.l1 size 524288 crc 5a2db20c )
+	rom ( name rs_u3_s.l1 size 524288 crc 719be036 )
+	rom ( name rs_u4_s.l1 size 524288 crc d452d007 )
+	rom ( name rs_u5_s.l1 size 524288 crc 1faa04c9 )
+	rom ( name rs_u6_s.l1 size 524288 crc eee00add )
+	rom ( name rs_u7_s.l1 size 524288 crc 3a222a54 )
+	rom ( name rs_u8_s.l1 size 524288 crc c70f2210 )
+)
+
+game (
+	name sc_18
+	description "Safe Cracker (pinball)"
+	year 1996
+	manufacturer "Bally"
+	rom ( name safsnds2.rom size 1048576 crc 20e14c63 )
+	rom ( name safsnds3.rom size 1048576 crc 99e318e7 )
+	rom ( name safsnds4.rom size 1048576 crc 9c8a23eb )
+)
+
+game (
+	name ss_15
+	description "Scared Stiff (pinball)"
+	year 1996
+	manufacturer "Bally"
+	rom ( name sssnd_11.s2 size 1048576 crc 1b080a72 )
+	rom ( name sssnd_11.s3 size 1048576 crc c4f2e08a )
+	rom ( name sssnd_11.s4 size 1048576 crc 258b0a27 )
+)
+
+game (
+	name sttng_l7
+	description "Star Trek: The Next Generation (pinball)"
+	year 1993
+	manufacturer "Williams"
+	rom ( name ng_u2_s.l1 size 524288 crc c3bd7bf5 )
+	rom ( name ng_u3_s.l1 size 524288 crc 9456cac7 )
+	rom ( name ng_u4_s.l1 size 524288 crc 179d22a4 )
+	rom ( name ng_u5_s.l1 size 524288 crc 231a3e72 )
+	rom ( name ng_u6_s.l1 size 524288 crc bb21377d )
+	rom ( name ng_u7_s.l1 size 524288 crc d81b39f0 )
+	rom ( name ng_u8_s.l1 size 524288 crc c9fb065e )
+)
+
+game (
+	name tom_13
+	description "Theatre of Magic (pinball)"
+	year 1995
+	manufacturer "Bally"
+	rom ( name tm_u2_s.l2 size 524288 crc b128fbba )
+	rom ( name tm_u3_s.l2 size 524288 crc 128c7d3c )
+	rom ( name tm_u4_s.l2 size 524288 crc 3d9b2354 )
+	rom ( name tm_u5_s.l2 size 524288 crc 44247b60 )
+	rom ( name tm_u6_s.l2 size 524288 crc f366bbe5 )
+	rom ( name tm_u7_s.l2 size 524288 crc f98e9e38 )
+)
+
+game (
+	name totan_14
+	description "Tales of the Arabian Nights (pinball)"
+	year 1996
+	manufacturer "Williams"
+	rom ( name ans2v1_1.rom size 1048576 crc 0d023f90 )
+	rom ( name ans3v1_0.rom size 1048576 crc 3f677813 )
+	rom ( name ans4v1_0.rom size 1048576 crc c26dff5f )
+	rom ( name ans5v1_0.rom size 524288 crc 32ca1602 )
+)
+
+game (
+	name ts_lx5
+	description "The Shadow (pinball)"
+	year 1994
+	manufacturer "Bally"
+	rom ( name ts_u2_s.l1 size 524288 crc f1486cfb )
+	rom ( name ts_u3_s.l1 size 524288 crc b9e39c3f )
+	rom ( name ts_u4_s.l1 size 524288 crc a1d1ab66 )
+	rom ( name ts_u5_s.l1 size 524288 crc ab8cf435 )
+	rom ( name ts_u6_s.l1 size 524288 crc 63b8d2db )
+	rom ( name ts_u7_s.l1 size 524288 crc 62b5db14 )
+)
+
+game (
+	name wcs_l2
+	description "World Cup '94 (pinball)"
+	year 1994
+	manufacturer "Bally"
+	rom ( name wcup_u2.rom size 524288 crc 92252f28 )
+	rom ( name wcup_u3.rom size 524288 crc 83f541ad )
+	rom ( name wcup_u4.rom size 524288 crc 1540c505 )
+	rom ( name wcup_u5.rom size 524288 crc bddad8d4 )
+	rom ( name wcup_u6.rom size 524288 crc 00f46c12 )
+	rom ( name wcup_u7.rom size 524288 crc fff01703 )
+	rom ( name wcup_u8.rom size 524288 crc 670cd382 )
+)
+
+game (
+	name wd_12
+	description "Who Dunnit (pinball)"
+	year 1995
+	manufacturer "Bally"
+	rom ( name wdu2_10.rom size 524288 crc 2fd534be )
+	rom ( name wdu3_10.rom size 524288 crc be9b312f )
+	rom ( name wdu4_10.rom size 524288 crc 46965682 )
+	rom ( name wdu5_10.rom size 524288 crc 0a787015 )
+	rom ( name wdu6_10.rom size 524288 crc d2e05659 )
+	rom ( name wdu7_10.rom size 524288 crc 36285ca2 )
+)
+
+game (
+	name andretti
+	description "Mario Andretti (pinball)"
+	year 1995
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc 918c3270 )
+	rom ( name arom2.bin size 262144 crc 3c61a2f7 )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name yrom1.bin size 32768 crc 4ffb15b0 )
+)
+
+game (
+	name barbwire
+	description "Barb Wire (pinball)"
+	year 1996
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc 7171bc86 )
+	rom ( name arom2.bin size 262144 crc ce83c6c3 )
+	rom ( name drom1.bin size 32768 crc ebde41b0 )
+	rom ( name yrom1.bin size 32768 crc 7c602a35 )
+)
+
+game (
+	name batmanf
+	description "Batman Forever (pinball, ver 4.0)"
+	year 1995
+	manufacturer "Sega"
+	rom ( name bmfu17.bin size 524288 crc edcd5c10 )
+	rom ( name bmfu21.bin size 524288 crc e41a516d )
+	rom ( name bmfu7.bin size 65536 crc 58c0d144 )
+)
+
+game (
+	name baywatch
+	description "Baywatch (pinball)"
+	year 1995
+	manufacturer "Sega"
+	rom ( name bayw.u17 size 524288 crc b20fde56 )
+	rom ( name bayw.u21 size 524288 crc b7598881 )
+	rom ( name bayw.u7 size 65536 crc 90d6d8a8 )
+)
+
+game (
+	name bbnny
+	description "Bugs Bunny's Birthday Bash (pinball)"
+	year 1990
+	manufacturer "Bally"
+	rom ( name bugs_u19.l1 size 65536 crc a2084702 )
+	rom ( name bugs_u20.l1 size 65536 crc 5df734ef )
+	rom ( name bugs_u4.l2 size 65536 crc 04bc9aa5 )
+)
+
+game (
+	name bighurt
+	description "Big Hurt (pinball)"
+	year 1995
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc b3def376 )
+	rom ( name arom2.bin size 262144 crc 59789e66 )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name yrom1.bin size 32768 crc c58941ed )
+)
+
+game (
+	name cactjack
+	description "Cactus Jack (pinball)"
+	year 1991
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 131072 crc c890475f )
+	rom ( name arom2.bin size 131072 crc aba8fd98 )
+	rom ( name drom1.bin size 32768 crc 78c099e1 )
+	rom ( name yrom1.bin size 32768 crc 4554ed0d )
+)
+
+game (
+	name carhop
+	description "Car Hop (pinball)"
+	year 1991
+	manufacturer "Gottlieb"
+	rom ( name drom1.bin size 32768 crc 9dec74e7 )
+	rom ( name yrom1.bin size 32768 crc 831ee812 )
+)
+
+game (
+	name clas1812
+	description "Class of 1812 (pinball)"
+	year 1991
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 131072 crc 357b0069 )
+	rom ( name arom2.bin size 131072 crc 5be02ff7 )
+	rom ( name drom1.bin size 32768 crc 3863a9df )
+	rom ( name yrom1.bin size 32768 crc 4ecf6ecb )
+)
+
+game (
+	name cueball
+	description "Cue Ball Wizard (pinball)"
+	year 1992
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 476bb11c )
+	rom ( name arom2.bin size 262144 crc 23708ad9 )
+	rom ( name drom1.bin size 32768 crc 9fd04109 )
+	rom ( name yrom1.bin size 32768 crc c22f5cc5 )
+)
+
+game (
+	name deadweap
+	description "Deadly Weapon (pinball)"
+	year 1990
+	manufacturer "Gottlieb"
+	rom ( name drom1.bin size 32768 crc f55dd7ec )
+	rom ( name yrom1.bin size 32768 crc 93369ed3 )
+)
+
+game (
+	name frankst
+	description "Mary Shelley's Frankenstein (pinball)"
+	year 1994
+	manufacturer "Sega"
+	rom ( name frsnd.u17 size 524288 crc 0da904d6 )
+	rom ( name frsnd.u21 size 524288 crc 14d4bc12 )
+	rom ( name frsnd.u36 size 524288 crc 9964d721 )
+	rom ( name frsnd.u7 size 65536 crc 084f856c )
+)
+
+game (
+	name gladiatp
+	description "Gladiators (pinball)"
+	year 1993
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 85cbdda7 )
+	rom ( name arom2.bin size 262144 crc da2c1073 )
+	rom ( name drom1.bin size 32768 crc 60779d60 )
+	rom ( name yrom1.bin size 32768 crc c5b72153 )
+)
+
+game (
+	name opthund
+	description "Operation Thunder (pinball)"
+	year 1992
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 0fbb130a )
+	rom ( name drom1.bin size 32768 crc db28be69 )
+	rom ( name yrom1.bin size 32768 crc 169816d1 )
+)
+
+game (
+	name rescu911
+	description "Rescue 911 (pinball)"
+	year 1994
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc f6daa16c )
+	rom ( name arom2.bin size 262144 crc 59374104 )
+	rom ( name drom1.bin size 32768 crc 034c6bc3 )
+	rom ( name yrom1.bin size 32768 crc 14f86b56 )
+)
+
+game (
+	name sfight2
+	description "Street Fighter II (pinball)"
+	year 1993
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 8518ff55 )
+	rom ( name arom2.bin size 262144 crc 85a304d9 )
+	rom ( name drom1.bin size 32768 crc f5c13e80 )
+	rom ( name yrom1.bin size 32768 crc 9009f461 )
+)
+
+game (
+	name shaqattq
+	description "Shaq Attack (pinball)"
+	year 1995
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc 019014ec )
+	rom ( name arom2.bin size 262144 crc cc5f157d )
+	rom ( name drom1.bin size 32768 crc 16a03261 )
+	rom ( name yrom1.bin size 32768 crc e81e2928 )
+)
+
+game (
+	name silvslug
+	description "Silver Slugger (pinball)"
+	year 1990
+	manufacturer "Gottlieb"
+	rom ( name drom1.bin size 32768 crc eac3e1cc )
+	rom ( name yrom1.bin size 32768 crc 20bc9797 )
+)
+
+game (
+	name smb
+	description "Super Mario Bros. (pinball)"
+	year 1992
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc e9cef116 )
+	rom ( name arom2.bin size 262144 crc 0acdfd49 )
+	rom ( name drom1.bin size 32768 crc 6f1d0a3e )
+	rom ( name yrom1.bin size 32768 crc e1379106 )
+)
+
+game (
+	name southpk
+	description "South Park (pinball)"
+	year 1999
+	manufacturer "Sega"
+	rom ( name spku17.100 size 1048576 crc 829262c9 )
+	rom ( name spku21.100 size 1048576 crc 3a55eef3 )
+	rom ( name spku36.100 size 1048576 crc bcf6d2cb )
+	rom ( name spku37.100 size 1048576 crc 7d8f6bcb )
+	rom ( name spku7.101 size 65536 crc 3d831d3e )
+)
+
+game (
+	name stargatp
+	description "Stargate (pinball)"
+	year 1995
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc a0f62605 )
+	rom ( name drom1.bin size 32768 crc 781b2b27 )
+	rom ( name yrom1.bin size 32768 crc 53123fd4 )
+)
+
+game (
+	name surfnsaf
+	description "Surf'n Safari (pinball)"
+	year 1991
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 38b569b2 )
+	rom ( name drom1.bin size 32768 crc ec8fc963 )
+	rom ( name yrom1.bin size 32768 crc a0480418 )
+)
+
+game (
+	name teedoffp
+	description "Teed Off (pinball)"
+	year 1993
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc 9e442b71 )
+	rom ( name arom2.bin size 262144 crc 3dad9508 )
+	rom ( name drom1.bin size 32768 crc 3868e77a )
+	rom ( name yrom1.bin size 32768 crc c51d98d8 )
+)
+
+game (
+	name tfight
+	description "Title Fight (pinball)"
+	year 1990
+	manufacturer "Gottlieb"
+	rom ( name drom1.bin size 32768 crc 9514739f )
+	rom ( name yrom1.bin size 32768 crc 8591d421 )
+)
+
+game (
+	name tz_92
+	description "Twilight Zone (pinball, ver 9.2)"
+	year 1993
+	manufacturer "Bally"
+	rom ( name tzu14_l2.rom size 131072 crc 5a67bd56 )
+	rom ( name tzu15_l2.rom size 524288 crc 389d2442 )
+	rom ( name tzu18_l2.rom size 524288 crc 66575ec2 )
+)
+
+game (
+	name vegas
+	description "Vegas (pinball)"
+	year 1990
+	manufacturer "Gottlieb"
+	rom ( name drom1.bin size 32768 crc 46eb5755 )
+	rom ( name yrom1.bin size 32768 crc af1095f1 )
+)
+
+game (
+	name waterwld
+	description "Waterworld (pinball)"
+	year 1995
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc 3ee37668 )
+	rom ( name arom2.bin size 524288 crc a631bf12 )
+	rom ( name drom1.bin size 32768 crc 2a8c5d04 )
+	rom ( name yrom1.bin size 32768 crc 6dddce0a )
+)
+
+game (
+	name wcsoccer
+	description "World Challenge Soccer (pinball)"
+	year 1994
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc ece4eebf )
+	rom ( name arom2.bin size 262144 crc 4e466500 )
+	rom ( name drom1.bin size 32768 crc 18d5edf3 )
+	rom ( name yrom1.bin size 32768 crc 8b2795b0 )
+)
+
+game (
+	name wipeout
+	description "Wipeout (pinball)"
+	year 1993
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 262144 crc cccdf23a )
+	rom ( name arom2.bin size 262144 crc d4cc44a1 )
+	rom ( name drom1.bin size 32768 crc 98ae6da4 )
+	rom ( name yrom1.bin size 32768 crc f08e6d7f )
+)
+
+game (
+	name freddy
+	description "Freddy: A Nightmare on Elm Street (pinball)"
+	year 1994
+	manufacturer "Gottlieb"
+	rom ( name arom1.bin size 524288 crc 6bec0567 )
+	rom ( name arom2.bin size 262144 crc f0e9284d )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name yrom1.bin size 32768 crc 4a748665 )
+)
+
+###############################################################################
+# Sega Model 2 - Nebula Model 2 & Virtua
+################################################################################
+
+game (
+	name daytonau
+	description "Daytona USA (US) [Model 2]"
+	year 1993
+	manufacturer "Sega"
+	cloneof daytona
+	romof daytona
+	rebuildto "Model 2"
+	rom ( name 16491.mpr merge 16491.mpr size 2097152 crc 89920903 sha1 06d1d55470ae99f8de0f8c88c694f34c4eb13668 )
+	rom ( name 16492.mpr merge 16492.mpr size 2097152 crc 459e701b sha1 2054f69cecad677eb00c6a3051f5b5d90885e19b )
+	rom ( name 16493.mpr merge 16493.mpr size 2097152 crc 9990db15 sha1 ea9a8b45a07dccaae62be7cf095532ce7596a70c )
+	rom ( name 16494.mpr merge 16494.mpr size 2097152 crc 600e1d6c sha1 d4e246fc57a16ff562bbcbccf6a739b706f58696 )
+	rom ( name usasnd1.bin size 131072 crc aed68fa6 sha1 823ae3304b5688a3573471ca769c13387109ddaa )
+	rom ( name usasnd2.bin size 131072 crc f1876b74 sha1 2f500a3a5948375807d5855c3a1cfa808315cad9 )
+)
+
+game (
+	name stccb
+	description "Sega Touring Car Championship (Rev B) [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof stcc
+	romof stcc
+	rebuildto "Model 2C CRX"
+	rom ( name ep18643a.7 merge ep18643a.7 size 131072 crc b5e048ec )
+	rom ( name sega-tc.u15 size 524288 crc efdfb625 )
+	rom ( name sega-tc.u16 size 524288 crc 61a357d9 )
+	rom ( name ep19266.18 merge ep19266.18 size 524288 crc 41464ee2 )
+	rom ( name ep19267.22 merge ep19267.22 size 524288 crc 780f994d )
+	rom ( name ep19268.26 merge ep19268.26 size 524288 crc bc4e081c )
+	rom ( name ep19269.28 merge ep19269.28 size 524288 crc 01881121 )
+	rom ( name ep19270.9 merge ep19270.9 size 524288 crc 7bd1d04e )
+	rom ( name ep19271.10 merge ep19271.10 size 524288 crc d2d74f85 )
+	rom ( name ep19274.31 merge ep19274.31 size 131072 crc 2dcc08ae )
+	rom ( name mp19251.17 merge mp19251.17 size 4194304 crc e06ff7ba )
+	rom ( name mp19252.21 merge mp19252.21 size 4194304 crc 68509993 )
+	rom ( name mp19253.25 merge mp19253.25 size 2097152 crc 41ba79fb )
+	rom ( name mp19254.27 merge mp19254.27 size 2097152 crc 1ec49c02 )
+	rom ( name mp19255.29 merge mp19255.29 size 2097152 crc d78bf030 )
+	rom ( name mp19256.30 merge mp19256.30 size 2097152 crc cb2b2d9e )
+	rom ( name mp19257.11 merge mp19257.11 size 4194304 crc ac28ee24 )
+	rom ( name mp19258.12 merge mp19258.12 size 4194304 crc f5ba7d78 )
+	rom ( name mp19259.32 merge mp19259.32 size 4194304 crc 4d55dbfc )
+	rom ( name mp19261.34 merge mp19261.34 size 4194304 crc b88878ff )
+	rom ( name ep19275.2 merge ep19275.2 size 131072 crc ee809d3f )
+	rom ( name mp19262.57 merge mp19262.57 size 2097152 crc 922aed7a )
+	rom ( name mp19263.58 merge mp19263.58 size 2097152 crc a256f4cd )
+	rom ( name mp19264.59 merge mp19264.59 size 2097152 crc b6c51d0f )
+	rom ( name mp19265.60 merge mp19265.60 size 2097152 crc 7d98700a )
+)
+
+game (
+	name zerogunx
+	description "Zero Gunner (Rev ?) [Model 2B CRX]"
+	year 1997
+	manufacturer "Sega"
+	cloneof zerogun
+	romof zerogun
+	rebuildto "Model 2B CRX"
+	rom ( name mp19324.19 merge mp19324.19 size 4194304 crc 0d6bf454 )
+	rom ( name mp19326.22 merge mp19326.22 size 4194304 crc b976da02 )
+	rom ( name mp19327.23 merge mp19327.23 size 4194304 crc 6a75634c )
+	rom ( name mp19331.34 merge mp19331.34 size 4194304 crc 2f866947 )
+	rom ( name mp19332.35 merge mp19332.35 size 4194304 crc 733ae92b )
+	rom ( name mp20294.9 merge mp20294.9 size 4194304 crc a0bd1474 )
+	rom ( name mp20295.10 merge mp20295.10 size 4194304 crc c548cced )
+	rom ( name mp20296.11 merge mp20296.11 size 4194304 crc 072d8a5e )
+	rom ( name mp20297.12 merge mp20297.12 size 4194304 crc ba6a825b )
+	rom ( name mp20298.17 merge mp20298.17 size 4194304 crc 8ab782fc )
+	rom ( name mp20299.21 merge mp20299.21 size 4194304 crc 90e20cdb )
+	rom ( name mp20300.25 merge mp20300.25 size 2097152 crc 6f042792 )
+	rom ( name mp20301.27 merge mp20301.27 size 2097152 crc 52010fb2 )
+	rom ( name mp20303.32 merge mp20303.32 size 2097152 crc c040973f )
+	rom ( name mp20304.33 merge mp20304.33 size 2097152 crc 6decfe83 )
+	rom ( name ep18604.13 merge ep18604.13 size 131072 crc 704fdfcf )
+	rom ( name ep18605.14 merge ep18605.14 size 131072 crc 7dddf81f )
+	rom ( name ep20302.31 merge ep20302.31 size 524288 crc 44ff50d2 )
+	rom ( name ep20288 size 524288 crc 162305d5 )
+	rom ( name ep20289 size 524288 crc b5acb940 )
+	rom ( name mp19312.5 merge mp19312.5 size 4194304 crc b87d4aee )
+	rom ( name mp19313.6 merge mp19313.6 size 4194304 crc 873fbf83 )
+	rom ( name mp19314.7 merge mp19314.7 size 4194304 crc a8d963fb )
+	rom ( name mp19315.8 merge mp19315.8 size 4194304 crc 90ae5682 )
+	rom ( name mp19323.18 merge mp19323.18 size 4194304 crc 453d3f4a )
+)
+
+################################################################################
+# MMSND
+################################################################################
+
+game (
+	name thndcept
+	description "Thunder Cepter"
+	manufacturer "NAMCO"
+	rom ( name tc1-21.bin size 32768 crc 3b942f5f )
+	rom ( name tc1-22.bin size 32768 crc cfef5481 )
+	chip ( type cpu name M6502 clock 2000000 )
+	chip ( type audio name YM-2151 clock 3579545 )
+	sound ( channels 2 )
+)
+
+game (
+	name charon
+	description "Charon"
+	manufacturer "SEGA"
+	rom ( name s_pro size 32768 crc 8aa61955 )
+	rom ( name s0 size 131072 crc 82a24191 )
+	rom ( name s1 size 131072 crc e033bccf )
+	chip ( type cpu name Z80 clock 4000000 )
+	chip ( type audio name YM-2151 clock 1 )
+	chip ( type audio name uPD7759 )
+)
+
+game (
+	name rhero
+	description "RacingHero"
+	manufacturer "SEGA"
+	rom ( name rhero.com size 46425 crc cfa22fa7 )
+	rom ( name bank0.rom size 65536 crc 7e87d0e4 )
+	rom ( name bank1.rom size 65536 crc 70b45b61 )
+	rom ( name bank2.rom size 65536 crc 7796d746 )
+	rom ( name bank3.rom size 65536 crc 4742bea6 )
+	rom ( name bank4.rom size 65536 crc 32939a5b )
+	chip ( type cpu name Z80 clock 4000000 )
+	chip ( type audio name YM-2151 clock 1 )
+	chip ( type audio name SEGA 16ch 8bitPCM )
+)
+
+################################################################################
+# ROMBuild - Check my ROMs don't get introduced to MAME!
+################################################################################
+
+game (
+	name rombuild
+	description "ROMBuild ROMs"
+	rom ( name zzzzzzzz.zzz crc 6f44e937 size 40 )
+	rom ( name zzzzzzzz.zzz crc c5ac7bf6 size 256 )
+	rom ( name zzzzzzzz.zzz crc 19e2d4b9 size 512 )
+	rom ( name zzzzzzzz.zzz crc d3aff2df size 512 )
+	rom ( name zzzzzzzz.zzz crc 2cfe825d size 2048 )
+	rom ( name zzzzzzzz.zzz crc 34eca7be size 2048 )
+	rom ( name zzzzzzzz.zzz crc d2b6324e size 2048 )
+	rom ( name zzzzzzzz.zzz crc c71c0011 size 4096 )
+)
+
+################################################################################
+# Final Burn Games
+################################################################################
+
+game (
+	name royalascot2
+	description "Royal Ascot 2"
+	year ????
+	manufacturer "???"
+	rom ( name ep13965a size 131072 crc 7eacdfb3 )
+	rom ( name ep13694a size 131072 crc 15b86498 )
+	rom ( name epr13967 size 131072 crc 3b92e2b8 )
+	rom ( name epr13966 size 131072 crc eaa644e1 )
+	rom ( name epr13961 size 65536 crc 68038629 )
+	rom ( name epr13962 size 65536 crc 7d7605bc )
+	rom ( name epr13963 size 65536 crc f3376b65 )
+	rom ( name epr13957 size 131072 crc 6d50fb54 )
+	rom ( name epr13958 size 131072 crc 7803a027 )
+	rom ( name epr13959 size 131072 crc db245b22 )
+	rom ( name epr13960 size 131072 crc b974128d )
+	rom ( name ep14221a size 65536 crc 0d429ac4 )
+)
+
+################################################################################
+# Laserdisc games - Daphne
+################################################################################
+
+game (
+	name spaceace
+	description "Space Ace (US revision A3)"
+	year 1983
+	manufacturer "Magicom / Cinematronics"
+	rom ( name sa_a3_u1.bin size 8192 crc 427522d0 )
+	rom ( name sa_a3_u2.bin size 8192 crc 18d0262d )
+	rom ( name sa_a3_u3.bin size 8192 crc 4646832d )
+	rom ( name sa_a3_u4.bin size 8192 crc 57db2a79 )
+	rom ( name sa_a3_u5.bin size 8192 crc 85cbcdc4 )
+)
+
+game (
+	name acereva2
+	description "Space Ace (US revision A2)"
+	year 1983
+	manufacturer "Magicom / Cinematronics"
+	cloneof spaceace
+	romof spaceace
+	rom ( name sa_a2_u1.bin size 8192 crc 71b39e27 )
+	rom ( name sa_a2_u2.bin size 8192 crc 18d0262d )
+	rom ( name sa_a2_u3.bin size 8192 crc 4646832d )
+	rom ( name sa_a2_u4.bin size 8192 crc 57db2a79 )
+	rom ( name sa_a2_u5.bin size 8192 crc 85cbcdc4 )
+)
+
+game (
+	name acereva
+	description "Space Ace (US revision A)"
+	year 1983
+	manufacturer "Magicom / Cinematronics"
+	cloneof spaceace
+	romof spaceace
+	rom ( name sa_a_u1.bin size 8192 crc 8eb1889e )
+	rom ( name sa_a_u2.bin size 8192 crc 18d0262d )
+	rom ( name sa_a_u3.bin size 8192 crc 4646832d )
+	rom ( name sa_a_u4.bin size 8192 crc 57db2a79 )
+	rom ( name sa_a_u5.bin size 8192 crc 85cbcdc4 )
+)
+
+game (
+	name astron
+	description "Astron Belt (Hitachi)"
+	year 1983
+	manufacturer "Sega (Japan), Bally / Midway (USA)"
+	rom ( name 5279 size 512 crc 8716aeb5 )
+	rom ( name 5280 size 2048 crc 583af1ff )
+	rom ( name 5281 size 2048 crc 7b5c820c )
+	rom ( name 5284 size 16384 crc eec6db27 )
+	rom ( name 5285 size 16384 crc 820e154e )
+	rom ( name 5286 size 16384 crc 8eb1c28e )
+	rom ( name 5338 size 16384 crc 94ca5f9a )
+	rom ( name 5473c size 16384 crc 0f24baaa )
+	rom ( name 5474a size 16384 crc 5d44603d )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b )
+	rom ( name pr-5276.bin size 32 crc 91267e8a )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab )
+	rom ( name pr-5278.bin size 256 crc e81613da )
+)
+
+; Daphne actually loads all ROMs except abp* from astron but we can't do this in CMPro or RC!
+
+game (
+	name astronp
+	description "Astron Belt (Pioneer)"
+	year 1983
+	manufacturer "Sega (Japan), Bally / Midway (USA)"
+	rom ( name 5279 size 512 crc 8716aeb5 )
+	rom ( name 5280 size 2048 crc 583af1ff )
+	rom ( name 5281 size 2048 crc 7b5c820c )
+	rom ( name 5284 size 16384 crc eec6db27 )
+	rom ( name 5285 size 16384 crc 820e154e )
+	rom ( name 5286 size 16384 crc 8eb1c28e )
+	rom ( name 5338 size 16384 crc 94ca5f9a )
+	rom ( name abp-ic10.bin size 16384 crc a3746393 )
+	rom ( name abp-ic03.bin size 16384 crc fd0dcfc9 )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b )
+	rom ( name pr-5276.bin size 32 crc 91267e8a )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab )
+	rom ( name pr-5278.bin size 256 crc e81613da )
+)
+
+game (
+	name badlnds
+	description "Badlands"
+	year 1984
+	manufacturer "Konami"
+	rom ( name badlands.a13 size 8192 crc a44776d6 )
+	rom ( name badlands.a14 size 8192 crc 82cb4614 )
+	rom ( name badlands.c4 size 32 crc 6757be8d )
+	rom ( name badlands.c8 size 8192 crc 590209fe )
+)
+
+; an06 is not used by Daphne.
+
+game (
+	name bega
+	description "Bega's Battle (revision 3)"
+	year 1983
+	manufacturer "Data East USA"
+	rom ( name an00-3 size 8192 crc 124a3a36 )
+	rom ( name an01 size 8192 crc 15f8921d )
+	rom ( name an02-3 size 8192 crc 98ce4ca0 )
+	rom ( name an03-3 size 8192 crc 79438d80 )
+	rom ( name an04-3 size 8192 crc 935b2b0a )
+	rom ( name an05-3 size 8192 crc c917a283 )
+	rom ( name an06 size 8192 crc cbbcd730 )
+	rom ( name an07 size 8192 crc 6b8ad735 )
+	rom ( name an08 size 8192 crc b5518391 )
+	rom ( name an09 size 8192 crc b7375fd7 )
+	rom ( name an0a size 8192 crc e429305d )
+	rom ( name an0b size 8192 crc 09e4b780 )
+	rom ( name an0c size 8192 crc 0c127207 )
+)
+
+; an06 is not used by Daphne.
+
+game (
+	name begarev1
+	description "Bega's Battle (revision 1)"
+	year 1983
+	manufacturer "Data East USA"
+	cloneof bega
+	romof bega
+	rom ( name an00 size 8192 crc 184297f3 )
+	rom ( name an01 merge an01 size 8192 crc 15f8921d )
+	rom ( name an02 size 8192 crc 84d13c20 )
+	rom ( name an03 size 8192 crc d2d85cdf )
+	rom ( name an04 size 8192 crc 670966fe )
+	rom ( name an05 size 8192 crc 91a05549 )
+	rom ( name an06 merge an06 size 8192 crc cbbcd730 )
+	rom ( name an07 merge an07 size 8192 crc 6b8ad735 )
+	rom ( name an08 merge an08 size 8192 crc b5518391 )
+	rom ( name an09 merge an09 size 8192 crc b7375fd7 )
+	rom ( name an0a merge an0a size 8192 crc e429305d )
+	rom ( name an0b merge an0b size 8192 crc 09e4b780 )
+	rom ( name an0c merge an0c size 8192 crc 0c127207 )
+)
+
+; Daphne actually loads 5611-5612 and 5592-5595 from galaxy but we can't do this in CMPro or RC!
+; 5275-5281 are also loaded from astron but again, we can't do this in CMPro or RC!
+
+game (
+	name sblazer
+	description "Star Blazer"
+	year 1984
+	manufacturer "Sega"
+	rom ( name 5279 size 512 crc 8716aeb5 )
+	rom ( name 5280 size 2048 crc 583af1ff )
+	rom ( name 5281 size 2048 crc 7b5c820c )
+	rom ( name epr-5590.bin size 16384 crc c06e41bb )
+	rom ( name epr-5591.bin size 16384 crc b179d18c )
+	rom ( name gr5592.bin size 16384 crc d13715f8 )
+	rom ( name gr5593.bin size 16384 crc b0a557aa )
+	rom ( name gr5594.bin size 16384 crc 4403ef5a )
+	rom ( name gr5595.bin size 16384 crc ccbaec4f )
+	rom ( name gr5611.bin size 16384 crc b16bdfe4 )
+	rom ( name gr5612.bin size 16384 crc e312d080 )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b )
+	rom ( name pr-5276.bin size 32 crc 91267e8a )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab )
+	rom ( name pr-5278.bin size 256 crc e81613da )
+)
+
+game (
+	name cliff
+	description "Cliff Hanger"
+	year 1983
+	manufacturer "Stern / Seeburg"
+	rom ( name cliff_u1.bin size 8192 crc a86ec38f )
+	rom ( name cliff_u2.bin size 8192 crc b8d33b6b )
+	rom ( name cliff_u3.bin size 8192 crc 75a64cd2 )
+	rom ( name cliff_u4.bin size 8192 crc 906b2af1 )
+	rom ( name cliff_u5.bin size 8192 crc 5922e710 )
+)
+
+game (
+	name cliffalt
+	description "Cliff Hanger (alternate)"
+	year 1983
+	manufacturer "Stern / Seeburg"
+	rom ( name cliff_alt_0.bin size 8192 crc 27caa67c )
+	rom ( name cliff_alt_1.bin size 8192 crc 6e5f1515 )
+	rom ( name cliff_alt_2.bin size 8192 crc 045f895d )
+	rom ( name cliff_alt_3.bin size 8192 crc 54cdb4a1 )
+)
+
+; Daphne actually loads 5275-5278 from astron but we can't do this in CMPro or RC!
+
+game (
+	name cobraab
+	description "Cobra Command (Astron Belt hardware)"
+	year 1984
+	manufacturer "Data East USA"
+	rom ( name ic-1.bin size 16384 crc 079783c7 )
+	rom ( name ic-11.bin size 2048 crc 5a2e8f4e )
+	rom ( name ic-12.bin size 2048 crc 4b89d7ed )
+	rom ( name ic-13.bin size 512 crc 3547a14c )
+	rom ( name ic-2.bin size 8192 crc 40c0b825 )
+	rom ( name ic-7.bin size 8192 crc 9e12b19c )
+	rom ( name ic-8.bin size 8192 crc 201041c0 )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b )
+	rom ( name pr-5276.bin size 32 crc 91267e8a )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab )
+	rom ( name pr-5278.bin size 256 crc e81613da )
+)
+
+game (
+	name dle11
+	description "Dragon's Lair (US enhancement 1.1 L)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	rom ( name dle11u1l.bin size 8192 crc 9e65b33d )
+	rom ( name dle11u2l.bin size 8192 crc f16fa36f )
+	rom ( name dle11u3l.bin size 8192 crc b8d07a16 )
+	rom ( name dle11u4l.bin size 8192 crc 20fc79b7 )
+	rom ( name readme11.txt size 22338 crc 4bf84551 )
+)
+
+game (
+	name dle20
+	description "Dragon's Lair (US enhancement 2.0)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	rom ( name dle20_u1.bin size 8192 crc 0aca15b4 )
+	rom ( name dle20_u2.bin size 8192 crc 1cea7622 )
+	rom ( name dle20_u3.bin size 8192 crc 21a7e7ca )
+	rom ( name dle20_u4.bin size 8192 crc 4ae26073 )
+	rom ( name readme20.txt size 20553 crc 51c50010 )
+)
+
+game (
+	name esh
+	description "Esh's Aurunmilla"
+	year 1983
+	manufacturer "Funai / Gakken"
+	rom ( name c5_h.bin size 256 crc abde5e4b )
+	rom ( name c6_v.bin size 256 crc 7157ba22 )
+	rom ( name f8_is2.bin size 8192 crc 0e3b6e62 )
+	rom ( name h8_is1.bin size 8192 crc 114c912b )
+	rom ( name j1_rgb.bin size 512 crc 1e9f795f )
+	rom ( name k3_c.bin size 4096 crc a936ef01 )
+	rom ( name l3_b.bin size 4096 crc 9366dde7 )
+	rom ( name m3_a.bin size 4096 crc a04736d8 )
+)
+
+game (
+	name eshalt1
+	description "Esh's Aurunmilla (alternate set 1)"
+	year 1983
+	manufacturer "Funai / Gakken"
+	cloneof esh
+	romof esh
+	rom ( name c5_h.bin merge c5_h.bin size 256 crc abde5e4b )
+	rom ( name c6_v.bin merge c6_v.bin size 256 crc 7157ba22 )
+	rom ( name f8_alt1.bin size 8192 crc 7a562f49 )
+	rom ( name h8_is1.bin merge h8_is1.bin size 8192 crc 114c912b )
+	rom ( name j1_rgb.bin merge j1_rgb.bin size 512 crc 1e9f795f )
+	rom ( name k3_c.bin merge k3_c.bin size 4096 crc a936ef01 )
+	rom ( name l3_b.bin merge l3_b.bin size 4096 crc 9366dde7 )
+	rom ( name m3_a.bin merge m3_a.bin size 4096 crc a04736d8 )
+)
+
+game (
+	name eshalt2
+	description "Esh's Aurunmilla (alternate set 2)"
+	year 1983
+	manufacturer "Funai / Gakken"
+	cloneof esh
+	romof esh
+	rom ( name c5_h.bin merge c5_h.bin size 256 crc abde5e4b )
+	rom ( name c6_v.bin merge c6_v.bin size 256 crc 7157ba22 )
+	rom ( name f8_is2.bin merge f8_is2.bin size 8192 crc 0e3b6e62 )
+	rom ( name h8_alt2.bin size 8192 crc 8d27d363 )
+	rom ( name j1_rgb.bin merge j1_rgb.bin size 512 crc 1e9f795f )
+	rom ( name k3_c.bin merge k3_c.bin size 4096 crc a936ef01 )
+	rom ( name l3_b.bin merge l3_b.bin size 4096 crc 9366dde7 )
+	rom ( name m3_a.bin merge m3_a.bin size 4096 crc a04736d8 )
+)
+
+; Daphne actually loads 5275-5281 from astron but we can't do this in CMPro or RC!
+
+game (
+	name galaxy
+	description "Galaxy Ranger"
+	year 1984
+	manufacturer "Bally / Midway"
+	rom ( name 5279 size 512 crc 8716aeb5 )
+	rom ( name 5280 size 2048 crc 583af1ff )
+	rom ( name 5281 size 2048 crc 7b5c820c )
+	rom ( name gr5592.bin size 16384 crc d13715f8 )
+	rom ( name gr5593.bin size 16384 crc b0a557aa )
+	rom ( name gr5594.bin size 16384 crc 4403ef5a )
+	rom ( name gr5595.bin size 16384 crc ccbaec4f )
+	rom ( name gr5611.bin size 16384 crc b16bdfe4 )
+	rom ( name gr5612.bin size 16384 crc e312d080 )
+	rom ( name gr5633.bin size 16384 crc 398f6b23 )
+	rom ( name gr5634.bin size 16384 crc 2c5be1b7 )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b )
+	rom ( name pr-5276.bin size 32 crc 91267e8a )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab )
+	rom ( name pr-5278.bin size 256 crc e81613da )
+)
+
+game (
+	name goaltogo
+	description "Goal to Go"
+	year 1984
+	manufacturer "Stern / Seeburg"
+	rom ( name gtg.rm0 size 8192 crc d8efddea )
+	rom ( name gtg.rm1 size 8192 crc 69953d38 )
+	rom ( name gtg.rm2 size 8192 crc b043e205 )
+	rom ( name gtg.rm3 size 8192 crc ec305f5e )
+	rom ( name gtg.rm4 size 8192 crc 9e4c8aa2 )
+)
+
+game (
+	name lair
+	description "Dragon's Lair (US revision F2)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	rom ( name dl_f2_u1.bin size 8192 crc f5ea3b9d )
+	rom ( name dl_f2_u2.bin size 8192 crc dcc1dff2 )
+	rom ( name dl_f2_u3.bin size 8192 crc ab514e5b )
+	rom ( name dl_f2_u4.bin size 8192 crc f5ec23d2 )
+)
+
+game (
+	name lairrevf
+	description "Dragon's Lair (US revision F)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_f_u1.bin size 8192 crc 06fc6941 )
+	rom ( name dl_f_u2.bin size 8192 crc dcc1dff2 )
+	rom ( name dl_f_u3.bin size 8192 crc ab514e5b )
+	rom ( name dl_f_u4.bin size 8192 crc a817324e )
+)
+
+game (
+	name lairreve
+	description "Dragon's Lair (US revision E)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_e_u1.bin size 8192 crc 02980426 )
+	rom ( name dl_e_u2.bin size 8192 crc 979d4c97 )
+	rom ( name dl_e_u3.bin size 8192 crc 897bf075 )
+	rom ( name dl_e_u4.bin size 8192 crc 4ebffba5 )
+)
+
+game (
+	name lairreva
+	description "Dragon's Lair (US revision A)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_a_u1.bin size 8192 crc d76e83ec )
+	rom ( name dl_a_u2.bin size 8192 crc a6a723d8 )
+	rom ( name dl_a_u3.bin size 8192 crc 52c59014 )
+	rom ( name dl_a_u4.bin size 8192 crc 924d12f2 )
+	rom ( name dl_a_u5.bin size 8192 crc 6ec2f9c1 )
+)
+
+game (
+	name lairrevb
+	description "Dragon's Lair (US revision B)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_b_u1.bin size 8192 crc d76e83ec )
+	rom ( name dl_b_u2.bin size 8192 crc 6751103d )
+	rom ( name dl_b_u3.bin size 8192 crc 52c59014 )
+	rom ( name dl_b_u4.bin size 8192 crc 924d12f2 )
+	rom ( name dl_b_u5.bin size 8192 crc 6ec2f9c1 )
+)
+
+game (
+	name lairrevc
+	description "Dragon's Lair (US revision C)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_c_u1.bin size 8192 crc cebfe26a )
+	rom ( name dl_c_u2.bin size 8192 crc 6751103d )
+	rom ( name dl_c_u3.bin size 8192 crc 52c59014 )
+	rom ( name dl_c_u4.bin size 8192 crc 924d12f2 )
+	rom ( name dl_c_u5.bin size 8192 crc 6ec2f9c1 )
+)
+
+game (
+	name lairrevd
+	description "Dragon's Lair (US revision D)"
+	year 1983
+	manufacturer "Starcom / Cinematronics"
+	cloneof lair
+	romof lair
+	rom ( name dl_d_u1.bin size 8192 crc 0b5ab120 )
+	rom ( name dl_d_u2.bin size 8192 crc 93ebfffb )
+	rom ( name dl_d_u3.bin size 8192 crc 22e6591f )
+	rom ( name dl_d_u4.bin size 8192 crc 5f7212cb )
+	rom ( name dl_d_u5.bin size 8192 crc 2b469c89 )
+)
+
+game (
+	name sae
+	description "Space Ace (US enhancement 1.0)"
+	year 1983
+	manufacturer "Magicom / Cinematronics"
+	rom ( name readme.txt size 16931 crc ca4e20e6 )
+	rom ( name sae10_u1.bin size 8192 crc cbc5e425 )
+	rom ( name sae10_u2.bin size 8192 crc 71a26f47 )
+	rom ( name sae10_u3.bin size 8192 crc bac5cdd8 )
+	rom ( name sae10_u4.bin size 8192 crc e18380f9 )
+	rom ( name sae10_u5.bin size 8192 crc 8a536cb0 )
+)
+
+game (
+	name sdq
+	description "Super Don Quix-ote (long scenes)"
+	year 1984
+	manufacturer "Universal"
+	rom ( name sdq-char.bin size 8192 crc 5fb0e440 )
+	rom ( name sdq-cprm.bin size 32 crc 96701569 )
+	rom ( name sdq-prog.bin size 16384 crc 96b931e2 )
+)
+
+; Daphne actually loads char and cprm from sdq but we can't do this in CMPro or RC!
+
+game (
+	name sdqshort
+	description "Super Don Quix-ote (short scenes)"
+	year 1984
+	manufacturer "Universal"
+	rom ( name sdq_c45.rom size 16384 crc 0f4d4832 )
+	rom ( name sdq-char.bin size 8192 crc 5fb0e440 )
+	rom ( name sdq-cprm.bin size 32 crc 96701569 )
+)
+
+game (
+	name tq
+	description "Thayer's Quest"
+	year 1984
+	manufacturer "RDI Video Systems"
+	rom ( name tq_cop.bin size 1024 crc 6748e6b3 )
+	rom ( name tq_u1.bin size 8192 crc e8e7f566 )
+	rom ( name tq_u33.bin size 32768 crc 82df5d89 )
+)
+
+game (
+	name galaxyp
+	description "Galaxy Ranger (Pioneer)"
+	year 1984
+	manufacturer "Bally / Midway (USA)"
+	rom ( name epr-5613.bin size 16384 crc 6617e702 sha1 9de760d0e5a654a6abaa1a8cd7b038638d61f523 )
+	rom ( name epr-5614.bin size 16384 crc 73ad8932 sha1 ab0ff5e14bb58aa1f874fd135f1a8bd96de3f25e )
+	rom ( name gr5592.bin size 16384 crc d13715f8 sha1 72e2570a1fa437faac0c52e24f801020b6e5a110 )
+	rom ( name gr5593.bin size 16384 crc b0a557aa sha1 5baacbaa25cdc0ee414bafe24d50a256631601aa )
+	rom ( name gr5594.bin size 16384 crc 4403ef5a sha1 f8c879ea22cc48bc06608ff7bad3408378ef5162 )
+	rom ( name gr5611.bin size 16384 crc b16bdfe4 sha1 565725189d0b124f8de148f343e67a177ca056f6 )
+	rom ( name gr5595.bin size 16384 crc ccbaec4f sha1 b6750543a0875e7cdc71ecb06575783b7e0ba457 )
+	rom ( name gr5612.bin size 16384 crc e312d080 sha1 24eea718aa1914b87145da9990cb833b9621576c )
+	rom ( name 5280 size 2048 crc 583af1ff sha1 64259e955a04ee44d716870864f86011a709f2db )
+	rom ( name 5281 size 2048 crc 7b5c820c sha1 ddac82cea4d795011bd48d15bc6e2a0ee864429f )
+	rom ( name 5279 size 512 crc 8716aeb5 sha1 9a8bf599d025d039b12bc616850386f280b4df11 )
+	rom ( name pr-5278.bin size 256 crc e81613da sha1 fc32141f7c0c8c0c1ed623636af3862a4ef0e940 )
+	rom ( name pr-5277.bin size 256 crc bf2c33ab sha1 4a83b3e9b74b900621e8f42edf94cc04b791cdd0 )
+	rom ( name pr-5276.bin size 32 crc 91267e8a sha1 ae5bd8efea5322c4d9986d06680a781392f9a642 )
+	rom ( name pr-5275.bin size 32 crc 0c872a9b sha1 eaabce5d867a4e896bd356abc94429f9a4eec372 )
+)
+
+game (
+	name badlandh
+	description "Badlands (Hitachi)"
+	year 1984
+	manufacturer "Konami (USA) / Centuri, United Artists (USA)"
+	rom ( name bl_hit_7a.bin size 8192 crc a135e444 sha1 7ef5394c698a5867aef200f577b8708df455b653 )
+	rom ( name bl_hit_6a.bin size 8192 crc 4c287f37 )
+	rom ( name bl_hit_9c.bin size 8192 crc 44c3441e sha1 6b42961d31e5d025758cdfdc573648a83004577d )
+	rom ( name bl_hit_4f.bin size 32 crc 0226f881 )
+)
+
+game (
+	name cobra
+	description "Cobra Command (Dedicated)"
+	year 1984
+	manufacturer "Data East (USA)"
+	rom ( name au03-2 size 8192 crc 8f0a8fba sha1 8e11d2bd665a5ca6b3bb11aa2b707458c1534327 )
+	rom ( name au02-2 size 8192 crc 7db11acf sha1 1eebae0741f5735bc8966f3c31a9c07dac2e3916 )
+	rom ( name au01-2 size 8192 crc 523dd8f6 sha1 47bd4c9b2272e9a710e6e97f2505075df68101ed )
+	rom ( name au00-2 size 8192 crc 6c0f1f16 sha1 ed05d3eaa24e84b1dfb4e1eb5f69b23e4a1494ba )
+	rom ( name au0c size 8192 crc d00a2762 sha1 84d4329b39b9fd30682b7efa5cb2744934c5ee5c )
+	rom ( name au0b size 8192 crc 92247877 sha1 f9bb0c20212ab13caabfb5beb9b6afc807bc9555 )
+	rom ( name au0a size 8192 crc 6aaedcf3 sha1 52dc913eecf8a159784d500217cffd7a6d8eb45c )
+	rom ( name au09 size 8192 crc 74e93394 sha1 7a1470cf2008b1bef8d950939b758707297b3655 )
+	rom ( name au08 size 8192 crc 63158274 sha1 c728e8ba0a11ea67cf508877ad74a3aab9ef26fc )
+	rom ( name au07 size 8192 crc d4bf12a5 sha1 e172f69ae02ac2670b70af0cfcf3887dd99c2761 )
+)
+
+game (
+	name roadblaster
+	description "Road Blaster"
+	year 1985
+	manufacturer "Data East (USA)"
+	rom ( name 01.bin size 8192 crc e4733c49 sha1 357f46a80273f8a365d16cddf5e2caaeeacaf4ad )
+	rom ( name 00.bin size 8192 crc 084d6ae2 sha1 f49eb2d53bad5af88a12535ba628c9decce690ff )
+	rom ( name 08.bin size 8192 crc 4608b516 sha1 44af4be84a0b807ea0813ce86376a4b6fd927e5a )
+	rom ( name 07.bin size 8192 crc da2c84d9 sha1 3452b0e2a45fa771e226c3a3668afbf3ceb0ec11 )
+	rom ( name 06.bin size 8192 crc d1ff5ffb sha1 29df207e225e3b0477d5566d256198310d6ae526 )
+	rom ( name 05.bin size 8192 crc 4608b516 sha1 44af4be84a0b807ea0813ce86376a4b6fd927e5a )
+	rom ( name 04.bin size 8192 crc da2c84d9 sha1 3452b0e2a45fa771e226c3a3668afbf3ceb0ec11 )
+	rom ( name 03.bin size 8192 crc d1ff5ffb sha1 29df207e225e3b0477d5566d256198310d6ae526 )
+)
+
+game (
+	name cobraconv
+	description "Cobra Command (Conversion)"
+	year 1984
+	manufacturer "Data East USA"
+	rom ( name bd00 size 8192 crc 8d9ad777 sha1 10914251350988a82c0cfa1dc6e22587b885cc71 )
+	rom ( name bd01 size 8192 crc 1b4db507 sha1 c58021cb7dcbcb159d9bb24d231755b3d07aa74a )
+	rom ( name bd02 size 8192 crc 3d802707 sha1 89033b2f9b295b74b6b5034c837509377f5aba62 )
+	rom ( name bd03 size 8192 crc f1b9df77 sha1 7fcc613463441f69e4336c12252a616508c296d1 )
+	rom ( name bd06 size 8192 crc b1340125 sha1 eef325c56d3a441432c7d31ea1dadfaa0c871c10 )
+	rom ( name bd05 size 8192 crc 98412178 sha1 20e93f377a0d572a6752d7435aa4d0a3feec0e92 )
+	rom ( name bd04 size 8192 crc 33013cc2 sha1 380ca35a891805e2aa1d35000a3770483aaedbfc )
+	rom ( name vd0-c.bpr size 32 crc 02c27aa0 sha1 e7b814aabbfbcd992f78254b29b6ab6fa8115429 )
+	rom ( name vd0-t.bpr size 32 crc 78449942 sha1 584e25f7bffccd943c4db1edf05552f7989e08a4 )
+	rom ( name lp4-2.pld size 554 crc 4bc65ab0 sha1 a33bbac1b3a78de9d4150ac9d383644116c49ec7 )
+)
+
+game (
+	name cputest
+	description "CPU Test"
+	year 2001
+	manufacturer "Daphne Team"
+	rom ( name savage.com size 14080 crc c8d0edf6 sha1 f82df7047011c08e8fa9c355e82d8720f892cbab )
+	rom ( name zexall.com size 8704 crc ecf70fd6 sha1 1dbdf5c84c262e83cafacd26db787fba68b9605d )
+)
+
+game (
+	name firefox
+	description "Firefox"
+	year 1983
+	manufacturer "Atari (USA)"
+	rom ( name 136026.109 size 16384 crc 7639270c sha1 1b8f53c516d26aecb4478ac99783a37e5b1a107f )
+	rom ( name 136026.110 size 16384 crc f3102944 sha1 460f18180b19b6360c99c7e70f86d745f69ba95d )
+	rom ( name 136026.111 size 16384 crc 8a230bb5 sha1 0cfa1e981e4a8ccaf5903b4e761a2085b5a56181 )
+	rom ( name 136026.101 size 16384 crc 91bba45a sha1 d584a8f60bbbdbe250978b7aeb3f5e7698f94d60 )
+	rom ( name 136026.102 size 16384 crc 5f1e423d sha1 c55c27600877272c1ca94eab75c1eb25ff84d36f )
+	rom ( name 136026.105 size 16384 crc 83f1d4ed sha1 ed4b22b3473f16cbcca1415f6d81be558ab10ff3 )
+	rom ( name 136026.106 size 16384 crc c5d8d417 sha1 6a29595b2c091bbcf413c7213c6577eaf9c507d1 )
+	rom ( name 136026.125 size 8192 crc 8a32f9f1 sha1 f899174f55cd4a24a3be4a0f4bb44d3e8e938586 )
+)
+
+game (
+	name firefoxa
+	description "Firefox (Alternate)"
+	year 1983
+	manufacturer "Atari (USA)"
+	rom ( name 136026.209 size 16384 crc 9f559f1b sha1 142d14cb5158ea77f6fc6d9bf0ce723842f345e2 )
+	rom ( name 136026.210 size 16384 crc d769b40d sha1 2d354649a381f3399cb0161267bd1c36a8f2bb4b )
+	rom ( name 136026.211 size 16384 crc 7293ab03 sha1 73d0d173da295ad59e431bab0a9814a71146cbc2 )
+	rom ( name 136026.201 size 16384 crc c118547a sha1 4d3502cbde3116588ed944bf1750bab50e4c813c )
+	rom ( name 136026.205 size 16384 crc dc21677f sha1 576a96c1e07e1362a0a367e76dc369ee8a950144 )
+	rom ( name 136026.127 size 8192 crc c0c765ab sha1 79f6c8c1d00684d7143b2d33a5669bdf5cd01e96 )
+	rom ( name 136026.125 size 8192 crc 8a32f9f1 sha1 f899174f55cd4a24a3be4a0f4bb44d3e8e938586 )
+)
+
+game (
+	name gpworld
+	description "GP World"
+	year 1984
+	manufacturer "Sega (Japan)"
+	rom ( name gpw_6162a.bin size 16384 crc 70e42574 sha1 2fa50c7a67a2efb6b2c313850ace40e42d18b0a8 )
+	rom ( name gpw_6163.bin size 16384 crc 49539e46 sha1 7cfd5b6b356c3fa5439e6fe3ac2e6a097b722a2c )
+	rom ( name gpw_6164.bin size 16384 crc 7f0e6853 sha1 c255ac6e4b61faa8da9b5aa70f12c868b81acfe1 )
+	rom ( name gpw_6148.bin size 4096 crc a4b11cf5 sha1 9697494335089b13071d773812eec373ef5b358c )
+	rom ( name gpw_6149.bin size 16384 crc 7e6c4797 sha1 acf934e1f3f55a0d1cd1630f6a78f9954f1ec53f )
+	rom ( name gpw_6150.bin size 16384 crc 6837e095 sha1 b2ac8341fcf0037d186b0759227597643ca0336d )
+	rom ( name gpw_6151.bin size 16384 crc 26d72b96 sha1 759ef85877edfc37f2a1a242bf1c9b0e8d5e9a88 )
+	rom ( name gpw_6152.bin size 16384 crc 86939fe2 sha1 07527297262297562e052672976fd6f7124f5c7b )
+	rom ( name gpw_6153.bin size 16384 crc f52b7c1b sha1 326c6b46e85ab12b43ae2b6b7a49055fe5c31431 )
+	rom ( name gpw_6154.bin size 16384 crc bbf5d7db sha1 3dc50fa0dfe285cc741d9d6b9bac4a0ff6e3877f )
+	rom ( name gpw_6155.bin size 16384 crc a020bd03 sha1 13cd81dc2df185d9ec989e69261d275b46e44075 )
+	rom ( name gpw_6156.bin size 16384 crc 2c03c64c sha1 fa31e49385e004b6fb81c8d54cc6b64dfe1358d2 )
+	rom ( name gpw_6157.bin size 16384 crc cdd31036 sha1 722d843a1c524b0a689ab73bb7367c4ca33fc983 )
+	rom ( name gpw_6158.bin size 16384 crc d15ac707 sha1 170e0a851c3e845330f776a53ca619d16d025dd7 )
+	rom ( name gpw_6146.bin size 32 crc d10801a0 sha1 89e9ac0d9c9eee6efd5455a3416c436ceda8f632 )
+	rom ( name gpw_6147.bin size 256 crc b7173df9 sha1 044beda43cb1793033021a08b3ee3441d5ffe6c3 )
+	rom ( name gpw_5501.bin size 256 crc 1bdf71d4 sha1 ac52e948cce6df4abb7543c08e2c6454efd63e79 )
+)
+
+game (
+	name interstellar
+	description "Interstella"
+	year 1983
+	manufacturer "Funai / Gakken (USA)"
+	rom ( name rom2.top size 8192 crc 5d643381 sha1 75ca52c28a52f534eda00c18b0db97e9923ff670 )
+	rom ( name rom3.top size 8192 crc ce5a2b09 sha1 2de6a6e993c3411577ac0c834db8aaf16fb007ed )
+	rom ( name rom4.top size 8192 crc 7c2cb1f1 sha1 ffd92510c03c2d35a59d233883c2b9f57394a51c )
+	rom ( name rom5.top size 8192 crc 354377f6 sha1 bcf95b7ee1b47854e10baf24b0d8af3d56738b99 )
+	rom ( name rom6.top size 8192 crc 0319bf40 sha1 f324626e457c3eb7d6b74bc6afbfcc3aab2b3c72 )
+	rom ( name rom1.top size 8192 crc 4f34fb1d sha1 56ca19344c84c5989d0be797e2759f84760310be )
+	rom ( name rom11.bot size 8192 crc 165cbc57 sha1 39463888f22ec3125f0686066d923a9aae79a8f7 )
+	rom ( name rom7.bot size 8192 crc 1447ce3a sha1 8545cec108df6adab303802b1407c89b2dceba21 )
+	rom ( name rom8.bot size 8192 crc e9c9e490 sha1 79aa35552b984018bc723adece5c40a0833a313c )
+	rom ( name rom9.bot size 8192 crc 9d79acb6 sha1 72af972695face0016afce8a26c629d963e86d48 )
+	rom ( name red6b.bot size 256 crc 5c52f844 sha1 a8a3d91f3247ad13c805d8d8288b07f3cdaf1189 )
+	rom ( name green6c.bot size 256 crc 7d8c845c sha1 04ae2ca0cc6679e21346ce34e9e01aa5bf4e2067 )
+	rom ( name blue6d.bot size 256 crc 5ebb81f9 sha1 285d60f2894c524ca80fc68ad7c2dfd9093a67ea )
+)
+
+game (
+	name dle21
+	description "Dragon's Lair (US enhancement 2.1)"
+	year 1983
+	manufacturer "Cinematronics"
+	rom ( name dle21_u1.bin size 8192 crc 4f8af481 sha1 92850e88f2ea8f578d1f3072b9d1cbc3b1e8578e )
+	rom ( name dle21_u2.bin size 8192 crc 5fca04c5 sha1 52af3ff1e02e7c378a42320aa21e17fa9e89a159 )
+	rom ( name dle21_u3.bin size 8192 crc c14f36b3 sha1 38be8da57c4af6a6ce24add4340a62096adbb5b7 )
+	rom ( name readme21.txt size 21024 crc a68f0d21 sha1 ee127299f24df1a6519a0fd02e6efeed998d52fd )
+)
+
+game (
+	name lair2_211
+	description "Dragon's Lair II (Rev v2.11)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_211.bin size 65536 crc 9f2660a3 sha1 bf35356aab0138f86e6ea18c7bcf4f3f3c428d98 )
+)
+
+game (
+	name lair2_300
+	description "Dragon's Lair II (Rev v3.00)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_300.bin size 65536 crc dec4f2e3 sha1 fd96378c78df4aacd4b2190823ec5c1591199d44 )
+)
+
+game (
+	name lair2_314
+	description "Dragon's Lair II (Rev v3.14)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_314.bin size 65536 crc af92b612 sha1 a0b986fa8a0f2206beedf1dcaed4d108599947ff )
+)
+
+game (
+	name lair2_315
+	description "Dragon's Lair II (Rev v3.15)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_315.bin size 65536 crc 13ec0600 sha1 9366dfac4508c4a723d688016b8cddb57aa6f5f1 )
+)
+
+game (
+	name lair2_317
+	description "Dragon's Lair II (Rev v3.17)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_317.bin size 65536 crc e9453a1b sha1 eb1201abd0124f6edbabd49bec81af827369cb2c )
+)
+
+game (
+	name lair2_318
+	description "Dragon's Lair II (Rev v3.18)"
+	year 1991
+	manufacturer "Leland (USA)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_318.bin size 65536 crc 64706492 sha1 99c92572c59ce1206847a5363d3791196fccd742 )
+)
+
+game (
+	name lair2
+	description "Dragon's Lair II (Rev v3.19)"
+	year 1991
+	manufacturer "Leland (USA)"
+	rom ( name dl2_319.bin size 65536 crc e9453a1b sha1 eb1201abd0124f6edbabd49bec81af827369cb2c )
+)
+
+game (
+	name lair2_316e
+	description "Dragon's Lair II (Rev v3.16, Europe)"
+	year 1992
+	manufacturer "Atari (Europe)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_316e.bin size 65536 crc d68f1b13 sha1 cc9ee307b4d3caba049be6226163c810cf89ab44 )
+)
+
+game (
+	name lair2_319e
+	description "Dragon's Lair II (Rev v3.19, Europe)"
+	year 1992
+	manufacturer "Atari (Europe)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_319e.bin size 65536 crc cc23ad9f sha1 24add8f03749dcc27b1b166dc2e5d346534a0088 )
+)
+
+game (
+	name lair2_319es
+	description "Dragon's Lair II (Rev v3.19, Spanish)"
+	year 1992
+	manufacturer "Atari (Spanish)"
+	cloneof lair2
+	romof lair2
+	rom ( name dl2_319es.bin size 65536 crc 4b9a811d sha1 6fe580f541305422f89edbbf475f7c5f17153738 )
+)
+
+game (
+	name lgp
+	description "Laser Grand Prix"
+	year 1983
+	manufacturer "Taito (USA)"
+	rom ( name a02_01.bin size 8192 crc 088ca6e1 sha1 b3f0869b0c333d991363ac46a1c53daa3f6c85e9 )
+	rom ( name a02_02.bin size 8192 crc 8e1be578 sha1 cfad7cb72c7d13b2b614680bccc6f807521f3bf4 )
+	rom ( name a02_03.bin size 8192 crc 4978953a sha1 eec6596430238ffffb0d173852bdd7f11c60e9b2 )
+	rom ( name a02_04.bin size 8192 crc 903d0ae2 sha1 bd04182dd77eb5a4ef28d7127f631689b6695e17 )
+	rom ( name a02_14.bin size 16384 crc 28996b3c sha1 664aa4d2582784bb7c56cfb8883294578fe18dd9 )
+	rom ( name a02_15.bin size 16384 crc 6b7abbb2 sha1 890777d99b646147359d09e42692a272e570113c )
+	rom ( name a02_16.bin size 16384 crc aad4fb3c sha1 2cd4a331a8e0f010d60b594655361776fa24255f )
+	rom ( name a02_17.bin size 16384 crc db8b9723 sha1 1319a3f35dffdcf65fe7496cfabaf5787989d0bc )
+)
+
+game (
+	name cobram3
+	description "Cobra Command (M.A.C.H. 3 Hardware)"
+	year 1984
+	manufacturer "Data East USA"
+	rom ( name bh03 size 8192 crc 755cbbf5 sha1 e3ea146f8c344af1e9bf51548ae4902cb09e589a )
+	rom ( name bh02 size 8192 crc 928ef670 sha1 6f56454aaf76418ae94da2bd16b4e8309aca29a6 )
+	rom ( name bh01 size 8192 crc 7d86ab08 sha1 26b7eb089ca3fe3f8b1531316ce8f95e33b380e5 )
+	rom ( name bh00 size 8192 crc c19ad038 sha1 4d20ae70d8ad1eaa61cb91d7a0cff6932fce30d2 )
+	rom ( name bh05 size 8192 crc d8f49994 sha1 0631457264ff7f8d5fb1edc2c0211992a67c73e6 )
+	rom ( name bh08 size 8192 crc d6439e2f sha1 84a6e574f76313ce065d8765f21bdda8fe5a9a7b )
+	rom ( name bh07 size 8192 crc f94668d2 sha1 b5c3a54cf80097ac447a8140bd5877a66712e240 )
+	rom ( name bh06 size 8192 crc ab6c7cf1 sha1 3625f2e00a333552036bff99af25edeac5915d78 )
+	rom ( name bh09 size 4096 crc 8c5dfac0 sha1 5be28f807c4eb9df76a8f7519086ae57953d8c6f )
+	rom ( name bh0a size 4096 crc 8b8da8dc sha1 9f03ac0e6b6396cd44843ea394d55d79848d6a27 )
+)
+
+game (
+	name uvt
+	description "Us vs. Them"
+	year 1983
+	manufacturer "Mylstar (USA)"
+	rom ( name usvs.rm4 size 8192 crc 0d7a4072 sha1 84a7eec31037243185ab40ab269be0f83946ebd5 )
+	rom ( name usvs.rm3 size 8192 crc 6f32a671 sha1 d54c1e09988f78ea706b4b0da675b27d9d407696 )
+	rom ( name usvs.rm2 size 8192 crc 36770716 sha1 797b48ef48f563ed21ea263297fe0ed61c69f41e )
+	rom ( name usvs.rm1 size 8192 crc 697bc989 sha1 ebfc0868f949e5aba1efb8fbce06f795888d8e00 )
+	rom ( name usvs.rm0 size 8192 crc 30cf6bd9 sha1 527ad3b96ea4a77f6d6f8a89a9215da490292297 )
+	rom ( name usvs.fg3 size 16384 crc 98703015 sha1 120e87ef640db3f23c1d2c0abf4b6acff7714512 )
+	rom ( name usvs.fg2 size 16384 crc d3990707 sha1 81d58f6bc6ec04b95036f81c4cd3516d0adf348e )
+	rom ( name usvs.fg1 size 16384 crc a2057430 sha1 e24aa35cb27fa41b75f5c01f4c083dc6eeb04c0d )
+	rom ( name usvs.fg0 size 16384 crc 7734e53f sha1 c1307596ba098c98e741f3c00686b514587e1d0a )
+	rom ( name usvs.bg0 size 4096 crc 8a0de09f sha1 6b56ffbe8569625ff307510645683b4e3f04e753 )
+	rom ( name usvs.bg1 size 4096 crc 6fb64d3c sha1 0cf0fd60995e56eddc56c7fac6280abe3b87dbc9 )
+)
+
+game (
+	name multicputest
+	description "Multi-CPU Test"
+	year 2001
+	manufacturer "Daphne Team"
+	cloneof cputest
+	romof cputest
+	rom ( name prog1.bin size 113 crc aefca341 sha1 851e5447630d9731f461003e97580696e93eae24 )
+	rom ( name prog2.bin size 113 crc 0c6c8ce9 sha1 1b962199ae130c2c6f83de5ae92f88342b987f43 )
+)
+
+game (
+	name sdqshortalt
+	description "Super Don Quix-ote (Shorter Scenes, Alternate)"
+	year 1984
+	manufacturer "Universal (USA)"
+	rom ( name sdq_c45alt.rom size 16384 crc b12ce1f8 sha1 3f0238ea73a6d3e1fe62f83ed3343ca4c268bdd6 )
+	rom ( name sdq-char.bin size 8192 crc 5fb0e440 sha1 267413aeb36b661458b7229d65d7b1d03562a1d3 )
+	rom ( name sdq-cprm.bin size 32 crc 96701569 sha1 b0f40373735d1af0c62e5ab06045a064b4eb1794 )
+)
+
+game (
+	name tqalt
+	description "Thayer's Quest (Alternate)"
+	year 1983
+	manufacturer "RDI Video Systems (USA)"
+	cloneof tq
+	rom ( name tq_u33.bin size 32768 crc 82df5d89 sha1 58dfd62bf8c5a55d1eba397d2c284e99a4685a3f )
+	rom ( name thayers.u1 size 8192 crc 33817e25 sha1 f9750da863dd57fe2f5b6e8fce9c6695dc5c9adc )
+	rom ( name tq_cop.bin size 1024 crc 6748e6b3 sha1 5d7d1ecb57c1501ef6a2d9691eecc9970586606b )
+)
+
+game (
+	name tqhack
+	description "Thayer's Quest (Swearing)"
+	year 1983
+	manufacturer "Hack"
+	cloneof tq
+	rom ( name tq_u33_mod.bin size 32768 crc 7be981df sha1 d7d90ae2e9aea730d9cb88cc5b0518a992214a10 )
+	rom ( name tq_u1.bin size 8192 crc e8e7f566 sha1 df7b83ef465c65446c8418bc6007447693b75021 )
+	rom ( name tq_cop.bin size 1024 crc 6748e6b3 sha1 5d7d1ecb57c1501ef6a2d9691eecc9970586606b )
+)
+
+game (
+	name timetrav
+	description "Time Traveler"
+	year 1991
+	manufacturer "Sega (USA)"
+	rom ( name tt061891.bin size 262144 crc a3d44219 sha1 7c5003b6d3df1e472db45abd725e7d3d43f0dfb4 )
+)
+
+################################################################################
+# Sega System C2 Games
+################################################################################
+
+game (
+	name spainpa
+	description "SpainDumps Dump of Puzzle & Action - Bad Dump"
+	cloneof tantr
+	romof tantr
+	rom ( name pa_1.bin size 262144 crc 2df4d58a )
+	rom ( name pa_2.bin size 262144 crc 1feebeb3 )
+	rom ( name pa_3.bin size 262144 crc 54c3afcf )
+	rom ( name pa_4.bin size 262144 crc 5bab3b24 )
+)
+
+################################################################################
+# SNAME Games
+################################################################################
+
+game (
+	name monaco
+	description "Monaco GP"
+	year 1979
+	manufacturer "Sega"
+	rom ( name pr125 size 512 crc 7a66ed4c region gfx1 offs 0 )
+	rom ( name pr126 size 512 crc 5d7a8f12 region gfx1 offs 200 )
+	rom ( name pr127 size 512 crc 8ffdc2f0 region gfx1 offs 400 )
+	rom ( name pr128 size 512 crc dde29dea region gfx1 offs 600 )
+	rom ( name pr129 size 512 crc 7b18af26 region gfx1 offs 800 )
+	rom ( name pr130 size 512 crc 9ef1913b region gfx1 offs a00 )
+	rom ( name pr131 size 512 crc ff31eb01 region gfx1 offs c00 )
+	rom ( name pr132 size 512 crc 6b8ad9bc region gfx1 offs e00 )
+	rom ( name pr133 size 512 crc d50641d9 region gfx1 offs 1000 )
+	rom ( name pr134 size 512 crc 8ebd50bb region gfx1 offs 1200 )
+	rom ( name pr135 size 512 crc 986eda32 region gfx1 offs 1400 )
+	rom ( name pr136 size 512 crc ecc5d1a2 region gfx1 offs 1600 )
+	rom ( name pr137 size 512 crc ddd9004e region gfx1 offs 1800 )
+	rom ( name pr138 size 512 crc 058e53cf region gfx1 offs 1a00 )
+	rom ( name pr139 size 512 crc e8ba0794 region gfx1 offs 1c00 )
+	rom ( name pr140 size 512 crc 48e9971b region gfx1 offs 1e00 )
+	rom ( name pr141 size 512 crc 99934236 region gfx1 offs 2000 )
+	rom ( name prm38 size 32 crc 82dd0a0f region proms offs 0 )
+	rom ( name prm39 size 32 crc 6acfa0da region proms offs 20 )
+	sample 6car1.wav
+	sample 6car2.wav
+	sample 6crash.wav
+	sample 6engine.wav
+	sample 6extend.wav
+	sample 6fanfare.wav
+	sample 6siren.wav
+	sample 6slip.wav
+	chip ( type cpu name Z80 clock 200 )
+	chip ( type audio name Samples )
+	video ( screen raster orientation vertical x 240 y 384 colors 1024 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 1 control joy8way buttons 2 coins 1 )
+)
+
+game (
+	name pong
+	description "Pong"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
+
+game (
+	name pongdbls
+	description "Pong (Doubles)"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
+
+game (
+	name hockeytv
+	description "Hockey TV"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
+
+################################################################################
+# RAINE Games
+################################################################################
+
+game (
+	name mspac6m
+	description "Ms. Pac-Man 6 maps (hack)"
+	year 1981
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name 1.cpu size 4096 crc d16b31b7 sha1 bc2247ec946b639dd1f00bfc603fa157d0baaa97 )
+	rom ( name 2.cpu size 4096 crc 0d32de5e sha1 13ea0c343de072508908be885e6a2a217bbb3047 )
+	rom ( name 3.cpu size 4096 crc 513f4d5c sha1 ae011b89422bd8cbb80389814500bc1427f6ecb2 )
+	rom ( name 4.cpu size 4096 crc e21c81ff sha1 5a6ce8ee3059a31afbb9b8c1d0a1e37606d14a0a )
+	rom ( name 52.cpu size 4096 crc 48453707 sha1 3faf536de2e56770a99379849409eeea01b2d031 )
+	rom ( name 62.cpu size 4096 crc 2e961bc4 sha1 e29814151edde8a22e638a4a8edb9935e48d985b )
+	rom ( name 7.cpu size 2048 crc 2850148a sha1 4257a5dd4ad27d4a6bfae71bbe2564026bdaebb2 )
+	rom ( name 9.cpu size 2048 crc 6c3c6ebb sha1 3f19e9a20e202fda139324ef03991af99516aeef )
+	rom ( name 8.cpu size 2048 crc 5596b345 sha1 0320eb1f7e39dbd438be2f488f43f5b11e13f438 )
+	rom ( name 10.cpu size 2048 crc 50c7477d sha1 c04ec282a8cb528df5e38ad750d12ee71612695d )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	rom ( name pacplus.7f size 32 crc 063dd53a sha1 2e43b46ec3b101d1babab87cdaddfa944116ec06 )
+	rom ( name pacplus.4a size 256 crc e271a166 sha1 cf006536215a7a1d488eebc1d8a2e2a8134ce1a6 )
+)
+
+game (
+	name namcosil
+	description "Namco Pacman - Vertical tunnel edition!"
+	year 1998
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name namcopac.6e merge namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
+	rom ( name namcosil.6f size 4096 crc c5ec2352 sha1 86178b16dabb90005b132febc1a261651a73018d )
+	rom ( name namcopac.6h merge namcopac.6h size 4096 crc 02083b03 sha1 7e1945f6eb51f2e51806d0439f975f7a2889b9b8 )
+	rom ( name namcosil.6j size 4096 crc 57a07f6e sha1 8a7a1d4662e4fc5c5374ad1cad09fd4da1f8398a )
+	rom ( name pacman.5e merge pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+)
+
+game (
+	name pacman25
+	description "25 MAP PAC"
+	year 2004
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name namcopac.6e merge namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
+	rom ( name namcosil.6f size 4096 crc c5ec2352 sha1 86178b16dabb90005b132febc1a261651a73018d )
+	rom ( name pacman25.6h size 4096 crc 92cd89b9 sha1 c3a0141480341c550a889b58692c8c90b322ee67 )
+	rom ( name pacman25.6j size 4096 crc f7193845 sha1 6d190cf6e76520b8b8c97e6e3a817c4a142003ba )
+	rom ( name maps1.rom size 4096 crc 19a22304 sha1 6cc0e4921148b7a7eedf5d807bd63062b745e1c6 )
+	rom ( name maps2.rom size 4096 crc 7cdbd912 sha1 b19868bd5da3163e03320e6de0428b22b8e02d80 )
+	rom ( name maps3.rom size 4096 crc c626ea9c sha1 3cd3f20e002845937a43f323b685425c95881d9e )
+	rom ( name maps4.rom size 4096 crc f5ba954d sha1 eba18f9a7f6d50f167ed37bff0adec43f52b49a0 )
+	rom ( name pacman25.5e size 4096 crc 11d47ae1 sha1 fbd47432f258e56f1323766d5b2844f4a2e6e7ac )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+)
+
+game (
+	name pacman3d
+	description "Pacman 3D"
+	year 1998
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
+	rom ( name pacman3d.6f size 4096 crc 96364259 sha1 ec2f36a44fd0c13dfd7dc571b9499bc9dbaa247d )
+	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
+	rom ( name pacman3d.6j size 4096 crc 959e930e sha1 0ef24017be05ddf85248c4d00f0e21cbf658f78c )
+	rom ( name pacman3d.5e size 4096 crc aa203d45 sha1 7d2fb9bc8718601efc33d2469452a08018167e60 )
+	rom ( name pacman3d.5f size 4096 crc d1830540 sha1 5d276774997e3be8fc9c21d55562288acd1cffcc )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+)
+
+game (
+	name xenrev
+	description "Xen's Revenge (hack - hard!)"
+	year 1998
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
+	rom ( name xenrev.6j size 4096 crc 64a10b6c sha1 689be23289fb32f2bfa1392edaba9c6bfa5a82e7 )
+	rom ( name xenrev.5e size 4096 crc 40e3522d sha1 461d1895f82502538bf120a61a3950970f9f1b09 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+)
+
+game (
+	name f2demo
+	description "Demo Taito F2"
+	year 2000
+	manufacturer "Bootleg"
+	rom ( name lk_obj0.bin size 524288 crc 1bb8aa37 )
+	rom ( name lk_obj1.bin size 524288 crc 75660aac )
+	rom ( name lk_scr.bin size 524288 crc b178fb05 )
+	rom ( name lq09.bin size 131072 crc 809a968b )
+	rom ( name lq11.bin size 131072 crc 7ba3a5cb )
+	rom ( name lq10.bin size 131072 crc 7ee8cdcd )
+	rom ( name lq12.bin size 131072 crc 7ee8cdcd )
+)
+
+game (
+	name f3demo
+	description "F3 Demo by Antiriad"
+	manufacturer "Bootleg"
+	year 1999
+	rom ( name code.bin size 6476 crc32 08587aea )
+	archive ( name "f3demo" )
+	video ( screen raster orientation undefined x 320 y 224 freq 60 )
+)
+
+game (
+	name heavyunt
+	description "Heavy Unit"
+	manufacturer "Kaneko"
+	year 1988
+	board "B73"
+	rom ( name b73.01 size 65536 crc32 3a8a4489 )
+	rom ( name b73.02 size 65536 crc32 025c536c )
+	rom ( name b73.03 size 65536 crc32 ec6020cf )
+	rom ( name b73.04 size 65536 crc32 f7badbb2 )
+	rom ( name b73.05 size 65536 crc32 b8e829d2 )
+	rom ( name b73.06 size 65536 crc32 a98e4aea )
+	rom ( name b73.07 size 65536 crc32 5cffa42c )
+	rom ( name b73.08 size 524288 crc32 f83dd808 )
+	rom ( name b73.09 size 524288 crc32 537c647f )
+	rom ( name b73.12 size 65536 crc32 d1d24fab )
+	rom ( name b73.13 size 131072 crc32 e2874601 )
+	rom ( name b73.14 size 65536 crc32 0dfb51d4 )
+	archive ( name "heavy_unit" name "heavyunt" )
+	chip ( type audio name ym2203 )
+	video ( screen raster orientation undefined x 256 y 224 freq 60 )
+)
+
+game (
+	name recordb2
+	description "Record Breaker"
+	manufacturer "Taito"
+	year 1988
+	board "B56"
+	rom ( name b56-01.rom size 131072 crc32 766b7260 )
+	rom ( name b56-02.rom size 131072 crc32 c9566226 )
+	rom ( name b56-03.rom size 131072 crc32 dafb6836 )
+	rom ( name b56-04.rom size 131072 crc32 deee08fd )
+	rom ( name b56-05.rom size 131072 crc32 ed390378 )
+	rom ( name b56-06.rom size 131072 crc32 51f70ab0 )
+	rom ( name b56-07.rom size 131072 crc32 82c2856f )
+	rom ( name b56-08.rom size 131072 crc32 0f5383b5 )
+	rom ( name b56-09.rom size 524288 crc32 7fd9ee68 )
+	rom ( name b56-10.rom size 524288 crc32 de1bce59 )
+	rom ( name b56-15.rom size 131072 crc32 b346e282 )
+	rom ( name b56-16.rom size 131072 crc32 b447f12c )
+	rom ( name b56-17.rom size 131072 crc32 3e0a9c35 )
+	rom ( name b56-19.rom size 65536 crc32 c68085ee )
+	rom ( name b56-21.rom size 131072 crc32 e5f63790 )
+	archive ( name "record_breaker" name "recordbr" )
+	chip ( type audio name ym2610 )
+	input ( dipswitches 2 )
+	video ( screen raster orientation undefined x 320 y 240 freq 60 )
+)
+
+################################################################################
+# Ex-MAME
+################################################################################
+
+game (
+	name mranger
+	description "Moon Ranger"
+	year 1982
+	manufacturer "bootleg"
+	cloneof mpatrol
+	romof mpatrol
+	rom ( name mp-a.3m merge mp-a.3m size 4096 crc 5873a860 region cpu1 offs 0 )
+	rom ( name mr-a.3l size 4096 crc 217dd431 region cpu1 offs 1000 )
+	rom ( name mr-a.3k size 4096 crc 9f0af7b2 region cpu1 offs 2000 )
+	rom ( name mr-a.3j size 4096 crc 7fe8e2cd region cpu1 offs 3000 )
+	rom ( name mp-snd.1a merge mp-snd.1a size 4096 crc 561d3108 region cpu2 offs f000 )
+	rom ( name mp-e.3e merge mp-e.3e size 4096 crc e3ee7f75 region gfx1 flags dispose offs 0 )
+	rom ( name mp-e.3f merge mp-e.3f size 4096 crc cca6d023 region gfx1 flags dispose offs 1000 )
+	rom ( name mp-b.3m merge mp-b.3m size 4096 crc 707ace5e region gfx2 flags dispose offs 0 )
+	rom ( name mp-b.3n merge mp-b.3n size 4096 crc 9b72133a region gfx2 flags dispose offs 1000 )
+	rom ( name mp-e.3l merge mp-e.3l size 4096 crc c46a7f72 region gfx3 flags dispose offs 0 )
+	rom ( name mp-e.3k merge mp-e.3k size 4096 crc c7aa1fb0 region gfx4 flags dispose offs 0 )
+	rom ( name mp-e.3h merge mp-e.3h size 4096 crc a0919392 region gfx5 flags dispose offs 0 )
+	rom ( name 2a merge 2a size 256 crc 0f193a50 region proms offs 0 )
+	rom ( name 1m merge 1m size 32 crc 6a57eff2 region proms offs 100 )
+	rom ( name 1c1j merge 1c1j size 32 crc 26979b13 region proms offs 120 )
+	rom ( name 2hx merge 2hx size 256 crc 7ae4cd97 region proms offs 140 )
+	chip ( type cpu name Z80 clock 3072000 )
+	chip ( type cpu flags audio name M6803 clock 894886 )
+	chip ( type audio name AY-8910 clock 894886 )
+	chip ( type audio name AY-8910 clock 894886 )
+	chip ( type audio name MSM5205 clock 384000 )
+	chip ( type audio name MSM5205 clock 384000 )
+	video ( screen raster orientation horizontal x 240 y 248 colors 192 freq 57.000000 )
+	sound ( channels 1 )
+	input ( players 2 control joy8way buttons 2 coins 3 )
+	dipswitch ( name "Lives" entry "1" entry "2" entry "3" entry "5" default "3" )
+	dipswitch ( name "Bonus Life" entry "10000 30000 50000" entry "20000 40000 60000" entry "10000" entry "None" default "10000 30000 50000" )
+	dipswitch ( name "Flip Screen" entry "Off" entry "On" default "Off" )
+	dipswitch ( name "Cabinet" entry "Upright" entry "Cocktail" default "Upright" )
+	dipswitch ( name "Coin Mode" entry "Mode 1" entry "Mode 2" default "Mode 1" )
+	dipswitch ( name "Unknown" entry "Off" entry "On" default "Off" )
+	dipswitch ( name "Stop Mode" )
+	dipswitch ( name "Sector Selection" )
+	dipswitch ( name "Invulnerability" )
+	dipswitch ( name "Service Mode" )
+	dipswitch ( name "Coinage Mode 1" entry "7 Coins/1 Credit" entry "6 Coins/1 Credit" entry "5 Coins/1 Credit" entry "4 Coins/1 Credit" entry "3 Coins/1 Credit" entry "2 Coins/1 Credit" entry "1 Coin/1 Credit" entry "1 Coin/2 Credits" entry "1 Coin/3 Credits" entry "1 Coin/4 Credits" entry "1 Coin/5 Credits" entry "1 Coin/6 Credits" entry "1 Coin/7 Credits" entry "1 Coin/8 Credits" entry "Free Play" default "1 Coin/1 Credit" )
+	dipswitch ( name "Coin A  Mode 2" entry "3 Coins/1 Credit" entry "2 Coins/1 Credit" entry "1 Coin/1 Credit" entry "Free Play" default "1 Coin/1 Credit" )
+	dipswitch ( name "Coin B  Mode 2" entry "1 Coin/2 Credits" entry "1 Coin/3 Credits" entry "1 Coin/5 Credits" entry "1 Coin/6 Credits" default "1 Coin/2 Credits" )
+)
+

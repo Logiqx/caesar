@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="gareth_long">
+	<name>Gareth S Long</name>
+	<email>gatch@elecslns.demon.co.uk</email>
+	<emulator_links>
+		<emulator_link id="armmame" type="arm">&emulator_armmame;</emulator_link>
+	</emulator_links>
+</author>

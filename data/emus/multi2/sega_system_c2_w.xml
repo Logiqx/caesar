@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sega_system_c2_w" type="multi2" dat="dummy">
+	<name>Sega System C2 Emulator (Windows)</name>
+	<version>0.2b</version>
+	<date>17/09/2000</date>
+
+	<homepage>http://www.system16.com/pastorama/sc/</homepage>
+	<author_link id="neozeed">&author_neozeed;</author_link>
+
+	<emulates>Sega System C2 Games</emulates>
+	<comment>Windows port of the Sega C2 Emulator</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="c2emuw.zip">Windows Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

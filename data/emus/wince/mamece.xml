@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mamece" type="wince" dat="dummy">
+	<name>MameCE</name>
+	<version>1.03</version>
+	<date>15/05/2000</date>
+
+	<homepage status="bad">http://www.mamece.com/</homepage>
+	<author_link id="ben_cooley">&author_ben_cooley;</author_link>
+
+	<emulates>Emulates a subset of MAME games (mostly those games released before 1984)</emulates>
+	<comment>This CE port of MAME is based on the Win32 version of MAME. Written for the Cassiopeia E-10X series.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Buttons</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="MameCE003.zip">Emulator v1.03</file>
+		<file name="MameCESrc001.zip">Source for v0.01</file>
+	</files>
+
+	<relatives>
+		<hybrid_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+			<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		</hybrid_of>
+
+		<modified_versions>
+			<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
+		</modified_versions>
+	</relatives>	
+</emulator>

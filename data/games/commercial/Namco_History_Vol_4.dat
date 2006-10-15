@@ -1,0 +1,41 @@
+game (
+	name galaxian
+	description "Galaxian (Namco)"
+	year 1979
+	manufacturer "Namco"
+)
+
+game (
+	name galaga
+	description "Galaga (Namco)"
+	year 1981
+	manufacturer "Namco"
+)
+
+game (
+	name gaplus
+	description "Gaplus (set 1)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name warpwarp
+	description "Warp & Warp"
+	year 1981
+	manufacturer "Namco"
+)
+
+game (
+	name bosco
+	description "Bosconian (new version)"
+	year 1981
+	manufacturer "Namco"
+)
+
+game (
+	name kingball
+	description "King & Balloon (US)"
+	year 1980
+	manufacturer "Namco"
+)

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="joey">
+	<name>Joey</name>
+	<emulator_links>
+		<emulator_link id="joeys_phoenix" type="dreamcast">&emulator_joeys_phoenix;</emulator_link>
+	</emulator_links>
+</author>

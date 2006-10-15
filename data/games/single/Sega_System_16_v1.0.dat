@@ -1,0 +1,33 @@
+clrmamepro (
+	name "Sega System 16"
+	description "Sega System 16 v1.0"
+	category "Emulates Shinobi"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name shinobi
+	description "Shinobi (set 1)"
+	year 1987
+	manufacturer "Sega"
+	rom ( name shinobi.a1 size 65536 crc 343f4c46 sha1 2cf5d00462ad85ae9a2e16d59171c8ab85e10f49 )
+	rom ( name shinobi.a2 size 65536 crc 7961d07e sha1 38cbdab35f901532c0ad99ad0083513abd2ff182 )
+	rom ( name shinobi.a4 size 65536 crc b930399d sha1 955ff2948e1990463631b0bc5c7f5275384236cc )
+	rom ( name shinobi.a5 size 65536 crc 9d46e707 sha1 37ab25b3b37365c9f45837bfb6ec80652691dd4c )
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf sha1 ddfac640e442537acb015de8bb088659f5a217ee )
+	rom ( name shinobi.a8 size 32768 crc c8df8460 sha1 0aeb41a493df155edb5f600f53ec43b798927dff )
+	rom ( name shinobi.a9 size 32768 crc e5a4cf30 sha1 d1982da7a550c11ab2253f5d64ac6ab847da0a04 )
+	rom ( name shinobi.b1 size 65536 crc 611f413a sha1 180f83216e2dfbfd77b0fb3be83c3042954d12df )
+	rom ( name shinobi.b2 size 65536 crc 3c0797c0 sha1 df18c7987281bd9379026c6cf7f96f6ae49fd7f9 )
+	rom ( name shinobi.b3 size 65536 crc c29ac34e sha1 b5e9b8c3233a7d6797f91531a0d9123febcf1660 )
+	rom ( name shinobi.b4 size 65536 crc 41f41063 sha1 5cc461e9738dddf9eea06831fce3702d94674163 )
+	rom ( name shinobi.b5 size 65536 crc 5eb00fc1 sha1 97e02eee74f61fabcad2a9e24f1868cafaac1d51 )
+	rom ( name shinobi.b6 size 65536 crc 25307ef8 sha1 91ffbe436f80d583524ee113a8b7c0cf5d8ab286 )
+	rom ( name shinobi.b7 size 65536 crc 04a437f8 sha1 ea5fed64443236e3404fab243761e60e2e48c84c )
+	rom ( name shinobi.b8 size 65536 crc b6e1fd72 sha1 eb86e4bf880bd1a1d9bcab3f2f2e917bcaa06172 )
+	rom ( name shinobi.b9 size 65536 crc 5f62e163 sha1 03f008745a1af84142ada647acf3601049f43ad5 )
+	rom ( name shinobi.b10 size 65536 crc 75f8fbc9 sha1 29072edcd583af60ec66b4c8bb82b179a3751edf )
+	rom ( name shinobi.b11 size 65536 crc 06508bb9 sha1 57c9036123ec8e35d0275ab6eaff25a16aa203d4 )
+)
+

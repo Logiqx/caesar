@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="naughtyboy" type="single" dat="Naughty_Boy_Emulator_Beta_1.05">
+	<name>Naughty Boy Emulator</name>
+	<version>Beta 1.05</version>
+	<date>15/05/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="john_bugliarisi">&author_john_bugliarisi;</author_link>
+
+	<emulates>Naughty Boy (Cinematronics)</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="naughtyb.zip">Emulator</file>
+	</files>
+</emulator>

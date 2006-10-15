@@ -1,0 +1,230 @@
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 )
+	rom ( name invaders.g size 2048 crc 6bfaca4a )
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+	rom ( name invaders.e size 2048 crc 14e538b0 )
+)
+
+game (
+	name earthinv
+	description "Super Earth Invasion"
+	year 1980
+	manufacturer "bootleg"
+	rom ( name invaders.h size 2048 crc 58a750c8 )
+	rom ( name invaders.g size 2048 crc b91742f1 )
+	rom ( name invaders.f size 2048 crc 4acbbc60 )
+	rom ( name invaders.e size 2048 crc df397b12 )
+)
+
+game (
+	name spaceatt
+	description "Space Attack II"
+	year 1980
+	manufacturer "Zenitone-Microsec Ltd"
+	rom ( name spaceatt.h size 2048 crc a31d0756 )
+	rom ( name spaceatt.g size 2048 crc f41241f7 )
+	rom ( name spaceatt.f size 2048 crc 4c060223 )
+	rom ( name spaceatt.e size 2048 crc 7cf6f604 )
+)
+
+game (
+	name sinvemag
+	description "Super Invaders (EMAG)"
+	year ????
+	manufacturer "bootleg"
+	rom ( name sv0h.bin size 1024 crc 86bb8cb6 )
+	rom ( name emag_si.b size 1024 crc febe6d1a )
+	rom ( name emag_si.c size 1024 crc aafb24f7 )
+	rom ( name emag_si.d size 1024 crc 68c4b9da )
+	rom ( name emag_si.e size 1024 crc c4e80586 )
+	rom ( name emag_si.f size 1024 crc 077f5ef2 )
+)
+
+game (
+	name alieninv
+	description "Alien Invasion Part II"
+	year ????
+	manufacturer "bootleg"
+	rom ( name 1h.bin size 2048 crc c46df7f4 )
+	rom ( name 1g.bin size 2048 crc 4b1112d6 )
+	rom ( name 1f.bin size 2048 crc adca18a5 )
+	rom ( name 1e.bin size 2048 crc 0449cb52 )
+)
+
+game (
+	name sitv
+	description "Space Invaders (TV Version)"
+	year 1978
+	manufacturer "Taito"
+	rom ( name tv0h.s1 size 2048 crc fef18aad )
+	rom ( name tv02.rp1 size 2048 crc 3c759a90 )
+	rom ( name tv03.n1 size 2048 crc 0ad3657f )
+	rom ( name tv04.m1 size 2048 crc cd2c67f6 )
+)
+
+game (
+	name spceking
+	description "Space King"
+	year 1978
+	manufacturer "Leijac (Konami)"
+	rom ( name invaders.h size 2048 crc 734f5ad8 )
+	rom ( name spcekng2 size 2048 crc 96dcdd42 )
+	rom ( name spcekng3 size 2048 crc 95fc96ad )
+	rom ( name spcekng4 size 2048 crc 54170ada )
+)
+
+game (
+	name galxwars
+	description "Galaxy Wars"
+	year 1979
+	manufacturer "Taito"
+	rom ( name galxwars.0 size 1024 crc 608bfe7f )
+	rom ( name galxwars.1 size 1024 crc a810b258 )
+	rom ( name galxwars.2 size 1024 crc 74f31781 )
+	rom ( name galxwars.3 size 1024 crc c88f886c )
+	rom ( name galxwars.4 size 1024 crc ae4fe8fb )
+	rom ( name galxwars.5 size 1024 crc 37708a35 )
+)
+
+game (
+	name ozmawars
+	description "Ozma Wars"
+	year 1979
+	manufacturer "SNK"
+	rom ( name mw01 size 2048 crc 31f4397d )
+	rom ( name mw02 size 2048 crc d8e77c62 )
+	rom ( name mw03 size 2048 crc 3bfa418f )
+	rom ( name mw04 size 2048 crc e190ce6c )
+	rom ( name mw05 size 2048 crc 3bc7d4c7 )
+	rom ( name mw06 size 2048 crc 99ca2eae )
+)
+
+game (
+	name maze
+	description "Amazing Maze"
+	year 1976
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc f2860cff )
+	rom ( name invaders.g size 2048 crc 65fad839 )
+)
+
+game (
+	name ballbomb
+	description "Balloon Bomber"
+	year 1980
+	manufacturer "Taito"
+	rom ( name tn01 size 2048 crc 551585b5 )
+	rom ( name tn02 size 2048 crc 7e1f734f )
+	rom ( name tn03 size 2048 crc d93e20bc )
+	rom ( name tn04 size 2048 crc d0689a22 )
+	rom ( name tn05-1 size 2048 crc 5d5e94f1 )
+	rom ( name tn06 size 1024 crc 7ec554c4 )
+	rom ( name tn07 size 1024 crc deb0ac82 )
+)
+
+game (
+	name invrvnge
+	description "Invader's Revenge"
+	year ????
+	manufacturer "Zenitone Microsec"
+	rom ( name invaders.h size 2048 crc aca41bbb )
+	rom ( name invaders.g size 2048 crc cfe89dad )
+	rom ( name invaders.f size 2048 crc e350de2c )
+	rom ( name invaders.e size 2048 crc 1ec8dfc8 )
+)
+
+game (
+	name lrescue
+	description "Lunar Rescue"
+	year 1979
+	manufacturer "Taito"
+	rom ( name lrescue.1 size 2048 crc 2bbc4778 )
+	rom ( name lrescue.2 size 2048 crc 49e79706 )
+	rom ( name lrescue.3 size 2048 crc 1ac969be )
+	rom ( name lrescue.4 size 2048 crc 782fee3c )
+	rom ( name lrescue.5 size 2048 crc 58fde8bc )
+	rom ( name lrescue.6 size 2048 crc bfb0f65d )
+	rom ( name 7643-1.cpu size 1024 crc 8b2e38de )
+)
+
+game (
+	name lupin3
+	description "Lupin III"
+	year 1980
+	manufacturer "Taito"
+	rom ( name lp12.bin size 2048 crc 68a7f47a )
+	rom ( name lp13.bin size 2048 crc cae9a17b )
+	rom ( name lp14.bin size 2048 crc 3553b9e4 )
+	rom ( name lp15.bin size 2048 crc acbeef64 )
+	rom ( name lp16.bin size 2048 crc 19fcdc54 )
+	rom ( name lp17.bin size 2048 crc 66289ab2 )
+	rom ( name lp18.bin size 2048 crc 2f07b4ba )
+)
+
+game (
+	name polaris
+	description "Polaris (set 1)"
+	year 1980
+	manufacturer "Taito"
+	rom ( name ps-01 size 2048 crc c04ce5a9 )
+	rom ( name ps-09 size 2048 crc 9a5c8cb2 )
+	rom ( name ps-08 size 2048 crc 8680d7ea )
+	rom ( name ps-04 size 2048 crc 65694948 )
+	rom ( name ps-05 size 2048 crc 772e31f3 )
+	rom ( name ps-10 size 2048 crc 3df77bac )
+	rom ( name ps07 size 1024 crc 164aa05d )
+	rom ( name mb7052.2c size 256 crc 2953253b )
+)
+
+game (
+	name invadpt2
+	description "Space Invaders Part II (Taito)"
+	year 1980
+	manufacturer "Taito"
+	rom ( name pv.01 size 2048 crc 7288a511 )
+	rom ( name pv.02 size 2048 crc 097dd8d5 )
+	rom ( name pv.03 size 2048 crc 1766337e )
+	rom ( name pv.04 size 2048 crc 8f0e62e0 )
+	rom ( name pv.05 size 2048 crc 19b505e9 )
+	rom ( name pv06_1.bin size 1024 crc a732810b )
+	rom ( name pv07_2.bin size 1024 crc 2c5b91cb )
+)
+
+game (
+	name spclaser
+	description "Space Laser"
+	year 1980
+	manufacturer "Game Plan, Inc. (Taito)"
+	rom ( name la01 size 2048 crc bedc0078 )
+	rom ( name spcewarl.2 size 2048 crc 43bc65c5 )
+	rom ( name la03 size 2048 crc 1083e9cc )
+	rom ( name la04 size 2048 crc 5116b234 )
+)
+
+game (
+	name tornbase
+	description "Tornado Baseball"
+	year 1976
+	manufacturer "Midway"
+	rom ( name tb.h size 2048 crc 653f4797 )
+	rom ( name tb.g size 2048 crc b63dcdb3 sha1 bdaa0985bcb5257204ee10faa11a4e02a38b9ac5 )
+	rom ( name tb.f size 2048 crc 215e070c )
+)
+
+game (
+	name yosakdon
+	description "Yosaku To Donbee (bootleg)"
+	year 1979
+	manufacturer "bootleg"
+	rom ( name yd1.bin size 1024 crc 607899c9 )
+	rom ( name yd2.bin size 1024 crc 78336df4 )
+	rom ( name yd3.bin size 1024 crc c5af6d52 )
+	rom ( name yd4.bin size 1024 crc dca8064f )
+	rom ( name yd5.bin size 1024 crc 38804ff1 )
+	rom ( name yd6.bin size 1024 crc 988d2362 )
+	rom ( name yd7.bin size 1024 crc 2744e68b )
+)

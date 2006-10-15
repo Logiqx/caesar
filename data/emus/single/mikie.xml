@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mikie" type="single" dat="Mikie">
+	<name>Mikie</name>
+	<version>-</version>
+	<date>04/10/2002</date>
+
+	<homepage>http://bcz.emu-france.com/</homepage>
+	<author_link id="bruno_vedder">&author_bruno_vedder;</author_link>
+
+	<emulates>Mikie (Konami)</emulates>
+	<comment>Supports Mikie (US), Shinnyuushain Tooru-kun (JAP) and Mikie (High School Graffiti).</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="mikie.zip">Emulator</file>
+		<file name="mikie-src.zip">Source</file>
+	</files>
+</emulator>

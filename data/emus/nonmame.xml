@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="nonmame">
+	<title>Emulators supporting non-MAME games</title>
+	<comment>These emulators all support games that are currently unemulated by MAME. I have excluded the CPS Changer version of Street Fighter Zero because it is a home console and I have also excluded sound only emulation.</comment>
+	<emulator_links>
+		<emulator_link id="calice" type="multi">&emulator_calice;</emulator_link>
+		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="emulaser" type="multi">&emulator_emulaser;</emulator_link>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="snamew" type="multi">&emulator_snamew;</emulator_link>
+		<emulator_link id="viva_nonno" type="multi">&emulator_viva_nonno;</emulator_link>
+	</emulator_links>
+</emulator_contents>

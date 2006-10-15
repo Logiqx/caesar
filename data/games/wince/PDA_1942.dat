@@ -1,0 +1,6 @@
+game (
+	name 1942
+	description "1942 (set 1)"
+	year 1984
+	manufacturer "Capcom"
+)

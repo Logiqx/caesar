@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="kevin_brisley">
+	<name>Kevin Brisley</name>
+	<email>replay@icomm.ca</email>
+	<email>kevin@isgtec.com</email>
+	<emulator_links>
+		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="centimu" type="mac" dat="CentiMu_v1.0d6">
+	<name>CentiMu</name>
+	<version>1.0d6</version>
+	<date>17/09/2000</date>
+
+	<homepage>http://www.squirrelsw.com/cats/emulation.html</homepage>
+	<author_link id="nick_vellios">&author_nick_vellios;</author_link>
+
+	<emulates>Centipede (Atari)</emulates>
+	<comment>Written in REALbasic for the PPC</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="real_basic" type="compilers">&tool_real_basic;</tool_link>
+	</tool_links>
+
+	<platform>Mac</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>?</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="CentiMu_d6.sit">Emulator</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="centimupp" type="mac">&emulator_centimupp;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

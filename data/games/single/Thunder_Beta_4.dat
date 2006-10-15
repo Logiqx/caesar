@@ -1,0 +1,41 @@
+clrmamepro (
+	name Thunder
+	description "Thunder Beta 4"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name rthunder
+	description "Rolling Thunder (new version)"
+	year 1986
+	manufacturer "Namco"
+	rom ( name rt3-1b.rom size 32768 crc 7d252a1b sha1 cb92709e94eb273b3ce44c55cd252170ad1017f4 )
+	rom ( name rt1-17.rom size 65536 crc 766af455 sha1 8c71772795e783d6c4b88af9a311d55e363c298a )
+	rom ( name rt1-18.rom size 65536 crc 3f9f2f5d sha1 541b8f80800cb55e4b81ac48771d00fe10c90743 )
+	rom ( name rt3-19.rom size 65536 crc c16675e9 sha1 e31c28cb95ffa85392c74e1d81bfa89acbaefeb9 )
+	rom ( name rt3-20.rom size 65536 crc c470681b sha1 87f8d8509c3e8207f34c6001aaf4d0afdad82d0d )
+	rom ( name rt3-2b.rom size 32768 crc a7ea46ee sha1 52e8757aacb4e01f8432125729e2323c48ebc4f5 )
+	rom ( name rt3-3.rom size 32768 crc a13f601c sha1 8987174e364d20eeab706c3e0d4e0d3c2b96723c )
+	rom ( name rt1-7.rom size 65536 crc a85efa39 sha1 1ed63b421a93960668cb4558c1ca1b3c86b1f6be )
+	rom ( name rt1-8.rom size 32768 crc f7a95820 sha1 82fe0adf6c5b3abef19031646e1eca1585dcc481 )
+	rom ( name rt1-5.rom size 32768 crc d0fc470b sha1 70f7f1e29527044eae405f58af08bad3097990bd )
+	rom ( name rt1-6.rom size 16384 crc 6b57edb2 sha1 4a8f1e024e5be4d76f2c99d506ae7da86af3d1f5 )
+	rom ( name rt1-9.rom size 65536 crc 8e070561 sha1 483b4de79f2429236f45c32ec56b97a9a90574a3 )
+	rom ( name rt1-10.rom size 65536 crc cb8fb607 sha1 ba9400fb19d29a285897cc3a2d4d739ce845f897 )
+	rom ( name rt1-11.rom size 65536 crc 2bdf5ed9 sha1 a771e922ad868ca1e008d08a8ff5fdf28aa315fc )
+	rom ( name rt1-12.rom size 65536 crc e6c6c7dc sha1 ead143c2730a77911839a25734550188533c7b96 )
+	rom ( name rt1-13.rom size 65536 crc 489686d7 sha1 a04b57424acbf2584f736b55740d613a1aae2b8b )
+	rom ( name rt1-14.rom size 65536 crc 689e56a8 sha1 b4d6de4eec47856a62f396f55d531fbf345cf12a )
+	rom ( name rt1-15.rom size 65536 crc 1d8bf2ca sha1 949ae8b00b94bfa5bc2d07888aafbaaaea559b06 )
+	rom ( name rt1-16.rom size 65536 crc 1bbcf37b sha1 8d27c49b36d5e23dd446c150ada3853eec75e4c1 )
+	rom ( name rt1-1.bin size 512 crc 8ef3bb9d sha1 4636d6b8ba7611b11d4863fab02475dc4a619eaf )
+	rom ( name rt1-2.bin size 512 crc 6510a8f2 sha1 935f140bfa7e6f8cebafa7f1b0de99dd319273d4 )
+	rom ( name rt1-3.bin size 2048 crc 95c7d944 sha1 ca5fea028674882a61507ac7c89ada96f5b2674d )
+	rom ( name rt1-4.bin size 2048 crc 1391fec9 sha1 8ca94e22110b20d2ecdf03610bcc89ff4245920f )
+	rom ( name rt3-4.rom size 32768 crc 00cf293f sha1 bc441d21bb4c54a01d2393fbe99201714cd4439d )
+	rom ( name rt1-21.rom size 65536 crc 454968f3 sha1 e0a679353491190b6d4f0355324456a1bd7c8a7a )
+	rom ( name rt2-22.rom size 65536 crc fe963e72 sha1 4c9ce4e4c8e756a743c541f670a6741b520125e3 )
+)
+

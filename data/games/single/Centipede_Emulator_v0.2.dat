@@ -1,0 +1,21 @@
+clrmamepro (
+	name Centipede
+	description "Centipede Emulator v0.2"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name 136001.211 size 2048 crc 880acfb9 sha1 6c862352c329776f2f9974a0df9dbe41f9dbc361 )
+	rom ( name 136001.212 size 2048 crc b1397029 sha1 974c03d29aeca672fffa4dfc00a06be6a851aacb )
+	rom ( name 136001.307 size 2048 crc 5ab0d9de sha1 8ea6e3304202831aabaf31dbd0f970a7b3bfe421 )
+	rom ( name 136001.308 size 2048 crc 4c07fd3e sha1 af4fdbf32c23b1864819d620a874e7f205da3cdb )
+	rom ( name 136001.309 size 2048 crc ff69b424 sha1 689fa560d40a384dcbcad7c8095bc12e91875580 )
+	rom ( name 136001.310 size 2048 crc 44e40fa4 sha1 c557db83876afc8ab52047ab1a3c3bfef34d6351 )
+)
+

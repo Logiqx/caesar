@@ -1,0 +1,55 @@
+game (
+	name 1942
+	description "1942 (set 1)"
+	year 1984
+	manufacturer "Capcom"
+)
+
+game (
+	name gng
+	description "Ghosts'n Goblins (World? set 1)"
+	year 1985
+	manufacturer "Capcom"
+)
+
+game (
+	name gunsmoke
+	description "Gun.Smoke (World)"
+	year 1985
+	manufacturer "Capcom"
+)
+
+game (
+	name higemaru
+	description "Pirate Ship HigeMaru"
+	year 1984
+	manufacturer "Capcom"
+)
+
+game (
+	name lwings
+	description "Legendary Wings (US set 1)"
+	year 1986
+	manufacturer "Capcom"
+)
+
+game (
+	name sectionz
+	description "Section Z (set 1)"
+	year 1985
+	manufacturer "Capcom"
+)
+
+game (
+	name trojan
+	description "Trojan (US)"
+	year 1986
+	manufacturer "Capcom"
+)
+
+game (
+	name vulgus
+	description "Vulgus (set 1)"
+	year 1984
+	manufacturer "Capcom"
+)

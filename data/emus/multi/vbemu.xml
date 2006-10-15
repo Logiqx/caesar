@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="vbemu" type="multi" dat="VBEmu_v1.00a">
+	<name>VBEmu (Visual Basic Arcade Machine Emulator)</name>
+	<version>1.00a</version>
+	<date>17/08/1998</date>
+
+	<homepage>http://surf.to/vbemu</homepage>
+	<author_link id="tony_docherty">&author_tony_docherty;</author_link>
+
+	<emulates>Invaders and Invaders Deluxe (both Midway)</emulates>
+	<comment>Written in Visual Basic</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes (samples)</sound>
+		<source>Yes (VB)</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="vbemu100a.zip">Emulator with Installer</file>
+		<file name="vbemu100aexe.zip">Emulator without Installer</file>
+		<file name="vbemu100asrc.zip">Source Code</file>
+	</files>
+
+	<relatives>
+		<modified_versions>
+			<emulator_link id="ssvbemu" type="multi2">&emulator_ssvbemu;</emulator_link>
+		</modified_versions>
+	</relatives>
+</emulator>

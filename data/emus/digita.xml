@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="digita">
+	<title>Emulators for Digital Cameras</title>
+	<comment>These emulators are all for Digital Cameras</comment>
+	<emulator_links>
+		<emulator_link id="mamed" type="digita">&emulator_mamed;</emulator_link>
+		<emulator_link id="multipacd" type="digita">&emulator_multipacd;</emulator_link>
+	</emulator_links>
+</emulator_contents>

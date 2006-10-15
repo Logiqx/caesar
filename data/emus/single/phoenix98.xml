@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="phoenix98" type="single" dat="Phoenix_Emulator_980813">
+	<name>Phoenix Emulator</name>
+	<version>-only version-</version>
+	<date>13/08/1998</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="robert_bogniel">&author_robert_bogniel;</author_link>
+
+	<emulates>Phoenix (Amstar)</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="phoenix.zip">Emulator (includes source)</file>
+	</files>
+</emulator>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="rem_mac" type="mac" dat="dummy">
+	<name>REM-Mac! (RYGAR Emulator)</name>
+	<version>1.0</version>
+	<date>02/01/1998</date>
+
+	<homepage>http://www.maya.com/local/phil/rygar/</homepage>
+	<author_link id="phil_stroffolino">&author_phil_stroffolino;</author_link>
+
+	<emulates>Legendary Warrior RYGAR (Tecmo)</emulates>
+	<comment>This version now has full sound support, and a real Macintosh interface</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="asgard" type="snd_libs">&tool_asgard;</tool_link>
+	</tool_links>
+
+	<platform>Mac</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="REM.cpt.hqx">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="rem" type="single">&emulator_rem;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

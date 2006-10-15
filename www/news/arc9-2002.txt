@@ -1,0 +1,432 @@
+<a name="newsitem1036106924,58761,"></a><h2>Thursday 31 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Not rotten, not at all</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:28PM [GMT]</small>  </th></tr>  <tr><td> Mister Datman, a.k.a. <a href="http://www.logiqx.com/" target=_blank>Logiqx</a>, has released tonight a lot of updates, like he mentions they're mainly trivial. He fixed a lot of minimal errors and updated a few datafiles for many emulators and the Neo-Geo system dat.  </td></tr>  </table></p>
+<a name="newsitem1036077546,70096,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Spooky</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:19PM [GMT]</small>  </th></tr>  <tr><td> After eons of teasing, finally <a href="http://www.emuhype.com/" target=_blank>M1 0.7</a> has been released. You will find it in the Misc section of Emuhype. This sound player supports around 700 games, both arcade and pinball, from classics to recent and unemulated games. There are builds for Windows and Linux, and <a href="http://www.bannister.org/software/index.htm" target=_blank>Richard Bannister</a> has just released the Mac port. This is the first Halloween treat :) Is it the last?  </td></tr>  </table></p>
+<a name="newsitem1036014394,31723,"></a><h2>Wednesday 30 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Third mention today</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:46PM [GMT]</small>  </th></tr>  <tr><td> He does a lot and now asks for some help. It seems <a href="http://www.aarongiles.com/" target=_blank>Aaron Giles</a> hasn't finished with the V-Unit system, he is searching for another game running in that hardware and asks for information about it; Offroad Challenge is the name.  </td></tr>  </table></p>
+<a name="newsitem1036014381,38860,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The billiard effect</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:46PM [GMT]</small>  </th></tr>  <tr><td> To reflect Aaron's latest sumbission, Roman has posted a small but contundent <a href="http://www.clrmame.com/" target=_blank>ClrMamePro WIP</a>, stating that he added some more diskimage routines to work with those small, tiny, unimportant CHD files. Details and more bits in the WIP/Future section.  </td></tr>  </table></p>
+<a name="newsitem1035998048,93627,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Now I'm really scared...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:14PM [GMT]</small>  </th></tr>  <tr><td> If the last one wasn't big enough, here we have another <a href="http://www.mame.net/wip/" target=_blank>Heavy MAME WIP</a>. Aaron is the culprit again: he completed and submitted his CoJag driver, with support for Area 51, Maximum Force and Vivious Circle. There aren't any CPU estimations, but I think my 333 will have a trouble with them, and my 56k too ;) On another note, that One Shot One Kill driver by Haze and Tourniquet has been submitted with still some graphics glitches and no sound. Stephh and smf finish the report with their usual fixes.  </td></tr>  </table></p>
+<a name="newsitem1035930018,87749,"></a><h2>Tuesday 29 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Seal of quality</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:20PM [GMT]</small>  </th></tr>  <tr><td> Gerard has sent me an email to remind me about today's update at <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a>. Three new flyers, and three replaced ones with <i>superb TAFA quality</i>. Rastan Saga and Double Dragon (NeoGeo) are examples of what you could get if you visit them!  </td></tr>  </table></p>
+<a name="newsitem1035929938,99315,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Team work</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:18PM [GMT]</small>  </th></tr>  <tr><td> There's an update at <a href="http://haze.mame.net/" target=_blank>Haze's MAME Page</a>. He is working in a game called One Shot One Kill. The first shots had wrong colours, but Tourniquet fixed them and now everything looks nicer.  </td></tr>  </table></p>
+<a name="newsitem1035901942,20711,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A la tercera...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:32PM [GMT]</small>  </th></tr>  <tr><td> Roman has released a fresh compile for the third time and <a href="http://www.clrmame.com/" target=_blank>ClrMamePro 2.76.3</a> got released. This time a bug in the settings-path-picker is solved (whatever that means). He also comments he's into something different, I wonder...  </td></tr>  </table></p>
+<a name="newsitem1035901890,89128,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Another legal rom?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:31PM [GMT]</small>  </th></tr>  <tr><td> According to <a href="http://www.gamehippo.com/category/new_title_2.shtml#1562" target=_blank>GameHippo</a>, distribution of the arcade game Rip Off (c) 1979 Cinematronics for non-profit purposes might be legal. Thanks to <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=91688&page=0&view=expanded&mode=threaded&sb=5#Post91688" target=_blank>Igamabob</a> for this interesting info. Anyone cares to confirm?  </td></tr>  </table></p>
+<a name="newsitem1035845410,68346,"></a><h2>Monday 28 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Look at the number...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:50PM [GMT]</small>  </th></tr>  <tr><td> David Raingeard has released Calice 0.6.6, with support for GigaWing and... Also supports the X-Arcade controller. Since the official site is not available right now, it is downloadable directly from <a href="http://www.consollection.com/" target=_blank>Consollection</a> (scroll down for yesterday's news). Thanks to The Informer for the hint and Ben-J from Consollection for the info.  </td></tr>  </table></p>
+<a name="newsitem1035843221,80502,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Model to follow</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:13PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has released a data file for <a href="http://nebula.emulatronia.com/" target=_blank>Nebula Model 2</a>, and Guru has updated the <a href="http://unemulated.emuunlim.com/" target=_blank>Model 2 Dumping Status</a> page...  </td></tr>  </table></p>
+<a name="newsitem1035829077,11286,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Bandwidth killer</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:17PM [GMT]</small>  </th></tr>  <tr><td> There is another <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a>. Beware cause there are lots of pics and they are very heavy! All of them are from Cruis'n USA and Cruis'n World, Aaron submitted his Williams V-Unit driver which looks perfect and as it's mentioned there, also sounds perfect. Disadvantages? The specs needed... There are also other new things like imperfect sound in the Flower driver and various fixes and improvements here and there by the usual heroes.  </td></tr>  </table></p>
+<a name="newsitem1035829045,35202,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Light one</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:17PM [GMT]</small>  </th></tr>  <tr><td> Mike Beaver has posted some <a href="http://mimic.arcadeheaven.com/" target=_blank>Mimic WIP</a> yesterday and today, where he mentions the new addition to the guide, that totally outdated guide ;) which now documents the INI file. He also goes about the whereabouts and whatnots of the new CPU handling loops. Where's the source to look at? :) There is also another fix in the 68k core, and quite some talk about MegaSomethings :)  </td></tr>  </table></p>
+<a name="newsitem1035753916,27386,"></a><h2>Sunday 27 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Smarter than you think</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:25PM [GMT]</small>  </th></tr>  <tr><td> Logiqx has made some improvements in the CAESAR engine, nothing you would notice normally. Anyway the manufacturer list at the left side of your browser has been updated with new lists for <a href="http://caesar.logiqx.com/html/indices/manufacturers/psikyo_t.shtml" target=_blank>Psikyo</a>, <a href="http://caesar.logiqx.com/html/indices/manufacturers/v_system_co_t.shtml" target=_blank>V-System Co.</a> and a variety of <a href="http://caesar.logiqx.com/html/indices/manufacturers/hack_t.shtml" target=_blank>hacks</a>. I could also mention that this manufacturer list is <i>cleverly generated</i>, but I'm still thinking if I should :-p  </td></tr>  </table></p>
+<a name="newsitem1035733986,42973,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sunday WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:53PM [GMT]</small>  </th></tr>  <tr><td> Weekend time, <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a>. Along with Haze's improvements with Flower, he added some new mahjong games like Mahjong Diplomat, Mahjong Studio and Tonton. He also fixed slowdowns in Strikers 1945 plus, and probably that fix could affect other NeoGeo problems. There's also a fix in the 68k cores by Mike Coates (hinted by Razoola), Stephh fixed dips and inputs here and there, and some otehr things, as usual worth reading.  </td></tr>  </table></p>
+<a name="newsitem1035733459,15981,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kraftwerk</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:44PM [GMT]</small>  </th></tr>  <tr><td> ElSemi has released <a href="http://nebula.emulatronia.com/" target=_blank>Nebula Model 2 Test</a>. As he says, it's just a preview, so don't expect anything finished. This is the Sega Model 2B emulator he has been working on, and the source of those snaps we saw some time ago in Emulatronia. Read the documentation for the list of all known problems, like no textures or sound, and the specs it needs (1Ghz anyone?). To finish, it supports all good dumps of Model 2B games. Duckie has posted at <a href="http://nonmame.retrogames.com/" target=_blank>NonMAME</a> a list of them, and remember the Model 2 page at <a href="http://unemulated.emuunlim.com/" target=_blank>Guru's ROM Dumping News</a>.  </td></tr>  </table></p>
+<a name="newsitem1035733439,29092,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>One year cheating</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:43PM [GMT]</small>  </th></tr>  <tr><td> And after a pause and as he said, Haggar has made finally his <a href="http://haggar.emuunlim.com/" target=_blank>Cheat Archive 0.2.93b</a>, for FBA, Nebula/Kawaks and MAME. It includes all the new SF2 hacks for Nebula, and adds or fixes cheats for SFA/SFZ and clones. And congratulations Mike Haggar, and much obligated thanks, for one year of your page, yesterday it was its anniversary.  </td></tr>  </table></p>
+<a name="newsitem1035733423,81065,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The next step</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:43PM [GMT]</small>  </th></tr>  <tr><td> Andrea Mazzoleni has released another Advance Project: <a href="http://advancemame.sourceforge.net/" target=_blank>AdvanceCAB v1.0.0</a>. It's a collection of various utilities designed for using your PC with arcade monitors and TV's. If you are the owner of one of these, I suggest you to read the about page to learn about these five utils which will make your fiddling with these kinds of screens much easier.<br><b>Update:</b> Thanks to Chris for making me realize this was not a new project but a new update of an already existing one.  </td></tr>  </table></p>
+<a name="newsitem1035733380,36083,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Haze's garden</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:43PM [GMT]</small>  </th></tr>  <tr><td> If you head to <a href="http://haze.mame.net/" target=_blank>Haze's MAME Page</a>, you will see a couple of snaps from the Flower driver, started by Insideoutboy and now continued by him.  </td></tr>  </table></p>
+<a name="newsitem1035733359,82807,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The truth is in there</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:42PM [GMT]</small>  </th></tr>  <tr><td> M.A.S.H. is still waiting for 0.62 and since it doesn't come, well here we have <a href="http://www.mameworld.net/mameinfo/" target=_blank>MameInfo.dat 4.1b</a>. It includes as usual the newest WIP and latest bugs. He also moved the PORT info from the Orange Files into the dat.  </td></tr>  </table></p>
+<a name="newsitem1035654296,68830,"></a><h2>Saturday 26 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Not for light hearted</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:44PM [BST]</small>  </th></tr>  <tr><td> For the real die hard Pong fans, who can't play it in MAME (unless it's <a href="http://www.mameworld.net/mameinfo/" target=_blank>FMAME32</a>), here you have <a href="http://www.karber.net/textbased/pong/" target=_blank>Text Based Pong</a>, a highly demanding game in matter of wits, dexterity and reflexes. Rivers of adrenaline guaranteed. Thanks to <br><a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamenewreleasetalk&Number=18433&page=0&view=expanded&mode=threaded&sb=5#Post18433" target=_blank>Xtian</a> for the link.  </td></tr>  </table></p>
+<a name="newsitem1035640811,70411,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Stealing news for a good cause</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:00PM [BST]</small>  </th></tr>  <tr><td> Kazuya has reported at <a href="http://www.neogeoforlife.com/" target=_blank>Neogeoforlife.com</a> about the recently opened <a href="http://www.snkneogeousa.com" target=_blank>SNKNeoGeoUSA.com</a>. But the reason for this news tidbit is to congratulate Kaz for his 700,000 hits mark.  </td></tr>  </table></p>
+<a name="newsitem1035640787,75216,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Here comes the stuff</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:59PM [BST]</small>  </th></tr>  <tr><td> Tinker has added a <a href="http://misfitmame.mameworld.net/" target=_blank>MisfitMAME test build</a> with a few new "features" like Neo No Panepon working, a few fixes, some hacks around and well, the usual stuff.  </td></tr>  </table></p>
+<a name="newsitem1035640768,24674,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Good news from the frontline</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:59PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.aarongiles.com/" target=_blank>Aaron Giles</a> has made a little update to state that he has fixed a king-size bug and now Cruisin' USA is playable with only a few glitches remaining, sound missing and heavy optimizations needed. Good to know indeed.  </td></tr>  </table></p>
+<a name="newsitem1035640694,57423,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The last of its breed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:58PM [BST]</small>  </th></tr>  <tr><td> <a href="http://yaame.emuunlim.com/" target=_blank>YAAME 0.3</a> has been released. It has new games like Jumping Jack and Pacman, fixes for Do games, better sound and sound support in three more games. Unfortunately the author states that this will be probably the last release of YAAME, which is always sad.  </td></tr>  </table></p>
+<a name="newsitem1035640678,45511,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>And even more teasers</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:57PM [BST]</small>  </th></tr>  <tr><td> Again another preview release. <a href="http://x.mame.net/" target=_blank>X-MAME 0.61.1-pr9</a> includes MESS 0.61.1, and there is also this boss-not-happy-of-you-playing-at-job avoider... This time the patch to upgrade seems to be larger.  </td></tr>  </table></p>
+<a name="newsitem1035640663,19392,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>BeDaphne</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:57PM [BST]</small>  </th></tr>  <tr><td> There is a BeOS compile of the last Daphne, made and available at <a href="http://www.beemulated.net/" target=_blank>BeEmulated.net</a>.  </td></tr>  </table></p>
+<a name="newsitem1035494204,43389,"></a><h2>Thursday 24 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Happy bday Miu-Miu</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:16PM [BST]</small>  </th></tr>  <tr><td> Two more interviews with Nicola Salmoria, one in <a href="http://www3.newsland.it/nr/article/it.comp.software.emulatori/16152.html" target=_blank>Newsland</a> and another one in <a href="http://lanazione.quotidiano.net/chan/12/2:3790794:/2002/10/24" target=_blank>La Nazione</a>. Both are in italian unfortunately. As Gridle says, maybe he needs them for his thesis! Thanks to Nikla and F205v for the links.  </td></tr>  </table></p>
+<a name="newsitem1035409436,1615,"></a><h2>Wednesday 23 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I lost the headline for this one</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:43PM [BST]</small>  </th></tr>  <tr><td> Another update at <a href="http://www.logiqx.com/" target=_blank>Logiqx.com</a>, where SLA (member of Team Logix) updated the datafile for Nebula 2.20, and Logiqx himself updated the CPS-1 dat.  </td></tr>  </table></p>
+<a name="newsitem1035409341,94171,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Io non parla italiano</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:42PM [BST]</small>  </th></tr>  <tr><td> F205v has posted in <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=91028&page=0&view=expanded&mode=threaded&sb=5#Post91028" target=_blank>this thread</a> about an interview with Nicola Salmoria in the newspaper Il Corriere della Sera, one of the most important newspapers in Italy. Unfortunately for now only the italian version is available, and that Altavista translation to english from Stroff. If anyone gets a nice, real translation, *please* contact me! Anyway in that thread you can get a couple of good clues ;)  </td></tr>  </table></p>
+<a name="newsitem1035409321,90013,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Angry cockroaches (berzerk mode cockroaches!)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:42PM [BST]</small>  </th></tr>  <tr><td> Gyrovision has made a new, enhanced Berzerk sampleset for MAME, which apparently is more accurate to the original. Seen and found at <a href="http://www.fraggersxtreme.com/samples/" target=_blank>Twisty's MAME Samples</a>, where it's available.  </td></tr>  </table></p>
+<a name="newsitem1035409273,16555,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Time to ponder</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:41PM [BST]</small>  </th></tr>  <tr><td> I guess many of you use WinZip, well there's this release of <a href="http://www.winzip.com/" target=_blank>WinZip 8.1 Service Release 1</a> which addresses a security issue with non-zip archives internally supported by this compression application. This is late anyway, I'll change compressor :-p  </td></tr>  </table></p>
+<a name="newsitem1035327944,6621,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Every year the same thing...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:05AM [BST]</small>  </th></tr>  <tr><td> 23 October. My birthday. 30. Bleh.  </td></tr>  </table></p>
+<a name="newsitem1035322823,93272,"></a><h2>Tuesday 22 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>See what you can find...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:40PM [BST]</small>  </th></tr>  <tr><td> I saw at the MW News board about <a href="http://home.mn.rr.com/stolis/ArkEdit/" target=_blank>ArkEdit 1.0</a>, an Arkanoid Level Editor. It's designed to work with the arcade roms, supporting four variants of Arkanoid. I didn't get the name/nick of the author, will try to fix that in next update. Btw Arkanoid has been one of my favorite arcade games ever!  </td></tr>  </table></p>
+<a name="newsitem1035320931,10699,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More additions</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:08PM [BST]</small>  </th></tr>  <tr><td> Treble Winner posted about <a href="http://fba.emuunlim.com/index_wip.html" target=_blank>FBA WIP</a>, posted by Kev (who also wrote me about FBA recently), about a new driver running Rastan. Taito games into FBA, cool!  </td></tr>  </table></p>
+<a name="newsitem1035320918,71423,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>They came from the cold</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:08PM [BST]</small>  </th></tr>  <tr><td> And another <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a> for your viewing pleasure. This time Penguin Brothers is the cute game of the week, submitted by Haze AFAIK. Aaron Giles added a Leland prototype called Asylum. And to end the snaps gallery, Galiber made some fixes and updates to the SH-2 core, improving things so now Sengeki Striker is playable. The rest of details are less visual but maybe more juicy.  </td></tr>  </table></p>
+<a name="newsitem1035294417,79519,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Subtle message</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:46PM [BST]</small>  </th></tr>  <tr><td> Roman has released <a href="http://www.clrmame.com/" target=_blank>ClrMamePro 2.76 refreshed compile #2</a>, which has updated documentation, <a href="http://www.mame.dk/" target=_blank>mame.dk</a> was added again to the standard urls and fixed the fixing dialog. Pure irony!  </td></tr>  </table></p>
+<a name="newsitem1035294384,62421,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>He's back for good</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:46PM [BST]</small>  </th></tr>  <tr><td> I missed this one due to other things worrying me lately. <a href="http://www.emuviews.com/" target=_blank>EmuViews</a> is back, JoseQ is posting news again, and peace will rule the world. Actually EmuViews has been updated all this weekend, sorry for not noticing earlier (blame Check&Neverget). Looking forward to the Rumour Mill! Welcome back JoseQ and thanks Anticupid for the news!  </td></tr>  </table></p>
+<a name="newsitem1035233399,79932,"></a><h2>Monday 21 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Legal and righteous</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:49PM [BST]</small>  </th></tr>  <tr><td> Blastar has sent me an email me to tell me about a mame-fixed version of his free NeoGeo game <a href="http://mitglied.lycos.de/blastarx/" target=_blank>Neo No Panepon</a>. Check out this game, nice gameplay and *free* :)  </td></tr>  </table></p>
+<a name="newsitem1035208281,59827,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Reporting from the other side of the world</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:51PM [BST]</small>  </th></tr>  <tr><td> <a href="http://unemulated.emuunlim.com/" target=_blank>The Guru</a> has dumped some Tekken boards, and he also redumped DOA, part of Virtua Cop 2, and updated bits and pics of the Sega Model 2 status page. Read details at his page, of course.  </td></tr>  </table></p>
+<a name="newsitem1035208221,46291,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Bad practices...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:50PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.aarongiles.com/" target=_blank>Aaron Giles</a> is angry, and with reason it seems.  </td></tr>  </table></p>
+<a name="newsitem1035145876,17166,"></a><h2>Sunday 20 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More pr0n stuff?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:31PM [BST]</small>  </th></tr>  <tr><td> It seems that he doesn't want to rest, and <a href="http://haze.mame.net/" target=_blank>Haze's MAME page</a> has been updated again with some pics of the mahjong games he's working on.  </td></tr>  </table></p>
+<a name="newsitem1035057456,52378,"></a><h2>Saturday 19 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Small small small</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:57PM [BST]</small>  </th></tr>  <tr><td> There is a small <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a> with the last two days. Yesterday is empty in the report, and today we see again that Gomoku Narabe Renju, Haze took Nogi's driver and finished it. As it seems it's a Go game, like I said. For once I'm right, geez ^_^  </td></tr>  </table></p>
+<a name="newsitem1035040247,42938,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>You have to be smart to do this...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:10PM [BST]</small>  </th></tr>  <tr><td> There are some new boards received by <a href="http://unemulated.emuunlim.com/" target=_blank>The Guru</a>. Some Soul Edge and Tekken boards, Indy 500, and Gunbarich, to mention a few. Details at his place, and thanks to the ones who loaned the boards, Brian "Brain" Troha and Malcom McKay.  </td></tr>  </table></p>
+<a name="newsitem1035040213,93280,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Go Haze Go!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:10PM [BST]</small>  </th></tr>  <tr><td> A little more WIP at <a href="http://haze.mame.net/" target=_blank>Haze's MAME Page</a>. It's a 1981 game called Gomoku Narabe -Renju-, and I think it's a Go style board game. Thanks to Taucher for the info.  </td></tr>  </table></p>
+<a name="newsitem1034976060,2708,"></a><h2>Friday 18 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Give it what it wants</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:21PM [BST]</small>  </th></tr>  <tr><td> There is some <a href="http://cottage.emuunlim.com/status.htm" target=_blank>CottAGE WIP</a>, where Gollum added Sonson and clone to this Java emulator. Your browser is asking for it! (And I hope we will not wait as much for a release as with another famous emu...)  </td></tr>  </table></p>
+<a name="newsitem1034952832,27757,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>News from Spain (as usual)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:53PM [BST]</small>  </th></tr>  <tr><td> After forgetting for the Nth time to report about this, Stiletto wrote me about two things happening at <a href="http://webs.ono.com/jotego/" target=_blank>Jose Tejada Gomez's homepage</a>. First, the second draft of his manual for programming arcade machine emulators (news bit originally posted at <a href="http://www.emulatronia.com/" target=_blank>Emulatronia</a>), it's a 4 megs PDF and sorry for most of you, but it's in spanish. And second, as he announced earlier, he released the source code of his emulators <a href="http://caesar.logiqx.com/html/emus/single/grytra.shtml" target=_blank>Grytra</a> and <a href="http://caesar.logiqx.com/html/emus/multi/mapefer3.shtml" target=_blank>Mapefer3</a>, plus the source code of a 6809 CPU core. Thanks to Stiletto for the heads up!  </td></tr>  </table></p>
+<a name="newsitem1034947350,5478,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>For the 20th time...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:22PM [BST]</small>  </th></tr>  <tr><td> And for the 20th time, Mike Beaver releases his nice emulator: <a href="http://mimic.arcadeheaven.com/" target=_blank>Mimic 2.10</a>. It's mainly a WIP release, which has some checks about sound+XP. There are also other minor things, check the changelog.  </td></tr>  </table></p>
+<a name="newsitem1034947330,12827,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Another Sega work</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:22PM [BST]</small>  </th></tr>  <tr><td> Charles McDonald is working now in a <a href="http://cgfm2.emuviews.com/" target=_blank>Sega Mega Tech emulator</a>. There is even a snapshot of the menu, and he mentions the carts run nice in a Genesis emulator already. You can find more information about this hardware in <a href="http://www.system16.com/sega/hrdw_megatech.html" target=_blank>System 16</a>, where else? :)  </td></tr>  </table></p>
+<a name="newsitem1034887212,87665,"></a><h2>Thursday 17 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>One week after</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:40PM [BST]</small>  </th></tr>  <tr><td> Time for more <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a>. The last week of development has been archived and presented for your enjoyment. Haze has sent drivers for Field Combat (playable but not complete), Cross Shooter (not playable) and Hanaroku (complete with sound). R. Belmont added sound to quite some games, and Stroff added Legion. Aaron Giles also did some things here and there, besides his preliminary works in Cruisin' Anywhere. There are more fixes and things worth reading, so I'd suggest you to do so!  </td></tr>  </table></p>
+<a name="newsitem1034862680,14163,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A long way ahead</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:51PM [BST]</small>  </th></tr>  <tr><td> Not only that I'm personally interested in <a href="http://scummvm.sourceforge.net/" target=_blank>ScummVM</a>, but also I think that their current legal issues have a parallelism with emulators. Their last status update contains a legal part which shows their progress with LucasArts in making ScummVM completely legal and endorsed by LucasArts. This would be a great step in a territory close to arcade emulation, and maybe other game manufacturers will see the light. Let's hope so, cause this is only one step, which has to be taken before others can be done...  </td></tr>  </table></p>
+<a name="newsitem1034794164,57410,"></a><h2>Wednesday 16 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>(V)eryslow-Unit</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:49PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.aarongiles.com/" target=_blank>Aaron Giles</a> has made a deal with the guys at <a href="http://www.mamefans.net/" target=_blank>MAMEFans</a>, now he has again some bandwidth for those WIP shots. Now Crusin' USA looks better and Cruisin' World boots and shows some good progress, tho still needs a lot of work. Both games seem to be real CPU eaters, so don't put your hopes too high!  </td></tr>  </table></p>
+<a name="newsitem1034776020,76828,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Gone gold</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:47PM [BST]</small>  </th></tr>  <tr><td> Time for another update: <a href="http://x.mame.net/" target=_blank>X-MAME 0.61.1-pr8</a>. This eighth preview release has some fixes, among them the integrated debugger should work now. Update yourself with the usual patch.  </td></tr>  </table></p>
+<a name="newsitem1034776008,96610,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Extremely thin fighter</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:46PM [BST]</small>  </th></tr>  <tr><td> Apparently the nineth chapter of the XiaoXiao series (the stick figure martial arts fighter and all-around tough guy) has been released. The <a href="http://www.xiaoxiaomovie.com/" target=_blank>Official XiaoXiao Homepage</a> is really being hammered for this movie, even when it doesn't even have the eighth yet! It seems the flash movie is available in an <a href="http://www.hackernetwork.com/flash/stickdeath9.shtml" target=_blank>alternate place</a>, and it's labeled as a demo. It's a Final Fight style game, just with stick figures. Thanks to Lion2 for the hint.  </td></tr>  </table></p>
+<a name="newsitem1034716319,67770,"></a><h2>Tuesday 15 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Here he is again</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:11PM [BST]</small>  </th></tr>  <tr><td> After a long pause (or undercover work, however you want to see it), ElSemi is back with <a href="http://nebula.emulatronia.com/" target=_blank>Nebula 2.20</a>. It features some fixes, a lot of SF2 hacks, and hiscore saving for CPS-2 games! You can use (after some conversion) MAME's hiscore.dat for this. At last my only missing feature :)  </td></tr>  </table></p>
+<a name="newsitem1034716295,42063,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The wait was worth it</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:11PM [BST]</small>  </th></tr>  <tr><td> MAMu_ has announced in the <a href="http://www.mameworld.net/cgi-bin/wwwthreads/showpost.pl?Board=mamewrldstretch&Number=768&page=0&view=expanded&mode=threaded&sb=5#Post768" target=_blank>MW's News Submission Board</a> the new release of <a href="http://www.mameworld.net/icons" target=_blank>MAMu_'s Icons 0.61</a>. As he mentions, he's late, but better late than never and actually this is my favorite set of icons :)  </td></tr>  </table></p>
+<a name="newsitem1034688561,9594,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Spirit Drivers(tm)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:29PM [BST]</small>  </th></tr>  <tr><td> After Field Combat, <a href="http://haze.mame.net/" target=_blank>Haze's MAME Page</a> features another WIP driver for a game called Hanaroku. It seems to be another of those Mahjong match cards game.   </td></tr>  </table></p>
+<a name="newsitem1034688542,77094,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Aaron's Cruisin' Bandwidth</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:29PM [BST]</small>  </th></tr>  <tr><td> Again <a href="http://www.aarongiles.com/" target=_blank>Aaron's Home Page</a> surpassed its transfer limit, rendering the WIP page without images until further notice. I guess that Cruisin' USA WIP shots were just too much. I think the girl with the flag was the culprit! :)  </td></tr>  </table></p>
+<a name="newsitem1034688529,42600,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A new view</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:28PM [BST]</small>  </th></tr>  <tr><td> RCP has released <a href="http://rcp.emuhq.com/" target=_blank>U64Emu 3.05</a>, again with no source update. It only adds a new resolution: 320x240. He has also posted some interesting stuff about a portable dynamic recompilation core. I suggest that if you're into dynarec stuff, read it...   </td></tr>  </table></p>
+<a name="newsitem1034629478,64345,"></a><h2>Monday 14 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mirage</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:04PM [BST]</small>  </th></tr>  <tr><td> Do I see a small update? <a href="http://www.finalburn.com/" target=_blank>FinalBurn 0.518</a> fixes a problem with Windows 2000, and the site has a new logo :)  </td></tr>  </table></p>
+<a name="newsitem1034629416,1456,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Cruisin' Driver</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:03PM [BST]</small>  </th></tr>  <tr><td> Another update at <a href="http://www.aarongiles.com/" target=_blank>Aaron's Home Page</a>. The MAMEDev doesn't rest, and he has made some improvement in the V-Unit driver. For now Cruisin' USA boots with some graphic glitches. Visit his WIP section to see the snaps and current status report.  </td></tr>  </table></p>
+<a name="newsitem1034543908,20183,"></a><h2>Sunday 13 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Pieces of history</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:18PM [BST]</small>  </th></tr>  <tr><td> Mr. Datman a.k.a. <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has updated once again the Older Emus archive, removing U64Emu (which is new again and already in the recent list), and adding the four old emulators made by Nicola Salmoria, before he merged them into what is now MAME.  </td></tr>  </table></p>
+<a name="newsitem1034517576,23425,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I can't find my headline</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:59PM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has released <a href="http://mimic.arcadeheaven.com/" target=_blank>Mimic 2.09</a>, which needs updated HWC's. Not all of them have been updated yet, so be patient. About what's new, well that totally new Z80 core, fixes in the 68000 core, analog controls and a few more things. The future doesn't seem to bring much on the arcade side, but I'm still hopeful :)  </td></tr>  </table></p>
+<a name="newsitem1034517544,18669,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Arcane language</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:59PM [BST]</small>  </th></tr>  <tr><td> There's another tecchy update at <a href="http://cgfm2.emuviews.com/" target=_blank>Charles MacDonald's Home Page</a>, where he talks about some things about sprites in System 16 hardware. He also mentions some words about a microcontroller used in System16B and System 18, so if you're into this stuff, go and read.  </td></tr>  </table></p>
+<a name="newsitem1034457088,38687,"></a><h2>Saturday 12 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Welcome to the Hotel California</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:11PM [BST]</small>  </th></tr>  <tr><td> More (permanent) guests at <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a>. Besides some updates for PlayChoice 10 flyers, there are around 5 more new ones, like Bad Dudes vs Dragonninja (US), The Final Round and Scorpion. And they found out about that mahjong mistery flyer, the game is called Jantotsu. Any winner?  </td></tr>  </table></p>
+<a name="newsitem1034457044,82089,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Icing the cup</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:10PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has updated slightly some Calice drivers so there are not ROM name conflicts anymore, and updated its datfile consequently.  </td></tr>  </table></p>
+<a name="newsitem1034444036,79759,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The eternal dilemma</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:33PM [BST]</small>  </th></tr>  <tr><td> Update at <a href="http://haze.mame.net/" target=_blank>Haze's MAME Page</a>. He has decided to have a play with "that". What's that? The snap says "Field Combat". Taucher says Field Combat (c)1985 Jaleco. Decide which source is more trustable! :)  </td></tr>  </table></p>
+<a name="newsitem1034431621,49669,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Latest news</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:07PM [BST]</small>  </th></tr>  <tr><td> Update at <a href="http://unemulated.emuunlim.com/" target=_blank>Guru's ROM Dumping News</a>. He has dumped another Super System 22 game, called Cyber Cycles, and also updated his Sega Model 2 page with more snaps and comments.  </td></tr>  </table></p>
+<a name="newsitem1034344546,91386,"></a><h2>Friday 11 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>After 3 months...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:55PM [BST]</small>  </th></tr>  <tr><td> There is a little update of everyone's fav laserdisc emu: <a href="http://www.xmission.com/~redflame/daphne/download.php" target=_blank>Daphne 0.99.5a</a>. To quote from the site, this is a quick update to 0.99.5 so people can play DLE v2.0 in Daphne.  </td></tr>  </table></p>
+<a name="newsitem1034273242,31111,"></a><h2>Thursday 10 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Technically advanced</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:07PM [BST]</small>  </th></tr>  <tr><td> Grand Master Pete has released a new flovie: <a href="http://www.mameworld.net/cgi-bin/wwwthreads/showpost.pl?Board=mameworldgeneral&Number=62764&page=0&view=expanded&mode=threaded&sb=5#Post62764" target=_blank>MAME Rock</a>! I've already seen it and it's great, fun, nice soundtrack and lots of MAME games in it ;) A must!  </td></tr>  </table></p>
+<a name="newsitem1034273225,59216,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More things to come</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:07PM [BST]</small>  </th></tr>  <tr><td> Five days of <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a> have been posted, with screenshots from Hore Hore Kid and Amazon. Lots of fixes and stuff for the next 0.62 release, whenever it comes :)  </td></tr>  </table></p>
+<a name="newsitem1034196233,77250,"></a><h2>Wednesday 9 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The next step</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:43PM [BST]</small>  </th></tr>  <tr><td> Mr. Giles is on it again, if you check <a href="http://www.aarongiles.com/" target=_blank>Aaron's MAME WIP</a>, you will see a couple of shots from the self-test of Williams V-Unit hardware. Games like Cruisin' USA for example. Still in early stages, still writing the new CPU core for it, so let's be patient and support him :)  </td></tr>  </table></p>
+<a name="newsitem1034190484,5468,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The dat flood continues</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:08PM [BST]</small>  </th></tr>  <tr><td> And even more datafiles from <a href="http://www.logiqx.com/" target=_blank>Logiqx</a>, this time Laser and Mimic were updated. Now only CottAGE needs update, but I hope there's a new release of it soon and then the datafile... Oh I forgot to mention he rescued the dat for U64Emu and renamed it, no rom changes there...  </td></tr>  </table></p>
+<a name="newsitem1034180898,83906,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Yes, chicks really dig Pi!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:28PM [BST]</small>  </th></tr>  <tr><td> After its <i>not very</i> triumphal appareance in the Loony Bin, I've polished the <a href="http://caesar.logiqx.com/team/pi/srmp4.html" target=_blank>SRMP4 sprite rip</a>, removing some remaining backgrounds, fixing a problem with certain non-transparent colours, and also left the originals available. It was fun :)  </td></tr>  </table></p>
+<a name="newsitem1034171169,89362,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>La Grange</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:46PM [BST]</small>  </th></tr>  <tr><td> As Dan said, the expected update at <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a> has come. There are around 30 new flyers, lots of japanese, and even one spanish :) Check it, and all the others if you want, but well... Haw!  </td></tr>  </table></p>
+<a name="newsitem1034171135,84620,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Step by step</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:45PM [BST]</small>  </th></tr>  <tr><td> RCP has made another little update, <a href="http://rcp.emuhq.com/" target=_blank>U64Emu 3.04</a> fixes the scanline simulation, and adds sound again. Only the binary is updated. Don't forget the forums!  </td></tr>  </table></p>
+<a name="newsitem1034111010,94888,"></a><h2>Tuesday 8 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Tiny change</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:03PM [BST]</small>  </th></tr>  <tr><td> Roman has issued a refreshment compile of <a href="http://www.clrmame.com/" target=_blank>ClrMamePro 2.76</a>, fixing only a small glitch with the default buttons...  </td></tr>  </table></p>
+<a name="newsitem1034083964,77488,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mistery of the week</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:32PM [BST]</small>  </th></tr>  <tr><td> It seems that we'll have a new update at <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a> very soon, but first the TAFA staff wants to identify a mistery flyer. Visit them, check the unknown flyer and if you know the game and other data (or can read japanese), then help them!  </td></tr>  </table></p>
+<a name="newsitem1034083942,23328,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Good karma for everyone</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:32PM [BST]</small>  </th></tr>  <tr><td> There are some new boards at <a href="http://rcp.emuhq.com/" target=_blank>rcp.emuhq.com</a> to discuss about RCP's projects. Join the talk and contribute if you can.  </td></tr>  </table></p>
+<a name="newsitem1034083898,45657,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sequels, sequels, sequels</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:31PM [BST]</small>  </th></tr>  <tr><td> Unknown Soldier has made a <a href="http://www.retrogames.com/cgi-bin/wwwthreads/showpost.pl?Board=retrogen&Number=62142&page=0&view=expanded&mode=threaded&sb=5#Post62142" target=_blank>neat post</a> about upcoming arcade games. Do you remember those Snow Bros. 3 teasers? Well there's more to see <a href="http://www.videojuegosamazing.com/demon.htm" target=_blank>here</a>.  </td></tr>  </table></p>
+<a name="newsitem1034022862,51869,"></a><h2>Monday 7 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Medal of excellence</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:34PM [BST]</small>  </th></tr>  <tr><td> Another update by <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> on his site. This time the updated datafiles are for the NeoGeo and CPS-1 systems, and for the sound emulators Nebula Jukebox, NeoJukebox and QPlayer. Now only three datafiles are still needing update.  </td></tr>  </table></p>
+<a name="newsitem1034007156,25622,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Tecchy link of the day</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:12PM [BST]</small>  </th></tr>  <tr><td> Take a look at <a href="http://www.fpgaarcade.com/" target=_blank>FPGA Arcade</a>, interesting how a whole old PCB can fit now in a single chip... Thanks to David Widel for the link!  </td></tr>  </table></p>
+<a name="newsitem1033997182,97440,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Facelift</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:26PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.aarongiles.com/" target=_blank>Aaron's Home Page</a> has been revamped a bit, and updated here and there. It's always good to get lost in webs like this one, full of interesting stuff. Of course I'll recommend to pay special attention to the WIP page ;)  </td></tr>  </table></p>
+<a name="newsitem1033997166,60286,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I'm lost, and you?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:26PM [BST]</small>  </th></tr>  <tr><td> RCP has found a couple of things and updated both the binary and source of <a href="http://kiame.emuhq.com/" target=_blank>U64Emu</a>. Among other things, now the emulator supports both KI games. However, it seems there is a problem with the downloads for now, I'll give more info when available. Actually I'm not very sure of what's going on :)<br><b>Update:</b> Now the downloads are there, check <a href="http://rcp.emuhq.com/" target=_blank>RCP's site</a> for the 3.02 version.  </td></tr>  </table></p>
+<a name="newsitem1033937671,81268,"></a><h2>Sunday 6 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>This Java3D thing</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:54PM [BST]</small>  </th></tr>  <tr><td> What you saw on the last CottAGE WIP, has been added to <a href="http://www.home.zonnet.nl/duijs24/jemu/" target=_blank>JEmu</a> too, of course by Erik Duijs again :) He also change the Z80 core from the recent CottAGE changes, which resulted in a performance improvement. Again, Erik's main project is CottAGE, and JEmu was changed as a kind of teaser before the new release of CottAGE sees the light. <i>To Erik: look at <a href="http://stretchmame.mameworld.net/" target=_blank>StretchMAME</a>. Sorry man :)</i>  </td></tr>  </table></p>
+<a name="newsitem1033907805,21860,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Another point of view</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:36PM [BST]</small>  </th></tr>  <tr><td> And now, <a href="http://cottage.emuunlim.com/status.htm" target=_blank>CottAGE WIP</a> in 3D! Erik Duijs has been playing with Java3D, and the result as you can see in the snap, is some 3D perspective view while playing games, and also full screen playing. Nice. <i>But I think StretchMAME did this too?</i>  </td></tr>  </table></p>
+<a name="newsitem1033907784,92813,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>What marks the difference</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:36PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. has made a diff-update for <a href="http://www.mameworld.net/mameinfo/" target=_blank>MameInfo.dat 4.1a</a>, since there is no MAME. Along iwth the newest WIP and latest bugs, he has removed the artwork info, and added LEVELS information for the first fourth of games (aproximately). I'm curious to see that LEVELS thing, what it could be?  </td></tr>  </table></p>
+<a name="newsitem1033849758,60136,"></a><h2>Saturday 5 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Open your eyes/Abre los ojos</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:29PM [BST]</small>  </th></tr>  <tr><td> I hope you're paying attention, cause <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> keeps working on updating everything, this time the lucky dat is for Calice 0.6.4.   </td></tr>  </table></p>
+<a name="newsitem1033849728,54620,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>And old man told me...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:28PM [BST]</small>  </th></tr>  <tr><td> There's an update at <a href="http://unmamed.mame.net/" target=_blank>Bobby Tribble's unMAMEd arcade games</a>. Strange, uh? Well, the usual batch of information about more games, removed some missing items from the 0.61 update, and a new page for games without CPU which has a terribly bad explanation :)  </td></tr>  </table></p>
+<a name="newsitem1033829845,61116,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Too long and complex for just two days</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:57PM [BST]</small>  </th></tr>  <tr><td> And yesterday the <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a> looked truly great! Aaron Giles finally submitted the Atari Polygon update, with working games and sound. Tons of screenshots! Do not forget Paul Priest's newest driver, for a shoot'em'up called Nostradamus, nor the DSW fix by... No it's not Stephh ;) Anyway that's old stuff, you gotta see the screenies on the <a href="http://www.mame.net/wip0210.html" target=_blank>archived WIP of the rest of the month</a>. There is more <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a> for today, where Paul Priest enhanced his Nostradamus driver with the addition of Magical Cat Adventure (more shots at <a href="http://www.mameworld.net/tourniquet/Wip.html" target=_blank>Tourniquet's WIP</a>). As well there are some improvements in the Jaleco Megasystem 32, including a new game in it. All the details at you-know-where.  </td></tr>  </table></p>
+<a name="newsitem1033829828,54713,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More news on the subject</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:57PM [BST]</small>  </th></tr>  <tr><td> According to X-Box Hacker, <a href="http://www.xboxhacker.net/index.shtml#1033757136" target=_blank>Final Burn Alpha X</a> has been released. It's still buggy but apparently works. I would like to find a link to the source or something, if possible... Thanks to Lux 92866 and Raiden16 for the info and link.  </td></tr>  </table></p>
+<a name="newsitem1033829804,84180,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Read carefully</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:56PM [BST]</small>  </th></tr>  <tr><td> Since Aaron submitted the polygon games' driver, he also update his <a href="http://www.aarongiles.com/" target=_blank>Home Page</a>. Some of the sentences give too many clues :) On the other hand, he is searching for some more games working in the same hardware.  </td></tr>  </table></p>
+<a name="newsitem1033829779,23633,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Not exactly arcade, not yet</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:56PM [BST]</small>  </th></tr>  <tr><td> There's some more <a href="http://mimic.arcadeheaven.com/" target=_blank>Mimic WIP</a>, showing the advantages of the new Z80 core in two Megadrive screenshots. I hope this also means more arcade compatibility ;)  </td></tr>  </table></p>
+<a name="newsitem1033829763,49169,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Not a peeble</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:56PM [BST]</small>  </th></tr>  <tr><td> It seems that yesterday I left just too soon, since I also missed the release of <a href="http://www.clrmame.com/" target=_blank>ClrMamePro 2.76</a>. This time Roman did a big job, with lots of fixed, changed and improved stuff. The changelog is quite long and nice.  </td></tr>  </table></p>
+<a name="newsitem1033740396,1595,"></a><h2>Friday 4 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sounds good to me</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:06PM [BST]</small>  </th></tr>  <tr><td> I guess some of you know about a certain <a href="http://arcade.hofle.com/" target=_blank>Arcade Ambience sound</a>, a MP3 one hour long which tries to resemble the enviromental sound of an arcade lounge, which was made by Andy H. Well we've discovered it's hosted at <a href="http://www.mamefans.net/" target=_blank>MAMEFans</a>, an argentinian site about... MAME :) So now people without usenet access can grab this fine piece. Still if you find more web links for this huge file, mail me! Thanks to Andy H. himself for the hint.  </td></tr>  </table></p>
+<a name="newsitem1033740374,14103,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The secret has been revealed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:06PM [BST]</small>  </th></tr>  <tr><td> <a href="http://rcp.emuhq.com/" target=_blank>RCP</a>, the author of <a href="http://kiame.emuhq.com/" target=_blank>U64Emu</a>, has decided to release the sources of his emulator for Killer Instinct and Killer Instinct 2. Going open-source is a big step like PeterD said, we hope this project will keep going on with improvements and good spirit. Get the sources if interested at the <a href="http://kiame.emuhq.com/" target=_blank>KIAME site</a>, still the headquarters of the project.  </td></tr>  </table></p>
+<a name="newsitem1033740342,17717,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Too messy for my head</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:05PM [BST]</small>  </th></tr>  <tr><td> The Beaver has posted some more <a href="http://mimic.arcadeheaven.com/" target=_blank>Mimic WIP</a>, reporting about the latest things happening in this generic hardware emulator. Z80 core has been rewritten and you can read about other techy things.  </td></tr>  </table></p>
+<a name="newsitem1033740323,69870,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAIM it</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:05PM [BST]</small>  </th></tr>  <tr><td> I've been reading at the <a href="http://dev.dcemulation.com/mamed/" target=_blank>Unofficial MAMED page</a> about a new MAME version for Dreamcast, done by Warmtoe and called Exidy MAIM, with the gun games from Exidy 440 hardware. No sound, it's slow, but I guess it will improve, and it supports the Dreamcast lightgun. Fun!  </td></tr>  </table></p>
+<a name="newsitem1033678803,55321,"></a><h2>Thursday 3 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Search & find (destroy is alternative)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:00PM [BST]</small>  </th></tr>  <tr><td> Tormod has been kind to write me about the public release of <a href="http://home.online.no/~tjaberg/" target=_blank>fdaz 1.02</a>, or <i>Find Duplicates Across Zipfiles</i>. It detects duplicates by CRC among zipfiles, allows recursion and it's very fast. I use it quite often (as kinda like beta-tester), and it's quite nice for maintaining certain kind of files ;) In the page you will find other nice and small utils like sfz and gsar, take a look. Thanks again Tormod.  </td></tr>  </table></p>
+<a name="newsitem1033655369,35131,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Estupendillo</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:29PM [BST]</small>  </th></tr>  <tr><td> In hopes of getting the team working soon, <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> is doing a lot of work in the shadows, and as results, four emulator and system dats have been updated (ACE, Viva Nonno, ZiNc and ZN) which fix some merging and similar issues with them, plus the Older Emus pack too. Keep on the good work, boy :)  </td></tr>  </table></p>
+<a name="newsitem1033655340,83916,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The hero is back</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:29PM [BST]</small>  </th></tr>  <tr><td> Eldio has released Marquee pack #9, with 24 new images and 61 updated pictures. Great to see him back in action! You can get the pack, updated dats and the rest of marquees at EMAM, located in <a href="http://www.eldio.co.uk/" target=_blank>The Domain of Eldio</a>. Scary :)  </td></tr>  </table></p>
+<a name="newsitem1033655319,10749,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I hope they get the hint!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:28PM [BST]</small>  </th></tr>  <tr><td> If you visit <a href="http://cottage.emuunlim.com/" target=_blank>CottAGE's home page</a> today, you will get two things: First, <a href="http://cottage.emuunlim.com/status.htm" target=_blank>CottAGE WIP</a> with Gollum adding and readding games and clones, and second, an updated development chart which for me means "nice moment for a new release" :)  </td></tr>  </table></p>
+<a name="newsitem1033592765,93052,"></a><h2>Wednesday 2 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>After the drought, flooding</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:06PM [BST]</small>  </th></tr>  <tr><td> Oh how much I was missing the <a href="http://www.mame.net/wip/" target=_blank>MAME WIP</a>! It's back with ten days of development and lots of pics. Novelties: Jaleco Megasystem 32 is looking cooler than ever, Metal Hawk and Steel Gunner 2 are playable (whoohoo!), the 1978 Atari classic Sky Rider, Nichi's SFX, and lots of fixes here and there. Details available at your usual dealer.  </td></tr>  </table></p>
+<a name="newsitem1033592741,70744,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Do that funky cheat dance</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:05PM [BST]</small>  </th></tr>  <tr><td> One month later, Stephh has updated <a href="http://upstephh.free.fr/cheats.htm" target=_blank>The Ultimate Patcher's site</a> with their latest WIP cheat database, with many cheats from the cheat board, so good stuff for everyone.  </td></tr>  </table></p>
+<a name="newsitem1033592725,72245,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Big, bigger, biggest</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:05PM [BST]</small>  </th></tr>  <tr><td> Big <a href="http://cottage.emuunlim.com/status.htm" target=_blank>CottAGE WIP</a> this time. Gollum is the lone star today too, with quite some more games and screenies than we're used too. Check them out for your future browser enjoyment.  </td></tr>  </table></p>
+<a name="newsitem1033511185,77436,"></a><h2>Tuesday 1 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>So cool!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:26PM [BST]</small>  </th></tr>  <tr><td> After a year of development, here we have the first public release of <a href="http://www.emuitalia.com/sse/" target=_blank>SSE 0.070 (beta)</a> by Stefano Teso. It's a Sega Saturn and ST-V hardware emulator, that means Titan-Video arcade games for you! Read the post carefully, and as the author says, also read the documentation! For now it's a DOS binary, doesn't run at full speed and there are emulation parts still missing. We're waiting patiently then :) Thanks to The Informer for the news!  </td></tr>  </table></p>
+<a name="newsitem1033508052,73384,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Updating some needed things</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:34PM [BST]</small>  </th></tr>  <tr><td> Returning from well deserved holidays, <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has updated a few more datafiles: RAINE, Daphne and FBA, as well as a couple MAME resources one. The resource datafiles were Logiqx-style created and packed by the team, good work guys :)  </td></tr>  </table></p>
+<a name="newsitem1033507993,64861,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Rumour unmill</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:33PM [BST]</small>  </th></tr>  <tr><td> The guys over at <a href="http://www.cp-systems2.com/" target=_blank>CPS Systems2</a> have some comments on the latest rumours about Capcom being bought by Microsoft. After the Rareware deal, it wouldn't look really that weird, but it would be sad. Check the information, there's nothing definite yet.  </td></tr>  </table></p>

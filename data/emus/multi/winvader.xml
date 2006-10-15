@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="winvader" type="multi" dat="Winvader_v1.0">
+	<name>Winvader</name>
+	<version>1.0</version>
+	<date>26/04/2000</date>
+
+	<homepage status="bad">http://sites.netscape.net/markehazelwood/winvader/</homepage>
+	<author_link id="mark_hazelwood">&author_mark_hazelwood;</author_link>
+
+	<emulates>Space Invaders and some clones</emulates>
+	<comment>A multiple invaders emulator for Windows</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="lccwin32" type="compilers">&tool_lccwin32;</tool_link>
+		<tool_link id="wavmix" type="snd_libs">&tool_wavmix;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="winvader10.zip">Emulator</file>
+	</files>
+</emulator>

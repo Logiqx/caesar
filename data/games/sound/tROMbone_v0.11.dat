@@ -1,0 +1,889 @@
+clrmamepro (
+	name tROMbone
+	description "tROMbone v0.11"
+	category "Sound Converter"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name klax
+	description "Klax [sound only]"
+	year 1989
+	manufacturer "Atari Games"
+	rom ( name 136075-1.015 size 65536 crc 4d24c768 sha1 da102105a4d8c552e3594b8ffb1903ecbaa69415 )
+	rom ( name 136075-1.016 size 65536 crc 12e9b4b7 sha1 2447f116cd865e46e61022143a2668beca99d5d1 )
+)
+
+game (
+	name hydra
+	description "Hydra [sound only]"
+	year 1990
+	manufacturer "Atari Games"
+	rom ( name hydr1037.bin size 65536 crc b974d3d0 sha1 67ecb17386f4be00c03661de14deff77b8ca85d0 )
+	rom ( name hydr1038.bin size 65536 crc a2eda15b sha1 358888ffdeb3d0e98f59e239de6d7e1f7e15aca2 )
+	rom ( name hydr1039.bin size 65536 crc eb9eaeb7 sha1 cd8e076b07588879f1a0e6c0fb9de9889480bebb )
+)
+
+game (
+	name pitfight
+	description "Pit Fighter [sound only]"
+	year 1990
+	manufacturer "Atari Games"
+	rom ( name 1061 size 65536 crc 5b0468c6 sha1 c910344622386e6be336fe04bc0be758ac6c59db )
+	rom ( name 1062 size 65536 crc f73fe3cb sha1 547b5c4add617237c4c851751a27cda091fb7933 )
+	rom ( name 1063 size 65536 crc aa93421d sha1 f319057dadcb77a489d0bcffb24e0afe88adc769 )
+	rom ( name 1064 size 65536 crc 33f045d5 sha1 1fc7bedafeb3c1ffa0f115538cc300959c8d4601 )
+)
+
+game (
+	name harddriv
+	description "Hard Drivin' [sound only]"
+	year 1988
+	manufacturer "Atari Games"
+	rom ( name hd_s.65a size 65536 crc a88411dc sha1 1fd53c7eadffa163d5423df2f8338757e58d5f2e )
+	rom ( name hd_s.55a size 65536 crc 071a4309 sha1 c623bd51d6a4a56503fbf138138854d6a30b11d6 )
+	rom ( name hd_s.45a size 65536 crc ebf391af sha1 3c4097db8d625b994b39d46fe652585a74378ca0 )
+	rom ( name hd_s.30a size 65536 crc f46ef09c sha1 ba62f73ee3b33d8f26b430ffa468f8792dca23de )
+)
+
+game (
+	name stunrun
+	description "S.T.U.N. Runner [sound only]"
+	year 1989
+	manufacturer "Atari Games"
+	rom ( name sr_snd.1fh size 65536 crc 4dc14fe8 sha1 c7cc00715f6687ced9d69ec793d6e9d4bc1b5287 )
+	rom ( name sr_snd.1ef size 65536 crc cbdabbcc sha1 4d102a5677d96e68d27c1960dc3a237ae6751c2f )
+	rom ( name sr_snd.1de size 65536 crc b973d9d1 sha1 a74a3c981497a9c5557f793d49381a9b776cb025 )
+	rom ( name sr_snd.1cd size 65536 crc 3e419f4e sha1 e382e047f02591a934a53e5fbf07cccf285abb29 )
+)
+
+game (
+	name wfortune
+	description "Wheel Of Fortune [sound only]"
+	year 1989
+	manufacturer "GameTek"
+	rom ( name wofsbom0 size 131072 crc 5c28c3fe sha1 eba64ede749fb26f9926f644d66860b54b4c76e7 )
+)
+
+game (
+	name gtg
+	description "Golden Tee Golf [sound only]"
+	year 1990
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name srom0.bin size 131072 crc 1cccbfdf sha1 546059fea2e7cd5627a666d80b1fc3ed8fcc0762 )
+)
+
+game (
+	name slikshot
+	description "Slick Shot [sound only]"
+	year 1990
+	manufacturer "Grand Products/Incredible Technologies"
+	rom ( name srom0.bin size 65536 crc 4b075f5e sha1 d1ac2c06352a5b96486a7e8cf8baae0c0e5b1883 )
+)
+
+game (
+	name gtg2
+	description "Golden Tee Golf II [sound only]"
+	year 1992
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name vr-srom0 size 131072 crc 4dd4db42 sha1 0dffb51e8de36d8747f443fd65fe9927815eaff0 )
+)
+
+game (
+	name peggle
+	description "Peggle [sound only]"
+	year 1991
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name srom0 size 131072 crc 001846ea sha1 6a6b77f6d51c4a68105c935804b896aad9981719 )
+)
+
+game (
+	name hstennis
+	description "Hot Shots Tennis [sound only]"
+	year 1990
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name srom0.bin size 131072 crc d9ce58c3 sha1 92574e60497d86b8608fba6278ccfc9036cb7f22 )
+)
+
+game (
+	name rimrockn
+	description "Rim Rockin' Basketball [sound only]"
+	year 1991
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name srom0 size 262144 crc 7ad42be0 sha1 c9b519bad3c5c9a3315d1bf3292cc30ee0771db7 )
+)
+
+game (
+	name ninclown
+	description "Ninja Clowns [sound only]"
+	year 1991
+	manufacturer "Strata/Incredible Technologies"
+	rom ( name nc-srom0 size 262144 crc f6b501e1 sha1 0f1eb6f40f891d11822f1255c0a84975526b2b1b )
+)
+
+game (
+	name berlwall
+	description "The Berlin Wall [sound only]"
+	year 1991
+	manufacturer "Kaneko"
+	rom ( name bw000 size 262144 crc d8fe869d sha1 75e9044c4164ca6db9519fcff8eca6c8a2d8d5d1 )
+)
+
+game (
+	name gtmr
+	description "Great 1000 Miles Rally [sound only]"
+	year 1994
+	manufacturer "Kaneko"
+	rom ( name gmmu23.bin size 1048576 crc b9cbfbee sha1 051d48a68477ef9c29bd5cc0bb7955d513a0ab94 )
+	rom ( name gmmu24.bin size 1048576 crc 380cdc7c sha1 ba7f51201b0f2bf15e66557e45bb2af5cf797779 )
+)
+
+game (
+	name shogwarr
+	description "Shogun Warriors [sound only]"
+	year 1992
+	manufacturer "Kaneko"
+	rom ( name fb000e.u42 size 524288 crc 969f1465 sha1 4f56d1ad341b08f4db41b7ab2498740612ff7c3d )
+	rom ( name fb001e.u43 size 524288 crc f524aaa1 sha1 006a886f9df2e57c51b61c6cea70a6574fc20304 )
+	rom ( name fb002.u44 size 524288 crc 05d7c2a9 sha1 e34d395985caec10139a22daa179bb185df157d6 )
+	rom ( name fb003.u45 size 524288 crc 405722e9 sha1 92e51093d50f74f650ba137f5fc2910e0f85337e )
+)
+
+game (
+	name hotpinbl
+	description "Hot Pinball [sound only]"
+	year 1995
+	manufacturer "Comad & New Japan System"
+	rom ( name hp_01.bin size 262144 crc 93c06d3d sha1 8620d274ca7824e7e72a1ad1da3eaa804d550653 )
+)
+
+game (
+	name galspnbl
+	description "Gals Pinball [sound only]"
+	year 1996
+	manufacturer "Comad"
+	rom ( name 1.rom size 262144 crc 93c06d3d sha1 8620d274ca7824e7e72a1ad1da3eaa804d550653 )
+)
+
+game (
+	name galpanic
+	description "Gals Panic [sound only]"
+	year 1990
+	manufacturer "Kaneko"
+	rom ( name pm008e.l size 524288 crc d9379ba8 sha1 5ae7c743319b1a12f2b101a9f0f8fe0728ed1476 )
+	rom ( name pm007e.u size 524288 crc c7ed7950 sha1 133258b058d3c562208d0d00b9fac71202647c32 )
+)
+
+game (
+	name fantasia
+	description "Fantasia [sound only]"
+	year 1994
+	manufacturer "Comad & New Japan System"
+	rom ( name mus-1_01.rom size 524288 crc 22955efb sha1 791c18d1aa0c10810da05c199108f51f99fe1d49 )
+	rom ( name mus-2_02.rom size 524288 crc 4cd4d6c3 sha1 a617472a810aef6d82f5fe75ef2980c03c21c2fa )
+)
+
+game (
+	name newfant
+	description "New Fantasia [sound only]"
+	year 1995
+	manufacturer "Comad & New Japan System"
+	rom ( name musc1_01.rom size 524288 crc 10347fce sha1 f5fbe8ef363fe18b7104be5d2fa92943d1a5d7a2 )
+	rom ( name musc2_02.rom size 524288 crc b9646a8c sha1 e9432261ac86e4251a2c97301c6d014c05110a9c )
+)
+
+game (
+	name missw96
+	description "Miss World '96 Nude [sound only]"
+	year 1996
+	manufacturer "Comad"
+	rom ( name mw96_01.bin size 524288 crc e78a659e sha1 d209184c70e0d7e6d17034c6f536535cda782d42 )
+	rom ( name mw96_02.bin size 524288 crc 60fa0c00 sha1 391aa31e61663cc083a8a2320ba48a9859f3fd4e )
+)
+
+game (
+	name dogyuun
+	description "Dogyuun [sound only]"
+	year 1991
+	manufacturer "Toaplan"
+	rom ( name tp022_2.rom size 262144 crc 043271b3 sha1 c7eaa929e55dd956579b824ea9d20a1d0129a925 )
+)
+
+game (
+	name kbash
+	description "Knuckle Bash [sound only]"
+	year 1993
+	manufacturer "Toaplan"
+	rom ( name kbash07.bin size 262144 crc 3732318f sha1 f0768459f5ad2dee53d408a0a5ae3a314864e667 )
+)
+
+game (
+	name truxton2
+	description "Truxton II / Tatsujin II / Tatsujin Oh [sound only]"
+	year 1992
+	manufacturer "Toaplan"
+	rom ( name tp024_2.bin size 524288 crc f2f6cae4 sha1 bb4e8c36531bed97ced4696ca12fd40ede2531aa )
+)
+
+game (
+	name fixeight
+	description "Fix Eight [sound only]"
+	year 1992
+	manufacturer "Toaplan"
+	rom ( name tp-026-2 size 262144 crc 85063f1f sha1 1bf4d77494de421c98f6273b9876e60d827a6826 )
+)
+
+game (
+	name batsugun
+	description "Batsugun [sound only]"
+	year 1993
+	manufacturer "Toaplan"
+	rom ( name tp030_2.bin size 262144 crc 276146f5 sha1 bf11d1f6782cefcad77d52af4f7e6054a8f93440 )
+)
+
+game (
+	name snowbro2
+	description "Snow Bros. 2 - With New Elves [sound only]"
+	year 1994
+	manufacturer "[Toaplan] Hanafram"
+	rom ( name tp022_2.rom size 524288 crc 638f341e sha1 aa3fca25f099339ece1878ea730c5e9f18ec4823 )
+)
+
+game (
+	name mahoudai
+	description "Mahou Daisakusen [sound only]"
+	year 1993
+	manufacturer "Raizing (Able license)"
+	rom ( name ra_ma_01.06 size 262144 crc 6edb2ab8 sha1 e3032e8eda2686f30df4b7a088c5a4d4d45782ed )
+)
+
+game (
+	name shippumd
+	description "Shippu Mahou Daisakusen [sound only]"
+	year 1994
+	manufacturer "Raizing/8ing"
+	rom ( name ma02rom6.bin size 524288 crc 199e7cae sha1 0f5e13cc8ec42c80bb4bbff90aba29cdb15213d4 )
+)
+
+game (
+	name battleg
+	description "Battle Garegga [sound only]"
+	year 1996
+	manufacturer "Raizing/8ing"
+	rom ( name rom5.bin size 1048576 crc f6d49863 sha1 3a3c354852adad06e8a051511abfab7606bce382 )
+)
+
+game (
+	name batrider
+	description "Armed Police Batrider [sound only]"
+	year 1998
+	manufacturer "Raizing/8ing"
+	rom ( name rom-5.bin size 1048576 crc 4274daf6 sha1 85557b4707d529e5914f03c7a856864f5c24950e )
+	rom ( name rom-6.bin size 1048576 crc 2a1c2426 sha1 8abc3688ffc5ebb94b8d5118d4fa0908f07fe791 )
+)
+
+game (
+	name bjtwin
+	description "Bombjack Twin [sound only]"
+	year 1993
+	manufacturer "NMK"
+	rom ( name bjt.127 size 1048576 crc 372d46dd sha1 18f44e777241af50787730652fa018c51b65ea15 )
+	rom ( name bjt.130 size 1048576 crc 8da67808 sha1 f042574c097f5a8c2684fcc23f2c817c168254ef )
+)
+
+game (
+	name raiden
+	description "Raiden [sound only]"
+	year 1990
+	manufacturer "Seibu Kaihatsu"
+	rom ( name rai7.bin size 65536 crc 8f927822 sha1 592f2719f2c448c3b4b239eeaec078b411e12dbb )
+)
+
+game (
+	name mk
+	description "Mortal Kombat [sound only]"
+	year 1992
+	manufacturer "Midway"
+	rom ( name mks-u12.rom size 262144 crc 258bd7f9 sha1 463890b23f17350fb9b8a85897b0777c45bc2d54 )
+	rom ( name mks-u13.rom size 262144 crc 7b7ec3b6 sha1 6eec1b90d4a4855f34a7ebfbf93f3358d5627db4 )
+)
+
+game (
+	name term2
+	description "Terminator 2 - Judgment Day [sound only]"
+	year 1991
+	manufacturer "Midway"
+	rom ( name t2_snd.12 size 262144 crc e192a40d sha1 1f7a0e282c0c8eb66cbe514128bd104433e53b7a )
+	rom ( name t2_snd.13 size 262144 crc 956fa80b sha1 02ab504627f4b25a394fa4192bb134138cbf6a4f )
+)
+
+game (
+	name totcarn
+	description "Total Carnage [sound only]"
+	year 1992
+	manufacturer "Midway"
+	rom ( name tcu12.bin size 262144 crc d0000ac7 sha1 2d476c7727462623feb2f1a23fb797eaeed5ce30 )
+	rom ( name tch13.bin size 262144 crc e48e6f0c sha1 bf7d548b6b1901966f99c815129ea160ef36f024 )
+)
+
+game (
+	name nbajam
+	description "NBA Jam [sound only]"
+	year 1993
+	manufacturer "Midway"
+	rom ( name nbau12.bin size 524288 crc b94847f1 sha1 e7efa0a379bfa91fe4ffb75f07a5dfbfde9a96b4 )
+	rom ( name nbau13.bin size 524288 crc b6fe24bd sha1 f70f75b5570a2b368ebc74d2a7d264c618940430 )
+)
+
+game (
+	name nbajamte
+	description "NBA Jam TE [sound only]"
+	year 1994
+	manufacturer "Midway"
+	rom ( name te-u12.bin size 524288 crc 4fac97bc sha1 bd88d8c3edab0e35ad9f9350bcbaa17cda61d87a )
+	rom ( name te-u13.bin size 524288 crc 6f27b202 sha1 c1f0db15624d1e7102ce9fd1db49ccf86e8611d6 )
+)
+
+game (
+	name airbustr
+	description "Air Buster [sound only]"
+	year 1990
+	manufacturer "Kaneko (Namco license)"
+	rom ( name pr-200.bin size 262144 crc a4dd3390 sha1 2d72b46b4979857f6b66489bebda9f48799f59cf )
+)
+
+game (
+	name ultraman
+	description "Ultraman [sound only]"
+	year 1991
+	manufacturer "Banpresto/Bandai"
+	rom ( name 910-a06.c06 size 262144 crc 28fa99c9 sha1 54663d79ee105ac18d6ba01333a52e3732f2e5fe )
+)
+
+game (
+	name hbarrel
+	description "Heavy Barrel (US) [sound only]"
+	year 1987
+	manufacturer "Data East USA"
+	rom ( name hb08.bin size 65536 crc 645c5b68 sha1 096ca5d7b5df752df6d2c856b3f94b29eea7c3de )
+)
+
+game (
+	name hbarrelw
+	description "Heavy Barrel (World) [sound only]"
+	year 1987
+	manufacturer "Data East Corporation"
+	rom ( name hb_ec08.rom size 65536 crc 2159a609 sha1 cae503e446c7164a44b59886680f554a4cb1eef2 )
+)
+
+game (
+	name baddudes
+	description "Bad Dudes vs. Dragonninja [sound only]"
+	year 1988
+	manufacturer "Data East USA"
+	rom ( name baddudes.8.bin size 65536 crc 3c87463e sha1 f17c98507b562e91e9b27599614b3249fe68ff7a )
+)
+
+game (
+	name birdtry
+	description "Birdie Try [sound only]"
+	year 1988
+	manufacturer "Data East"
+	rom ( name ek-08.bin size 65536 crc be3db6cb sha1 4e8b8e0bef3a3f36d7e641e27b5f48c8fe9a8b7f )
+)
+
+game (
+	name robocop
+	description "Robocop [sound only]"
+	year 1988
+	manufacturer "Data East Corporation"
+	rom ( name ep02 size 65536 crc 711ce46f sha1 939a8545e53776ff2180d2c7e63bc997689c088e )
+)
+
+game (
+	name hippodrm
+	description "Hippodrome [sound only]"
+	year 1989
+	manufacturer "Data East USA"
+	rom ( name ew03 size 65536 crc b606924d sha1 b759fcec10b333465cf5cd1b30987bf2d62186b2 )
+)
+
+game (
+	name slyspy
+	description "Sly Spy [sound only]"
+	year 1989
+	manufacturer "Data East USA"
+	rom ( name fa11.11k size 131072 crc 4e547bad sha1 655eda4d00f8846957ed40dcbf750fba3ce19f4e )
+)
+
+game (
+	name midres
+	description "Midnight Resistance (World) [sound only]"
+	year 1989
+	manufacturer "Data East Corporation"
+	rom ( name fl17 size 131072 crc 9029965d sha1 9b28dc38e86f24fa89d7971b141c9bdddc662c99 )
+)
+
+game (
+	name midresj
+	description "Midnight Resistance (Japan) [sound only]"
+	year 1989
+	manufacturer "Data East Corporation"
+	rom ( name fh17 size 131072 crc c7b0a24e sha1 8a068d7838bbdfb200c7104deb0cd5647336117a )
+)
+
+game (
+	name bouldash
+	description "Boulder Dash / Boulder Dash Part 2 [sound only]"
+	year 1990
+	manufacturer "Data East Corporation (licensed from First Star)"
+	rom ( name fn-11 size 65536 crc 990fd8d9 sha1 a37bd96ecd75c610d98df3320f53ae4e2b7fdefd )
+)
+
+game (
+	name cninja
+	description "Caveman Ninja [sound only]"
+	year 1991
+	manufacturer "Data East Corporation"
+	rom ( name gl-06.rom size 131072 crc d92e519d sha1 08238f12bf7058a3965ab6348b468e3d35d4cd23 )
+	rom ( name mag-07.rom size 524288 crc 08eb5264 sha1 3e33085f00b758acfc78034dc9a75fd6921fc3fe )
+)
+
+game (
+	name stoneage
+	description "Stoneage [sound only]"
+	year 1991
+	manufacturer "bootleg"
+	rom ( name sa_1_069.bin size 262144 crc 2188f3ca sha1 9c29b62ed261e63d701ff8d43020089c89a64ab2 )
+)
+
+game (
+	name supbtime
+	description "Super Burger Time [sound only]"
+	year 1990
+	manufacturer "Data East Corporation"
+	rom ( name gc05.bin size 131072 crc 2f2246ff sha1 3fcceb6f5aa5f33187bcf4c59d88327f396fa80d )
+)
+
+game (
+	name chinatwn
+	description "China Town [sound only]"
+	year 1991
+	manufacturer "Data East Corporation"
+	rom ( name gv_03-.j14 size 131072 crc 948faf92 sha1 2538c7d4fa7fe0bfdd5dccece8ee82e911cee63f )
+)
+
+game (
+	name tumblep
+	description "Tumble Pop (World) [sound only]"
+	year 1991
+	manufacturer "Data East Corporation"
+	rom ( name h103-.j15 size 131072 crc 01b81da0 sha1 914802f3206dc59a720af9d57eb2285bc8ba822b )
+)
+
+game (
+	name tumblepb
+	description "Tumble Pop (bootleg set 1) [sound only]"
+	year 1991
+	manufacturer "bootleg"
+	rom ( name thumbpop.snd size 524288 crc fabbf15d sha1 de60be43a5cd1d4b93c142bde6cbfc48a25545a3 )
+)
+
+game (
+	name gaiden
+	description "Ninja Gaiden [sound only]"
+	year 1988
+	manufacturer "Tecmo"
+	rom ( name gaiden.4 size 131072 crc b0e0faf9 sha1 2275d2ef5eee356ccf80b9e9644d16fc30a4d107 )
+)
+
+game (
+	name tknight
+	description "Tecmo Knight [sound only]"
+	year 1989
+	manufacturer "Tecmo"
+	rom ( name tkni4.bin size 131072 crc a7a1dbcf sha1 2fee1d9745ce2ab54b0b9cbb6ab2e66ba9677245 )
+)
+
+game (
+	name fstarfrc
+	description "Final Star Force [sound only]"
+	year 1992
+	manufacturer "Tecmo"
+	rom ( name fstarf08.rom size 131072 crc f0ad5693 sha1 a0202801bb9f9c86175ca7989fbc9efa47183188 )
+)
+
+game (
+	name ginkun
+	description "Ganbare Ginkun [sound only]"
+	year 1995
+	manufacturer "Tecmo"
+	rom ( name ginkun08.i18 size 131072 crc 8b7583c7 sha1 be7ce721504afb45e16eda146f12031d818fc94c )
+)
+
+game (
+	name mgakuen
+	description "Mahjong Gakuen [sound only]"
+	year 1988
+	manufacturer "Yuga"
+	rom ( name mg-5.1c size 524288 crc 170332f1 sha1 bc60f144a224f348fd5b8c0207e18a881f739fc1 )
+)
+
+game (
+	name mgakuen2
+	description "Mahjong Gakuen 2 Gakuen-chou no Fukushuu [sound only]"
+	year 1989
+	manufacturer "Face"
+	rom ( name mg2-e.1c size 524288 crc 70fd0809 sha1 7f85fc5f575c925c3246b45fc041f57fc3eb7cc8 )
+)
+
+game (
+	name pkladies
+	description "Poker Ladies [sound only]"
+	year 1989
+	manufacturer "Mitchell"
+	rom ( name pko-voi1.2d size 131072 crc 07e0f531 sha1 315715f7686ae09c446029da36faec5bab7fcaf0 )
+	rom ( name pko-voi2.3d size 131072 crc 18398bf6 sha1 9e9ab85383350d01ba597951a48f18ecee1f46c6 )
+)
+
+game (
+	name dokaben
+	description "Dokaben [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name db01.1d size 131072 crc 62fa6b81 sha1 0168b40df583f11cb28718aa8ab8be7cc08bf561 )
+)
+
+game (
+	name pang
+	description "Pang [sound only]"
+	year 1989
+	manufacturer "Mitchell"
+	rom ( name bb1.bin size 131072 crc c52e5b8e sha1 933b954bfdd2d67e28b032ffabde192531249c1f )
+)
+
+game (
+	name cworld
+	description "Capcom World [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name cw01.bin size 131072 crc f4368f5b sha1 7a8657dd4c5f3b60f5137af3c644793c479562a8 )
+)
+
+game (
+	name hatena
+	description "Adventure Quiz 2 Hatena Hatena no Dai-Bouken [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name q2-01.rom size 131072 crc 149e7a89 sha1 103ab075b92c895e9991e7ef23df2b38d6a792c6 )
+)
+
+game (
+	name spang
+	description "Super Pang [sound only]"
+	year 1990
+	manufacturer "Mitchell"
+	rom ( name spe_01.rom size 131072 crc 2d19c133 sha1 b3ec226f35494dfc259e910895cec8a49dd2f846 )
+)
+
+game (
+	name sbbros
+	description "Super Buster Bros [sound only]"
+	year 1990
+	manufacturer "Mitchell + Capcom"
+	rom ( name 01.d1 size 131072 crc b96ea126 sha1 83fa71994518d40b8938520faa8701c63b7f579e )
+)
+
+game (
+	name marukin
+	description "Super Marukin-Ban [sound only]"
+	year 1990
+	manufacturer "Yuga"
+	rom ( name mg3-e.1d size 524288 crc 106c2fa9 sha1 21d4579f41282dc69ea11fe2977c427543f1c69d )
+)
+
+game (
+	name qtono1
+	description "Quiz Tonosama no Yabou [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name q3-01.rom size 131072 crc 6c1be591 sha1 7cab7121d78284dc95ae4218d1e7639a659dda8b )
+)
+
+game (
+	name qsangoku
+	description "Quiz Sangokushi [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name q4-01.rom size 131072 crc 5d0d07d8 sha1 d36e42852dd1ec0955d19b16e7dfe157b3d48522 )
+)
+
+game (
+	name block
+	description "Block Block [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name b1_01.rom size 131072 crc c2ec2abb sha1 89981f2a887ace4c4580e2828cbdc962f89c215e )
+)
+
+game (
+	name forgottn
+	description "Forgotten Worlds (US) [sound only]"
+	year 1988
+	manufacturer "Capcom"
+	rom ( name lw-03u size 131072 crc 807d051f sha1 720e4733787b9b11f4d1cdce0892b69475802844 )
+	rom ( name lw-04u size 131072 crc e6cd098e sha1 667f6e5736f76a1c4c450c4e2035574ea89d7910 )
+)
+
+game (
+	name lostwrld
+	description "Lost Worlds (Japan) [sound only]"
+	year 1988
+	manufacturer "Capcom"
+	rom ( name lw-03.14c size 131072 crc ce2159e7 sha1 77d564f8b768c1cbd6e5b334f7ee86c4c3f9d62e )
+	rom ( name lw-04.13c size 131072 crc 39305536 sha1 ad24d7b6df2dc5e84a35aecb9ba9b0aaa27ab6e5 )
+)
+
+game (
+	name strider
+	description "Strider [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name strider.18 size 131072 crc 4386bc80 sha1 fb2b261995aeacfa13e7ee40b1a973dfb178f015 )
+	rom ( name strider.19 size 131072 crc 444536d7 sha1 a14f5de2f6b5b29ae5161dca1f8c08c566301a91 )
+)
+
+game (
+	name dwj
+	description "Tenchi wo Kurau [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name 30.bin size 131072 crc 7e5f6cb4 sha1 c7b6b7d6dfe5f9f0e1521e7ce990229f480cf68d )
+	rom ( name 31.bin size 131072 crc 4a30c737 sha1 426eb90f2edf73eb468c94b4a094da3d46acbab2 )
+)
+
+game (
+	name willow
+	description "Willow [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name wl_18.rom size 131072 crc bde23d4d sha1 d1fee2f99c858dfb07edcd600da491c7b656afe0 )
+	rom ( name wl_19.rom size 131072 crc 683898f5 sha1 316a77b663d78c8b9ff6d85756cb05aaaeef4003 )
+)
+
+game (
+	name unsquad
+	description "U.N. Squadron [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name unsquad.18 size 131072 crc 584b43a9 sha1 7820815c8c67d484baf2fdad7e55d8c14b98b860 )
+)
+
+game (
+	name ffight
+	description "Final Fight [sound only]"
+	year 1989
+	manufacturer "Capcom"
+	rom ( name ff18-18.bin size 131072 crc 375c66e7 sha1 36189e23209ce4ae5d9cbabd1574540d0591e7b3 )
+	rom ( name ff19-19.bin size 131072 crc 1ef137f9 sha1 974b5e72aa28b87ebfa7438efbdfeda769dedf5e )
+)
+
+game (
+	name 1941
+	description "1941 - Counter Attack [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name 41_18.rom size 131072 crc d1f15aeb sha1 88089383f2d54fc97026a67f067d448eee5bd0c2 )
+	rom ( name 41_19.rom size 131072 crc 15aec3a6 sha1 8153c03aba005bab62bf0e8b3d15ec1c346326fd )
+)
+
+game (
+	name mercs
+	description "Mercs [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name so2_18.rom size 131072 crc bbea1643 sha1 d43d68a120550067bf0b181f88687ad230cd7908 )
+	rom ( name so2_19.rom size 131072 crc ac58aa71 sha1 93102272e358bc49d3936302efdc5bb68df84d68 )
+)
+
+game (
+	name mtwins
+	description "Mega Twins [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name ch_18.rom size 131072 crc f909e8de sha1 2dd5bd4076e7d5ded98b72919f868ea700df2e4f )
+	rom ( name ch_19.rom size 131072 crc fc158cf7 sha1 294b93d0aea60663ffe96364671552e944a1264b )
+)
+
+game (
+	name chikij
+	description "Chiki Chiki Boys [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name ch_18.rom size 131072 crc f909e8de sha1 2dd5bd4076e7d5ded98b72919f868ea700df2e4f )
+	rom ( name ch_19.rom size 131072 crc fc158cf7 sha1 294b93d0aea60663ffe96364671552e944a1264b )
+)
+
+game (
+	name msword
+	description "Magic Sword - Heroic Fantasy [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name ms_18.rom size 131072 crc fb64e90d sha1 d1a596ce2f8ac14a80b34335b173369a14b45f55 )
+	rom ( name ms_19.rom size 131072 crc 74f892b9 sha1 bf48db5c438154e7b96fd31fde1be4aad5cf25eb )
+)
+
+game (
+	name cawing
+	description "Carrier Air Wing [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name ca_18.rom size 131072 crc 4a613a2c sha1 06e10644fc60925b85d2ca0888c9fa057bfe996a )
+	rom ( name ca_19.rom size 131072 crc 74584493 sha1 5cfb15f1b9729323707972646313aee8ab3ac4eb )
+)
+
+game (
+	name nemo
+	description "Nemo [sound only]"
+	year 1990
+	manufacturer "Capcom"
+	rom ( name nm_18.rom size 131072 crc bab333d4 sha1 c1d0fb61ec46f17eb7edf69e1ad5ac91b5d51daa )
+	rom ( name nm_19.rom size 131072 crc 2650a0a8 sha1 e9e8cc1b27a2cb3e87124061fabcf42982f0611f )
+)
+
+game (
+	name sf2
+	description "Street Fighter II - The World Warrior [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name sf2_18.rom size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name sf2_19.rom size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name 3wonders
+	description "Three Wonders [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name 3wonders.18 size 131072 crc 26b211ab sha1 0ea03fdd9edff41eacfc52aa9e0421c10968356b )
+	rom ( name 3wonders.19 size 131072 crc dbe64ad0 sha1 09f2ad522fe75d7bcca094b8c6696c3733b539d5 )
+)
+
+game (
+	name kod
+	description "The King of Dragons (World) [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name kod18.rom size 131072 crc 69ecb2c8 sha1 fadf266b6b20bd6329a3e638918c5a3106413476 )
+	rom ( name kod19.rom size 131072 crc 02d851c1 sha1 c959a6fc3e7d893557f319debae91f28471f4be2 )
+)
+
+game (
+	name kodj
+	description "The King of Dragons (Japan) [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name kd18.bin size 131072 crc 4c63181d sha1 270f27534a95cb0be3ff3f9ca71c502320d8090b )
+	rom ( name kd19.bin size 131072 crc 92941b80 sha1 5fa7c2793e6febee54a83042d118ddd4f2b7d127 )
+)
+
+game (
+	name captcomm
+	description "Captain Commando [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name cc_18.rom size 131072 crc 6de2c2db sha1 9a1eaba8d104f59a5e61f89679bb5de0c0c64364 )
+	rom ( name cc_19.rom size 131072 crc b99091ae sha1 b19197c7ad3aeaf5f41c26bf853b0c9b502ecfca )
+)
+
+game (
+	name knights
+	description "Knights of the Round [sound only]"
+	year 1991
+	manufacturer "Capcom"
+	rom ( name kr_18.rom size 131072 crc da69d15f sha1 9616207e693bae85705f786cef60b9f6951b5067 )
+	rom ( name kr_19.rom size 131072 crc bfc654e9 sha1 01b3d92e4dedf55ea3933d387c7ddb9ba2549773 )
+)
+
+game (
+	name varth
+	description "Varth - Operation Thunderstorm [sound only]"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name va_18.rom size 131072 crc de30510e sha1 8e878696192606b76a3a0e53553e638d9621cff7 )
+	rom ( name va_19.rom size 131072 crc 0610a4ac sha1 3da02ea6a7a56c85de898806d2a1cf6bc526c1b3 )
+)
+
+game (
+	name cworld2j
+	description "Capcom World 2 [sound only]"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name q530.bin size 131072 crc d10c1b68 sha1 2423241f3340d8ab1b6bf9514ca8c3bba1273873 )
+	rom ( name q531.bin size 131072 crc 7d17e496 sha1 a274b94ec4f042dddc239ecb9ac2e1e2375f5eb2 )
+)
+
+game (
+	name pnickj
+	description "Pnickies [sound only]"
+	year 1994
+	manufacturer "Compile (Capcom license)"
+	rom ( name pnij24.bin size 131072 crc 5092257d sha1 95dc9d10940653b2fb37baf5c1ed27145b02104e )
+	rom ( name pnij25.bin size 131072 crc 22109aaa sha1 cf21e75674d81b2daae2083d02f9f4b6e52722c6 )
+)
+
+game (
+	name qad
+	description "Quiz & Dragons (US) [sound only]"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name qdu_30.rom size 131072 crc f190da84 sha1 d5cd4c69b5d135a2f2fea8ca9631251c9da79e70 )
+	rom ( name qdu_31.rom size 131072 crc b7583f73 sha1 3896e0fcf375e9e5d9ba70cc1ed001cd702f9ff7 )
+)
+
+game (
+	name qadj
+	description "Quiz & Dragons (Japan) [sound only]"
+	year 1994
+	manufacturer "Capcom"
+	rom ( name qad18.bin size 131072 crc 2bfe6f6a sha1 b2a98ac034c65b7ac8167431f05f35d4799032ea )
+	rom ( name qad19.bin size 131072 crc 13d3236b sha1 785d49de484e9ac6971eaceebebfecb8e58563f6 )
+)
+
+game (
+	name qtono2
+	description "Quiz Tonosama no Yabou 2 Zenkoku-ban [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name tn2j-18.11c size 131072 crc a40bf9a7 sha1 07cb1076262a281e31a621cbcc10be0cae883175 )
+	rom ( name tn2j-19.12c size 131072 crc 5b3b931e sha1 cf28891f84814cbfaa3adaade8bb08b1e0546a3d )
+)
+
+game (
+	name pang3
+	description "Pang! 3 [sound only]"
+	year 1995
+	manufacturer "Mitchell"
+	rom ( name pa3-05.10d size 131072 crc 73a10d5d sha1 999465e4fbc35a34746d2db61ad49f61403d5af7 )
+	rom ( name pa3-06.11d size 131072 crc affa4f82 sha1 27b9292bbc121cf585f53297a79fe8f0d0a729ae )
+)
+
+game (
+	name rockmanj
+	description "Rockman - The Power Battle [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name rcm_18.rom size 131072 crc 80f1f8aa sha1 4a5b7b2a6941ad68da7472c63362c7bcd353fa54 )
+	rom ( name rcm_19.rom size 131072 crc f257dbe1 sha1 967def6b6f93039dbc46373caabeb3301577be75 )
+)
+
+game (
+	name sfzch
+	description "Street Fighter ZERO/Alpha (Japan CPS Changer) [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name sfz18 size 131072 crc 61022b2d sha1 6369d0c1d08a30ee19b94e52ab1463a7784b9de5 )
+	rom ( name sfz19 size 131072 crc 3b5886d5 sha1 7e1b7d40ef77b5df628dd663d45a9a13c742cf58 )
+)
+

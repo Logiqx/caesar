@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sse" type="single" dat="Sil's_Single_Emulator_v2.0">
+	<name>Sil's Single Emulator (S.S.E.)</name>
+	<version>v2.0</version>
+	<date>30/11/1998</date>
+
+	<homepage>http://home.kabelfoon.nl/~msilvius/sse.htm</homepage>
+	<author_link id="marcel_silvius">&author_marcel_silvius;</author_link>
+
+	<emulates>Various Games</emulates>
+	<comment>Sil's Single Emulators are based on the sources of Mame029. They were made for speed and size.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="1942.zip">1942 - Emulator</file>
+		<file name="amidar.zip">Amidar - Emulator</file>
+		<file name="beastf.zip">Beastie Feastie - Emulator</file>
+		<file name="blaster.zip">Williams Blaster - Emulator</file>
+		<file name="cclimber.zip">Crazy Climber - Emulator</file>
+		<file name="ckong.zip">Crazy Kong - Emulator</file>
+		<file name="crush.zip">Crush Roller - Emulator</file>
+		<file name="defender.zip">Williams Defender - Emulator</file>
+		<file name="digdug.zip">DigDug  - Emulator</file>
+		<file name="digdug2.zip">DigDug 2 - Emulator</file>
+		<file name="dkong.zip">Donkey Kong - Emulator</file>
+		<file name="dorunrun.zip">Mr.Do Run Run  - Emulator</file>
+		<file name="dowild.zip">Mr.Do's Wild Ride  - Emulator</file>
+		<file name="eyes.zip">Eyes - Emulator</file>
+		<file name="frogger.zip">Frogger - Emulator</file>
+		<file name="froggers.zip">Frogger on Scramble hardware - Emulator</file>
+		<file name="galaga.zip">Galaga - Emulator</file>
+		<file name="jrpacman.zip">Jr. PacMan - Emulator</file>
+		<file name="ladybug.zip">LadyBug - Emulator</file>
+		<file name="lizwiz.zip">Lizard Wizard - Emulator</file>
+		<file name="mappy.zip">Mappy - Emulator</file>
+		<file name="mrdo.zip">Mr.Do! - Emulator</file>
+		<file name="mrdosnow.zip">Mr.Do Snow! - Emulator</file>
+		<file name="mrtnt.zip">Mr.TNT - Emulator</file>
+		<file name="mspacman.zip">Ms.PacMan - Emulator</file>
+		<file name="namcopac.zip">PacMan Namco version - Emulator</file>
+		<file name="nitedrvr.zip">Nite Driver - Emulator</file>
+		<file name="pacheart.zip">PacMan Hearts Bootleg - Emulator</file>
+		<file name="pacman.zip">PacMan Midway version - Emulator</file>
+		<file name="pacplus.zip">PacMan Plus - Emulator</file>
+		<file name="pengo.zip">Pengo - Emulator</file>
+		<file name="ponpoko.zip">Ponpoko - Emulator</file>
+		<file name="popeye.zip">Popeye - Emulator</file>
+		<file name="rallyx.zip">Rally X - Emulator</file>
+		<file name="scobra.zip">Super Cobra - Emulator</file>
+		<file name="scramble.zip">Scramble - Emulator</file>
+		<file name="stargate.zip">Williams Stargate - Emulator</file>
+		<file name="theglob.zip">The Glob - Emulator</file>
+		<file name="turtles.zip">Turtles - Emulator</file>
+		<file name="xevious.zip">Xevious - Emulator</file>
+	</files>
+</emulator>

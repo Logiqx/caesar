@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="alessandro_scotti">
+	<name>Alessandro Scotti</name>
+	<email>dev@walkofmind.com</email>
+	<emulator_links>
+		<emulator_link id="pie" type="multi">&emulator_pie;</emulator_link>
+		<emulator_link id="side" type="multi">&emulator_side;</emulator_link>
+		<emulator_link id="side_linux" type="linux">&emulator_side_linux;</emulator_link>
+		<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+	</emulator_links>
+</author>

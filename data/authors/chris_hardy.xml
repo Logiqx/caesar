@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="chris_hardy">
+	<name>Chris Hardy</name>
+	<email>junofirst@junofirst.freeserve.co.uk</email>
+	<email>chrish@kcbbs.gen.nz</email>
+	<emulator_links>
+		<emulator_link id="junofirst" type="multi">&emulator_junofirst;</emulator_link>
+		<emulator_link id="phoenix" type="multi">&emulator_phoenix;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="tasm" type="assemblers">
+	<name>TASM</name>
+	<version>3.1</version>
+	<date>28/02/1998</date>
+
+	<homepage>http://www.halcyon.com/squakvly/</homepage>
+	<author_link id="squak_valley">&author_squak_valley;</author_link>
+
+	<comment>TASM is a table-driven cross assembler originally for the MS-DOS environment, and now also for LINUX</comment>
+
+	<library_links>
+		<library_link id="n6502" type="cpu">&library_n6502;</library_link>
+	</library_links>
+
+	<files>
+		<file name="tasm31.zip">TASM for DOS</file>
+		<file name="tasm31.taz">TASM for Linux</file>
+	</files>
+</tool>

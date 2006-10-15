@@ -1,0 +1,300 @@
+game (
+	name pooyans
+	description "Pooyan (Stern)"
+	year 1982
+	manufacturer "[Konami] (Stern license)"
+)
+
+game (
+	name kungfum
+	description "Kung Fu Master"
+	year 1984
+	manufacturer "Irem"
+)
+
+game (
+	name sbagman
+	description "Super Bagman"
+	year 1984
+	manufacturer "Valadon Automation"
+)
+
+game (
+	name dkongjr
+	description "Donkey Kong Junior (US)"
+	year 1982
+	manufacturer "Nintendo of America"
+)
+
+game (
+	name bagman
+	description "Bagman"
+	year 1982
+	manufacturer "Valadon Automation"
+)
+
+game (
+	name omegrace
+	description "Omega Race"
+	year 1981
+	manufacturer "Midway"
+)
+
+game (
+	name nibbler
+	description "Nibbler (set 1)"
+	year 1982
+	manufacturer "Rock-ola"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+)
+
+game (
+	name pengo
+	description "Pengo (set 1)"
+	year 1982
+	manufacturer "Sega"
+)
+
+game (
+	name amidaru
+	description "Amidar (Stern)"
+	year 1982
+	manufacturer "Konami (Stern license)"
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+)
+
+game (
+	name scramble
+	description "Scramble"
+	year 1981
+	manufacturer "Konami"
+)
+
+game (
+	name galaxian
+	description "Galaxian (Namco)"
+	year 1979
+	manufacturer "Namco"
+)
+
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name frogseg2
+	description "Frogger (Sega set 2)"
+	year 1981
+	manufacturer "[Konami] (Sega license)"
+)
+
+game (
+	name dkong
+	description "Donkey Kong (US)"
+	year 1981
+	manufacturer "Nintendo of America"
+)
+
+game (
+	name pacman
+	description "PuckMan (Japan set 1)"
+	year 1980
+	manufacturer "Namco"
+)
+
+game (
+	name asteroid
+	description "Asteroids (rev 2)"
+	year 1979
+	manufacturer "Atari"
+)
+
+game (
+	name nitedrvr
+	description "Night Driver"
+	year 1976
+	manufacturer "Atari"
+)
+
+game (
+	name astrof
+	description "Astro Fighter (set 1)"
+	year 1980
+	manufacturer "Data East"
+)
+
+game (
+	name spacduel
+	description "Space Duel"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name bwidow
+	description "Black Widow"
+	year 1982
+	manufacturer "Atari"
+)
+
+game (
+	name dominos
+	description "Dominos"
+	year 1977
+	manufacturer "Atari"
+)
+
+game (
+	name astdelux
+	description "Asteroids Deluxe (rev 2)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name gravitar
+	description "Gravitar (version 3)"
+	year 1982
+	manufacturer "Atari"
+)
+
+game (
+	name travrusa
+	description "Traverse USA / Zippy Race"
+	year 1983
+	manufacturer "Irem"
+)
+
+game (
+	name pleiads
+	description "Pleiads (Tehkan)"
+	year 1981
+	manufacturer "Tehkan"
+)
+
+game (
+	name phoenix
+	description "Phoenix (Amstar)"
+	year 1980
+	manufacturer "Amstar"
+)
+
+game (
+	name dkong3
+	description "Donkey Kong 3 (US)"
+	year 1983
+	manufacturer "Nintendo of America"
+)
+
+game (
+	name mario
+	description "Mario Bros. (US)"
+	year 1983
+	manufacturer "Nintendo of America"
+)
+
+game (
+	name ldrun
+	description "Lode Runner (set 1)"
+	year 1984
+	manufacturer "Irem (licensed from Broderbund)"
+)
+
+game (
+	name arkatayt
+	description "Arkanoid (Tayto bootleg, Japanese)"
+	year 1986
+	manufacturer "bootleg"
+)
+
+game (
+	name tempest
+	description "Tempest (rev 3)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name berzerk
+	description "Berzerk (set 1)"
+	year 1980
+	manufacturer "Stern"
+)
+
+game (
+	name carnival
+	description "Carnival (upright)"
+	year 1980
+	manufacturer "Sega"
+)
+
+game (
+	name atetris
+	description "Tetris (set 1)"
+	year 1988
+	manufacturer "Atari Games"
+)
+
+game (
+	name defender
+	description "Defender (Red label)"
+	year 1980
+	manufacturer "Williams"
+)
+
+game (
+	name joust
+	description "Joust (White/Green label)"
+	year 1982
+	manufacturer "Williams"
+)
+
+game (
+	name bzone
+	description "Battle Zone (set 1)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name redbaron
+	description "Red Baron"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name startrek
+	description "Star Trek"
+	year 1982
+	manufacturer "Sega"
+)
+
+game (
+	name tacscan
+	description "Tac/Scan"
+	year 1982
+	manufacturer "Sega"
+)
+
+game (
+	name tailg
+	description "Tailgunner"
+	year 1979
+	manufacturer "Cinematronics"
+)

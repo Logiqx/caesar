@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="richard_davies">
+	<name>Richard Davies</name>
+	<email>richard@debaser.force9.co.uk</email>
+	<info>Richard contributed to MAME for it's first year, with the Exed Exes driver and fixes/updates for Phoenix (sound!), Carnival, Jump Bug and Pac Man. He also wrote the N64 and Playstation drivers for Allegro and added support for them to MAME.</info>
+	<emulator_links>
+		<emulator_link id="phoenixarcade" type="single">&emulator_phoenixarcade;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
+	</contribution_links>
+</author>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="recent">
+	<title>Recent Emulators</title>
+	<comment>These emulators have all been released/updated in the past year, still active or likely to receive further updates. ROMCenter/CMPro dats are available individually from my main page at <a href="http://www.logiqx.com/">http://www.logiqx.com/</a></comment>
+	<emulator_links>
+		<emulator_link id="cottage" type="java">&emulator_cottage;</emulator_link>
+		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
+		<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
+		<emulator_link id="pacifi3d" type="single">&emulator_pacifi3d;</emulator_link>
+		<emulator_link id="potatomulti" type="java">&emulator_potatomulti;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
+		<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+	</emulator_links>
+</emulator_contents>

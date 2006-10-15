@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="sergio_munoz">
+	<name>Sergio Mu&amp;ntilde;oz</name>
+	<email>sergio@webmedia.es</email>
+	<emulator_links>
+		<emulator_link id="finalpengo" type="single">&emulator_finalpengo;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="pengo" type="single">&emulator_pengo;</emulator_link>
+		<emulator_link id="multipac" type="multi">&emulator_multipac;</emulator_link>
+	</contribution_links>
+</author>

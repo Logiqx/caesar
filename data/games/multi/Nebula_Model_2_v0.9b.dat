@@ -1,0 +1,709 @@
+clrmamepro (
+	name "Nebula Model 2"
+	description "Nebula Model 2 v0.9b"
+	category "Sega Model 2B/2C CRX Emulator"
+	version 20040711
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name bel
+	description "Behind Enemy Lines [Model 2C CRX]"
+	year 1998
+	manufacturer "Sega"
+	rom ( name ep20223.13 size 131072 crc 61b1be98 sha1 03c308c58a72bf3b78f41d5a9c0adaa7aad631c2 )
+	rom ( name ep20224.14 size 131072 crc eb2d7dbf sha1 f3b126e2fcef1cf673b239696ed8018241b1170e )
+	rom ( name ep20225.15 size 131072 crc 4abc6b59 sha1 cc6da75aafcbbc86720435182a66e8de065c8e99 )
+	rom ( name ep20226.16 size 131072 crc 43e05b3a sha1 204b3cc6bbfdc92b4871c45fe4abff4ab4a66317 )
+	rom ( name mp20227.5 size 2097152 crc 1277686e sha1 fff27006659458300001425261b944e690f1d494 )
+	rom ( name mp20228.6 size 2097152 crc 49cb5568 sha1 ee3273302830f3499c7d4e548b629c51e0369e8a )
+	rom ( name mp20229.7 size 2097152 crc cdec7bf4 sha1 510b6d41f1d32a9929379ba76037db137164cd43 )
+	rom ( name mp20230.8 size 2097152 crc a166fa87 sha1 d4f6d4fba7f43b21f0bf9d948ec93b372425bf7c )
+	rom ( name mp20231.9 size 2097152 crc b3393e93 sha1 aa52ae307aa37faaaf86c326642af1946c5f4056 )
+	rom ( name mp20232.10 size 2097152 crc da4a2e11 sha1 f9138813f6d1ca2126f5de10d8d69dcbb533aa0e )
+	rom ( name mp20233.11 size 2097152 crc 3e079a3b sha1 a3f15cd68a514cf80f0a40dbbb08e8b0489a0e4b )
+	rom ( name mp20234.12 size 2097152 crc 58bde826 sha1 386d0d07738f579cb23e4168aceb26f56bcca1c1 )
+	rom ( name mp20235.30 size 2097152 crc 78fa11ef sha1 a60deabb662e9c09f5d6342dc1a1c6045744d93f )
+	rom ( name mp20236.29 size 2097152 crc 8de9a3c2 sha1 e7fde1fd509531e1002ff813163067dc0d134536 )
+	rom ( name mp20237.24 size 2097152 crc 89b5d8b6 sha1 6e0a0323d6a804f1f1e4404694cc1ea7dfbf2d95 )
+	rom ( name mp20238.23 size 2097152 crc 0a480c7c sha1 239d2c9c49cb8ddc0d6aa956a497b494217f38d7 )
+	rom ( name mp20239.22 size 2097152 crc 6cd8d8a5 sha1 1c634fbbcbafb1c3825117682901a3264599b246 )
+	rom ( name mp20240.21 size 2097152 crc 51615908 sha1 c70252b0b6f17aa0cd9b5264d4166df8ab7d1784 )
+	rom ( name mp20241.20 size 2097152 crc 51974b98 sha1 7d6ab9c0ccec77676222611bf200d2e067e20520 )
+	rom ( name mp20242.19 size 2097152 crc e7f86ac7 sha1 7b7724127b27834eaaa228050ceb779d8a027882 )
+	rom ( name mp20243.18 size 2097152 crc 48671f7c sha1 b0bdc7f42450c8d9cebbcf43cf858f7399e378e4 )
+	rom ( name mp20244.17 size 2097152 crc 9d2a8660 sha1 59302e7119c9ff779ce0c871713fe3688c29cccb )
+	rom ( name mp20245.25 size 2097152 crc 36490a08 sha1 a462e094c9a9ec4743e4bf2c4ce23357257a2a54 )
+	rom ( name mp20246.26 size 2097152 crc 250d6ca1 sha1 cd1d4bc0fcf89e47884b87863a09bb263bce72cc )
+	rom ( name mp20247.27 size 2097152 crc 00b0417d sha1 5e9d38509c1e5273079a342a64ca2c956cd47e6d )
+	rom ( name mp20248.28 size 2097152 crc 0ace6bef sha1 a231aeb7b984f5b927144f0eec4ef2282429494f )
+	rom ( name mp20249.31 size 131072 crc dc24f13d sha1 66ab8e843319d07663ef13f3d2299c6c7414071f )
+	rom ( name mp20250.32 size 2097152 crc 91b735d3 sha1 b0e7e493fb20ebf30c17378199e49d529ffb3f20 )
+	rom ( name mp20251.33 size 2097152 crc 703a947b sha1 95b8d3dc29e87e6537b288d8e946728e0b345dd0 )
+	rom ( name mp20252.34 size 2097152 crc 8f48f375 sha1 9e511e89e99c77f06a5fba033ca8f9b98bd86f91 )
+	rom ( name mp20253.35 size 2097152 crc ca6aa17c sha1 f6df2483ca75573449ba36638dbbed4be7843a44 )
+)
+
+game (
+	name doa
+	description "Dead or Alive [Model 2A CRX]"
+	year 1996
+	manufacturer "Tecmo"
+	rom ( name ep19328.30 size 524288 crc 400bdbfb sha1 54db969fa54cf3c502d77aa6a6aaeef5d7db9f04 )
+	rom ( name mp19312.5 size 2097152 crc 1dcedb10 sha1 a60fb9e7c0731004d0f0ff28c4cde272b21dd658 )
+	rom ( name mp19313.6 size 2097152 crc 8c63055e sha1 9f375b3f4a8884163ffcf364989499f2cd21e18b )
+	rom ( name mp19329.31 size 2097152 crc 8fd2708a sha1 7a341b15afa489aa95af70cb34ac3934b1a7d887 )
+	rom ( name mp19330.32 size 2097152 crc 0c69787d sha1 dc5870cd93da2babe5fc9c03b252fc6ea6e45721 )
+	rom ( name mp19331.33 size 2097152 crc c18ea0b8 sha1 0f42458829ae85fffcedd42cd9f728a7a3d75f1c )
+	rom ( name mp19332.34 size 2097152 crc 2877f96f sha1 00e5677da30527b862e238f10762a5cbfbabde2b )
+	rom ( name e19310aa.12 size 524288 crc 06486f7a sha1 b3e14103570e5f45aed16e1c158e469bc85002ae )
+	rom ( name e19311aa.13 size 524288 crc 1be62912 sha1 dcc2df8e28e1a107867f74248e6ffcac83afe7c0 )
+	rom ( name mp19314.7 size 4194304 crc a8d963fb sha1 6a1680d6380321279b0d701e4b47d4ae712f3b72 )
+	rom ( name mp19315.8 size 4194304 crc 90ae5682 sha1 ec56df14f0847daf9bd0435f785a8946c94d2988 )
+	rom ( name mp19316.9 size 4194304 crc 2d2d1b1a sha1 77ce5d8aa98bdbc97ae08a452f584b30d8885cfc )
+	rom ( name mp19317.10 size 4194304 crc 96b17bcf sha1 3aa9d2f8afad74b5626ce2cf2d7a86aef8cac80b )
+	rom ( name mp19318.11 size 4194304 crc ab431bfe sha1 45b5ccf67c91014daf6bf3c4bd8ec372b246e404 )
+	rom ( name mp19319.12 size 4194304 crc c5cb694d sha1 448b45d30cc7a71395a49a2c5789989fd7b7b4e7 )
+	rom ( name mp19320.25 size 4194304 crc 190c017f sha1 4c3250b9abe39fc5c8fd0fcdb5fb7ea131434516 )
+	rom ( name mp19321.27 size 4194304 crc 9c49e845 sha1 344839640d9814263fa5ed00c2043cd6f18d5cb2 )
+	rom ( name mp19322.17 size 4194304 crc d0e6ecf0 sha1 1b87f6337b4286fd738856da899462e7baa92601 )
+	rom ( name mp19323.18 size 4194304 crc 453d3f4a sha1 8c0530824bb8ecb007021ee6e93412597bb0ecd6 )
+	rom ( name mp19324.19 size 4194304 crc d972201f sha1 1857ffc58697997ee22436586c398eb0c3daba6c )
+	rom ( name mp19325.21 size 4194304 crc 7cbe432d sha1 8b31e292160b88df9c77b36096914d09ab8b6086 )
+	rom ( name mp19326.22 size 4194304 crc b976da02 sha1 a154eb128604aac9e35438d8811971133eab94a1 )
+	rom ( name mp19327.23 size 4194304 crc 6a75634c sha1 8ed74c7afd95fc7a4df0f01a47479b6f44e3073c )
+)
+
+game (
+	name doab
+	description "Dead or Alive [Model 2B CRX]"
+	year 1996
+	manufacturer "Tecmo"
+	cloneof doa
+	romof doa
+	rom ( name ep19328.30 merge ep19328.30 size 524288 crc 400bdbfb sha1 54db969fa54cf3c502d77aa6a6aaeef5d7db9f04 )
+	rom ( name mp19312.5 merge mp19312.5 size 2097152 crc 1dcedb10 sha1 a60fb9e7c0731004d0f0ff28c4cde272b21dd658 )
+	rom ( name mp19313.6 merge mp19313.6 size 2097152 crc 8c63055e sha1 9f375b3f4a8884163ffcf364989499f2cd21e18b )
+	rom ( name mp19329.31 merge mp19329.31 size 2097152 crc 8fd2708a sha1 7a341b15afa489aa95af70cb34ac3934b1a7d887 )
+	rom ( name mp19330.32 merge mp19330.32 size 2097152 crc 0c69787d sha1 dc5870cd93da2babe5fc9c03b252fc6ea6e45721 )
+	rom ( name mp19331.33 merge mp19331.33 size 2097152 crc c18ea0b8 sha1 0f42458829ae85fffcedd42cd9f728a7a3d75f1c )
+	rom ( name mp19332.34 merge mp19332.34 size 2097152 crc 2877f96f sha1 00e5677da30527b862e238f10762a5cbfbabde2b )
+	rom ( name ep19379b.15 size 524288 crc 8a10a944 sha1 c675a344f74d0118907fb5292495883c0c30c719 )
+	rom ( name ep19380b.16 size 524288 crc 766c1ec8 sha1 49250886f66db9fd37d88bc22c8f22046f74f043 )
+	rom ( name mp19314.7 merge mp19314.7 size 4194304 crc a8d963fb sha1 6a1680d6380321279b0d701e4b47d4ae712f3b72 )
+	rom ( name mp19315.8 merge mp19315.8 size 4194304 crc 90ae5682 sha1 ec56df14f0847daf9bd0435f785a8946c94d2988 )
+	rom ( name mp19316.9 merge mp19316.9 size 4194304 crc 2d2d1b1a sha1 77ce5d8aa98bdbc97ae08a452f584b30d8885cfc )
+	rom ( name mp19317.10 merge mp19317.10 size 4194304 crc 96b17bcf sha1 3aa9d2f8afad74b5626ce2cf2d7a86aef8cac80b )
+	rom ( name mp19318.11 merge mp19318.11 size 4194304 crc ab431bfe sha1 45b5ccf67c91014daf6bf3c4bd8ec372b246e404 )
+	rom ( name mp19319.12 merge mp19319.12 size 4194304 crc c5cb694d sha1 448b45d30cc7a71395a49a2c5789989fd7b7b4e7 )
+	rom ( name mp19320.25 merge mp19320.25 size 4194304 crc 190c017f sha1 4c3250b9abe39fc5c8fd0fcdb5fb7ea131434516 )
+	rom ( name mp19321.27 merge mp19321.27 size 4194304 crc 9c49e845 sha1 344839640d9814263fa5ed00c2043cd6f18d5cb2 )
+	rom ( name mp19322.17 merge mp19322.17 size 4194304 crc d0e6ecf0 sha1 1b87f6337b4286fd738856da899462e7baa92601 )
+	rom ( name mp19323.18 merge mp19323.18 size 4194304 crc 453d3f4a sha1 8c0530824bb8ecb007021ee6e93412597bb0ecd6 )
+	rom ( name mp19324.19 merge mp19324.19 size 4194304 crc d972201f sha1 1857ffc58697997ee22436586c398eb0c3daba6c )
+	rom ( name mp19325.21 merge mp19325.21 size 4194304 crc 7cbe432d sha1 8b31e292160b88df9c77b36096914d09ab8b6086 )
+	rom ( name mp19326.22 merge mp19326.22 size 4194304 crc b976da02 sha1 a154eb128604aac9e35438d8811971133eab94a1 )
+	rom ( name mp19327.23 merge mp19327.23 size 4194304 crc 6a75634c sha1 8ed74c7afd95fc7a4df0f01a47479b6f44e3073c )
+)
+
+game (
+	name dynabb
+	description "Dynamite Baseball [Model 2B CRX]"
+	year 1997
+	manufacturer "Sega"
+	rom ( name mp19853.35 size 2097152 crc cfc64857 sha1 cf51fafb3d45bf799b9ccb407bee862e15c95981 )
+	rom ( name ep19831a.13 size 524288 crc 0527ea40 sha1 8e80e2627aafe395d8ced4a97ba50cd9a781fb45 )
+	rom ( name ep19832a.14 size 524288 crc 2f380a40 sha1 d770dfd70aa14dcc716aa47e6cbf26f32649f294 )
+	rom ( name ep19833a.15 size 524288 crc d99ed1b2 sha1 b04613d564c04c35feafccad56ed85810d894185 )
+	rom ( name ep19834a.16 size 524288 crc 24192bb1 sha1 c535ab4b38ffd42f03eed6a5a1706e867eaccd67 )
+	rom ( name ep19849.31 size 524288 crc b0d5bff0 sha1 1fb824adaf3ed330a8039be726a87eb85c00abd7 )
+	rom ( name mp19835.5 size 4194304 crc a3b0a37c sha1 dcde1946008ab86c7fca212ec57c1cc468f30c58 )
+	rom ( name mp19836.6 size 4194304 crc d70a32aa sha1 fd56bb284eb66e6c078b386a0db1c2b10dc1dd4a )
+	rom ( name mp19837.7 size 4194304 crc c02187d9 sha1 1da108a2ec00e3fc472b1a819655aff8c679051d )
+	rom ( name mp19838.8 size 4194304 crc 546b61cd sha1 0cc0edd0a9c288143168d63a7d48d0fbfa64d8bf )
+	rom ( name mp19839.9 size 4194304 crc d5a74cf4 sha1 ddea9cfc0a14461448acae2eed2092829ef3b418 )
+	rom ( name mp19840.10 size 4194304 crc 45704e95 sha1 2a325ee39f9d719399040ed2a41123bcf0c6f385 )
+	rom ( name mp19841.11 size 4194304 crc 989309af sha1 d527f46865d00a91d5b38a93dc38baf62f372cb1 )
+	rom ( name mp19842.12 size 4194304 crc eec54070 sha1 29ed4a005b52f6e16492998183ec4e5f7475022b )
+	rom ( name mp19843.17 size 4194304 crc 019bc583 sha1 8889a9438d8f3ea50058372ad03ebd4653f23313 )
+	rom ( name mp19844.18 size 4194304 crc 150198d6 sha1 3ea5c3e41eb95e715860619f771bc580c91b095f )
+	rom ( name mp19845.21 size 4194304 crc 2d23e73a sha1 63e5859518172f88a5ba98b69309d4162c233cf0 )
+	rom ( name mp19846.22 size 4194304 crc fe53cd17 sha1 58eab07976972917c345a8d3a50ff1e96e5fa798 )
+	rom ( name mp19847.25 size 4194304 crc fe55edbd sha1 b0b6135b23349d7d6ae007002d8df83748cab7b1 )
+	rom ( name mp19848.27 size 4194304 crc 4c0526b7 sha1 e8db7125be8a052e41a00c69cc08ca0d75b3b96f )
+	rom ( name mp19880.32 size 2097152 crc e1fd27bf sha1 a7189ad398138a91f96b192cb7c112c0301dcda4 )
+	rom ( name mp19850.33 size 2097152 crc dc644077 sha1 8765bdb1d471dbeea065a97ae131f2d8f78aa13d )
+	rom ( name mp19851.34 size 2097152 crc cfda4efd sha1 14d55f127da6673c538c2ef9be34a4e02ca449f3 )
+)
+
+game (
+	name dynamcop
+	description "Dynamite Cop [Model 2A CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name mp20806.23 size 4194304 crc 0c942073 sha1 5f32a56857e2213b110c32deea184dba882e34b8 )
+	rom ( name mp20807.24 size 4194304 crc 1241e0f2 sha1 3f7fa1d7d3d398bc8d5295bc1df6fe11405d20d9 )
+	rom ( name mp20809.25 size 4194304 crc 3b7b4622 sha1 c6f1a1fd2684f352d3846b7f859b0405fa2d667a )
+	rom ( name mp20808.26 size 4194304 crc 706bd495 sha1 f857b303afda6301b19d97dfe5c313126261716e )
+	rom ( name mp20810.27 size 4194304 crc 838a10a7 sha1 a658f1864829058b1d419e7c001e47cd0ab06a20 )
+	rom ( name mp20805.22 size 4194304 crc f6605ede sha1 7c95bfe2e95bae3d59c3c9efe1f40b5bc292ad44 )
+	rom ( name mp20815.37 size 2097152 crc 1b5aaae4 sha1 32b4bf6c096fdccdd5d8f1ddb6c27d3389a52234 )
+	rom ( name ep20811.30 size 524288 crc a154b83e sha1 2640c6b6966f4a888329e583b6b713bd0e779b6b )
+	rom ( name ep20930.12 size 524288 crc b8fc8ff7 sha1 53b0f9dc8494effa077170ddced2d95f43a5f134 )
+	rom ( name ep20931.13 size 524288 crc 89d13f88 sha1 5e266b5e153a0d9a57360cfd1af81e3a58a2fb7d )
+	rom ( name ep20932.14 size 524288 crc 618a68bf sha1 3022283dded4d08d790d034b6d543c0397b5bf5a )
+	rom ( name ep20933.15 size 524288 crc 13abe49c sha1 a741a0205c1b3664ab4d09d6d991a768269a79ea )
+	rom ( name mp20791.4 size 4194304 crc 4883d0df sha1 b98af63e81f6c1b2766d7e96acbd1821bba000d4 )
+	rom ( name mp20792.5 size 4194304 crc 47becfa2 sha1 a333885872a64b322f3cb464a70352d73654b1b3 )
+	rom ( name mp20793.6 size 4194304 crc 42ea08f8 sha1 e70b55709067628ea0bf3f5190a300100b61eed1 )
+	rom ( name mp20794.7 size 4194304 crc 8e5cd1db sha1 d90e86d38bda12f2d0f99e23a42928f05bde3ea8 )
+	rom ( name mp20795.8 size 4194304 crc 0ef85e12 sha1 97c657edd98cde6f0780a04a7711e5b370087a60 )
+	rom ( name mp20796.9 size 4194304 crc 870139cb sha1 24fda2cd458cf7a3db485564c02ac61d30cbdf5e )
+	rom ( name mp20797.10 size 4194304 crc 87bab1e4 sha1 af2b2d82364621a1528d6ed59fbfbf15dc93ee72 )
+	rom ( name mp20798.11 size 4194304 crc 40dd752b sha1 8c2e210ac7c7b133ba9befc79a07c4ca6b4e3f18 )
+	rom ( name mp20812.31 size 2097152 crc 695b6088 sha1 09682d18144e60d740a9d7a3e19db6f76fa581f1 )
+	rom ( name mp20813.32 size 2097152 crc 1908679c sha1 32913385f09da2e43af0c4a4612b955527bfe759 )
+	rom ( name mp20814.36 size 2097152 crc e8ebc74c sha1 731ce721bb9e148f3a9f7fbe569522567a681c4e )
+	rom ( name mp20802.19 size 4194304 crc d11b5267 sha1 b90909849fbe0f62d5ec7c38608c84e7fa845ebf )
+	rom ( name mp20801.18 size 4194304 crc c6914173 sha1 d0861366c4123c833a325df5345f951386a94d1a )
+	rom ( name mp20800.17 size 4194304 crc 3c2ee808 sha1 dc0c470c6b410ab991ef0e09ce1cc0f63c8a204d )
+	rom ( name mp20799.16 size 4194304 crc 424571bf sha1 18a4e8d0e968fff3b645b59a0023b0ef38d51924 )
+	rom ( name mp20803.20 size 4194304 crc 61a8ad52 sha1 0215b5de6d10f0852ac0ca4e10475e10243e39c7 )
+	rom ( name mp20804.21 size 4194304 crc 03b35cb8 sha1 7bd2ae89f9cc7c0570dbaffe5f54aea2dfa1b39e )
+)
+
+game (
+	name dynmcopb
+	description "Dynamite Cop [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof dynamcop
+	romof dynamcop
+	rom ( name mp20806.23 merge mp20806.23 size 4194304 crc 0c942073 sha1 5f32a56857e2213b110c32deea184dba882e34b8 )
+	rom ( name mp20807.24 merge mp20807.24 size 4194304 crc 1241e0f2 sha1 3f7fa1d7d3d398bc8d5295bc1df6fe11405d20d9 )
+	rom ( name mp20809.25 merge mp20809.25 size 4194304 crc 3b7b4622 sha1 c6f1a1fd2684f352d3846b7f859b0405fa2d667a )
+	rom ( name mp20808.26 merge mp20808.26 size 4194304 crc 706bd495 sha1 f857b303afda6301b19d97dfe5c313126261716e )
+	rom ( name mp20810.27 merge mp20810.27 size 4194304 crc 838a10a7 sha1 a658f1864829058b1d419e7c001e47cd0ab06a20 )
+	rom ( name mp20805.22 merge mp20805.22 size 4194304 crc f6605ede sha1 7c95bfe2e95bae3d59c3c9efe1f40b5bc292ad44 )
+	rom ( name mp20815.37 merge mp20815.37 size 2097152 crc 1b5aaae4 sha1 32b4bf6c096fdccdd5d8f1ddb6c27d3389a52234 )
+	rom ( name ep20811.30 merge ep20811.30 size 524288 crc a154b83e sha1 2640c6b6966f4a888329e583b6b713bd0e779b6b )
+	rom ( name ep20932.14 merge ep20932.14 size 524288 crc 618a68bf sha1 3022283dded4d08d790d034b6d543c0397b5bf5a )
+	rom ( name ep20933.15 merge ep20933.15 size 524288 crc 13abe49c sha1 a741a0205c1b3664ab4d09d6d991a768269a79ea )
+	rom ( name progrom0.15 size 524288 crc 29b142f2 sha1 b81d1ee7203b2f5fb6db4ff4185f4071e99aaedf )
+	rom ( name progrom1.16 size 524288 crc c495912e sha1 1a45296a5554923cb52b38586e40ceda2517f1bf )
+	rom ( name mp20791.4 merge mp20791.4 size 4194304 crc 4883d0df sha1 b98af63e81f6c1b2766d7e96acbd1821bba000d4 )
+	rom ( name mp20792.5 merge mp20792.5 size 4194304 crc 47becfa2 sha1 a333885872a64b322f3cb464a70352d73654b1b3 )
+	rom ( name mp20793.6 merge mp20793.6 size 4194304 crc 42ea08f8 sha1 e70b55709067628ea0bf3f5190a300100b61eed1 )
+	rom ( name mp20794.7 merge mp20794.7 size 4194304 crc 8e5cd1db sha1 d90e86d38bda12f2d0f99e23a42928f05bde3ea8 )
+	rom ( name mp20795.8 merge mp20795.8 size 4194304 crc 0ef85e12 sha1 97c657edd98cde6f0780a04a7711e5b370087a60 )
+	rom ( name mp20796.9 merge mp20796.9 size 4194304 crc 870139cb sha1 24fda2cd458cf7a3db485564c02ac61d30cbdf5e )
+	rom ( name mp20797.10 merge mp20797.10 size 4194304 crc 87bab1e4 sha1 af2b2d82364621a1528d6ed59fbfbf15dc93ee72 )
+	rom ( name mp20798.11 merge mp20798.11 size 4194304 crc 40dd752b sha1 8c2e210ac7c7b133ba9befc79a07c4ca6b4e3f18 )
+	rom ( name mp20812.31 merge mp20812.31 size 2097152 crc 695b6088 sha1 09682d18144e60d740a9d7a3e19db6f76fa581f1 )
+	rom ( name mp20813.32 merge mp20813.32 size 2097152 crc 1908679c sha1 32913385f09da2e43af0c4a4612b955527bfe759 )
+	rom ( name mp20814.36 merge mp20814.36 size 2097152 crc e8ebc74c sha1 731ce721bb9e148f3a9f7fbe569522567a681c4e )
+	rom ( name mp20802.19 merge mp20802.19 size 4194304 crc d11b5267 sha1 b90909849fbe0f62d5ec7c38608c84e7fa845ebf )
+	rom ( name mp20801.18 merge mp20801.18 size 4194304 crc c6914173 sha1 d0861366c4123c833a325df5345f951386a94d1a )
+	rom ( name mp20800.17 merge mp20800.17 size 4194304 crc 3c2ee808 sha1 dc0c470c6b410ab991ef0e09ce1cc0f63c8a204d )
+	rom ( name mp20799.16 merge mp20799.16 size 4194304 crc 424571bf sha1 18a4e8d0e968fff3b645b59a0023b0ef38d51924 )
+	rom ( name mp20803.20 merge mp20803.20 size 4194304 crc 61a8ad52 sha1 0215b5de6d10f0852ac0ca4e10475e10243e39c7 )
+	rom ( name mp20804.21 merge mp20804.21 size 4194304 crc 03b35cb8 sha1 7bd2ae89f9cc7c0570dbaffe5f54aea2dfa1b39e )
+)
+
+game (
+	name fvipers
+	description "Fighting Vipers [Model 2B CRX]"
+	year 1995
+	manufacturer "Sega"
+	rom ( name ep18606d.15 size 131072 crc 7334de7d sha1 d10355198a3f62b503701f44dc49bfe018c787d1 )
+	rom ( name ep18607d.16 size 131072 crc 700d2ade sha1 656e25a6389f04f7fb9099f0b41fb03fa645a2f0 )
+	rom ( name ep18604d.13 size 131072 crc 704fdfcf sha1 52b6ae90231d40a3ece133debaeb210fc36c6fcb )
+	rom ( name ep18605d.14 size 131072 crc 7dddf81f sha1 3e0da0eaf1f98dbbd4ca5f78c04052b347b234b2 )
+	rom ( name mp18614.11 size 4194304 crc 0ebc899f sha1 49c80b11b207cba4ec10fbb7cc140f3a5b039e82 )
+	rom ( name mp18615.12 size 4194304 crc 018abdb7 sha1 59e5b6378404e10ace4f3675428d61d3ae9d1963 )
+	rom ( name mp18612.9 size 4194304 crc 1f174cd1 sha1 89b56dd2f350edd093dc06f4cc258652c26b1d45 )
+	rom ( name mp18613.10 size 4194304 crc f057cdf2 sha1 e16d5de2a00670aba4fbe0dc88ccf317de9842be )
+	rom ( name ep18610d.7 size 524288 crc a1871703 sha1 8d7b362a8fd9d63f5cea2f3fab97e5fe3fa30d87 )
+	rom ( name ep18611d.8 size 524288 crc 39a75fee sha1 c962805f03e2503dd1671ba3e906c6e306a92e48 )
+	rom ( name ep18608d.5 size 524288 crc 5bc11881 sha1 97ce5faf9719cb02dd3a15d47245cc4634f08fcb )
+	rom ( name ep18609d.6 size 524288 crc cd426035 sha1 94c85a656c86bc4880db6bff2ef795ec30f62f39 )
+	rom ( name mp18622.29 size 2097152 crc c74d99e3 sha1 9914be9925b86af6af670745b5eba3a9e4f24af9 )
+	rom ( name mp18623.30 size 2097152 crc 746ae931 sha1 a6f0f589ad174a34493ee24dc0cb509ead3aed70 )
+	rom ( name ep18628.31 size 524288 crc aa7dd79f sha1 d8bd1485273652d7c2a303bbdcdf607d3b530283 )
+	rom ( name mp18629.32 size 2097152 crc 5d0006cc sha1 f6d2552ffc5473836aafb06735b62f65ef8f5ef5 )
+	rom ( name mp18630.33 size 2097152 crc 9d405615 sha1 7e7ffbb4ec080a0815c6ca49b9d8efe1f676203b )
+	rom ( name mp18631.34 size 2097152 crc 9dae5b45 sha1 055ac989eafb81749326520d0be264f7a984c627 )
+	rom ( name mp18632.35 size 2097152 crc 39da6805 sha1 9e9523b7c2bc50f869d062f80955da1281951299 )
+	rom ( name mp18616.17 size 2097152 crc 15a239be sha1 1a33c48f99eed20da4b622219d21ec5995acc9aa )
+	rom ( name mp18619.21 size 2097152 crc 9d5e8e2b sha1 f79ae0a7b966ddb0948b464d233845d4f362a2e7 )
+	rom ( name mp18617.18 size 2097152 crc a62cab7d sha1 f20a545148f2a1d6f4f1c897f1ed82ad17429dce )
+	rom ( name mp18620.22 size 2097152 crc 4d432afd sha1 30a1ef1e309a163b2d8756810fc33debf069141c )
+	rom ( name mp18618.19 size 2097152 crc adab589f sha1 67818ec4185da17f1549fb3a125cade267a46a48 )
+	rom ( name mp18621.23 size 2097152 crc f5eeaa95 sha1 38d7019afcef6dbe292354d717fd49da511cbc2b )
+	rom ( name mp18626.27 size 2097152 crc 9df0a961 sha1 d8fb4bbbdc00303330047be380a79da7838d4fd5 )
+	rom ( name mp18624.25 size 2097152 crc 1d74433e sha1 5b6d2d17609ae741546d99d40f575bb24d62b5d3 )
+	rom ( name mp18627.28 size 2097152 crc 946175a0 sha1 8b6e5e1342f98c9c6f2f7d61e843275d244f331a )
+	rom ( name mp18625.26 size 2097152 crc 182fd572 sha1 b09a682eff7e835ff8c33aaece12f3727a91dd5e )
+)
+
+game (
+	name gunblade
+	description "Gunblade NY - Special Air Assault Force [Model 2B CRX]"
+	year 1995
+	manufacturer "Sega"
+	rom ( name mp18974.11 size 4194304 crc e29ecaff sha1 dcdfe9f59158cec2f02b213ee13f5e40cdb92e55 )
+	rom ( name mp18975.12 size 4194304 crc d8187582 sha1 34a0b32eeed1a9f41bca8b9261851881b2ba79f2 )
+	rom ( name mp18976.9 size 4194304 crc c95c15eb sha1 892063e91b2ed20e0600d4b188da1e9f45a19692 )
+	rom ( name mp18977.10 size 4194304 crc db8f5b6f sha1 c11d2c9e1e215aa7b2ebb777639c8cd651901f52 )
+	rom ( name mp18978.32 size 4194304 crc 0f78b3e3 sha1 6c2cd6236cb001bb8d487a9b1e9907519dc43daa )
+	rom ( name mp18979.34 size 4194304 crc f13ea36f sha1 a8165116b5e07e031ff960201dd8c9a441544961 )
+	rom ( name mp18980.17 size 4194304 crc 22345534 sha1 7b8bdcfe88953ce1b2d75af2ce4712ab6507e2cf )
+	rom ( name mp18981.21 size 4194304 crc 2544a33d sha1 a76193f70adb6abeba02328b290af5cca47d4e25 )
+	rom ( name mp18982.18 size 4194304 crc d0a92b2a sha1 95404baed88cc95b75ff9b9084d09622961d3e57 )
+	rom ( name mp18983.22 size 4194304 crc 1b4af982 sha1 550f8248699b9267da7d2e64002be56972381714 )
+	rom ( name mp18984.25 size 4194304 crc 756f6f37 sha1 095964de773f515d64d65dbc8f8ef9bae97e5ba9 )
+	rom ( name mp18985.27 size 4194304 crc ad6166e3 sha1 2c487fb743730cacf92dbea952b1efada0f073df )
+	rom ( name mp18986.29 size 4194304 crc 04820f7b sha1 5eb6682399b358d77658d82e612b02b724e3f3e1 )
+	rom ( name mp18987.30 size 4194304 crc 2419367f sha1 0a04a1049d2da486dc9dbb97b383bd24259b78c8 )
+	rom ( name ep18988a.15 size 524288 crc f63f1ad2 sha1 fcfb0a4691cd7d66168c421e4e1694ecaea56ab2 )
+	rom ( name ep18989a.16 size 524288 crc c1c84d65 sha1 92bffbf1250c53499c37a53f9e2a054fc7bf256f )
+	rom ( name ep18990.31 size 524288 crc 02b1b0d1 sha1 759b4683dc7149e04f41ddac7bd395e8d07ea858 )
+)
+
+game (
+	name hotd
+	description "House Of The Dead, The [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name ep19694.13 size 524288 crc e85ca1a3 sha1 3d688be98f78fe40c2af1e91df6decd500400ae9 )
+	rom ( name ep19695.14 size 524288 crc cd52b461 sha1 bc96ab2a4ba7f30c0b89814acc8931c8bf800a82 )
+	rom ( name ep19696.15 size 524288 crc 03da5623 sha1 be0bd34a9216375c7204445f084f6c74c4d3b0c8 )
+	rom ( name ep19697.16 size 524288 crc a9722d87 sha1 0b14f9a81272f79a5b294bc024711042c5fb2637 )
+	rom ( name ep19698.5 size 524288 crc e7a7b6ea sha1 77cb53f8730fdb55080b70910ab8c750d79acb02 )
+	rom ( name ep19699.6 size 524288 crc 8160b3d9 sha1 9dab483c60624dddba8085e94a4325739592ec17 )
+	rom ( name ep19706.30 size 524288 crc 1277531c sha1 08d3e733ba9989fcd32290634171c73f26ab6e2b )
+	rom ( name ep19707.29 size 524288 crc 384fd133 sha1 6d060378d0f801b04d12e7ee874f2fa0572992d9 )
+	rom ( name ep19720.31 size 524288 crc b367d21d sha1 1edaed489a3518ddad85728e416319f940ea02bb )
+	rom ( name mp19700.7 size 4194304 crc 0558cfd3 sha1 94440839d3325176c2d03f39a78949d0ef040bba )
+	rom ( name mp19701.8 size 4194304 crc 224a8929 sha1 933770546d46abca400e7f524eff2ae89241e56d )
+	rom ( name mp19702.9 size 4194304 crc fc8aa3b7 sha1 b64afb17d9c97277d8c4f20811f14f65a61cbb56 )
+	rom ( name mp19703.10 size 4194304 crc 208d993d sha1 e5c45ea5621f99661a87ffe88e24764d2bbcb51e )
+	rom ( name mp19704.11 size 4194304 crc aa80dbb0 sha1 24e63f4392847f288971469cd10448536eb435d4 )
+	rom ( name mp19705.12 size 4194304 crc f906843b sha1 bee4f43b3ad15d93a2f9f07b873c9cf5d228e2f9 )
+	rom ( name mp19708.24 size 4194304 crc 5cb790f2 sha1 d3cae450186bc62fd746b14d6a05cb397efcfe40 )
+	rom ( name mp19709.23 size 4194304 crc d08937bf sha1 c92571e35960f27dc8b0b059f12167026d0666d1 )
+	rom ( name mp19710.22 size 4194304 crc 80df1036 sha1 3cc59bb4910aa5382e95762f63325c06b763bd23 )
+	rom ( name mp19711.21 size 4194304 crc 080d13f1 sha1 4167428a2a903aea2c14631ccf924afb81338b89 )
+	rom ( name mp19712.20 size 4194304 crc 41577943 sha1 25a0d921c8662043c5860dc7a226d4895ff9fff6 )
+	rom ( name mp19713.19 size 4194304 crc 4d092cd3 sha1 b6d0be283c25235249186751c7f025a7c38d2f36 )
+	rom ( name mp19714.18 size 4194304 crc 3e55ab49 sha1 70b4c1627db80e6734112c02265495e2b4a53278 )
+	rom ( name mp19715.17 size 4194304 crc 3ff7dda7 sha1 0a61b091bb0bc659f0cbca8ad401d0925a1dc2ea )
+	rom ( name mp19716.25 size 4194304 crc 45c7dcce sha1 f602cabd879c69afee544848feafb9fb9f5d51e2 )
+	rom ( name mp19717.26 size 4194304 crc 393e440b sha1 927ac9cad22f87b339cc86043678470ff139ce1f )
+	rom ( name mp19718.27 size 4194304 crc a9de5924 sha1 3ebac2aeb1467939337c9a5c87ad9c293560dae2 )
+	rom ( name mp19719.28 size 4194304 crc 838f8343 sha1 fe6622b5917f9a99c097fd60d9446ac6b481fa75 )
+	rom ( name mp19721.32 size 4194304 crc f5d8fa9a sha1 6836973a687c59dd80f8e6c30d33155e306be199 )
+	rom ( name mp19722.34 size 4194304 crc a56fa539 sha1 405a892bc368ba862ba71bda7525b421d6973c0e )
+)
+
+game (
+	name indy500
+	description "Indianapolis 500 [Model 2B CRX]"
+	year 1995
+	manufacturer "Sega"
+	rom ( name ep18254a.15 size 524288 crc ad0f1fc5 sha1 0bff35fc1d892aaffbf1a3965bf3109c54839f4b )
+	rom ( name ep18255a.16 size 524288 crc 784daab8 sha1 299e87f8ec7bdefa6f94f4ab65e29e91f290611e )
+	rom ( name ep18389.7 size 524288 crc d22ea019 sha1 ef10bb0ffcb1bbcf4672bb5f705a27679a793764 )
+	rom ( name ep18390.8 size 524288 crc 38e796e5 sha1 b23cfe45c363d616a65decd57aeb8ae61d5370e9 )
+	rom ( name ep18249.29 size 524288 crc a399f023 sha1 8b453313c16d935701ed7dbf71c1607c40aede63 )
+	rom ( name ep18250.30 size 524288 crc 7479ad52 sha1 d453e25709cd5970cd21bdc8b4785bc8eb5a50d7 )
+	rom ( name mp18239.9 size 4194304 crc 9a2db86e sha1 0b81f6037657af7d96ed5e9bfef407d87cbcc294 )
+	rom ( name mp18240.10 size 4194304 crc ab46a35f sha1 67da857db7155a858a1fa575b6c50f4be3c9ab7c )
+	rom ( name mp18237.11 size 4194304 crc 37e4255a sha1 3ee69a5b9364048dfab242773d97f3af430845b7 )
+	rom ( name mp18238.12 size 4194304 crc bf837bac sha1 6624417b65f15f20427bc42c27283f10342c76b5 )
+	rom ( name mp18232.27 size 4194304 crc f962347d sha1 79f07ee6b821724294ca9e7a079cb33249102508 )
+	rom ( name mp18231.25 size 4194304 crc 673d5338 sha1 ce592857496ccc0a51efb377cf7cccc000b4296b )
+	rom ( name mp18236.22 size 4194304 crc 6ca29e0e sha1 5de8b569d2a91047836f4a251c21db82fd7841c9 )
+	rom ( name mp18234.21 size 4194304 crc 1178bfc8 sha1 4a9982fdce08f9d375371763dd5287e8485c24b1 )
+	rom ( name mp18235.18 size 4194304 crc e7d70d59 sha1 6081739c15a634d5cc7680a4fc7decead93540ed )
+	rom ( name mp18233.17 size 4194304 crc 48a024d3 sha1 501c6ab969713187025331942f922cb0e8efa69a )
+	rom ( name ep18391.31 size 262144 crc 79579b72 sha1 36fed8a9eeb34968b2852ea8fc9198427f0d27c6 )
+	rom ( name mp18241.32 size 2097152 crc 3a380ae1 sha1 114113325e9e5262af8750c05089f24818943cde )
+	rom ( name mp18242.33 size 2097152 crc 1cc3deae sha1 5c9cb8ce43a909b25b4e734c6a4ffd786f4dde31 )
+	rom ( name mp18243.34 size 2097152 crc a00a0053 sha1 9c24fbcd0318c7e195dd153d6ba05e8c1e052968 )
+	rom ( name mp18244.35 size 2097152 crc bfa75beb sha1 fec89260d887e90ee9c2803e2eaf937cf9bfa10b )
+)
+
+game (
+	name lastbrxa
+	description "Last Bronx (Rev A) [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name mp19058.34 size 4194304 crc e237c11c sha1 7c89cba757bd58747ed0d633b2fe7ef559fcd15e )
+	rom ( name ep19046a.15 size 524288 crc 75be7b7a sha1 e57320ac3abac54b7b5278596979746ed1856188 )
+	rom ( name ep19047a.16 size 524288 crc 1f5541e2 sha1 87214f285a7bf67fbd824f2190cb9b2daf408193 )
+	rom ( name mp19048.9 size 4194304 crc 02180215 sha1 cc5f8e61fee07aa4fc5bfe2d011088ee523c77c2 )
+	rom ( name mp19049.10 size 4194304 crc db7eecd6 sha1 5955885ad2bfd69d7a2c4e1d1df907aca41fbdd0 )
+	rom ( name mp19050.11 size 4194304 crc e6af2b61 sha1 abdf7aa4c594f0916d4335c70fdd67dc6b1f4630 )
+	rom ( name mp19051.12 size 4194304 crc 14b88961 sha1 bec22f657c6d939c095b99ca9c6eb44b9683fd72 )
+	rom ( name mp19052.17 size 4194304 crc d7f27216 sha1 b393af96522306dc2e055aea1e837979f41940d4 )
+	rom ( name mp19053.21 size 4194304 crc 1f328465 sha1 950a92209b7c24f66db62c31627a1f1d52721f1e )
+	rom ( name mp19054.25 size 2097152 crc 05366277 sha1 f618e2b9b26a1f7eccebfc8f8e17ef8ad9029be8 )
+	rom ( name mp19055.27 size 2097152 crc 85a57d49 sha1 99c49fe135dc46fa861337b5bac654ae8478778a )
+	rom ( name mp19056.31 size 524288 crc 22a22918 sha1 baa039cd86650b6cd81f295916c4d256e60cb29c )
+	rom ( name mp19057.32 size 4194304 crc 64809438 sha1 aa008f83e1eff0daafe01944248ebae6054cee9f )
+)
+
+game (
+	name pltkids
+	description "Pilot Kids [Model 2A CRX]"
+	year 1999
+	manufacturer "Psikyo"
+	rom ( name ep21276.sd0 size 524288 crc 8f415bc3 sha1 4e8e1ccbe025deca42fcf2582f3da46fa34780b7 )
+	rom ( name ep21281.pr0 size 524288 crc 293ead5d sha1 5a6295e543d7e68387de0ca4d88e930a0d8ed25c )
+	rom ( name ep21282.pr1 size 524288 crc ed0e7b9e sha1 15f3fab6ac2dd40f32bda55503378ab14f998707 )
+	rom ( name mp21277.sd1 size 2097152 crc bfba0ff6 sha1 11081b3eabc33a42ecfc0b2b535ce16510496144 )
+	rom ( name mp21278.sd2 size 2097152 crc 27e18e08 sha1 254c0ad4d6bd572ff0efc3ea80489e73716a31a7 )
+	rom ( name mp21279.sd3 size 2097152 crc 3a8dcf68 sha1 312496b45b699051c8b4dd0e5d94e73fe5f3ad8d )
+	rom ( name mp21280.sd4 size 2097152 crc aa548124 sha1 a94adfe16b5c3236746451c181ccd3e1c27432f4 )
+	rom ( name mp21262.da0 size 4194304 crc aa71353e sha1 6eb5e8284734f01beec1dbbee049b6b7672e2504 )
+	rom ( name mp21263.da1 size 4194304 crc d55d4509 sha1 641db6ec3e9266f8265a4b541bcd8c2f7d164cc3 )
+	rom ( name mp21264.tp0 size 4194304 crc 6b35204d sha1 3a07701b140eb3088fad29c8b2d9c1e1e7ef9471 )
+	rom ( name mp21265.tp2 size 4194304 crc f061e639 sha1 a89b7a84192fcc1e9e0fe9adf7446f7b275d5a03 )
+	rom ( name mp21266.tp4 size 4194304 crc f9c32021 sha1 b21f8bf281bf2cfcdc7e5eb798cd633e905ab8b8 )
+	rom ( name mp21267.tp6 size 4194304 crc c42cc938 sha1 6153f52add63295122e1215dd07d648d030a7306 )
+	rom ( name mp21268.tp1 size 4194304 crc 16ce2147 sha1 39cba6b4f1130a3da7e2d226c948425eec34090e )
+	rom ( name mp21269.tp3 size 4194304 crc 8c06255e sha1 9a8c302528e590be1b56ed301da30abf21f0be2e )
+	rom ( name mp21270.tp5 size 4194304 crc b61f81c3 sha1 7733f44e791974070df139958eb97e0585ee50f8 )
+	rom ( name mp21271.tp7 size 4194304 crc a5325c75 sha1 d52836760475c7d9fbb4e5b8147ac416ffd1fcd9 )
+	rom ( name mp21272.tx0 size 4194304 crc dd605c21 sha1 8363a082a666ceeb84df84929ff3fbaff49af821 )
+	rom ( name mp21273.tx2 size 4194304 crc 722ec8a2 sha1 1a1dc92488cde6284a96acce80e47a9cceccde76 )
+	rom ( name mp21274.tx1 size 4194304 crc f045e3d1 sha1 548909d2da22ed98594e0ab6ecffebec4fca2f93 )
+	rom ( name mp21275.tx3 size 4194304 crc c4870b7c sha1 feb8a34acb620a36ed5aea92d22622a76d7e1b29 )
+)
+
+game (
+	name pltkidsb
+	description "Pilot Kids (Rev A) [Model 2B CRX]"
+	year 1999
+	manufacturer "Psikyo"
+	cloneof pltkids
+	romof pltkids
+	rom ( name ep21276.sd0 merge ep21276.sd0 size 524288 crc 8f415bc3 sha1 4e8e1ccbe025deca42fcf2582f3da46fa34780b7 )
+	rom ( name ep21285a.15 size 524288 crc bdde5b41 sha1 14c3f5031f85c6756c00bc67765a967ebaf7eb7f )
+	rom ( name ep21286a.16 size 524288 crc c8092e0e sha1 01030621efa9c97eb43f4a5e3e029ec99a2363c5 )
+	rom ( name mp21277.sd1 merge mp21277.sd1 size 2097152 crc bfba0ff6 sha1 11081b3eabc33a42ecfc0b2b535ce16510496144 )
+	rom ( name mp21278.sd2 merge mp21278.sd2 size 2097152 crc 27e18e08 sha1 254c0ad4d6bd572ff0efc3ea80489e73716a31a7 )
+	rom ( name mp21279.sd3 merge mp21279.sd3 size 2097152 crc 3a8dcf68 sha1 312496b45b699051c8b4dd0e5d94e73fe5f3ad8d )
+	rom ( name mp21280.sd4 merge mp21280.sd4 size 2097152 crc aa548124 sha1 a94adfe16b5c3236746451c181ccd3e1c27432f4 )
+	rom ( name mp21262.da0 merge mp21262.da0 size 4194304 crc aa71353e sha1 6eb5e8284734f01beec1dbbee049b6b7672e2504 )
+	rom ( name mp21263.da1 merge mp21263.da1 size 4194304 crc d55d4509 sha1 641db6ec3e9266f8265a4b541bcd8c2f7d164cc3 )
+	rom ( name mp21264.tp0 merge mp21264.tp0 size 4194304 crc 6b35204d sha1 3a07701b140eb3088fad29c8b2d9c1e1e7ef9471 )
+	rom ( name mp21265.tp2 merge mp21265.tp2 size 4194304 crc f061e639 sha1 a89b7a84192fcc1e9e0fe9adf7446f7b275d5a03 )
+	rom ( name mp21266.tp4 merge mp21266.tp4 size 4194304 crc f9c32021 sha1 b21f8bf281bf2cfcdc7e5eb798cd633e905ab8b8 )
+	rom ( name mp21267.tp6 merge mp21267.tp6 size 4194304 crc c42cc938 sha1 6153f52add63295122e1215dd07d648d030a7306 )
+	rom ( name mp21268.tp1 merge mp21268.tp1 size 4194304 crc 16ce2147 sha1 39cba6b4f1130a3da7e2d226c948425eec34090e )
+	rom ( name mp21269.tp3 merge mp21269.tp3 size 4194304 crc 8c06255e sha1 9a8c302528e590be1b56ed301da30abf21f0be2e )
+	rom ( name mp21270.tp5 merge mp21270.tp5 size 4194304 crc b61f81c3 sha1 7733f44e791974070df139958eb97e0585ee50f8 )
+	rom ( name mp21271.tp7 merge mp21271.tp7 size 4194304 crc a5325c75 sha1 d52836760475c7d9fbb4e5b8147ac416ffd1fcd9 )
+	rom ( name mp21272.tx0 merge mp21272.tx0 size 4194304 crc dd605c21 sha1 8363a082a666ceeb84df84929ff3fbaff49af821 )
+	rom ( name mp21273.tx2 merge mp21273.tx2 size 4194304 crc 722ec8a2 sha1 1a1dc92488cde6284a96acce80e47a9cceccde76 )
+	rom ( name mp21274.tx1 merge mp21274.tx1 size 4194304 crc f045e3d1 sha1 548909d2da22ed98594e0ab6ecffebec4fca2f93 )
+	rom ( name mp21275.tx3 merge mp21275.tx3 size 4194304 crc c4870b7c sha1 feb8a34acb620a36ed5aea92d22622a76d7e1b29 )
+)
+
+game (
+	name schamp
+	description "Sonic The Fighters [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name ep19001.15 size 524288 crc 9b088511 sha1 20718d985d14f4d2b1b8e982bfbebddd73cdb972 )
+	rom ( name ep19002.16 size 524288 crc 46f510da sha1 edcbf61122db568ccaa4c3106f507087c1740c9b )
+	rom ( name ep19003.7 size 524288 crc 63bae5c5 sha1 cbd55b7b7376ac2f67befaf4c43eef3727ba7b7f )
+	rom ( name ep19004.8 size 524288 crc c10c9f39 sha1 cf806501dbfa48d16cb7ed5f39a6146f734ba455 )
+	rom ( name mp19005.9 size 4194304 crc 98cd1127 sha1 300c9cdef199f31255bacb95399e9c75be73f817 )
+	rom ( name mp19006.10 size 4194304 crc e79f0a26 sha1 37a4ff13cfccfda587ca59a9ef08b5914d2c28d4 )
+	rom ( name mp19007.11 size 4194304 crc 8b8ff751 sha1 5343a9a2502052e3587424c984bd48caa7564849 )
+	rom ( name mp19008.12 size 4194304 crc a94654f5 sha1 39ad2e9431543ea6cbc0307bc39933cf64956a74 )
+	rom ( name mp19009.17 size 4194304 crc fd410350 sha1 5af3a90c87ec8a90a8fc58ae469ef23ec6e6213c )
+	rom ( name mp19010.18 size 4194304 crc 6fd94187 sha1 e3318ef0eb0168998e139e527339c7c667c17fb1 )
+	rom ( name mp19012.21 size 4194304 crc 9bb7b5b6 sha1 8e13a0bb34e187a340b38d76ab15ff6fe4bae764 )
+	rom ( name mp19013.22 size 4194304 crc 9e232fe5 sha1 a6c4b2b3bf8efc6f6263f73d6f4cacf9785010c1 )
+	rom ( name mp19015.29 size 2097152 crc c74d99e3 sha1 9914be9925b86af6af670745b5eba3a9e4f24af9 )
+	rom ( name mp19016.30 size 2097152 crc 746ae931 sha1 a6f0f589ad174a34493ee24dc0cb509ead3aed70 )
+	rom ( name mp19017.25 size 4194304 crc 7b298379 sha1 52fad61412040c90c7dd300c0fd7aa5b8d5af441 )
+	rom ( name mp19018.26 size 4194304 crc 3b7e7a12 sha1 9c707a7c2cffc5eff19f9919ddfae7300842fd19 )
+	rom ( name mp19019.27 size 4194304 crc 59121896 sha1 c29bedb41b14d63c6067ae12ad009deaafca2aa4 )
+	rom ( name mp19020.28 size 4194304 crc 9540dba0 sha1 7b9a75caa8c5b12ba54c6f4f746d80b165ee97ab )
+	rom ( name ep19021.31 size 524288 crc 0b9f7583 sha1 21290389cd8bd9e52ed438152cc6cb5793f809d3 )
+	rom ( name mp19022.32 size 2097152 crc 4381869b sha1 43a21609b49926a227558d4938088526acf1fe42 )
+	rom ( name mp19023.33 size 2097152 crc 07c67f88 sha1 696dc85e066fb27c7618e52e0acd0d00451e4589 )
+	rom ( name mp19024.34 size 2097152 crc 15ff76d3 sha1 b431bd85c973aa0a4d6032ac98fb057139f142a2 )
+	rom ( name mp19025.35 size 2097152 crc 6ad8fb70 sha1 b666d31f9be26eb0cdcb71041a3c3c08d5aa41e1 )
+)
+
+game (
+	name sgt24h
+	description "Super GT 24H [Model 2B CRX]"
+	year 1996
+	manufacturer "Jaleco"
+	rom ( name ep18643a.7 size 131072 crc b5e048ec sha1 8182e05a2ffebd590a936c1359c81e60caa79c2a )
+	rom ( name ep19155.15 size 524288 crc 593952fd sha1 1fc4afc6e3910cc8adb0688542e61a9efb442e56 )
+	rom ( name ep19156.16 size 524288 crc a91fc4ee sha1 a37611da0295f7d7e5d2411c3f9b73140d311f74 )
+	rom ( name ep19157.31 size 524288 crc 8ffea0cf sha1 439e784081329db2fe03419681150f3216f4ccff )
+	rom ( name mp19146.11 size 4194304 crc d66b5b0f sha1 c2a5b83c9041d8f46dfac4a3ff8cfdefb96d02b3 )
+	rom ( name mp19147.12 size 4194304 crc d5558f48 sha1 c9f40328d6974b7767fa6ba719d0d2b7a173c210 )
+	rom ( name mp19148.9 size 4194304 crc a14c86db sha1 66cd8672c00e4e2572de7c5648de595674ffa8f8 )
+	rom ( name mp19149.10 size 4194304 crc 94ef5849 sha1 3e1748dc5e61c93eedbf0ca6b1946a30be722403 )
+	rom ( name mp19150.17 size 4194304 crc e0ad870e sha1 3429d9f9434d75ddb5fa05d4b493828adfe826a4 )
+	rom ( name mp19151.21 size 4194304 crc e2a1b125 sha1 cc5c2d9ab8a01f52e66969464f53ae3cefca6a09 )
+	rom ( name mp19152.25 size 2097152 crc 363769a2 sha1 51b2f11a01fb72e151025771f8a8496993e605c2 )
+	rom ( name mp19153.27 size 2097152 crc 136adfd0 sha1 70ce4e609c8b003ff04518044c18d29089e6a353 )
+	rom ( name mp19154.32 size 4194304 crc 7cd9e679 sha1 b9812c4f3042f95febc96bcdd46e3b0724ad4b4f )
+)
+
+game (
+	name stcc
+	description "Sega Touring Car Championship [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name ep18643a.7 size 131072 crc b5e048ec sha1 8182e05a2ffebd590a936c1359c81e60caa79c2a )
+	rom ( name ep19272a.15 size 524288 crc 20cedd05 sha1 e465967c784de18caaaac77e164796e9779f576a )
+	rom ( name ep19273a.16 size 524288 crc 1b0ab4d6 sha1 142bcd53fa6632fcc866bbda817aa83470111ef1 )
+	rom ( name ep19266.18 size 524288 crc 41464ee2 sha1 afbbc0328bd36c34c69f0f54404dfd6a64036417 )
+	rom ( name ep19267.22 size 524288 crc 780f994d sha1 f134482ed0fcfc7b3eea39947da47081301a111a )
+	rom ( name ep19268.26 size 524288 crc bc4e081c sha1 b89d39ed19a146d1e94e52682f67d2cd23d8df7f )
+	rom ( name ep19269.28 size 524288 crc 01881121 sha1 fe711709e70b3743b2a0318b823d859f233d3ff8 )
+	rom ( name ep19270.9 size 524288 crc 7bd1d04e sha1 0490f3abc97af16e05f0dc9623e8fc635b1d4262 )
+	rom ( name ep19271.10 size 524288 crc d2d74f85 sha1 49e7a1e6478122b4f0e679d7b336fb34044b503b )
+	rom ( name ep19274.31 size 131072 crc 2dcc08ae sha1 bad26e2c994f2d4db5d9be0e34cf21a8bf5aa7e9 )
+	rom ( name mp19251.17 size 4194304 crc e06ff7ba sha1 6d472d03cd3caeb66be929c74ae63c32d305a3db )
+	rom ( name mp19252.21 size 4194304 crc 68509993 sha1 654d5cdf44e7e1e788b26593f418ce76a5c1165a )
+	rom ( name mp19253.25 size 2097152 crc 41ba79fb sha1 f4d8a4f8278eec6d528bd947b91ebeb5223559d5 )
+	rom ( name mp19254.27 size 2097152 crc 1ec49c02 sha1 a9bdbab7b4b265c9118cf27fd45ca94f4516d5c6 )
+	rom ( name mp19255.29 size 2097152 crc d78bf030 sha1 e6b3d8422613d22db50cf6c251f9a21356d96653 )
+	rom ( name mp19256.30 size 2097152 crc cb2b2d9e sha1 86b2b8bb6074352f72eb81e616093a1ba6f5163f )
+	rom ( name mp19257.11 size 4194304 crc ac28ee24 sha1 31d360dc435336942f70365d0491a2ccfc24c4c0 )
+	rom ( name mp19258.12 size 4194304 crc f5ba7d78 sha1 9c8304a1f856d1ded869ed2b86de52129510f019 )
+	rom ( name mp19259.32 size 4194304 crc 4d55dbfc sha1 6e57e6e6e785b0f14bb5e221a44d518dbde7ad65 )
+	rom ( name mp19261.34 size 4194304 crc b88878ff sha1 4bebcfba68b0cc2fa0bcacfaaf2d2e8af3625c5d )
+	rom ( name ep19275.2s size 131072 crc ee809d3f sha1 347080858fbfe9955002f382603a1b86a52d26d5 )
+	rom ( name mp19262.57s size 2097152 crc 922aed7a sha1 8d6872bdd46eaf2076c10d18c10af8ccbd3b10e8 )
+	rom ( name mp19263.58s size 2097152 crc a256f4cd sha1 a17b49050f1ecf1970477b12201cc3b58b31d89c )
+	rom ( name mp19264.59s size 2097152 crc b6c51d0f sha1 9e0969a1e49ec1462f69cd0f0f9ce630d66174ce )
+	rom ( name mp19265.60s size 2097152 crc 7d98700a sha1 bedd37314ecab424b5b27030e1e7dc1b596303f3 )
+)
+
+game (
+	name stccb
+	description "Sega Touring Car Championship (Rev B) [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof stcc
+	romof stcc
+	rom ( name sega-tc.u15 size 524288 crc efdfb625 sha1 5026e28b9d8267492bd0d9746d64526540a001da )
+	rom ( name sega-tc.u16 size 524288 crc 61a357d9 sha1 3f22f13a3baa46f93cb40e8af9534afaa57ead9c )
+	rom ( name mp19257.11 merge mp19257.11 size 4194304 crc ac28ee24 sha1 31d360dc435336942f70365d0491a2ccfc24c4c0 )
+	rom ( name mp19258.12 merge mp19258.12 size 4194304 crc f5ba7d78 sha1 9c8304a1f856d1ded869ed2b86de52129510f019 )
+	rom ( name ep19270.9 merge ep19270.9 size 524288 crc 7bd1d04e sha1 0490f3abc97af16e05f0dc9623e8fc635b1d4262 )
+	rom ( name ep19271.10 merge ep19271.10 size 524288 crc d2d74f85 sha1 49e7a1e6478122b4f0e679d7b336fb34044b503b )
+	rom ( name mp19255.29 merge mp19255.29 size 2097152 crc d78bf030 sha1 e6b3d8422613d22db50cf6c251f9a21356d96653 )
+	rom ( name mp19256.30 merge mp19256.30 size 2097152 crc cb2b2d9e sha1 86b2b8bb6074352f72eb81e616093a1ba6f5163f )
+	rom ( name ep19274.31 merge ep19274.31 size 131072 crc 2dcc08ae sha1 bad26e2c994f2d4db5d9be0e34cf21a8bf5aa7e9 )
+	rom ( name mp19259.32 merge mp19259.32 size 4194304 crc 4d55dbfc sha1 6e57e6e6e785b0f14bb5e221a44d518dbde7ad65 )
+	rom ( name mp19261.34 merge mp19261.34 size 4194304 crc b88878ff sha1 4bebcfba68b0cc2fa0bcacfaaf2d2e8af3625c5d )
+	rom ( name mp19251.17 merge mp19251.17 size 4194304 crc e06ff7ba sha1 6d472d03cd3caeb66be929c74ae63c32d305a3db )
+	rom ( name mp19252.21 merge mp19252.21 size 4194304 crc 68509993 sha1 654d5cdf44e7e1e788b26593f418ce76a5c1165a )
+	rom ( name ep19266.18 merge ep19266.18 size 524288 crc 41464ee2 sha1 afbbc0328bd36c34c69f0f54404dfd6a64036417 )
+	rom ( name ep19267.22 merge ep19267.22 size 524288 crc 780f994d sha1 f134482ed0fcfc7b3eea39947da47081301a111a )
+	rom ( name mp19254.27 merge mp19254.27 size 2097152 crc 1ec49c02 sha1 a9bdbab7b4b265c9118cf27fd45ca94f4516d5c6 )
+	rom ( name mp19253.25 merge mp19253.25 size 2097152 crc 41ba79fb sha1 f4d8a4f8278eec6d528bd947b91ebeb5223559d5 )
+	rom ( name ep19269.28 merge ep19269.28 size 524288 crc 01881121 sha1 fe711709e70b3743b2a0318b823d859f233d3ff8 )
+	rom ( name ep19268.26 merge ep19268.26 size 524288 crc bc4e081c sha1 b89d39ed19a146d1e94e52682f67d2cd23d8df7f )
+)
+
+game (
+	name von
+	description "Virtual-On Cyber Troopers [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name ep18643a.7 size 131072 crc b5e048ec sha1 8182e05a2ffebd590a936c1359c81e60caa79c2a )
+	rom ( name ep18664b.15 size 524288 crc 27d0172c sha1 f3bcae9898c7d656eccb4d2546c9bb93daaefbb7 )
+	rom ( name ep18665b.16 size 524288 crc 2f0142ee sha1 73f2a19a519ced8e0a1ab5cf69a4bf9d9841e288 )
+	rom ( name ep18666.13 size 524288 crc 66edb432 sha1 b67131b0158a58138380734dd5b9394b70010026 )
+	rom ( name ep18667.14 size 524288 crc b593d31f sha1 1e9f23f4052ab1b0275307cc80e51352f13bc319 )
+	rom ( name ep18670.31 size 524288 crc 3e715f76 sha1 4fd997e379a8cdb94ec3b1986b3ab443fc6fa12a )
+	rom ( name mp18648.11 size 4194304 crc 2edbe489 sha1 ded2e4b295be08970d13c387818c570c3afe8109 )
+	rom ( name mp18649.12 size 4194304 crc e68c5aa6 sha1 cdee1ba9247eda4282442d0522f8de7d7c86e1e6 )
+	rom ( name mp18650.9 size 4194304 crc 89a855b9 sha1 5096db1da1f7e175000e89fca2a1dd3fd53030ea )
+	rom ( name mp18651.10 size 4194304 crc f4c23107 sha1 f65984614111b12dd414db80751efe64fcf5ef16 )
+	rom ( name mp18652.32 size 4194304 crc 037eee53 sha1 e592f9e97abe0a7bc9009d8327b93da9bc43749c )
+	rom ( name mp18653.34 size 4194304 crc 9ec3e7bf sha1 197bc8adc823e93128c1cebf69361a7c7297f808 )
+	rom ( name mp18654.17 size 4194304 crc 6a0caf29 sha1 9f009f44e62ae0f9dec7a34a163bc186d1c4cbbd )
+	rom ( name mp18655.21 size 4194304 crc a4293e78 sha1 af512c994bedbdaf3a5eeed607e771dcd87810fc )
+	rom ( name mp18656.18 size 4194304 crc b4f51e76 sha1 eb71ada331576f2a7219d238ea07a61bcbf6381a )
+	rom ( name mp18657.22 size 4194304 crc a9be4674 sha1 a918c2a3de78a08104480097edfb9d6aeaeda873 )
+	rom ( name mp18658.25 size 2097152 crc 3d0fcd01 sha1 c8626c879bfcf7abd095cac5dc03a04ae8629423 )
+	rom ( name mp18659.26 size 2097152 crc 27aa8ae2 sha1 e9b756e5b4b1c19e52e47af03c773fee544be420 )
+	rom ( name mp18660.27 size 2097152 crc e53663e5 sha1 0a4908be654bad4f00d7d58f0e42f631996911c9 )
+	rom ( name mp18661.28 size 2097152 crc 52b50410 sha1 64ea7b2f86745954e0b8a15d71203444705240a2 )
+	rom ( name mp18662.29 size 2097152 crc a33d3335 sha1 991bbe9dcbef8bfa96682e9d142623fc9b7c0879 )
+	rom ( name mp18663.30 size 2097152 crc ea74a641 sha1 a684e13c0afe2ef3f3108ae9b73389121368fc4e )
+)
+
+game (
+	name vonusa
+	description "Virtual-On (US) [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof von
+	romof von
+	rom ( name ep18643a.7 merge ep18643a.7 size 131072 crc b5e048ec sha1 8182e05a2ffebd590a936c1359c81e60caa79c2a )
+	rom ( name vo-prog0.usa size 524288 crc 6499cc59 sha1 8289be295f021acbf0c903513ba97ae7de50dedb )
+	rom ( name vo-prog1.usa size 524288 crc 0053b10f sha1 b89cc814b02b4ab5e37c75ee1a9cf57b88b63053 )
+	rom ( name ep18666.13 merge ep18666.13 size 524288 crc 66edb432 sha1 b67131b0158a58138380734dd5b9394b70010026 )
+	rom ( name ep18667.14 merge ep18667.14 size 524288 crc b593d31f sha1 1e9f23f4052ab1b0275307cc80e51352f13bc319 )
+	rom ( name ep18670.31 merge ep18670.31 size 524288 crc 3e715f76 sha1 4fd997e379a8cdb94ec3b1986b3ab443fc6fa12a )
+	rom ( name mp18648.11 merge mp18648.11 size 4194304 crc 2edbe489 sha1 ded2e4b295be08970d13c387818c570c3afe8109 )
+	rom ( name mp18649.12 merge mp18649.12 size 4194304 crc e68c5aa6 sha1 cdee1ba9247eda4282442d0522f8de7d7c86e1e6 )
+	rom ( name mp18650.9 merge mp18650.9 size 4194304 crc 89a855b9 sha1 5096db1da1f7e175000e89fca2a1dd3fd53030ea )
+	rom ( name mp18651.10 merge mp18651.10 size 4194304 crc f4c23107 sha1 f65984614111b12dd414db80751efe64fcf5ef16 )
+	rom ( name mp18652.32 merge mp18652.32 size 4194304 crc 037eee53 sha1 e592f9e97abe0a7bc9009d8327b93da9bc43749c )
+	rom ( name mp18653.34 merge mp18653.34 size 4194304 crc 9ec3e7bf sha1 197bc8adc823e93128c1cebf69361a7c7297f808 )
+	rom ( name mp18654.17 merge mp18654.17 size 4194304 crc 6a0caf29 sha1 9f009f44e62ae0f9dec7a34a163bc186d1c4cbbd )
+	rom ( name mp18655.21 merge mp18655.21 size 4194304 crc a4293e78 sha1 af512c994bedbdaf3a5eeed607e771dcd87810fc )
+	rom ( name mp18656.18 merge mp18656.18 size 4194304 crc b4f51e76 sha1 eb71ada331576f2a7219d238ea07a61bcbf6381a )
+	rom ( name mp18657.22 merge mp18657.22 size 4194304 crc a9be4674 sha1 a918c2a3de78a08104480097edfb9d6aeaeda873 )
+	rom ( name mp18658.25 merge mp18658.25 size 2097152 crc 3d0fcd01 sha1 c8626c879bfcf7abd095cac5dc03a04ae8629423 )
+	rom ( name mp18659.26 merge mp18659.26 size 2097152 crc 27aa8ae2 sha1 e9b756e5b4b1c19e52e47af03c773fee544be420 )
+	rom ( name mp18660.27 merge mp18660.27 size 2097152 crc e53663e5 sha1 0a4908be654bad4f00d7d58f0e42f631996911c9 )
+	rom ( name mp18661.28 merge mp18661.28 size 2097152 crc 52b50410 sha1 64ea7b2f86745954e0b8a15d71203444705240a2 )
+	rom ( name mp18662.29 merge mp18662.29 size 2097152 crc a33d3335 sha1 991bbe9dcbef8bfa96682e9d142623fc9b7c0879 )
+	rom ( name mp18663.30 merge mp18663.30 size 2097152 crc ea74a641 sha1 a684e13c0afe2ef3f3108ae9b73389121368fc4e )
+)
+
+game (
+	name vstriker
+	description "Virtua Striker [Model 2B CRX]"
+	year 1994
+	manufacturer "Sega"
+	rom ( name ep18066.13 size 131072 crc e774229e sha1 0ff20aa3e030df869767bb9614565acc9f3fe3b1 )
+	rom ( name ep18067.14 size 131072 crc 7dfd950c sha1 d5eff8aff37fb0ef3c7f9d8bfca8460213b0f0a7 )
+	rom ( name ep18068.15 size 131072 crc 74a47795 sha1 3ba34bd467e11e768eda95ff345f5993fb9d6bca )
+	rom ( name ep18069.16 size 131072 crc f6c3fcbf sha1 84bf16fc2a441cb724f4bc635a4c4209c240cfbf )
+	rom ( name ep18070.7 size 524288 crc f52e4db5 sha1 731452284c45329701258ee9fb8b7df6514fbba1 )
+	rom ( name ep18071.8 size 524288 crc 1be63a7d sha1 c678f1f42de86cc968c3f823994d36c74b2e55fd )
+	rom ( name ep18072.31 size 131072 crc 73eabb58 sha1 4f6d70d6e0d7b469c5f2527efb08f208f4aa017e )
+	rom ( name mp18053.9 size 2097152 crc 46c770c8 sha1 000e9edfed49cc3dcc136f80e044dcd2b42378ce )
+	rom ( name mp18054.10 size 2097152 crc 437af66e sha1 c5afa62100a93e160aa96b327a260cc7fee51fdc )
+	rom ( name mp18055.11 size 2097152 crc 5aba9fc0 sha1 40d45af7e58fa48b6afa85071c2bd1d4b5b5ffa5 )
+	rom ( name mp18056.12 size 2097152 crc 017f0c55 sha1 744e5a02abd82fbeb875c5cd30c5543570140cff )
+	rom ( name mp18057.17 size 2097152 crc 890d8806 sha1 fe73e4ea310e13b172e49d39c7eafba8f9052e67 )
+	rom ( name mp18058.18 size 2097152 crc d4cbdf7c sha1 fe783c5bc94c2581fd990f0f0a705bdc5c05a386 )
+	rom ( name mp18059.21 size 2097152 crc c5cdf534 sha1 fd127d33bc5a78b81aaa7d5886beca2192a62867 )
+	rom ( name mp18060.22 size 2097152 crc 93d5c95f sha1 bca83f024d85c97ca59fae8d9097fc510ec0fc7f )
+	rom ( name mp18061.25 size 2097152 crc c37f1c67 sha1 c917046c2d98af17c59ceb0ea4f89d215cc0ead8 )
+	rom ( name mp18062.27 size 2097152 crc 126e7de3 sha1 0810364934dee8d5035cef623d01dfbacc64bf2b )
+	rom ( name mp18063.32 size 2097152 crc b74d7c8a sha1 da0bc8b3822b01087b6f9de0446cab1eb6617e8e )
+	rom ( name mp18064.33 size 2097152 crc 783b9910 sha1 108b23bb57e3133c555083aa4f9bc573ac6e3152 )
+	rom ( name mp18065.34 size 2097152 crc 046b55fe sha1 2db7eabf4318881a67b10dba24f6f0cd68940ace )
+)
+
+game (
+	name vstrikra
+	description "Virtua Striker (Rev A) [Model 2B CRX]"
+	year 1994
+	manufacturer "Sega"
+	cloneof vstriker
+	romof vstriker
+	rom ( name ep18066a.13 size 131072 crc e658b33a sha1 33266e6372e73f670688f58e51081ec5a7deec11 )
+	rom ( name ep18067a.14 size 131072 crc 49e94047 sha1 56c8d1a365985886dffeddf24d692ce6b377760a )
+	rom ( name ep18068a.15 size 131072 crc afc69b54 sha1 2127bde1de3cd6663c31cf2126847815234e09a4 )
+	rom ( name ep18069a.16 size 131072 crc 0243250c sha1 3cbeac09d503a19c5950cf70e3b329f791acfa13 )
+	rom ( name ep18070a.7 size 524288 crc 1961e2fc sha1 12ead9b782e092346b7cd5a7343b302f546fe066 )
+	rom ( name ep18071a.8 size 524288 crc b2492dca sha1 3b35522ab8e1fdfa327245fef797e3d7c0cceb85 )
+	rom ( name ep18072.31 merge ep18072.31 size 131072 crc 73eabb58 sha1 4f6d70d6e0d7b469c5f2527efb08f208f4aa017e )
+	rom ( name mp18053.9 merge mp18053.9 size 2097152 crc 46c770c8 sha1 000e9edfed49cc3dcc136f80e044dcd2b42378ce )
+	rom ( name mp18054.10 merge mp18054.10 size 2097152 crc 437af66e sha1 c5afa62100a93e160aa96b327a260cc7fee51fdc )
+	rom ( name mp18055.11 merge mp18055.11 size 2097152 crc 5aba9fc0 sha1 40d45af7e58fa48b6afa85071c2bd1d4b5b5ffa5 )
+	rom ( name mp18056.12 merge mp18056.12 size 2097152 crc 017f0c55 sha1 744e5a02abd82fbeb875c5cd30c5543570140cff )
+	rom ( name mp18057.17 merge mp18057.17 size 2097152 crc 890d8806 sha1 fe73e4ea310e13b172e49d39c7eafba8f9052e67 )
+	rom ( name mp18058.18 merge mp18058.18 size 2097152 crc d4cbdf7c sha1 fe783c5bc94c2581fd990f0f0a705bdc5c05a386 )
+	rom ( name mp18059.21 merge mp18059.21 size 2097152 crc c5cdf534 sha1 fd127d33bc5a78b81aaa7d5886beca2192a62867 )
+	rom ( name mp18060.22 merge mp18060.22 size 2097152 crc 93d5c95f sha1 bca83f024d85c97ca59fae8d9097fc510ec0fc7f )
+	rom ( name mp18061.25 merge mp18061.25 size 2097152 crc c37f1c67 sha1 c917046c2d98af17c59ceb0ea4f89d215cc0ead8 )
+	rom ( name mp18062.27 merge mp18062.27 size 2097152 crc 126e7de3 sha1 0810364934dee8d5035cef623d01dfbacc64bf2b )
+	rom ( name mp18063.32 merge mp18063.32 size 2097152 crc b74d7c8a sha1 da0bc8b3822b01087b6f9de0446cab1eb6617e8e )
+	rom ( name mp18064.33 merge mp18064.33 size 2097152 crc 783b9910 sha1 108b23bb57e3133c555083aa4f9bc573ac6e3152 )
+	rom ( name mp18065.34 merge mp18065.34 size 2097152 crc 046b55fe sha1 2db7eabf4318881a67b10dba24f6f0cd68940ace )
+)
+
+game (
+	name zerogun
+	description "Zero Gunner [Model 2B CRX]"
+	year 1997
+	manufacturer "Sega"
+	rom ( name mp20294.9 size 4194304 crc a0bd1474 sha1 c0c032adac69bd545e3aab481878b08f3c3edab8 )
+	rom ( name mp20295.10 size 4194304 crc c548cced sha1 d34f2fc9b4481c75a6824aa4bdd3f1884188d35b )
+	rom ( name mp20296.11 size 4194304 crc 072d8a5e sha1 7f69c90dd3c3e6e522d1065b3c4b09434cb4e634 )
+	rom ( name mp20297.12 size 4194304 crc ba6a825b sha1 670a86c3a1a78550c760cc66c0a6181928fb9054 )
+	rom ( name mp20298.17 size 4194304 crc 8ab782fc sha1 595f6fc2e9c58ce9763d51798ceead8d470f0a33 )
+	rom ( name mp20299.21 size 4194304 crc 90e20cdb sha1 730d58286fb7e91aa4128dc208b0f60eb3becc78 )
+	rom ( name mp20300.25 size 2097152 crc 6f042792 sha1 75db68e57ec3fbc7af377342eef81f26fae4e1c4 )
+	rom ( name mp20301.27 size 2097152 crc 52010fb2 sha1 8dce67c6f9e48d749c64b11d4569df413dc40e07 )
+	rom ( name mp20303.32 size 2097152 crc c040973f sha1 57a496c5dcc1a3931b6e41bf8d41e45d6dac0c31 )
+	rom ( name mp20304.33 size 2097152 crc 6decfe83 sha1 d73adafceff2f1776c93e53bd5677d67f1c2c08f )
+	rom ( name ep20302.31 size 524288 crc 44ff50d2 sha1 6ffec81042fd5708e8a5df47b63f9809f93bf0f8 )
+	rom ( name ep20439.15 size 524288 crc 10125381 sha1 1e178e6bd2b1312cd6290f1be4b386f520465836 )
+	rom ( name ep20440.16 size 524288 crc ce872747 sha1 82bf138a42c659b675b14e41d526b1628fb46ae3 )
+)
+
+game (
+	name topskatr
+	description "Top Skater [Model 2C CRX]"
+	year 1997
+	manufacturer "Sega"
+	rom ( name ep19755a.15 size 524288 crc b80633b9 sha1 5396da414beeb918e6f38f25a43dd76345a0c8ed )
+	rom ( name ep19756a.16 size 524288 crc 472046a2 sha1 06d0f609257ba476e6bd3b956e0850e7167429ce )
+	rom ( name mp19735.11 size 4194304 crc 8e509266 sha1 49afc91467f08befaf34e743cbe823de3e3c9d85 )
+	rom ( name mp19736.12 size 4194304 crc 094e0a0d sha1 de2c739f71e51166263446b9f6a566866ab8bee8 )
+	rom ( name mp19737.9 size 4194304 crc 281a7dde sha1 71d5ba434328a81969bfdc71ac1160c5ff3ae9d3 )
+	rom ( name mp19738.10 size 4194304 crc f688327e sha1 68c9db242ef7e8f98979e968a09e4b093bc5d470 )
+	rom ( name mp19743.29 size 2097152 crc d41a41bf sha1 a5f6b24e6526d0d2ef9c526c273c018d1e0fed59 )
+	rom ( name mp19744.30 size 2097152 crc 84f203bf sha1 4952b764e6bf6cd735018738c5eff08781ee2315 )
+	rom ( name mp19759.31 size 524288 crc 573530f2 sha1 7b205085965d6694f8e75e29c4028f7cb6f631ab )
+	rom ( name mp19760.2s size 131072 crc 2e41ca15 sha1 a302209bfe0f1491dff2da64b32cfaa13c3d3304 )
+	rom ( name mp19745.32 size 4194304 crc 7082a0af sha1 415f9d0793a697cb1719bbd96370f4a741866527 )
+	rom ( name mp19746.34 size 4194304 crc 657b5977 sha1 ca76f211d68b6b55678a4d7949bfd2ddef1b1710 )
+	rom ( name mp19747.18s size 4194304 crc 6e895aaa sha1 4c67c1e1d58a3034bbd711252a78689db9f235bb )
+	rom ( name mp19748.20s size 4194304 crc fcd74de3 sha1 fd4da4cf40c4342c6263cf22eee5968292a4d2c0 )
+	rom ( name mp19749.22s size 4194304 crc 842ca1eb sha1 6ee6b2eb2ea400bdb9c0a9b4a126b4b86886e813 )
+	rom ( name mp19750.24s size 4194304 crc cd95d0bf sha1 40e2a2980c89049c339fefd48bf7aac79962cd2e )
+	rom ( name mp19741.17 size 2097152 crc 111a6e29 sha1 8664059f157626e4bbdcf8357e3d30b37d3c25b8 )
+	rom ( name mp19742.21 size 2097152 crc 28510aff sha1 3e68aec090f36a60b3b70bc90f09e2f9ce088718 )
+	rom ( name mp19740.27 size 4194304 crc b20f508b sha1 c90fa3b42d87291ea459ccc137f3a2f3eb7efec0 )
+	rom ( name mp19739.25 size 4194304 crc 8120cfd8 sha1 a82744bff5dcdfae296c7c3e8c3fbfda26324e85 )
+)
+
+game (
+	name lastbexp
+	description "Last Bronx (Export, Rev A) [Model 2B CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof lastbrxa
+	romof lastbrxa
+	rom ( name mp19058.34 merge mp19058.34 size 4194304 crc e237c11c sha1 7c89cba757bd58747ed0d633b2fe7ef559fcd15e )
+	rom ( name ep19061a.15 size 524288 crc c0aebab2 sha1 fa63081b0aa6f02c3d197485865ee38e9c78b43d )
+	rom ( name ep19062a.16 size 524288 crc cdf597e8 sha1 a85ca36a537ba21d11ef3cfdf914c2c93ac5e68f )
+	rom ( name mp19048.9 merge mp19048.9 size 4194304 crc 02180215 sha1 cc5f8e61fee07aa4fc5bfe2d011088ee523c77c2 )
+	rom ( name mp19049.10 merge mp19049.10 size 4194304 crc db7eecd6 sha1 5955885ad2bfd69d7a2c4e1d1df907aca41fbdd0 )
+	rom ( name mp19050.11 merge mp19050.11 size 4194304 crc e6af2b61 sha1 abdf7aa4c594f0916d4335c70fdd67dc6b1f4630 )
+	rom ( name mp19051.12 merge mp19051.12 size 4194304 crc 14b88961 sha1 bec22f657c6d939c095b99ca9c6eb44b9683fd72 )
+	rom ( name mp19052.17 merge mp19052.17 size 4194304 crc d7f27216 sha1 b393af96522306dc2e055aea1e837979f41940d4 )
+	rom ( name mp19053.21 merge mp19053.21 size 4194304 crc 1f328465 sha1 950a92209b7c24f66db62c31627a1f1d52721f1e )
+	rom ( name mp19054.25 merge mp19054.25 size 2097152 crc 05366277 sha1 f618e2b9b26a1f7eccebfc8f8e17ef8ad9029be8 )
+	rom ( name mp19055.27 merge mp19055.27 size 2097152 crc 85a57d49 sha1 99c49fe135dc46fa861337b5bac654ae8478778a )
+	rom ( name mp19056.31 merge mp19056.31 size 524288 crc 22a22918 sha1 baa039cd86650b6cd81f295916c4d256e60cb29c )
+	rom ( name mp19057.32 merge mp19057.32 size 4194304 crc 64809438 sha1 aa008f83e1eff0daafe01944248ebae6054cee9f )
+)
+

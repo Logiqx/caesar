@@ -1,0 +1,36 @@
+game (
+	name pacland
+	description "Pac-Land (set 1)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name genpeitd
+	description "The Genji and the Heke Clans"
+	year 1986
+	manufacturer "Namco"
+)
+
+game (
+	name roishtar
+	description "The Return of Ishtar"
+	year 1986
+	manufacturer "Namco"
+)
+
+game (
+	name assault
+	description "Assault"
+	year 1988
+	manufacturer "Namco"
+)
+
+game (
+	name ordyne
+	description "Ordyne (Japan)"
+	year 1988
+	manufacturer "Namco"
+)
+
+

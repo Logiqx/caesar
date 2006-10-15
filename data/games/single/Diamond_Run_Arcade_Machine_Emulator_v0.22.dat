@@ -1,0 +1,29 @@
+clrmamepro (
+	name "Diamond Run"
+	description "Diamond Run Arcade Machine Emulator v0.22"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name diamond
+	description "Diamond Run"
+	year 1989
+	manufacturer "KH Video"
+	rom ( name d5 size 32768 crc 453f3f9e sha1 b4dcf2eb0e6d4eca8ccde6e1a60f5e002e49a57b )
+	rom ( name d3 size 32768 crc f436d6fa sha1 18287ac51e717ea2ba9b307a738f76735120f21b )
+	rom ( name d3o size 16384 crc ba4bf9f1 sha1 460e01f5ba9cd0c76d1a2ea1e66e9ad49ef1e13b )
+	rom ( name d5o size 32768 crc ae58bd3a sha1 674611c7107cae53150fc249ffc616df891698fe )
+	rom ( name d2 size 32768 crc 615f5b6f sha1 7ef9ec5c2072e21c787a6bbf700033f50c759c1d )
+	rom ( name d1 size 16384 crc 3a24e504 sha1 56bc38413b8a0dc2829e9c8f7bcfabafe26fd257 )
+	rom ( name d11 size 16384 crc 754357d7 sha1 eb6e07a5f2d02687306711845001205bf0efa61b )
+	rom ( name d10 size 16384 crc 7531edcd sha1 dc3eabf7e7503f0588f65620d26c1bc5eebde211 )
+	rom ( name d9 size 16384 crc 22eeca08 sha1 6454b6c0a7a0991744386b79d4988a2517ad0636 )
+	rom ( name d8 size 16384 crc 6b61be60 sha1 a92ff6e922da523caec1919f53bea48dab4ca564 )
+	rom ( name d7 size 16384 crc fd595274 sha1 8d22f89a7251ecc8b56ee3f8cfaab2fd5a716b3f )
+	rom ( name d6 size 16384 crc 7f51dcd2 sha1 ff4a68a7a6a5caa558898b03ba4a4dc3ab43ce30 )
+	rom ( name d17 size 16384 crc 8164b005 sha1 d03bf62734b03c90a8393a23f8ce0a3769c43bf7 )
+	rom ( name d14 size 16384 crc 6f132163 sha1 cd1ebf9671bcce58896dadbf20f036eaadbe8bd5 )
+)
+

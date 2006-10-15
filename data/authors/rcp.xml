@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="rcp">
+	<name>RCP</name>
+	<email>rcp@emuhq.com</email>
+	<emulator_links>
+		<emulator_link id="u64emu" type="multi">&emulator_u64emu;</emulator_link>
+	</emulator_links>
+</author>

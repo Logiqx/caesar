@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="fm_emu" type="sound" dat="FM-EMU_v0.1">
+	<name>FM-Emu (System 16 Sound Emulator)</name>
+	<version>0.1</version>
+	<date>07/02/1998</date>
+
+	<homepage status="bad">http://www.system16.com/</homepage>
+	<author_link id="thierry_lescott">&author_thierry_lescott;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="li_jih_hwa">&author_li_jih_hwa;</author_link>
+			<comment>System 16 sound hardware emulation</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Sega System 16 Sound</emulates>
+	<comment>Plays music from various System 16 game ROMs.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="maze" type="cpu">&library_maze;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="fmemu01.zip">Player</file>
+	</files>
+</emulator>

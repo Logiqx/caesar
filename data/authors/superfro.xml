@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="superfro">
+	<name>Superfro</name>
+	<email>mamex@deeznuts.net</email>
+	<emulator_links>
+		<emulator_link id="mamex" type="xbox">&emulator_mamex;</emulator_link>
+	</emulator_links>
+</author>

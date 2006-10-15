@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="neozeed">
+	<name>NeoZeed (Pascal Bosquet)</name>
+	<email>pastorama@hotmail.com</email>
+	<emulator_links>
+		<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,88 @@
+clrmamepro (
+	name "Sega System 24 Emulator"
+	description "Sega System 24 Emulator (20030208)"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "rosewood - Team Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name hotrod4p
+	description "Hot Rod 4P"
+	year 1988
+	manufacturer "Sega"
+	rom ( name epr11338.bin size 131072 crc 7d4a7ff3 sha1 3d3af04d990d232ba0a8fe155de59bc632a0a461 )
+	rom ( name epr11339.bin size 131072 crc 75130e73 sha1 e079739f4a3da3807aac570442c5afef1a7d7b0e )
+)
+
+game (
+	name mmj
+	description "Tokoro San no MahMahjan"
+	year 1992
+	manufacturer "Sega"
+	rom ( name epr14812.bin size 131072 crc 5a3cb4a7 sha1 c0f21282140e8e6e927664f5f2b90525ae0207e9 )
+	rom ( name epr14813.bin size 131072 crc ea38cf4b sha1 118ab2e0ae20a4db5e619945dfbb3f200de3979c )
+	rom ( name mpr14819.bin size 524288 crc e84c4827 sha1 54741295e1bdca7d0c78eb795a68b92212d43b2e )
+	rom ( name mpr14820.bin size 524288 crc 8d2a03d3 sha1 b3339bcd101bcfe042e2a1cfdc8baef0a86624df )
+	rom ( name mpr14821.bin size 524288 crc bd8dc543 sha1 fd50b14fa73307a62dc0b522cfedb8b3332c407e )
+	rom ( name mpr14822.bin size 524288 crc 7c3dcc51 sha1 a199c2c71cda44a2c8755074c1007d83c8d45d2d )
+	rom ( name mpr14823.bin size 524288 crc 4c8d4550 sha1 be8717d4080ce932fc8272ebe54e2b0a60b20edd )
+	rom ( name mpr14824.bin size 524288 crc 38311933 sha1 237d9a8ffe14ba9ec371bb571d7c9e74a93fe1f3 )
+	rom ( name mpr14825.bin size 524288 crc 191080a1 sha1 407c1c5fa4c76732e8a444860094542e90a1e8e8 )
+	rom ( name mpr14826.bin size 524288 crc c31b8805 sha1 b446388c83af2e14300b0c4248470d3a8c504f2c )
+)
+
+game (
+	name qgh
+	description "Quiz Ghost Hunter"
+	year 1994
+	manufacturer "Sega"
+	rom ( name 16899b size 131072 crc 397b3ba9 sha1 1773212cd87dcff840f3953ec368be7e2394faf0 )
+	rom ( name 16900b size 131072 crc 20d7b7d1 sha1 345b228c27e5f2fef9a2b8b5f619c59450a070f8 )
+	rom ( name 16901a size 524288 crc ab4bcb33 sha1 8acd73096eb485c6dc83da6adfcc47d5d0f5b7f3 )
+	rom ( name 16902a size 524288 crc d35b7706 sha1 341bca0af6b6d3f326328a88cdc69c7897b83a0d )
+	rom ( name 16903 size 524288 crc c19f9e46 sha1 f1275674a8b44957428d79402f240ca21a34f48d )
+	rom ( name 16904 size 524288 crc 10987c88 sha1 66f893690565aed613427421958ebe225a20ad0f )
+	rom ( name 16905 size 524288 crc 3922bbe3 sha1 4378ca900f96138b5e33265ddac56af7b45afbc8 )
+	rom ( name 16906 size 524288 crc 99c6773e sha1 568570b607d2cbbedb39ceae5bbc479478fae4ca )
+	rom ( name 16907 size 524288 crc 734b0a82 sha1 d3fb31c55e79b99040beb7c49faaf2e17b95aa87 )
+	rom ( name 16908 size 524288 crc 407ec20f sha1 c8a909d8e9ba024a37a5af6b7920fe7023f80d49 )
+)
+
+game (
+	name quizunk
+	description "Quiz Unknown"
+	year 199?
+	manufacturer "Sega"
+	rom ( name 14482 size 524288 crc 7a13dd97 sha1 bfe9950d2cd41f3f866520923c1ed7b8da1990ec )
+	rom ( name 14483 size 524288 crc f3eb51a0 sha1 6904830ff5e7aa5f016e115572fb6da678896ede )
+	rom ( name 14484 size 131072 crc f51c641c sha1 3f2fd0be7d58c75e88565393da5e810655413b53 )
+	rom ( name 14485 size 131072 crc fc0085f9 sha1 0250d1e17e19b541b85198ec4207e55bfbd5c32e )
+)
+
+game (
+	name sspirits
+	description "Scramble Spirits"
+	year 1988
+	manufacturer "Sega"
+	rom ( name epr12186.2e size 131072 crc ce76319d sha1 0ede61f0700f9161285c768fa97636f0e42b96f8 )
+	rom ( name epr12187.2h size 131072 crc e83783f3 sha1 4b3b32df7de85aef9cd77c8a4ffc17e10466b638 )
+)
+
+game (
+	name tk2
+	description "Tokoro San no MahMahjan 2"
+	year 1994
+	manufacturer "Sega"
+	rom ( name epr16798.bin size 131072 crc 662923fa sha1 dcd3964d899d3f34dab22ffcd1a5af895804fae1 )
+	rom ( name epr16799.bin size 131072 crc 3a34cf75 sha1 d22bf6334668af29167cf4244d18f9cd2e7ff7d6 )
+	rom ( name mpr16800.bin size 524288 crc 6dbc1e02 sha1 cce5734243ff171759cecb5c05c12dc743a25c1d )
+	rom ( name mpr16801.bin size 524288 crc 74855a17 sha1 d2d8e7da7b261e7cb64605284d2c78fbd1465b69 )
+	rom ( name mpr16802.bin size 524288 crc b4723225 sha1 acb8923c7d9908b1112f8d1f2512f18236915e5d )
+	rom ( name mpr16803.bin size 524288 crc 9b658dd6 sha1 eaaae289a3555aa6a92f57eea964dbbf48c5c2a4 )
+	rom ( name mpr16804.bin size 524288 crc a0de08e2 sha1 2c36b66e74b88fb076e2eaa250c6d06ee0b4ac88 )
+	rom ( name mpr16805.bin size 524288 crc d15528df sha1 bda1dd5c98867c2e7666380bca0bc7eef8022fbc )
+	rom ( name mpr16806.bin size 524288 crc 54b353d3 sha1 40632e4571b44ee215b5a1f7aab9d89c460a5c9e )
+	rom ( name mpr16807.bin size 524288 crc 816188bb sha1 76b2690a6156766a1af94f01f6de1209b7756b2c )
+)
+

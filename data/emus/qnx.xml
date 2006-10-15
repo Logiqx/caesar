@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="qnx">
+	<title>Emulators for QNX</title>
+	<comment>These emulators are all for QNX</comment>
+	<emulator_links>
+		<emulator_link id="finalburn_qnx" type="qnx">&emulator_finalburn_qnx;</emulator_link>
+		<emulator_link id="phmame" type="qnx">&emulator_phmame;</emulator_link>
+	</emulator_links>
+</emulator_contents>

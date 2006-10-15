@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="pasmulator" type="multi" dat="PASMulator_v0.22">
+	<name>PASMulator</name>
+	<version>0.22</version>
+	<date>02/07/1998</date>
+
+	<homepage>http://www.geocities.com/Eureka/6093/</homepage>
+	<author_link id="paulo_sergio_cardoso">&author_paulo_sergio_cardoso;</author_link>
+
+	<emulates>Z80 games from the early-80's (Pacman and Galaxians etc)</emulates>
+	<comment>Written in Delphi. Includes an integrated sprite viewer, disassembler and debugger. Also emulates the ZX Spectrum and ColecoVision.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="maze" type="cpu">&library_maze;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="delphi" type="compilers">&tool_delphi;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes (Pascal)</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="pm32b022.zip">Emulator</file>
+		<file name="pm32s022.zip">Source</file>
+	</files>
+</emulator>

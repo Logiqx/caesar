@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="wince">
+	<title>Emulators for WinCE</title>
+	<comment>These emulators are all for WinCE</comment>
+	<emulator_links>
+		<emulator_link id="pda_1942" type="wince">&emulator_pda_1942;</emulator_link>
+		<emulator_link id="aemu" type="wince">&emulator_aemu;</emulator_link>
+		<emulator_link id="arcade_pocketpak" type="wince">&emulator_arcade_pocketpak;</emulator_link>
+		<emulator_link id="pda_commando" type="wince">&emulator_pda_commando;</emulator_link>
+		<emulator_link id="pda_ghosts_n_goblins" type="wince">&emulator_pda_ghosts_n_goblins;</emulator_link>
+		<emulator_link id="imame_ipaq" type="wince">&emulator_imame_ipaq;</emulator_link>
+		<emulator_link id="laser_ipaq" type="wince">&emulator_laser_ipaq;</emulator_link>
+		<emulator_link id="pda_legendary_wings" type="wince">&emulator_pda_legendary_wings;</emulator_link>
+		<emulator_link id="mame_jornada" type="wince">&emulator_mame_jornada;</emulator_link>
+		<emulator_link id="mameboy" type="wince">&emulator_mameboy;</emulator_link>
+		<emulator_link id="mamece" type="wince">&emulator_mamece;</emulator_link>
+		<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
+		<emulator_link id="mamece3" type="wince">&emulator_mamece3;</emulator_link>
+		<emulator_link id="mamecepod" type="wince">&emulator_mamecepod;</emulator_link>
+		<emulator_link id="phoenix_ce" type="wince">&emulator_phoenix_ce;</emulator_link>
+		<emulator_link id="pda_sectionz" type="wince">&emulator_pda_sectionz;</emulator_link>
+		<emulator_link id="invaders_ce" type="wince">&emulator_invaders_ce;</emulator_link>
+		<emulator_link id="pda_vulgus" type="wince">&emulator_pda_vulgus;</emulator_link>
+		<emulator_link id="zmame" type="wince">&emulator_zmame;</emulator_link>
+	</emulator_links>
+</emulator_contents>

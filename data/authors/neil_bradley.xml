@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="neil_bradley">
+	<name>Neil Bradley</name>
+	<email>nb@synthcom.com</email>
+	<email>neil@synthcom.com</email>
+	<emulator_links>
+		<emulator_link id="emu" type="multi">&emulator_emu;</emulator_link>
+		<emulator_link id="mhemu" type="single">&emulator_mhemu;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+	</contribution_links>
+	<cpu_links>
+		<library_link id="6502" type="cpu">&library_6502;</library_link>
+		<library_link id="mathbox" type="cpu">&library_mathbox;</library_link>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multi6808" type="cpu">&library_multi6808;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+</author>

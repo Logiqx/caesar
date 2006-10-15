@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="gxp_linux" type="linux" dat="dummy">
+	<name>GXP for Linux (Konami GX Player)</name>
+	<version>0.1</version>
+	<date>06/10/2001</date>
+
+	<homepage>http://www.emuhype.com/</homepage>
+	<author_link id="richter_belmont">&author_richter_belmont;</author_link>
+	<author_link id="sarayan">&author_sarayan;</author_link>
+
+	<emulates>Konami GX Sound</emulates>
+	<comment>A Linux based sound emulator.</comment>
+	<status>Dormant</status>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>N/A</screendump>
+		<hiscoresave>N/A</hiscoresave>
+		<savegame>N/A</savegame>
+		<recordinput>N/A</recordinput>
+		<dips>N/A</dips>
+		<cheat>N/A</cheat>
+		<autoframeskip>N/A</autoframeskip>
+		<throttle>N/A</throttle>
+	</features>
+
+	<files>
+		<file name="gxp-linux-01.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="gxp" type="sound">&emulator_gxp;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

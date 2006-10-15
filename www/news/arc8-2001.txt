@@ -1,0 +1,280 @@
+<a name="newsitem1001834105,84940,"></a><h2>Sunday 30 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula  Jukebox 1.6</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:15AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:NebulaEmu@myrealbox.com">ElSemi</a> has updated his sound emulator Nebula Jukebox.  The new version supports the new Neo-Geo dumps and has some other sound improvements, and is available at the <a href="http://nebula.emulatronia.com/indexe.html">Nebula Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1001833943,59466,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>PinMAME and Visual PinMAME 1.0 Beta 2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 8:12AM [BST]</small>  </th></tr>  <tr><td> After almost two months, there are new versions of PinMAME and Visual PinMAME available.  Find out more at <a href="http://pinmame.retrogames.com/">PinMAME</a>.  </td></tr>  </table></p>
+<a name="newsitem1001709556,19428,"></a><h2>Friday 28 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic 1.09</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:39PM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has released a new version of his arcade/console/handheld emulator Mimic which irons out some bugs. Be sure to download the new emulator and HWC files from the <a href="http://mimic.arcadeheaven.com/">Mimic</a> home page.  </td></tr>  </table></p>
+<a name="newsitem1001709352,4217,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler 0.9.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:35PM [BST]</small>  </th></tr>  <tr><td> After waiting about six months for a new release of Modeler three come at once, just like London buses. :) R.Belmont and Farfetchd have released a massive bugfix release to their fabulous Sega System-32 and Model-1 emulator. Go and have a read of whats new at the <a href="http://www.impactemu.com/index.php?s=news">Impact</a> home page and grab a download while you're there!  </td></tr>  </table></p>
+<a name="newsitem1001660949,96010,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New home for Turbo68K</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:09AM [BST]</small>  </th></tr>  <tr><td> Bart has found a new home for his 68000 CPU core, Turbo68K. Go and give his <a href="http://www.dynarec.com/~bart/turbo68k">home page</a> a visit if you are technically minded.  </td></tr>  </table></p>
+<a name="newsitem1001652281,66654,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Marquees!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:44AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:eldio@oldie.co.uk">Eldio</a> delivers not one, not two, but THREE packs of fresh marquees!  365 updates and 25 new images bring the total up to 1189 images.  Where? <a href="http://emam.mameworld.net/">EMAM</a>, that's where.  </td></tr>  </table></p>
+<a name="newsitem1001625005,92433,"></a><h2>Thursday 27 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>At last, normality!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:10PM [BST]</small>  </th></tr>  <tr><td> Phew, after a <i>really</i> manic week workwise I'm now back to my normal state (just busy, not manic ;). I've therefore been able to update CAESAR for all the releases in the past week like ACE, Daphne, Modeler and Nebula (all of which added new games). Thanks for keeping the news going in my absense Rob, it seems you're the main reporter nowadays!  </td></tr>  </table></p>
+<a name="newsitem1001575270,19462,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:21AM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has posted a little WIP message at the <a href="http://mimic.arcadeheaven.com">Mimic</a> home page.<br><br><i>Those 'little' quirks seemed to be holding the code together as, once they were fixed, everything hit the fan. :(<br>I have fixed things up a lot and even fixed the line interrupts on the SMS/SGG/SystemE code up a bit. I also changed the menu background. Release soon as it is stable again.</i>  </td></tr>  </table></p>
+<a name="newsitem1001564604,10230,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>StretchMAME32 with Kaillera 0.55 (Test 29)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:23AM [BST]</small>  </th></tr>  <tr><td> <a href="http://stretchmame.mameworld.net/testver.html">StretchMAME</a> has a new test version for you.  What's new?<br><ul><li>Fixed AY8910 crash bug</li><br><li>Fixed Break Thru and Darwin 4078 black screen bug(brkthru055red)</li><br><li>Fixed Namco Classics crash bug</li><br><li>Fixed Chopper I sound</li><br><li>Fixed System18 sprite bug</li><br><li>Rewrite NEOGEO driver</li><br><li>Added state save support to several games</li></ul>  </td></tr>  </table></p>
+<a name="newsitem1001564417,30835,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Daphne 0.99.3a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:20AM [BST]</small>  </th></tr>  <tr><td> The laser disc game emulator <a href="http://daphne-emu.com/">Daphne</a> has been updated.  This line says it all:<br><br>"DAPHNE v0.99.3a (September 26th, 2001) for WINDOWS 95/98/2000<br>Get this file if you are a windows user. If you have trouble running DaphneLauncher, then you will need this package as well!"<br><br>GNU/Linux users need not be concerned.  </td></tr>  </table></p>
+<a name="newsitem1001564190,92343,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:16AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:thebeaver@arcadeheaven.com?subject=Mimic">Mike Beaver</a> has posted a couple of things on the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic WIP Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1001480923,67077,"></a><h2>Wednesday 26 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME 0.55</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:08AM [BST]</small>  </th></tr>  <tr><td> There's a new version of <a href="http://advancemame.sourceforge.net/">AdvanceMAME</a> available.  Here are the latest changes:<br><ul><li>The '[gamename]' options are now correctly read.</li><br><li>Renamed the option 'video_mode_reset' to 'videomodereset'.</li><br><li>The command line boolean options now don't need the argument "yes".</li><br><li>You can disable them with the format -noOPTION.</li></ul><br>  </td></tr>  </table></p>
+<a name="newsitem1001480684,42585,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:04AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://dreamwater.net/tech/jemu/">JEmu Homepage</a> has posted some WIP stuff with screenshots.  </td></tr>  </table></p>
+<a name="newsitem1001312258,22094,"></a><h2>Monday 24 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:17AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.mame.net/wip0109.html">MAME WIP Page</a> has been updated big time:<br><br>17th September 2001<br>Adam Hourigan added artwork to Boot Hill.<br>Nicola Salmoria implemented correct y zoom for the Neo Geo hardware thanks to help from Miguel Angel Horna, but it causes some problems with games using raster effects.<br>Aaron Giles made the Exidy driver sounds much more accurate.<br><br>18th September 2001<br>Jarek Burczynski fixed Metal Soldier Isaac II sound CPU interrupt problem.<br>Yasuhiro Ogawa resubmitted some Taito F3 driver changes by Uki. <br><br>19th September 2001<br>Troy Gratton submitted an updated Gottlieb driver with support for Cobra Command, but like Mach 3 and Us vs. Them, the laserdisc backgrounds aren't emulated.<br><br>20th September 2001<br>William Kucharski fixed a Space Invaders Deluxe overlay problem. <br><br>21st September 2001<br>Bryan McPhail fixed the DIP switch settings in Prehistoric Isle, and added 3rd and 4th player controls to Ninja Baseball Batman. <br><br>22nd September 2001<br>Luca Elia added correct linescroll emulation to the Kaneko16 driver.<br>David Graves fixed a few more graphics problems in the Taito Z driver. <br><br>23rd September 2001<br>Brian A. Troha added quite a few clone ROM sets to various drivers. <br>  </td></tr>  </table></p>
+<a name="newsitem1001312168,77563,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo 3.52</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:16AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:M.A.S.H@freenet.de">MASH</a> has updated <a href="http://www.mameworld.net/mameinfo/">mameinfo.dat</a> with the latest bugs.  </td></tr>  </table></p>
+<a name="newsitem1001221998,32950,"></a><h2>Sunday 23 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Daphne 0.99.3</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:13AM [BST]</small>  </th></tr>  <tr><td> Ah...Dragon's Lair!  There's nothing like being a youngster and seeing a quantum (though short-lived) leap in game technnology, except possibly playing it at home.  A new version of <a href="http://daphne-emu.com/">Daphne</a> has been released for Win9x/2K and GNU/Linux, although it requires either a supported LD player (with disc) or the video clips to work.  </td></tr>  </table></p>
+<a name="newsitem1001112834,43424,"></a><h2>Friday 21 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>StretchMAME32 with Kaillera 0.55 (Test 28)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 11:53PM [BST]</small>  </th></tr>  <tr><td> Unofficial build?  Who cares?  MAME 0.55 + Kaillera + other stuff = news!  The <a href="mailto:smame@mameworld.net">author</a> of StretchMAME32 has released a new version.  Check it out at the <a href="http://stretchmame.mameworld.net/testver.html">StretchMAME32 Test Version Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1001112448,67987,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo 3.51</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 11:47PM [BST]</small>  </th></tr>  <tr><td> For the latest MAME 0.55 bugs, might I suggest the latest version of <a href="http://www.mameworld.net/mameinfo/">mameinfo.dat</a>, courtesy of <a href="mailto:M.A.S.H@freenet.de">MASH</a>.  </td></tr>  </table></p>
+<a name="newsitem1001112297,58406,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula 1.91b</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 11:44PM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:NebulaEmu@myrealbox.com">ElSemi</a> has released a (first and) second bugfix to Nebula, available at the <a href="http://nebula.emulatronia.com/indexe.html">Nebula Official Web Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1001111074,30297,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler 0.9.0 for Mac / Modeler 0.9.1a for Windows & Linux</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 11:24PM [BST]</small>  </th></tr>  <tr><td> Modeler has been updated in a variety of ways.  Mac users will enjoy Modeler 0.9.0, while Slaves of Gates and Tux-heads will reap much joy from Modeler 0.9.1a (bugfix of 0.9.1).  Whatever your poison, you can find what you need at the <a href="http://www.impactemu.com/index.php?s=news">Modeler Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1000964681,60287,"></a><h2>Thursday 20 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME32 0.55 Test Binary</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:44AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:mame32qa@hotmail.com?subject=mame32(via CAESAR)">John Hardy IV</a> has released a test binary of MAME32, which brings it in line with MAME 0.55.  Icons and screenshots are also available.  Fun awaits at <a href="http://www.classicgaming.com/mame32qa/">The MAME32 QA/Test and Art Dept.</a>.  </td></tr>  </table></p>
+<a name="newsitem1000964102,17525,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula 1.91</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:35AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:NebulaEmu@myrealbox.com">ElSemi</a> has upped his NeoGeo/CPS-1/CPS-2 emulator "with tons of fixes that you must read in the Readme file :)".  Hard to argue with a statement like that - see for yourself with a trip to <a href="http://nebula.emulatronia.com/indexe.html">Nebula</a>.  </td></tr>  </table></p>
+<a name="newsitem1000871922,97930,"></a><h2>Wednesday 19 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>VSyncMAME 0.55</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:58AM [BST]</small>  </th></tr>  <tr><td> <a href="http://vsynchmame.mameworld.net/">VSyncMAME</a> has been updated to 0.55.  </td></tr>  </table></p>
+<a name="newsitem1000871705,9979,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Xmame 0.55.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:55AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:gold@aros.net">Lawrence Gold</a> has brought his Unix/X11 port of MAME to the latest beta.  Here are the changes:<br><br><ul><li>Removed the romcheck script until its author considers it far enough along for public consumption.</li><br><li>Added mamecds to contrib/tools.  (Carlos Calzada Grau)</li><br><li>Updated the ALSA 0.9 support (details at the site).</li></ul>Check it out at <a href="http://x.mame.net/">Xmame/Xmess Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1000870562,74698,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME 0.53.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:36AM [BST]</small>  </th></tr>  <tr><td> <a href="http://advancemame.sourceforge.net/">AdvanceMAME</a> has been updated.  Here's the latest:<br><ul><li>Revised the readme.txt/mame.txt/install.txt docs.</li><br><li>Added the -cfg option to specify an alternate name of the configuration file.</li><br><li>Added a new and improved fuzzy game name compare.</li><br><li>Readded the soundcard=NUMBER options.</li><br><li>Solved the hidded user interface bug.</li><br><li>Solved a configuration bug that prevented the vsync option to work.</li><br><li>Minor bugfix.</li></ol><br>  </td></tr>  </table></p>
+<a name="newsitem1000870337,52838,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>FinalBurn Alpha 0.137a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:32AM [BST]</small>  </th></tr>  <tr><td> Team FB Alpha has posted a mini-update to FinalBurn Alpha.  This release addresses some of the problems that have come to light following the release of FinalBurn Alpha 0.137.  Find out more at <a href="http://cp-systems2turbo.emuunlim.com/">CP-Systems2 Turbo</a>.  </td></tr>  </table></p>
+<a name="newsitem1000870097,25491,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME 0.55 for BeOS</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:28AM [BST]</small>  </th></tr>  <tr><td> Yoshi has updated his MAME port to the latest version 0.55, easily obtained at <a href="http://www.beemulated.net/">BeEmulated.net</a>.  </td></tr>  </table></p>
+<a name="newsitem1000786379,96514,"></a><h2>Tuesday 18 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Icons</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:12AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:mamu@mameicons.com">MAMu_</a> has brand new icons for MAME 0.55, which can be found at <a href="http://www.mameworld.net/icons/">MAMu_'s Mameicons</a>.  So there.  </td></tr>  </table></p>
+<a name="newsitem1000786029,35286,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Got AMD?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:07AM [BST]</small>  </th></tr>  <tr><td> Shonk has kindly recompiled MAME 0.55 for K6 (and other AMD) processors.  Check out <a href="http://www.shonk.eu.org/Mamek6/">Shonk's Mame K6 Page</a> and enjoy an extra 4 FPS. :)  </td></tr>  </table></p>
+<a name="newsitem1000785867,11277,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo 3.50</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:04AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:M.A.S.H@freenet.de">MASH</a> has updated <a href="http://www.mameworld.net/mameinfo/">mameinfo.dat</a> to include the latest bugs (16th/17th Sep), MAME 0.55 stuff andan updated driver section.<br>  </td></tr>  </table></p>
+<a name="newsitem1000785648,9133,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler 0.9.0 for Windows and Linux</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:00AM [BST]</small>  </th></tr>  <tr><td> Modeler is an arcade emulator currently running Sega System 32, Sega System 32 Multi and Sega Model 1 (not yet playable) games.  Get the latest binaries at the <a href="http://www.impactemu.com/index.php?s=modeler&ss=index">Modeler Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1000785376,98357,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>GeoMAME 0.53b</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:56AM [BST]</small>  </th></tr>  <tr><td> Got a Mac?  Wanna play the new kof99 dump?  Andrew Blum's got your back with a new version of GeoMAME.  His words:<br><br>"Now that MAME 0.55 supports the new kof99 encrypted dump, i've added this information to GeoMAME and built a new version, 0.53b. The kof99 parent set requires the encrypted and unencrypted kof99 graphic roms. I've also added a clone set (kof99d) that only requires the unencrypted set and therefore will load faster (and take less hard disk space)."<br><br>Visit <a href="http://mac.emuhq.com/geomame/">GeoMAME</a> and be complete.  </td></tr>  </table></p>
+<a name="newsitem1000780625,52495,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME 0.55 for BeOS</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 3:37AM [BST]</small>  </th></tr>  <tr><td> Yoshi has brought his port of MAME for BeOS in line with the latest beta.  Be a part of it with a visit to <a href="http://www.beemulated.net/">BeEmulated.net</a>.  </td></tr>  </table></p>
+<a name="newsitem1000780435,30794,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ACE 1.5</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 3:33AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:friol@tiscalinet.it">Friol</a> adds fuel to the multi-system fire with a new release of ACE, featuring Sega System 16, Sega System 18 and NeoGeo emulation.<br><br>Enough hype.  Find out more at the <a href="http://ace.emuunlim.com/">ACE Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1000712311,26053,"></a><h2>Monday 17 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CAESAR Updated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:38AM [BST]</small>  </th></tr>  <tr><td> CAESAR has now been updated for the latest MAME release. Just under 3700 pages changed as a result of the update!  </td></tr>  </table></p>
+<a name="newsitem1000707600,78046,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP / MAME 0.55</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:20AM [BST]</small>  </th></tr>  <tr><td> Hey all, there's the latest <a href="http://www.mame.net/wip0109.html">MAME WIP</a> (all of which found its way into MAME 0.55):<br><br>15th September 2001<br>Aaron Giles fixed some problems with 68k CPU interrupts.<br>Andrea Mazzoleni fixed a ROM loading problem which may have caused slow loading or unwanted network accesses. <br><br>16th September 2001<br>Luca Elia added Ultraman Club to the Seta driver.<br>Nicola Salmoria fixed Space Fortress from crashing.<br><br>You'll find MAME 0.55 (Win/Dos)(generic/i686) at <a href="http://www.mame.net/">MAME</a>.<br>[ Hey <a href="mailto:gridle@mbnet.fi">Gridle</a>, what did AMD ever do to you? ;) ]  </td></tr>  </table></p>
+<a name="newsitem1000589565,26883,"></a><h2>Saturday 15 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Cheat!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 10:32PM [BST]</small>  </th></tr>  <tr><td> It's been a long time, Pugsy.  There's good news for all MAME cheat enthusiasts out there - Pugsy has released a new cheat file!  You can find out more at <a href="http://cheat.retrogames.com/">Pugsy's MAME Cheat Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1000589256,44979,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>FinalBurn Alpha 0.137 Dipswitch Info File Fix</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 10:27PM [BST]</small>  </th></tr>  <tr><td> The dipswitch info file that came with FinalBurn Alpha 0.137 has been fixed.  You can check out the details at the <a href="http://cp-systems2turbo.emuunlim.com/">FinalBurn Alpha Page</a> or grab the file directly from <a href="http://cp-systems2turbo.emuunlim.com/fbn/fbn_0137_dipinfo.zip">here</a>.  </td></tr>  </table></p>
+<a name="newsitem1000589023,56505,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>VSyncMAME 54</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 10:23PM [BST]</small>  </th></tr>  <tr><td> There's a new version of <a href="http://vsynchmame.mameworld.net/">VSyncMAME</a>, with i686 and K6 binaries (and source code):<br><br>"Improved qsound.c stereo space effect. Use stereo speakers (located at 30 degrees)."<br>  </td></tr>  </table></p>
+<a name="newsitem1000554459,27579,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:47PM [BST]</small>  </th></tr>  <tr><td> More news from the MAME camp:<br><br>14th September 2001: Aaron Giles fixed Battler fire buttons and Empire City 1931 / Street Fight which were broken due to the interrupt handling and he fixed the Leland driver graphics which were broken due to the AY8910 changes. Jarek Burczynski sent in some preliminary screenshots of Metal Soldier Isaac II.  </td></tr>  </table></p>
+<a name="newsitem1000441859,66568,"></a><h2>Friday 14 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:30AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.mame.net/wip0109.html">MAME WIP Page</a> has posted an update:<br><br>11th September 2001<br>Jarek Burczynski added the USA version of Volfied.<br>Phil Stroffolino reported some progress with the Namco System 2 driver, specifically the sprites are now perfect but the road is not yet working.<br>David Haywood added an unprotected bootleg of Ichidant-R to the Sega C2 driver. <br><br>12th September 2001<br>Nicola Salmoria partially decrypted the original program ROMs of King of Fighters '99. <br><br>13th September 2001<br>Nicola Salmoria fixed the graphics in Crazy Rally, and hooked up the AY8910 sound chip correctly.<br>  </td></tr>  </table></p>
+<a name="newsitem1000441717,15103,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>FinalBurn Alpha 0.137</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:28AM [BST]</small>  </th></tr>  <tr><td> Team FB Alpha have released the latest version of <a href="http://cp-systems2turbo.emuunlim.com/">FinalBurn Alpha</a>.  This version introduces QSound emulation, along with a new GUI and a host of other improvements.  The new CPS-2 Shock releases are also supported in this release.  Enjoy!  </td></tr>  </table></p>
+<a name="newsitem1000402419,40016,"></a><h2>Thursday 13 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks 1.31</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:33PM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:kawaks@retrogames.com?Subject=Kawaks feedback.">Mr. K</a> has posted an update to his CPS-1/2 & NeoGeo emulator, <a href="http://kawaks.retrogames.com/">Kawaks</a>, including the latest CPS-2 games and support for the new kf99_s1d.rom in the KOF99 romset.  </td></tr>  </table></p>
+<a name="newsitem1000402082,65162,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:28PM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:thebeaver@arcadeheaven.com?subject=Mimic">Mike Beaver</a> is making progress with his multi-platform emulator, <a href="http://mimic.arcadeheaven.com/index.htm">Mimic</a>.  Read all the latest at the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic WIP Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1000274301,41922,"></a><h2>Wednesday 12 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Today (Scene Perspective)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:58AM [BST]</small>  </th></tr>  <tr><td> The following (and probably other) arcade emulation sites have posted condolences, news, links and/or other information related to the Attack on America:<br><br><a href="http://ace.emuunlim.com/">A.C.E.</a><br><a href="http://www.arcadeheaven.com/">Arcade Rom Heaven</a><br><a href="http://www.mameworld.net/mameperf/">ArchieMan's MAME Performance Guide</a><br><a href="http://www.beemulated.net/">BeEmulated.net</a><br><a href="http://www.emuunlim.com/">EmuUnlim</a><br><a href="http://www.fraggersxtreme.com/emam/tree/news/news0901.htm">EMAM</a><br><a href="http://www.emumania.com/">EmuM@nia</a><br><a href="http://www.emuverse.com/">Emuverse</a><br><a href="http://www.mameman.it/index2.html">M.A.M.E. Man</a><br><a href="http://digita.mame.net/news.htm">MAMED</a><br><a href="http://www.mameworld.net/">MameWorld</a><br><a href="http://www.retrogames.com/">Retrogames</a> (good effort, guys!)<br><a href="http://www.sys2064.com/">SYS 2064</a><br><a href="http://www.vg-network.com/">The Vintage Gaming Network</a><br><br>If I missed anyone, I'm sorry.<br><br>I'm glad to see that people in the emulation scene care.  On the flip side, the IDSA site hasn't even so much as dimmed their background color.<br><br>For a good list of news links and backup reports, visit <a href="http://www.google.com/">Google</a>.<br>  </td></tr>  </table></p>
+<a name="newsitem1000265169,97371,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Today (Canadian Perspective)</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:26AM [BST]</small>  </th></tr>  <tr><td> This is a plea from one Canadian to all others out there.  We have a lot of upset, confused, innocent air travelers staying with us until the border situation changes.  Please treat them well - it hasn't been their day.  </td></tr>  </table></p>
+<a name="newsitem1000240662,22190,"></a><h2>Tuesday 11 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Today</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:37PM [BST]</small>  </th></tr>  <tr><td> I still can't believe what happened today. I hope all the poor innocent people who died in those towers can rest in peace and that the murderous people behind it go to hell. Lets hope a fitting end comes to them all but without starting WW3.  </td></tr>  </table></p>
+<a name="newsitem1000181556,64636,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPSE 0.01</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:12AM [BST]</small>  </th></tr>  <tr><td> There's an update to the new CPS-2 emulator, CPSE:<br><br>"CPSE 0.01 fixes a tiny bug (clipping). Samples in Multimedia are now half quality (22KHz) and size."<br><br>Check it out at the <a href="http://cpse.emuunlim.com/cps_.htm">CPSE Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1000181482,62056,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat 3.43</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:11AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:M.A.S.H@freenet.de">MASH</a> has updated mameinfo.dat toinclude bugs and the latest WIP.  Check it out at the <a href="http://www.mameworld.net/mameinfo/">MASH's Mameinfo Page</a>.  </td></tr>  </table></p>
+<a name="newsitem1000095880,88460,"></a><h2>Monday 10 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 5:24AM [BST]</small>  </th></tr>  <tr><td> News!  Sweet, glorious news!  The <a href="http://www.mame.net/wip0109.html">MAME WIP Page</a> has posted another update.  Normally I wouldn't post the text of such a big update, but...<br><br>4th September 2001<br>David Graves improved the road colors in Continental Circus.<br>Nicola Salmoria added preliminary sound support to Zaccaria.<br>Mathis Rosenhauer converted all vector games to use the direct RGB modes. <br><br>5th September 2001<br>inside out boy submitted a driver for Car Jamboree.<br><br>6th September 2001<br>Gerardo Oporto fixed DIP switch settings in some Nichibutsu drivers.<br>David Haywood added Typhoon to the Ajax driver and converted the Car Jamboree driver for tilemaps. <br><br>7th September 2001<br>Jan Tleskac added another version of Rambo 3 to the Taito B driver.<br>Jarek Burczynski added another version of Space Invaders DX to the same driver. <br><br>8th September 2001<br>David Haywood resubmitted the New York, New York driver originally made by Darren Olafson, and added Waga Seishun no Arcadia to it.<br>David Haywood also added another version of Got-Ya called The Hand.<br>Nicola Salmoria improved the graphics emulation in New York, New York.<br>SUZ added a Xevious bootleg called Battles to the Xevious driver.<br>Phil Stroffolino improved the Namco System21 driver, but it is still far from perfect.<br><br>9th September 2001<br>SUZ improved graphics in the Toaplan1 driver.<br>David Graves yet improved the Taito Z road graphics emulation.<br>William Kucharski submitted a bugfix to prevent Shark Attack from crashing.<br>Nicola Salmoria fixed the title screen graphics in Mad Motor. <br><br>10th September 2001<br>David Graves cleaned up the Taito Z graphics emulation and road transparency.<br>Mike Coates added Space Fortress to the CVS driver.<br>  </td></tr>  </table></p>
+<a name="newsitem1000029552,30864,"></a><h2>Sunday 9 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>No News!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:59AM [BST]</small>  </th></tr>  <tr><td> I've been away for a day and come back to find nothings happened. Oh well, it's lovely sunny day and there's a decent wind so I'm off windsurfing. It probably won't do my cold any good but who cares, I have to take the opportunities when they come! :)  </td></tr>  </table></p>
+<a name="newsitem999930407,60742,"></a><h2>Saturday 8 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Marquees Pack 07</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:26AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:eldio@oldie.co.uk">Eldio</a> has released his seventh MAME Marquees pack: 3 new + 71 updates, bringing the grand total to 1165.  Be the first in your home to own it with a trip to <a href="http://www.fraggersxtreme.com/emam/">EMAM</a>.  </td></tr>  </table></p>
+<a name="newsitem999930061,99984,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE 0.33</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:21AM [BST]</small>  </th></tr>  <tr><td> [...I must update the news more often...I must update the news more often...]<br><br><a href="http://www.rainemu.com/">RAINE</a> has been updated!  Many are the changes (too many to list here), so check it out at the <a href="http://www.rainemu.com/">RAINE Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem999850921,78340,"></a><h2>Friday 7 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:22AM [BST]</small>  </th></tr>  <tr><td> Mike Beaver has found the System E bug that has been plaguing Mimic since he started System E emulation back in November 2000 !!!<br><br>What this means is that SystemE is now working fully. Snapshots are available on his <a href="http://mimic.arcadeheaven.com">home page</a>.<br><br>He also went through the Sn76489 sound code and fixed a few glitches, although it still doesn't sound right. He added the noise channel, so that improves sound in SMS/SGG/SystemE.<br><br>There is also talk of starting on Saturn emulation and a release of 1.09 will be within a week.   </td></tr>  </table></p>
+<a name="newsitem999723803,76822,"></a><h2>Wednesday 5 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Kawaks v1.30</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:03PM [BST]</small>  </th></tr>  <tr><td> Kawaks has added Neo-Geo emulation including the new dump of KOF99. You can get this great emulator from the <a href="http://kawaks.retrogames.com">Kawaks</a> home page.  </td></tr>  </table></p>
+<a name="newsitem999723686,48664,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>XMAME v0.54.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:01PM [BST]</small>  </th></tr>  <tr><td> Lawrence Gold has released an updated version of XMAME. You can read about the changes in the online <a href="http://x.mame.net/download/changes.unix">changes document</a>. You can find XMAME at the <a href="http://x.mame.net/">XMAME</a> home page.  </td></tr>  </table></p>
+<a name="newsitem999723499,21745,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:58PM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.rainemu.com/html/wip.html">RAINE WIP</a> page has added some news today:<br><br>Battle Bakraid has been added and is fully playable without sound (for now). This is another previously unemulated game but will probably appear in MAME soon enough.<br><br>  </td></tr>  </table></p>
+<a name="newsitem999630957,55292,"></a><h2>Tuesday 4 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ASIE v3.1 Final</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:15PM [BST]</small>  </th></tr>  <tr><td> Heinrick Tillack has released what will be the final version of his Amiga Space Invaders Emulator. This release adds some new startup options specific to the Amiga so go and get it from his <a href="http://ruler.yks.org/tillack/pro/emu.html">home page</a>.  </td></tr>  </table></p>
+<a name="newsitem999575081,36867,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mameinfo.dat 3.42</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 4:44AM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.mameworld.net/mameinfo/">MASH's Mameinfo</a> is offering a new mameinfo.dat with the latest bugs plus something new: MAME Statistics!  In order to get this new functionality, you have to recompile MAME.  If I come across a site with the recompiled binaries, I'll let you know.  </td></tr>  </table></p>
+<a name="newsitem999558599,53627,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CPSE 0.00</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:09AM [BST]</small>  </th></tr>  <tr><td> There's a new CPS-2 emulator out there.  Here's the lowdown:<br><br>"Z80 and Audio are complete, but M68000 and Video are still under construction: this first version is a QSound emulator."<br><br>Find out more at the <a href="http://cpse.emuunlim.com/">CPSE Homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem999558445,40140,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>AdvanceMAME 0.53.1</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:07AM [BST]</small>  </th></tr>  <tr><td> AdvanceMAME has a bugfix update, available at <a href="http://advancemame.sourceforge.net/">Advance Projects</a>.  </td></tr>  </table></p>
+<a name="newsitem999558345,82350,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:05AM [BST]</small>  </th></tr>  <tr><td> There's a big, big update at the <a href="http://www.mame.net/wipcurrent.html">MAME WIP Page</a>, including (gasp) Dragon's Lair, although inclusion at this point is unlikely.  </td></tr>  </table></p>
+<a name="newsitem999513248,1903,"></a><h2>Monday 3 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice v0.4.6</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:34AM [BST]</small>  </th></tr>  <tr><td> David Raingeard has released a new version of Calice which should now run at the correct speed on most machines. Full list of new features:<br><br>- Support for Nebula Cheats <br>- Hardware Stretch <br>- 60 Hz limit and automatic frameskip <br>- Greatly improved the neogeo core: nearly 100% of compatibility <br>- Added four different rom paths <br>- Switched to starscream 0.26c <br><br>You can get the latest version from the <a href="http://calice.emuunlim.com">Calice</a> home page.  </td></tr>  </table></p>
+<a name="newsitem999513165,7789,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>WarpMAME v0.37b16</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:32AM [BST]</small>  </th></tr>  <tr><td> WarpMAME (for the Amiga) has been updated for the first time in over a year! The new release is WarpMAME v0.37b16 so it is very nearly up to date with the latest MAME release. You can download it from the <a href="http://www.powerup.com.au/~cward/">WarpMAME</a> home page.  </td></tr>  </table></p>
+<a name="newsitem999420422,92699,"></a><h2>Sunday 2 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>KOSWIN 1.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:47AM [BST]</small>  </th></tr>  <tr><td> This is quite cool. All of the Dreamcast Emulators have been developed with Dan Potter's KOS. Well, now he has released a version that runs under CygWin so you can completely create Dreamcast programs in that environment on your PC.<br><br>KOSWIN is basically what it sounds like: it is a precompiled SH-4 and ARM compiler, KOS sources, dc-tools, etc, for Cygwin. All you need to get started with DC dev should be there. Check it out on SourceForge. Warning, not thoroughly tested! For instructions, read the "release notes" in the package.<br><br>Go and take a look at the <a href="http://dcdev.allusion.net/">DCDev</a> website if you are interested in Dreamcast development.  </td></tr>  </table></p>
+<a name="newsitem999420161,16183,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMED News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:42AM [BST]</small>  </th></tr>  <tr><td> Some news from the MAMED site (MAME for Dreamcast):<br><br>James has updated the <a href="http://digita.mame.net/readmedc.htm">readme</a> section to include a complete dreamcast guide. It contains a lot of information found on the message board. Hopefully it will help everyone to run MAMED on their dreamcast. Please let him know if there are any mistakes or addtions he should make.<br><br>Also the <a href="http://www4.fdewb.unimaas.nl/mamedl/">mamed unoffical compatability list</a> now has some mirrors of the MAMED DJ images. So if you are having trouble downloading them from this site you might try from there instead.<br>  </td></tr>  </table></p>
+<a name="newsitem999413640,32246,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula 1.9</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 7:54AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:NebulaEmu@myrealbox.com">ElSemi</a> brings us Nebula 1.9, complete with tons of fixes and many new features that you requested in emails and boards.  It's available at the <a href="http://nebula.emulatronia.com/indexe.html">Nebula Homepage</a>.<br>  </td></tr>  </table></p>
+<a name="newsitem999322565,62896,"></a><h2>Saturday 1 September</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Performance Guide Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 6:36AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:neepheid@hotmail.com">ArchieMan</a> has updated his <a href="http://www.mameworld.net/mameperf/">MAME Performance Guide</a>, having "completely rebuilt the indices after being driven insane by the tortuous changes in the last few versions (like puckman)."  It's an interesting project, although ArchieMan should be asking for help...  </td></tr>  </table></p>
+<a name="newsitem999299449,34038,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RAINE WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:10AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.rainemu.com/html/wip.html">RAINE WIP Page</a> has posted another update:<br><br>"Added stretch capabilities to raine. 2 new functions in the video effects menu : <br><br>* Stretch Max : resize the game bitmap to the max, all of it onscreen, and keeping the aspect ratio. <br>* Stretch FS : Resize to fullscreen, ignoring the aspect ratio.<br> <br>These functions rely on allegro for the acceleration. The direct X drivers in windows, and the DGA driver in linux do it at a good speed..."  </td></tr>  </table></p>
+<a name="newsitem999298981,922,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Got Marquees?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">rob</a> at at 12:03AM [BST]</small>  </th></tr>  <tr><td> <a href="mailto:eldio@oldie.co.uk">Eldio</a> has pulled together Marquee Pack 6 (bringing the total number of images to 1152) and you can find it at <a href="http://www.fraggersxtreme.com/emam/">EMAM</a>.  </td></tr>  </table></p>

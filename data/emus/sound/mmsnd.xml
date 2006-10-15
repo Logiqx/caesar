@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mmsnd" type="sound" dat="MMSnd_v0.36b10">
+	<name>MMSND</name>
+	<version>0.36 beta 10</version>
+	<date>30/11/1999</date>
+
+	<homepage status="bad">http://tokyo.cool.ne.jp/shica/mmsndindex.html</homepage>
+	<homepage>http://www.overclocked.org/galforce2/music.htm</homepage>
+	<author_link id="hiromitsu_shioya">&author_hiromitsu_shioya;</author_link>
+
+	<emulates>Sound from Taito and Sega games</emulates>
+	<comment>This emulator is based on MAME but only plays sounds for the supported games. Also included is a MMSnd32 (equivalent of MAME32) and support for some Sega Megadrive games.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="mmsnd3610.zip">Player</file>
+	</files>
+</emulator>

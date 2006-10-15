@@ -1,0 +1,434 @@
+clrmamepro (
+	name Shark
+	description "Shark v3.1f"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name flyingshark
+	description "Flying Shark"
+	year 1987
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name b02_01.512 size 65536 crc 2234b424 sha1 bd6242b9dcdb0f582565df588106cd1ce2aad53b )
+	rom ( name b02_02.512 size 65536 crc 30d4c9a8 sha1 96ce4f41207c5487e801a8444030ec4dc7b58b23 )
+	rom ( name b02_03.512 size 65536 crc 64f3d88f sha1 d0155cfb0a8885d58e34141f9696b9aa208440ca )
+	rom ( name b02_04.512 size 65536 crc 3b23a9fc sha1 2ac34445618e17371b5eed7eb6f43da4dbb99e28 )
+	rom ( name b02_05-1.rom size 16384 crc a8b05bd0 sha1 37317838ea57cb98cf9599cedf8e72bcae913d29 )
+	rom ( name b02_06-1.rom size 16384 crc 5e53ae47 sha1 55bde4133deebb59a87d9b96c6d0fd7b4bbc0e02 )
+	rom ( name b02_07-1.rom size 16384 crc e669f80e sha1 05c1a4ff9adaa6c8035f38a76c5ee333fafba2bf )
+	rom ( name b02_08.rom size 32768 crc ef0cf49c sha1 6fd5727462cd6c5dab4c5d780bd7504e48583894 )
+	rom ( name b02_09.rom size 32768 crc 230f1582 sha1 0fd4156a46ed64cb6e5c59b8836382dd86c229cf )
+	rom ( name b02_10.rom size 32768 crc 4bd099ff sha1 9326075f83549b0a9656f69bd4436fb1be2ac805 )
+	rom ( name b02_11.rom size 32768 crc f5799422 sha1 3f79dd849db787695a587f0db19a6782153b5955 )
+	rom ( name b02_12.rom size 32768 crc 733b9997 sha1 75e874a1d148fcc8fa09bb724ce8346565ace4e5 )
+	rom ( name b02_13.rom size 32768 crc 62532cd3 sha1 df483db7604c0135130f92b08bad3fbffb4f5c47 )
+	rom ( name b02_14.rom size 32768 crc f711ba7d sha1 49644a264c09fc2d743e4f801b8b82e980f2def9 )
+	rom ( name b02_15.rom size 32768 crc 8b70ef32 sha1 e1f988d650dce17e3bfbea12e5fddbb671df18d4 )
+	rom ( name b02_16.rom size 32768 crc cdd1a153 sha1 de9827a959039cf753ecac6756fb1925c37466d8 )
+	rom ( name b02_17-1.rom size 65536 crc fd6ef7a8 sha1 ddbc05ce694ab4d929f5f621d95800b612bc5f66 )
+	rom ( name b02_18-1.rom size 65536 crc 04739e02 sha1 8a14284adb0f0f33adf9affdec081c90de85d594 )
+)
+
+game (
+	name skyshark
+	description "Sky Shark"
+	year 1987
+	manufacturer "[Toaplan] Taito America Corporation (Romstar license)"
+	rom ( name 1 size 65536 crc 2234b424 sha1 bd6242b9dcdb0f582565df588106cd1ce2aad53b )
+	rom ( name 2 size 65536 crc 30d4c9a8 sha1 96ce4f41207c5487e801a8444030ec4dc7b58b23 )
+	rom ( name 3 size 65536 crc 64f3d88f sha1 d0155cfb0a8885d58e34141f9696b9aa208440ca )
+	rom ( name 4 size 65536 crc 3b23a9fc sha1 2ac34445618e17371b5eed7eb6f43da4dbb99e28 )
+	rom ( name 5-2 size 16384 crc fb7cad55 sha1 91815a717511cc97477f08f0fed568247c7fd143 )
+	rom ( name 6-2 size 16384 crc 9a29a862 sha1 5742f1f5a9c8d644d2a48496466039d18f192929 )
+	rom ( name 7-2 size 16384 crc af48c4e6 sha1 07e8bb6cb92f812990112063f87073df9a346ff4 )
+	rom ( name 8 size 32768 crc ef0cf49c sha1 6fd5727462cd6c5dab4c5d780bd7504e48583894 )
+	rom ( name 9 size 32768 crc 230f1582 sha1 0fd4156a46ed64cb6e5c59b8836382dd86c229cf )
+	rom ( name 10 size 32768 crc 4bd099ff sha1 9326075f83549b0a9656f69bd4436fb1be2ac805 )
+	rom ( name 11 size 32768 crc f5799422 sha1 3f79dd849db787695a587f0db19a6782153b5955 )
+	rom ( name 12 size 32768 crc 733b9997 sha1 75e874a1d148fcc8fa09bb724ce8346565ace4e5 )
+	rom ( name 13 size 32768 crc 62532cd3 sha1 df483db7604c0135130f92b08bad3fbffb4f5c47 )
+	rom ( name 14 size 32768 crc f711ba7d sha1 49644a264c09fc2d743e4f801b8b82e980f2def9 )
+	rom ( name 15 size 32768 crc 8b70ef32 sha1 e1f988d650dce17e3bfbea12e5fddbb671df18d4 )
+	rom ( name 16 size 32768 crc cdd1a153 sha1 de9827a959039cf753ecac6756fb1925c37466d8 )
+	rom ( name 17-2 size 65536 crc 066d67be sha1 a66be35b956da2c2ddf97cae66d79c0efd228621 )
+	rom ( name 18-2 size 65536 crc 888e90f3 sha1 3a40d7e7653cc929af8186e48f272989fb332e14 )
+)
+
+game (
+	name hishouzame
+	description "Hishou Zame"
+	year 1987
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name b02-01.rom size 65536 crc 2234b424 sha1 bd6242b9dcdb0f582565df588106cd1ce2aad53b )
+	rom ( name b02-02.rom size 65536 crc 30d4c9a8 sha1 96ce4f41207c5487e801a8444030ec4dc7b58b23 )
+	rom ( name b02-03.rom size 65536 crc 64f3d88f sha1 d0155cfb0a8885d58e34141f9696b9aa208440ca )
+	rom ( name b02-04.rom size 65536 crc 3b23a9fc sha1 2ac34445618e17371b5eed7eb6f43da4dbb99e28 )
+	rom ( name b02-05.rom size 16384 crc 85a7bff6 sha1 38cd89aa0800e3796f7ecac657d14119543057c2 )
+	rom ( name b02-06.rom size 16384 crc ad5f1371 sha1 feae9d7bb75bfab5353be4c5931d78a530bd9bcd )
+	rom ( name b02-07.rom size 16384 crc c13a775e sha1 b60d26126ec6ebc24a7ca87dd0234e4d9d3e78fc )
+	rom ( name b02-08.rom size 32768 crc ef0cf49c sha1 6fd5727462cd6c5dab4c5d780bd7504e48583894 )
+	rom ( name b02-09.rom size 32768 crc 230f1582 sha1 0fd4156a46ed64cb6e5c59b8836382dd86c229cf )
+	rom ( name b02-10.rom size 32768 crc 4bd099ff sha1 9326075f83549b0a9656f69bd4436fb1be2ac805 )
+	rom ( name b02-11.rom size 32768 crc f5799422 sha1 3f79dd849db787695a587f0db19a6782153b5955 )
+	rom ( name b02-12.rom size 32768 crc 733b9997 sha1 75e874a1d148fcc8fa09bb724ce8346565ace4e5 )
+	rom ( name b02-13.rom size 32768 crc 62532cd3 sha1 df483db7604c0135130f92b08bad3fbffb4f5c47 )
+	rom ( name b02-14.rom size 32768 crc f711ba7d sha1 49644a264c09fc2d743e4f801b8b82e980f2def9 )
+	rom ( name b02-15.rom size 32768 crc 8b70ef32 sha1 e1f988d650dce17e3bfbea12e5fddbb671df18d4 )
+	rom ( name b02-16.rom size 32768 crc cdd1a153 sha1 de9827a959039cf753ecac6756fb1925c37466d8 )
+	rom ( name b02-17.rom size 65536 crc cdac7228 sha1 6b0d67e4b0661a858653d2eabb8936af9148167e )
+	rom ( name b02-18.rom size 65536 crc 4444bb94 sha1 5ff955a5190d1b356187de105cfb8ea181fc1282 )
+)
+
+game (
+	name samesamesame
+	description "Same! Same! Same!"
+	year 1989
+	manufacturer "Toaplan"
+	rom ( name o17_01.bin size 131072 crc ea12e491 sha1 02190722b7c5383471e0af9596be7039a5367240 )
+	rom ( name o17_02.bin size 131072 crc 32a13a9f sha1 1446acdfd21cd41f3d97aaf30f498c0c5d890605 )
+	rom ( name o17_03.bin size 131072 crc 68723dc9 sha1 4f1b7aa2469c955e03737b611a7d2524f1e4f61e )
+	rom ( name o17_04.bin size 131072 crc fe0ecb13 sha1 634a49262b9c092c25f11b14c6757fe94ea9eddc )
+	rom ( name o17_05.bin size 131072 crc 565315f8 sha1 6b1c5ef52359483228b329c89c2e1174e3fbf017 )
+	rom ( name o17_06.bin size 131072 crc 95262d4c sha1 16f3aabecb1c87ce7eadf4f0ff61b29a4c017614 )
+	rom ( name o17_07.bin size 131072 crc 4c4b735c sha1 812c3bf46bd7764b2bb812bd2b9eb0331ed257ae )
+	rom ( name o17_08.bin size 131072 crc 95c6586c sha1 ff87901f79d80f73ad09664b0c0d892898570616 )
+	rom ( name o17_09.bin size 32768 crc 3f69e437 sha1 f2a40fd42cb5ecb2e514b72e7550aa479a9f9ad6 )
+	rom ( name o17_10.bin size 32768 crc 4e723e0a sha1 e06394d50addeda1045c02c646964afbc6005a82 )
+	rom ( name o17_11.bin size 131072 crc be07d101 sha1 1eda14ba24532b565d6ad57490b73ff312f98b53 )
+	rom ( name o17_12.bin size 131072 crc ef698811 sha1 4c729704eba0bf469599c79009327e4fa5dc540b )
+)
+
+game (
+	name fireshark
+	description "Fire Shark"
+	year 1990
+	manufacturer "Toaplan"
+	rom ( name o17_01.bin size 131072 crc ea12e491 sha1 02190722b7c5383471e0af9596be7039a5367240 )
+	rom ( name o17_02.bin size 131072 crc 32a13a9f sha1 1446acdfd21cd41f3d97aaf30f498c0c5d890605 )
+	rom ( name o17_03.bin size 131072 crc 68723dc9 sha1 4f1b7aa2469c955e03737b611a7d2524f1e4f61e )
+	rom ( name o17_04.bin size 131072 crc fe0ecb13 sha1 634a49262b9c092c25f11b14c6757fe94ea9eddc )
+	rom ( name o17_05.bin size 131072 crc 565315f8 sha1 6b1c5ef52359483228b329c89c2e1174e3fbf017 )
+	rom ( name o17_06.bin size 131072 crc 95262d4c sha1 16f3aabecb1c87ce7eadf4f0ff61b29a4c017614 )
+	rom ( name o17_07.bin size 131072 crc 4c4b735c sha1 812c3bf46bd7764b2bb812bd2b9eb0331ed257ae )
+	rom ( name o17_08.bin size 131072 crc 95c6586c sha1 ff87901f79d80f73ad09664b0c0d892898570616 )
+	rom ( name 9.bin size 32768 crc f0c70e6f sha1 037690448786d61aa116b24b638430c577ea78e2 )
+	rom ( name 10.bin size 32768 crc 9d253d77 sha1 0414d1f475abb9ccfd7daa11c2f400a14f25db09 )
+	rom ( name 11.bin size 131072 crc 6beac378 sha1 041ba98a89a4bac32575858db8a061bdf7804594 )
+	rom ( name 12.bin size 131072 crc 6adb6eb5 sha1 9b6e63aa50d271c2bb0b4cf822fc6f3684f10230 )
+)
+
+game (
+	name twincobra
+	description "Twin Cobra Europe"
+	year 1987
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name tc16 size 65536 crc 07f64d13 sha1 864ce0f9369c40c3ae792fc4ab2444a168214749 )
+	rom ( name tc15 size 32768 crc 3a646618 sha1 fc1ed8f3c491f5cf16a17e5ce08c5d8f3ce03683 )
+	rom ( name tc14 size 65536 crc 41be6978 sha1 4784804b738a332c7f24a43bcbb7a1e607365735 )
+	rom ( name tc13 size 32768 crc d7d1e317 sha1 57b8433b1677a390a7c7e00a1464bb8ed9cbfc73 )
+	rom ( name tc12 size 32768 crc e37b3c44 sha1 5fed10b29c14e27aee0cd92ecde5c5cb422273b1 )
+	rom ( name tc04 size 16384 crc a599d845 sha1 732001f2d378d890f148e6b616c287d71fae832a )
+	rom ( name tc03 size 16384 crc e9e2d4b1 sha1 e0a19dd46a9ba85d95bba7fbf81d8dc36dbfeabd )
+	rom ( name tc11 size 16384 crc 0a254133 sha1 17e9cc5e36fb4696012d0f9229fa172034cd843a )
+	rom ( name tc10 size 32768 crc 44f5accd sha1 2f9bdebe71c8be195332356df68992fd38d86994 )
+	rom ( name tc09 size 32768 crc 170c01db sha1 f4c5a1600f6cbb48abbace66c6f7514f79138e8b )
+	rom ( name tc08 size 32768 crc 97f20fdc sha1 7cb3cd0637b0db889a3d552fd7c1a916eee5ca27 )
+	rom ( name tc07 size 32768 crc b5d48389 sha1 a00c5b9c231d3d580fa20c7ad3f8b6fd990e6594 )
+	rom ( name tc06 size 65536 crc 13daeac8 sha1 1cb103f434e2ecf193fa936ca7ea9194064c5b39 )
+	rom ( name tc05 size 65536 crc 8cc79357 sha1 31064df2b796ca85ad3caccf626b684dff1104a1 )
+	rom ( name tc02 size 65536 crc d9e2e55d sha1 0409e6df836d1d5198b64b21b42192631aa6d096 )
+	rom ( name tc01 size 65536 crc 15b3991d sha1 f5e7ed7a7721ed7e6dfd440634160390b7a294e4 )
+	rom ( name tc17 size 65536 crc 4264bff8 sha1 3271b8b23f51346d1928ae01f8b547fed49181e6 )
+	rom ( name tc18 size 65536 crc 806fb374 sha1 3eebefadcbdf713bf2a65b438092746b07edd3f0 )
+	rom ( name tc19 size 65536 crc 9cb8675e sha1 559c21d505c60401f7368d4ab2b686b15075c5c5 )
+	rom ( name tc20 size 65536 crc cb4092b8 sha1 35b1d1e04af760fa106124bd5a94174d63ff9705 )
+)
+
+game (
+	name kyukyokutiger
+	description "Kyukyoku Tiger"
+	year 1987
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name b30-01 size 65536 crc 07f64d13 sha1 864ce0f9369c40c3ae792fc4ab2444a168214749 )
+	rom ( name b30-02 size 32768 crc 1d63e9c4 sha1 bdf013487a6fe8f8cbb03fda5f4fae881064831c )
+	rom ( name b30-03 size 65536 crc 41be6978 sha1 4784804b738a332c7f24a43bcbb7a1e607365735 )
+	rom ( name b30-04 size 32768 crc 03957a30 sha1 d809881a16b05595b6f184e44a36e592f46ba04a )
+	rom ( name b30-05 size 32768 crc 1a8f1e10 sha1 0c37a7a50b2523506ad77ac03ae752eb94092ff6 )
+	rom ( name b30-06 size 32768 crc da1efca2 sha1 f8685872b266ff7b9bd657bcc538217159938823 )
+	rom ( name b30-07 size 32768 crc 52ea1c4c sha1 bf1d028f35ddb8ca4279670eaf9cd409a2121268 )
+	rom ( name b30-08 size 32768 crc bf4ed7aa sha1 b4c479b153c6f146d0d846cec04f0a52cbccef3e )
+	rom ( name b30-09 size 32768 crc 44f5accd sha1 2f9bdebe71c8be195332356df68992fd38d86994 )
+	rom ( name b30-10 size 32768 crc 170c01db sha1 f4c5a1600f6cbb48abbace66c6f7514f79138e8b )
+	rom ( name b30-11 size 32768 crc 97f20fdc sha1 7cb3cd0637b0db889a3d552fd7c1a916eee5ca27 )
+	rom ( name b30-12 size 32768 crc b5d48389 sha1 a00c5b9c231d3d580fa20c7ad3f8b6fd990e6594 )
+	rom ( name b30-13 size 65536 crc 13daeac8 sha1 1cb103f434e2ecf193fa936ca7ea9194064c5b39 )
+	rom ( name b30-14 size 65536 crc 8cc79357 sha1 31064df2b796ca85ad3caccf626b684dff1104a1 )
+	rom ( name b30-15 size 65536 crc d9e2e55d sha1 0409e6df836d1d5198b64b21b42192631aa6d096 )
+	rom ( name b30-16 size 65536 crc 15b3991d sha1 f5e7ed7a7721ed7e6dfd440634160390b7a294e4 )
+	rom ( name b30-17 size 65536 crc 4264bff8 sha1 3271b8b23f51346d1928ae01f8b547fed49181e6 )
+	rom ( name b30-18 size 65536 crc 806fb374 sha1 3eebefadcbdf713bf2a65b438092746b07edd3f0 )
+	rom ( name b30-19 size 65536 crc 9cb8675e sha1 559c21d505c60401f7368d4ab2b686b15075c5c5 )
+	rom ( name b30-20 size 65536 crc cb4092b8 sha1 35b1d1e04af760fa106124bd5a94174d63ff9705 )
+)
+
+game (
+	name twincobrausa
+	description "Twin Cobra USA"
+	year 1987
+	manufacturer "[Toaplan] Taito America Corporation (Romstar license)"
+	rom ( name tc16 size 65536 crc 07f64d13 sha1 864ce0f9369c40c3ae792fc4ab2444a168214749 )
+	rom ( name b30-02 size 32768 crc bdd00ba4 sha1 b76b22f03eb4b821a8c555edd9fcee814f2e66a7 )
+	rom ( name tc14 size 65536 crc 41be6978 sha1 4784804b738a332c7f24a43bcbb7a1e607365735 )
+	rom ( name b30-04 size 32768 crc ed600907 sha1 e5964db9eab2c334940795d71cb90f6679490227 )
+	rom ( name b30-05 size 32768 crc 1a8f1e10 sha1 0c37a7a50b2523506ad77ac03ae752eb94092ff6 )
+	rom ( name tc04 size 16384 crc a599d845 sha1 732001f2d378d890f148e6b616c287d71fae832a )
+	rom ( name tc03 size 16384 crc e9e2d4b1 sha1 e0a19dd46a9ba85d95bba7fbf81d8dc36dbfeabd )
+	rom ( name tc11 size 16384 crc 0a254133 sha1 17e9cc5e36fb4696012d0f9229fa172034cd843a )
+	rom ( name tc10 size 32768 crc 44f5accd sha1 2f9bdebe71c8be195332356df68992fd38d86994 )
+	rom ( name tc09 size 32768 crc 170c01db sha1 f4c5a1600f6cbb48abbace66c6f7514f79138e8b )
+	rom ( name tc08 size 32768 crc 97f20fdc sha1 7cb3cd0637b0db889a3d552fd7c1a916eee5ca27 )
+	rom ( name tc07 size 32768 crc b5d48389 sha1 a00c5b9c231d3d580fa20c7ad3f8b6fd990e6594 )
+	rom ( name tc06 size 65536 crc 13daeac8 sha1 1cb103f434e2ecf193fa936ca7ea9194064c5b39 )
+	rom ( name tc05 size 65536 crc 8cc79357 sha1 31064df2b796ca85ad3caccf626b684dff1104a1 )
+	rom ( name tc02 size 65536 crc d9e2e55d sha1 0409e6df836d1d5198b64b21b42192631aa6d096 )
+	rom ( name tc01 size 65536 crc 15b3991d sha1 f5e7ed7a7721ed7e6dfd440634160390b7a294e4 )
+	rom ( name tc17 size 65536 crc 4264bff8 sha1 3271b8b23f51346d1928ae01f8b547fed49181e6 )
+	rom ( name tc18 size 65536 crc 806fb374 sha1 3eebefadcbdf713bf2a65b438092746b07edd3f0 )
+	rom ( name tc19 size 65536 crc 9cb8675e sha1 559c21d505c60401f7368d4ab2b686b15075c5c5 )
+	rom ( name tc20 size 65536 crc cb4092b8 sha1 35b1d1e04af760fa106124bd5a94174d63ff9705 )
+)
+
+game (
+	name outzone
+	description "Out Zone"
+	year 1990
+	manufacturer "Toaplan"
+	rom ( name rom1.bin size 131072 crc 0934782d sha1 e4a775ead23227d7d6e76aea23aa3103b511d031 )
+	rom ( name rom2.bin size 131072 crc 6bb72d16 sha1 a127b10d9c255542bd09fcb5df057c12fd28c0d1 )
+	rom ( name rom3.bin size 131072 crc ec903c07 sha1 75906f31200877fc8f6e78c2606ad5be49778165 )
+	rom ( name rom4.bin size 131072 crc 50cbf1a8 sha1 cfab1504746654b4a61912155e9aeca746c65321 )
+	rom ( name rom5.bin size 524288 crc c64ec7b6 sha1 e73b51c3713c2ea7a572a02531c15d1261ddeaa0 )
+	rom ( name rom6.bin size 524288 crc 64b6c5ac sha1 07fa20115f603445c0d51af3465c0471c09d76b1 )
+	rom ( name rom7.bin size 131072 crc 936e25d8 sha1 ffb7990ea1539d868a9ad2fb711b0febd90f098d )
+	rom ( name rom8.bin size 131072 crc d19b3ecf sha1 b406999b9f1e2104d958b42cc745bf79dbfe50b3 )
+	rom ( name rom9.bin size 32768 crc 73d8e235 sha1 f37ad497259a467cdf2ec8b3e6e7d3e873087e6c )
+)
+
+game (
+	name truxton
+	description "Truxton"
+	year 1988
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name b65_01.bin size 131072 crc e974937f sha1 ab282472c04ce6d9ed368956c427403275bc9080 )
+	rom ( name b65_02.bin size 131072 crc 1dd55161 sha1 c537456ac56801dea0ac48fb1389228530d00a61 )
+	rom ( name b65_03.bin size 131072 crc 58b1350b sha1 7eb2fe329579a6f651d3c1aed9155ac6ffefbc4b )
+	rom ( name b65_04.bin size 131072 crc 8c6ff461 sha1 5199e31f4eb23bad01f7d1079f3618fe39d8a32e )
+	rom ( name b65_05.bin size 131072 crc 81cd95f1 sha1 526a437fbe033ac21054ee5c3bf1ba2fed354c7a )
+	rom ( name b65_06.bin size 131072 crc 36cedcbe sha1 f79d4b1e98b3c9091ae907fb671ad201d3698b42 )
+	rom ( name b65_07.bin size 131072 crc fb83252a sha1 48a38584d223f56286137f7acdfaec86ee6588e7 )
+	rom ( name b65_08.bin size 131072 crc d2315b37 sha1 eb42a884df319728c830c067c2423043ed4536ee )
+	rom ( name b65_09.bin size 32768 crc f1c0f410 sha1 05deb759f8acb14fff92c56b536134cfd84516a8 )
+	rom ( name b65_10.bin size 131072 crc aff5195d sha1 a7f379dc35e3acf9e7a8ae8a47a9b5b4193f93a1 )
+	rom ( name b65_11.bin size 131072 crc 1a62379a sha1 b9470d4b70c38f2523b22636874d742abe4099eb )
+)
+
+game (
+	name demonsworld
+	description "Demon's World"
+	year 1989
+	manufacturer "Toaplan (Taito license)"
+	rom ( name rom01 size 131072 crc 1b3724e9 sha1 3dbb0450ab1e40e6df2b7c7356352419cd3f113d )
+	rom ( name rom02 size 131072 crc 7b20a44d sha1 4dc1a2fa2058077b112c73492808ee9381060ec7 )
+	rom ( name rom03 size 131072 crc 2cacdcd0 sha1 92216d1c6859e05d39363c30e0beb45bc0ae4e1c )
+	rom ( name rom04 size 131072 crc 76fd3201 sha1 7a12737bf90bd9760074132edeb22f3fd3e16b4f )
+	rom ( name rom05 size 131072 crc 6506c982 sha1 6d4c1ef91e5617724789ff196abb7abf23e4a7fb )
+	rom ( name rom06 size 131072 crc 4fc5e5f3 sha1 725d4b009d575ff8ffbe1c00df352ccf235465d7 )
+	rom ( name rom07 size 131072 crc a3a0d993 sha1 50311b9447eb04271b17b212ca31d083ab5b2414 )
+	rom ( name rom08 size 131072 crc eb53ab09 sha1 d98195cc1b65b76335b5b24adb31deae1b313f3a )
+	rom ( name rom09 size 131072 crc bed746e3 sha1 056668edb7df99bbd240e387af17cf252d1448f3 )
+	rom ( name rom10 size 131072 crc 036ee46c sha1 60868e5e08e0c9a538ae786de0de6b2531b30b11 )
+	rom ( name rom11 size 32768 crc 397eca1b sha1 84073ff6d1bc46ec6162d66ec5de305700938380 )
+)
+
+game (
+	name vimana
+	description "Vimana"
+	year 1991
+	manufacturer "Toaplan"
+	rom ( name vim1.bin size 524288 crc cdde26cd sha1 27893af4692ec7bcbaac9e790c0707c98df84e62 )
+	rom ( name vim2.bin size 524288 crc 1dbfc118 sha1 4fd039a3172f73ad910349b2d360e8ae77ccddb2 )
+	rom ( name vim3.bin size 131072 crc 0b539131 sha1 07f3e3b9b28c8218e36668c24d16dbb6e9a66889 )
+	rom ( name vim4.bin size 131072 crc b0515768 sha1 9907b52b4d30ce5324270a12c40250068adafca8 )
+	rom ( name vim5.bin size 131072 crc 61a63d7a sha1 5cdebc03110252cc43d31b6f87f9a23556892977 )
+	rom ( name vim6.bin size 131072 crc 2886878d sha1 f44933d87bbcd3bd58f46e0f0f89b05c409b713b )
+	rom ( name vim07.bin size 131072 crc 1efaea84 sha1 f9c5d2365d8948fa66dbe61d355919db15843a28 )
+	rom ( name vim08.bin size 131072 crc e45b7def sha1 6b92a91d64581954da8ecdbeb5fed79bcc9c5217 )
+)
+
+game (
+	name zerowing
+	description "Zero Wing"
+	year 1989
+	manufacturer "Toaplan"
+	rom ( name o15-01.rom size 131072 crc 70570e43 sha1 acc9baec71b0930cb2f193677e0663efa5d5551d )
+	rom ( name o15-02.rom size 131072 crc 724b487f sha1 06af31520866eea69aebbd5d428f80e882289a15 )
+	rom ( name o15-03.rom size 131072 crc 7f245fd3 sha1 efbcb3663d4accc4f8128a8fee5475bc109bc17a )
+	rom ( name o15-04.rom size 131072 crc 0b1a1289 sha1 ce6c06342392d11952873e3b1d6aea8dc02a551c )
+	rom ( name o15-05.rom size 131072 crc 4e5dd246 sha1 5366b4a6f3c900a4f57a6583b7399163a06f42d7 )
+	rom ( name o15-06.rom size 131072 crc c8c6d428 sha1 76ee5bcb8f10fe201fc5c32697beee3de9d8b751 )
+	rom ( name o15-07.rom size 131072 crc efc40e99 sha1 a04fad4197a7fb4787cd9bebf43e1d9b02b2f61b )
+	rom ( name o15-08.rom size 131072 crc 1b019eab sha1 c9569ca85696825142acc5cde9ac829e82b1ca1b )
+	rom ( name o15-09.rom size 131072 crc 13764e95 sha1 61da49b73ba81edd951e96e9ce6673c1c3bd65f2 )
+	rom ( name o15-10.rom size 131072 crc 351ba71a sha1 937331549140506711b08252497cc0f2efa58268 )
+	rom ( name o15-11.rom size 32768 crc 6ff2b9a0 sha1 c9f2a631f185689dfc42a451d85fac23c2f4b64b )
+	rom ( name o15-12.rom size 32768 crc 9773e60b sha1 b733e9d38a233d010cc5ea41e7e61695082c3a22 )
+	rom ( name o15-13.rom size 32768 crc e7b72383 sha1 ea1f6f33a86d14d58bd396fd46081462f00177d5 )
+)
+
+game (
+	name hellfire
+	description "Hellfire"
+	year 1989
+	manufacturer "Toaplan (Taito license)"
+	rom ( name b90-03.bin size 32768 crc 4058fa67 sha1 155c364273c270cd74955f447efc804bb4c9b560 )
+	rom ( name b90-04.bin size 131072 crc ea6150fc sha1 1116947d10ce14fbc6a3b86368fc2024c6f51803 )
+	rom ( name b90-05.bin size 131072 crc bb52c507 sha1 b0b1821476647f10c7023f92a66a7f54b92f50c3 )
+	rom ( name b90-06.bin size 131072 crc cf5b0252 sha1 e2102967af61afb11d2290a40d13d2faf9ef1e12 )
+	rom ( name b90-07.bin size 131072 crc b98af263 sha1 54d636a50a41dbb58b54c22dfab3eabfdb452575 )
+	rom ( name b90-08.bin size 131072 crc 3404a5e3 sha1 f717b9e31c2a093dbb060b8ea54a8c3f52688d7a )
+	rom ( name b90-09.bin size 131072 crc cf01009e sha1 e260c479fa97f23a65c220e5071aaf2dc2baf46d )
+	rom ( name b90-10.bin size 131072 crc 35fd1092 sha1 5e136a35eea45034ccd4aea52cc0ffeec944e27e )
+	rom ( name b90-11.bin size 131072 crc c33e543c sha1 b85cba30cc651f820aeedd41e04584df92078ed9 )
+	rom ( name b90-14.bin size 131072 crc 101df9f5 sha1 27e1430d4c96fe2c830143999a760470c8381ada )
+	rom ( name b90-15.bin size 131072 crc e67fd452 sha1 baec2a702238f000d0499705d79d7c7577fc2279 )
+)
+
+game (
+	name rallybike
+	description "Rally Bike"
+	year 1988
+	manufacturer "[Toaplan] Taito Corporation"
+	rom ( name rb_01.bin size 32768 crc 7602f6a7 sha1 2939c261a4bc63586681080f5643916c85e81c7d )
+	rom ( name rb_02.bin size 32768 crc 383386d7 sha1 fc420b6adc79a408a68f0661d0c62ed7dbe8b6d7 )
+	rom ( name rb_03l.bin size 65536 crc d831189b sha1 78747c8b0e668213f2e525664ac5b7ee01a68c42 )
+	rom ( name rb_04l.bin size 65536 crc f5705482 sha1 2f1c8b8f9aceefb39dbf9ffe9b61f3077121a783 )
+	rom ( name rb_05.bin size 16384 crc 10814601 sha1 bad7a834d8849752a7f3000bb5154ec0fa50d695 )
+	rom ( name rb_06l.bin size 65536 crc c34f02b0 sha1 61a8b9db4c372ba0245bd09ac8d0ee8a841a3110 )
+	rom ( name rb_07l.bin size 65536 crc 8f679f11 sha1 3b4e1d80fb23fe0e7376ccd0f4dc0118b55e9959 )
+	rom ( name rb_08l.bin size 65536 crc 031678e3 sha1 ead613245fc96f37dd1c728d8f13f862d84a9673 )
+	rom ( name rb_09l.bin size 65536 crc 6c07ba36 sha1 9f0c67c18605d25a65a43805b12f635ba2a93c6d )
+	rom ( name rb_10l.bin size 65536 crc dbb7c57e sha1 268132965cd65b5e972ca9d0258c30b8a86f3703 )
+	rom ( name rb_11l.bin size 65536 crc 0d56e8bb sha1 c29cb53f846c73b7cf9936051fb0f9dd3805f53f )
+	rom ( name rb_12l.bin size 65536 crc cf5aae4e sha1 5832c52d2e9b86414d8ee2926fa190abe9e41da4 )
+	rom ( name rb_13l.bin size 65536 crc 1683b07c sha1 54356893357cd1297f24f1d85b7289d80740262d )
+	rom ( name rb_03h.bin size 65536 crc cbf8846c sha1 a131fca72b75a2f313cb91fd157e585f7d2c3626 )
+	rom ( name rb_04h.bin size 65536 crc ab467050 sha1 b742f9e8cc453206705bec52f8a6edfeb888419a )
+	rom ( name rb_06h.bin size 65536 crc 4910fd73 sha1 7512fbb9c13e74a118ecd333026c68f816daa522 )
+	rom ( name rb_07h.bin size 65536 crc 161a6ae1 sha1 b46593f631a0f911b6627b93dc4fdeb651eab351 )
+	rom ( name rb_08h.bin size 65536 crc d21eed25 sha1 ae559617de9d390a8b109cb8a160e77169772536 )
+	rom ( name rb_09h.bin size 65536 crc a54d0e78 sha1 01c9072688a328fe8c25187dd112f2b362dc8749 )
+)
+
+game (
+	name tekipaki
+	description "Teki Paki"
+	year 1991
+	manufacturer "Toaplan"
+	rom ( name tp020-01.bin size 65536 crc d8420bd5 sha1 30c1ad9e053cd7e79adb42aa428ebee28e144755 )
+	rom ( name tp020-02.bin size 65536 crc 7222de8e sha1 8352ae23efc24a2e20cc24b6d37cb8fc6b1a730c )
+	rom ( name tp020-03.bin size 524288 crc 2d5e2201 sha1 5846c844eedd48305c1c67dc645b6e070b3f5b98 )
+	rom ( name tp020-04.bin size 524288 crc 3ebbe41e sha1 cea196c5f83e1a23d5b538a0db9bbbffa7af5118 )
+)
+
+game (
+	name tigerheli
+	description "Tiger Heli"
+	year 1985
+	manufacturer "Taito"
+	rom ( name rom01_08.bin size 16384 crc 65df2152 sha1 8e1516905a4af379cb0d0b9d42ff1cc3179c3589 )
+	rom ( name rom02_07.bin size 16384 crc 36e250b9 sha1 79bd86bde81981e4d0dbee420bc0a10c80b5241e )
+	rom ( name rom03_14.bin size 8192 crc d105260f sha1 f6a0e393e29354bb37fb723828f3267d030a45ea )
+	rom ( name rom04_03.bin size 8192 crc cd59628e sha1 7be6479f20eb51b79b93e6fd65ab219096d54984 )
+	rom ( name rom05_02.bin size 8192 crc c5325b49 sha1 6df9051e7545dcac4995340f80957510457aaf64 )
+	rom ( name rom06_06.bin size 16384 crc 11fbcc8c sha1 b4fdb9ee00b749e1a54cfc0cdf55cc5e9bee3662 )
+	rom ( name rom07_05.bin size 16384 crc 02fdd429 sha1 fa392f2e57cfb6af4c124e0c151a4652f83e5577 )
+	rom ( name rom08_04.bin size 16384 crc e539af2b sha1 0c8369a0fac1cbe40c07b51e16e8f8a9b8ed03b8 )
+	rom ( name rom09_01.bin size 16384 crc 31fae8a8 sha1 ef8c23776431f00a74b25c5800755b6fa8d585ec )
+	rom ( name rom10_10.bin size 16384 crc e1cf844e sha1 eeb8eff09f96c693e147d155a8c0a87416d64603 )
+	rom ( name rom11_12.bin size 16384 crc 744fae9b sha1 b324350469c51043e1d90ce58808d966467435b9 )
+	rom ( name rom12_11.bin size 16384 crc c064ecdb sha1 fa8d712e2b2bda78b9375d96c93a4d7549c94075 )
+	rom ( name rom13_13.bin size 16384 crc 739a7e7e sha1 5fee71d9e1540903a6cf7bcaab30acaa088d35ed )
+	rom ( name rom00_09.bin size 16384 crc ef738c68 sha1 c78c802d885b7f7c5e312ec079d52b8817590735 )
+	rom ( name rom18.bin size 512 crc 4e7ede2b sha1 2c509c510cb92415c07d20c1ca09fd31c8ad18d9 )
+	rom ( name rom19.bin size 512 crc 81cc6a63 sha1 ae00925b68964cd66014c170e46cb861bbf9d19a )
+	rom ( name rom20.bin size 512 crc 27bb9d8c sha1 36b5b397cd1746beb8c7ab5f944fe0f05975fc73 )
+)
+
+game (
+	name snowbros
+	description "Snow Bros"
+	year 1990
+	manufacturer "Toaplan (Romstar license)"
+	rom ( name ch1 size 131072 crc 76347256 sha1 48ec03965905adaba5e50eb3e42a2813f7883bb4 )
+	rom ( name ch2 size 131072 crc fdaa634c sha1 1271c74df7da7596caf67caae3c51b4c163a49f4 )
+	rom ( name ch3 size 131072 crc 34024aef sha1 003a9b9ee3aaab3d787894d3d4126d372b19d2a8 )
+	rom ( name snowbros.4 size 32768 crc e6eab4e4 sha1 d08187d03b21192e188784cb840a37a7bdb5ad32 )
+	rom ( name sn5.bin size 131072 crc ad310d3f sha1 f39295b38d99087dbb9c5b00bf9cb963337a50e2 )
+	rom ( name sn6.bin size 131072 crc 4899ddcf sha1 47d750d3022a80e47ffabe47566bb2556cc8d477 )
+	rom ( name ch0 size 131072 crc 36d84dfe sha1 5d45a750220930bc409de30f19282bb143fbf94f )
+)
+
+game (
+	name newzealandstory
+	description "New Zealand Story"
+	year 1988
+	manufacturer "Taito Corporation"
+	rom ( name nzsb5310.bin size 131072 crc a73745c6 sha1 73eb38e75e08312d752332f988dc655084b4a86d )
+	rom ( name nzsb5311.bin size 65536 crc 9784d443 sha1 bc3647aac9974031dbe4898417fbaa99841f9548 )
+	rom ( name nzsb5321.bin size 131072 crc 9800c54d sha1 761647177d621ac2cdd8b009876eed35809f3c92 )
+	rom ( name nzsb5323.bin size 131072 crc 74acfb9b sha1 90b544ed7ede7565660bdd13c94c15c54423cda9 )
+	rom ( name nzsb5319.bin size 131072 crc edbb9581 sha1 539396a01ca0b69455f000d446759b232530b542 )
+	rom ( name nzsb5317.bin size 131072 crc 2bf199e8 sha1 4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370 )
+	rom ( name nzsb5320.bin size 131072 crc 095d0dc0 sha1 ced2937d0594fa00ae344a4e3a3cba23772dc160 )
+	rom ( name nzsb5322.bin size 131072 crc 59d2aef6 sha1 b657b7603c3eb5f169000d38497ebb93f26f7832 )
+	rom ( name nzsb5318.bin size 131072 crc 92f35ed9 sha1 5fdd8d6ddbb7be9887af3c8dea9ad3b58c4e86f9 )
+	rom ( name nzsb5316.bin size 131072 crc c3519c2a sha1 30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743 )
+)
+
+game (
+	name tnzs2
+	description "New Zealand Story Beta"
+	year 1988
+	manufacturer "Taito Corporation Japan"
+	rom ( name ns_c-11a.rom size 65536 crc 6d5fb32e sha1 81a1f467849c516cfbe967ab12d3987e6ee20140 )
+	rom ( name ns_c-11b.rom size 65536 crc f7fe8b90 sha1 ba6b99aa1de11c447f60312e809d522446ca7f03 )
+	rom ( name ns_e-3.rom size 65536 crc c7662e96 sha1 be28298bfde4e3867cfe75633ffb0f8611dbbd8b )
+	rom ( name ns_a02.rom size 131072 crc 2ab06bda sha1 2b208b564e55c258665e1f66b26fe14a6c68eb96 )
+	rom ( name ns_a05.rom size 131072 crc 6e762e20 sha1 66731fe4053b9c09bc9c95d10aba212db08b4636 )
+	rom ( name ns_a08.rom size 131072 crc 8ff8d88c sha1 31977e39ad048a077e9b5bd712ff66b14a466d27 )
+	rom ( name ns_a12.rom size 131072 crc 95880726 sha1 f4fdedd23e80a6ccf32f737ab4bc57f9fc0925be )
+	rom ( name ns_a04.rom size 131072 crc e1fd1b9d sha1 6027491b927c2ab9c77fbf8895da1abcfbe32d62 )
+	rom ( name ns_a07.rom size 131072 crc 291bcaca sha1 4f659a0cd2ff6b4ec04ab95ee8a670222c402c2b )
+	rom ( name ns_a10.rom size 131072 crc 2bc4c053 sha1 cd7668a7733e5e80c2c566d0cf63c4310e5743b4 )
+	rom ( name ns_a13.rom size 131072 crc 7e0bd5bb sha1 95dfb00ec915778e02d8bfa996735ab817191adc )
+)
+
+game (
+	name kikikaikai
+	description "Kiki Kaikai"
+	year 1986
+	manufacturer "Taito Corporation"
+	rom ( name a85-08.rom size 128 crc 00fa7ca0 sha1 1b81092f4d20f5791566d171472c1d603f6a2744 )
+	rom ( name a85-09.rom size 128 crc 25a369af sha1 c416fbaebcbf69d1931176518496937bc51e26f1 )
+	rom ( name a85-10.rom size 128 crc 5e62bab4 sha1 f85f35ad77c2948c44da28f164c1a35507547c1e )
+	rom ( name a85-11.rom size 32768 crc cc3539db sha1 4239a40fdee65cba613e4b4ec54cf7899480e366 )
+	rom ( name a85-12.rom size 65536 crc 91e58067 sha1 c7eb9bf650039254fb7664758938b1012eacc597 )
+	rom ( name a85-13.rom size 65536 crc 3eeaf878 sha1 f8ae8938a8358d1222e9fdf7bc0094ac13faf404 )
+	rom ( name a85-14.rom size 65536 crc a9df0453 sha1 a5e9cd6266ab3ae46cd1b35a4603e13a2ca023fb )
+	rom ( name a85-15.rom size 65536 crc aebc8c32 sha1 77347cf5780f084a77123eb636cd0bad672a39e8 )
+	rom ( name a85-16.rom size 65536 crc 4094d750 sha1 05e0ad177a3eb144b203784ecb6242a0fc5c4d4d )
+	rom ( name a85-17.rom size 65536 crc c141d5ab sha1 fe3622ba283e514416c43a44f83f922a958b27cd )
+)
+

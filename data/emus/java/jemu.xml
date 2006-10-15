@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="jemu" type="java" dat="JEmu">
+	<name>JEmu</name>
+	<version>-</version>
+	<date>04/02/2002</date>
+
+	<homepage>http://www.gagaplay.com/jemu/</homepage>
+	<author_link id="jaydy">&author_jaydy;</author_link>
+
+	<emulates>Z80, 8080 and 6809 based classics</emulates>
+	<comment>Arcade classics playable on the Internet!</comment>
+	<status>Dormant</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<relatives>
+		<successors>
+			<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

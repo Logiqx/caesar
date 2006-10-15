@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="pacdx" type="single" dat="PacDX_v1.0">
+	<name>PacDX</name>
+	<version>PR1</version>
+	<date>19/09/1999</date>
+
+	<homepage>http://sass.retrogames.com/pacdx/</homepage>
+	<author_link id="mike_green">&author_mike_green;</author_link>
+
+	<emulates>Pacman (Namco)</emulates>
+	<comment>This was Mike's second emulator and originally called PacDX '99.</comment>
+	<status>No plans for updates</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="pacdx01.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="asciipac" type="single">&emulator_asciipac;</emulator_link>
+		</predecessors>
+		<successors>
+			<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>

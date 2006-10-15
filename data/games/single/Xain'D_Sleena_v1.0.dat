@@ -1,0 +1,78 @@
+clrmamepro (
+	name "Xain'D Sleena"
+	description "Xain'D Sleena v1.0"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name xain
+	description "Xain'd Sleena (bootleg)"
+	year 1986
+	manufacturer "bootleg"
+	rom ( name 1.rom size 32768 crc 79f515a7 sha1 e61f18e3639dd9afe16c7bcb90fa7be31905e2c6 )
+	rom ( name 10.rom size 32768 crc a1a860e2 sha1 fb2b152bfafc44608039774436ddf3b17eed979c )
+	rom ( name 11.rom size 32768 crc 948b9757 sha1 3ea840cc47ae6a66f3e5f6a2f3e88475dcfe1840 )
+	rom ( name 12.rom size 32768 crc 83c00dd8 sha1 8e9b19281039b63072270c7a63d9fb30cda570fd )
+	rom ( name 13.rom size 32768 crc 8f0aa1a7 sha1 be3fdb6204b77dba28b14c5b880d65d7c1d6a161 )
+	rom ( name 14.rom size 32768 crc 45681910 sha1 60c3eb4bc08bf11bf09bcd27549c6427fafbb1fb )
+	rom ( name 15.rom size 32768 crc a8eeabc8 sha1 e5dc31df0b223b65144af3602be5bcb2ff9eebbd )
+	rom ( name 16.rom size 32768 crc e59a2f27 sha1 4643cea85f8613c36b416f46f9d1753fa9839237 )
+	rom ( name 18.rom size 32768 crc 3f3b62a0 sha1 ab7e8f0ff707771401e679b6151ad0ea85cfc792 )
+	rom ( name 19.rom size 32768 crc 76641ee3 sha1 8fba0fa6639e7bdfb3f7be5e945a55b64411d242 )
+	rom ( name 2.rom size 32768 crc d22bf859 sha1 9edb159bef2eba2c5d93c03c15fbcb87eea52236 )
+	rom ( name 20.rom size 32768 crc 37671f36 sha1 1494eec4ecde9ae1f1101aa13eb301b3f3d06602 )
+	rom ( name 21.rom size 32768 crc 11eb4247 sha1 5d2f1fa07b8fb1c6bebfdb02c39282d29813791b )
+	rom ( name 22.rom size 32768 crc 422b536e sha1 d5985c0bd1c840cb6f0da6b177a2caaff6db5a04 )
+	rom ( name 23.rom size 32768 crc 828c1b0c sha1 cb9b64073b0ade3885f61545191db4c445e3066b )
+	rom ( name 24.rom size 32768 crc d37939e0 sha1 301d9f6720857c64a4e070444a07a38138ddd4ef )
+	rom ( name 25.rom size 32768 crc 252976ae sha1 534c9148d33e453f3541543a8c0eb4afc59c7de8 )
+	rom ( name 26.rom size 32768 crc e6f1e8d5 sha1 2ee0227361d1f1358f5b5964dab7e691243cd9ae )
+	rom ( name 27.rom size 32768 crc 785381ed sha1 95bf4eb29830c589a9793a4138e645e5b77f0c06 )
+	rom ( name 28.rom size 32768 crc 59754e3d sha1 d1781dbc83965fc84492f7282d6813507ba1e81b )
+	rom ( name 3.rom size 32768 crc a5318cb8 sha1 35fb28c5598e39f22552bb036ae356b78422f080 )
+	rom ( name 4.rom size 32768 crc 84884a2e sha1 5087010a72226e91a084a61b5089c110dba7e933 )
+	rom ( name 5.rom size 32768 crc 59d87a9a sha1 f23cb9a9d6c6249a8a1f8e2acbc235086b008c7b )
+	rom ( name 6.rom size 32768 crc 5c6c453c sha1 68c0028d15da8f5e53f09e3d154d18cd9f219601 )
+	rom ( name 7.rom size 32768 crc 8d637639 sha1 301a7893de8f1bb526f5075e2af8203b8af4b0d3 )
+	rom ( name 8.rom size 32768 crc 71eec4e6 sha1 3417c52a39a6fc43c51ad707168180f54153177a )
+	rom ( name 9.rom size 32768 crc 7fc9704f sha1 b6f353fb7fec58f68b9e28be2aa29146ac64ffd4 )
+	rom ( name 17.rom size 32768 crc 4d977f33 sha1 30b446ddb2f32354334ea780c435f2407d128808 )
+)
+
+game (
+	name solar
+	description "Solar Warrior"
+	year 1986
+	manufacturer "[Technos] Taito (Memetron license)"
+	rom ( name p7-0.bin size 32768 crc 71eec4e6 sha1 3417c52a39a6fc43c51ad707168180f54153177a )
+	rom ( name pb-01.bin size 32768 crc 83c00dd8 sha1 8e9b19281039b63072270c7a63d9fb30cda570fd )
+	rom ( name pc-0.bin size 32768 crc 8f0aa1a7 sha1 be3fdb6204b77dba28b14c5b880d65d7c1d6a161 )
+	rom ( name pd-0.bin size 32768 crc 45681910 sha1 60c3eb4bc08bf11bf09bcd27549c6427fafbb1fb )
+	rom ( name pe-0.bin size 32768 crc a8eeabc8 sha1 e5dc31df0b223b65144af3602be5bcb2ff9eebbd )
+	rom ( name pf-0.bin size 32768 crc 6e627a77 sha1 1d16031acd53c9e691ae7eac8a6f1ae3954fac8c )
+	rom ( name pg-0.bin size 32768 crc 4d977f33 sha1 30b446ddb2f32354334ea780c435f2407d128808 )
+	rom ( name ph-0.bin size 32768 crc 3f3b62a0 sha1 ab7e8f0ff707771401e679b6151ad0ea85cfc792 )
+	rom ( name pi-0.bin size 32768 crc 76641ee3 sha1 8fba0fa6639e7bdfb3f7be5e945a55b64411d242 )
+	rom ( name pj-0.bin size 32768 crc 37671f36 sha1 1494eec4ecde9ae1f1101aa13eb301b3f3d06602 )
+	rom ( name pn-0.bin size 32768 crc d2ed6f94 sha1 155a0d1d978f07517400d0c602fc40657f8569dc )
+	rom ( name po-0.bin size 32768 crc 252976ae sha1 534c9148d33e453f3541543a8c0eb4afc59c7de8 )
+	rom ( name pp-0.bin size 32768 crc e6f1e8d5 sha1 2ee0227361d1f1358f5b5964dab7e691243cd9ae )
+	rom ( name pq-0.bin size 32768 crc 785381ed sha1 95bf4eb29830c589a9793a4138e645e5b77f0c06 )
+	rom ( name pr-0.bin size 32768 crc 59754e3d sha1 d1781dbc83965fc84492f7282d6813507ba1e81b )
+	rom ( name p0-0.bin size 32768 crc 51ae95ae sha1 e03f7ccb0b33b05547577c60a7f92dc75e24b4d6 )
+	rom ( name p1-0.bin size 32768 crc f5f235a3 sha1 9f57dd7c5e514afa750edc6da6d263bf1e913c14 )
+	rom ( name p2-0.bin size 32768 crc a5318cb8 sha1 35fb28c5598e39f22552bb036ae356b78422f080 )
+	rom ( name p3-0.bin size 32768 crc 84884a2e sha1 5087010a72226e91a084a61b5089c110dba7e933 )
+	rom ( name p4-0.bin size 32768 crc 59d87a9a sha1 f23cb9a9d6c6249a8a1f8e2acbc235086b008c7b )
+	rom ( name p5-0.bin size 32768 crc 5c6c453c sha1 68c0028d15da8f5e53f09e3d154d18cd9f219601 )
+	rom ( name p6-0.bin size 32768 crc 8d637639 sha1 301a7893de8f1bb526f5075e2af8203b8af4b0d3 )
+	rom ( name p8-0.bin size 32768 crc 7fc9704f sha1 b6f353fb7fec58f68b9e28be2aa29146ac64ffd4 )
+	rom ( name p9-0.bin size 32768 crc 8ff372a8 sha1 0fc396e662419fb9cb5bea11748aa8e0e8d072e6 )
+	rom ( name pa-0.bin size 32768 crc 154f946f sha1 25b776eb9c494e5302795ae79e494cbfc7c104b1 )
+	rom ( name pk-0.bin size 32768 crc 11eb4247 sha1 5d2f1fa07b8fb1c6bebfdb02c39282d29813791b )
+	rom ( name pl-0.bin size 32768 crc 422b536e sha1 d5985c0bd1c840cb6f0da6b177a2caaff6db5a04 )
+	rom ( name pm-0.bin size 32768 crc 828c1b0c sha1 cb9b64073b0ade3885f61545191db4c445e3066b )
+)
+

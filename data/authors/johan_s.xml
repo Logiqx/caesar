@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="johan_s">
+	<name>Johan S</name>
+	<email>oopsmail@firstlinux.net</email>
+	<email>arcadepreserv@hotmail.com</email>
+	<emulator_links>
+		<emulator_link id="sideway" type="multi">&emulator_sideway;</emulator_link>
+	</emulator_links>
+</author>

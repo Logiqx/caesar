@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="marcin_dudar">
+	<name>Marcin Dudar (Duddie / TheD / The Author)</name>
+	<emulator_links>
+		<emulator_link id="impact" type="multi">&emulator_impact;</emulator_link>
+		<emulator_link id="s11emu" type="multi">&emulator_s11emu;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+		<emulator_link id="zinc_linux" type="linux">&emulator_zinc_linux;</emulator_link>
+	</emulator_links>
+</author>

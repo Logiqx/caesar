@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mutewitness">
+	<name>Mutewitness</name>
+	<emulator_links>
+		<emulator_link id="trombone" type="sound">&emulator_trombone;</emulator_link>
+	</emulator_links>
+</author>

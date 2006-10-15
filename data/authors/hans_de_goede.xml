@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="hans_de_goede">
+	<name>Hans De Goede</name>
+	<email>hans@highrise.nl</email>
+	<email>j.w.r.degoede@et.tudelft.nl</email>
+	<emulator_links>
+		<emulator_link id="system16_linux" type="linux">&emulator_system16_linux;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="xmame" type="linux">&emulator_xmame;</emulator_link>
+	</contribution_links>
+</author>

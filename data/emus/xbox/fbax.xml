@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="fbax" type="xbox" dat="dummy">
+	<name>FBAx</name>
+	<version>Beta 2</version>
+	<date>06/11/2002</date>
+
+	<homepage>http://www.lantus-x.com/fbax/</homepage>
+	<author_link id="tmaul">&author_tmaul;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="lantus">&author_lantus;</author_link>
+			<comment>Development</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Capcom CPS-1 and CPS-2 games</emulates>
+	<comment>X-Box port of FBA.</comment>
+	<status>Active</status>
+
+	<platform>X-Box</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>?</hiscoresave>
+		<savegame>?</savegame>
+		<recordinput>?</recordinput>
+		<dips>?</dips>
+		<cheat>?</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

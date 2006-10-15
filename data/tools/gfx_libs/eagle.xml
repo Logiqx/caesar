@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="eagle" type="gfx_libs">
+	<name>Eagle Library</name>
+	<version>0.41a</version>
+	<date>10/08/1999</date>
+
+	<homepage status="bad">http://www.retrofx.com/</homepage>
+	<author_link id="dirk_stevens">&author_dirk_stevens;</author_link>
+
+	<comment>Eagle is a library which generically enhances graphics. Eagle makes graphics from old arcade games less blocky</comment>
+
+	<emulator_links>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+		<emulator_link id="system16_directx" type="multi2">&emulator_system16_directx;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="rfxeagle41a.zip">Library</file>
+	</files>
+</tool>

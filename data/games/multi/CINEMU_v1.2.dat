@@ -1,0 +1,162 @@
+clrmamepro (
+	name CINEMU
+	description "CINEMU v1.2"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name speedfrk
+	description "Speed Freak"
+	year 1979
+	manufacturer "Vectorbeam"
+	rom ( name speedfrk.p7 size 2048 crc 4b90cdec sha1 69e2312acdc22ef52236b1c4dfee9f51fcdcaa52 )
+	rom ( name speedfrk.r7 size 2048 crc fbe90d63 sha1 e42b17133464ae48c90263bba01a7d041e938a05 )
+	rom ( name speedfrk.t7 size 2048 crc 3552c03f sha1 c233dd064195b336556d7405b51065389b228c78 )
+	rom ( name speedfrk.u7 size 2048 crc 616c7cf9 sha1 3c5bf59a09d85261f69e4b9d499cb7a93d79fb57 )
+)
+
+game (
+	name spacewar
+	description "Space Wars"
+	year 1978
+	manufacturer "Cinematronics"
+	rom ( name spacewar.u7 size 2048 crc edf0fd53 sha1 a543d8b95bc77ec061c6b10161a6f3e07401e251 )
+	rom ( name spacewar.r7 size 2048 crc 4f21328b sha1 8889f1a9353d6bb1e1078829c1ba77557853739b )
+)
+
+game (
+	name wotw
+	description "War of the Worlds"
+	year 1981
+	manufacturer "Cinematronics"
+	rom ( name wotw.t7 size 4096 crc b16440f9 sha1 9656a26814736f8ff73575063b5ebbb2e8aa7dd0 )
+	rom ( name wotw.p7 size 4096 crc bfdf4a5a sha1 db4eceb68e17020d0a597ba105ec3b91ce48b7c1 )
+	rom ( name wotw.u7 size 4096 crc 9b5cea48 sha1 c2bc002e550a0d36e713d07f6aefa79c70b8e284 )
+	rom ( name wotw.r7 size 4096 crc c9d3c866 sha1 57a47bf06838fe562981321249fe5ae585316f22 )
+)
+
+game (
+	name starhawk
+	description "Star Hawk"
+	year 1981
+	manufacturer "Cinematronics"
+	rom ( name starhawk.u7 size 2048 crc 376e6c5c sha1 7d9530ed2e75464578b541f61408ba64ee9d2a95 )
+	rom ( name starhawk.r7 size 2048 crc bb71144f sha1 79591cd3ef8df78ec26e158f7e82ca0dcd72260d )
+)
+
+game (
+	name barrier
+	description "Barrier"
+	year 1979
+	manufacturer "Vectorbeam"
+	rom ( name barrier.t7 size 2048 crc 7c3d68c8 sha1 1138029552b73e94522b3b48096befc057d603c7 )
+	rom ( name barrier.p7 size 2048 crc aec142b5 sha1 b268936b82e072f38f1f1dd54e0bc88bcdf19925 )
+	rom ( name barrier.u7 size 2048 crc 7c3d68c8 sha1 1138029552b73e94522b3b48096befc057d603c7 )
+	rom ( name barrier.r7 size 2048 crc aec142b5 sha1 b268936b82e072f38f1f1dd54e0bc88bcdf19925 )
+)
+
+game (
+	name warrior
+	description "Warrior"
+	year 1978
+	manufacturer "Vectorbeam"
+	rom ( name warrior.t7 size 2048 crc ac3646f9 sha1 515c3acb638fad27fa57f6b438c8ec0b5b76f319 )
+	rom ( name warrior.p7 size 2048 crc 517d3021 sha1 0483dcaf92c336a07d2c535823348ee886567e85 )
+	rom ( name warrior.u7 size 2048 crc 2e39340f sha1 4b3cfb3674dd2a668d4d65e28cb37d7ad20f118d )
+	rom ( name warrior.r7 size 2048 crc 8e91b502 sha1 27614c3a8613f49187039cfb05ee96303caf72ba )
+)
+
+game (
+	name solar
+	description "Solar Quest"
+	year 1981
+	manufacturer "Cinematronics"
+	rom ( name solar.t7 size 4096 crc 1f3c5333 sha1 58d847b5f009a0363ae116768b22d0bcfb3d60a4 )
+	rom ( name solar.p7 size 4096 crc d6c16bcc sha1 6953bdc698da060d37f6bc33a810ba44595b1257 )
+	rom ( name solar.u7 size 4096 crc a5970e5c sha1 9ac07924ca86d003964022cffdd6a0436dde5624 )
+	rom ( name solar.r7 size 4096 crc b763fff2 sha1 af1fd978e46a4aee3048e6e36c409821d986f7ee )
+)
+
+game (
+	name demon
+	description "Demon"
+	year 1982
+	manufacturer "Rock-ola"
+	rom ( name demon.t7 size 4096 crc 866596c1 sha1 65202dcd5c6bf6c11fe76a89682a1505b1870cc9 )
+	rom ( name demon.p7 size 4096 crc 1109e2f1 sha1 c779b6af1ca09e2e295fc9a0e221ddf283b683ed )
+	rom ( name demon.u7 size 4096 crc d447a3c3 sha1 32f6fb01231aa4f3d93e32d639a89f0cf9624a71 )
+	rom ( name demon.r7 size 4096 crc 64b515f0 sha1 2dd9a6d784ec1baf31e8c6797ddfdc1423c69470 )
+)
+
+game (
+	name tailgunr
+	description "Tailgunner"
+	year 1979
+	manufacturer "Cinematronics"
+	rom ( name tailgunr.t7 size 2048 crc 21ec9a04 sha1 b442f34360d1d4769e7bca73a2d79ce97d335460 )
+	rom ( name tailgunr.p7 size 2048 crc 8d7410b3 sha1 59ead49bd229a873f15334d0999c872d3d6581d4 )
+	rom ( name tailgunr.u7 size 2048 crc 2c954ab6 sha1 9edf189a19b50a9abf458d4ef8ba25b53934385e )
+	rom ( name tailgunr.r7 size 2048 crc 8e2c8494 sha1 65e461ec4938f9895e5ac31442193e06c8731dc1 )
+)
+
+game (
+	name armor
+	description "Armor Attack"
+	year 1980
+	manufacturer "Cinematronics"
+	rom ( name armor.t7 size 4096 crc d7e71f84 sha1 0b29278a6a698f07eae597bc0a8650e91eaabffa )
+	rom ( name armor.p7 size 4096 crc df1c2370 sha1 b74834d1a591a741892ec41269a831d3590ff766 )
+	rom ( name armor.u7 size 4096 crc b0276118 sha1 88f33cb2f46a89819c85f810c7cff812e918391e )
+	rom ( name armor.r7 size 4096 crc 229d779f sha1 0cbdd83eb224146944049346f30d9c72d3ad5f52 )
+)
+
+game (
+	name starcas
+	description "Star Castle (older)"
+	year 1980
+	manufacturer "Cinematronics"
+	rom ( name starcas.t7 size 2048 crc 65d0a225 sha1 e1fbee5ff42dd040ab2e90bbe2189fcb76d6167e )
+	rom ( name starcas.p7 size 2048 crc d8f58d9a sha1 abba459431dcacc75099b0d340b957be71b89cfd )
+	rom ( name starcas.u7 size 2048 crc d4f35b82 sha1 cd4561ce8e1d0554ac1a8925bbf46d2c676a3b80 )
+	rom ( name starcas.r7 size 2048 crc 9fd3de54 sha1 17195a490b190e68660829850ff9d702ca1939bb )
+)
+
+game (
+	name sundance
+	description "Sundance"
+	year 1979
+	manufacturer "Cinematronics"
+	rom ( name sundance.t7 size 2048 crc d5b9cb19 sha1 72dca386b48a582186898c32123d61b4fd58632e )
+	rom ( name sundance.p7 size 2048 crc 445c4f20 sha1 972d0b0613f154ee3347206cae05ee8c36796f84 )
+	rom ( name sundance.u7 size 2048 crc 67887d48 sha1 be225dbd3508fad2711286834880065a4fc0a2fc )
+	rom ( name sundance.r7 size 2048 crc 10b77ebd sha1 3d43bd47c498d5ea74a7322f8d25dbc0c0187534 )
+)
+
+game (
+	name boxnbugs
+	description "Boxing Bugs"
+	year 1981
+	manufacturer "Cinematronics"
+	rom ( name boxnbugs.u1a size 4096 crc d3115b0f sha1 9448e7ac1cdb5c7e0739623151be230ab630c4ea )
+	rom ( name boxnbugs.u1b size 4096 crc 3a44268d sha1 876ebe942ded787cfe357563a33d3e26a1483c5a )
+	rom ( name boxnbugs.u2a size 4096 crc c97a9cbb sha1 8bdeb9ee6b24c0a4554bbf4532a43481a0360019 )
+	rom ( name boxnbugs.u2b size 4096 crc 98d34ff5 sha1 6767a02a99a01712383300f9acb96cdeffbc9c69 )
+	rom ( name boxnbugs.u3a size 4096 crc 5bb3269b sha1 a9dbc91b1455760f10bad0d2ccf540e040a00d4e )
+	rom ( name boxnbugs.u3b size 4096 crc 85bf83ad sha1 9229042e39c53fae56dc93f8996bf3a3fcd35cb8 )
+	rom ( name boxnbugs.u4a size 4096 crc 25b51799 sha1 46465fe62907ae66a0ce730581e4e9ba330d4369 )
+	rom ( name boxnbugs.u4b size 4096 crc 7f41de6a sha1 d01dffad3cb6e76c535a034ea0277dce5801c5f1 )
+)
+
+game (
+	name ripoff
+	description "Rip Off"
+	year 1979
+	manufacturer "Cinematronics"
+	rom ( name ripoff.t7 size 2048 crc 40c2c5b8 sha1 bc1f3b540475c9868443a72790a959b1f36b93c6 )
+	rom ( name ripoff.p7 size 2048 crc a9208afb sha1 ea362494855be27a07014832b01e65c1645385d0 )
+	rom ( name ripoff.u7 size 2048 crc 29c13701 sha1 5e7672deffac1fa8f289686a5527adf7e51eb0bb )
+	rom ( name ripoff.r7 size 2048 crc 150bd4c8 sha1 e1e2f0dfec4f53d8ff67b0e990514c304f496b3a )
+)
+

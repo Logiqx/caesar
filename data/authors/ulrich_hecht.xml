@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="ulrich_hecht">
+	<name>Ulrich Hecht</name>
+	<email>webmaster@emulinks.de</email>
+	<emulator_links>
+		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		<emulator_link id="sega_c2_linux" type="linux">&emulator_sega_c2_linux;</emulator_link>
+	</emulator_links>
+</author>

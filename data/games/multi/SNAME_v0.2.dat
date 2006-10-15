@@ -1,0 +1,117 @@
+clrmamepro (
+	name SNAME
+	description "SNAME v0.2"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name pontoon
+	description "Pontoon"
+	year 1985
+	manufacturer "Tehkan"
+	rom ( name ponttekh.001 size 16384 crc 1f8c1b38 sha1 3776ddd695741223bd9ad41f74187bff31f2cd3b )
+	rom ( name ponttekh.002 size 8192 crc befb4f48 sha1 8ca146c8b52afab5deb6f0ff52bdbb2b1ff3ded7 )
+	rom ( name ponttekh.003 size 8192 crc a6a91b3d sha1 d180eabe67efd3fd1205570b661a74acf7ed93b3 )
+	rom ( name ponttekh.004 size 8192 crc 976ed924 sha1 4d305694b3e157411068baf3052e3aac7d0b32d5 )
+	rom ( name ponttekh.005 size 8192 crc 2b8e8ca7 sha1 dd86d3b4fd1627bdaa0603ffd2f1bc2953bc51f8 )
+	rom ( name ponttekh.006 size 8192 crc 6bc23965 sha1 b73a584fc5b2dd9436bbb8bc1620f5a51d351aa8 )
+	rom ( name pon24s10.003 size 256 crc 4623b7f3 sha1 55948753dec09d0a476b90ca75e7e092ce0f68ee )
+	rom ( name pon24s10.002 size 256 crc 117e1b67 sha1 b753137878fe5cd650722cf526cd4929821240a8 )
+	rom ( name pon24s10.001 size 256 crc c64ecee8 sha1 80c9ec21e135235f7f2d41ce7900cf3904123823 )
+)
+
+game (
+	name goldstar
+	description "Golden Star"
+	manufacturer "IGS"
+	rom ( name gs4-cpu.bin size 65536 crc 73e47d4d sha1 df2d8233572dc12e8a4b56e5d4f6c566e4ababc9 )
+	rom ( name gs2.bin size 131072 crc a2d5b898 sha1 84cca22c91628cfefb67013652b151f034a06159 )
+	rom ( name gs3.bin size 32768 crc 8454ce3c sha1 74686ebb91f191db8cbc3d0417a5e8112c5b67b1 )
+	rom ( name gs1-snd.bin size 131072 crc 9d58960f sha1 c68edf95743e146398aabf6b9617d18e1f9bf25b )
+)
+
+game (
+	name goldstbl
+	description "Golden Star (Blue version)"
+	manufacturer "IGS"
+	cloneof goldstar
+	romof goldstar
+	rom ( name gsb-cpu.bin size 65536 crc 82b238c3 sha1 1306e700e213f423bdd79b182aa11335796f7f38 )
+	rom ( name gs2.bin merge gs2.bin size 131072 crc a2d5b898 sha1 84cca22c91628cfefb67013652b151f034a06159 )
+	rom ( name gsb-spr.bin size 32768 crc 52ecd4c7 sha1 7ef013020521a0c19ecd67db1c00047e78a3c736 )
+	rom ( name gs1-snd.bin merge gs1-snd.bin size 131072 crc 9d58960f sha1 c68edf95743e146398aabf6b9617d18e1f9bf25b )
+)
+
+game (
+	name csk227it
+	description "Champion Skill (with Ability)"
+	manufacturer "IGS"
+	rom ( name v227i.bin size 65536 crc df1ebf49 sha1 829c7575d3d3780557405b3a61859901df6dbe4f )
+	rom ( name 6.227 size 131072 crc e9aad93b sha1 72116759cd8ddd9828f534e8f8a3f9f96ad2e002 )
+	rom ( name 5.227 size 131072 crc e4c4c8da sha1 0442b0de68f3b69e613506348e00c3cf9139edcf )
+	rom ( name 4.227 size 131072 crc afb365dd sha1 930a4cd516258e703a75afc25ef6b2655b8b696a )
+	rom ( name 3.bin size 65536 crc fcb115ac sha1 a9f2b9762413840669cd44f8e54b47a7c4350d11 )
+	rom ( name 2.bin size 65536 crc 848343a3 sha1 b12f9bc2feb470d2fa8b085621fa60c0895109d4 )
+	rom ( name 1.bin size 65536 crc 921ad5de sha1 b06ab2e63b31361dcb0367110f47bf2453ecdca6 )
+	rom ( name 7.227 size 65536 crc a10786ad sha1 82f5f81808ca70d67a2710cc66fbbf78588b33b5 )
+)
+
+game (
+	name csk234it
+	description "Champion Skill (Ability, Poker & Symbols)"
+	manufacturer "IGS"
+	cloneof csk227it
+	romof csk227it
+	rom ( name v234it.bin size 65536 crc 344b7059 sha1 990cb84e35c0c50d3be9fbb76a11395114dc6c9b )
+	rom ( name 6.234 size 131072 crc 23b855a4 sha1 8217bac61ad09483d8789113cf394d0e525ab28a )
+	rom ( name 5.234 size 131072 crc 189039d7 sha1 146fd1ddb23ceaa4192e0382b0ab82f5cfbdabfe )
+	rom ( name 4.234 size 131072 crc c82b0ffc sha1 5ebd7da76d402b7111cbe9012cfa3b8a8ff1a86e )
+	rom ( name 3.bin merge 3.bin size 65536 crc fcb115ac sha1 a9f2b9762413840669cd44f8e54b47a7c4350d11 )
+	rom ( name 2.bin merge 2.bin size 65536 crc 848343a3 sha1 b12f9bc2feb470d2fa8b085621fa60c0895109d4 )
+	rom ( name 1.bin merge 1.bin size 65536 crc 921ad5de sha1 b06ab2e63b31361dcb0367110f47bf2453ecdca6 )
+	rom ( name 7.234 size 65536 crc ae6dd4ad sha1 4772d5c150d64d1ef3b68e16214f594eea0b3c1b )
+)
+
+game (
+	name pong
+	description "Pong"
+	year 1972
+	manufacturer "Atari"
+)
+
+game (
+	name monaco
+	description "Monaco GP"
+	year 1979
+	manufacturer "Sega"
+	rom ( name pr125 size 512 crc 7a66ed4c sha1 514e129c334a551b931c90b063b073a9b4bdffc3 )
+	rom ( name pr126 size 512 crc 5d7a8f12 sha1 b4f0d21b91a7cf7002f99c08788669c7c38be51d )
+	rom ( name pr127 size 512 crc 8ffdc2f0 sha1 05cc3330c067965b8b90b5d27119fe9f26580a13 )
+	rom ( name pr128 size 512 crc dde29dea sha1 34c413edff991297471bd0bc193c4bd8ede4e468 )
+	rom ( name pr129 size 512 crc 7b18af26 sha1 3d1ff2610813544c3b9b65182f081272a9537640 )
+	rom ( name pr130 size 512 crc 9ef1913b sha1 58830121781b8a13532eaf8ea13ec07f10522320 )
+	rom ( name pr131 size 512 crc ff31eb01 sha1 fd6bcd92c4bd919bb1a96ca97688d46cb310b39d )
+	rom ( name pr132 size 512 crc 6b8ad9bc sha1 be36e3b6b647d3a9565bc45903027c791dc889e5 )
+	rom ( name pr133 size 512 crc d50641d9 sha1 bf399e9830c88e4d8f8fb386305f54ef766946d9 )
+	rom ( name pr134 size 512 crc 8ebd50bb sha1 98d51f503753d4d7191a09b509d26c1e049e981a )
+	rom ( name pr135 size 512 crc 986eda32 sha1 73fa539d4c83748952d9339985208520fec955f3 )
+	rom ( name pr136 size 512 crc ecc5d1a2 sha1 33bff7381785557a85e4c8bdd74679b59e0ed9d5 )
+	rom ( name pr137 size 512 crc ddd9004e sha1 5229c34578e66d9c51a05439a516513946ba69ed )
+	rom ( name pr138 size 512 crc 058e53cf sha1 7c3aaaca5a9e9ce3a3badd0dcc8360342673a397 )
+	rom ( name pr139 size 512 crc e8ba0794 sha1 eadd7425134f26b1c126bbcd3d3dabf4b2e1fe70 )
+	rom ( name pr140 size 512 crc 48e9971b sha1 c0c265cdc08727e3caaf49cdfe728a91c4c46ba2 )
+	rom ( name pr141 size 512 crc 99934236 sha1 ec271f3e690d5c57ead9132b22b9b1b966e4d170 )
+	rom ( name prm38 size 32 crc 82dd0a0f sha1 3e7e475c3270853d70c1fe90a773172532b60cfb )
+	rom ( name prm39 size 32 crc 6acfa0da sha1 1e56da4cdf71a095eac29878969b831babac222b )
+	sample 6car1.wav
+	sample 6car2.wav
+	sample 6crash.wav
+	sample 6engine.wav
+	sample 6extend.wav
+	sample 6fanfare.wav
+	sample 6siren.wav
+	sample 6slip.wav
+)
+

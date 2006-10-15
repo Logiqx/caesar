@@ -1,0 +1,41 @@
+clrmamepro (
+	name "Sounds Good"
+	description "Bally-Midway Sounds Good Emulator v0.2"
+	category "Sound Player"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name spyhunt
+	description "Spy Hunter [sound only]"
+	year 1983
+	manufacturer "Bally Midway"
+	rom ( name csd_u7a.u7 size 8192 crc 6e689fe7 sha1 38ad2e9f12b9d389fb2568ebcb32c8bd1ac6879e )
+	rom ( name csd_u17b.u17 size 8192 crc 0d9ddce6 sha1 d955c0e67fc78b517cc229601ab4023cc5a644c2 )
+	rom ( name csd_u8c.u8 size 8192 crc 35563cd0 sha1 5708d374dd56758194c95118f096ea51bf12bf64 )
+	rom ( name csd_u18d.u18 size 8192 crc 63d3f5b1 sha1 5864a7e9b6bc3d2df6891d40965a7a0efbba6837 )
+)
+
+game (
+	name rampage
+	description "Rampage [sound only]"
+	year 1986
+	manufacturer "Bally Midway"
+	rom ( name ramp_u7.snd size 32768 crc cffd7fa5 sha1 7c5cecce1d428f847fea37d53eb09c6f62055c6f )
+	rom ( name ramp_u17.snd size 32768 crc e92c596b sha1 4e2d87398f2e7b637cbad6cb16d832dfa8f8288c )
+	rom ( name ramp_u8.snd size 32768 crc 11f787e4 sha1 1fa195bf9169608099d17be5801738a4e17bec3d )
+	rom ( name ramp_u18.snd size 32768 crc 6b8bf5e1 sha1 aa8c0260dcd19a795bfc23197cd87348a685d20b )
+)
+
+game (
+	name xenophob
+	description "Xenophobe [sound only]"
+	year 1987
+	manufacturer "Bally Midway"
+	rom ( name xeno_snd.u7 size 65536 crc 77561d15 sha1 8c23a9270d54be6380f2d23939b6c6d8c31e334b )
+	rom ( name xeno_snd.u17 size 65536 crc 837a1a71 sha1 d7d60ef1fd11e5e84dd1ffb9a077686bd2fb452e )
+	rom ( name xeno_snd.u8 size 65536 crc 6e2915c7 sha1 df1f35f6b743afbab0a3a29adce3639a8c9dc66f )
+	rom ( name xeno_snd.u18 size 65536 crc 12492145 sha1 c891e86750e51d3b7b93fc96a9f5173fd7869756 )
+)
+

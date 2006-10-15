@@ -1,0 +1,371 @@
+clrmamepro (
+	name KEM
+	description "KEM v1.1"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name 2tigers
+	description "Two Tigers"
+	year 1984
+	manufacturer "Bally Midway"
+	rom ( name 2tgrpg0.bin size 8192 crc e77a924b sha1 c1720a8a6ca8e6551ef38d565d5f18db7fbd5d2e )
+	rom ( name 2tgrpg1.bin size 8192 crc 2699ebdc sha1 bed7c5fe8783dab79e7563f6b2348b9a980bdcc7 )
+	rom ( name 2tgrpg2.bin size 8192 crc b5ca3f17 sha1 ac51eefe9ff49bc358daf58525e529070684ed1b )
+	rom ( name 2tgrpg3.bin size 8192 crc 8aa82049 sha1 6e42d082d29986f5c0698ae39750fb8f9eb1e6cd )
+	rom ( name 2tgra7.bin size 4096 crc 4620d970 sha1 2c2c1da84199b846575a6291dc235f30539959fa )
+	rom ( name 2tgra8.bin size 4096 crc e95d8cfe sha1 846d5543596bb86cf08f998056c1fc695cb4f62c )
+	rom ( name 2tgra9.bin size 4096 crc 81e6ce0e sha1 77e145e150763bfe5760ac3e4f68218a65b9bfe0 )
+	rom ( name 2tgrbg0.bin size 8192 crc 52f69068 sha1 30422e66ae1a6fe8c10494037758758dcd1211d1 )
+	rom ( name 2tgrbg1.bin size 8192 crc 758d4f7d sha1 272127f802bccf47958b5dcc949b7468b1ba4512 )
+	rom ( name 2tgrfg0.bin size 8192 crc 4abf3ca0 sha1 8cef27a1c91d32473a95e9da76db061466977559 )
+	rom ( name 2tgrfg1.bin size 8192 crc fbcaffa5 sha1 5145cd7cc08552388b8662b5d159b3af6344c51a )
+	rom ( name 2tgrfg2.bin size 8192 crc 08e3e1a6 sha1 c9c5ce072b235a299a3151f984d73bab97289e19 )
+	rom ( name 2tgrfg3.bin size 8192 crc 9b22697b sha1 4c3fa30ce1b645ab18c0e53ce0f3754133a267ad )
+)
+
+game (
+	name bluep
+	description "Blue Print (Midway)"
+	year 1982
+	manufacturer "[Zilec] Bally Midway"
+	rom ( name 1m size 4096 crc b20069a6 sha1 aa0a61c898ec58fc4872a24666f422e1abdc09f3 )
+	rom ( name 1n size 4096 crc 4a30302e sha1 a3a22b78585cc9677bf03bbfeb20afb05f026075 )
+	rom ( name 1p size 4096 crc 6866ca07 sha1 a0df14eee9240fad42ceb6f926d34755e8442411 )
+	rom ( name 1r size 4096 crc 5d3cfac3 sha1 7e6ab8398d799aaf0fcaa0769a827471d8c872e9 )
+	rom ( name 1s size 4096 crc a556cac4 sha1 0fe7070c70792d883c29f3d12a33238b5ed8af22 )
+	rom ( name 3u size 4096 crc fd38777a sha1 0ed230e0fa047d3171e7141e5620b4c750b07629 )
+	rom ( name 3v size 4096 crc 33d5bf5b sha1 3ac684cd48559cd0eab32f9e7ce3ec6eca88dcd4 )
+	rom ( name c3 size 4096 crc ac2a61bc sha1 e56708d261648478d1dae4769118546411299e59 )
+	rom ( name d3 size 4096 crc 81fe85d7 sha1 fa637631d25f7499d2325cce77d11e1d624f5e07 )
+	rom ( name d17 size 4096 crc a73b6483 sha1 9f7756d032a8ffaa4aa236fc5117f476916986e0 )
+	rom ( name d18 size 4096 crc 7d622550 sha1 8283debff8253996513148629ec55831e48e8e92 )
+	rom ( name d20 size 4096 crc 2fcb4f26 sha1 508cb2800737bad0a7dea0789d122b7c802aecfd )
+)
+
+game (
+	name demoderb
+	description "Demolition Derby"
+	year 1984
+	manufacturer "Bally Midway"
+	rom ( name dd_pro size 16384 crc 8781b367 sha1 52fe4f4e3fa0370284845d88bc7b30a95c962b22 )
+	rom ( name dd_pro1 size 16384 crc 4c713bfe sha1 493b6ba01e86e7586ad123c53cf7f0a0c191d670 )
+	rom ( name dd_pro2 size 16384 crc c2cbd2a4 sha1 fa642b2f61ff5529ab688a43c1dc14357a4eba6f )
+	rom ( name dd_ssio.a7 size 4096 crc c95cf31e sha1 d1b0e299a27e306ddbc0654fd3a9d981c92afe8c )
+	rom ( name dd_ssio.a8 size 4096 crc 12aaa48e sha1 c6b835fc45e4484a4d52b682ce015caa242c8b4f )
+	rom ( name dd_bg0.6f size 8192 crc cf80be19 sha1 a2ab09ee2dc76fab472fec7520ed972ccc10e826 )
+	rom ( name dd_bg1.5f size 8192 crc 4e173e52 sha1 ac5ae8007a63f9c074444783c1058109327dd118 )
+	rom ( name dd_fg-0.a4 size 16384 crc e57a4de6 sha1 d1b2396a85b984e171d751ef8e1cf970ac4ff9fb )
+	rom ( name dd_fg-4.a3 size 16384 crc 55aa667f sha1 d611dbf9e8ef383d02514b0edb9ea36670193bf0 )
+	rom ( name dd_fg-1.a6 size 16384 crc 70259651 sha1 55967aaf2a7617c8f5a199d1e07128d79ce16970 )
+	rom ( name dd_fg-5.a5 size 16384 crc 5fe99007 sha1 9d640b4715333efdc6300dc353991d6934929399 )
+	rom ( name dd_fg-2.a8 size 16384 crc 6cab7b95 sha1 8faff7458ab5ff2dd096dd78b1449a4096cc6345 )
+	rom ( name dd_fg-6.a7 size 16384 crc abfb9a8b sha1 14ab416bc76db25ad97353c9072048c64ec95344 )
+	rom ( name dd_fg-3.a10 size 16384 crc 801d9b86 sha1 5a8c72d1060eea1a3ad67b98aa6eff13f6837af6 )
+	rom ( name dd_fg-7.a9 size 16384 crc 0ec3f60a sha1 4176b246b0ea7bce9498c20e12678f16f7173529 )
+)
+
+game (
+	name domino
+	description "Domino Man"
+	year 1982
+	manufacturer "Bally Midway"
+	rom ( name dmanpg0.bin size 8192 crc 3bf3bb1c sha1 0dc38b47fc1f6828cd1dc2e14f43448d878ccd8a )
+	rom ( name dmanpg1.bin size 8192 crc 85cf1d69 sha1 32198a2b8fbfb5b9593f083034ef4762b7ab1a27 )
+	rom ( name dmanpg2.bin size 8192 crc 7dd2177a sha1 b4b17e2580679fbe340d8b8d8cb7171c49ae0a21 )
+	rom ( name dmanpg3.bin size 8192 crc f2e0aa44 sha1 2f04dc74c69dfe3847d5e4330e560b0a9f18c33a )
+	rom ( name dm-a7.snd size 4096 crc fa982dcc sha1 970340bfa0ac13ad8c2bf5adc21d7ca7aa9e525a )
+	rom ( name dm-a8.snd size 4096 crc 72839019 sha1 4aa278cfb00fac76cba88600bb300ee88ec3f7ee )
+	rom ( name dm-a9.snd size 4096 crc ad760da7 sha1 024fce0f5d46e82b66c4283925556130735b863e )
+	rom ( name dm-a10.snd size 4096 crc 958c7287 sha1 0dd1ae1b6073f19925d0ec1ba1090d736e0a7cf6 )
+	rom ( name dmanbg0.bin size 8192 crc 9163007f sha1 a7b2e3ed68105ff99841776e8114279f557c90ed )
+	rom ( name dmanbg1.bin size 8192 crc 28615c56 sha1 d4b91c092f594b1216d9a135345ba8955e5e5ec5 )
+	rom ( name dmanfg0.bin size 8192 crc 0b1f9f9e sha1 051d0b126d060300283a5572e1179c7624cedbbf )
+	rom ( name dmanfg1.bin size 8192 crc 16aa4b9b sha1 700f7dc3ce20dacce38dc40783b28fc9b4c1443a )
+	rom ( name dmanfg2.bin size 8192 crc 4a8e76b8 sha1 563b9db39940060265b771f3b0c4a2055963cf2b )
+	rom ( name dmanfg3.bin size 8192 crc 1f39257e sha1 645f9b7e8bd2254167d15567c3bd577d3a574f7d )
+)
+
+game (
+	name dotron
+	description "Discs of Tron (Environmental)"
+	year 1983
+	manufacturer "Bally Midway"
+	rom ( name loc-cpu1 size 16384 crc eee31b8c sha1 c05ad1d10588a6c1050c608f1a473685ebe4daad )
+	rom ( name loc-cpu2 size 16384 crc 75ba6ad3 sha1 d02c3d731073fb6083bd8f771f76338939384a07 )
+	rom ( name loc-cpu3 size 16384 crc 94bb1a0e sha1 af4769fac39e67eff840675bf93cc4304f2875fd )
+	rom ( name loc-cpu4 size 16384 crc 0477e9a2 sha1 95d8ee87b56a5c83012fe12eab6da017cb5f86da )
+	rom ( name loc-a size 4096 crc 2de6a8a8 sha1 6bba00daed8836297f3189db4e4fe8e158adc465 )
+	rom ( name loc-b size 4096 crc 4097663e sha1 afb5224529550cec378415a5cd81b47f6c6c101b )
+	rom ( name loc-c size 4096 crc f576b9e7 sha1 4ff39c46c390aa93d900f5f7a0b35fa71f066863 )
+	rom ( name loc-d size 4096 crc 74b0059e sha1 1fe393721446538036fb6110fdc3920959ebd596 )
+	rom ( name pre-u3 size 4096 crc c3d0f762 sha1 a1857641c35b5bcb33f29fe79a1a581c4cbf129b )
+	rom ( name pre-u4 size 4096 crc 7ca79b43 sha1 c995e1e67d70706a090eb777e9fec0f1ba03f82d )
+	rom ( name pre-u5 size 4096 crc 24e9618e sha1 eb245ff381a76b314a0ed3519e140444afae341c )
+	rom ( name loc-bg2 size 8192 crc 40167124 sha1 782c8192dd58a3f23ff2338452dd03206d79030a )
+	rom ( name loc-bg1 size 8192 crc bb2d7a5d sha1 8044be9ffca9520fd77e0da492147e553f9f7da3 )
+	rom ( name fga-7 size 8192 crc 57a2b1ff sha1 b97539ffd2f5fc8b86fc2f8f233cc26ba16f82ee )
+	rom ( name fga-8 size 8192 crc 3bb4d475 sha1 3795ba1640790041da51ebeac8517cc7d32e243e )
+	rom ( name fga-5 size 8192 crc ce957f1a sha1 24177a8dd6dcb377cf8aee7c7b47b26f29e77e20 )
+	rom ( name fga-6 size 8192 crc d26053ce sha1 b7fb3d1df9b80c056cf131574565addb529645e1 )
+	rom ( name vgaloc-c size 8192 crc ef45d146 sha1 6cd83909b4376abce287e435a10e5bc25e18b265 )
+	rom ( name vgaloc-d size 8192 crc 5e8a3ef3 sha1 74983c922eae1326ecd0ff14000851e0b424cc61 )
+	rom ( name vgaloc-a size 8192 crc b35f5374 sha1 3f330ffde52ac57c02dfdf8e105aefcc10f87a0b )
+	rom ( name vgaloc-b size 8192 crc 565a5c48 sha1 9dfafd58bd552bfda4e1799a175735ecc1369ba3 )
+)
+
+game (
+	name gyruss
+	description "Gyruss (Centuri)"
+	year 1983
+	manufacturer "Konami (Centuri license)"
+	rom ( name gya-1.bin size 8192 crc 85f8b7c2 sha1 5dde696b53efedee671d500feae1d314e95b1c96 )
+	rom ( name gya-2.bin size 8192 crc 1e1a970f sha1 5a2e391489608f7571bbb4f85549a79795e2177e )
+	rom ( name gya-3.bin size 8192 crc f6dbb33b sha1 19cab8e7f2f2358b6271ab402f132654e8be95d4 )
+	rom ( name gy-11.bin size 8192 crc f4ae1c17 sha1 ae568c96a31d910afe30d2b7eeb9ed1ed07290e3 )
+	rom ( name gy-12.bin size 8192 crc ba498115 sha1 9cd1f42898cc590f39ba7cb3c975b0b3d3062eba )
+	rom ( name gy-5.bin size 8192 crc 822bf27e sha1 36d5bea2392a7d3476dd797dc05602705cfa23ef )
+	rom ( name gy-6.bin size 8192 crc 27d8329b sha1 564ff945465a23d93a93137ad277298770dfa06a )
+	rom ( name gy-10.bin size 8192 crc c949db10 sha1 fcb8bcbd2bdd751fecb322a33c8a92fb6f07a7ab )
+	rom ( name gy-9.bin size 8192 crc 4f22411a sha1 763bcd039f8c1838a0d7da7d4dadc14a26e25596 )
+	rom ( name gy-8.bin size 8192 crc 47cd1fbc sha1 8203c4ff0b1cd7b4dbc708e300bfeac1e7366e09 )
+	rom ( name gy-7.bin size 8192 crc 8e8d388c sha1 8f2928d71c02aba977d67575d6e34d69bda2b9d4 )
+)
+
+game (
+	name journey
+	description "Journey"
+	year 1983
+	manufacturer "Bally Midway"
+	rom ( name d2 size 8192 crc f2618913 sha1 eee323ac502cedefef0675a90c3c9c17f9610fc9 )
+	rom ( name d3 size 8192 crc 2f290d2e sha1 b672064969326e594b6a4225e73bf51d25f33871 )
+	rom ( name d4 size 8192 crc cc6c0150 sha1 83b00b137e0c343db9b61c90469d5e2392444fc3 )
+	rom ( name d5 size 8192 crc c3023931 sha1 e591a18c5fc8befcd9f2b93d9131374c572cdbcd )
+	rom ( name d6 size 8192 crc 5d445c99 sha1 df2bce203f510b4bda42bb7114b79eb0b2b4e2e0 )
+	rom ( name a size 4096 crc 2524a2aa sha1 4bd78b4fb42c2506fa6734419b42cbbe4c240e94 )
+	rom ( name b size 4096 crc b8e35814 sha1 379308431d1204d6cb5ae8a13e378ec7b3fab0a9 )
+	rom ( name c size 4096 crc 09c488cf sha1 7aa3321db748f2612693f8348e590369e8d48140 )
+	rom ( name d size 4096 crc 3d627bee sha1 42239ee73ba88206d28fd9cff9787b11c40bb2f1 )
+	rom ( name g3 size 8192 crc c14558de sha1 f47624ec235f782559eff076758ff28366dbf21d )
+	rom ( name g4 size 8192 crc 9104c1d0 sha1 9ae732d6f1edb8656c54ac9b8fa6b35b342adc4b )
+	rom ( name a7 size 8192 crc 4ca2bb2d sha1 62ae3b30a2c52649d4c8f1264b9f8726c3ac81ce )
+	rom ( name a8 size 8192 crc 4fb7925d sha1 a1f4a2bdd6e80a3a9e5f1e698c014b6f91dfb000 )
+	rom ( name a5 size 8192 crc 560c474f sha1 bb44fb5f1bd14b92bff110e74d8c9f22df07b47f )
+	rom ( name a6 size 8192 crc b1f31583 sha1 3ebedacc75d031525d166b3265c136f0f7407d0f )
+	rom ( name a3 size 8192 crc f295afda sha1 de8086ca5750736eba939f80c089ba96b7e53300 )
+	rom ( name a4 size 8192 crc 765876a7 sha1 9c477f5fae068f7e424939652e959711b3ad3a80 )
+	rom ( name a1 size 8192 crc 4af986f8 sha1 56af9525a404bcf6d76b19318efe541189844210 )
+	rom ( name a2 size 8192 crc b30cd2a7 sha1 df1b36a3481fdec49f73d504f23951070c121291 )
+)
+
+game (
+	name kickman
+	description "Kick (Upright)"
+	year 1981
+	manufacturer "Midway"
+	rom ( name cpu_b3 size 4096 crc 65924917 sha1 4fbc7161f4b03bc395c775fa6239a23bf7357e89 )
+	rom ( name cpu_b4 size 4096 crc 27929f52 sha1 e03a550792df68eeb2a1f5177309fe01b5fcaa3d )
+	rom ( name cpu_b5 size 4096 crc 69107ce6 sha1 4aedbb9f1072e315f7e5e3c8559f2995146f4b9d )
+	rom ( name cpu_d4 size 4096 crc 04a23aa1 sha1 9a70ca3dc6db984dbb490076cf0ec11cc213f199 )
+	rom ( name cpu_d5 size 4096 crc 1d2834c0 sha1 176fad90ab14c922a575c3d12a2c8a339d1518d4 )
+	rom ( name cpu_d6 size 4096 crc ddf84ce1 sha1 6f80b9a5cbd75b6e4af569ca4bcfcde7daaad64f )
+	rom ( name cpu_g4 size 4096 crc b4d120f3 sha1 e61ae236f14eb1f519e196046fe8240c10932c2e )
+	rom ( name cpu_g5 size 4096 crc c3ba4893 sha1 76998db55519d7f1cf0f6b51d4f8ad7161b3a92e )
+	rom ( name sio_a10 size 4096 crc d36ddcdc sha1 2d3ec83b9fa5a9d309c393a0c3ee45f0ba8192c9 )
+	rom ( name sio_a7 size 4096 crc 9e35c02e sha1 92afd0126dcfb2d4401927b2cf261090e186b6fa )
+	rom ( name sio_a8 size 4096 crc ca2b7c28 sha1 fdcca3b755822c045c3c321cccc3f58112e2ad11 )
+	rom ( name sio_a9 size 4096 crc d1901551 sha1 fd7d6059f8ac59f95ae6f8ef12fbfce7ed16ec12 )
+	rom ( name vid_a1 size 8192 crc 77da795e sha1 ebebc8551e7a7534d89bb8458eb2576713cfbeaf )
+	rom ( name vid_b1 size 8192 crc f3be56a1 sha1 eb3eb0379a918a2959565572d88f9b0f021d1c2a )
+	rom ( name vid_d1 size 8192 crc 565ea97d sha1 4a30a371ad407bf774cf08bf528f824675383698 )
+	rom ( name vid_e1 size 8192 crc 2c5d6b55 sha1 c326b8c7bcb903ea3a1a721443a37e1e8eabe975 )
+)
+
+game (
+	name pooyan
+	description "Pooyan (Stern)"
+	year 1982
+	manufacturer "[Konami] (Stern license)"
+	rom ( name ic22_a4.cpu size 8192 crc 916ae7d7 sha1 e96eba381e6ad228acf4b74240d618f9d0bae39d )
+	rom ( name ic23_a5.cpu size 8192 crc 8fe38c61 sha1 4588f9f80a5884e056a1d429785c7331e92d5654 )
+	rom ( name ic24_a6.cpu size 8192 crc 2660218a sha1 606b10a4bab2432e20471440105e04d15d384570 )
+	rom ( name ic25_a7.cpu size 8192 crc 3d2a10ad sha1 962c621a19e9797b8f3d12c150aa0b90958c9498 )
+	rom ( name sd01_a7.snd size 4096 crc fbe2b368 sha1 5689a84ef110bdc0039ad1a6c5778e0b8eccfce0 )
+	rom ( name sd02_a8.snd size 4096 crc e1795b3d sha1 9ab4e5362f9f7d9b46b750e14b1d9d71c57be40f )
+	rom ( name ic13_g10.cpu size 4096 crc 7433aea9 sha1 a5ad6311f097fefb6e7b747ebe9d01d72d7755d0 )
+	rom ( name ic14_g9.cpu size 4096 crc 87c1789e sha1 7637a9604a3ad4f9a27105d87252de3d923672aa )
+	rom ( name ic15_a9.cpu size 4096 crc b2d8c121 sha1 189ad488869f34d7a38b82ef70eb805acfe04312 )
+	rom ( name ic16_a8.cpu size 4096 crc 1097c2b6 sha1 c815f0d27593efd23923511bdd13835456ef7f76 )
+)
+
+game (
+	name rampage
+	description "Rampage (revision 3)"
+	year 1986
+	manufacturer "Bally Midway"
+	rom ( name pro-0.rv3 size 32768 crc 2f7ca03c sha1 1e3a1f213fd67938adf14ea0d04dab687ea8f4ef )
+	rom ( name pro-1.rv3 size 32768 crc d89bd9a4 sha1 3531464ffe49dfaf2755d9e2dc1aea23819b3a5d )
+	rom ( name ramp_u7.snd size 32768 crc cffd7fa5 sha1 7c5cecce1d428f847fea37d53eb09c6f62055c6f )
+	rom ( name ramp_u17.snd size 32768 crc e92c596b sha1 4e2d87398f2e7b637cbad6cb16d832dfa8f8288c )
+	rom ( name ramp_u8.snd size 32768 crc 11f787e4 sha1 1fa195bf9169608099d17be5801738a4e17bec3d )
+	rom ( name ramp_u18.snd size 32768 crc 6b8bf5e1 sha1 aa8c0260dcd19a795bfc23197cd87348a685d20b )
+	rom ( name bg-0 size 16384 crc c0d8b7a5 sha1 692219388a3124fb48db7e35c4127b0fe066a289 )
+	rom ( name bg-1 size 16384 crc 2f6e3aa1 sha1 ae86ce90bb6bf660e38c0f91e7ce90d44be82d60 )
+	rom ( name fg-0 size 65536 crc 0974be5d sha1 be347faaa345383dc6e5c2b3789c372d6bd25905 )
+	rom ( name fg-1 size 65536 crc 8728532b sha1 327df92db7e3506b827d497859980cd2de51f45d )
+	rom ( name fg-2 size 65536 crc 9489f714 sha1 df17a45cdc6a9310856d64f89954be79bbeac12e )
+	rom ( name fg-3 size 65536 crc 81e1de40 sha1 7e7818792845ec3687b3202eeade60a298ef513e )
+)
+
+game (
+	name shollow
+	description "Satan's Hollow (set 1)"
+	year 1981
+	manufacturer "Bally Midway"
+	rom ( name sh-pro.00 size 8192 crc 95e2b800 sha1 8781295e21e5202288293fb9eb558cb1835b11ea )
+	rom ( name sh-pro.01 size 8192 crc b99f6ff8 sha1 575cdba5bf9965c7765ce913a3376c7ba36b8291 )
+	rom ( name sh-pro.02 size 8192 crc 1202c7b2 sha1 ebae4711f124a34f19305da16657ece805e1da26 )
+	rom ( name sh-pro.03 size 8192 crc 0a64afb9 sha1 3ac6660d2b0166c58ec4fecfe37ce36e545064df )
+	rom ( name sh-pro.04 size 8192 crc 22fa9175 sha1 fd8ea76b3a7ffaf48fc11dd3b7c58e548e3e57c5 )
+	rom ( name sh-pro.05 size 8192 crc 1716e2bb sha1 771e4c20d63e4e1d99723e6355db67064a278ae5 )
+	rom ( name sh-snd.01 size 4096 crc 55a297cc sha1 b34f37fca61cdba26b5671feee991d133b8697a4 )
+	rom ( name sh-snd.02 size 4096 crc 46fc31f6 sha1 9b1a56962b2d210b1013bc35de780c6d5b3eb4bc )
+	rom ( name sh-snd.03 size 4096 crc b1f4a6a8 sha1 ba724f9cc0cc35dd31d4ad8b36a51da9d6cbfbcf )
+	rom ( name sh-bg.00 size 8192 crc 3e2b333c sha1 b4347d0b3d6149e94da4a38684c0fab931e76cc5 )
+	rom ( name sh-bg.01 size 8192 crc d1d70cc4 sha1 550e2e8c0bcbf7913b218fe48cd3324622c8d0f4 )
+	rom ( name sh-fg.00 size 8192 crc 33f4554e sha1 88dd803158d3c65429b79d2aaf8334130315aa93 )
+	rom ( name sh-fg.01 size 8192 crc ba1a38b4 sha1 cee5f0a66e40c779f1bfbb4bfafe5301385e7dae )
+	rom ( name sh-fg.02 size 8192 crc 6b57f6da sha1 71165df59dd5ca037116dc0f46fd4f6aac6dbfd1 )
+	rom ( name sh-fg.03 size 8192 crc 37ea9d07 sha1 82e006b01ee12390308be530d4b68fc2404b6b91 )
+)
+
+game (
+	name solarfox
+	description "Solar Fox"
+	year 1981
+	manufacturer "Bally Midway"
+	rom ( name sfcpu.3b size 4096 crc 8c40f6eb sha1 a323897cfa8771edd28d58d806913e62110a2689 )
+	rom ( name sfcpu.4b size 4096 crc 4d47bd7e sha1 0cfa09f2c1fe6d662c3a96abc43edf431ccf6d02 )
+	rom ( name sfcpu.5b size 4096 crc b52c3bd5 sha1 bc289641830a3c6640303b1a799c378bf456bed1 )
+	rom ( name sfcpu.4d size 4096 crc bd5d25ba sha1 b7be1250dfb6af9cc0f9c6b446fb183528eab7de )
+	rom ( name sfcpu.5d size 4096 crc dd57d817 sha1 059a020313cf929130d1ae9a80f3b91c54fe7699 )
+	rom ( name sfcpu.6d size 4096 crc bd993cd9 sha1 c074a6a40d0b9c0f4bf3fc5982263c89549fb338 )
+	rom ( name sfcpu.7d size 4096 crc 8ad8731d sha1 ffd19c3fbad3c5a240ab27963812cc300f3d7b89 )
+	rom ( name sfsnd.7a size 4096 crc cdecf83a sha1 5acd2709e214408d756b39916bb98cd4ecda7988 )
+	rom ( name sfsnd.8a size 4096 crc cb7788cb sha1 9e86f9131a6f0fc96dd436e21baf45e215ee65f4 )
+	rom ( name sfsnd.9a size 4096 crc 304896ce sha1 00ff640eab50022da980cdc5ce8cedebaaebc9cf )
+	rom ( name sfcpu.4g size 4096 crc ba019a60 sha1 81923f8c51eedfef6f5e9d6ace1d785d7afafc14 )
+	rom ( name sfcpu.5g size 4096 crc 7ff0364e sha1 b04034fc076008302931a485e00762dc34660498 )
+	rom ( name sfvid.1a size 8192 crc 9d9b5d7e sha1 4896c532a3d5763284a4403e8558f634f7b968d8 )
+	rom ( name sfvid.1b size 8192 crc 78801e83 sha1 23b5811a03fe4ad576c5313d2205203577300159 )
+	rom ( name sfvid.1d size 8192 crc 4d8445cf sha1 fbe427da0e758b79eb2230713f2cd12e6f8bdeb7 )
+	rom ( name sfvid.1e size 8192 crc 3da25495 sha1 e7b703bc8caca7497af92efc869c6f1b7dbc8bf1 )
+)
+
+game (
+	name tapper
+	description "Tapper (Budweiser)"
+	year 1983
+	manufacturer "Bally Midway"
+	rom ( name tappg0.bin size 16384 crc 127171d1 sha1 373e9a9d73b71e100c02862662d025f5ead2f94d )
+	rom ( name tappg1.bin size 16384 crc 9d6a47f7 sha1 e493e46fc70a765e54bfdd7ba7ca570e6a5c79d6 )
+	rom ( name tappg2.bin size 16384 crc 3a1f8778 sha1 cb46a2248289ced7282b1463f433dcb970c42c1a )
+	rom ( name tappg3.bin size 8192 crc e8dcdaa4 sha1 45bf1571a2418c7dc00ccc7061a3e04e65cb6bff )
+	rom ( name tapsnda7.bin size 4096 crc 0e8bb9d5 sha1 9e281c340b7702523c86d56317efad9e3688e585 )
+	rom ( name tapsnda8.bin size 4096 crc 0cf0e29b sha1 14334b9d2bfece3fe5bda0cbd53158ead8d27e53 )
+	rom ( name tapsnda9.bin size 4096 crc 31eb6dc6 sha1 b38bba5f12516d899e023f99147868e3402fbd7b )
+	rom ( name tapsda10.bin size 4096 crc 01a9be6a sha1 0011407c1e886071282808c0a561789b1245a789 )
+	rom ( name tapbg1.bin size 16384 crc 2a30238c sha1 eb30b9bb654324340f0fc5b44776ac2440c1e869 )
+	rom ( name tapbg0.bin size 16384 crc 394ab576 sha1 23e29ec942e1e7516ae8068837af2d1c79592378 )
+	rom ( name tapfg1.bin size 16384 crc 32509011 sha1 a38667573d235efe2dc515e52af05825fe4e0f30 )
+	rom ( name tapfg0.bin size 16384 crc 8412c808 sha1 2077f79177fda26f9c674b2ab525ec3833802059 )
+	rom ( name tapfg3.bin size 16384 crc 818fffd4 sha1 930142dd73fb30c4d3ec09a1e37517c6c6774024 )
+	rom ( name tapfg2.bin size 16384 crc 67e37690 sha1 d553b8517c1d03a2be0b065f4da2fa99d9e6fb30 )
+	rom ( name tapfg5.bin size 16384 crc 800f7c8a sha1 8aead89e1adaee5f0b679661c4bfba36e0d639e8 )
+	rom ( name tapfg4.bin size 16384 crc 32674ee6 sha1 402c166d50b4a693959b3f0706a7931a5daef6ce )
+	rom ( name tapfg7.bin size 16384 crc 070b4c81 sha1 95879a455ecfe2e3de7fe2a75078f9e6934960f5 )
+	rom ( name tapfg6.bin size 16384 crc a37aef36 sha1 a24696f16d467d9eea4f25aef5f4c5ff55bf51ff )
+)
+
+game (
+	name timber
+	description "Timber"
+	year 1984
+	manufacturer "Bally Midway"
+	rom ( name timpg0.bin size 16384 crc 377032ab sha1 7b6c6e9c5088651720990c49296ddccb5416a729 )
+	rom ( name timpg1.bin size 16384 crc fd772836 sha1 ce5266f7b1ab7dc8c1af864bc8afe33d724649fc )
+	rom ( name timpg2.bin size 16384 crc 632989f9 sha1 9e9dc343746299bb0dc7ada206211366c5a05075 )
+	rom ( name timpg3.bin size 8192 crc dae8a0dc sha1 f065fa3184efa6524d4f950616f3fbae4ea17513 )
+	rom ( name tima7.bin size 4096 crc c615dc3e sha1 664d5e3ac3936fd04a855ee0c88f1c1b4d1dea5b )
+	rom ( name tima8.bin size 4096 crc 83841c87 sha1 bd5a2e567e015e10e45651e15b42ffb3b69d2305 )
+	rom ( name tima9.bin size 4096 crc 22bcdcd3 sha1 69cedc8cec52ca310f828dfe73d7de04729b06d3 )
+	rom ( name timbg1.bin size 16384 crc b1cb2651 sha1 799efcc35b08a3432ee2c13de3f6c65477a6de07 )
+	rom ( name timbg0.bin size 16384 crc 2ae352c4 sha1 8039f09cdba6ce43005f98dcff91958ba16363bb )
+	rom ( name timfg1.bin size 16384 crc 81de4a73 sha1 38e06b67004aa44dc58d205793ae83d3707472a6 )
+	rom ( name timfg0.bin size 16384 crc 7f3a4f59 sha1 2723cb93c1b7b229b370d069651cf83ecb1cff3a )
+	rom ( name timfg3.bin size 16384 crc 37c03272 sha1 2f5793b6a148af43c5b6efe718714942ce7d271b )
+	rom ( name timfg2.bin size 16384 crc e2c2885c sha1 618dab8cf2ee189343210d0e20dd246447c4c542 )
+	rom ( name timfg5.bin size 16384 crc eb636216 sha1 c347a64933f547cf1925e5fa187deda6e0bf713c )
+	rom ( name timfg4.bin size 16384 crc b7105eb7 sha1 913687f0e5dd105a3dfdc0afd1b5610b27124451 )
+	rom ( name timfg7.bin size 16384 crc d9c27475 sha1 24a7e6200e4f3514d4d3f25b2ffe3338c0c2a495 )
+	rom ( name timfg6.bin size 16384 crc 244778e8 sha1 494bc1e627997cd4f1d5267c5fafd0779ccf9255 )
+)
+
+game (
+	name timep
+	description "Time Pilot"
+	year 1982
+	manufacturer "Konami"
+	rom ( name tm1 size 8192 crc 1551f1b9 sha1 c72f30988ac00cbe6549b71c3bcb414511e8b997 )
+	rom ( name tm2 size 8192 crc 58636cb5 sha1 ab517efa93ae7be780af55faea82a6e83edd828c )
+	rom ( name tm3 size 8192 crc ff4e0d83 sha1 ef98a1abb45b22d7498a0aca520f43bbee248b22 )
+	rom ( name tm7 size 4096 crc d66da813 sha1 408fca4515e8af84211df3e204c8776b2f8adb23 )
+	rom ( name tm6 size 8192 crc c2507f40 sha1 07221875e3f81d9def67c57a7ccd82d52ce65e01 )
+	rom ( name tm4 size 8192 crc 7e437c3e sha1 cbe2ccd2cd503af62f009cd5aab73aa7366230b1 )
+	rom ( name tm5 size 8192 crc e8ca87b9 sha1 5dd30d3fb9fd8cf9e6a8e37e7ea858c7fd038a7e )
+)
+
+game (
+	name tron
+	description "Tron (set 1)"
+	year 1982
+	manufacturer "Bally Midway"
+	rom ( name scpu_pga.bin size 8192 crc 5151770b sha1 26f4d830de7be228528e462dd628f439629a2641 )
+	rom ( name scpu_pgb.bin size 8192 crc 8ddf8717 sha1 e0c294afa8ba0b0ba89e3e0fb3ff6d8fc4398e32 )
+	rom ( name scpu_pgc.bin size 8192 crc 4241e3a0 sha1 24c1bd2f31e194542571c391c5dccf21354115c2 )
+	rom ( name scpu_pgd.bin size 8192 crc 035d2fe7 sha1 1b827ca30a439d2f4cc94fcc0e90ee0cf87e018c )
+	rom ( name scpu_pge.bin size 8192 crc 24c185d8 sha1 45ac7c53f6f4eba5c7bf3fc6559cddd3821eddad )
+	rom ( name scpu_pgf.bin size 8192 crc 38c4bbaf sha1 a7cd496ce75199b8279ea963520cf70d5f562bb2 )
+	rom ( name ssi_0a.bin size 4096 crc 765e6eba sha1 42efeefc8571dfc237c0be3368248f1e56add92e )
+	rom ( name ssi_0b.bin size 4096 crc 1b90ccdd sha1 0876e5eeaa63bb8cc97f3634a6ddd8a29a9b012f )
+	rom ( name ssi_0c.bin size 4096 crc 3a4bc629 sha1 ce8452a99a313ae7429de471bbea39de08c9fd4b )
+	rom ( name scpu_bgg.bin size 8192 crc 1a9ed2f5 sha1 b0d85b47873ac8ad475da18b9540d37232cb2b7c )
+	rom ( name scpu_bgh.bin size 8192 crc 3220f974 sha1 a38ea5f1db27f05d9689db838ce7a8de98f34837 )
+	rom ( name vg_3.bin size 8192 crc bc036d1d sha1 c5d54d0b80ac768ccf6fdd32cad1ef6359fa324c )
+	rom ( name vg_2.bin size 8192 crc 58ee14d3 sha1 5fb4268c9c73bdfc3b1e866618979aea3f219bbc )
+	rom ( name vg_1.bin size 8192 crc 3329f9d4 sha1 11f4d744374e475d2c5b195a9f70888414529dd3 )
+	rom ( name vg_0.bin size 8192 crc 9743f873 sha1 71ed80ecd8caaf9fce1d7010f95c4678c9bd7102 )
+)
+
+game (
+	name wacko
+	description "Wacko"
+	year 1982
+	manufacturer "Bally Midway"
+	rom ( name wackocpu.2d size 8192 crc c98e29b6 sha1 38fbb663c238b354925b34b67de246d8ba3356e1 )
+	rom ( name wackocpu.3d size 8192 crc 90b89774 sha1 1f9cbe8134e7d7f797d88c0cb4be3d8c39ca03a3 )
+	rom ( name wackocpu.4d size 8192 crc 515edff7 sha1 9288cb5efb51086ef8610eecf8e3feae1da9fc2a )
+	rom ( name wackocpu.5d size 8192 crc 9b01bf32 sha1 d209ba2503d7b54786f74107bb399313a08a09ba )
+	rom ( name wackosnd.7a size 4096 crc 1a58763f sha1 37f0870d67d52c86ae2d188e9beaa56a3a8fa130 )
+	rom ( name wackosnd.8a size 4096 crc a4e3c771 sha1 fe677090423e1d80cde07d2e74be8380d8c55e95 )
+	rom ( name wackosnd.9a size 4096 crc 155ba3dd sha1 51aaeeb68b2b7eb8238c7c3b06e84dcf44683ee9 )
+	rom ( name wackocpu.3g size 8192 crc 33160eb1 sha1 7d66198cb84294cc3689d7f51365566f252d6252 )
+	rom ( name wackocpu.4g size 8192 crc daf37d7c sha1 37fe68b0a5984828ec03886860f84a20461713fc )
+	rom ( name wackovid.1e size 8192 crc dca59be7 sha1 c78af8e0c99a6f58a35f8aa73bcee15ee8fda372 )
+	rom ( name wackovid.1d size 8192 crc a02f1672 sha1 1d1b7eada4dae5e31dc1474b13cefd71926cbfc7 )
+	rom ( name wackovid.1b size 8192 crc 7d899790 sha1 aa320f4ac41d2a1acec4880a8d95dfe6406e210e )
+	rom ( name wackovid.1a size 8192 crc 080be3ad sha1 ead2be17d749a15841123e42d434aab573870fba )
+)
+

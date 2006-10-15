@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="mac">
+	<title>Emulators for the Mac</title>
+	<comment>These emulators are all for the Apple Macintosh. Be sure to check out <a href="http://emulation.net/">http://emulation.net/</a> for emulators on the Mac.</comment>
+	<emulator_links>
+		<emulator_link id="astrofmu" type="mac">&emulator_astrofmu;</emulator_link>
+		<emulator_link id="atari_vector_sim" type="mac">&emulator_atari_vector_sim;</emulator_link>
+		<emulator_link id="centimu" type="mac">&emulator_centimu;</emulator_link>
+		<emulator_link id="centimupp" type="mac">&emulator_centimupp;</emulator_link>
+		<emulator_link id="daphne_mac" type="mac">&emulator_daphne_mac;</emulator_link>
+		<emulator_link id="frogcow" type="mac">&emulator_frogcow;</emulator_link>
+		<emulator_link id="invadersmu" type="mac">&emulator_invadersmu;</emulator_link>
+		<emulator_link id="m1_mac" type="mac">&emulator_m1_mac;</emulator_link>
+		<emulator_link id="macmame" type="mac">&emulator_macmame;</emulator_link>
+		<emulator_link id="macmoon" type="mac">&emulator_macmoon;</emulator_link>
+		<emulator_link id="macmultipac" type="mac">&emulator_macmultipac;</emulator_link>
+		<emulator_link id="macslomo" type="mac">&emulator_macslomo;</emulator_link>
+		<emulator_link id="modeler_mac" type="mac">&emulator_modeler_mac;</emulator_link>
+		<emulator_link id="nemesis_mac" type="mac">&emulator_nemesis_mac;</emulator_link>
+		<emulator_link id="rem_mac" type="mac">&emulator_rem_mac;</emulator_link>
+		<emulator_link id="shaolin" type="mac">&emulator_shaolin;</emulator_link>
+		<emulator_link id="t3em" type="mac">&emulator_t3em;</emulator_link>
+		<emulator_link id="vectorama" type="mac">&emulator_vectorama;</emulator_link>
+		<emulator_link id="williams_digital_arcade" type="mac">&emulator_williams_digital_arcade;</emulator_link>
+		<emulator_link id="yiear" type="mac">&emulator_yiear;</emulator_link>
+	</emulator_links>
+</emulator_contents>

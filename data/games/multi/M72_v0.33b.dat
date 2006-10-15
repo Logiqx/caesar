@@ -1,0 +1,309 @@
+clrmamepro (
+	name M72
+	description "M72 v0.33b"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name bchopper
+	description "Battle Chopper"
+	year 1987
+	manufacturer "Irem"
+	rom ( name b-a0-b.rom size 65536 crc e46ed7bf sha1 75abb5f40629f7c40a610a44e068b6c4e3a5126e )
+	rom ( name b-a1-b.rom size 65536 crc 590605ff sha1 fbb5c0cebd28b08d4ce39db4055d6343620e0f1c )
+	rom ( name b-a2-b.rom size 65536 crc f8158226 sha1 bb3a8686cd89bb8265b6b9e03682cc0bf6533793 )
+	rom ( name b-a3-b.rom size 65536 crc 0f07b9b7 sha1 63dbec17097f07eb39299372b736fbbc1b11b65e )
+	rom ( name b-b0-.rom size 65536 crc b5b95776 sha1 4685b56071b916ce712c45f24da8068dd7e40ed1 )
+	rom ( name b-b1-.rom size 65536 crc 74ca16ee sha1 7984bc9a0b46e1b4a8ecac7528d57606305aad73 )
+	rom ( name b-b2-.rom size 65536 crc b82cca04 sha1 c12b95be311205181b01d15021bcf9f01ed3e0a3 )
+	rom ( name b-b3-.rom size 65536 crc a7afc920 sha1 92c75463ada39184e731b82ef2883ae6f1f67482 )
+	rom ( name c-00-a.rom size 65536 crc f6e6e660 sha1 e066e5ed37719cf2b6fd36e0117f11325bb06f9c )
+	rom ( name c-01-b.rom size 65536 crc 708cdd37 sha1 24f3fcd381422f0d75410c2af7a56744e3b4a699 )
+	rom ( name c-10-a.rom size 65536 crc 292c8520 sha1 c552090d295ee1c1ca611b0cddee356e509e2045 )
+	rom ( name c-11-b.rom size 65536 crc 20904cf3 sha1 71fe505f2da53c2eb445b7b758d257d6af42e6f1 )
+	rom ( name c-20-a.rom size 65536 crc 1ab50c23 sha1 43e2f11e5bbf157c47764e04e372f40ed68bab59 )
+	rom ( name c-21-b.rom size 65536 crc c823d34c sha1 47383214b6a60e0b1b70208b00c291f8ffed36bc )
+	rom ( name c-30-a.rom size 65536 crc 11f6c56b sha1 39a2a674698b044c84fea65ae41a9e003a50b639 )
+	rom ( name c-31-b.rom size 65536 crc 23134ec5 sha1 43453f8a13b51310e04729dc828d391ca9c04da2 )
+	rom ( name c-h0-b.rom size 65536 crc f2feab16 sha1 03ee874658e0f59957f8425e1ebf9c938737cc19 )
+	rom ( name c-h1-b.rom size 65536 crc a995d64f sha1 43eb2eb11e6875298a6ef2b18f0f5e587f1bba16 )
+	rom ( name c-h3-b.rom size 65536 crc ab9451ca sha1 ec0e0ad592d8b21bb4e6927a452e3b7964cda015 )
+	rom ( name c-l0-b.rom size 65536 crc 9f887096 sha1 4f41ef29580fc026ea91d110ec6b2e6af83dbd9a )
+	rom ( name c-l1-b.rom size 65536 crc 41dda999 sha1 4d07a399aaf16bc37b5488e3e4bb60e78811a099 )
+	rom ( name c-l3-b.rom size 65536 crc 11562221 sha1 a2f136a487fb6f30350e8d1e26c0729eb0686c7d )
+	rom ( name c-v0-b.rom size 65536 crc d0c27e58 sha1 fec76217cc0c04c723989c3ec127a2bd33d64c60 )
+)
+
+game (
+	name dbreed
+	description "Dragon Breed"
+	year 1989
+	manufacturer "Irem"
+	rom ( name db_a0m.rom size 131072 crc 4c83e92e sha1 6dade027435c48ab48bd4516d16a9961d4dd6fad )
+	rom ( name db_a1m.rom size 131072 crc 835ef268 sha1 89d0bb15201440dffad3ef745970f95505d7ab03 )
+	rom ( name db_a2m.rom size 131072 crc 5117f114 sha1 a401a3e638209b32d4101a5c2e2a8b4612eaa21b )
+	rom ( name db_a3m.rom size 131072 crc 8eb0c978 sha1 7fc55bbe4d0923db88492bb7160a89de34e11cd6 )
+	rom ( name db_c-h0.rom size 65536 crc 5aa79fb2 sha1 b7b862699ddccf90cf18d3822703078668aa1dc7 )
+	rom ( name db_c-h3.rom size 131072 crc 4bf3063c sha1 3f970c9ece2ac700738e217e0b31b3aba2848ab2 )
+	rom ( name db_c-l0.rom size 65536 crc ed0f5e06 sha1 9030840b15e83c18d59c884ed08c93c05fa70c5b )
+	rom ( name db_c-l3.rom size 131072 crc e4b89b79 sha1 c312925940633e60fb5d0f05044c6e73e4f7fd54 )
+	rom ( name db_c-v0.rom size 131072 crc 312f7282 sha1 742d56980b4618180e9a0e02051c5aec4d5cdae4 )
+	rom ( name db_k800m.rom size 131072 crc c027a8cf sha1 534dc416b8f5587168c7f644d3f9438c8a190491 )
+	rom ( name db_k801m.rom size 131072 crc 093faf33 sha1 2704f644cdce87daf975984f143b1d55ba731c3f )
+	rom ( name db_k802m.rom size 131072 crc 055b4c59 sha1 71315dd7476612f138cb64b905648791d44eb7da )
+	rom ( name db_k803m.rom size 131072 crc 8ed63922 sha1 51daa8a23e637f6b4394598ff4a1d26f65b59c8b )
+)
+
+game (
+	name gallop
+	description "Gallop - Armed Police Unit"
+	year 1991
+	manufacturer "Irem"
+	rom ( name cc-b-a0.bin size 65536 crc a33472bd sha1 962047fe3dd1fb996285ecef615a8ebdb529adef )
+	rom ( name cc-b-a1.bin size 65536 crc 118b1f2d sha1 7413ccc67a8aa9dae156e6ee122b1ca5beeb9a76 )
+	rom ( name cc-b-a2.bin size 65536 crc 83cebf48 sha1 12847827ecbf6b493eb9dbddd0a469729d87a451 )
+	rom ( name cc-b-a3.bin size 65536 crc 572903fc sha1 03305301bcf939e97044e746594736b1ca1d7c0a )
+	rom ( name cc-b-b0.bin size 65536 crc 0df5b439 sha1 0775cf92139a111542c8b5f940da0f7f43020982 )
+	rom ( name cc-b-b1.bin size 65536 crc 010b778f sha1 cc5bfeb0fbe0ed2fe513458c5785ec0ce5b02f53 )
+	rom ( name cc-b-b2.bin size 65536 crc bda9f6fb sha1 a6b655ae5bff0568c1fb56ee8a3874fc6524052c )
+	rom ( name cc-b-b3.bin size 65536 crc d361ba3f sha1 7348fdae03e997e05187a2726eb221edb92553df )
+	rom ( name cc-c-00.bin size 131072 crc 9d99deaa sha1 acf16bea0f482306107d2a305c568406b6c21e9a )
+	rom ( name cc-c-10.bin size 131072 crc 7eb083ed sha1 31fa7d532fd46e861c3d19d5b08661653f685a49 )
+	rom ( name cc-c-20.bin size 131072 crc 9421489e sha1 e43d042bf8b4ebed93558d74ec479ec60a01ca5c )
+	rom ( name cc-c-30.bin size 131072 crc 920ec735 sha1 2d0949b43dddce7317c45910d6e4868ddf010806 )
+	rom ( name cc-c-h0.bin size 131072 crc 2217dcd0 sha1 9485b6c3eec99e720439e69dcbe0e55798bbff1c )
+	rom ( name cc-c-h3.bin size 131072 crc 9b2bbab9 sha1 255d4dda55be667f5f1f4324e9e66111738e79b3 )
+	rom ( name cc-c-l0.bin size 131072 crc ff39d7fb sha1 fad95f76050fce04464268b5edff6622b2cb798f )
+	rom ( name cc-c-l3.bin size 131072 crc acd3278e sha1 83d7ddfbdb4bc9548a179b728351a21b3b0ac134 )
+	rom ( name cc-c-v0.bin size 131072 crc 6247bade sha1 4bc9f86acd09908c74b1ab0e7817c4ff1cad6f0b )
+)
+
+game (
+	name hharry
+	description "Hammerin' Harry"
+	year 1990
+	manufacturer "Irem"
+	rom ( name a-h0-v.rom size 131072 crc c52802a5 sha1 7180189c886aebe8d3e7fd38922916cecfddae32 )
+	rom ( name a-h1-0.rom size 65536 crc 3ae21335 sha1 780d7a0c5bebe4b914ea5b3741e30630f8c29a4f )
+	rom ( name a-l0-v.rom size 131072 crc f463074c sha1 aca86345610e65848c276ab278092d35ba215916 )
+	rom ( name a-l1-0.rom size 65536 crc bc6ac5f9 sha1 c6afba4967a8055f6b63827697425eac743f5a75 )
+	rom ( name a-sp-0.rom size 65536 crc 80e210e7 sha1 66cff58fb37c52e1d8e0567e13b774253e862585 )
+	rom ( name a-v0-0.rom size 131072 crc faaacaff sha1 ea3a3920255c07aa9c0a7e0191eae257a9f7f558 )
+	rom ( name hh_00.rom size 131072 crc ec5127ef sha1 014ac8ad7b19cd9b475b72a0f42a4991119501c4 )
+	rom ( name hh_10.rom size 131072 crc def65294 sha1 23f5d99fa9f604fde37cb52113bff233d9be1d25 )
+	rom ( name hh_20.rom size 131072 crc bb0d6ad4 sha1 4ab617fadfc32efad90ed7f0555513f167b0c43a )
+	rom ( name hh_30.rom size 131072 crc 4351044e sha1 0d3ce3f4f1473fd997e70de91e7b5b5a5ec60ad4 )
+	rom ( name hh_a0.rom size 131072 crc c577ba5f sha1 c882e58cf64deca8eee6f14f3df43ecc932488fc )
+	rom ( name hh_a1.rom size 131072 crc 429d12ab sha1 ccba25eab981fc4e664f76e06a2964066f2ae2e8 )
+	rom ( name hh_a2.rom size 131072 crc b5b163b0 sha1 82a708fea4953a7c4dcd1d4a1b07f302221ba30b )
+	rom ( name hh_a3.rom size 131072 crc 8ef566a1 sha1 3afb020a7317efe89c18b2a7773894ce28499d49 )
+)
+
+game (
+	name imgfight
+	description "Image Fight"
+	year 1988
+	manufacturer "Irem"
+	rom ( name if-a-a0.bin size 65536 crc 34ee2d77 sha1 38826e0318aa8da893fa4c93f217288c015df606 )
+	rom ( name if-a-a1.bin size 65536 crc 6bd2845b sha1 149cf14f919590da88b9a8e254690da010709862 )
+	rom ( name if-a-a2.bin size 65536 crc 090d50e5 sha1 4f2a7c76320b3f8dafae90a246187e034fe7562b )
+	rom ( name if-a-a3.bin size 65536 crc 3a8e3083 sha1 8a75d556790b6bea41ead1a5f95589dd293bdf4e )
+	rom ( name if-a-b0.bin size 65536 crc b425c829 sha1 0ccd487dba00bb7cb0ff5d1c67f8fee3e68df5d8 )
+	rom ( name if-a-b1.bin size 65536 crc e9bfe23e sha1 f97a68dbdce7e06d07faab19acf7625cdc8eeaa8 )
+	rom ( name if-a-b2.bin size 65536 crc 256e50f2 sha1 9e9fda4f1f1449548942c0da4478f61fe0d263d1 )
+	rom ( name if-a-b3.bin size 65536 crc 4c682785 sha1 f61f1227e0ad629fdfca106306b17a9f6a9959e3 )
+	rom ( name if-c-00.bin size 131072 crc 745e6638 sha1 43fb1f9da4190fea67eee3aee8caf4219becc21b )
+	rom ( name if-c-10.bin size 131072 crc b7108449 sha1 1f41ebe7164fab86958caaf6749b99425e682657 )
+	rom ( name if-c-20.bin size 131072 crc aef33cba sha1 2d8a8458207d0c790c81b1285366463c8540d190 )
+	rom ( name if-c-30.bin size 131072 crc 1f98e695 sha1 5fddcfb17523f8e96f4b85f0cb15d837b81f2bd4 )
+	rom ( name if-c-h0.bin size 65536 crc 592d2d80 sha1 d54916a9bfe4b65a972b62202af706135e73518d )
+	rom ( name if-c-h3.bin size 131072 crc ea030541 sha1 ee4c12773ecced2d755443ce0ca78fb2b2c04805 )
+	rom ( name if-c-l0.bin size 65536 crc 61f89056 sha1 3e0724dbc2b00a30193ea6cfac8b4331055d4fd4 )
+	rom ( name if-c-l3.bin size 131072 crc c66ae348 sha1 eca5096ebd5bffc6e68f3fc9969cda9679bd921f )
+	rom ( name if-c-v0.bin size 65536 crc cb64a194 sha1 940fad6b9147bccc8290e112f5973f8ea062b52f )
+	rom ( name if-c-v1.bin size 65536 crc 45b68bf5 sha1 2fb28793019ca85b3b6d7c4c31eedff1d71f2d83 )
+)
+
+game (
+	name loht
+	description "Legend Of Hero Tonma"
+	year 1989
+	manufacturer "Irem"
+	rom ( name tom_c-h0.rom size 131072 crc a63204b6 sha1 d217bc70650a1a1bbe0cf536ec3bb678f670718d )
+	rom ( name tom_c-h3.rom size 131072 crc 714778b5 sha1 e2eaa35d6b5fa5df5163fe0d7b45fa66667f9947 )
+	rom ( name tom_c-l0.rom size 131072 crc e788002f sha1 35f509976b342fd47e645453381faa3d86645876 )
+	rom ( name tom_c-l3.rom size 131072 crc 2f049b03 sha1 21047cb10912b1fc23795673af3ea7de249328b7 )
+	rom ( name tom_m20.rom size 65536 crc 79aa2335 sha1 6b70c79d800a7b755aa7c9a368c4ea74029aaa1e )
+	rom ( name tom_m21.rom size 65536 crc 3ca3e771 sha1 be052e01c5429ee89057c9d408794f2c7744047c )
+	rom ( name tom_m22.rom size 65536 crc 7a05ee2f sha1 7d1ca5db9a5a85610129e3bc6c640ade036fe7f9 )
+	rom ( name tom_m23.rom size 65536 crc 789e8b24 sha1 e957cd25c3c155ca295ab1aea03d610f91562cfb )
+	rom ( name tom_m24.rom size 65536 crc f01fe899 sha1 c5ab967b7af55a757638bcdc9975f4b15064022d )
+	rom ( name tom_m25.rom size 65536 crc 3db9b2c7 sha1 02a318ffc459c494b7f40827eff5f89b41ac0426 )
+	rom ( name tom_m26.rom size 65536 crc 44626bf6 sha1 571ef74d42d30a272ff0fb33f830652b4a4bad29 )
+	rom ( name tom_m27.rom size 65536 crc 464952cf sha1 6b99360b6ba1ed5a72c257f51291f9f7a1ddf363 )
+	rom ( name tom_m44.rom size 65536 crc 3ed51d1f sha1 84f3aa17d640df91387e5f1f5b5971cf8dcd4e17 )
+	rom ( name tom_m47.rom size 131072 crc 9d81a25b sha1 a354537c2fbba85f06485aa8487d7583a7133357 )
+	rom ( name tom_m49.rom size 131072 crc a41d3bfd sha1 536fb7c0321dbbc1a8b73e9647fba9c53a253fcc )
+	rom ( name tom_m51.rom size 131072 crc 8ec5f6f3 sha1 210f2753f5eeb06396758d21ab1778d459add247 )
+	rom ( name tom_m53.rom size 131072 crc 0b83265f sha1 b31918d6442b79c9fe4f20410189788b050a994e )
+)
+
+game (
+	name mrheli
+	description "Mr. Heli (Battle Chopper Japanese)"
+	year 1987
+	manufacturer "Irem"
+	rom ( name mh-b-a0.bin size 65536 crc 6a0db256 sha1 fa3a2dc03da5bbe06a9c9b3d4ed4fddb47c469ac )
+	rom ( name mh-b-a1.bin size 65536 crc 14ec9795 sha1 4842e076115efe9daf00dab8f61516d28c19baae )
+	rom ( name mh-b-a2.bin size 65536 crc dfcb510e sha1 2387cde4ec0bae176486e1f7541103fd557fe255 )
+	rom ( name mh-b-a3.bin size 65536 crc 957e329b sha1 9d48a0b84915e1cef0b0311a3581991dc83ee199 )
+	rom ( name mh-b-b0.bin size 65536 crc b5b95776 sha1 4685b56071b916ce712c45f24da8068dd7e40ed1 )
+	rom ( name mh-b-b1.bin size 65536 crc 74ca16ee sha1 7984bc9a0b46e1b4a8ecac7528d57606305aad73 )
+	rom ( name mh-b-b2.bin size 65536 crc b82cca04 sha1 c12b95be311205181b01d15021bcf9f01ed3e0a3 )
+	rom ( name mh-b-b3.bin size 65536 crc a7afc920 sha1 92c75463ada39184e731b82ef2883ae6f1f67482 )
+	rom ( name mh-c-00.bin size 131072 crc dec4e121 sha1 92169b523f1600e994e016dc1959a52958e1d89d )
+	rom ( name mh-c-10.bin size 131072 crc 7aaa151e sha1 efd980bb2eed7084354b7a4aa2f733cd2f876741 )
+	rom ( name mh-c-20.bin size 131072 crc eae0de74 sha1 3a2469c0eeb18131f989807afb50228f57ccea30 )
+	rom ( name mh-c-30.bin size 131072 crc 01d5052f sha1 5d5e70913bb7af48193c70209595f27a64fa6cac )
+	rom ( name mh-c-h0.bin size 65536 crc e2ca5646 sha1 9f4fe2f0a45233325bd9336cabb925a1f625453b )
+	rom ( name mh-c-h1.bin size 65536 crc 8974e84d sha1 39e05c80e805dde45f2fc5fc429b75f9b599089c )
+	rom ( name mh-c-h3.bin size 65536 crc 143f596e sha1 f9d444eebcd53dac925d14b7a2858803b7fd9ce2 )
+	rom ( name mh-c-l0.bin size 65536 crc 643e23cd sha1 66998a6dfc7ef538540986b61d2414a5ef250d0d )
+	rom ( name mh-c-l1.bin size 65536 crc 5f8bda69 sha1 48629d617bd48c9de9c6a567fb203258a56fdbbd )
+	rom ( name mh-c-l3.bin size 65536 crc c0982536 sha1 45399f8d0577c6e2a277a69303954ce5d2de7c07 )
+	rom ( name mh-c-v0.bin size 65536 crc d0c27e58 sha1 fec76217cc0c04c723989c3ec127a2bd33d64c60 )
+)
+
+game (
+	name nspirit
+	description "Ninja Spirit"
+	year 1988
+	manufacturer "Irem"
+	rom ( name nin-b-a0.rom size 65536 crc 63f8f658 sha1 82c02d0f7a2d95dfd8d300c46312d511524775ce )
+	rom ( name nin-b-a1.rom size 65536 crc 75eb8306 sha1 2abc359a0bb2863759a68ed60e730761b9751829 )
+	rom ( name nin-b-a2.rom size 65536 crc df532172 sha1 58b5a79a57e71405b3e1abd41d54cf6a4d12873a )
+	rom ( name nin-b-a3.rom size 65536 crc 4dedd64c sha1 8a5c73a024d95e6fe3ab70daafcd5b235418ad36 )
+	rom ( name nin-b0.rom size 131072 crc fe629815 sha1 bfc13565e44891c3f14b45132a5bd786af815cbd )
+	rom ( name nin-b1.rom size 131072 crc 667966af sha1 c9aba694a38b6a622ebf73492f3aac0e27ec7946 )
+	rom ( name nin-b2.rom size 131072 crc 3e922f9b sha1 94d65dce6dc5d546d89d89b40b7d02f087d33f10 )
+	rom ( name nin-b3.rom size 131072 crc 092d6291 sha1 c87cdc8ce459e5d8fc146c722aa10d785cee0333 )
+	rom ( name nin-c-h0.rom size 65536 crc 035692fa sha1 d5ab54488344bf405063737ed55d68ff1e64b55f )
+	rom ( name nin-c-h1.rom size 65536 crc cbc10586 sha1 9b1935ea9ebb21fe42ee3a57d6c10f1e8516f23c )
+	rom ( name nin-c-h2.rom size 65536 crc 8ad818fa sha1 dd25e79b656b7fc6c31d1f8971fd0916295ccdb0 )
+	rom ( name nin-c-h3.rom size 65536 crc 501104ef sha1 e44e060c072affd359e52bf6606b1dd565368d44 )
+	rom ( name nin-c-l0.rom size 65536 crc 9a405898 sha1 b28d71c1a6410720a37e6b6518b3cc66d4c32972 )
+	rom ( name nin-c-l1.rom size 65536 crc b75c9a4d sha1 03c28896cbe0c9f778c259d59d2e69796902daa8 )
+	rom ( name nin-c-l2.rom size 65536 crc c52ca78c sha1 2b40cce5a1f5c588b49634e7fd4bc28c9160fe43 )
+	rom ( name nin-c-l3.rom size 65536 crc fd7408b8 sha1 3cbe72835a561c50265a047f0f5cd62db48378fd )
+	rom ( name nin-r00.rom size 131072 crc 5f61d30b sha1 7754697e43f6117fa604f50885b76014b1dc5760 )
+	rom ( name nin-r10.rom size 131072 crc 0caad107 sha1 c4eff00327313e05ac8f7c6dbee3a0de1c83fadd )
+	rom ( name nin-r20.rom size 131072 crc ef3617d3 sha1 16c175cf45559aacdea6e4002dd8a87f16817cfb )
+	rom ( name nin-r30.rom size 131072 crc 175d2a24 sha1 d1887efd4d8e74c38c53dbbc541ca8d17f29eb59 )
+	rom ( name nin-v0.rom size 65536 crc a32e8caf sha1 63d56ad3a63fb089056e4a170159120287594ea8 )
+)
+
+game (
+	name rtype2
+	description "R-Type 2"
+	year 1989
+	manufacturer "Irem"
+	rom ( name rt2_c0.bin size 262144 crc f5bad5f2 sha1 dc86b93f62e8947e3551f07e393e740e5dc43f5e )
+	rom ( name rt2_c1.bin size 262144 crc 71451778 sha1 52ca7aa8522b988a19556313041450c767dad054 )
+	rom ( name rt2_c2.bin size 262144 crc c6b0c352 sha1 eec4fa88c27815960106881e7ccb23e62556bf1c )
+	rom ( name rt2_c3.bin size 262144 crc 6d530a32 sha1 4e4100e5e5d88e65fb5494474d3692ecd8f44343 )
+	rom ( name rt2_h0.bin size 131072 crc 47639a78 sha1 d7dd851fed96d46c850e5c8f24d9d1a081f6b297 )
+	rom ( name rt2_h1.bin size 131072 crc 4b79840c sha1 6cf8c8cf4bcf5e2acdaa05b8dca2f2a969edc2c5 )
+	rom ( name rt2_l0.bin size 131072 crc a1661cdf sha1 d209328d678fc2fc405bd20f5134bd85b4cd4802 )
+	rom ( name rt2_l1.bin size 131072 crc 6ab3ae42 sha1 d3d7c35e1583b55cc668aa011471c3bf04a541af )
+	rom ( name rt2_n0.bin size 131072 crc 2cd8f913 sha1 a53752b35da95b420dd29a09176d265d292b3938 )
+	rom ( name rt2_n1.bin size 131072 crc 5033066d sha1 e125127f0610c63f9e59a585db547be5d49ed863 )
+	rom ( name rt2_n2.bin size 131072 crc ec3a0450 sha1 632bdd397f1bc67f6970faf7d09ab8d911e105fe )
+	rom ( name rt2_n3.bin size 131072 crc db6176fc sha1 1eaf72af0322490c98461aded202288e387caac1 )
+	rom ( name rt2_sp.bin size 65536 crc 73ffecb4 sha1 4795bf0d6263060c3d3759b659bdb189a4087600 )
+	rom ( name rt2_vo.bin size 131072 crc 637172d5 sha1 9dd0dc409306287238826bf301e2a7a12d6cd9ce )
+)
+
+game (
+	name rtypejp
+	description "R-Type (Japanese)"
+	year 1987
+	manufacturer "Irem"
+	rom ( name b4.bin size 32768 crc 5a4ae5b9 sha1 95c3b64f50e6f673b2bf9b40642c152da5009d25 )
+	rom ( name c4.bin size 32768 crc 4e212fb0 sha1 687061ecade2ebd0bd1343c9c4a831791853f79c )
+	rom ( name d4.bin size 32768 crc 8a65bdff sha1 130bf6af521f13247a739a95eab4bdaa24b2ac10 )
+	rom ( name db_a1.bin size 65536 crc 5ad2bd90 sha1 0937dbbdf0cbce2e81cecf4d770bbd8c6bd82801 )
+	rom ( name db_a2.bin size 65536 crc 6098d86f sha1 c6c9c1c2c30d5f190c40e000004bd21606efb8b0 )
+	rom ( name db_a3.bin size 65536 crc 2bec510a sha1 3455e72095832135ac006944a1209e720ec5c8bf )
+	rom ( name db_b1.bin size 65536 crc c1865141 sha1 3302b6529aa903d81eb2196d745eb4f7f8316857 )
+	rom ( name db_b2.bin size 65536 crc b4f6407e sha1 4a00d8e104c580900b4feb318dd162b77b71d0a5 )
+	rom ( name db_b3.bin size 65536 crc eb02a1cb sha1 60a394ab53afdcbbf9e88083b8dbe8c897170d77 )
+	rom ( name db_c2.bin size 32768 crc ed793841 sha1 7e55a9a11fcd989db39bce6be48821b747c7d97f )
+	rom ( name db_c3.bin size 65536 crc fc247c8a sha1 01cf0a60f47fa5e2ed430a3f075e69e6cb762a48 )
+	rom ( name db_d2.bin size 32768 crc 791df4f8 sha1 5239a97222212ac9c019177771cb2b5096b7bc17 )
+	rom ( name db_d3.bin size 65536 crc b28d1a60 sha1 26d0b5a381f5b462a223cb474067c7b5e67706df )
+	rom ( name db_e2.bin size 65536 crc d6a66298 sha1 d2873d05aa3b257e7699c188880ac3daad672fa5 )
+	rom ( name db_e3.bin size 65536 crc dad53bc0 sha1 1e3bc498861946278a0b1fe24259f5d224e265d7 )
+	rom ( name e4.bin size 32768 crc 73327606 sha1 9529ecdedd30e2a0400fb1083117992cc18b5158 )
+	rom ( name f4.bin size 32768 crc ad89b072 sha1 e2683d0e7415f3abd147e518bf6c87e44744cd4f )
+	rom ( name h4.bin size 32768 crc 433b229a sha1 14222eaa3e67e5a7f80eafcf22bac4eb2d485a9a )
+	rom ( name j4.bin size 32768 crc a7b17491 sha1 5b390770e56ba2d35e108534d7eda8dca996fdf7 )
+	rom ( name k4.bin size 32768 crc b9709686 sha1 700905a3e9661e0874939f54da2909e1396ce596 )
+)
+
+game (
+	name rtypeus
+	description "R-Type (U.S.)"
+	year 1987
+	manufacturer "Irem (Nintendo of America license)"
+	rom ( name aud-h0.bin size 65536 crc 36008a4e sha1 832006cb14a34e1671e305cc8ae606c3c6185a6a )
+	rom ( name aud-h1.bin size 65536 crc 7ebb2a53 sha1 1466df19888c3374847eb77f702060647e49d6ad )
+	rom ( name aud-l0.bin size 65536 crc 4aaa668e sha1 87059460b59f43f2ca8cd959d76f721facd9de96 )
+	rom ( name aud-l1.bin size 65536 crc c28b103b sha1 f294a23c3917b97812eb4c7f3a99253fd0cbb7ea )
+	rom ( name cpu-00.bin size 65536 crc dad53bc0 sha1 1e3bc498861946278a0b1fe24259f5d224e265d7 )
+	rom ( name cpu-01.bin size 65536 crc b28d1a60 sha1 26d0b5a381f5b462a223cb474067c7b5e67706df )
+	rom ( name cpu-10.bin size 65536 crc d6a66298 sha1 d2873d05aa3b257e7699c188880ac3daad672fa5 )
+	rom ( name cpu-11.bin size 65536 crc bb182f1a sha1 93b24bb0d6abd5c42c84a041c79b1dcea568e443 )
+	rom ( name cpu-20.bin size 65536 crc fc247c8a sha1 01cf0a60f47fa5e2ed430a3f075e69e6cb762a48 )
+	rom ( name cpu-21.bin size 65536 crc 5b41f5f3 sha1 8f47a77fb6513b8f611671d34721e33d284dc035 )
+	rom ( name cpu-30.bin size 65536 crc eb02a1cb sha1 60a394ab53afdcbbf9e88083b8dbe8c897170d77 )
+	rom ( name cpu-31.bin size 65536 crc 2bec510a sha1 3455e72095832135ac006944a1209e720ec5c8bf )
+	rom ( name cpu-a0.bin size 32768 crc 4e212fb0 sha1 687061ecade2ebd0bd1343c9c4a831791853f79c )
+	rom ( name cpu-a1.bin size 32768 crc 8a65bdff sha1 130bf6af521f13247a739a95eab4bdaa24b2ac10 )
+	rom ( name cpu-a2.bin size 32768 crc 5a4ae5b9 sha1 95c3b64f50e6f673b2bf9b40642c152da5009d25 )
+	rom ( name cpu-a3.bin size 32768 crc 73327606 sha1 9529ecdedd30e2a0400fb1083117992cc18b5158 )
+	rom ( name cpu-b0.bin size 32768 crc a7b17491 sha1 5b390770e56ba2d35e108534d7eda8dca996fdf7 )
+	rom ( name cpu-b1.bin size 32768 crc b9709686 sha1 700905a3e9661e0874939f54da2909e1396ce596 )
+	rom ( name cpu-b2.bin size 32768 crc 433b229a sha1 14222eaa3e67e5a7f80eafcf22bac4eb2d485a9a )
+	rom ( name cpu-b3.bin size 32768 crc ad89b072 sha1 e2683d0e7415f3abd147e518bf6c87e44744cd4f )
+)
+
+game (
+	name xmultipl
+	description "X - Multiply"
+	year 1989
+	manufacturer "Irem"
+	rom ( name ch0.h0 size 65536 crc 9438dd8a sha1 dc85789c47d31a96300b4236dc43f065e1b01e4a )
+	rom ( name ch3.h3 size 131072 crc 20685021 sha1 92f4216320bf525045223b9454fb5bb224c536d8 )
+	rom ( name cl0.l0 size 65536 crc 06a9e213 sha1 9831c110814642703d6e71d49848d854095b7d3a )
+	rom ( name cl3.l3 size 131072 crc 93fdd200 sha1 dd4244ba0ce6c621136b0648374179da44363c01 )
+	rom ( name t44.00 size 131072 crc db45186e sha1 8c8edeb4b7e6b0516f2597823dc27eba9c5d9528 )
+	rom ( name t45.01 size 131072 crc 4d0764d4 sha1 4942333336a110b033f16ac1afa06ffef7b2dad6 )
+	rom ( name t46.10 size 131072 crc f0c465a4 sha1 69c107c860d4e8736431fd86b6821b70a8367eb3 )
+	rom ( name t47.11 size 131072 crc 1263b24b sha1 0445a5381df3a868bed6967c8e5de7169e4be6a3 )
+	rom ( name t48.20 size 131072 crc 4129944f sha1 988b072032d1667c3ac0731fada32fb6978505dc )
+	rom ( name t49.21 size 131072 crc 2346e6f9 sha1 b3de017dd0353e04d279f57e151c47f5fcc70e9c )
+	rom ( name t50.30 size 131072 crc e322543e sha1 b4c3a7f202d81485d5f0a7b7668ee89fc1edb215 )
+	rom ( name t51.31 size 131072 crc 229bf7b1 sha1 ae42c7efbb6278dd3fa56842361138391f2d49ca )
+	rom ( name t52.v0 size 131072 crc 2db1bd80 sha1 657006d0642ec7fb949bb52821d78fe51a599415 )
+	rom ( name t53.a0 size 131072 crc 1a082494 sha1 63a3a84a262833d2cafab41e35df8f10a5e317b1 )
+	rom ( name t54.a1 size 131072 crc 076c16c5 sha1 4be858806b916953d59aceee550e721eaf3996a6 )
+	rom ( name t55.a2 size 131072 crc 25d877a5 sha1 48c948bf714c432f534c098123c8f50d5561756f )
+	rom ( name t56.a3 size 131072 crc 5b1213f5 sha1 87782aa0bd04d4378c4ba78b63028ae2709da2f1 )
+	rom ( name t57.b0 size 131072 crc 0a84e0c7 sha1 67ad181a7d2c431cb4bf45955e09754549a03576 )
+	rom ( name t58.b1 size 131072 crc a874121d sha1 1351d5901d55059c6472a4588a2e560396903861 )
+	rom ( name t59.b2 size 131072 crc 69deb990 sha1 1eed3183efbe576376661b45152a0a21240ecfc8 )
+	rom ( name t60.b3 size 131072 crc 14c69f99 sha1 4bea72f8bd421ef3ca559363f7473ce2e7038699 )
+)
+

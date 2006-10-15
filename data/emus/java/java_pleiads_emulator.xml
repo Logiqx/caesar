@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="java_pleiads_emulator" type="java" dat="Java_Pleiads_Emulator_v0.30">
+	<name>Java Pleiads Emulator</name>
+	<version>0.30</version>
+	<date>28/10/1997</date>
+
+	<homepage status="bad">http://www.dcc.ufmg.br/~muriloq/pleiads</homepage>
+	<author_link id="murilo_queiroz">&author_murilo_queiroz;</author_link>
+
+	<emulates>Pleiads (Centuri)</emulates>
+	<comment>Based on the Pleiads Emulator by Richard Davies and uses code from Jasper (Java Spectrum Emulator)</comment>
+	<status>Dormant</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="jplds030.zip">Emulator</file>
+	</files>
+</emulator>

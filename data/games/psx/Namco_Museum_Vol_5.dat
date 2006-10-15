@@ -1,0 +1,34 @@
+game (
+	name pacmania
+	description "Pac-Mania"
+	year 1987
+	manufacturer "Namco"
+)
+
+game (
+	name metrocrs
+	description "Metro-Cross"
+	year 1985
+	manufacturer "Namco"
+)
+
+game (
+	name baraduke
+	description "Baraduke"
+	year 1985
+	manufacturer "Namco"
+)
+
+game (
+	name valkyrie
+	description "Legend of the Valkyrie"
+	year 1989
+	manufacturer "Namco"
+)
+
+game (
+	name dspirit
+	description "Dragon Spirit (new version)"
+	year 1987
+	manufacturer "Namco"
+)

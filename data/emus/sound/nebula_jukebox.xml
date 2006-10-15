@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="nebula_jukebox" type="sound" dat="Nebula_Jukebox_v2.9">
+	<name>Nebula Jukebox</name>
+	<version>2.9</version>
+	<date>02/01/2004</date>
+
+	<homepage>http://nebula.emulatronia.com/</homepage>
+	<author_link id="elsemi">&author_elsemi;</author_link>
+
+	<emulates>Capcom, IGS, Konami and Sega music</emulates>
+	<comment>Plays the music and sound effects from arcade games based on Capcom's CPS-1, CPS-2, ZN-1 and ZN-2 hardware. Also supports IGS PolyGame Master, Konami and Sega Model 2 games.</comment>
+	<status>Active</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="jukebox29.zip">Player</file>
+	</files>
+</emulator>

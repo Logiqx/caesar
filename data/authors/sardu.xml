@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="sardu">
+	<name>Icer Addis (Smegma, Sardu of Bloodlust Software)</name>
+	<email>bldlust@maelstrom.net</email>
+	<emulator_links>
+		<emulator_link id="callus" type="multi">&emulator_callus;</emulator_link>
+		<emulator_link id="callus95" type="multi2">&emulator_callus95;</emulator_link>
+		<emulator_link id="qsound_player" type="sound">&emulator_qsound_player;</emulator_link>
+	</emulator_links>
+	<cpu_links>
+		<library_link id="n6502" type="cpu">&library_n6502;</library_link>
+	</cpu_links>
+</author>

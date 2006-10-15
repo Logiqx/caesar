@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mike_beaver">
+	<name>Mike Beaver</name>
+	<email>thebeaver@arcadeheaven.com</email>
+	<emulator_links>
+		<emulator_link id="mimic" type="multi">&emulator_mimic;</emulator_link>
+	</emulator_links>
+</author>

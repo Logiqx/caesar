@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="z80em" type="cpu">
+	<name>Z80Em: Portable Zilog Z80 Emulator</name>
+	<version>1.2</version>
+	<date>04/09/1997</date>
+
+	<homepage>http://www.komkon.org/~dekogel/</homepage>
+	<author_link id="marcel_de_kogel">&author_marcel_de_kogel;</author_link>
+
+	<emulates>Zilog Z80</emulates>
+	<comment>Based on Marat's Z80 emulator but this includes optional x86 assembly for extra speed</comment>
+
+	<emulator_links>
+		<emulator_link id="1942" type="single">&emulator_1942;</emulator_link>
+		<emulator_link id="aemu" type="wince">&emulator_aemu;</emulator_link>
+		<emulator_link id="asie" type="amiga">&emulator_asie;</emulator_link>
+		<emulator_link id="amoad" type="single">&emulator_amoad;</emulator_link>
+		<emulator_link id="annoid" type="single">&emulator_annoid;</emulator_link>
+		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
+		<emulator_link id="bpe" type="linux">&emulator_bpe;</emulator_link>
+		<emulator_link id="crazy_climber" type="single">&emulator_crazy_climber;</emulator_link>
+		<emulator_link id="diamondrun" type="single">&emulator_diamondrun;</emulator_link>
+		<emulator_link id="dreampac" type="dreamcast">&emulator_dreampac;</emulator_link>
+		<emulator_link id="gg" type="single">&emulator_gg;</emulator_link>
+		<emulator_link id="joeys_phoenix" type="dreamcast">&emulator_joeys_phoenix;</emulator_link>
+		<emulator_link id="ladybug_nicola" type="single">&emulator_ladybug_nicola;</emulator_link>
+		<emulator_link id="mulator" type="multi">&emulator_mulator;</emulator_link>
+		<emulator_link id="multipac" type="multi">&emulator_multipac;</emulator_link>
+		<emulator_link id="multipac_gp32" type="gp32">&emulator_multipac_gp32;</emulator_link>
+		<emulator_link id="macmultipac" type="mac">&emulator_macmultipac;</emulator_link>
+		<emulator_link id="moon_cresta" type="single">&emulator_moon_cresta;</emulator_link>
+		<emulator_link id="mrdo_nicola" type="single">&emulator_mrdo_nicola;</emulator_link>
+		<emulator_link id="multipacd" type="digita">&emulator_multipacd;</emulator_link>
+		<emulator_link id="multipac_dc" type="dreamcast">&emulator_multipac_dc;</emulator_link>
+		<emulator_link id="nemesis" type="single">&emulator_nemesis;</emulator_link>
+		<emulator_link id="nemesis_dos" type="single2">&emulator_nemesis_dos;</emulator_link>
+		<emulator_link id="pengo" type="single">&emulator_pengo;</emulator_link>
+		<emulator_link id="phoenix98" type="single">&emulator_phoenix98;</emulator_link>
+		<emulator_link id="phoenixarcade" type="single">&emulator_phoenixarcade;</emulator_link>
+		<emulator_link id="pooyan" type="single">&emulator_pooyan;</emulator_link>
+		<emulator_link id="rallyx" type="single">&emulator_rallyx;</emulator_link>
+		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		<emulator_link id="sage" type="multi">&emulator_sage;</emulator_link>
+		<emulator_link id="salamander" type="single">&emulator_salamander;</emulator_link>
+		<emulator_link id="ssphoenix" type="saturn">&emulator_ssphoenix;</emulator_link>
+		<emulator_link id="vulgus" type="single">&emulator_vulgus;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="z80em.zip">Emulator</file>
+	</files>
+
+	<library_relatives>
+		<library_predecessors>
+			<library_link id="z80" type="cpu">&library_z80;</library_link>
+		</library_predecessors>
+	</library_relatives>
+</library>

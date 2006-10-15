@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="ssvbemu" type="multi2" dat="VBEmu_Screen_Saver_v1.01a" dat_type="extra">
+	<name>VBEmu Screen Saver</name>
+	<version>1.01a</version>
+	<date>24/08/1998</date>
+
+	<homepage>http://come.to/vbemu</homepage>
+	<author_link id="tony_docherty">&author_tony_docherty;</author_link>
+
+	<emulates>Invaders, Invaders Deluxe (both Midway) and Lunar Rescue (Taito)</emulates>
+	<comment>Written in Visual Basic</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="ssvbemu101a.zip">Screen Saver</file>
+	</files>
+
+	<relatives>
+		<modification_of>
+			<emulator_link id="vbemu" type="multi">&emulator_vbemu;</emulator_link>
+		</modification_of>
+	</relatives>
+</emulator>

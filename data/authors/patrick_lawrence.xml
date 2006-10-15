@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="patrick_lawrence">
+	<name>Patrick Lawrence</name>
+	<email>pjl@ns.net</email>
+	<contribution_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+	<cpu_links>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+	</cpu_links>
+</author>

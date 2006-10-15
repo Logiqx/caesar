@@ -1,0 +1,65 @@
+clrmamepro (
+	name EmuDX
+	description "EmuDX v1.0"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name dkongjp
+	description "Donkey Kong (Japan)"
+	year 1981
+	manufacturer "Nintendo"
+	rom ( name 5f.cpu size 4096 crc 424f2b11 sha1 e4f096f2bbd37281f42a5f8e083738f55c07f3dd )
+	rom ( name 5g.cpu size 4096 crc d326599b sha1 94c7382604d0a123a442d53f9641f366dfbb7631 )
+	rom ( name 5h.cpu size 4096 crc ff31ac89 sha1 9626a9e6df0d1b0ff273dbbe986f670200f91f75 )
+	rom ( name 5k.cpu size 4096 crc 394d6007 sha1 57e5ae76ef5d4a2fa9cd860b6c6be03b6d5ed5ba )
+)
+
+game (
+	name frogger
+	description "Frogger"
+	year 1981
+	manufacturer "Konami"
+	rom ( name frogger.26 size 4096 crc 597696d6 sha1 e7e021776cad00f095a1ebbef407b7c0a8f5d835 )
+	rom ( name frogger.27 size 4096 crc b6e6fcc3 sha1 5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc )
+	rom ( name frsm3.7 size 4096 crc aca22ae0 sha1 5a99060ea2506a3ac7d61ca5876ce5cb3e493565 )
+)
+
+game (
+	name galaxian
+	description "Galaxian"
+	year 1979
+	manufacturer "Namco"
+	rom ( name galmidw.u size 2048 crc 745e2d61 sha1 e65f74e35b1bfaccd407e168ea55678ae9b68edf )
+	rom ( name galmidw.v size 2048 crc 9c999a40 sha1 02fdcd95d8511e64c0d2b007b874112d53e41045 )
+	rom ( name galmidw.w size 2048 crc b5894925 sha1 0046b9ed697a34d088de1aead8bd7cbe526a2396 )
+	rom ( name galmidw.y size 2048 crc 6b3ca10b sha1 18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1 )
+	rom ( name 7l size 2048 crc 1b933207 sha1 8b44b0f74420871454e27894d0f004859f9e59a9 )
+)
+
+game (
+	name mspacman
+	description "MsPacman"
+	year 1981
+	manufacturer "bootleg"
+	rom ( name boot1 size 4096 crc d16b31b7 sha1 bc2247ec946b639dd1f00bfc603fa157d0baaa97 )
+	rom ( name boot2 size 4096 crc 0d32de5e sha1 13ea0c343de072508908be885e6a2a217bbb3047 )
+	rom ( name boot3 size 4096 crc 1821ee0b sha1 5ea4d907dbb2690698db72c4e0b5be4d3e9a7786 )
+	rom ( name boot4 size 4096 crc 165a9dd8 sha1 3022a408118fa7420060e32a760aeef15b8a96cf )
+	rom ( name boot5 size 4096 crc 8c3e6de6 sha1 fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b )
+	rom ( name boot6 size 4096 crc 368cb165 sha1 387010a0c76319a1eab61b54c9bcb5c66c4b67a1 )
+)
+
+game (
+	name pacman
+	description "Pacman"
+	year 1980
+	manufacturer "Namco"
+	rom ( name namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
+	rom ( name namcopac.6f size 4096 crc 39d1fc83 sha1 326dbbf94c6fa2e96613dedb53702f8832b47d59 )
+	rom ( name namcopac.6h size 4096 crc 02083b03 sha1 7e1945f6eb51f2e51806d0439f975f7a2889b9b8 )
+	rom ( name namcopac.6j size 4096 crc 7a36fe55 sha1 01b4c38108d9dc4e48da4f8d685248e1e6821377 )
+)
+

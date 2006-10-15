@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="zinc" type="multi" dat="Zinc_v1.1">
+	<name>ZiNc</name>
+	<version>v1.1</version>
+	<date>25/01/2005</date>
+
+	<homepage>http://www.emuhype.com/</homepage>
+	<author_link id="marcin_dudar">&author_marcin_dudar;</author_link>
+	<author_link id="tratax">&author_tratax;</author_link>
+	<author_link id="richter_belmont">&author_richter_belmont;</author_link>
+	<author_link id="smf">&author_smf;</author_link>
+
+	<emulates>Sony ZN-1, ZN-2 and Namco System 11</emulates>
+	<comment>Zinc emulates Sony ZN-1, ZN-2 and Namco System 11 games and supercedes both Impact and S11Emu. The last version of ZiNc from Duddie and Tratax was v0.9, after that they went on to created GCEmu (a Nintendo GameCube emulator) and R.Belmont / SMF took over ZiNc development.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="zinc11-win32.zip">Emulator</file>
+		<file name="zinc102-kbddrv-win32.zip">ZiNc JAMMA keyboard driver</file>
+		<file name="glide_renderer_1_3.zip">ZiNc Glide renderer v1.3</file>
+		<file name="d3d-ogl12.zip">ZiNc OpenGL and D3D renderers v1.2</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="impact" type="multi">&emulator_impact;</emulator_link>
+			<emulator_link id="s11emu" type="multi">&emulator_s11emu;</emulator_link>
+		</predecessors>
+		<ports>
+			<emulator_link id="zinc_linux" type="linux">&emulator_zinc_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

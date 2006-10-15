@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="richter_belmont">
+	<name>Richter Belmont</name>
+	<homepage>http://rbelmont.mameworld.info/</homepage>
+	<emulator_links>
+		<emulator_link id="gxp" type="sound">&emulator_gxp;</emulator_link>
+		<emulator_link id="gxp_linux" type="linux">&emulator_gxp_linux;</emulator_link>
+		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
+		<emulator_link id="m1_linux" type="linux">&emulator_m1_linux;</emulator_link>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="modeler_linux" type="linux">&emulator_modeler_linux;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+		<emulator_link id="zinc_linux" type="linux">&emulator_zinc_linux;</emulator_link>
+	</emulator_links>
+</author>

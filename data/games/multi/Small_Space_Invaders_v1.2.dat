@@ -1,0 +1,90 @@
+clrmamepro (
+	name "Small Space Invaders"
+	description "Small Space Invaders v1.2"
+	category "Multi Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.h size 2048 crc 734f5ad8 sha1 ff6200af4c9110d8181249cbcef1a8a40fa40b7f )
+	rom ( name invaders.g size 2048 crc 6bfaca4a sha1 16f48649b531bdef8c2d1446c429b5f414524350 )
+	rom ( name invaders.f size 2048 crc 0ccead96 sha1 537aef03468f63c5b9e11dd61e253f7ae17d9743 )
+	rom ( name invaders.e size 2048 crc 14e538b0 sha1 1d6ca0c99f9df71e2990b610deb9d7da0125e2d8 )
+)
+
+game (
+	name invdelux
+	description "Space Invaders Deluxe"
+	year 1980
+	manufacturer "Midway"
+	rom ( name invdelux.h size 2048 crc e690818f sha1 0860fb03a64d34a9704a1459a5e96929eafd39c7 )
+	rom ( name invdelux.g size 2048 crc 4268c12d sha1 df02419f01cf0874afd1f1aa16276751acd0604a )
+	rom ( name invdelux.f size 2048 crc f4aa1880 sha1 995d77b67cb4f2f3781c2c8747cb058b7c1b3412 )
+	rom ( name invdelux.e size 2048 crc 408849c1 sha1 f717e81017047497a2e9f33f0aafecfec5a2ed7d )
+	rom ( name invdelux.d size 2048 crc e8d5afcd sha1 91fde9a9e7c3dd53aac4770bd169721a79b41ed1 )
+)
+
+game (
+	name lrescue
+	description "Lunar Rescue"
+	year 1979
+	manufacturer "Taito"
+	rom ( name lrescue.1 size 2048 crc 2bbc4778 sha1 0167f1ac1501ab0b4c4e555023fa5efed59d56ae )
+	rom ( name lrescue.2 size 2048 crc 49e79706 sha1 bed675bb97d59ae0132c007ccead0d096ed2ddf1 )
+	rom ( name lrescue.3 size 2048 crc 1ac969be sha1 67ac47f45b9fa5c530bf6047bb7d5776b52847be )
+	rom ( name lrescue.4 size 2048 crc 782fee3c sha1 668295e9d6d99084bb4e7c5491f00fe75f4f5a88 )
+	rom ( name lrescue.5 size 2048 crc 58fde8bc sha1 663665ac5254204c1eba18357d9867034eae55eb )
+	rom ( name lrescue.6 size 2048 crc bfb0f65d sha1 ea0943d764a16094b6e2289f62ef117c9f838c98 )
+)
+
+game (
+	name invrvnge
+	description "Invader's Revenge"
+	year 1979
+	manufacturer "Zenitone Microsec"
+	rom ( name invrvnge.h size 2048 crc aca41bbb sha1 ca71f792abd6d9a44d15b19d2ccf678e82ccba4f )
+	rom ( name invrvnge.g size 2048 crc cfe89dad sha1 218b6a0b636c49c4cdc3667e8b1387ef0e257115 )
+	rom ( name invrvnge.f size 2048 crc e350de2c sha1 e845565e2f96f9dec3242ec5ab75910a515428c9 )
+	rom ( name invrvnge.e size 2048 crc 1ec8dfc8 sha1 fc8fbe1161958f57c9f4ccbcab8a769184b1c562 )
+)
+
+game (
+	name earthinv
+	description "Super Earth Invasion"
+	year 1980
+	manufacturer "bootleg"
+	rom ( name earthinv.h size 2048 crc 58a750c8 sha1 90bfa4ea06f38e67fe4286d37d151632439249d2 )
+	rom ( name earthinv.g size 2048 crc b91742f1 sha1 8d9ca92405fbaf1d5a7138d400986616378d061e )
+	rom ( name earthinv.f size 2048 crc 4acbbc60 sha1 b8c1efb4251a1e690ff6936ec956d6f66136a085 )
+	rom ( name earthinv.e size 2048 crc df397b12 sha1 e7e8c080cb6baf342ec637532e05d38129ae73cf )
+)
+
+game (
+	name spaceatt
+	description "Space Attack II"
+	year 1980
+	manufacturer "Zenitone-Microsec Ltd"
+	rom ( name spaceatt.h size 2048 crc a31d0756 sha1 2b76929654ed0b180091348546dac29fc6e5438e )
+	rom ( name spaceatt.g size 2048 crc f41241f7 sha1 d93cead75922510075433849c4f7099279eafc18 )
+	rom ( name spaceatt.f size 2048 crc 4c060223 sha1 957e75a978aa600627399061cae0a6525e92ad11 )
+	rom ( name spaceatt.e size 2048 crc 7cf6f604 sha1 469557de15178c4b2d686e5724e1006f7c20d7a4 )
+)
+
+game (
+	name galxwars
+	description "Galaxy Wars"
+	year 1979
+	manufacturer "Taito"
+	rom ( name galxwars.0 size 1024 crc 608bfe7f sha1 a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74 )
+	rom ( name galxwars.1 size 1024 crc a810b258 sha1 030a72fffcf240f643bc3006028cb4883cf58bbc )
+	rom ( name galxwars.2 size 1024 crc 74f31781 sha1 1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7 )
+	rom ( name galxwars.3 size 1024 crc c88f886c sha1 4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6 )
+	rom ( name galxwars.4 size 1024 crc ae4fe8fb sha1 494f44167dc84e4515b769c12f6e24419461dce4 )
+	rom ( name galxwars.5 size 1024 crc 37708a35 sha1 df6fd521ddfa146ef93e390e47741bdbfda1e7ba )
+)
+

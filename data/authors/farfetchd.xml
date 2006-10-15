@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="farfetchd">
+	<name>Farfetch'd</name>
+	<emulator_links>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="modeler_linux" type="linux">&emulator_modeler_linux;</emulator_link>
+	</emulator_links>
+</author>

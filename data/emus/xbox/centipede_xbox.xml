@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="centipede_xbox" type="xbox" dat="Centipede_X-Box">
+	<name>Centipede for X-Box</name>
+	<version>?</version>
+	<date>29/11/2002</date>
+
+	<homepage>http://www.elotrolado.net/</homepage>
+	<author_link id="seagal">&author_seagal;</author_link>
+
+	<emulates>Centipede (Atari)</emulates>
+	<comment>Centipede emulator for the X-Box. It uses the OpenXDK libraries so it is freely available, unlike some other emulators on the X-Box.</comment>
+	<status>Released</status>
+
+	<tool_links>
+		<tool_link id="openxdk" type="gfx_libs">&tool_openxdk;</tool_link>
+	</tool_links>
+
+	<platform>X-Box</platform>
+
+	<controllers>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="centi.zip">Emulator</file>
+	</files>
+</emulator>

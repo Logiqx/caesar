@@ -1,0 +1,24 @@
+clrmamepro (
+	name "JAS-Super Pacman"
+	description "JAS-Super Pacman v1.01"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name superpac
+	description "Super Pac-Man (Midway)"
+	year 1982
+	manufacturer "[Namco] (Bally Midway license)"
+	rom ( name spc2-1c.bin size 8192 crc 1a38c30e sha1 ae0ee9f3df0991a80698fe745a7a853a4bb60710 )
+	rom ( name spc1-1b.bin size 8192 crc 730e95a9 sha1 ca73c8bcb03c2f5c05968c707a5d3f7f9956b886 )
+	rom ( name spv1-3c.bin size 4096 crc 78337e74 sha1 11222adb55e6bce508896ccb1f6dbab0c1d44e5b )
+	rom ( name spv2-3f.bin size 8192 crc 670a42f2 sha1 9171922df07e31fd1dc415766f7d2cc50a9d10dc )
+	rom ( name sp-3l.bin size 256 crc d4d7026f sha1 a486573437c54bfb503424574ad82655491e85e1 )
+	rom ( name sp-4e.bin size 256 crc 1253c5c1 sha1 df46a90170e9761d45c90fbd04ef2aa1e8c9944b )
+	rom ( name sp-4c.bin size 32 crc 9ce22c46 sha1 d97f53ef4c5ef26659a22ed0de4ce7ef3758c924 )
+	rom ( name spc3-1k.bin size 4096 crc 04445ddb sha1 ce7d14963d5ddaefdeaf433a6f82c43cd1611d9b )
+	rom ( name sp-snd.bin size 256 crc ad43688f sha1 072f427453efb1dda8147da61804fff06e1bc4d5 )
+)
+

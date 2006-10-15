@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="pacifi3d_linux" type="linux" dat="dummy">
+	<name>Pacifi3D (Linux)</name>
+	<version>0.3</version>
+	<date>10/04/2005</date>
+
+	<homepage>http://pacifi3d.retrogames.com/</homepage>
+	<author_link id="fosters">&author_fosters;</author_link>
+
+	<emulates>Namco's Puckman</emulates>
+	<comment>Pacifi3d is a proof-of-concept pacman emulator that replaces the original pacman sprites and tiles with OpenGL 3D graphics. Pacman draws graphics by requesting the hardware to draw a sprite or tile at a specified position in a certain colour. Pacifi3d replaces the 2D video emulation of a standard pacman emulator with code to draw an equivalent 3D model at that position. Having transformed the graphics output into 3D it is also possible to place the camera at the players position to simulate pacman from a 1st person perspective.</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+	</tool_links>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joypad</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="pacifi3d0.3-linux-i386.tgz">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="pacifi3d" type="single">&emulator_pacifi3d;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

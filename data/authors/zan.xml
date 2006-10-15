@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="zan">
+	<name>Zan</name>
+	<email>ben@netstra.com.au</email>
+	<emulator_links>
+		<emulator_link id="invmz" type="multi">&emulator_invmz;</emulator_link>
+	</emulator_links>
+</author>

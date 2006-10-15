@@ -1,0 +1,41 @@
+game (
+	name xevious
+	description "Xevious (Namco)"
+	year 1982
+	manufacturer "Namco"
+)
+
+game (
+	name gaplus
+	description "Gaplus (set 1)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name superpac
+	description "Super Pac-Man"
+	year 1982
+	manufacturer "Namco"
+)
+
+game (
+	name mappy
+	description "Mappy (US)"
+	year 1983
+	manufacturer "Namco"
+)
+
+game (
+	name grobda
+	description "Grobda (New version)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name drgnbstr
+	description "Dragon Buster"
+	year 1984
+	manufacturer "Namco"
+)

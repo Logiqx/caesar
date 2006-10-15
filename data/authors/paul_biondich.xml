@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="paul_biondich">
+	<name>Paul Biondich</name>
+	<email>syntax@atlantic.net</email>
+	<contribution_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+</author>

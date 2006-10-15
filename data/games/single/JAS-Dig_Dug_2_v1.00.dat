@@ -1,0 +1,25 @@
+clrmamepro (
+	name "JAS-Dig Dug 2"
+	description "JAS-Dig Dug 2 v1.00"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name digdug2
+	description "Dig Dug II (set 1)"
+	year 1985
+	manufacturer "Namco"
+	rom ( name ddug2-3.bin size 16384 crc be7ec80b sha1 a053274ffbf3200e9b89a8be1bd91744acb4a823 )
+	rom ( name ddug2-1.bin size 16384 crc 5c77c0d4 sha1 56709e5db1686fd996d21c1005accf34e2d863e1 )
+	rom ( name ddug2-4.bin size 8192 crc 737443b1 sha1 0e46204089cc6e5ffab0d2a62f9a1728f8c35948 )
+	rom ( name ddclr-5b.bin size 32 crc 9b169db5 sha1 77e840d10ab59708a051c3b15305b33d431ee06d )
+	rom ( name ddclr-4c.bin size 256 crc 55a88695 sha1 bd6bd641c9f220b6a2cc414a1117d5c089571400 )
+	rom ( name ddclr-5k.bin size 256 crc 1525a4d1 sha1 bbedb0cf5957671fca1229d38cb33086356813e1 )
+	rom ( name ddsnd.bin size 256 crc e0074ee2 sha1 f4f02977130110be52f4dd82fc3c0d02f45778b9 )
+	rom ( name ddug2-3m.bin size 16384 crc df1f4ad8 sha1 004fba630018dbf03c4b0e284c98077e19fface3 )
+	rom ( name ddug2-3n.bin size 16384 crc ccadb3ea sha1 77d8d8e6039272f73e63c8f76084138ec613365a )
+	rom ( name ddug2-3b.bin size 4096 crc afcb4509 sha1 c9a54df22b0b92efbe7417a00200587225906b46 )
+)
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="toki" type="single" dat="Toki">
+	<name>Toki</name>
+	<version>?</version>
+	<date>23/02/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="inigo_ayo">&author_inigo_ayo;</author_link>
+
+	<emulates>Toki (bootleg)</emulates>
+	<comment>Only loads up the ROMs and show the DIP switch menu.</comment>
+	<status>Discontinued</status>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="toki.zip">Emulator</file>
+	</files>
+</emulator>

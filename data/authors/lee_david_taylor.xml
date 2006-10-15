@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="lee_david_taylor">
+	<name>Lee David Taylor</name>
+	<email>qbert@defender.demon.co.uk</email>
+	<emulator_links>
+		<emulator_link id="qbert" type="single">&emulator_qbert;</emulator_link>
+	</emulator_links>
+</author>

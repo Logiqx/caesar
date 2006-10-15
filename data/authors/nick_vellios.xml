@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="nick_vellios">
+	<name>Nick Vellios</name>
+	<email>nick@squirrelsw.com</email>
+	<emulator_links>
+		<emulator_link id="astrofmu" type="mac">&emulator_astrofmu;</emulator_link>
+		<emulator_link id="centimu" type="mac">&emulator_centimu;</emulator_link>
+		<emulator_link id="centimupp" type="mac">&emulator_centimupp;</emulator_link>
+		<emulator_link id="invadersmu" type="mac">&emulator_invadersmu;</emulator_link>
+	</emulator_links>
+</author>

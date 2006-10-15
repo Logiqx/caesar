@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mulator" type="multi" dat="M-Ulator_v0.14">
+	<name>M-Ulator</name>
+	<version>0.14</version>
+	<date>27/06/1997</date>
+
+	<homepage status="bad">http://www.users.bigpond.com/mnm</homepage>
+	<author_link id="martin_scragg">&author_martin_scragg;</author_link>
+
+	<emulates>Galaga, DigDug, Bosconian and Xevious (all Namco)</emulates>
+	<comment>Author stopped work on this project to contribute to MAME</comment>
+	<status>Discontinued</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="M-ulator V0.14 [Dos].zip">Emulator</file>
+	</files>
+</emulator>

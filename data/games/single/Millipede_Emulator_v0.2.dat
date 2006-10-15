@@ -1,0 +1,21 @@
+clrmamepro (
+	name Millipede
+	description "Millipede Emulator v0.2"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name milliped
+	description "Millipede"
+	year 1982
+	manufacturer "Atari"
+	rom ( name 136013.106 size 2048 crc f4468045 sha1 602fcc7290f9f4eacb841c76665961ebf4307f80 )
+	rom ( name 136013.102 size 4096 crc 62e137e0 sha1 9fe40db55ba1d20d4f11704f7f5df9ff75b87f30 )
+	rom ( name 136013.103 size 4096 crc fb01baf2 sha1 9c1d0bbc20bf25dd21761a311fd1ed80aa029241 )
+	rom ( name 136013.104 size 4096 crc 40711675 sha1 b595d6a0f5d3c611ade1b83a94c3b909d2124dc4 )
+	rom ( name 136013.101 size 4096 crc 46752c7d sha1 ab06b1fd80271849946f90757b3837b617394929 )
+	rom ( name 136013.107 size 2048 crc 68c3437a sha1 4c7ea33d9501456ee8f5a642da7d6c972f2bb90d )
+)
+

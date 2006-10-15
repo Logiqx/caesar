@@ -1,0 +1,176 @@
+<a name="newsitem991298655,57042,"></a><h2>Thursday 31 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice 2.3.2</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:44AM [BST]</small>  </th></tr>  <tr><td> A new version of <a href="http://calice.emuunlim.com">Calice</a> has been released. It fixes the name of Street Fighter Zero and also fixes some sound ROMs.  </td></tr>  </table></p>
+<a name="newsitem991174045,53507,"></a><h2>Tuesday 29 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Pinball out of CAESAR</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:07PM [BST]</small>  </th></tr>  <tr><td> After some thought I have now taken Pinball related stuff out of CAESAR. This decision isn't based on arguments about simulation vs. emulation, it is because Pinball games are not arcade games. It would be nice to have a seperate site for pinball reference but as it is only of passing interest to me I can't justify spending my (scarce) time on it.  </td></tr>  </table></p>
+<a name="newsitem991169080,9972,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>VSyncMAME v0.37b15</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:44PM [BST]</small>  </th></tr>  <tr><td> VSyncMAME has been brought up to date again. It can be found on it's <a href="http://www.mameworld.net/suzuki2go/vsyncmame/index.html">home page</a> at MAMEWorld.  </td></tr>  </table></p>
+<a name="newsitem991167154,17127,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More JEmu Games</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:12PM [BST]</small>  </th></tr>  <tr><td> Jaydy has added 3 more games to his <a href="http://caesar.logiqx.com/html/emus/java/jemu.shtml">JEmu</a>.<br><br>+ drivers for Lizard Wizard, Pacman Plus and Space Invaders added.<br>+ scanlines added at larges display versions (which you can turn off as well as the anti-aliasing filter).<br>+ controls are now a bit more convenient (cursorkeys)<br>+ numerous bugfixes in the z80 core and i8080 emulation is now added.<br>  </td></tr>  </table></p>
+<a name="newsitem991090609,64375,"></a><h2>Monday 28 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice v0.3.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:56PM [BST]</small>  </th></tr>  <tr><td> David Raingeard has release Calice v0.3.0. You can get it from the <a href="http://calice.emuunlim.com">Calice home page</a>.  </td></tr>  </table></p>
+<a name="newsitem990955575,72338,"></a><h2>Sunday 27 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Aaron Giles Home Page</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:26AM [BST]</small>  </th></tr>  <tr><td> Aaron has created a little <a href="http://members.home.net/2giles/">home page</a> containing fixes for the new MAMEW (Aaron created MAMEW for those who don't know). All fixes will be included in the next beta but until then you can get the source changes from his page. He has also added a page for a freely distributable arcade game called Gridlee (again, it will be in the next release of MAME).  </td></tr>  </table></p>
+<a name="newsitem990955267,78067,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler Progress</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:21AM [BST]</small>  </th></tr>  <tr><td> New Rad Mobile and Out Runners snapshots have been added to the <a href="http://www.impactemu.com/modeler_gallery.php">Modeler gallery</a>. Both games are looking great!  </td></tr>  </table></p>
+<a name="newsitem990887914,6312,"></a><h2>Saturday 26 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Site Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:38PM [BST]</small>  </th></tr>  <tr><td> I've updated the site to MAME v0.37b15. <a href="http://caesar.logiqx.com/html/emus/multi/mame.shtml">MAMEW</a> is now considered the prime port.  </td></tr>  </table></p>
+<a name="newsitem990887823,52419,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New Site Address</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:37PM [BST]</small>  </th></tr>  <tr><td> It seems that the DNS changes are in affect for me so most of you should now be able to access this site with <a href="http://caesar.logiqx.com/">http://caesar.logiqx.com/</a> now.  </td></tr>  </table></p>
+<a name="newsitem990729354,78292,"></a><h2>Thursday 24 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME v0.37b15 Released</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:35PM [BST]</small>  </th></tr>  <tr><td> The new MAME beta that everyone has been waiting for is available at the <a href="http://www.mame.net">official site</a>. Head on over for your Win32 binary!  </td></tr>  </table></p>
+<a name="newsitem990645459,91598,"></a><h2>Wednesday 23 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>PinMAME News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:17PM [BST]</small>  </th></tr>  <tr><td> The <a href="http://pinmame.emuviews.com/home.html">PinMAME</a> site has posted news about sound now working in many of the games. Maybe there will be a new release in the near future...  </td></tr>  </table></p>
+<a name="newsitem990645400,92315,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>UPX v1.20</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:16PM [BST]</small>  </th></tr>  <tr><td> UPX has received an update. It is available at the <a href="http://wildsau.idv.uni-linz.ac.at/mfx/upx.html">UPX home page</a>.  </td></tr>  </table></p>
+<a name="newsitem990644414,31824,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula v1.4a</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:00PM [BST]</small>  </th></tr>  <tr><td> <a href="http://nebula.emulatronia.com">Nebula</a> received a minor update today. It fixes the slammasters background problems and also adds a volume control.  </td></tr>  </table></p>
+<a name="newsitem990565101,11568,"></a><h2>Tuesday 22 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME Wizard v2.0</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:58PM [BST]</small>  </th></tr>  <tr><td> <a href="http://web.tiscalinet.it/panther/mamewizard/news.html">MAME Wizard</a>, one of the best looking Windows frontends for MAME received a major update today. Why not give it a try?  </td></tr>  </table></p>
+<a name="newsitem990564956,55695,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>RomCenter 2.10</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:55PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.romcenter.com/">RomCenter</a> has received an upgrade today. Make sure you download a copy if you use RomCenter to organise your ROMs.  </td></tr>  </table></p>
+<a name="newsitem990520737,82945,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>U64Emu Future</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:38AM [BST]</small>  </th></tr>  <tr><td> There are a couple of postings over at the <a href="http://www.kiame.com">U64Emu</a> home page looking for new people to continue the project. Check it out for full details or if you think you can help.  </td></tr>  </table></p>
+<a name="newsitem990520454,34881,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:34AM [BST]</small>  </th></tr>  <tr><td> A new game has been added to Modeler... F1 Super Lap. Check out the <a href="http://www.impactemu.com">Modeler</a> hoe page for screenshots.  </td></tr>  </table></p>
+<a name="newsitem990399473,7746,"></a><h2>Sunday 20 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:57PM [BST]</small>  </th></tr>  <tr><td> There's plenty of news over at the <a href="http://www.impactemu.com/news.html">Modeler</a> home page.<br><br>Row and column scrolling has been added which is used for Arabian Fight's floor and the road in OutRunners. Check the gallery for new screenshots.<br><br>The missing/incorrect samples in the type A games, such as Golden Axe 2 and Spider-man, has been fixed. <br><br>The US version of Spider-man has been added.   </td></tr>  </table></p>
+<a name="newsitem990375022,29722,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 5:10PM [BST]</small>  </th></tr>  <tr><td> 17th May 2001: Luca Elia added Bang Bang Ball to the Metro driver.<br><br>18th May 2001: Bryan McPhail fixed the black spots in the background graphics of Puzzle Bobble 2 and 3. <br><br>19th May 2001: Aaron Giles re-added another Street Fighter: The Movie ROM set to the itech32 driver, and fixed the DIP switch settings in Shuffleshot. <br><br>20th May 2001: Guru added the World version to the Double Dragon 2 driver. <br><br>Screenshots are available at the <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page.  </td></tr>  </table></p>
+<a name="newsitem990365844,94788,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nebula v1.4</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 2:37PM [BST]</small>  </th></tr>  <tr><td> Nebula  v1.4 has been released and includes lots of great improvements. You can find it at the new <a href="http://nebula.emulatronia.com">Nebula home page</a>.  </td></tr>  </table></p>
+<a name="newsitem990263176,79606,"></a><h2>Saturday 19 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME.DK</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:06AM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.mame.dk">MAME.DK</a> is back for those of you who are too lazy to dump your own ROMs!  </td></tr>  </table></p>
+<a name="newsitem990263127,74341,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice v0.2.9</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:05AM [BST]</small>  </th></tr>  <tr><td> There's been a new release of <a href="http://calice.emuunlim.com/">Calice</a>. I'm out all day so I won't get to look at it until tomorrow.  </td></tr>  </table></p>
+<a name="newsitem990174380,83090,"></a><h2>Friday 18 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEW Performance</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:26AM [BST]</small>  </th></tr>  <tr><td> The MAME32 Q/A page has posted a useful summary on the performance of MAMEW based on OS, PPro/Standard build and colour depth.  </td></tr>  </table></p>
+<a name="newsitem990174205,6423,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:23AM [BST]</small>  </th></tr>  <tr><td> There's some more news over at the <a href="http://mimic.arcadeheaven.com/index.htm">Mimic</a> home page. GameBoy/SMS/System E emulation is improving and sound is accurate.  </td></tr>  </table></p>
+<a name="newsitem990145900,76197,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu Update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 1:31AM [BST]</small>  </th></tr>  <tr><td> <a href="http://dreamwater.net/tech/jemu/">JEmu</a> has received another game addition (Ms Pacman Plus). Also new is the introduction of large antialiased displays for people with fast machines.  </td></tr>  </table></p>
+<a name="newsitem990140596,32641,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>ClrMamePro v2.11</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:03AM [BST]</small>  </th></tr>  <tr><td> Roman released <a href="http://www.mameworld.net/clrmame/">ClrMamePro v2.11</a> yesterday. It now preserves file timestamps which is very useful to me (the timestamps are a great piece of evidence when trying to identify ROMs that have been redumped).  </td></tr>  </table></p>
+<a name="newsitem990140422,53625,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:00AM [BST]</small>  </th></tr>  <tr><td> 11th May 2001: Aaron Giles added an easier way to set names for buttons, and added Neck & Neck to the itech8 driver.<br><br>12th May 2001: Luca Elia added Go! Go! Mile Smile to the Puzzle Bancho driver.<br><br>13th May 2001: Bryan McPhail finally fixed the V20 / V30 cycle count bug which affected the speed in Raiden, R-Type and more. <br><br>14th May 2001: Stefan Jokisch fixed the sound in Atari Basketball. <br><br>15th May 2001: Dave Haywood added Ixion to the Zaxxon driver.<br><br>16th May 2001: Aaron Giles fixed a small bug in the C 68k core, and added Shuffleshot to the itech32 driver.<br><br>Quite a few snapshots are available at the <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page.  </td></tr>  </table></p>
+<a name="newsitem990059131,36485,"></a><h2>Thursday 17 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 1:25AM [BST]</small>  </th></tr>  <tr><td> There are some new screenshots over at the <a href="http://www.impactemu.com">Modeler</a> home page.  </td></tr>  </table></p>
+<a name="newsitem990044741,11139,"></a><h2>Wednesday 16 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mac Users</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:25PM [BST]</small>  </th></tr>  <tr><td> If anyone with a Mac is willing to work out which ROMs are needed for <a href="/html/emus/mac/yiear.shtml">Yie Ar Kung Fu</a> and <a href="/html/emus/mac/macmoon.shtml">MacMoon</a> I would find it most useful. If you think you can help out then please drop me an e-mail and I will explain what needs doing.  </td></tr>  </table></p>
+<a name="newsitem990044596,62977,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New Emulators</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:23PM [BST]</small>  </th></tr>  <tr><td> Added several new emulators to CAESAR:<br><br><a href="/html/emus/single/ace.shtml">ACE</a> (Final Fight Emulator for the PC)<br><a href="/html/emus/single/thenewzealandstory.shtml">The New Zealand Story</a> (PC)<br><a href="/html/emus/multi/domino.shtml">Domino</a> (Pacman for PC)<br><a href="/html/emus/mac/modeler_mac.shtml">Modeler</a> (Sega System 32 for the Mac)<br><a href="/html/emus/mac/macmoon.shtml">MacMoon</a> (classics for the Mac)<br><a href="/html/emus/mac/yiear.shtml">Yie Ar Kung Fu</a> (Mac)<br><a href="/html/emus/java/jemu.shtml">JEmu</a> (Pacman and Ms Pacman in Java)<br><a href="/html/emus/linux/xpinmame.shtml">XPinMAME</a> (PinMAME for Linux)  </td></tr>  </table></p>
+<a name="newsitem989883217,58572,"></a><h2>Tuesday 15 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Modeler/MacOS</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:33AM [BST]</small>  </th></tr>  <tr><td> Modeler v0.8.0 has been released for MacOS (a carbonized build). This version is well ahead of the Windows and Linux versions in terms of bugfixes and games supported so hopefully we'll see Windows and Linux releases soon. You can find the Mac version at <a href="http://www.bannister.org/software/">www.Bannister.org</a>.  </td></tr>  </table></p>
+<a name="newsitem989882579,38469,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>JEmu News</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:22AM [BST]</small>  </th></tr>  <tr><td> Jaydy has added Pacman to his JEmu and also improved the Ms PacMan driver (sprites now exhibit transparency and the colours are correct). To play the classic Pacman and Ms Pacman through your browser take a trip to the <a href="http://dreamwater.net/tech/jemu/">JEmu home page</a>.  </td></tr>  </table></p>
+<a name="newsitem989791634,5908,"></a><h2>Sunday 13 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New CPS Emulator</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:07PM [BST]</small>  </th></tr>  <tr><td> There's a new Capcom Play System emulator on the block called <a href="http://www.mycgiserver.com/~rollback/">A.C.E.</a> It only plays Final Fight at the moment but in due course will do other CPS games including CPS-2. There is no sound and there are some layer priority problems but it's looking good. The author has also released an emulator for The NewZealand Story.  </td></tr>  </table></p>
+<a name="newsitem989753428,14294,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice v0.2.8</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:30PM [BST]</small>  </th></tr>  <tr><td> David Raingeard has released a new version of Calice. You can find it over at the <a href="http://calice.emuunlim.com">Calice home page</a>.  </td></tr>  </table></p>
+<a name="newsitem989752627,79720,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAMEW Performance</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:17PM [BST]</small>  </th></tr>  <tr><td> John Hardy IV has posted some performance figures for the upcoming MAMEW at the <a href="http://www.classicgaming.com/mame32qa/mamew_bench.htm">MAME32 Q/A site</a>.  </td></tr>  </table></p>
+<a name="newsitem989683767,37823,"></a><h2>Saturday 12 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Dave Interviewed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 5:09PM [BST]</small>  </th></tr>  <tr><td> JoseQ has done an interview with Dave of Final Burn. It makes for quite an interesting read so head on to <a href="http://www.emuviews.com">EmuViews</a> for it.  </td></tr>  </table></p>
+<a name="newsitem989683569,55120,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Some Updates...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 5:06PM [BST]</small>  </th></tr>  <tr><td> Added snapshots for <a href="/html/emus/multi/hive.shtml">HiVE</a> (thanks to Leslaw) and found a newer version of <a href="/html/emus/sound/mmsnd.shtml">MMSND</a> (v0.36 b10).  </td></tr>  </table></p>
+<a name="newsitem989673415,35393,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mimic WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 2:16PM [BST]</small>  </th></tr>  <tr><td> Lots of good news for Mimic. Hang-on Jr is now looking really good and the 256K memory limit is now overcome using page files. Go and take a look at the Mimic <a href="http://mimic.arcadeheaven.com/">WIP page</a>.  </td></tr>  </table></p>
+<a name="newsitem989535829,10611,"></a><h2>Friday 11 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 12:03AM [BST]</small>  </th></tr>  <tr><td> There's been a large <a href="http://www.mame.net/wipcurrent.html">WIP update</a> at the MAME page. Head on over for a read!  </td></tr>  </table></p>
+<a name="newsitem989520355,2433,"></a><h2>Thursday 10 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Final Burn v0.114</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:45PM [BST]</small>  </th></tr>  <tr><td> Dave has released one last version of <a href="http://www.finalburn.com/">Final Burn</a>. The only change is that it lists the games alphabetically.  </td></tr>  </table></p>
+<a name="newsitem989496613,95139,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Emulator WIP</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 1:10PM [BST]</small>  </th></tr>  <tr><td> JoseQ has posted some interesting screen shots in his latest <a href="http://www.emuviews.com/cgi-local/show.cgi?SERIAL=3063&LANG=en_US">rumour mill</a>. Arcade related points are emulation of the 1979 game Monaco GP and Namco's Gun Bullet (a modern shooter but the sprites aren't yet emulated).  </td></tr>  </table></p>
+<a name="newsitem989435250,53548,"></a><h2>Wednesday 9 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ms PacMan goes web!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:07PM [BST]</small>  </th></tr>  <tr><td> Jaydy has created a Ms PacMan emulator that will run in your web browser. This new Java based emulator can be found at <a href="http://dreamwater.net/tech/jemu">http://dreamwater.net/tech/jemu</a>  </td></tr>  </table></p>
+<a name="newsitem989348216,78367,"></a><h2>Tuesday 8 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Genital v0.35</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:56PM [BST]</small>  </th></tr>  <tr><td> Bart has updated his 68K core and released <a href="/html/libs/cpu/genital68k.shtml">Genital v0.35</a>. This is only really of interest to emulator programmers rather than game players.  </td></tr>  </table></p>
+<a name="newsitem989348143,965,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I'm Back!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:55PM [BST]</small>  </th></tr>  <tr><td> Well, after the server move I've been unable to post news but it's working again now. CAESAR is also working at the previous address (<a href="http://www.logiqx.com/caesar">http://www.logiqx.com/caesar</a>) now.  </td></tr>  </table></p>

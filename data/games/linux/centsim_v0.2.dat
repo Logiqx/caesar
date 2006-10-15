@@ -1,0 +1,22 @@
+game (
+	name centiped
+	description "Centipede (revision 3)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name 136001.307 size 2048 crc 5ab0d9de sha1 8ea6e3304202831aabaf31dbd0f970a7b3bfe421 offs 2000 )
+	rom ( name 136001.308 size 2048 crc 4c07fd3e sha1 af4fdbf32c23b1864819d620a874e7f205da3cdb offs 2800 )
+	rom ( name 136001.309 size 2048 crc ff69b424 sha1 689fa560d40a384dcbcad7c8095bc12e91875580 offs 3000 )
+	rom ( name 136001.310 size 2048 crc 44e40fa4 sha1 c557db83876afc8ab52047ab1a3c3bfef34d6351 offs 3800 )
+)
+
+game (
+	name milliped
+	description "Millipede"
+	year 1982
+	manufacturer "Atari"
+	rom ( name 136013.104 size 4096 crc 40711675 sha1 b595d6a0f5d3c611ade1b83a94c3b909d2124dc4 offs 4000 )
+	rom ( name 136013.103 size 4096 crc fb01baf2 sha1 9c1d0bbc20bf25dd21761a311fd1ed80aa029241 offs 5000 )
+	rom ( name 136013.102 size 4096 crc 62e137e0 sha1 9fe40db55ba1d20d4f11704f7f5df9ff75b87f30 offs 6000 )
+	rom ( name 136013.101 size 4096 crc 46752c7d sha1 ab06b1fd80271849946f90757b3837b617394929 offs 7000 )
+)
+

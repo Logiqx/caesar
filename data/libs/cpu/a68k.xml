@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="a68k" type="cpu">
+	<name>A68K (Assembly 68K core)</name>
+	<version>?</version>
+	<date>16/06/2001</date>
+
+	<homepage>http://www.finalburn.com/</homepage>
+	<author_link id="mike_coates">&author_mike_coates;</author_link>
+
+	<emulates>Motorola 68000/68010/68020</emulates>
+	<comment>The 68000 core used by MAME.</comment>
+
+	<emulator_links>
+		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+		<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+	</emulator_links>
+
+	<tool_links>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+	</tool_links>
+
+	<files>
+		<file name="a68k.zip">Emulator</file>
+	</files>
+</library>

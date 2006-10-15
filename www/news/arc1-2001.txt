@@ -1,0 +1,850 @@
+<h2>Wednesday 28 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.108</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  28 February 2001, 00:10 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There was another release of <a href="http://www.finalburn.com/">Final Burn</a> yesterday, adding back support for X-Men (Jap). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  28 February 2001, 00:12 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> update from yesterday (sorry, I was occupied). 27th February 2001: Nicola Salmoria added Puzzli to the Metro driver. Zsolt Vasvari fixed a missing sound in Carnival. Uki fixed CPU speeds in Nemesis hardware games, and he added another Salamander romset. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Ultracade Game Packs</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  28 February 2001, 00:14 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+There have been two new game packs added to <a href="http://www.ultracade.com">Ultracade</a>... Jaleco Classics 1 and STERN Classics. If you don't know what Ultracade is then head on over and read the site. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  28 February 2001, 09:14 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+More news and snapshots on the <a href="http://www.mame.net/wip">MAME WIP</a> page. 28th February 2001: Nicola Salmoria added Bounty to the Orca driver, and he improved the Neo Geo raster effects emulation. Phil Stroffolino added Dynamic Ski to the Shanghai Kid driver, but it lacks correct colors. Jarek Burczynski re-added Sonic Blast Man to the Taito B driver. 
+</td></tr>
+
+</table><br>
+ 
+<h2>Monday 26 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  26 February 2001, 09:20 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page gets updated regularly nowadays. There are quite a few additions and fixes in this update, including savestate support (although it needs every driver updating). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.107</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  26 February 2001, 14:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com">Final Burn v1.07</a> has been released, adding support for the US version of X-Men: Children of the Atom and Street Fighter 2. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>VAntAGE v1.11</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  26 February 2001, 14:20 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.mameworld.net/pc2jamma/vantage.html">VAntAGE v1.11</a> has been released, adding full MAME ROM compatibility and a few other fixes. 
+</td></tr>
+
+</table><br>
+<h2>Sunday 25 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn 0.106</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  25 February 2001, 02:51 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com">Final Burn v0.106</a> has been released, adding support for Final Fight (CPS-1 game) and various fixes since v0.104. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  25 February 2001, 02:53 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page has been updated. 24th February 2001: David Graves fixed a few graphics glitches in the newest Taito drivers and integrated insideoutboy's Space Gun target crosshair code in. Nicola Salmoria added Hotdog Storm to the Cave driver. J&uuml;rgen Buchm&uuml;ller sent another DECO Cassette system driver update with a few bugfixes. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 24 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 February 2001, 02:27 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Some more news over at the <a href="http://www.mame.net/wip">MAME WIP</a> page. David Haywood improved the Red Clash sprite decoding on the driver started by 'inkling', but the game is far from playable. Logiqx submitted some fixes to the -listinfo output.  
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.104</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  24 February 2001, 02:28 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com">Final Burn</a> received an update to the CPS-1 sound support (now complete) and a fix for CPS-2 speed. 
+</td></tr>
+
+</table><br>
+<h2>Thursday 22 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 February 2001, 12:02 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page has been updated again but with some screenshots this time. J&uuml;rgen Buchm&uuml;ller added Bigfoot Bonkers to the Lazer Command driver. Nicola Salmoria got Chequered Flag working, but background / sprite graphics priority control is not implemented yet. Bryan McPhail and David Graves wrote a driver for Taito Super Z system, with support for Super Chase, Gunbuster and Under Fire. Aaron Giles fixed a bug in the analog port input system which sometimes caused analog inputs to jump quickly between the minimum and maximum values. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>EMAME v1.1</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 February 2001, 13:16 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/psion/emame.shtml">EMAME</a> (MAME for the Psion EPOC32) has been updated to version 1.1. This version adds sound and many new games. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Update</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  22 February 2001, 13:17 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Updated CAESAR for the recent <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.103</a> release and the many MAME variants that have been released following MAME v0.37b12. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 21 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  21 February 2001, 21:54 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wipcurrent.html">MAME WIP</a> page had an update for the past few days work. J&uuml;rgen Buchm&uuml;ller fixed some memory corrupting bugs in the Burger Time and DECO Cassette system drivers. Nicola Salmoria added buffering to the keyboard input code, allowing more than two keypresses at the same time. This fixes Zangief's spin in Street Fighter 2. Karl Stenerud fixed some 68k disassembler bugs. Karl Stenerud fixed some 68k disassembler bugs. Nicola Salmoria added Sadari into the Dooyong driver. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.103</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  21 February 2001, 21:56 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a a href="http://www.finalburn.com/">Final Burn v1.03</a> was released, adding Super Street Fighter 2 Turbo, changing SSF2 to use the new XOR and a couple of minor fixes. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>SMOG WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  21 February 2001, 21:57 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The SMOG emulator now has sound running for Virtua Racer. Read about it in JoseQ's <a href="http://www.emuviews.com/cgi-local/show.cgi?SERIAL=2850&LANG=en_US">Rumour Mill</a>. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 20 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>UPX v1.07</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 February 2001, 14:20 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of the <a href="http://wildsau.idv.uni-linz.ac.at/mfx/upx.html">Ultimate Packer for eXecutables</a> has been released. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>StretchMAME32</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  20 February 2001, 14:23 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new unofficial version of MAME32 has been released. <a href="http://www.geocities.co.jp/SiliconValley-Oakland/9273/">StretchMAME32</a> stretches all games to full screen on Windows machines. Very nice! 
+</td></tr>
+
+</table><br>
+<h2>Monday 19 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  19 February 2001, 00:41 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP<a/> page has been updated. E. Watanabe fixed the ASM 68k core to work with Namco System 2 and Taito F3 sound. Bernd Wiebelt fixed the 32-bit MMX blitting routines. Phil Stroffolino sent in an almost completely working Shanghai Kid driver. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn 0.102</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  19 February 2001, 00:42 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com">FInal Burn v1.02</a> has been released, adding support for Street Fighter Alpha 2. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 17 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.101</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 February 2001, 02:46 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another release of <a href="http://www.finalburn.com">Final Burn</a>, adding support for Alien vs Predator and also now using the MAME ROM sets. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler v0.1.1a</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 February 2001, 02:47 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new release of <a href="http://www.impactemu.com/">Modeler</a>. This version fixes some slowdown problems and also some graphics mode detection fixes. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME v0.37 b12 fix</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 February 2001, 13:42 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another version of <a href="http://www.mame.net">MAME</a> has been released, adding the assembler 68k core and fixing some QSound problems in CPS-2 games. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MIMIC WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 February 2001, 13:43 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Mike Beaver has posted some news on the <a href="http://mimic.arcadeheaven.com">Mimic</a> homepage. He has now added Space Invaders to Mimic and has other interesting news to share. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  17 February 2001, 13:45 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Some <a href="http://www.mame.net/wip">WIP</a> news has been posted at the MAME home page. Some of it was included in todays 'fixed' build. 
+</td></tr>
+
+</table><br>
+<h2>Friday 16 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.100</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  16 February 2001, 15:22 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Three versions of <a href="http://www.finalburn.com">Final Burn</a> have been released. They add back the original CPS-2 games along with Super Street Fighter 2 and Marvel Super Heroes. 
+</td></tr>
+
+</table><br>
+<h2>Thursday 15 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler 0.1.1</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  15 February 2001, 12:39 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi/modeler.shtml">Modeler v0.1.1</a> has been released, adding Virtua Racing and Virtua Fighter from the Model 1 version of Modeler (v0.0.6). Arabian Fight has also been added. Up to date in CAESAR (with snapshots). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME v0.37b12</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  15 February 2001, 15:37 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.mame.net">MAME v0.37b12</a> has been released, adding loads of games (amongst which are those CPS-2 games you seem so keen on). I'm currently rebuilding CAESAR accordingly and will hopefully upload within the next hour. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Update</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  15 February 2001, 16:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Updated CAESAR for MAME v0.37b12. Around 1400 pages have been added or changed! 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 14 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Updates</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  14 February 2001, 11:54 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another update for the recent releases: <a href="/html/emus/multi/modeler.shtml">Modeler v0.1.0a</a>, <a href="/html/emus/multi/calice.shtml">Calice v0.1.0</a>, <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.097</a>, <a href="/html/emus/multi/impact.shtml">Glide Renderer for Impact</a>, <a href="/html/libs/cpu/genital68k.shtml">Genital68K v0.22</a> and <a href="/html/emus/linux/xmame.shtml">XMAME v0.37b11.2</a>. <a href="/html/authors/barry_rodewald.shtml">Barry Rodewald</a> has now moved to EmuUnlim now as well. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  14 February 2001, 15:48 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another day, another <a href="http://www.mame.net/wip">WIP</a> update. J&uuml;rgen Buchm&uuml;ller improved the sound CPU communication in the DECO Cassette system driver and added Boulder Dash - the original version. With Nicola Salmoria's help, he also fixed some 6808 CPU core bugs that prevented Fire Truck from working. Olivier Galibert fixed a small bug in the K054539 sound chip emulation that caused a few missing sounds in X-men. Quench fixed the Toaplan1 games to work correctly in 16bpp mode. Andrea Mazzoleni added a nice filtering sound resampling algorithm for the driver that do not produce sound at the requested sample rate. 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 13 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  13 February 2001, 15:24 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page has been updated to show todays news. Shiriru fixed some glitches in the Cave driver and sped up sprite handling. Luca Elia added Ultra Balloon to the Back Street Soccer driver. Take a look at the actual page for screenshots. 
+</td></tr>
+
+</table><br>
+<h2>Monday 12 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Calice 0.1.0</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 February 2001, 11:28 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="http://diesel.planet-d.net/BeGameboy/capcom.html">Calice</a> has been released, adding six new games (although three are not mentioned as they are non-working). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Modeler 0.1.0</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 February 2001, 11:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The first release of <a href="http://www.impactemu.com/">Modeler</a> for a while has just been released. This is the first release after R. Belmont started working on it with Farfetch'd. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn 0.097</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 February 2001, 11:31 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com/">Final Burn</a> has gone back to it's roots and removed CPS-1 and CPS-2 support. Dave will now be focusing on getting the Sega games emulated correctly. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CPS-2 News</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 February 2001, 11:32 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://cps2shock.retrogames.com">CPS2Shock</a> has posted an update about the future of CPS-2 emulation. Don't worry, life will go on without CPS-2 in Final Burn! 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  12 February 2001, 15:31 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page has been upadted to show the last few days work. Amongst the things mentioned are fixes to the PC relative addressing in the 68K core (that'll be CPS-2 related), tilemap improvements and several new games including Robocop 2. 
+</td></tr>
+
+</table><br>
+<h2>Sunday 11 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>RAINE v0.30a</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  11 February 2001, 12:45 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi/raine.shtml">RAINE v0.30a</a> has been rleased for DOS and Linux. Updated details are now in CAESAR. 
+</td></tr>
+
+</table><br>
+<h2>Saturday 10 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Davey taking a breather</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 February 2001, 03:21 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Geez, I just looked at the CPS-2 message board and the world has gone mad whilst waiting for a new Final Burn! Davey has posted his <a href="http://www.retrogames.com/cgi-bin/wwwthreads/showpost.pl?Board=cps2&Number=8708&page=0&view=expanded&mode=threaded&sb=7#Post8708">views</a> on the future of Final Burn and I fully understand his sentiments. Dave has pioneered the emulation of CPS-2 and what he has discovered will be incorporated into MAME in due course. There is no need for Dave to be slave to the masses who want every CPS-2 game emulated asap. Just chill out and give him a break... 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>CAESAR Updates</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 February 2001, 06:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Caught up with the recent updates of <a href="/html/emus/multi/vantage.shtml">VAntAGE v1.1</a> and <a href="/html/emus/multi/calice.shtml">Calice v0.0.8</a>. There was also a new version of <a href="/html/libs/cpu/musashi.shtml">Musashi</a> (v3.3.1), the 68000/68020 core used by MAME. Lastly, I updated some of the home page links that have changed recently. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  10 February 2001, 14:23 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Another day, another <a href="http://www.mame.net/wip">WIP</a> update. 10th Feb: Gerardo Oporto fixed dip switch settings in Taito B system and Ninja Warriors drivers. David Haywood added Cuby Bop and a few clone romsets to the Taito L system driver, and another Mr. Do! Run Run romset to the Mr Do's Castle driver. 
+</td></tr>
+
+</table><br>
+<h2>Friday 09 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Not much news</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  09 February 2001, 12:03 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://mimic.arcadeheaven.com">Mimic</a> home page has a small WIP about analogue controls being added and Mickey McMurray is now working on emulating discrete systems (see the <a href="http://www.laseremu.com">Laser</a> home page). No sign of a new Final Burn for playing Super Street Fighter 2, I guess Dave is either busy or teasing us. :) 
+</td></tr>
+
+</table><br>
+<h2>Thursday 08 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Calice v0.0.8</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 February 2001, 14:28 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been released, adding another 4 games and sound support too. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  08 February 2001, 14:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page seems to get updated daily. Head on over to read todays news. 
+</td></tr>
+
+</table><br>
+<h2>Wednesday 07 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Latest WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  07 February 2001, 15:18 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Bothe the <a href="http://www.rainemu.com/html/wip.html">RAINE</a> and <a href="http://www.mame.net/wip/">MAME</a> wip pages have news for you. Go take a look... 
+</td></tr>
+
+</table><br>
+<h2>Tuesday 06 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>VAntAGE v1.1</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  06 February 2001, 10:26 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.mameworld.net/pc2jamma/vantage.html">VAntAGE</a> has received a big update, adding an additional 52 games, removing the need for so many samples and many other great improvements. Check it out. 
+</td></tr>
+
+</table><br>
+<h2>Monday 05 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Calice v0.0.7</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  05 February 2001, 13:06 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been released, adding support for another 9 CPS-1 games. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn v0.096</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  05 February 2001, 13:07 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> had another update, adding support for a second version of X-Men. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>EMU+ v0.37 b11</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  05 February 2001, 13:08 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="/html/emus/multi2/emuplus.shtml">EMU+</a> got it's first update since MAME changed it's memory handler in v0.37b8. Check it out for extra features added to MAME. 
+</td></tr>
+
+</table><br>
+<h2>Sunday 04 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Recent WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  04 February 2001, 15:25 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://mimic.arcadeheaven.com">Mimic</a> posted some news about how Riddle is coming on. MAME posted news about recent <a href="http://www.mame.net/wip">progress</a> including Street Fighter the Movie and PC relative mode being added to the 68k core (this is needed for CPS-2 emulation btw). 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Final Burn</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  04 February 2001, 15:27 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+<a href="http://www.finalburn.com">Final Burn</a> is now up to v0.096. Check out the home page for information about what's included (another version of X-Men is one thing). 
+</td></tr>
+
+</table><br>
+<h2>Friday 02 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>MAME WIP</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 February 2001, 00:17 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+The <a href="http://www.mame.net/wip">MAME WIP</a> page has added some news mainly relating to sound fixes and a new tilemap system. 
+</td></tr>
+
+</table><br>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Massive Update!</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  02 February 2001, 11:49 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+Wow, almost 600 pages updated tonight! <a href="/html/emus/multi/raine.shtml">RAINE</a>, <a href="/html/emus/multi/raine32.shtml">RAINE32</a> and <a href="/html/emus/linux/raine_linux.shtml">RAINE for Linux</a> had a big release yesterday. Also released were <a href="/html/emus/multi/laser.shtml">Laser v0.16 (special)</a> and <a href="/html/emus/multi/calice.shtml">Calice v0.0.6</a>. Several releases of <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> have passed by in the last few days and I'm sure there'll be more where they came from! Also updated have been <a href="/html/emus/wince/mameboy.shtml">MAMEBoy</a> and <a href="/html/emus/wince/mamecepod.shtml">MAMECePod</a> had updates. <a href="/html/emus/multi2/vsyncmame.shtml">VSyncMAME</a> has moved to MAMEWorld and <a href="/html/emus/single/wingorf.shtml">WinGorf</a> has moved to EmuUnlim. 
+</td></tr>
+
+</table><br>
+<h2>Thursday 01 February</h2>
+<table class="news">
+
+<colgroup><!--Nutscrape--></colgroup>
+
+<tr><th><strong>Busy!</strong><br/>
+<small>Posted by logiqx (<a href="http://www.logiqx.com">http://www.logiqx.com</a>)-  01 February 2001, 14:29 (PST)</small>
+
+</th></tr>
+
+<tr><td>
+<br>
+I am completely bogged down here (far too much to do) so emu stuff will have to wait for a day. Big news for today is the first release of <a href="http://www.rainemu.com/">RAINE</a> since August, several releases of <a href="http://www.finalburn.com">Final Burn</a> (adding X-Men and sound to CPS-1) plus another release of <a href="http://diesel.planet-d.net/BeGameboy/capcom.html">Calice</a> (adding several more games). 
+</td></tr>
+
+</table><br>

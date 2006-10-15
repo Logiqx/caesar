@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="bass" type="snd_libs">
+	<name>BASS</name>
+	<version>1.5a</version>
+	<date>14/04/2002</date>
+
+	<homepage>http://www.un4seen.com/music/</homepage>
+	<author_link id="ian_luck">&author_ian_luck;</author_link>
+
+	<comment>BASS is a sound system for use in Windows 95/98/2000/NT software. It's purpose is to provide powerful (yet easy to use) sample, stream, MOD music, and audio CD playback functions.</comment>
+
+	<emulator_links>
+		<emulator_link id="wingorf" type="single">&emulator_wingorf;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="bass15.zip">BASS Distribution</file>
+	</files>
+</tool>

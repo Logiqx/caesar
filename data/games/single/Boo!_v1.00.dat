@@ -1,0 +1,41 @@
+clrmamepro (
+	name Boo!
+	description "Boo! v1.00"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name gng
+	description "Ghouls'n Ghosts (World)"
+	year 1988
+	manufacturer "Capcom"
+	rom ( name ghl29.bin size 131072 crc 166a58a2 sha1 f21fcf88d2ebb7bc9e8885fde760a5d82f295c1a )
+	rom ( name ghl30.bin size 131072 crc 7ac8407a sha1 3613699213db47bfeabedf87f12eb0fa7e5973b6 )
+	rom ( name ghl27.bin size 131072 crc f734b2be sha1 fa230bf5503487ec11d767485a18f0a55dcc13d2 )
+	rom ( name ghl28.bin size 131072 crc 03d3e714 sha1 a07786062358c89f3b4634b8822173261802290b )
+	rom ( name ghl17.bin size 524288 crc 3ea1b0f2 sha1 c51f1c38cdaed77ad715cedd845617a291ab2441 )
+	rom ( name ghl6.bin size 524288 crc 4ba90b59 sha1 35bc9dec5ddbf064c30c951627581c16764456ac )
+	rom ( name ghl11.bin size 65536 crc 37c9b6c6 sha1 b2bb82537e335339846dbf9588cfacfdbdd75ee6 )
+	rom ( name ghl20.bin size 65536 crc 2f1345b4 sha1 14c450abcf9defa29c6f48e5ffd0b9d1e4a66a1d )
+	rom ( name ghl12.bin size 65536 crc da088d61 sha1 67229eff2827a42af97a60ceb252e132e7f307bc )
+	rom ( name ghl21.bin size 65536 crc 17e11df0 sha1 42fb15e9300b07fc5f4bc21744484869859b130c )
+	rom ( name ghl5.bin size 524288 crc 0ba9c0b0 sha1 c4945b603115f32b7346d72426571dc2d361159f )
+	rom ( name ghl09.bin size 65536 crc ae24bb19 sha1 aa91c6ffe657b878e10e4e930457b530f7bb529b )
+	rom ( name ghl18.bin size 65536 crc d34e271a sha1 55211fc2861dce32951f41624c9c99c09bf3b184 )
+	rom ( name ghl10.bin size 65536 crc bcc0f28c sha1 02f587aa4ae71631f27b0e3aaf1829cdded1bdc2 )
+	rom ( name ghl19.bin size 65536 crc 2a40166a sha1 dc4e75d7ed87ae5386d721a09113bba364740465 )
+	rom ( name ghl8.bin size 524288 crc 4bdee9de sha1 7d0c4736f16577afe9966447a18f039728f6fbdf )
+	rom ( name ghl15.bin size 65536 crc 3c2a212a sha1 f8fa0e0e2d09ea37c54d1c2493752b4e97e3f534 )
+	rom ( name ghl24.bin size 65536 crc 889aac05 sha1 9301dcecee699e7f7672bb498122e1f4831ce536 )
+	rom ( name ghl16.bin size 65536 crc f187ba1c sha1 6d9441d04ecef2a9d9c7a2cc7781acd7904c2061 )
+	rom ( name ghl25.bin size 65536 crc 29f79c78 sha1 26000a58454a06c3016f99ebc3a79c52911a7070 )
+	rom ( name ghl7.bin size 524288 crc 5d760ab9 sha1 212176947933fcfef991bc80ad5bd91718689ffe )
+	rom ( name ghl13.bin size 65536 crc 3f70dd37 sha1 9ecb4dec9d131e9fca15ded7d71986a9fcb62c19 )
+	rom ( name ghl22.bin size 65536 crc 7e69e2e6 sha1 4e0b4d2474beaa5c869c8f1a91893c79ac6e7f39 )
+	rom ( name ghl14.bin size 65536 crc 20f85c03 sha1 86385139a9b42270aade758bfe338525936f5671 )
+	rom ( name ghl23.bin size 65536 crc 8426144b sha1 2dbf9625413b302fcdad5bef8733a9dfbfaead52 )
+	rom ( name ghl26.bin size 65536 crc 3692f6e5 sha1 61b8438d60a39b4cf5062dff0a53228e8a4e4b5f )
+)
+

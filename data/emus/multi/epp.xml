@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="epp" type="multi" dat="E++_v1.03">
+	<name>E++</name>
+	<version>1.03</version>
+	<date>02/09/1997</date>
+
+	<homepage>http://www.guybrush.demon.co.uk/e/</homepage>
+	<author_link id="james_sutherland">&author_james_sutherland;</author_link>
+
+	<emulates>Space Invaders, Phoenix, Pleiads, Lunar Rescue and Centipede</emulates>
+	<comment>Also emulates the Sinclair Spectrum!</comment>
+	<status>No longer developed</status>
+
+	<cpu_links>
+		<library_link id="z80" type="cpu">&library_z80;</library_link>
+		<library_link id="m6502" type="cpu">&library_m6502;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Some Games</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="e103.zip">Emulator</file>
+	</files>
+</emulator>

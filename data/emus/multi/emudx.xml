@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="emudx" type="multi" dat="EmuDX_v1.0">
+	<name>EmuDX</name>
+	<version>1.0</version>
+	<date>29/01/2000</date>
+
+	<homepage status="bad">http://emudx.emuviews.com/</homepage>
+	<author_link id="mike_green">&author_mike_green;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="neil_bradley">&author_neil_bradley;</author_link>
+			<comment>Z80, M6502 and 6809 CPU Emulation. Additional Program code. Optimisation and general guidelines. Controller routines</comment>
+		</contributor>
+		<contributor>
+			<author_link id="deakin_scott">&author_deakin_scott;</author_link>
+			<comment>In-Game Music + Sound effects</comment>
+		</contributor>
+		<contributor>
+			<author_link id="vega_x">&author_vega_x;</author_link>
+			<comment>Lead Graphic artist</comment>
+		</contributor>
+		<contributor>
+			<author_link id="martin_liguori">&author_martin_liguori;</author_link>
+			<comment>In-Game Music</comment>
+		</contributor>
+		<contributor>
+			<author_link id="jorgen_bredskov">&author_jorgen_bredskov;</author_link>
+			<comment>Game sound effects</comment>
+		</contributor>
+		<contributor>
+			<author_link id="rodimus_prime">&author_rodimus_prime;</author_link>
+			<comment>Pentium and AMD optimised versions</comment>
+		</contributor>
+		<contributor>
+			<author_link id="don_quirin">&author_don_quirin;</author_link>
+			<comment>Graphics (MoonCresta)</comment>
+		</contributor>
+		<contributor>
+			<author_link id="andy_fielding">&author_andy_fielding;</author_link>
+			<comment>Musical intro for Pacman</comment>
+		</contributor>
+		<contributor>
+			<author_link id="jay_lanagan">&author_jay_lanagan;</author_link>
+			<comment>Sound effects (Pacman + Ms. Pacman)</comment>
+		</contributor>
+		<contributor>
+			<author_link id="xraves">&author_xraves;</author_link>
+			<comment>Sound effects</comment>
+		</contributor>
+		<contributor>
+			<author_link id="djjeremy">&author_djjeremy;</author_link>
+			<comment>Sound effects</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Donkey Kong, Frogger, Galaxian, Pacman, Ms Pacman</emulates>
+	<comment>Enhances these classic games with better graphics and sound</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="emudx1.zip">Emulator</file>
+		<file name="dkongg.zip">Donkey Kong Graphics</file>
+		<file name="dkongm.zip">Donkey Kong Music</file>
+		<file name="froggerg.zip">Frogger Graphics</file>
+		<file name="froggerm.zip">Frogger Music</file>
+		<file name="galdxg.zip">Galaxian Graphics</file>
+		<file name="galdxm.zip">Galaxian Music</file>
+		<file name="mspacmang.zip">MsPacman Graphics</file>
+		<file name="mspacmanm.zip">MsPacman Music</file>
+		<file name="pacmang.zip">Pacman Graphics</file>
+		<file name="pacmanm.zip">Pacman Music</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		</predecessors>
+
+		<ports>
+			<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

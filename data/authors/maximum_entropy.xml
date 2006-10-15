@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="maximum_entropy">
+	<name>Maximum Entropy</name>
+	<email>entropy@tappedin.com</email>
+	<email>entropy@zippy.bernstein.com</email>
+	<contribution_links>
+		<emulator_link id="xcade" type="multi">&emulator_xcade;</emulator_link>
+		<emulator_link id="xcade_unix" type="linux">&emulator_xcade_unix;</emulator_link>
+	</contribution_links>
+</author>

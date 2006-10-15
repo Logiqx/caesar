@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="lionel_theunissen">
+	<name>Lionel Theunissen</name>
+	<email>lionelth@ozemail.com.au</email>
+	<contribution_links>
+		<emulator_link id="crazy_climber" type="single">&emulator_crazy_climber;</emulator_link>
+	</contribution_links>
+</author>

@@ -1,0 +1,6 @@
+game (
+	name lwings
+	description "Legendary Wings (US set 1)"
+	year 1986
+	manufacturer "Capcom"
+)

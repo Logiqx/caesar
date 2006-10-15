@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="multi6809" type="cpu">
+	<name>Multi-6809 32 Bit emulator</name>
+	<version>0.01</version>
+	<date>18/11/1997</date>
+
+	<homepage>ftp://ftp.synthcom.com/pub/emulators/cpu/</homepage>
+	<author_link id="patrick_lawrence">&author_patrick_lawrence;</author_link>
+
+	<emulates>6809</emulates>
+	<comment>Written in x86 assembler and very fast</comment>
+
+	<emulator_links>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		<emulator_link id="rockulator" type="multi">&emulator_rockulator;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="m6809.zip">Emulator</file>
+	</files>
+</library>

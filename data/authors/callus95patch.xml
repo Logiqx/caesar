@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="callus95patch">
+	<name>Callus95 Patch Author</name>
+	<email>cps2shock@retrogames.com</email>
+	<emulator_links>
+		<emulator_link id="callus95patch" type="multi">&emulator_callus95patch;</emulator_link>
+	</emulator_links>
+</author>

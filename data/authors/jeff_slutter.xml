@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="jeff_slutter">
+	<name>Jeff Slutter</name>
+	<email>tmntemu@hotmail.com</email>
+	<emulator_links>
+		<emulator_link id="tmnt" type="single">&emulator_tmnt;</emulator_link>
+	</emulator_links>
+</author>

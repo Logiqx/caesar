@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="libpng" type="gfx_libs">
+	<name>libpng</name>
+	<version>1.2.8</version>
+	<date>02/12/2004</date>
+
+	<homepage>http://www.libpng.org/pub/png/libpng.html</homepage>
+	<author_link id="libpng">&author_libpng;</author_link>
+
+	<comment>libpng is the official PNG reference library. It supports almost all PNG features, is extensible, and has been extensively tested for over nine years.</comment>
+
+	<emulator_links>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="lpng128.zip">libpng source code</file>
+	</files>
+</tool>

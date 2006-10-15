@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="borlandc" type="compilers">
+	<name>Borland C/C++</name>
+	<version>?</version>
+	<date>?</date>
+
+	<homepage>http://www.borland.com/</homepage>
+	<author_link id="borland">&author_borland;</author_link>
+
+	<comment>Borland C/C++ is now free</comment>
+
+	<emulator_links>
+		<emulator_link id="cinemu" type="multi">&emulator_cinemu;</emulator_link>
+		<emulator_link id="kong" type="multi">&emulator_kong;</emulator_link>
+		<emulator_link id="missilecommand" type="single">&emulator_missilecommand;</emulator_link>
+		<emulator_link id="qbert" type="single">&emulator_qbert;</emulator_link>
+	</emulator_links>
+</tool>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="oldspark" type="java" dat="OldSpark_v0.3">
+	<name>OldSpark</name>
+	<version>v0.3</version>
+	<date>21/05/2003</date>
+
+	<homepage>http://bcz.emu-france.com/</homepage>
+	<author_link id="bruno_vedder">&author_bruno_vedder;</author_link>
+	<author_link id="laurent_menduni">&author_laurent_menduni;</author_link>
+
+	<emulates>Z80 based classics</emulates>
+	<comment>Arcade classics playable through your Java client!</comment>
+	<status>Dormant</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>?</autoframeskip>
+		<throttle>?</throttle>
+	</features>
+
+	<files>
+		<file name="OldSpark03.zip">Emulator</file>
+		<file name="OldSpark03-src.zip">Source</file>
+	</files>
+</emulator>

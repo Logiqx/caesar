@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="besnowbros" type="beos" dat="BeSnowBros_v0.80">
+	<name>BeSnowBros</name>
+	<version>0.80</version>
+	<date>29/05/2000</date>
+
+	<homepage status="bad">http://diesel.planet-d.net/BeGameboy/</homepage>
+	<author_link id="david_raingeard">&author_david_raingeard;</author_link>
+
+	<emulates>Snow Bros (Toaplan)</emulates>
+	<comment>This is by the author of BeGameboy and BePCEngine. It emulates Snow Bros, but there is no sound support yet. It is a sample of the authors arcade emulators.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<platform>BeOS (x86)</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="BeSnowBros.zip">Emulator</file>
+	</files>
+</emulator>

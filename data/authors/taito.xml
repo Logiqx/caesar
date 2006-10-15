@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="taito">
+	<name>Taito</name>
+	<homepage>http://www.taito.co.jp/eng/</homepage>
+	<emulator_links>
+		<emulator_link id="taito_legends" type="commercial">&emulator_taito_legends;</emulator_link>
+		<emulator_link id="taito_legends_ps2" type="ps2">&emulator_taito_legends_ps2;</emulator_link>
+		<emulator_link id="taito_legends_xbox" type="xbox">&emulator_taito_legends_xbox;</emulator_link>
+	</emulator_links>
+</author>

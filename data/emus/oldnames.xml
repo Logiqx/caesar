@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="oldnames">
+	<title>Old Names</title>
+	<comment>These emulators all go under a different name nowadays!</comment>
+	<emulator_links>
+		<old_name>
+			<name>After Burner Emulator</name>
+			<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Dascade</name>
+			<emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Flying Shark Emulator</name>
+			<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Galaxian Emulator</name>
+			<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>KIAME (Killer Instinct Arcade Machine Emulator)</name>
+			<emulator_link id="u64emu" type="multi">&emulator_u64emu;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Konami Emulator</name>
+			<emulator_link id="kem" type="multi">&emulator_kem;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Multi-processor Arcade Emulator</name>
+			<emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Multi Game Emulator</name>
+			<emulator_link id="classicemu" type="multi">&emulator_classicemu;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Pac Deluxe '99</name>
+			<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Pitfall 2 -the lost caverns- Emulator</name>
+			<emulator_link id="system8" type="multi">&emulator_system8;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Rainbow Islands Emulator</name>
+			<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Sega 8</name>
+			<emulator_link id="system8" type="multi">&emulator_system8;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Shinobi Emulator</name>
+			<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>SloMo</name>
+			<emulator_link id="pcslomo" type="multi">&emulator_pcslomo;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Space Invaders Arcade Emulator</name>
+			<emulator_link id="multiple_invaders" type="multi">&emulator_multiple_invaders;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>Vanguard Emulator</name>
+			<emulator_link id="rockulator_orig" type="multi">&emulator_rockulator_orig;</emulator_link>
+		</old_name>
+		<old_name>
+			<name>WBML Emu (Wonder Boy in Monsterland Emulator)</name>
+			<emulator_link id="zem" type="multi">&emulator_zem;</emulator_link>
+		</old_name>
+	</emulator_links>
+</emulator_contents>

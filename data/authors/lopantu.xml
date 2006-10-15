@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="lopantu">
+	<name>Mickey McMurray (Lopantu/Bender/MetaFox)</name>
+	<email>bender@zophar.net</email>
+	<emulator_links>
+		<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		<emulator_link id="laser32" type="multi2">&emulator_laser32;</emulator_link>
+		<emulator_link id="laser_sdl" type="multi2">&emulator_laser_sdl;</emulator_link>
+	</emulator_links>
+</author>

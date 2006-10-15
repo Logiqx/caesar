@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="msvc" type="compilers">
+	<name>Visual C/C++</name>
+	<version>6.0</version>
+	<date>?</date>
+
+	<homepage>http://msdn.microsoft.com/visualc/</homepage>
+	<author_link id="microsoft">&author_microsoft;</author_link>
+
+	<comment>Part of the Visual Studio development environment</comment>
+
+	<emulator_links>
+		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
+		<emulator_link id="annoid" type="single">&emulator_annoid;</emulator_link>
+		<emulator_link id="astdxgl" type="multi">&emulator_astdxgl;</emulator_link>
+		<emulator_link id="asteroidsgl" type="single">&emulator_asteroidsgl;</emulator_link>
+		<emulator_link id="battlezonegl" type="single">&emulator_battlezonegl;</emulator_link>
+		<emulator_link id="cage" type="multi">&emulator_cage;</emulator_link>
+		<emulator_link id="cinelator95" type="multi">&emulator_cinelator95;</emulator_link>
+		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
+		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="gekko" type="single">&emulator_gekko;</emulator_link>
+		<emulator_link id="hive" type="multi">&emulator_hive;</emulator_link>
+		<emulator_link id="irobot" type="single">&emulator_irobot;</emulator_link>
+		<emulator_link id="junofirst" type="multi">&emulator_junofirst;</emulator_link>
+		<emulator_link id="magex" type="multi">&emulator_magex;</emulator_link>
+		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="mamece" type="wince">&emulator_mamece;</emulator_link>
+		<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
+		<emulator_link id="mamecepod" type="wince">&emulator_mamecepod;</emulator_link>
+		<emulator_link id="marblemadness" type="single">&emulator_marblemadness;</emulator_link>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="minipac" type="single">&emulator_minipac;</emulator_link>
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
+		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
+		<emulator_link id="nemesis" type="single">&emulator_nemesis;</emulator_link>
+		<emulator_link id="pacx" type="single">&emulator_pacx;</emulator_link>
+		<emulator_link id="phoenix" type="multi">&emulator_phoenix;</emulator_link>
+		<emulator_link id="qplayer" type="sound">&emulator_qplayer;</emulator_link>
+		<emulator_link id="qsound_player" type="sound">&emulator_qsound_player;</emulator_link>
+		<emulator_link id="radikal_bikers_emulator" type="single">&emulator_radikal_bikers_emulator;</emulator_link>
+		<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
+		<emulator_link id="s11emu" type="multi">&emulator_s11emu;</emulator_link>
+		<emulator_link id="salamander" type="single">&emulator_salamander;</emulator_link>
+		<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
+		<emulator_link id="tempestgl" type="single">&emulator_tempestgl;</emulator_link>
+		<emulator_link id="thenewzealandstory" type="single">&emulator_thenewzealandstory;</emulator_link>
+		<emulator_link id="tmnt" type="single">&emulator_tmnt;</emulator_link>
+		<emulator_link id="u64emu" type="multi">&emulator_u64emu;</emulator_link>
+		<emulator_link id="vector_dream" type="multi">&emulator_vector_dream;</emulator_link>
+		<emulator_link id="viva_nonno" type="multi">&emulator_viva_nonno;</emulator_link>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<emulator_link id="xor_world_emulator" type="single">&emulator_xor_world_emulator;</emulator_link>
+		<emulator_link id="xpac" type="multi">&emulator_xpac;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+	</emulator_links>
+</tool>

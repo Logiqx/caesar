@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="emudx32" type="multi2" dat="dummy">
+	<name>EmuDX32</name>
+	<version>Beta 3</version>
+	<date>08/02/2000</date>
+
+	<homepage status="bad">http://emudx.emuviews.com/</homepage>
+	<author_link id="mike_green">&author_mike_green;</author_link>
+
+	<emulates>Donkey Kong, Frogger, Galaxian, Pacman, Ms Pacman</emulates>
+	<comment>Enhances these classic games with better graphics and sound</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="EmuDX32b1.zip">Beta 1</file>
+		<file name="EmuDX32b2.zip">Beta 2 (Require Beta 1)</file>
+		<file name="EmuDX32b3.zip">Beta 3 (Require Beta 1)</file>
+		<file name="all3931.zip">Allegro DLL 3.9.31 (required)</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

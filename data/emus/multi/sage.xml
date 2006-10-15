@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sage" type="multi" dat="SAGE_v1.16">
+	<name>SAGE (Superb Arcade Game Emulator)</name>
+	<version>1.16</version>
+	<date>26/06/1997</date>
+
+	<homepage status="bad">http://www.cix.co.uk/~johnson/</homepage>
+	<author_link id="paul_johnson">&author_paul_johnson;</author_link>
+
+	<emulates>1942, Commando, Galaxians, Ghosts'n Goblins etc</emulates>
+	<comment></comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+	</features>
+
+	<files>
+		<file name="sage1_16.zip">Emulator</file>
+		<file name="sagesrc.zip">Source</file>
+	</files>
+</emulator>

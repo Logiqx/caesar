@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="z80" type="cpu">
+	<name>Z80: Portable Z80 emulator</name>
+	<version>-</version>
+	<date>20/03/2002</date>
+
+	<homepage>http://www.komkon.org/fms/EMUL8/</homepage>
+	<author_link id="marat_fayzullin">&author_marat_fayzullin;</author_link>
+
+	<emulates>Zilog Z80</emulates>
+	<comment>Portable C but is quite slow and contains a number of bugs</comment>
+
+	<emulator_links>
+		<emulator_link id="amoad" type="single">&emulator_amoad;</emulator_link>
+		<emulator_link id="bpe" type="linux">&emulator_bpe;</emulator_link>
+		<emulator_link id="classicemu" type="multi">&emulator_classicemu;</emulator_link>
+		<emulator_link id="crazykongemu" type="single">&emulator_crazykongemu;</emulator_link>
+		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="daphne_beos" type="beos">&emulator_daphne_beos;</emulator_link>
+		<emulator_link id="daphne_linux" type="linux">&emulator_daphne_linux;</emulator_link>
+		<emulator_link id="daphne_mac" type="mac">&emulator_daphne_mac;</emulator_link>
+		<emulator_link id="dcphoenix" type="dreamcast">&emulator_dcphoenix;</emulator_link>
+		<emulator_link id="epp" type="multi">&emulator_epp;</emulator_link>
+		<emulator_link id="finalpengo" type="single">&emulator_finalpengo;</emulator_link>
+		<emulator_link id="gyruss" type="single">&emulator_gyruss;</emulator_link>
+		<emulator_link id="invemu" type="multi">&emulator_invemu;</emulator_link>
+		<emulator_link id="invemu_linux" type="linux">&emulator_invemu_linux;</emulator_link>
+		<emulator_link id="jabawape" type="single">&emulator_jabawape;</emulator_link>
+		<emulator_link id="ladybug" type="single">&emulator_ladybug;</emulator_link>
+		<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		<emulator_link id="mrdo" type="single">&emulator_mrdo;</emulator_link>
+		<emulator_link id="docastle" type="single">&emulator_docastle;</emulator_link>
+		<emulator_link id="dorun" type="single">&emulator_dorun;</emulator_link>
+		<emulator_link id="dowild" type="single">&emulator_dowild;</emulator_link>
+		<emulator_link id="kong" type="multi">&emulator_kong;</emulator_link>
+		<emulator_link id="macmoon" type="mac">&emulator_macmoon;</emulator_link>
+		<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		<emulator_link id="pacifi3d" type="single">&emulator_pacifi3d;</emulator_link>
+		<emulator_link id="pacifi3d_linux" type="linux">&emulator_pacifi3d_linux;</emulator_link>
+		<emulator_link id="phoenix" type="multi">&emulator_phoenix;</emulator_link>
+		<emulator_link id="rem" type="single">&emulator_rem;</emulator_link>
+		<emulator_link id="rem_mac" type="mac">&emulator_rem_mac;</emulator_link>
+		<emulator_link id="retrovaders" type="multi">&emulator_retrovaders;</emulator_link>
+		<emulator_link id="sideway" type="multi">&emulator_sideway;</emulator_link>
+		<emulator_link id="sinvader" type="single">&emulator_sinvader;</emulator_link>
+		<emulator_link id="spaceinvaders" type="multi">&emulator_spaceinvaders;</emulator_link>
+		<emulator_link id="spaceinvaderstheemu" type="single">&emulator_spaceinvaderstheemu;</emulator_link>
+		<emulator_link id="spaders" type="multi">&emulator_spaders;</emulator_link>
+		<emulator_link id="theend" type="single">&emulator_theend;</emulator_link>
+		<emulator_link id="timepilot" type="single">&emulator_timepilot;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="Z80-032002.tar.Z">Emulator</file>
+	</files>
+
+	<library_relatives>
+		<library_descendants>
+			<library_link id="z80em" type="cpu">&library_z80em;</library_link>
+		</library_descendants>
+	</library_relatives>
+</library>

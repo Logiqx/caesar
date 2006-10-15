@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="chopsuey" type="single" dat="ChopSuey_v0.3333">
+	<name>ChopSuey (The Choplifter Emulator)</name>
+	<version>0.3333</version>
+	<date>19/10/1997</date>
+
+	<homepage status="none"></homepage>
+	<author_link id="enrique_sanchez">&author_enrique_sanchez;</author_link>
+
+	<emulates>Choplifter (Sega)</emulates>
+	<comment>No collision detection means it isn't too useful for playing</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="maze" type="cpu">&library_maze;</library_link>
+	</cpu_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="csuey033.zip">Emulator</file>
+	</files>
+</emulator>

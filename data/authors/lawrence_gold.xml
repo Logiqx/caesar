@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="lawrence_gold">
+	<name>Lawrence Gold</name>
+	<email>gold@aros.net</email>
+	<emulator_links>
+		<emulator_link id="xmame" type="linux">&emulator_xmame;</emulator_link>
+	</emulator_links>
+</author>

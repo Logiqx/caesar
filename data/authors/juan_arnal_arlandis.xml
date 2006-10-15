@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="juan_arnal_arlandis">
+	<name>Juan Arnal Arlandis</name>
+	<email>jarnal@iti.upv.es</email>
+	<emulator_links>
+		<emulator_link id="zem" type="multi">&emulator_zem;</emulator_link>
+	</emulator_links>
+</author>

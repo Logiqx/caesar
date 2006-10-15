@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="rob_rosenbrock">
+	<name>Rob Rosenbrock</name>
+	<email>bester@ssi.parlorcity.com</email>
+	<emulator_links>
+		<emulator_link id="xain_d_sleena" type="single">&emulator_xain_d_sleena;</emulator_link>
+	</emulator_links>
+</author>

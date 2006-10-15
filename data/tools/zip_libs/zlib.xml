@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="zlib" type="zip_libs">
+	<name>zlib</name>
+	<version>1.2.3</version>
+	<date>18/07/2005</date>
+
+	<homepage>http://www.gzip.org/zlib/</homepage>
+	<author_link id="jean_loup_gailly">&author_jean_loup_gailly;</author_link>
+	<author_link id="mark_adler">&author_mark_adler;</author_link>
+
+	<comment>A general purpose data compression/decompression library</comment>
+
+	<emulator_links>
+		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
+		<emulator_link id="cage" type="multi">&emulator_cage;</emulator_link>
+		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
+		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
+		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>
+		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
+		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
+		<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
+		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
+		<emulator_link id="hive" type="multi">&emulator_hive;</emulator_link>
+		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
+		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
+		<emulator_link id="phmame" type="qnx">&emulator_phmame;</emulator_link>
+		<emulator_link id="qplayer" type="sound">&emulator_qplayer;</emulator_link>
+		<emulator_link id="radikal_bikers_emulator" type="single">&emulator_radikal_bikers_emulator;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
+		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		<emulator_link id="s11emu" type="multi">&emulator_s11emu;</emulator_link>
+		<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
+		<emulator_link id="sega_system_24_emulator" type="multi">&emulator_sega_system_24_emulator;</emulator_link>
+		<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+		<emulator_link id="sname" type="multi2">&emulator_sname;</emulator_link>
+		<emulator_link id="snamew" type="multi">&emulator_snamew;</emulator_link>
+		<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+		<emulator_link id="vantage" type="multi">&emulator_vantage;</emulator_link>
+		<emulator_link id="virtua" type="multi">&emulator_virtua;</emulator_link>
+		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
+		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="zlib123.zip">zlib distribution</file>
+	</files>
+</tool>

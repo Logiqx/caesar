@@ -1,0 +1,24 @@
+clrmamepro (
+	name "Mr. Do!'s Wild Ride"
+	description "Mr. Do!'s Wild Ride Beta 1.2"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name dowild
+	description "Mr. Do's Wild Ride"
+	year 1984
+	manufacturer "Universal"
+	rom ( name w1 size 8192 crc 097de78b sha1 8d0cedde09a893ff67db0cb8e239babeb2cb3701 )
+	rom ( name w3 size 8192 crc fc6a1cbb sha1 4cf59459d521c725e41bbd9363fb58bffdad13a2 )
+	rom ( name w4 size 8192 crc 8aac1d30 sha1 c746f5506a541b25a7ca6fc754fbdb94212f7178 )
+	rom ( name w2 size 8192 crc 0914ab69 sha1 048a68976d313015ff40f411d5c89d318fd9bb04 )
+	rom ( name w5 size 16384 crc b294b151 sha1 c8c15bf9ab2401052ec80fdfc8fe124c6aa52521 )
+	rom ( name w6 size 8192 crc 57e0208b sha1 52c1157d7df84fef754cd9466a70df7e53bc837f )
+	rom ( name w7 size 8192 crc 5001a6f7 sha1 ef37a26f0c2960fc55ff800da5d4d9c3d54270c2 )
+	rom ( name w8 size 8192 crc ec503251 sha1 ea7bb11c8e51fe69b5ecba4e4806ec8a8e4961d7 )
+	rom ( name w9 size 8192 crc af7bd7eb sha1 1cc017b4606d1f6d70cc6cdaf9cf7797dd552b4b )
+)
+

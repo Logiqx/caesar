@@ -1,0 +1,42 @@
+game (
+	name galaxian
+	description "Galaxian (Namco)"
+	year 1979
+	manufacturer "Namco"
+)
+
+game (
+	name todruaga
+	description "Tower of Druaga (set 1)"
+	year 1984
+	manufacturer "Namco"
+)
+
+game (
+	name digdug
+	description "Dig Dug (set 1)"
+	year 1982
+	manufacturer "Namco"
+)
+
+game (
+	name polepos2
+	description "Pole Position II"
+	year 1983
+	manufacturer "Namco"
+)
+
+game (
+	name phozon
+	description "Phozon"
+	year 1983
+	manufacturer "Namco"
+)
+
+game (
+	name mspacman
+	description "Ms. Pac-Man"
+	year 1981
+	manufacturer "bootleg"
+)
+

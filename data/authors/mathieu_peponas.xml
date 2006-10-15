@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mathieu_peponas">
+	<name>Mathieu Peponas</name>
+	<email>pepone@altern.org</email>
+	<emulator_links>
+		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
+	</emulator_links>
+</author>

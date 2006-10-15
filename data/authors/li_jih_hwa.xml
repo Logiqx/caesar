@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="li_jih_hwa">
+	<name>Li Jih Hwa (Nao)</name>
+	<email>nao@ms6.hinet.net</email>
+	<emulator_links>
+		<emulator_link id="m72" type="multi">&emulator_m72;</emulator_link>
+		<emulator_link id="system16" type="multi">&emulator_system16;</emulator_link>
+		<emulator_link id="system16_beta" type="multi2">&emulator_system16_beta;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="fm_emu" type="sound">&emulator_fm_emu;</emulator_link>
+	</contribution_links>
+</author>

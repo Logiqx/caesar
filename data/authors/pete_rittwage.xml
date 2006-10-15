@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="pete_rittwage">
+	<name>Pete Rittwage</name>
+	<email>bushwick@ix.netcom.com</email>
+	<emulator_links>
+		<emulator_link id="vpcb" type="multi">&emulator_vpcb;</emulator_link>
+	</emulator_links>
+</author>

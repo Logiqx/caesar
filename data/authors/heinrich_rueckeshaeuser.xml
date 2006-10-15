@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="heinrich_rueckeshaeuser">
+	<name>Heinrich Rueckeshaeuser</name>
+	<email>100445.402@compuserve.com</email>
+	<email>hr@elbatex.via.at</email>
+	<emulator_links>
+		<emulator_link id="xevious" type="single">&emulator_xevious;</emulator_link>
+	</emulator_links>
+</author>

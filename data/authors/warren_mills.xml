@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="warren_mills">
+	<name>Warren Mills</name>
+	<email>100605,3262@compuserve.com</email>
+	<emulator_links>
+		<emulator_link id="classicemu" type="multi">&emulator_classicemu;</emulator_link>
+		<emulator_link id="thearcade" type="multi">&emulator_thearcade;</emulator_link>
+	</emulator_links>
+</author>

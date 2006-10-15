@@ -1,0 +1,24 @@
+clrmamepro (
+	name Gekko
+	description "Gekko Teaser"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name nam_1975
+	description "NAM-1975"
+	year 1990
+	manufacturer "SNK"
+	rom ( name nam_p1.rom size 524288 crc cc9fc951 sha1 92f4e6ddeeb825077d92dbb70b50afea985f15c0 )
+	rom ( name nam_s1.rom size 65536 crc 8ded55a5 sha1 27c8ffac16fbcc19c843d1b5b47ae8d8ef83d44a )
+	rom ( name neo-geo.rom size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name nam_c1.rom size 524288 crc 32ea98e1 sha1 c2fb3fb7dd14523a4b4b7fbdb81f44cb4cc48239 )
+	rom ( name nam_c2.rom size 524288 crc cbc4064c sha1 224c970fd060d841fd430c946ef609bb57b6d78c )
+	rom ( name nam_c3.rom size 524288 crc 0151054c sha1 f24fb501a7845f64833f4e5a461bcf9dc3262557 )
+	rom ( name nam_c4.rom size 524288 crc 0a32570d sha1 f108446ec7844fde25f7a4ab454f76d384bf5e52 )
+	rom ( name nam_c5.rom size 524288 crc 90b74cc2 sha1 89898da36db259180e5261ed45eafc99ca13e504 )
+	rom ( name nam_c6.rom size 524288 crc e62bed58 sha1 d05b2903b212a51ee131e52c761b714cb787683e )
+)
+

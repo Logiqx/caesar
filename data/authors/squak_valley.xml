@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="squak_valley">
+	<name>Squak Valley Software</name>
+	<email>andersontn@acm.org</email>
+	<tool_links>
+		<tool_link id="tasm" type="assemblers">&tool_tasm;</tool_link>
+	</tool_links>
+</author>

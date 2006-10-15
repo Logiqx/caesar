@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="sdl" type="gfx_libs">
+	<name>Simple DirectMedia Layer (SDL)</name>
+	<version>1.2.9</version>
+	<date>28/08/2005</date>
+
+	<homepage>http://www.libsdl.org/</homepage>
+	<author_link id="sam_lantinga">&author_sam_lantinga;</author_link>
+
+	<comment>Simple DirectMedia Layer is a cross-platform multimedia library designed to provide fast access to the graphics framebuffer and audio device. It is used by MPEG playback software, emulators, and many popular games, including the award winning Linux port of "Civilization: Call To Power." Simple DirectMedia Layer supports Linux, Win32, BeOS, MacOS, Solaris, IRIX, and FreeBSD.</comment>
+
+	<emulator_links>
+		<emulator_link id="dsp" type="multi">&emulator_dsp;</emulator_link>
+		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
+		<emulator_link id="mikie" type="single">&emulator_mikie;</emulator_link>
+		<emulator_link id="pacifi3d" type="single">&emulator_pacifi3d;</emulator_link>
+		<emulator_link id="pacifi3d_linux" type="linux">&emulator_pacifi3d_linux;</emulator_link>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		<emulator_link id="sega_system_24_emulator" type="multi">&emulator_sega_system_24_emulator;</emulator_link>
+		<emulator_link id="siemu" type="multi">&emulator_siemu;</emulator_link>
+		<emulator_link id="siemu_beos" type="beos">&emulator_siemu_beos;</emulator_link>
+		<emulator_link id="siemu_linux" type="linux">&emulator_siemu_linux;</emulator_link>
+	</emulator_links>
+
+	<files>
+		<file name="SDL-devel-1.2.9-mingw32.tar.gz">Development libraries for MinGW</file>
+	</files>
+</tool>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="ss_teven">
+	<name>Steven Harris (ss_teven/tty01)</name>
+	<emulator_links>
+		<emulator_link id="laserdc" type="dreamcast">&emulator_laserdc;</emulator_link>
+	</emulator_links>
+</author>

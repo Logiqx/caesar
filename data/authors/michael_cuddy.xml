@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="michael_cuddy">
+	<name>Michael (Mike) Cuddy</name>
+	<email>mcuddy@fensende.com</email>
+	<homepage>http://www.fensende.com/Users/mcuddy/</homepage>
+	<emulator_links>
+		<emulator_link id="soundsgood" type="sound">&emulator_soundsgood;</emulator_link>
+		<emulator_link id="gyruss" type="single">&emulator_gyruss;</emulator_link>
+		<emulator_link id="kem" type="multi">&emulator_kem;</emulator_link>
+		<emulator_link id="timepilot" type="single">&emulator_timepilot;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+</author>

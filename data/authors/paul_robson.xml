@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="paul_robson">
+	<name>Paul Robson</name>
+	<email>autismuk@aol.com</email>
+	<cpu_links>
+		<library_link id="6502s" type="cpu">&library_6502s;</library_link>
+	</cpu_links>
+</author>

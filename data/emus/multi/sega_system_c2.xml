@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sega_system_c2" type="multi" dat="Sega_System_C2_Emulator_v0.2b">
+	<name>Sega System C2 Emulator</name>
+	<version>0.2b</version>
+	<date>15/09/2000</date>
+
+	<homepage staus="none"></homepage>
+	<author_link id="charles_mac_donald">&author_charles_mac_donald;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="david_haywood">&author_david_haywood;</author_link>
+			<comment>Provider of information about the C2 hardware</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Sega System C2 Games</emulates>
+	<comment>The first emulator that emulated Sega C2 games. Discontinued on 8th Nov 2000 (almost immediately after MAME added the games). Also, the author requested that no sites provide his source anymore.</comment>
+	<status>Discontinued</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="c2emu-091500-dos.zip">DOS Emulator</file>
+	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
+			<emulator_link id="sega_c2_linux" type="linux">&emulator_sega_c2_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

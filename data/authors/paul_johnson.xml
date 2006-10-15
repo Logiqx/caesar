@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="paul_johnson">
+	<name>Paul Johnson</name>
+	<email>mayhem@cix.co.uk</email>
+	<emulator_links>
+		<emulator_link id="sage" type="multi">&emulator_sage;</emulator_link>
+	</emulator_links>
+</author>

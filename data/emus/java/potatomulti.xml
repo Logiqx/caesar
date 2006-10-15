@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="potatomulti" type="java" dat="PotatoMulti_200511112">
+	<name>PotatoMulti</name>
+	<version>2005-11-12</version>
+	<date>16/10/2005</date>
+
+	<homepage>http://cottage.consolemul.com/</homepage>
+	<homepage>http://www.game-oldies.com/?m=list&amp;machine=arcade</homepage>
+	<author_link id="romain_tisserland">&author_romain_tisserland;</author_link>
+	<author_link id="david_raingeard">&author_david_raingeard;</author_link>
+	<author_link id="gollum">&author_gollum;</author_link>
+
+	<emulates>Z80 and 68000 based classics</emulates>
+	<comment>Arcade classics playable on the Internet! Play the games directly from within your web browser.</comment>
+	<status>Active</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+</emulator>

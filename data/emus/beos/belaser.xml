@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="belaser" type="beos" dat="dummy">
+	<name>BeLaser</name>
+	<version>0.18</version>
+	<date>14/01/2002</date>
+
+	<homepage>http://www.laseremu.com/</homepage>
+	<author_link id="caz_jones">&author_caz_jones;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="domenico_dato">&author_domenico_dato;</author_link>
+			<comment>Did the early BeOS ports</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Midway 8080 based games like space invaders</emulates>
+	<comment>BeOS port of Laser</comment>
+	<status>Dormant</status>
+
+	<platform>BeOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="Laser18.zip">BeOS Binary</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="laser" type="multi">&emulator_laser;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

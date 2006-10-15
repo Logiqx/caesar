@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="cottage" type="java" dat="CottAGE_v0.12">
+	<name>CottAGE</name>
+	<version>1.6</version>
+	<date>31/10/2005</date>
+
+	<homepage>http://cottage.consolemul.com/</homepage>
+	<author_link id="jaydy">&author_jaydy;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="gollum">&author_gollum;</author_link>
+			<comment>Contributor</comment>
+		</contributor>
+
+		<contributor>
+			<author_link id="arnon_cardoso">&author_arnon_cardoso;</author_link>
+			<comment>Contributor</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Z80, 8080 and 6809 based classics</emulates>
+	<comment>Arcade classics playable through your web browser! Note: The game list below is from CottAGE v0.12 (rather than the latest version). Until I figure out a way to update the data file without any intensive effort on my part, the data file for CottAGE v0.12 will have to do!</comment>
+	<status>Dormant</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="CottAGE_1.6_bin.zip">Emulator</file>
+		<file name="CottAGE_1.6_src.zip">Source</file>
+		<file name="jef_1_0_beta4_src.zip">Source for JEF (Java Emulation Framework)</file>
+	</files>
+</emulator>

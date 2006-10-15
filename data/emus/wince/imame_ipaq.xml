@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="imame_ipaq" type="wince" dat="dummy">
+	<name>iMAME (iPaq) Pocket PC</name>
+	<version>6</version>
+	<date>06/06/2002</date>
+
+	<homepage>http://www.mameworld.net/imame/</homepage>
+	<author_link id="glenn_neidermeier">&author_glenn_neidermeier;</author_link>
+
+	<emulates>Emulates a subset of MAME games</emulates>
+	<comment>MameCE/PocketMAME only supports the MIPS based machines, particularly the Casion E105. iMAME takes some bits of that project, particularly files "cgamex.cpp", "cesound.c" and Ben's adaptation of the C runtime library to WinCE. Only Ipaq 3630 (ARM processor on Windows CE 3.0) has been tested.</comment>
+	<status>Dormant</status>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Buttons</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="imame261_007arm.exe">Emulator</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		</port_of>
+
+		<modified_versions>
+			<emulator_link id="mame_jornada" type="wince">&emulator_mame_jornada;</emulator_link>
+		</modified_versions>
+	</relatives>	
+</emulator>

@@ -1,0 +1,41 @@
+game (
+	name ccastles
+	description "Crystal Castles (set 1)"
+	year 1983
+	manufacturer "Atari"
+)
+
+game (
+	name milliped
+	description "Millipede"
+	year 1982
+	manufacturer "Atari"
+)
+
+game (
+	name bzone
+	description "Battle Zone (set 1)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name astdelux
+	description "Asteroids Deluxe (rev 2)"
+	year 1980
+	manufacturer "Atari"
+)
+
+game (
+	name gravitar
+	description "Gravitar (version 3)"
+	year 1982
+	manufacturer "Atari"
+)
+
+game (
+	name warlord
+	description "Warlords"
+	year 1980
+	manufacturer "Atari"
+)

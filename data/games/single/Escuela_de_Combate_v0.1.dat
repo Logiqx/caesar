@@ -1,0 +1,35 @@
+clrmamepro (
+	name "Escuela de Combate"
+	description "Escuela de Combate v0.1"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name combatsc
+	description "Combat School (bootleg)"
+	year 1988
+	manufacturer "bootleg"
+	rom ( name combat.002 size 65536 crc 0996755d sha1 bb6bbbf7ab3b5fab5e1c6cebc7b3f0d720493c3b )
+	rom ( name combat.003 size 65536 crc 229c93b2 sha1 ac3fd3df1bb5f6a461d0d1423c50568348ef69df )
+	rom ( name combat.004 size 65536 crc a069cb84 sha1 f49f70afb17df46b16f5801ef42edb0706730723 )
+	rom ( name combat.001 size 65536 crc 61456b3b sha1 320db628283dd1bec465e95020d1a1158e6d6ae4 )
+	rom ( name combat.006 size 65536 crc 8dc29a1f sha1 564dd7c6acff34db93b8e300dda563f5f38ba159 )
+	rom ( name combat.008 size 65536 crc 61599f46 sha1 cfd79a88bb496773daf207552c67f595ee696bc4 )
+	rom ( name combat.010 size 65536 crc d5cda7cd sha1 140db6270c3f358aa27013db3bb819a48ceb5142 )
+	rom ( name combat.012 size 65536 crc ca0a9f57 sha1 d6b3daf7c34345bb2f64068d480bd51d7bb36e4d )
+	rom ( name combat.005 size 65536 crc 0803a223 sha1 67d4162385dd56d5396e181070bfa6760521eb45 )
+	rom ( name combat.007 size 65536 crc 23caad0c sha1 0544cde479c6d4192da5bb4b6f0e2e75d09663c3 )
+	rom ( name combat.009 size 65536 crc 5ac80383 sha1 1e89c371a92afc000d593daebda4156952a15244 )
+	rom ( name combat.011 size 65536 crc cda83114 sha1 12d2a9f694287edb3bb0ee7a8ba0e0724dad8e1f )
+	rom ( name combat.013 size 65536 crc 4bed2293 sha1 3369de47d4ba041d9f17a18dcca2af7ac9f8bc0c )
+	rom ( name combat.015 size 65536 crc 26c41f31 sha1 f8eb7d0729a21a0dd92ce99c9cda0cde9526b861 )
+	rom ( name combat.017 size 65536 crc 6071e6da sha1 ba5f8e83b07faaffc564d3568630e17efdb5a09f )
+	rom ( name combat.019 size 65536 crc 3b1cf1b8 sha1 ff4de37c051bcb374c44d1b99006ff6ff5e1f927 )
+	rom ( name combat.014 size 65536 crc 82ea9555 sha1 59bf7836938ce9e3242d1cca754de8dbe85bbfb7 )
+	rom ( name combat.016 size 65536 crc 2e39bb70 sha1 a6c4acd93cc803e987de6e18fbdc5ce4634b14a8 )
+	rom ( name combat.018 size 65536 crc 575db729 sha1 6b1676da4f24fc90c77262789b6cc116184ab912 )
+	rom ( name combat.020 size 65536 crc 8d748a1a sha1 4386e14e19b91e053033dde2a13019bc6d8e1d5a )
+)
+

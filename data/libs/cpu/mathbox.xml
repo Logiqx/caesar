@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE library SYSTEM "../../../dtd/caesar.dtd">
+<library id="mathbox" type="cpu">
+	<name>Atari Mathbox Emulator</name>
+	<version>1.1</version>
+	<date>23/11/1997</date>
+
+	<homepage>ftp://ftp.synthcom.com/pub/emulators/cpu/</homepage>
+	<author_link id="zonn_moore">&author_zonn_moore;</author_link>
+	<author_link id="neil_bradley">&author_neil_bradley;</author_link>
+
+	<emulates>Atari Mathbox</emulates>
+	<comment>Written in x86 assembly</comment>
+
+	<emulator_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+		<emulator_link id="retrocade_os2" type="os2">&emulator_retrocade_os2;</emulator_link>
+		<emulator_link id="vector_dream" type="multi">&emulator_vector_dream;</emulator_link>
+	</emulator_links>
+
+	<tool_links>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+	</tool_links>
+
+	<files>
+		<file name="mathbox.zip">Emulator</file>
+	</files>
+</library>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="brian_stern">
+	<name>Brian Stern</name>
+	<email>bstern@teleport.com</email>
+	<contribution_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+</author>

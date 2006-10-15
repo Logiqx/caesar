@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="kawaks" type="multi" dat="WinKawaks_v1.56">
+	<name>Kawaks</name>
+	<version>1.56</version>
+	<date>07/08/2006</date>
+
+	<homepage>http://cps2shock.retrogames.com/download.html</homepage>
+	<homepage>http://kawaks.retrogames.com/</homepage>
+	<author_link id="mr_k">&author_mr_k;</author_link>
+
+	<emulates>Capcom CPS-1, CPS-2 and Neo-Geo games</emulates>
+	<comment>Another dedicated CPS-1, CPS-2 and Neo-Geo emulator. Includes tile viewer, sprite viewer and integrated debugger. A personal favorite!</comment>
+	<status>Active</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="a68k" type="cpu">&library_a68k;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>Yes</network>
+	</features>
+
+	<files>
+		<file name="winkawaks156.zip">Emulator</file>
+		<file name="hires-skin.zip">Hi-res Skin</file>
+		<file name="sshots.zip">Screen Shots for v1.32</file>
+		<file name="sshots138.zip">Screen Shots update from v1.32 to v1.38</file>
+		<file name="sshots142.zip">Screen Shots update from v1.38 to v1.42</file>
+	</files>
+</emulator>

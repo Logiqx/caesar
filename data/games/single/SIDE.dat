@@ -1,0 +1,16 @@
+clrmamepro (
+	name "SIDE"
+	description "SIDE"
+	category "Space Invaders Emulator"
+	version 20050918
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name invaders
+	description "Space Invaders"
+	year 1978
+	manufacturer "Midway"
+	rom ( name invaders.rom size 8192 crc b64ca815 sha1 2c6e7301635fcb5c9b845a97fcb2632eb7fbcbf8 )
+)
+

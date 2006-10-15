@@ -1,0 +1,452 @@
+<a name="newsitem1025471361,24031,"></a><h2>Sunday 30 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Not exactly a goodbye...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:09PM [BST]</small>  </th></tr>  <tr><td> As of tomorrow, <a href="http://www.atani-software.net/">Atani</a> will no longer work in any emulation related stuff. One of the developers who was around here for the longest is saying bye, and he talks a lot on his last post at his site, which I strongly recommend to read. He mentions he will be still around, will revamp his site, but the future might not include programming. Well whatever you do Atani, thanks for your work for the community, and good luck with whatever comes. And hope to see you around here for a long long time!  </td></tr>  </table></p>
+<a name="newsitem1025471340,33316,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A rare specimen...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:09PM [BST]</small>  </th></tr>  <tr><td> Mike Haggar has released <a href="http://haggar.emuunlim.com/">Nebula/Kawaks Transparencies Pack 20020630</a>. It includes tables for The Last Blade 2, in light and heavy modes. Mike also whines about the lack of tables coming, and me too since I used to find quite some and now it's hard to see them... So a) make them and b) submit them to him!  </td></tr>  </table></p>
+<a name="newsitem1025471320,30033,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Cough, cough</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:08PM [BST]</small>  </th></tr>  <tr><td> There's more <a href="http://cottage.emuunlim.com/status.htm">CottAGE WIP</a>. Erik finished the 1943 driver, and added Gun.Smoke as well. I know this WIP doesn't include as much technical info as others, but well, give them time ;)  </td></tr>  </table></p>
+<a name="newsitem1025470828,65312,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>After so long...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:00PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.daphne-emu.com/">DAPHNE 0.99.5</a> has been finally released. No "pre", no "maybe", the f.e.m.a.l.e. emulator (put some sense to that acronym) comes in Windows and Linux flavors, and of course the source. The changelog, which is quite long (has to be with four pre-releases) can also be found in the download page. Have fun!  </td></tr>  </table></p>
+<a name="newsitem1025470799,14872,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Round colored toys</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:59PM [BST]</small>  </th></tr>  <tr><td> More <a href="http://www.mame.net/wip/">MAME WIP</a> for our eyes. Two days with many fixes in general, and specifically in Car Polo and Equites. Haze added support for Bubble 2000, and well, go'n'read!  </td></tr>  </table></p>
+<a name="newsitem1025470778,53692,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Handle with care</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:59PM [BST]</small>  </th></tr>  <tr><td> For the ones who don't fear memory address, layer maps, opcodes and all that evil stuff, you might want to check <a href="http://cgfm2.emuviews.com/">Charles MacDonald's Home Page</a> where he has posted some good findings about Sega's System 16/18 hardware. The reading is a bit dense but if you are interested in the technical stuff, well there it is...  </td></tr>  </table></p>
+<a name="newsitem1025379441,79957,"></a><h2>Saturday 29 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ketchup!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:37PM [BST]</small>  </th></tr>  <tr><td> Not many news today... No, definitely not many news. Yesterday was a tiring night and today I'm totally offffffffff, so see you all tomorrow.  </td></tr>  </table></p>
+<a name="newsitem1025283165,87815,"></a><h2>Friday 28 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>My dream is to have a cast... errr no I already had, kthx</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:52PM [BST]</small>  </th></tr>  <tr><td> There is info about a new project called <a href="http://www.geocities.com/john.cabrer/index.html">MAMECAST</a> made by John Cabrer. There are unfinished frontend and MAME core... Some more stuff about Neo Geo MAME for Dreamcast as well... All at the <a href="http://dev.dcemulation.com/mamed/">Unofficial MAMED page</a>, thx guys.<br>  </td></tr>  </table></p>
+<a name="newsitem1025283139,22505,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Too much fun in one package</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:52PM [BST]</small>  </th></tr>  <tr><td> Some <a href="http://www.mame.net/wip/">MAME WIP</a> for the weekend. The last four days have been logged by Gridle the webslave (hey the nick was HIS idea!) and some pictures of 4 Fun in 1 which is a game containing some classics. Other worthy things happening are: The graphics of Equites are fixed, Neo Geo raster effects were made more accurate thanks to a recent info from Raz, and the rest should be read by yourself... :)  </td></tr>  </table></p>
+<a name="newsitem1025283089,33319,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More sad truth</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:51PM [BST]</small>  </th></tr>  <tr><td> This is understandable so don't blame anyone. <a href="http://xbox.mame.net/">MAME-X</a> is not longer hosted at <a href="http://www.mame.net/">mame.net</a>. When I know where it's moved I'll place a link here. While I was aware yesterday about the rights of Microsoft to ask for the binaries to be taken down, it also shows how badly they want to control anything you might do with their products. Soon they will tell you which sites you can visit with Interbleed Exploder. I use Nutscrape anyway :-p  </td></tr>  </table></p>
+<a name="newsitem1025213841,21085,"></a><h2>Thursday 27 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nos complace anunciar...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:37PM [BST]</small>  </th></tr>  <tr><td> As a surprise, here is a new version of our favorite EXE compressor, <a href="http://upx.sourceforge.net/">UPX 1.22</a>. Markus and Laszlo have fixed a small problem in the atari/tos format, and the source has been modified slightly to support a few more compilers straight away. The GUI are still in development, and there's a mention that the next stable release will be 2.00, maybe it means a rewrite? Btw anyone really tried that new memory improved compression mode?  </td></tr>  </table></p>
+<a name="newsitem1025213779,80013,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>You know what my advice is...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:36PM [BST]</small>  </th></tr>  <tr><td> Roman has issued a little update of his beast - errr I mean his star app :) <a href="http://www.clrmame.com/">ClrMamePro 2.66a</a>. There is some retouched MD5 stuff you should be aware of: "revised the md5 stuff" were his words. Be warned. Now continue your journey.  </td></tr>  </table></p>
+<a name="newsitem1025213759,17081,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The Nth Diff</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:35PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. has released another diff-update, for <a href="http://www.mameworld.net/mameinfo/">MameInfo.dat 4.09</a>. This time besides the usual latest-bugs-and-newest-info stuff, there is a fix removing the 'region' word from the listinfo changes and the inclusion of information from the arcade emulators (what else) Calice and CottAGE.  </td></tr>  </table></p>
+<a name="newsitem1025213697,8054,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>One is enough</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:34PM [BST]</small>  </th></tr>  <tr><td> For third day in a row, more <a href="http://cottage.emuunlim.com/status.htm">CottAGE WIP</a>. I can't help to just post it since I'm a faithful fan of CottAGE :) Short but juicy: 1943 Kai has been added by Erik. Another good shooter for casual play while browsing at work, home, library... :)  </td></tr>  </table></p>
+<a name="newsitem1025213679,81046,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Errare humanum est but this is getting ridiculous</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:34PM [BST]</small>  </th></tr>  <tr><td> The story today is about <a href="http://xbox.mame.net/">MAME-X</a>. Microsoft has finally went down over it and asked for the binaries to be removed. As usual M$ tries to control everything, this really looks like fascism in the information technologies... The story has been <a href="http://slashdot.org/articles/02/06/27/1743229.shtml?tid=167">slashdotted</a> as well.<br><br>The good news is that only the binaries with the official SDK have been sanctioned, so it means that the sources will still be maintained and distributed by Opcode (btw there is a new beta 4), and if in the future an unofficial X-Box SDK appears, binaries might be back. Anyway it's sad cause one of these days, Microsoft will simply go too much far... Thanks to Chris for the /. link.  </td></tr>  </table></p>
+<a name="newsitem1025128550,20194,"></a><h2>Wednesday 26 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Call it hobby, or call it addiction...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:55PM [BST]</small>  </th></tr>  <tr><td> Another massive update at <a href="http://www.system16.com/">System16 - The Arcade Museum</a> courtesy of Sixtoe. RLS syndrome hasn't affected him (too much) and again he serves us a great deal of arcade information and goodies. There is simply too much to mention - like usual. The changes range from the oldest era of discrete components to the newest X-Box and Triforce hardware. My advice is to just dive in :) Thanks Sixtoe for your continued efforts! (And you, the reader, could try to overhelm him as well with even more positive support e-mails!)  </td></tr>  </table></p>
+<a name="newsitem1025128500,5432,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Two minute warning</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:55PM [BST]</small>  </th></tr>  <tr><td> Roman has posted a warning regarding the MD5 usage in the last version of <a href="http://www.clrmame.com/">ClrMamePro</a>. But you didn't need that warning anyway, right? ;)  </td></tr>  </table></p>
+<a name="newsitem1025128434,9191,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Everyday's bread</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:53PM [BST]</small>  </th></tr>  <tr><td> More <a href="http://cottage.emuunlim.com/">CottAGE WIP</a>. This time Gollum added M79 Ambush and Erik added Radar Scope. This will not be a small emulator, indeed! Anyone said Mortal Kombat on Java? :)  </td></tr>  </table></p>
+<a name="newsitem1025128408,51303,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Or fourth...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:53PM [BST]</small>  </th></tr>  <tr><td> There is a new preview release of your favorite Laserdisc emulator: <a href="http://www.xmission.com/~redflame/daphne/">DAPHNE v0.99.5pre4 (June 25th, 2002) for i386 Windows NT/2000/XP (test build)</a>. As usual I don't know what's new but I expect fixes and improvements. Even a little small one. It's always good to be up-to-date (except with m$ products).  </td></tr>  </table></p>
+<a name="newsitem1025128341,67704,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Third attempt is the successful</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:52PM [BST]</small>  </th></tr>  <tr><td> <a href="http://xbox.mame.net/">MAME-X beta 3</a> with some good fixes which makes this port much better to use. Again, no one wants to donate me a console so I can test all these ports? :)  </td></tr>  </table></p>
+<a name="newsitem1025041622,69509,"></a><h2>Tuesday 25 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sad news</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:47PM [BST]</small>  </th></tr>  <tr><td> Unfortunately the <a href="http://www.spies.com/arcade/">Arcade Game Collector's Archive</a> has closed down, due to excessive leeching. Sad thing. Let's hope it resurrects somewhere else since all that info seems to be in dozens of computers :/ Thanks to <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=80129&page=0&view=expanded&mode=threaded&sb=5#Post80129">Greg</a> for the information.  </td></tr>  </table></p>
+<a name="newsitem1025039786,5375,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Lemontree</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:16PM [BST]</small>  </th></tr>  <tr><td> Not only the big brother, but everyone does WIP. This time we can see <a href="http://cottage.emuunlim.com/">CottAGE WIP</a>, where Gollum added Hexa and Erik Duijs added Donkey Kong and Donkey Kong 3. OK, ok, the snapshots aren't anything new but this Java emu is something to take into consideration! And again, it's heavily based in MAME but it's not a port!  </td></tr>  </table></p>
+<a name="newsitem1025039744,75911,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A little note</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:15PM [BST]</small>  </th></tr>  <tr><td> David Raingeard kindly emailed me to comment why the <a href="http://calice.emuunlim.com/">Calice site</a> wasn't updated. The site maintainer hasn't give any signals of life so he decide to ask Mike Haggar to distribute the new version. So that's all, thanks David for informing us.  </td></tr>  </table></p>
+<a name="newsitem1025039726,48757,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Medical Doctor, Five</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:15PM [BST]</small>  </th></tr>  <tr><td> Roman has released another child of him: <a href="http://www.clrmame.com/">ClrMamePro 2.66</a>. It includes the MD5 "checksum" (additionaly to the standard CRC32), revamped around a bit to accomodate it, and added two little changes to the scanner results saving.<br><br>About MD5, Roman warns us that first you need datafiles with MD5 tags, he has made available the MAME 0.60 MD5 datfile for that purpose, and second it takes a long time. So you're served...  </td></tr>  </table></p>
+<a name="newsitem1025039700,25053,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The world reversed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:15PM [BST]</small>  </th></tr>  <tr><td> Tinker has added to <a href="http://misfitmame.mameworld.net/">MisfitMame</a> the game number 347. It's a hack by DaveC, called Bump n Jump Reverse Mod. You can head to MisfitMame's site to know a bit about this hack and get the binaries and sources. Almost all builds have been updated, and there are also snaps and samples.  </td></tr>  </table></p>
+<a name="newsitem1025039677,69697,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Konichiwa?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:14PM [BST]</small>  </th></tr>  <tr><td> Sisei has released the sources of <a href="http://siseinohito.tripod.co.jp/">MAME32jp for Dreamcast</a>. I don't know the limitations of this version, or anything else. Further information might be found at <a href="http://dev.dcemulation.com/mamed/">Unofficial MAMED</a>, but might be not... There's someone asking for help to do a new port of MAME 0.60 to the Dreamcast. Hopefully this time it's not in japanese!  </td></tr>  </table></p>
+<a name="newsitem1024954567,54659,"></a><h2>Monday 24 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Calice II: The return</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:36PM [BST]</small>  </th></tr>  <tr><td> The Capcom CPS1 and CPS2 emulator <a href="http://calice.emuunlim.com/">Calice</a> has been updated to version 0.6.0. All the xor'ed CPS2 games since the last update were added. Strange enough, the official page hasn't been update, but you can get it at <a href="http://haggar.emuunlim.com/">Mike Haggar's page</a> as well. Thanks to Mike Haggar for the... For all, I guess :)  </td></tr>  </table></p>
+<a name="newsitem1024954543,30051,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Did you have a hangout?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:35PM [BST]</small>  </th></tr>  <tr><td> And time for <a href="http://www.mame.net/wip/">MAME WIP</a>. Five days of good development, with a handful of screenshots from five games added by Acho A. Tang. They are mid-age games by Alpha Denshi. There are some more clones (including two Piranha ones with snaps), as well as some more fixes around, and a new chip emulated by Zsolt Vasvari. Read the details in your usual MAME WIP provider.  </td></tr>  </table></p>
+<a name="newsitem1024954510,94856,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Seen one in a nearby restaurant...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:35PM [BST]</small>  </th></tr>  <tr><td> There are a lot of new PCB's reported at <a href="http://unemulated.emuunlim.com/">Guru's ROM Dumping News</a>. Guru has received some good games, including an Hyper Neo Geo 64 cart. Guru is searching for a Hyper Neo Geo 64 PCB to be able to dump it, so if you are able to loan or donate one to him, well, what are you waiting for! As well, thanks to all the donators and lenders :)<br>  </td></tr>  </table></p>
+<a name="newsitem1024954464,30346,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Boxed MAME</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:34PM [BST]</small>  </th></tr>  <tr><td> Here it is the new URL for MAME-X: <a href="http://xbox.mame.net/">http://xbox.mame.net/</a>. There was a new beta released, and the sources were made available according to the MAME license. There have been some testimonies about the playability of this port and most of them agree that it's probably the most solid port to a big console. Nothing strange since the X-Box is actually a PC overdeformed for games, which could be perfect except for a little memory problem. So go and enjoy if you can! I don't have one, so I accept donations in form of Dreamcasts, PlayStations (one or two) and X-Box. I'd accept even a Saturn ;) Thanks to Prophet for the url tip.  </td></tr>  </table></p>
+<a name="newsitem1024844085,39117,"></a><h2>Sunday 23 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Total Recall</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:54PM [BST]</small>  </th></tr>  <tr><td> The CottAGE team has released <a href="http://cottage.emuunlim.com/">CottAGE 0.04</a> which contains a bunch of things. There is a new 6809 CPU which allows some more games to be played with this great arcade emulator written in Java. The new games are Dottori Kun, Galaga, War of bugs, Minivader, Van Van Car, Dream Shopper, Yie-Ar Kung-Fu, and News. There are more clones, fixed drivers, and much more. The site has been enhanced and fixed a bit around too, as well as some other things you can't miss.  </td></tr>  </table></p>
+<a name="newsitem1024843963,85600,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Webcopynews</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:52PM [BST]</small>  </th></tr>  <tr><td> This friday I overlooked about a port, since I already posted too many. But well, if Prophet mentions it I could too: <a href="http://www.gp32emu.com/">GP32MAME</a> which is of course a port for the GamePark 32, a handheld console. But if you want something bigger, you can check <a href="http://kustom.demented.org/~jiggaligga/mame-x/">MAME-X</a> which is another port for the X-Box, according to <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=79854&page=0&view=expanded&mode=threaded&sb=5#Post79854">this post by Glitch77</a>. Thanks to KillerClown, Prophet and Glitch77 for spreading the news.  </td></tr>  </table></p>
+<a name="newsitem1024843949,49954,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Say it louder</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:52PM [BST]</small>  </th></tr>  <tr><td> Twisty had updated the enhanced Star Castle sampleset he received from Gyrovision yesterday. It has some volume up, and you can get it at <a href="http://www.fraggersxtreme.com/samples/">Twisty's MAME Samples</a> of course.  </td></tr>  </table></p>
+<a name="newsitem1024783460,77065,"></a><h2>Saturday 22 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sounds like it...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:04PM [BST]</small>  </th></tr>  <tr><td> It seems that DarkbladE has enhanced the Star Trek samples and submitted it to <a href="http://www.fraggersxtreme.com/samples/">Twisty's MAME samples</a> (thanks KC for the tip). That's something great until some crazy brain decides to study those discrete components and simulate them. Also Twisty might add also a <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=79797&page=0&view=expanded&mode=threaded&sb=5#Post79797">enhanced Star Castle sampleset by Gyrovision</a> as well.<br><br><b>Update:</b>Twisty added those Star Castle samples with an improved drone sound.  </td></tr>  </table></p>
+<a name="newsitem1024758782,98141,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Don't get it wrong</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:13PM [BST]</small>  </th></tr>  <tr><td> Tinker has added Moon Ranger to <a href="http://misfitmame.mameworld.net">MisfitMAME</a>, since it was removed from the official MAME some versions ago. It makes the total game count to raise up to 346. Almost all Misfitbuilds have been updated as well.  </td></tr>  </table></p>
+<a name="newsitem1024758720,28804,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Keeping with the good work</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:12PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. has released another chapter: <a href="http://www.mameworld.net/mameinfo/">MameInfo.dat 4.08</a>. Can you guess the contents? :) Yes newest wip and latest bugs and correct listinfo changes...   </td></tr>  </table></p>
+<a name="newsitem1024758701,75196,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>No release this weekend either? No problemo!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:11PM [BST]</small>  </th></tr>  <tr><td> How much stick can you handle? No it's not sexual harassment, it's <a href="http://www.xiaoxiaomovie.com/">Xiaoxiao</a>!!!! For the fans of Star Wars you could try <a href="http://www.dudestudios.com/">Dudestudios</a>, too bad <a href="http://www.thumb.com/thumbwars/">ThumbWars</a> doesn't offer the full movie for free anymore - anyway I already have it. Somewhere. I think. And for daily strips my favorite has always been Mafalda, or even Garfield, but a good option (IMHO the best in inet) is <a href="http://www.sinfest.net/">Sinfest</a> tho lately it has lost some energy and acids... Getting old, Tatsuya?  </td></tr>  </table></p>
+<a name="newsitem1024693932,33456,"></a><h2>Friday 21 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>That little thing called Advance</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:12PM [BST]</small>  </th></tr>  <tr><td> Andrea has made a double release at the <a href="http://advancemame.sourceforge.net/">Advance Projects</a> homepage. First one is AdvanceMENU 1.19.0 with the usual bunch of fixes and improvements, and the second is AdvanceSCAN 1.1 which is a bugfix release.  </td></tr>  </table></p>
+<a name="newsitem1024687886,42875,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>My lack of japanese skills</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:31PM [BST]</small>  </th></tr>  <tr><td> I've read at the <a href="http://dev.dcemulation.com/mamed/">Unofficial MAMED Homepage</a> that <a href="http://siseinohito.tripod.co.jp/">Sisei</a> has mentioned MAME32JP in his Dreamcast page. I hope this doesn't mean the port will be constrained to a japanese version...  </td></tr>  </table></p>
+<a name="newsitem1024686975,75779,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>But nothing like the real thing anyway...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:16PM [BST]</small>  </th></tr>  <tr><td> Halcyon Days is a collection of interviews with classic game programmers. From it's original book version, it has been put online for our enjoyment. Definitely worth a look for the ones who don't know the name. Also for the ones who know what is <a href="http://www.dadgum.com/halcyon/">Halcyon Days</a> of course :) Thanks to Brian for the info in <a href="http://www.retrogames.com/cgi-bin/wwwthreads/showpost.pl?Board=retrogen&Number=56208&page=0&view=expanded&mode=threaded&sb=5#Post56208">his post</a>.  </td></tr>  </table></p>
+<a name="newsitem1024685023,83018,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Once in a while</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:43PM [BST]</small>  </th></tr>  <tr><td> Fandemame released <a href="http://fandemame.emu-france.com/">History.dat 0.60c</a>, which includes new information for about 0 games... Erm I mean this is a maintenance release. General cleaning and corrections of bugs and errors. Improving quality, you know. Great thing to me :)  </td></tr>  </table></p>
+<a name="newsitem1024684853,15940,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Parle francaise?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:40PM [BST]</small>  </th></tr>  <tr><td> The translations of <a href="http://www.macmame.org/">MacMAME 0.60a</a> have been made available to the public thru this week. The Italian version and the French version are now there waiting for  So if you don't like english, there you go.  </td></tr>  </table></p>
+<a name="newsitem1024684831,20063,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The whole family</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:40PM [BST]</small>  </th></tr>  <tr><td> Tinker has updated all the <a href="http://misfitmame.mameworld.net/">MisfitMAME</a> versions to be up-to-date with the last changes happened earlier this week.  </td></tr>  </table></p>
+<a name="newsitem1024670161,10606,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Beware world, I'm back!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:36PM [BST]</small>  </th></tr>  <tr><td> Hey wazzzup and all that. My apologies for missing the last two days. Unexplainably I lost my phone line and couldn't connect and post my usual bunch of arcade-ish news. I'll try to get up-to-date during today, so sorry if I mix old and recent news for once (like if it were the first time...)<br><br>As for me, well I found again my 48,000+ lyrics collection and finished the RAINE snaps which will be uploaded to CAESAR's pages tonight hopefully by Logiqx, who else. At least I didn't miss the MAME release, but I guess that's not something good for you :-p  </td></tr>  </table></p>
+<a name="newsitem1024437368,51020,"></a><h2>Tuesday 18 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More points of view are always welcomed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:56PM [BST]</small>  </th></tr>  <tr><td> Tinker has updated <a href="http://misfitmame.mameworld.net/">Misfit MAME</a> with a new Simpsons Tapper hack by DaveC. Misfit MAME is a "politically incorrect" MAME variation with games not included in the official release, like hacks and other non-arcade games. Thanks to Tinker for telling to <a href="http://www.mameworld.net/">KillerClown</a>.  </td></tr>  </table></p>
+<a name="newsitem1024436915,84881,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Finally!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:48PM [BST]</small>  </th></tr>  <tr><td> A <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamenewreleasetalk&Number=16631&page=0&view=expanded&mode=threaded&sb=5#Post16631">poll for hardcore arcade gamers</a>, courtesy of Bitstorm Omega :)  </td></tr>  </table></p>
+<a name="newsitem1024436845,93311,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Always evolving</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:47PM [BST]</small>  </th></tr>  <tr><td> Richard Bannister gives us a glimpse of what is going to come at his emulator MAC ports. I don't know much about them anyway since I'm a poor Windows user, but I guess that some of you out there are users of his ports, and the improvements he mentions seem to be nice. You can read all of it at <a href="http://www.bannister.org/software/index.htm">Richard's homepage</a>.  </td></tr>  </table></p>
+<a name="newsitem1024436571,17063,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A positive anything is better than a negative nothing</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:42PM [BST]</small>  </th></tr>  <tr><td> And another dose of <a href="http://www.mame.net/wip/">MAME WIP</a>. The last day of development includes quite some things for just 24 hours... You can see the pictures of Car Polo and Gulf War II, plus some other things like NVRAM in TriSports... But I thought it was battery backed RAM?  </td></tr>  </table></p>
+<a name="newsitem1024346160,96821,"></a><h2>Monday 17 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Seriously being late</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:36PM [BST]</small>  </th></tr>  <tr><td> Since 0.61 doesn't come, people keep updating over the now quite old 0.60, now it's the turn of <a href="http://go.to/nmamex">CANAME 0.60.8</a> plus MinGW for CANAME and history.dat (in japanese I guess). A handful of small bugfixes, but if CANAME is your choice I'd recommend you to udpate.  </td></tr>  </table></p>
+<a name="newsitem1024345463,74193,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>It's a babel world</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:24PM [BST]</small>  </th></tr>  <tr><td> Since I don't understand japanes and a couple of you (that's 2) have shown interest in <a href="http://siseinohito.tripod.co.jp/">Sisei's Dreamcast MAME ports</a>, I found this weekend a nice page called <a href="http://dev.dcemulation.com/mamed/">Unofficial MAMED American Website</a>. Hope it helps. As Chris says, Sisei has also added some WIP shots.<br><br><b>Update:</b> It seems that <a href="http://dev.dcemulation.com/mamed/">Unofficial MAMED American Website</a> is currently down (as well as part of ZTNet), this saturday it worked perfectly, and I think it will be back very soon.  </td></tr>  </table></p>
+<a name="newsitem1024345413,37477,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I'm your friend</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:23PM [BST]</small>  </th></tr>  <tr><td> Gridle has posted more <a href="http://www.mame.net/wip/">MAME WIP</a> instead of some source and binaries, well what can we do... Four days of development from the nice and sacrified guys who work hard to improve MAME. They keep adding lots of games for next version, right now you can see pictures of Clay Shoot, Dingo, Space Bugger and Bakutotsu Kijuutei, plus more things you should read about. You want to be an informed person, right?  </td></tr>  </table></p>
+<a name="newsitem1024261231,67509,"></a><h2>Sunday 16 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Squeezer update</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:00PM [BST]</small>  </th></tr>  <tr><td> Roman (on the edge of his 1000th post) has released <a href="http://www.clrmame.com/">ZipMax 0.37</a>, which as he says, only has some minor things changed. Now the number of external packers can be up to 99, but who would be crazy enough? :)  </td></tr>  </table></p>
+<a name="newsitem1024260839,26057,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Relax on a too warm day</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:53PM [BST]</small>  </th></tr>  <tr><td> You might want to go for a walk at the <a href="http://cottage.emuunlim.com/">CottAGE homepage</a> and admire the new web design by Karine. Now everything is handy and neat, tho the buttons... Nah it's cute :)  </td></tr>  </table></p>
+<a name="newsitem1024248774,42832,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sync in sync</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:32PM [BST]</small>  </th></tr>  <tr><td> There has been a late update and <a href="http://vsynchmame.mameworld.net/">VsyncMAME 0.60</a> has been released. VsyncMAME is a MAME variant for fixed frequency monitors and so on, or at least I think so... Source is included in the 686 binary download.  </td></tr>  </table></p>
+<a name="newsitem1024239639,96824,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Beware of the dog</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:00PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. has brought us another of his pre-WIP. This time he added Dingo, a Jaleco game from 1983 (but it says (c) 1983 A.C.G.?) which seems to be a colorful maze game. As he says in <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=79328&page=0&view=expanded&mode=threaded&sb=5#Post79328">the announcement post</a>, only sound is missing right now. The snaps can be seen at <a href="http://www.mameworld.net/mameinfo/">M.A.S.H.'s MameInfo page</a>.  </td></tr>  </table></p>
+<a name="newsitem1024179517,36186,"></a><h2>Saturday 15 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Again better late than...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:18PM [BST]</small>  </th></tr>  <tr><td> I didn't know until today, so I just want to wish to <a href="http://haggar.emuunlim.com/">Mike Haggar</a> a happy belated birthday. Next time tell us with a bit of time! :) Btw he's back at updating, exams over and all that so now we want our cheats!  </td></tr>  </table></p>
+<a name="newsitem1024164886,5354,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Two is better than one</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:14PM [BST]</small>  </th></tr>  <tr><td> ElSemi also takes advantage of the weekend and makes a double release: <a href="http://nebula.emulatronia.com/">Nebula 2.17 and Jukebox 2.3</a>. Nebula features an improved PGM sound emulation, and a bunch of minor bugfixes everywhere. I mean a bunch, really. About Jukebox, it finally supports PGM music playing, but in a strange way. Read the documentation about the PZM files and you'll be ok...  </td></tr>  </table></p>
+<a name="newsitem1024156930,77318,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Still in time to comment</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:02PM [BST]</small>  </th></tr>  <tr><td> The other day I missed <a href="http://mac.emuhq.com/geomame/">GeoMAME 0.57e</a>, which like the CPS counterpart, added HID support to the current build. Only for MacOS X, blah blah blah. You know the deal.  </td></tr>  </table></p>
+<a name="newsitem1024156888,3553,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Maybe the last for this version</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:01PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. seizes the weekend and releases <a href="http://www.mameworld.net/mameinfo/">MameInfo.dat 4.07</a>, a DIFF-only update with the newest WIP and latest bugs up to June 12th.   </td></tr>  </table></p>
+<a name="newsitem1024156842,573,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Happy millions to you...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:00PM [BST]</small>  </th></tr>  <tr><td> As I commented here some weeks ago, it happened. Congratulations to <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a> for their 2,000,000 hits, achieved yesterday. Two millions is a great number, so now let's wait for five! Keep on the good work, and it will be dead easy ;)  </td></tr>  </table></p>
+<a name="newsitem1024005813,9816,"></a><h2>Thursday 13 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Testers Square</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:03PM [BST]</small>  </th></tr>  <tr><td> Smitdogg has also been a kind dude and updated <a href="http://www.mametesters.com/">MAME Testers</a>, more specifically the Orange Files section. It's curious that prolly we'll need to start a MAME Testers Testers page, since they accumulate so much information that errors have to come, like the Gunbird/Battle K-Road description exchange :) Also I see no mention to the second name of Darius 2? Sagaia!<br><br>That's pretty much about it since everyone is holding their breath for 0.61 it seems... Even me! However, it seems that tomorrow I will not be able to update anything (I'll be out anyway), so if anything happens, my best bet is to keep an eye in <a href="http://www.mame.net/cgi-bin/wwwthreads/wwwthreads.pl?action=list&Board=mamegeneral">MAME's Official Forum</a>. I'll update CAESAR as soon as I'm back.  </td></tr>  </table></p>
+<a name="newsitem1024005773,3405,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Too much stuff</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:02PM [BST]</small>  </th></tr>  <tr><td> Gridle has returned with a long and nice <a href="http://www.mame.net/wip/">MAME WIP</a> update. The last seven days of development have been finally made public, full of nice news. My advice is as usual to read it by yourself, it has a bit from everything, from Monte Carlo (Atari 1979) to Battle Backraid (Raizing 1999), going thru more games, fixes, improvements and everything... These MAMEDevs are great guys indeed! I think we will have a nice weekend ;)  </td></tr>  </table></p>
+<a name="newsitem1023917356,80083,"></a><h2>Wednesday 12 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Quick results!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:29PM [BST]</small>  </th></tr>  <tr><td> I suscribed 60 minutes ago to the TAFA mailing list, and guess what, I just received an update! Gerard has added (or replaced) fifty flyers to <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a>. There are some neogeo games, and mostly mid or modern age games like Puzzle Bobble, Mad Dog McCree, Gauntlet Legends and 64th Street. Many ones from Atari, Taito and Jaleco. Happy browsing!  </td></tr>  </table></p>
+<a name="newsitem1023912871,27981,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Apologies</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:14PM [BST]</small>  </th></tr>  <tr><td> I missed one of the releases past sunday, but today there has been another: <a href="http://mac.emuhq.com/cpsmame/">CPSMAME 6.12.02</a>. Since Brad updated MacMAME, this CPS-only version was updated as well, trying to adapt the current package to the 0.60's features (like a better HID support). Today there has been a small fix, so if you missed it this sunday, you're still in time. Be sure to read sunday's update too anyway.  </td></tr>  </table></p>
+<a name="newsitem1023912859,63405,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mac day</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:14PM [BST]</small>  </th></tr>  <tr><td> Brad Oliver wasn't happy enough and he has released <a href="http://www.macmame.org">MacMAME 0.60a</a>, packed with some big fixes for all you Mac users. In just two days, it features great improvements, from F3 sound to correct auditing, the changelog is all good news. There are some games working again and alternate inputs have been heavily bugfixed.<br>  </td></tr>  </table></p>
+<a name="newsitem1023831467,98875,"></a><h2>Tuesday 11 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The legend again</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:37PM [BST]</small>  </th></tr>  <tr><td> For all you Atari fans, the <a href="http://www.orubin.com">World of Owen Rubin</a> has been updated. A good read certainly, the mailbag I mean, and a good option if you want to hire someone... Thanks for the news go to <a href="http://www.retrogames.com/cgi-bin/wwwthreads/showpost.pl?Board=retrogen&Number=56081&page=0&view=expanded&mode=threaded&sb=5#Post56081">Brian Deuel</a>.  </td></tr>  </table></p>
+<a name="newsitem1023830560,21618,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The good, the bad and the latest</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:22PM [BST]</small>  </th></tr>  <tr><td> First of all, happy birthday Kazuya! Second, we hope you and your finger recover soon, I know what's typing with a cast and a broken bone... And third, if you go and visit <a href="http://www.neogeoforlife.com/">Neogeoforlife.com</a> to say him "happy bday and get well soon" you will also know of the last AES release...  </td></tr>  </table></p>
+<a name="newsitem1023830530,41808,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Jump!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:22PM [BST]</small>  </th></tr>  <tr><td> Now everyone has to go run amok and check frantically <a href="http://cottage.emuunlim.com/">CottAGE</a>, the generic Java emulator which doesn't have a new version, but has started the usual things for a good size project. There is a forum, a development chart, and the most interesting thing IMHO, the WIP! The shots are from Yie-ar Kung Fu, Dottori Kun and Minivader.  </td></tr>  </table></p>
+<a name="newsitem1023830370,55055,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>To know what is coming...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:19PM [BST]</small>  </th></tr>  <tr><td> More good news from Guru at his <a href="http://unemulated.emuunlim.com/">Rom Dumping News</a>. First, he has dumped an alternate Tekken 2 PCB and shows a shot from it (being emulated that is). Second, he has dumped Prop Cycle, which is being emulated by Phil Stroffolino. He has included a WIP screenshot as well.<br><b>Update:</b> <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=79027&page=0&view=expanded&mode=threaded&sb=5#Post79027">Mr. GoodWraith</a> is still at it too...  </td></tr>  </table></p>
+<a name="newsitem1023830342,86879,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The non-stop magazine</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:19PM [BST]</small>  </th></tr>  <tr><td> Again new home, and new look too. <a href="http://www.mamemag.tk/">MAMEMag</a> keeps evolving. I prefer the new look of course! Remember that the new issue will come around the end of the month.  </td></tr>  </table></p>
+<a name="newsitem1023751071,48302,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Bring it here anyway</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:17AM [BST]</small>  </th></tr>  <tr><td> While we are all waiting for someone to come back and release MAME 0.61, M.A.S.H. has done it again and showed us some more pre-WIP, he has added Vs. Ring Fighter (alternate). Not too much but well everything is worth a look :) You can check pics, explanation and driver link <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=78970&page=0&view=expanded&mode=threaded&sb=5#Post78970">this forum post by himself</a>.  </td></tr>  </table></p>
+<a name="newsitem1023745196,33411,"></a><h2>Monday 10 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Newspaper without paper</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:39PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a>, a.k.a. "the site which is incompatible with Check & Get", has added a subscription for a mailing list so you receive news happening at TAFA right in your mailbox. I'm going to suscribe right now!  </td></tr>  </table></p>
+<a name="newsitem1023745176,85966,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Just for fun</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:39PM [BST]</small>  </th></tr>  <tr><td> Triggerfin made a cryptic and engrish update at <a href="http://www.mameworld.net/catlist/">CATLIST</a>. He did it by using various machine translations found at <a href="http://www.babelfish.com/Translations.shtml">Babelfish</a> to translate recurrently from one language to another (Japanese to Portuguese, then Portuguese to Russian...) and finally putting it in english. If you understand what he says, congrats, you're not braindead. Nope, eventually hard is not, like if...  </td></tr>  </table></p>
+<a name="newsitem1023745160,56038,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Brain 0.9beta ported to Skull OS</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:39PM [BST]</small>  </th></tr>  <tr><td> hile we are on this porting crazyness, you can head to <a href="http://www.beemulated.net/">BeEmulated.net</a>, where GoodOldGames has compiled RAINE 0.35b for BeOS.  </td></tr>  </table></p>
+<a name="newsitem1023745119,81287,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Smile!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:38PM [BST]</small>  </th></tr>  <tr><td> After a long time of idling, there has been an update at the <a href="http://digita.mame.net/news.htm">MAMED!</a> site. MAMED! is MAME for Digita enabled cameras, and there is a new (old) version, plus some discussion about MAME being ported to the <a href="http://www.dcemulation.com/">Dreamcast</a>. Please note that MAME has been ported recently to the <a href="http://playstation2-linux.com/project/showfiles.php?group_id=17">Playstation 2</a> but I am not sure of the grade of success of either project. However the new (old) MAMED! 37b6.5 seems to run some more games.<br>  </td></tr>  </table></p>
+<a name="newsitem1023745094,80515,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>You have been carbonized</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:38PM [BST]</small>  </th></tr>  <tr><td> Now here you have <a href="http://www.macmame.org/">MacMAME 0.60</a>, slow but safe! It's finally in sync with the official build, plus some good fixes for you Mac users. For the compilers, this version has moved to CodeWarrior Pro 8, and it's not backward compatible... Read the included documentation (if any).  </td></tr>  </table></p>
+<a name="newsitem1023656318,59110,"></a><h2>Sunday 9 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>For what is to come</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:58PM [BST]</small>  </th></tr>  <tr><td> Metafox has posted some words regarding <a href="http://www.emucamp.com/laser/">The Sega Arcade Project</a>. There are also some screenshots of Heavyweight Champ, so if you want to be informed, go there and read what's in his head...  </td></tr>  </table></p>
+<a name="newsitem1023586265,93618,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Blurry day</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:31AM [BST]</small>  </th></tr>  <tr><td> ElSemi has made a second release today: <a href="http://nebula.emulatronia.com/">Nebula Jukebox 2.2</a>, which adds some missing ZN games. He has also added a link to get additional game shots, made by Dark MSX.<br>  </td></tr>  </table></p>
+<a name="newsitem1023551031,51501,"></a><h2>Saturday 8 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Bring here that Z80, dude...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:43PM [BST]</small>  </th></tr>  <tr><td> ElSemi (desnatado?) has released <a href="http://nebula.emulatronia.com/">Nebula 2.16</a>. The main feature is music in PGM, according to the history, it means "correct sound and music in games", tho he admits some notes are out of place. There is also shot factory for PGM games, and some more additions and fixes all around. Yes, that 640x480 scanlined mode works again...  </td></tr>  </table></p>
+<a name="newsitem1023550996,7983,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mortal Slug... Metal Kombat</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:43PM [BST]</small>  </th></tr>  <tr><td> Kazuya has something for you Metal Slug fans and/or recent arcade lovers. It's over at <a href="http://www.neogeoforlife.com/">Neogeoforlife.com</a>, and it's nice. No meg count but... Anyway why would anyone want to know the number of bits inside?  </td></tr>  </table></p>
+<a name="newsitem1023483634,60048,"></a><h2>Friday 7 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Repeated</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:00PM [BST]</small>  </th></tr>  <tr><td> Gerard has made a new update at <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a>, and fortunately this time it's quite bigger than the last ones: Gal's Panic II, R-Type Leo, Windjammers, GTMR, The Simpsons... And up to 50 flyers. Gerard says he could have uploaded more, but he didn't want. So may we expect some other big update soon? :)  </td></tr>  </table></p>
+<a name="newsitem1023483609,43214,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>How long...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:00PM [BST]</small>  </th></tr>  <tr><td> M.A.S.H. does it again and releases <a href="http://www.mameworld.net/mameinfo/">MameInfo.dat 4.06</a>, with the newest WIP, latest bugs, best corrections and all the usual stuff. Phew...  </td></tr>  </table></p>
+<a name="newsitem1023483527,94983,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nice visits at home</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:58PM [BST]</small>  </th></tr>  <tr><td> Guru has received another visitor: Behind Enemy Lines, a Sega Model 2 game. There are also screenshots of Dunkmania, go check everything at <a href="http://unemulated.emuunlim.com/">The Guru's Rom Dumping News</a>.  </td></tr>  </table></p>
+<a name="newsitem1023406897,30321,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>wapwepWIPwopwup</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:41AM [BST]</small>  </th></tr>  <tr><td> The <a href="http://www.mame.net/wip/">MAME WIP</a> has just been updated with the last two days of hard development of the developers... At least the *visible* development :) The pics aren't anything spectacular, they are from the submitted games called Super Ten, Super Duper Casino and the more colorful Legion. I would like to point out again the hard work done by Aaron in the artwork department, as MASH explained in <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=78749&page=0&view=expanded&mode=threaded&sb=5#Post78749">a forum post</a>. From one side it's funny but from all the rest it's impressive! Of course everyone else is also doing a great job, but I'm weak about classic artwork :)  </td></tr>  </table></p>
+<a name="newsitem1023398084,58360,"></a><h2>Thursday 6 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Housekeeping</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:14PM [BST]</small>  </th></tr>  <tr><td> Logiqx has made some maintenance on CAESAR. He has added a new PS2 section (for the X-MAME port), added zMAME, updated a variety of things and made a general clean-up. Now CAESAR is as usual: shining as new.  </td></tr>  </table></p>
+<a name="newsitem1023393474,73925,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Some more to drool...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:57PM [BST]</small>  </th></tr>  <tr><td> Aaron Giles updated his site with more teasers for the upcoming new artwork system. These look very good, they are from 1943, Commando and Mad Planets. I wonder how many of these .art packs we will have to get on the release day, but I don't mind if they are a hundred, certainly look great! Oh well, see them at <a href="http://www.aarongiles.com/">Aaron's Home Page</a>, that's right.  </td></tr>  </table></p>
+<a name="newsitem1023393460,25212,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Corrections welcomed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:57PM [BST]</small>  </th></tr>  <tr><td> Mike Beaver uploaded yesterday an old & wrong version of <a href="http://mimic.arcadeheaven.com/">Mimic 2.04</a>, so go and get it now. Btw he changed the date too so now everything is correct :)  </td></tr>  </table></p>
+<a name="newsitem1023393447,8018,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ultraflyer</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:57PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a> has made a little update with an Ultracade flyer and another for B.Rap Boys. Sorry but I love flyers :)  </td></tr>  </table></p>
+<a name="newsitem1023393422,11513,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Small but efficient?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:57PM [BST]</small>  </th></tr>  <tr><td> I noticed a change in the <a href="http://www.mameworld.net/imame/">iMAME for iPaq</a> page, but I don't understand too much, owners of an iPaq could head there and discover by themselves. Oh my head...  </td></tr>  </table></p>
+<a name="newsitem1023312009,50512,"></a><h2>Wednesday 5 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>As much info as you can handle</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:20PM [BST]</small>  </th></tr>  <tr><td> Another big update, Fandemame seems to have accumulated lots of information, he has released <a href="http://fandemame.emu-france.com/">History.dat 0.60b</a> with tons of new additions, also in the tip & tricks section. Grab this quite big update where you usually do.  </td></tr>  </table></p>
+<a name="newsitem1023311957,77298,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Monthly releases?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:19PM [BST]</small>  </th></tr>  <tr><td> Despite the date mentioned in the page, The Beaver has released today (and not a month ago) <a href="http://mimic.arcadeheaven.com/">Mimic 2.04</a>. It seems that the new things are again mostly for consoles, but there is a new 6502 core. Anyway we don't need too many excuses to update, right?  </td></tr>  </table></p>
+<a name="newsitem1023311917,78715,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>And again...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:18PM [BST]</small>  </th></tr>  <tr><td> For fourth consecutive day, Kazuya has posted more inserts at <a href="http://www.neogeoforlife.com/">Neogeoforlife.com</a>. This time he completed the KOF collection.  </td></tr>  </table></p>
+<a name="newsitem1023217615,59483,"></a><h2>Tuesday 4 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Fresh as everyday bread</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:06PM [BST]</small>  </th></tr>  <tr><td> Seems we are back again to the daily <a href="http://www.mame.net/wip/">MAME WIP</a>. Which is good indeed, these devs work hard :) There are pics of three submitted games: Kiki Ippatsu Mayumi-chan, Jump Kids and The Next Space. There were two more submissions but no pics of them (one doesn't work). So head there to read the full story.  </td></tr>  </table></p>
+<a name="newsitem1023217284,57911,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A world around MAME</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:01PM [BST]</small>  </th></tr>  <tr><td> There is a new home for <a href="http://zmame.mameworld.net">ZMAME</a>, the MAME port for the Zaurus PDA. And where else than <a href="http://www.mameworld.net/">MameWorld</a>?<br><br>And somehow I haven't posted about all these but <a href="http://www.mameworld.net/">MameWorld</a> are running competitions to win an Act-Labs Lightgun, so if you're good playing <a href="http://caesar.logiqx.com/html/games/nstocker.shtml#nstocker">Night Stocker</a>, then just go to MW and read sunday's news.  </td></tr>  </table></p>
+<a name="newsitem1023216858,81950,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More windows and more windows...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:54PM [BST]</small>  </th></tr>  <tr><td> Roman is back in town and to prove it he has released <a href="http://www.clrmame.com/">ClrMamePro 2.65</a>. It contains a new "setinformation" window which is handy to get an overview of a certain set in a quick way. There are a handful of other new/fixed/improved things, so get your update at his still shining new domain :)  </td></tr>  </table></p>
+<a name="newsitem1023216840,94972,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>EmuStatus 101%</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:54PM [BST]</small>  </th></tr>  <tr><td> Shortly after his last update, WTC has changed again <a href="http://emustatus.rainemu.com/">Emulation Status</a>, with a dozen (uhm actually 11) changes he couldn't make in the earlier update. As he mentions, the update is not very big but anyway I guess you're not done with the last one anyway, so keep digging in this big site.  </td></tr>  </table></p>
+<a name="newsitem1023143806,72144,"></a><h2>Monday 3 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Java emu eaten by roman emperor</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:36PM [BST]</small>  </th></tr>  <tr><td> Logiqx has released the datafiles for CottAGE and added it to CAESAR as well. What an... mmmm.... energetic return :) Get them at <a href="http://www.logiqx.com/">Logiqx's homepage</a> of course.  </td></tr>  </table></p>
+<a name="newsitem1023137121,69924,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Return from the netherworlds</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:45PM [BST]</small>  </th></tr>  <tr><td> It seems today it's the day of returns. Another one is Kazuya who has updated twice <a href="http://www.neogeoforlife.com/">Neogeoforlife.com</a>. There is some good stuff for NeoGeo lovers, like more inserts for KOF from the competition, a movie from Rage of the Dragons and well... Not going to spoil all the surprises!<br>  </td></tr>  </table></p>
+<a name="newsitem1023137105,37199,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>If you're worried about...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:45PM [BST]</small>  </th></tr>  <tr><td> Triggerfin has updated <a href="http://www.mameworld.net/catlist/">CATList</a> with a WIP redesign, and he has also added a file for the Mame Content Manager. Beware it deletes roms!  </td></tr>  </table></p>
+<a name="newsitem1023137090,19617,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Little but still</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:44PM [BST]</small>  </th></tr>  <tr><td> After some time of rest, there are new things on <a href="http://www.mameworld.net/pacmame/">PacMAME</a>. Only one game added, the Falcom (Falcon?) version of Pacman, but well it's a start. I hope to see it back on our download managers soon :)  </td></tr>  </table></p>
+<a name="newsitem1023137076,49471,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Unchain my drivers</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:44PM [BST]</small>  </th></tr>  <tr><td> And another <a href="http://www.mame.net/wip/">MAME WIP</a> for today. It's plenty of colorful screenshots, from X-Day 2, Beast Busters, Mechanized Attack (all of them new submissions) and Quiz Sailor Moon (cute fixed colors). As usual my advice is to go to the source and read it all :-p  </td></tr>  </table></p>
+<a name="newsitem1023137062,15742,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Flying start</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:44PM [BST]</small>  </th></tr>  <tr><td> After almost one month, <a href="http://www.arcadeflyers.com/">The Arcade Flyers Archive</a> breaks the silence (be sure to read the update) and adds flyers for nine games, like Soul Edge and Dungeons & Dragons: Tower of Doom. Nice artwork :)  </td></tr>  </table></p>
+<a name="newsitem1023052522,74185,"></a><h2>Sunday 2 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ave Caesar</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:15PM [BST]</small>  </th></tr>  <tr><td> Triumphally triumphant, Logiqx has come back from his campaigns in Britannia, Germania, Hispania and any other "ania". It seems with renewed energies since he has released dats for the latest Nebula, Raine and Laser over at <a href="http://www.logiqx.com/">Logiqx's page</a>, as well as updated CAESAR with all the stuff, and he had even time to say "hi" to me and notify me of all this :)  </td></tr>  </table></p>
+<a name="newsitem1023037196,6157,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Developing for the future</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:59PM [BST]</small>  </th></tr>  <tr><td> More <a href="http://www.mame.net/wip/">MAME WIP</a> for today, this guy is fast when he wants... Dragonball Z 2 gets rights colours, and Red Robin has been submitted. For the rest, go ahead...  </td></tr>  </table></p>
+<a name="newsitem1023036563,50364,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Small step for MASH but a giant leap...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:49PM [BST]</small>  </th></tr>  <tr><td> Lately more and more devs are making pre-wips, and M.A.S.H. repeats it with a driver for Vs. Raid on Bungeling Bay, for the Nintendo VS system. You can see and get <a href="http://www.mameworld.net/mameinfo/wip/">pics and driver</a>. In the forum, OG said it was too much of a hack, so it's not clear if it will go into MAME as it is or not. For me it would be ok, a hacked driver is the first step to emulate protection, as an example take CPS-2 and the XOR files :-p  </td></tr>  </table></p>
+<a name="newsitem1023036346,8943,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Want to fight better?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:45PM [BST]</small>  </th></tr>  <tr><td> Another hardware thing to plug on your computer/whatever and smack up some opponents in your favorite emulator: <a href="http://www.slikstik.com/fighter.htm">SlikStik Fighter</a>. Once you see the picture everything is more clear, so if you are rich, you might want to check it out :) Thanks (once again) to <a href="http://www.mameworld.net/">MameWorld</a> for the tip.  </td></tr>  </table></p>
+<a name="newsitem1022978539,44156,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Was it what it was?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:42AM [BST]</small>  </th></tr>  <tr><td> I was missing something, but <a href="http://www.mame.net/wip/">MAME WIP</a> is already here for our enjoyment. The last five days of develompent are quite solid, I can smell the next release coming soon :) Since it's a long update, you better go there and read by yourself, and enjoy the nice pictures of Dragonball Z 2 and Run & Gun (very preliminar), and again Tourniquet's alpha blending pictures. Other proper names are there for you to know.  </td></tr>  </table></p>
+<a name="newsitem1022959349,57269,"></a><h2>Saturday 1 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Icons made clear</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:22PM [BST]</small>  </th></tr>  <tr><td> After all the fuss about <a href="http://www.mameworld.net/icons/">Mamu_'s Icons</a> being updated with the icons for MAME 0.60, and them being missing in action, all is clear. They are certainly missing in action (from Mamu_'s page that's it), so KillerClown has posted them in the front page of <a href="http://www.mameworld.net/">MameWorld</a>, available for all us Windows users who prefer Mamu_'s collection. Chris also posted the other day <a href="http://tkmame.retrogames.com/icons/">Mamu_'s icons for X</a>.  </td></tr>  </table></p>
+<a name="newsitem1022940914,63548,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Today's second surprise</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:15PM [BST]</small>  </th></tr>  <tr><td> After a loooong time without any update, actually one year and one week, I'm surprised to see the release of <a href="http://upx.sourceforge.net/">UPX 1.21</a>. This is the toy which makes the MAME executable to be 3megs and not 13 :) But it's used widely in many other emulators and tools, from Kawaks to DatUtil, so hey all developers out there, don't miss this! Note that this is mainly a maintenance release for the source more than for the program's functionality, except a new and better compression method which all the compilers out there will use for sure to save some bandwidth for their servers ;)  </td></tr>  </table></p>
+<a name="newsitem1022940891,86703,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>When will they come?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:14PM [BST]</small>  </th></tr>  <tr><td> <a href="http://unemulated.emuunlim.com/">Guru's Rom Dumping News</a> has some more juicy stuff to read about. Short but nice, Guru has received two games for dumping. Tekken 2 and Osman, if you want to know. If not, too late, you've read it :-p  </td></tr>  </table></p>
+<a name="newsitem1022940870,64062,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>status good color good sound preliminary</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:14PM [BST]</small>  </th></tr>  <tr><td> The master of <a href="http://emustatus.rainemu.com/">Emulation Status</a>, known as WTC, has updated it. As usual, the text of the update also contains juicy tidbits you shouldn't miss ;) And this time he focused more on providing accurate information than in increasing it. There are twenty new games, but he has updated and removed many more games, with correct names and information. The truth is out there! And now, also in Emustatus :)  </td></tr>  </table></p>
+<a name="newsitem1022940841,13712,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Making history a couple of times per month</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:14PM [BST]</small>  </th></tr>  <tr><td> Fandemame makes the first release of this sunny saturday: <a href="http://fandemame.emu-france.com/">History.dat 0.60a</a>. There are infos added for fifty or sixty games, or more... At least 56 are listed and then "several others". There are tips and tricks added for 15 games too, so be sure to be up to date with the dats.  </td></tr>  </table></p>
+<a name="newsitem1022932020,6699,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Grand opening today - bring the kids</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:47PM [BST]</small>  </th></tr>  <tr><td> Gazoo has opened today <a href="http://trc.retrogames.com/">The Review Center</a>, the sucessor of his old NRC, but now more generic - and more big. Of course I like reviews and I like green so let's use the fireworks and let's command the orchestra to play at full volume! For now he has only added NeoGeo games, and the site is ready for you to sign up and all that (btw nice design dude). Let's do some reviews! Thanks to Gazoo himself for his kind letter :)  </td></tr>  </table></p>

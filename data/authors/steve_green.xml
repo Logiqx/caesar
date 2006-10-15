@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="steve_green">
+	<name>Steve Green</name>
+	<email>steveg@echo-sol.com</email>
+	<emulator_links>
+		<emulator_link id="atari_vector_sim" type="mac">&emulator_atari_vector_sim;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="katharsis">
+	<name>Katharsis</name>
+	<email>katharsis@geoshock.com</email>
+	<contribution_links>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+	</contribution_links>
+</author>

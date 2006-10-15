@@ -1,0 +1,114 @@
+game (
+	name superg
+	description "Super Galaxians"
+	year 1979
+	manufacturer "hack"
+	rom ( name superg.u size 2048 crc e8f3aa67 )
+	rom ( name superg.v size 2048 crc f58283e3 )
+	rom ( name superg.w size 2048 crc ddeabdae )
+	rom ( name superg.y size 2048 crc 9463f753 )
+	rom ( name superg.z size 2048 crc e6312e35 )
+	rom ( name galmidw.1j size 2048 crc 84decf98 )
+	rom ( name galmidw.1k size 2048 crc c31ada9e )
+	rom ( name galaxian.clr size 32 crc c3ac9467 )
+)
+
+game (
+	name uniwars
+	description "UniWar S"
+	year 1980
+	manufacturer "Irem"
+	rom ( name f07_1a.bin size 2048 crc d975af10 )
+	rom ( name h07_2a.bin size 2048 crc b2ed14c3 )
+	rom ( name k07_3a.bin size 2048 crc 945f4160 )
+	rom ( name m07_4a.bin size 2048 crc ddc80bc5 )
+	rom ( name d08p_5a.bin size 2048 crc 62354351 )
+	rom ( name gg6 size 2048 crc 270a3f4d )
+	rom ( name m08p_7a.bin size 2048 crc c9245346 )
+	rom ( name n08p_8a.bin size 2048 crc 797d45c7 )
+	rom ( name egg10 size 2048 crc 012941e0 )
+	rom ( name h01_2.bin size 2048 crc c26132af )
+	rom ( name egg9 size 2048 crc fc8b58fd )
+	rom ( name k01_2.bin size 2048 crc dcc2b33b )
+	rom ( name uniwars.clr size 32 crc 25c79518 )
+)
+
+game (
+	name moonal2
+	description "Moon Alien Part 2"
+	year 1980
+	manufacturer "Nichibutsu"
+	rom ( name ali1 size 1024 crc 0dcecab4 )
+	rom ( name ali2 size 1024 crc c6ee75a7 )
+	rom ( name ali3 size 1024 crc cd1be7e9 )
+	rom ( name ali4 size 1024 crc 83b03f08 )
+	rom ( name ali5 size 1024 crc 6f3cf61d )
+	rom ( name ali6 size 1024 crc e169d432 )
+	rom ( name ali7 size 1024 crc 41f64b73 )
+	rom ( name ali8 size 1024 crc f72ee876 )
+	rom ( name ali9 size 1024 crc b7fb763c )
+	rom ( name ali10 size 1024 crc b1059179 )
+	rom ( name ali11 size 1024 crc 9e79a1c6 )
+	rom ( name ali13.1h size 2048 crc a1287bf6 )
+	rom ( name ali12.1k size 2048 crc 528f1481 )
+	rom ( name galaxian.clr size 32 crc c3ac9467 )
+)
+
+game (
+	name pengo2u
+	description "Pengo (set 2 not encrypted)"
+	year 1982
+	manufacturer "Sega"
+	rom ( name pengo.u8 size 4096 crc 3dfeb20e )
+	rom ( name pengo.u7 size 4096 crc 1db341bd )
+	rom ( name pengo.u15 size 4096 crc 7c2842d5 )
+	rom ( name pengo.u14 size 4096 crc 6e3c1f2f )
+	rom ( name pengo.u21 size 4096 crc 95f354ff )
+	rom ( name pengo.u20 size 4096 crc 0fdb04b8 )
+	rom ( name pengo.u32 size 4096 crc e5920728 )
+	rom ( name pengo.u31 size 4096 crc 13de47ed )
+	rom ( name ic92 size 8192 crc d7eec6cd )
+	rom ( name ic105 size 8192 crc 5bfd26e9 )
+	rom ( name pr1633.078 size 32 crc 3a5844ec )
+	rom ( name pr1634.088 size 1024 crc 766b139b )
+	rom ( name pr1635.051 size 256 crc c29dea27 )
+	rom ( name pr1636.070 size 256 crc 77245b66 )
+)
+
+game (
+	name ladybug
+	description "Lady Bug"
+	year 1981
+	manufacturer "Universal"
+	rom ( name lb1.cpu size 4096 crc d09e0adb )
+	rom ( name lb2.cpu size 4096 crc 88bc4a0a )
+	rom ( name lb3.cpu size 4096 crc 53e9efce )
+	rom ( name lb4.cpu size 4096 crc ffc424d7 )
+	rom ( name lb5.cpu size 4096 crc ad6af809 )
+	rom ( name lb6.cpu size 4096 crc cf1acca4 )
+	rom ( name lb9.vid size 4096 crc 77b1da1e )
+	rom ( name lb10.vid size 4096 crc aa82e00b )
+	rom ( name lb8.cpu size 4096 crc 8b99910b )
+	rom ( name lb7.cpu size 4096 crc 86a5b448 )
+	rom ( name 10-2.vid size 32 crc df091e52 )
+	rom ( name 10-1.vid size 32 crc 40640d8f )
+	rom ( name 10-3.vid size 32 crc 27fa3a50 )
+)
+
+game (
+	name qbert
+	description "Q*bert (US)"
+	year 1982
+	manufacturer "Gottlieb"
+	rom ( name qb-rom2.bin size 8192 crc fe434526 )
+	rom ( name qb-rom1.bin size 8192 crc 55635447 )
+	rom ( name qb-rom0.bin size 8192 crc 8e318641 )
+	rom ( name qb-snd1.bin size 2048 crc 15787c07 )
+	rom ( name qb-snd2.bin size 2048 crc 58437508 )
+	rom ( name qb-bg0.bin size 4096 crc 7a9ba824 )
+	rom ( name qb-bg1.bin size 4096 crc 22e5b891 )
+	rom ( name qb-fg3.bin size 8192 crc dd436d3a )
+	rom ( name qb-fg2.bin size 8192 crc f69b9483 )
+	rom ( name qb-fg1.bin size 8192 crc 224e8356 )
+	rom ( name qb-fg0.bin size 8192 crc 2f695b85 )
+)

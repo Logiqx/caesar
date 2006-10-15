@@ -1,0 +1,16 @@
+# Compared MAME v0.31 driver against v0.33 driver to see which ROMs are which
+
+game (
+	name shaolins
+	description "Shao-Lin's Road"
+	year 1985
+	manufacturer "Konami"
+	rom ( name shaolins.3 size 8192 crc 2598dfdd )
+	rom ( name shaolins.4 size 16384 crc 0cf0351a )
+	rom ( name shaolins.5 size 16384 crc 654037f8 )
+	rom ( name shaolins.6 size 8192 crc ff18a7ed )
+	rom ( name shaolins.7 size 8192 crc 5f53ae61 )
+	rom ( name shaolins.2 size 16384 crc b94e645b )
+	rom ( name shaolins.1 size 16384 crc 61bbf797 )
+)
+

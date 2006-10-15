@@ -1,0 +1,27 @@
+clrmamepro (
+	name "Phoenix Emulator"
+	description "Phoenix Emulator 980813"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name phoenix3
+	description "Phoenix (T.P.N.)"
+	year 1980
+	manufacturer "bootleg"
+	rom ( name phoenix3.45 size 2048 crc a362cda0 sha1 5ab38afaf92179c965533326574c773f6a63dbbb )
+	rom ( name phoenix3.46 size 2048 crc 5748f486 sha1 49e6fd836d26ec24105e95227b24cf668e8a470a )
+	rom ( name phoenix3.47 size 2048 crc cbbb8839 sha1 b7f449374cac111081559e39646f973e7e99fd64 )
+	rom ( name phoenix3.48 size 2048 crc b5d97a4d sha1 d5d92c5e34431b2ded47e58608c459cc8cdd7937 )
+	rom ( name phoenix3.49 size 2048 crc a105e4e7 sha1 b35142a91b6b7fdf7535202671793393c9f4685f )
+	rom ( name phoenix3.50 size 2048 crc ac5e9ec1 sha1 0402e5241d99759d804291998efd43f37ce99917 )
+	rom ( name phoenix3.51 size 2048 crc 2eab35b4 sha1 849bf8273317cc869bdd67e50c68399ee8ece81d )
+	rom ( name phoenix3.52 size 2048 crc d2c5c984 sha1 a9432f9aff8a2f5ca1d347443efc008a177d8ae0 )
+	rom ( name phoenix3.23 size 2048 crc 3c7e623f sha1 e7ff5fc371664af44785c079e92eeb2d8530187b )
+	rom ( name phoenix3.24 size 2048 crc 59916d3b sha1 71aec70a8e096ed1f0c2297b3ae7dca1b8ecc38d )
+	rom ( name phoenix3.39 size 2048 crc 53413e8f sha1 d772358505b973b10da840d204afb210c0c746ec )
+	rom ( name phoenix3.40 size 2048 crc 0be2ba91 sha1 af9243ee23377b632b9b7d0b84d341d06bf22480 )
+)
+

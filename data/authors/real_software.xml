@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="real_software">
+	<name>Real Software, Inc</name>
+	<email>info@realsoftware.com</email>
+	<tool_links>
+		<tool_link id="real_basic" type="compilers">&tool_real_basic;</tool_link>
+	</tool_links>
+</author>

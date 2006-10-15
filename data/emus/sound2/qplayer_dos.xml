@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="qplayer_dos" type="sound2" dat="dummy">
+	<name>QPlayer (DOS)</name>
+	<version>1.1.8</version>
+	<date>26/02/2000</date>
+
+	<homepage>http://galemu.emuunlim.com/</homepage>
+	<author_link id="barry_rodewald">&author_barry_rodewald;</author_link>
+
+	<emulates>QSound music and sound effects</emulates>
+	<comment>Plays the music and sound effects from arcade games based on Capcom's CPS-2, ZN-1 and ZN-2 hardware</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="qply118.zip">Player for DOS</file>
+		<file name="qsnd-dat.zip">Data files adding support for more games</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="qplayer" type="sound">&emulator_qplayer;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

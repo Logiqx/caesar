@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
+<emulator_contents id="linux">
+	<title>Emulators for Linux</title>
+	<comment>These emulators are all for Linux (or Unix). Check out <a href="http://www.emulinks.de/">http://www.emulinks.de/</a> for Linux emulation.</comment>
+	<emulator_links>
+		<emulator_link id="siemu_linux" type="linux">&emulator_siemu_linux;</emulator_link>
+		<emulator_link id="bpe" type="linux">&emulator_bpe;</emulator_link>
+		<emulator_link id="centsim" type="linux">&emulator_centsim;</emulator_link>
+		<emulator_link id="daphne_linux" type="linux">&emulator_daphne_linux;</emulator_link>
+		<emulator_link id="finalburn_linux" type="linux">&emulator_finalburn_linux;</emulator_link>
+		<emulator_link id="galemu_linux" type="linux">&emulator_galemu_linux;</emulator_link>
+		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
+		<emulator_link id="gxp_linux" type="linux">&emulator_gxp_linux;</emulator_link>
+		<emulator_link id="invemu_linux" type="linux">&emulator_invemu_linux;</emulator_link>
+		<emulator_link id="laser_linux" type="linux">&emulator_laser_linux;</emulator_link>
+		<emulator_link id="m1_linux" type="linux">&emulator_m1_linux;</emulator_link>
+		<emulator_link id="modeler_linux" type="linux">&emulator_modeler_linux;</emulator_link>
+		<emulator_link id="pacifi3d_linux" type="linux">&emulator_pacifi3d_linux;</emulator_link>
+		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		<emulator_link id="sega_c2_linux" type="linux">&emulator_sega_c2_linux;</emulator_link>
+		<emulator_link id="side_linux" type="linux">&emulator_side_linux;</emulator_link>
+		<emulator_link id="system16_linux" type="linux">&emulator_system16_linux;</emulator_link>
+		<emulator_link id="vecsim" type="linux">&emulator_vecsim;</emulator_link>
+		<emulator_link id="xmame" type="linux">&emulator_xmame;</emulator_link>
+		<emulator_link id="xcade_unix" type="linux">&emulator_xcade_unix;</emulator_link>
+		<emulator_link id="zinc_linux" type="linux">&emulator_zinc_linux;</emulator_link>
+	</emulator_links>
+</emulator_contents>

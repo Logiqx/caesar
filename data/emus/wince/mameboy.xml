@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mameboy" type="wince" dat="dummy">
+	<name>MAMEBoy (MAME for Casio E-500 and E-125)</name>
+	<version>1.3</version>
+	<date>30/01/2001</date>
+
+	<homepage status="bad">http://www.mameworld.net/mameboy/</homepage>
+	<author_link id="mameboy">&author_mameboy;</author_link>
+
+	<emulates>Emulates a subset of MAME games (mostly those games released before 1984)</emulates>
+	<comment>This build is basically derived from Darren Fincks' source and is just slightly changed / optimized for new Casio devices (following his suggestions).</comment>
+	<status>Dormant</status>
+
+	<platform>WinCE</platform>
+
+	<controllers>
+		<controller>Buttons</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="MAMEBoy13.zip">MAMEBoy v1.3</file>
+		<file name="MAMEBoyX.zip">MAMEBoyX (Unsupported version with extra games)</file>
+		<file name="MAMEBoy13S.zip">Source</file>
+	</files>
+
+	<relatives>
+		<derivative_of>
+			<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
+		</derivative_of>
+	</relatives>	
+</emulator>

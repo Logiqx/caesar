@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="robert_anschuetz">
+	<name>Robert Anschuetz</name>
+	<email>anschuer@orlando.veda.com</email>
+	<emulator_links>
+		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
+	</emulator_links>
+</author>

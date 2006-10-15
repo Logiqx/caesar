@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="bombjack_pc" type="single" dat="Bombjack_PC_v1.1" aspectx="4" aspecty="3">
+	<name>Bombjack PC</name>
+	<version>1.1</version>
+	<date>16/04/1997</date>
+
+	<homepage status="bad">http://www.unicate.com/marc/bombjack.htm</homepage>
+	<author_link id="jakob_frandsen">&author_jakob_frandsen;</author_link>
+
+	<emulates>Bombjack (Tehkan)</emulates>
+	<comment>Fine apart from lack of sound</comment>
+	<status>Discontinued</status>
+
+	<tool_links>
+		<tool_link id="watcom" type="compilers">&tool_watcom;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="Bombjack DOS v1.1.zip">Emulator</file>
+	</files>
+</emulator>

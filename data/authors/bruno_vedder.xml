@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="bruno_vedder">
+	<name>Bruno Vedder</name>
+	<email>bruno.vedder@emu-france.com</email>
+	<emulator_links>
+		<emulator_link id="bpe" type="linux">&emulator_bpe;</emulator_link>
+		<emulator_link id="mikie" type="single">&emulator_mikie;</emulator_link>
+		<emulator_link id="oldspark" type="java">&emulator_oldspark;</emulator_link>
+	</emulator_links>
+</author>

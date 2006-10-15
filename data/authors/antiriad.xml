@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="antiriad">
+	<name>Richard Bush (Antiriad)</name>
+	<email>antiriad@rainemu.com</email>
+	<email>richardb@argonaut.com</email>
+	<email>rbush@firenet.net</email>
+	<emulator_links>
+		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
+	</contribution_links>
+</author>

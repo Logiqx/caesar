@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="microsoft">
+	<name>Microsoft</name>
+	<tool_links>
+		<tool_link id="vb" type="compilers">&tool_vb;</tool_link>
+		<tool_link id="ms" type="compilers">&tool_ms;</tool_link>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="wavmix" type="snd_libs">&tool_wavmix;</tool_link>
+	</tool_links>
+</author>

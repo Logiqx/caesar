@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="qbert_classic_mode" type="commercial" dat="QBert_Classic_Mode">
+	<name>QBert Classic Mode</name>
+	<version>-</version>
+	<date>1999</date>
+
+	<homepage>http://www.digitaleclipse.com</homepage>
+	<author_link id="hasbro_interactive">&author_hasbro_interactive;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="digital_eclipse">&author_digital_eclipse;</author_link>
+			<comment>Development</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>QBert (Gottlieb)</emulates>
+	<comment>The 'classic mode' version of QBert for Hasbro Interactive's QBert release.</comment>
+	<status>Released</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>?</screendump>
+		<hiscoresave>?</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<relatives>
+		<ports>
+			<emulator_link id="qbert_classic_mode_psx" type="psx">&emulator_qbert_classic_mode_psx;</emulator_link>
+			<emulator_link id="qbert_classic_mode_dc" type="dreamcast">&emulator_qbert_classic_mode_dc;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

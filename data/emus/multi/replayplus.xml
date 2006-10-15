@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="replayplus" type="multi" dat="Replay+_v1.00">
+	<name>Replay+</name>
+	<version>1.00</version>
+	<date>23/06/1998</date>
+
+	<homepage>http://www.icomm.ca/replay/</homepage>
+	<homepage>http://howtoemulation.emuhq.com/pages/replay/</homepage>
+	<author_link id="kevin_brisley">&author_kevin_brisley;</author_link>
+
+	<emulates>Data East, Namco and Konami games from the 80's</emulates>
+	<comment>Rewrite of the original Replay emulator.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="multi6502" type="cpu">&library_multi6502;</library_link>
+		<library_link id="multiz80" type="cpu">&library_multiz80;</library_link>
+		<library_link id="multi6809" type="cpu">&library_multi6809;</library_link>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes (C++)</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>Yes</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="rpbd100.zip">Emulator</file>
+		<file name="rpd_100.zip">Source</file>
+	</files>
+
+	<relatives>
+		<predecessors>
+			<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
+		</predecessors>
+
+		<ports>
+			<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

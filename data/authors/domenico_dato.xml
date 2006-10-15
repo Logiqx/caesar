@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="domenico_dato">
+	<name>Domenico Dato</name>
+	<emulator_links>
+		<emulator_link id="laser_ipaq" type="wince">&emulator_laser_ipaq;</emulator_link>
+		<emulator_link id="laser_linux" type="linux">&emulator_laser_linux;</emulator_link>
+	</emulator_links>
+	<contribution_links>
+		<emulator_link id="belaser" type="beos">&emulator_belaser;</emulator_link>
+	</contribution_links>
+</author>

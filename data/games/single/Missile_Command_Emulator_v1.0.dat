@@ -1,0 +1,21 @@
+clrmamepro (
+	name "Missile Command"
+	description "Missile Command Emulator v1.0"
+	category "Single Game Arcade Emulator"
+	version 20040709
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name missile
+	description "Missile Command (set 1)"
+	year 1980
+	manufacturer "Atari"
+	rom ( name 035820.02 size 2048 crc 7a62ce6a sha1 9a39978138dc28fdefe193bfae1b226391e471db )
+	rom ( name 035821.02 size 2048 crc df3bd57f sha1 0916925d3c94d766d33f0e4badf6b0add835d748 )
+	rom ( name 035822.02 size 2048 crc a1cd384a sha1 a1dd0953423750a0fbc6e3dccbf2ca64ef5a1f54 )
+	rom ( name 035823.02 size 2048 crc 82e552bb sha1 d0f22894f779c74ceef644c9f03d840d9545efea )
+	rom ( name 035824.02 size 2048 crc 606e42e0 sha1 9718f84a73c66b4e8ef7805a7ab638a7380624e1 )
+	rom ( name 035825.02 size 2048 crc f752eaeb sha1 0339a6ce6744d2091cc7e07675e509b202b0f380 )
+)
+

@@ -1,0 +1,348 @@
+###############################################################################
+# Neo-Geo (Miscellaneous) - Calice, Nebula, Kawaks
+################################################################################
+
+// Miscellaneous games
+
+game (
+	name neopong
+	description "NeoPong (v1.1, non-MAME)"
+	year 2002
+	manufacturer "NeoDev"
+	romof neogeo
+	rom ( name pong_p1.rom size 131072 crc 9f35e29d sha1 261ce9305950debbc2fe088a45ab0fa83d6cf10d )
+	rom ( name pong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name pong_m1.rom size 131072 crc 78c851cb sha1 a9923c002e4e2171a564af45cff0958c5d57b275 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name pong_v1.rom size 2097152 crc 6c31223c sha1 ede3a2806d7d872a0f737626a23ecce200b534e6 )
+	rom ( name pong_c1.rom size 1048576 crc f5a57d1a sha1 781170ae439f48fcbcee6af4cb3a1367dbb70498 )
+	rom ( name pong_c2.rom size 1048576 crc affde64e sha1 25ba8b4f6f961027d97d35f13cebeaee2dbb6f5a )
+)
+
+game (
+	name neopong10
+	description "NeoPong (v1.0, non-MAME)"
+	year 2002
+	manufacturer "NeoDev"
+	cloneof neopong
+	romof neopong
+	rom ( name pong0_p1.rom size 131072 crc 31b724d7 sha1 e374613609aeda64b547d8ce38d2078b6ed55ad5 )
+	rom ( name pong_s1.rom merge pong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name pong0_m1.rom size 131072 crc 9c0291ea sha1 3fa67c62acba79be6b3a98cc1601e45569fa11ae )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name pong0_v1.rom size 524288 crc debeb8fb sha1 49a3d3578c087f1a0050168571ef8d1b08c5dc05 )
+	rom ( name pong0_c1.rom size 1048576 crc d7587282 sha1 6fbc317dede78265dc4cfd2a6d79968320b8fd50 )
+	rom ( name pong0_c2.rom size 1048576 crc fefc9d06 sha1 f191bcd3683a184b5a7d6046156e0b2bca231e95 )
+)
+
+game (
+	name neonopon
+	description "Neo No Panepon (20021005, non-MAME)"
+	year 2002
+	manufacturer "Blastar"
+	romof neogeo
+	rom ( name nnp-p1.rom size 524288 crc 8a792271 sha1 6f8db18f9ced0706cb2e4b5545da97be871352dd )
+	rom ( name nnp-s1.rom size 65536 crc 93e6fe7d sha1 791789c33eeeaa23fe6581db2f0ee3c35c73c052 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name nnp-m1.rom size 65536 crc 7669de64 sha1 caa170b561df4f68000beaad41d942c66a4a10ee )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name nnp-v1.rom size 524288 crc 504bf849 sha1 13a184ec9e176371808938015111f8918cb4df7d )
+	rom ( name nnp-c1.rom size 1048576 crc 4a718ae3 sha1 e59515bacd9065c4b2712710a6a9a647e42c31e6 )
+	rom ( name nnp-c2.rom size 1048576 crc 0e2cbc25 sha1 3c45eedb2efc6a3a7ec65487f980e117485abc9f )
+)
+
+game (
+	name neonopon1
+	description "Neo No Panepon (20020707#1, non-MAME)"
+	year 2002
+	manufacturer "Blastar"
+	cloneof neonopon
+	romof neonopon
+	rom ( name nnp1-p1.rom size 524288 crc 43b7c759 sha1 bbb4bf7957a336be6e5daa4030a5ebb1c72d92ee )
+	rom ( name nnp1-s1.rom size 65536 crc e28ea706 sha1 bd113a91a1303e2ec670250225a1cd35d34c7f60 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name nnp-m1.rom merge nnp-m1.rom size 65536 crc 7669de64 sha1 caa170b561df4f68000beaad41d942c66a4a10ee )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name nnp-v1.rom merge nnp-v1.rom size 524288 crc 504bf849 sha1 13a184ec9e176371808938015111f8918cb4df7d )
+	rom ( name nnp1-c1.rom size 1048576 crc 24dcba77 sha1 da7ce6797bf4ac9903dbb00587815c51c835c879 )
+	rom ( name nnp1-c2.rom size 1048576 crc 57c41e26 sha1 39d810547f3f8a44b45e7807f1e6b3a0672a1688 )
+)
+
+game (
+	name neonopon2
+	description "Neo No Panepon (20020707#2, non-MAME)"
+	year 2002
+	manufacturer "Blastar"
+	cloneof neonopon
+	romof neonopon
+	rom ( name nnp1-p1.rom size 524288 crc 43b7c759 sha1 bbb4bf7957a336be6e5daa4030a5ebb1c72d92ee )
+	rom ( name nnp1-s1.rom size 65536 crc e28ea706 sha1 bd113a91a1303e2ec670250225a1cd35d34c7f60 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name nnp-m1.rom merge nnp-m1.rom size 65536 crc 7669de64 sha1 caa170b561df4f68000beaad41d942c66a4a10ee )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name nnp-v1.rom merge nnp-v1.rom size 524288 crc 504bf849 sha1 13a184ec9e176371808938015111f8918cb4df7d )
+	rom ( name nnp2-c1.rom size 1048576 crc 0833c9e7 sha1 62f4e093bd5b521ee3f64aa1744e324a3a50eb12 )
+	rom ( name nnp2-c2.rom size 1048576 crc fbf5f67f sha1 52a6a800d4afaa9675e1f6eab5ed4be772f17338 )
+)
+
+game (
+	name neonopon3
+	description "Neo No Panepon (20020822, non-MAME)"
+	year 2002
+	manufacturer "Blastar"
+	cloneof neonopon
+	romof neonopon
+	rom ( name nnp1-p1.rom size 524288 crc 43b7c759 sha1 bbb4bf7957a336be6e5daa4030a5ebb1c72d92ee )
+	rom ( name nnp-s1.rom merge nnp-s1.rom size 65536 crc 93e6fe7d sha1 791789c33eeeaa23fe6581db2f0ee3c35c73c052 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name nnp-m1.rom merge nnp-m1.rom size 65536 crc 7669de64 sha1 caa170b561df4f68000beaad41d942c66a4a10ee )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name nnp-v1.rom merge nnp-v1.rom size 524288 crc 504bf849 sha1 13a184ec9e176371808938015111f8918cb4df7d )
+	rom ( name nnp3-c1.rom size 1048576 crc e0573498 sha1 80ec6ef8a6133f1f66704920332e92daa3daee14 )
+	rom ( name nnp2-c2.rom size 1048576 crc fbf5f67f sha1 52a6a800d4afaa9675e1f6eab5ed4be772f17338 )
+)
+
+game (
+	name syscheck
+	description "SystemCheck v1.0b (non-MAME)"
+	year 2003
+	manufacturer "Blastar"
+	romof neogeo
+	rom ( name sys-p1.rom size 524288 crc a4adbe1e sha1 eee4a8ebe62a2c97282f0350b3c28c615ea44956 )
+	rom ( name sys-s1.rom size 65536 crc 4774f28e sha1 f381dac250fca3dfe1eb8c8f1b9b3bf0d521000e )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name sys-m1.rom size 65536 crc 7669de64 sha1 caa170b561df4f68000beaad41d942c66a4a10ee )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sys-v1.rom size 524288 crc 504bf849 sha1 13a184ec9e176371808938015111f8918cb4df7d )
+	rom ( name sys-c1.rom size 524288 crc 75660aac sha1 6a521e1d2a632c26e53b83d2cc4b0edecfc1e68c )
+	rom ( name sys-c2.rom size 524288 crc 75660aac sha1 6a521e1d2a632c26e53b83d2cc4b0edecfc1e68c )
+)
+
+game (
+	name matrimbl
+	description "Matrimelee (bootleg) (non-MAME)"
+	year 2002
+	manufacturer "bootleg"
+	cloneof matrim
+	romof matrim
+	rom ( name mart_c1.rom size 8388608 crc a5595656 sha1 d86281607f22e4f2001047eaeeda99cd673c508c )
+	rom ( name mart_c2.rom size 8388608 crc c5f7c300 sha1 9ff5ffb750bd2e925667d84389192f92183e8677 )
+	rom ( name mart_c3.rom size 8388608 crc 574efd7d sha1 6cac303db705fe2800701ee51de9e9fca04e6e66 )
+	rom ( name mart_c4.rom size 8388608 crc 109d54d9 sha1 22cb748b3b14317b90d9d9951297ada2bfc3a3f1 )
+	rom ( name mart_c5.rom size 8388608 crc 15c9e882 sha1 1c9f1ccaed4fdd9d8f5cc9b6fcaca3c4e328e59e )
+	rom ( name mart_c6.rom size 8388608 crc 77497b97 sha1 c6481bea5a36f8210971fdcb4bfbe7ed93c769de )
+	rom ( name mart_c7.rom size 8388608 crc ab481bb6 sha1 6b2d97c5505eeb28e300b075f37f0d69ef44463a )
+	rom ( name mart_c8.rom size 8388608 crc 906cf267 sha1 b0f2cf8887794d715f208751ddd1ed26b2c3ffdf )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name 266-p1.bin merge 266-p1.bin size 1048576 crc 5d4c2dc7 sha1 8d723b0d28ec344eef26009b361a2b97d300dd51 )
+	rom ( name 266-p2.bin merge 266-p2.bin size 4194304 crc a14b1906 sha1 1daa14d73512f760ef569b06f9facb279437d1db )
+	rom ( name mart_m1.rom size 131072 crc 3ea96ab1 sha1 e5053c4312f658faed2a34e38325a22ef792d384 )
+	rom ( name mart_v1.rom size 4194304 crc 352b0a07 sha1 19f7cc12f3f6d0fda9c7449816c4c32367447897 )
+	rom ( name mart_v2.rom size 4194304 crc 1e9bd59e sha1 0f754e780d0ebb815a92a45ad55f85f6d0181b70 )
+	rom ( name mart_v3.rom size 4194304 crc e8362fcc sha1 42d558fd80cabe22a1c09a1fa75741afbcf46b7c )
+	rom ( name mart_v4.rom size 4194304 crc c8c79b19 sha1 9c7a5e694d68f37a27209e1400b60b6241a04cc7 )
+)
+
+game (
+	name kof2002b
+	description "The King of Fighters 2002 (bootleg) (non-MAME)"
+	year 2002
+	manufacturer "bootleg"
+	cloneof kof2002
+	romof kof2002
+	rom ( name 265-p1.bin merge 265-p1.bin size 1048576 crc 9ede7323 sha1 ad9d45498777fda9fa58e75781f48e09aee705a6 )
+	rom ( name 265-p2b.bin size 4194304 crc 6dbee4df sha1 9a9646c81b233b44213c624b898c19f83e9a07f8 )
+	rom ( name 265-c1b.bin size 8388608 crc f25d3d66 sha1 eb1da3e171c126d91e851ce141840709a2f62f8a )
+	rom ( name 265-c2b.bin size 8388608 crc e3e66f1d sha1 af93e9e134816353d6187a53959c6e418b83ad8d )
+	rom ( name 265-c3b.bin size 8388608 crc 8732fa30 sha1 81c482b375c04bcfbbc69e3e2a2e9ab567c9bb78 )
+	rom ( name 265-c4b.bin size 8388608 crc 0989fd40 sha1 355d6b2c528319e41ce89952c5cf5bcc47cd6de0 )
+	rom ( name 265-c5b.bin size 8388608 crc 60635cd2 sha1 0cf2c54e003edfcdbed64e0570e6b800e7ed3c1b )
+	rom ( name 265-c6b.bin size 8388608 crc bd736824 sha1 d897fc8248ace145fef57d8aa393eaebc4a1ccc4 )
+	rom ( name 265-c7b.bin size 8388608 crc 2da8d8cf sha1 ab8aa88b8e1baba88e5fc01d0f3cb55503b6c81a )
+	rom ( name 265-c8b.bin size 8388608 crc 2048404a sha1 d6d0f049ffc196334825328e0472b04e04bf6695 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name 265-s1b.bin size 131072 crc 2255f5bf sha1 8a82b3e9717df30b580b9d0bac0b403f8102a002 )
+	rom ( name 265-m1.bin merge 265-m1.bin size 131072 crc 85aaa632 sha1 744fba4ca3bc3a5873838af886efb97a8a316104 )
+	rom ( name 265-m1_decrypted.bin merge 265-m1_decrypted.bin size 131072 crc 1c661a4b sha1 4e5aa862a0a182a806d538996ddc68d9f2dffaf7 )
+	rom ( name 265-v1.bin merge 265-v1.bin size 8388608 crc 15e8f3f5 sha1 7c9e6426b9fa6db0158baa17a6485ffce057d889 )
+	rom ( name 265-v2.bin merge 265-v2.bin size 8388608 crc da41d6f9 sha1 a43021f1e58947dcbe3c8ca5283b20b649f0409d )
+)
+
+game (
+	name kofse2k4
+	description "The King of Fighters Special Edition 2004 (non-MAME)"
+	year 2004
+	manufacturer "bootleg"
+	cloneof kof2002
+	romof kof2002
+	rom ( name 265-p1se.bin size 1048576 crc 5f482757 sha1 0c2cba7fc6256e62eb7464306036784703c35a70 )
+	rom ( name 265-p2se.bin size 4194304 crc e6c50566 sha1 cc6a3489a3bfeb4dcc65b6ddae0030f7e66fbabe )
+	rom ( name 265-s1se.bin size 131072 crc a3c9b2d8 sha1 1472d2cbd7bb73e84824ecf773924007e6117e77 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name 265-m1se.bin size 131072 crc 5a47d9ad sha1 0197737934653acc6c97221660d789e9914f3578 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name 265-v1se.bin size 4194304 crc 8991f6e9 sha1 ce5afc0169c142d7f98111afbc60b3a9a2e17256 )
+	rom ( name 265-v2se.bin size 4194304 crc 511e4d2f sha1 28190ec86ac2169ab6fad80635ed13cfcf430c65 )
+	rom ( name 265-v3se.bin size 4194304 crc 1dd8b53a sha1 9aa84f145ba07f5f3c3b3fb682eb8a8ab1500b4c )
+	rom ( name 265-v4se.bin size 4194304 crc 63bb5462 sha1 afc6a085e25bd006f26e16beda4244bc8bc19bb8 )
+	rom ( name 265-c1se.bin size 8388608 crc 7a050288 sha1 55a20c5b01e11a859f096af3f8e09986025d288f )
+	rom ( name 265-c2se.bin size 8388608 crc e924afcf sha1 651e974f7339d2cdcfa58c5398013197a0525b77 )
+	rom ( name 265-c3d.bin size 8388608 crc 959fad0b sha1 63ab83ddc5f688dc8165a7ff8d262df3fcd942a2 )
+	rom ( name 265-c4d.bin size 8388608 crc efe6a468 sha1 2a414285e48aa948b5b0d4a9333bab083b5fb853 )
+	rom ( name 265-c5d.bin size 8388608 crc 74bba7c6 sha1 e01adc7a4633bc0951b9b4f09abc07d728e9a2d9 )
+	rom ( name 265-c6d.bin size 8388608 crc e20d2216 sha1 5d28eea7b581e780b78f391a8179f1678ee0d9a5 )
+	rom ( name 265-c7se.bin size 8388608 crc fa705b2b sha1 f314c66876589601806352484dd8e45bc41be692 )
+	rom ( name 265-c8se.bin size 8388608 crc 2c912ff9 sha1 b624a625ea3e221808b7ea43fb0b1a51d8c1853e )
+)
+
+game (
+	name zintrkcd
+	description "Zintrick (Neo CD conversion) (non-MAME)"
+	year 1996
+	manufacturer "hack / bootleg"
+	cloneof zintrckb
+	romof zintrckb
+	rom ( name 211-p1.bin size 1048576 crc 9a0bfe0a sha1 94299c51572b66fa37e3e496436299573b1faaa8 )
+	rom ( name 211-s1.bin size 131072 crc 56d16afa sha1 6e1f960a781f5ef1f858c51507fe573bead8ea66 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
+	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
+	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
+	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
+	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
+	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
+	rom ( name 211-m1.bin size 65536 crc fcae1407 sha1 5b4bff97a8c5930852eff6aee553eadc18e8f3d9 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name 211-v1.bin size 1048576 crc 781439da sha1 a80cdf3be55b5fc2ba1d167f69e222463d06ad88 )
+	rom ( name zin_c1.rom merge zin_c1.rom size 2097152 crc 76aee189 sha1 ad6929804c5b9a59aa609e6baebc6aa37e858a47 )
+	rom ( name zin_c2.rom merge zin_c2.rom size 2097152 crc 844ed4b3 sha1 fb7cd057bdc6cbe8b78097dd124118bae7402256 )
+)
+
+game (
+	name neocd
+	description "NeoGeo CD (non-MAME)"
+	year 1990
+	manufacturer "SNK"
+	romof neogeo
+	rom ( name neocd.bin size 524288 crc df9de490 sha1 7bb26d1e5d1e930515219cb18bcde5b7b23e2eda )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+)
+
+game (
+	name gg-bios
+	description "GameGenie BIOS v0.45 (non-MAME)"
+	year 1999
+	manufacturer "KiWi of StarLighT"
+	rom ( name neo-geo.rom size 131072 crc 015e77bf sha1 db8021399b432d992826d4aef00ede6609911c44 )
+)
+
+game (
+	name uni-bios
+	description "UNIVERSE BIOS (v1.0 to v2.1, non-MAME)"
+	year 2005
+	manufacturer "CPS2Shock"
+	rom ( name uni-bios.rom size 131072 crc 8dabf76b sha1 c23732c4491d966cf0373c65c83c7a4e88f0082c )
+	rom ( name uni-bios.20 size 131072 crc 0c12c2ad sha1 37bcd4d30f3892078b46841d895a6eff16dc921e )
+	rom ( name uni-bios.13 size 131072 crc b24b44a0 sha1 eca8851d30557b97c309a0d9f4a9d20e5b14af4e )
+	rom ( name uni-bios.12 size 131072 crc 4fa698e9 sha1 682e13ec1c42beaa2d04473967840c88fd52c75a )
+	rom ( name uni-bios.11 size 131072 crc 5dda0d84 sha1 4153d533c02926a2577e49c32657214781ff29b7 )
+	rom ( name uni-bios.10 size 131072 crc 0ce453a0 sha1 3b4c0cd26c176fc6b26c3a2f95143dd478f6abf9 )
+)
+

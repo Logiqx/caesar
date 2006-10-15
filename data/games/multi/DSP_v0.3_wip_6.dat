@@ -1,0 +1,112 @@
+clrmamepro (
+	name DSP
+	description "DSP v0.3 wip 3"
+	category "Spectrum, NES and Arcade"
+	version 20050103
+	author "Logiqx, http://www.logiqx.com/"
+	forcezipping zip
+)
+
+game (
+	name bombjack
+	description "Bomb Jack (set 1)"
+	year 1984
+	manufacturer "Tehkan"
+	rom ( name 09_j01b.bin size 8192 crc c668dc30 sha1 51dd6a2688b42e9f28f0882bd76f75be7ec3222a )
+	rom ( name 10_l01b.bin size 8192 crc 52a1e5fb sha1 e1cdc4b4efbc6c7a1e4fa65019486617f2acba1b )
+	rom ( name 11_m01b.bin size 8192 crc b68a062a sha1 43bae56494ac0202aaa8f1ed5c1ed1bff775b2b8 )
+	rom ( name 12_n01b.bin size 8192 crc 1d3ecee5 sha1 8b3c49e21ea4952cae7042890d1be2115f7d6fda )
+	rom ( name 13.1r size 8192 crc 70e0244d sha1 67654155e42821ea78a655f869fb81c8d6387f63 )
+	rom ( name 01_h03t.bin size 8192 crc 8407917d sha1 318face9f7a7ab6c7eeac773995040425e780aaf )
+	rom ( name 03_e08t.bin size 4096 crc 9f0470d5 sha1 94ef52ef47b4399a03528fe3efeac9c1d6983446 )
+	rom ( name 04_h08t.bin size 4096 crc 81ec12e6 sha1 e29ba193f21aa898499187603b25d2e226a07c7b )
+	rom ( name 05_k08t.bin size 4096 crc e87ec8b1 sha1 a66808ef2d62fca2854396898b86bac9be5f17a3 )
+	rom ( name 06_l08t.bin size 8192 crc 51eebd89 sha1 515128a3971fcb97b60c5b6bdd2b03026aec1921 )
+	rom ( name 07_n08t.bin size 8192 crc 9dd98e9d sha1 6db6006a6e20ff7c243d88293ca53681c4703ea5 )
+	rom ( name 08_r08t.bin size 8192 crc 3155ee7d sha1 e7897dca4c145f10b7d975b8ef0e4d8aa9354c25 )
+	rom ( name 16_m07b.bin size 8192 crc 94694097 sha1 de71bcd67f97d05527f2504fc8430be333fb9ec2 )
+	rom ( name 15_l07b.bin size 8192 crc 013f58f2 sha1 20c64593ab9fcb04cefbce0cd5d17ce3ff26441b )
+	rom ( name 14_j07b.bin size 8192 crc 101c858d sha1 ed1746c15cdb04fae888601d940183d5c7702282 )
+	rom ( name 02_p04t.bin size 4096 crc 398d4a02 sha1 ac18a8219f99ba9178b96c9564de3978e39c59fd )
+)
+
+game (
+	name mystston
+	description "Mysterious Stones (set 1)"
+	year 1984
+	manufacturer "Technos"
+	rom ( name rom6.bin size 8192 crc 7bd9c6cd sha1 4d14edc783ba1a6c01d2fb9ea29ec85b8fec3c3b )
+	rom ( name rom5.bin size 8192 crc a83f04a6 sha1 d8cdf310511c1fef4fbde80ef2161fda00f965d7 )
+	rom ( name rom4.bin size 8192 crc 46c73714 sha1 5b9ac3a35aeeea6a0cd2d838c144925d83b36a7f )
+	rom ( name rom3.bin size 8192 crc 34f8b8a3 sha1 a270f6665a9f76f97ac02201d51fe2817e6e8f22 )
+	rom ( name rom2.bin size 8192 crc bfd22cfc sha1 137cd61c8b1e997e7e50edd57f1671031d8e3ac5 )
+	rom ( name rom1.bin size 8192 crc fb163e38 sha1 d6f02e90bfd9badd7751bc0a87fdfdd1d0a7e202 )
+	rom ( name ms6 size 8192 crc 85c83806 sha1 cdfed6c224754e8f79b154533b06b7de4a44b4d3 )
+	rom ( name ms9 size 8192 crc b146c6ab sha1 712c0c17780f222be5c8b09185a22e900ab23944 )
+	rom ( name ms7 size 8192 crc d025f84d sha1 eaaaa0bde3db850098d04a0af85993026e503fc5 )
+	rom ( name ms10 size 8192 crc d85015b5 sha1 f4afab248dfde354650e59fadd5ab9616b04dac1 )
+	rom ( name ms8 size 8192 crc 53765d89 sha1 c8bfc311123b076dccae9f7e3b95460bf9fc843d )
+	rom ( name ms11 size 8192 crc 919ee527 sha1 609ee854ab3a4fdbf3404a68a4a657b85250f742 )
+	rom ( name ms12 size 8192 crc 72d8331d sha1 f0a3bc6c9d9966f169f4721c2453f7ee210f0feb )
+	rom ( name ms13 size 8192 crc 845a1f9b sha1 aa2eabd2a5e89e150b5d2fb3d88f91902e5ebb48 )
+	rom ( name ms14 size 8192 crc 822874b0 sha1 9376d48045bf67df91d103effd1d08bd8debad26 )
+	rom ( name ms15 size 8192 crc 4594e53c sha1 a011a5269a9b0ca7a964181efe8413d5637c34f4 )
+	rom ( name ms16 size 8192 crc 2f470b0f sha1 79b50a7d113fed4669361c5f6c60ec96c94344c6 )
+	rom ( name ms17 size 8192 crc 38966d1b sha1 89e3e54d3298cefeb35922d2292e3e7b8e995871 )
+	rom ( name ic61 size 32 crc e802d6cf sha1 233ceb9e3a91939e1925766a696bc65ab0dffa50 )
+)
+
+game (
+	name pacman
+	description "Pac-Man (Midway)"
+	year 1980
+	manufacturer "[Namco] (Midway license)"
+	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
+	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
+	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
+	rom ( name pacman.6j size 4096 crc 817d94e3 sha1 d4a70d56bb01d27d094d73db8667ffb00ca69cb9 )
+	rom ( name pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
+	rom ( name pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	rom ( name 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+)
+
+game (
+	name phoenix
+	description "Phoenix (Amstar)"
+	year 1980
+	manufacturer "Amstar"
+	rom ( name ic45 size 2048 crc 9f68086b sha1 fc3cef299bf03bf0586c4047c6b96ca666846220 )
+	rom ( name ic46 size 2048 crc 273a4a82 sha1 6f3019a074e73ff50ceb92f655fcf15659f34919 )
+	rom ( name ic47 size 2048 crc 3d4284b9 sha1 6e69f8f0d537fe89140cd95d2398531d7e93d102 )
+	rom ( name ic48 size 2048 crc cb5d9915 sha1 49bcf55a5721cfcc02c3b811a4b601e35ea576db )
+	rom ( name ic49 size 2048 crc a105e4e7 sha1 b35142a91b6b7fdf7535202671793393c9f4685f )
+	rom ( name ic50 size 2048 crc ac5e9ec1 sha1 0402e5241d99759d804291998efd43f37ce99917 )
+	rom ( name ic51 size 2048 crc 2eab35b4 sha1 849bf8273317cc869bdd67e50c68399ee8ece81d )
+	rom ( name ic52 size 2048 crc aff8e9c5 sha1 e4164f85ec12d4d9bcbffba27ab1f51b3599f6d0 )
+	rom ( name ic23 size 2048 crc 3c7e623f sha1 e7ff5fc371664af44785c079e92eeb2d8530187b )
+	rom ( name ic24 size 2048 crc 59916d3b sha1 71aec70a8e096ed1f0c2297b3ae7dca1b8ecc38d )
+	rom ( name ic39 size 2048 crc 53413e8f sha1 d772358505b973b10da840d204afb210c0c746ec )
+	rom ( name ic40 size 2048 crc 0be2ba91 sha1 af9243ee23377b632b9b7d0b84d341d06bf22480 )
+	rom ( name ic40_b.bin size 256 crc 79350b25 sha1 57411be4c1d89677f7919ae295446da90612c8a8 )
+	rom ( name ic41_a.bin size 256 crc e176b768 sha1 e2184dd495ed579f10b6da0b78379e02d7a6229f )
+)
+
+game (
+	name frogger
+	description "Frogger"
+	year 1981
+	manufacturer "Konami"
+	rom ( name frogger.26 size 4096 crc 597696d6 sha1 e7e021776cad00f095a1ebbef407b7c0a8f5d835 )
+	rom ( name frogger.27 size 4096 crc b6e6fcc3 sha1 5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc )
+	rom ( name frsm3.7 size 4096 crc aca22ae0 sha1 5a99060ea2506a3ac7d61ca5876ce5cb3e493565 )
+	rom ( name frogger.608 size 2048 crc e8ab0256 sha1 f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc )
+	rom ( name frogger.609 size 2048 crc 7380a48f sha1 75582a94b696062cbdb66a4c5cf0bc0bb94f81ee )
+	rom ( name frogger.610 size 2048 crc 31d7eb27 sha1 2e1d34ae4da385fd7cac94707d25eeddf4604e1a )
+	rom ( name frogger.607 size 2048 crc 05f7d883 sha1 78831fd287da18928651a8adb7e578d291493eff )
+	rom ( name frogger.606 size 2048 crc f524ee30 sha1 dd768967add61467baa08d5929001f157d6cd911 )
+	rom ( name pr-91.6l size 32 crc 413703bf sha1 66648b2b28d3dcbda5bdb2605d1977428939dd3c )
+)
+

@@ -1,0 +1,165 @@
+<!--================ Character mnemonic entities =========================-->
+
+<!ENTITY % HTMLlat1 PUBLIC
+   "-//W3C//ENTITIES Latin 1 for XHTML//EN"
+   "xhtml-lat1.ent">
+%HTMLlat1;
+
+<!ENTITY % HTMLsymbol PUBLIC
+   "-//W3C//ENTITIES Symbols for XHTML//EN"
+   "xhtml-symbol.ent">
+%HTMLsymbol;
+
+<!ENTITY % HTMLspecial PUBLIC
+   "-//W3C//ENTITIES Special for XHTML//EN"
+   "xhtml-special.ent">
+%HTMLspecial;
+
+<!--================ My structures =========================-->
+
+<!ELEMENT emulator_link (name, version, date, homepage+, author_link+, emulates, comment, platform)>
+<!ATTLIST emulator_link id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT old_name (name, emulator_link)>
+
+<!ELEMENT author_link (name)>
+<!ATTLIST author_link id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT library_link (name, version, date, homepage, author_link+, emulates, comment)>
+<!ATTLIST library_link id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT tool_link (name, version, date, homepage, author_link+, comment)>
+<!ATTLIST tool_link id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT version (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT emulates (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT manufacturer (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT crc (#PCDATA)>
+<!ELEMENT mame (#PCDATA)>
+<!ELEMENT rombuild (#PCDATA)>
+<!ELEMENT homepage (#PCDATA)>
+<!ATTLIST homepage status CDATA "">
+<!ELEMENT comment (#PCDATA | a)*>
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a href CDATA "">
+<!ELEMENT status (#PCDATA)>
+<!ELEMENT platform (#PCDATA)>
+
+<!ELEMENT author (name, email*, emulator_links?, contribution_links?, cpu_links?, graphics_links?, sound_links?, tool_links?)>
+<!ELEMENT emulator_links (emulator_link*, old_name*)>
+<!ELEMENT contribution_links (emulator_link+)>
+<!ELEMENT cpu_links (library_link+)>
+<!ELEMENT graphics_links (library_link+)>
+<!ELEMENT sound_links (library_link+)>
+<!ELEMENT library_links (library_link+)>
+<!ELEMENT tool_links (tool_link+)>
+
+<!ELEMENT emulator (name, version, date, homepage+, author_link+, contributors?,
+	emulates, comment, status,
+	cpu_links?, tool_links?, platform, controllers?, features, files?, relatives?, snaps?, game_links?)>
+<!ATTLIST emulator dat CDATA "" dat_type CDATA "" id CDATA "" type CDATA "">
+<!ELEMENT contributors (contributor+)>
+<!ELEMENT contributor (author_link, comment?)>
+<!ELEMENT controllers (controller+)>
+<!ELEMENT controller (#PCDATA)>
+
+<!ELEMENT features (sound?, source?, screendump?, hiscoresave?, savegame?,
+	recordinput?, dips?, cheat?, autoframeskip?, throttle?, network?, recordsound?, rotate?)>
+<!ELEMENT sound (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT screendump (#PCDATA)>
+<!ELEMENT hiscoresave (#PCDATA)>
+<!ELEMENT savegame (#PCDATA)>
+<!ELEMENT recordinput (#PCDATA)>
+<!ELEMENT dips (#PCDATA)>
+<!ELEMENT cheat (#PCDATA)>
+<!ELEMENT autoframeskip (#PCDATA)>
+<!ELEMENT throttle (#PCDATA)>
+<!ELEMENT network (#PCDATA)>
+<!ELEMENT recordsound (#PCDATA)>
+<!ELEMENT recordmovie (#PCDATA)>
+<!ELEMENT rotate (#PCDATA)>
+
+<!ELEMENT files (file+)>
+<!ELEMENT file (#PCDATA)>
+<!ATTLIST file name CDATA "" size CDATA "">
+
+<!ELEMENT relatives (predecessors?, derivative_of?, hybrid_of?, modification_of?, port_of?, alt_versions?, ports?, modified_versions?, derivatives?, successors?)>
+<!ELEMENT predecessors (emulator_link+)>
+<!ELEMENT derivative_of (emulator_link+)>
+<!ELEMENT hybrid_of (emulator_link+)>
+<!ELEMENT modification_of (emulator_link+)>
+<!ELEMENT port_of (emulator_link+)>
+<!ELEMENT alt_versions (emulator_link+)>
+<!ELEMENT ports (emulator_link+)>
+<!ELEMENT modified_versions (emulator_link+)>
+<!ELEMENT derivatives (emulator_link+)>
+<!ELEMENT successors (emulator_link+)>
+
+<!ELEMENT game_groups (game_group+)>
+<!ELEMENT game_group (name, manufacturer, year, non_mame, game_links)>
+<!ATTLIST game_group id NMTOKEN "">
+<!ELEMENT game_links (game_link+)>
+<!ELEMENT game_link (name, manufacturer, year, size, non_mame?, emulator_link?)>
+<!ELEMENT non_mame (#PCDATA)>
+<!ATTLIST game_link emu_id NMTOKEN "" emu_type NMTOKEN "" game_id NMTOKEN "">
+
+<!ELEMENT game (emulator_link, game_group_link, name, manufacturer, year, size, audio?, input?, video?, chips?, driver?, snaps?, roms?)>
+<!ATTLIST game emu_id NMTOKEN "" emu_type NMTOKEN "" game_id NMTOKEN "">
+<!ELEMENT game_contents (title, game_group_links)>
+<!ELEMENT mame_games (title, game_links)>
+<!ELEMENT game_group_links (game_group_link+)>
+<!ELEMENT game_group_link (name, manufacturer, year, non_mame)>
+<!ATTLIST game_group_link file_id NMTOKEN "" grp_id NMTOKEN "">
+<!ELEMENT roms (rom+)>
+<!ELEMENT rom (name, size, crc, mame, rombuild)>
+<!ELEMENT snaps (snap+)>
+<!ELEMENT snap (#PCDATA)>
+<!ATTLIST snap width NMTOKEN "" height NMTOKEN "">
+<!ELEMENT audio (channels?)>
+<!ELEMENT channels (#PCDATA)>
+<!ELEMENT input (players, control?, buttons?, coins?, service?, tilt?)>
+<!ELEMENT players (#PCDATA)>
+<!ELEMENT control (#PCDATA)>
+<!ELEMENT buttons (#PCDATA)>
+<!ELEMENT coins (#PCDATA)>
+<!ELEMENT service (#PCDATA)>
+<!ELEMENT tilt (#PCDATA)>
+<!ELEMENT video (screen, orientation, x?, y?, colors?, freq)>
+<!ELEMENT screen (#PCDATA)>
+<!ELEMENT orientation (#PCDATA)>
+<!ELEMENT x (#PCDATA)>
+<!ELEMENT y (#PCDATA)>
+<!ELEMENT colors (#PCDATA)>
+<!ELEMENT freq (#PCDATA)>
+<!ELEMENT chips (chip+)>
+<!ELEMENT chip (type, name, clock?, flags?)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT clock (#PCDATA)>
+<!ELEMENT flags (#PCDATA)>
+<!ELEMENT driver (status, color, sound)>
+<!ELEMENT color (#PCDATA)>
+
+<!ELEMENT library (name, version, date, homepage, author_link+, emulates, comment, emulator_links?, tool_links?, files?, library_relatives?)>
+<!ATTLIST library id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT library_relatives (library_predecessors?, library_descendants?)>
+<!ELEMENT library_predecessors (library_link+)>
+<!ELEMENT library_descendants (library_link+)>
+
+<!ELEMENT emulator_contents (title, comment, emulator_links?)>
+<!ELEMENT library_contents (title, comment, library_links?)>
+<!ELEMENT tool_contents (title, comment, tool_links?)>
+
+<!ELEMENT tool (name, version, date, homepage, author_link+, comment, emulator_links?, library_links?, files?, tool_relatives?)>
+<!ATTLIST tool id NMTOKEN "" type NMTOKEN "">
+
+<!ELEMENT tool_relatives (tool_predecessors?, tool_descendants?)>
+<!ELEMENT tool_predecessors (tool_link+)>
+<!ELEMENT tool_descendants (tool_link+)>

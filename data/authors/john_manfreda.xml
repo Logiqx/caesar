@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="john_manfreda">
+	<name>John Manfreda</name>
+	<email>lordfrito@manfreda.org</email>
+	<oldemail>lordfrito@comcast.net</oldemail>
+	<oldemail>john.manfreda@pcm.bosch.com</oldemail>
+	<emulator_links>
+		<emulator_link id="irobot" type="single">&emulator_irobot;</emulator_link>
+	</emulator_links>
+</author>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="sega_c2_linux" type="linux" dat="dummy">
+	<name>Sega System C2 Emulator (Linux)</name>
+	<version>0.2b</version>
+	<date>21/09/2000</date>
+
+	<homepage status="bad">http://www.emulinks.de/</homepage>
+	<author_link id="ulrich_hecht">&author_ulrich_hecht;</author_link>
+
+	<emulates>Sega System C2 Games</emulates>
+	<comment>Linux port of the Sega System C2 Emulator.</comment>
+	<status>Dormant</status>
+
+	<cpu_links>
+		<library_link id="starscream" type="cpu">&library_starscream;</library_link>
+	</cpu_links>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+		<tool_link id="seal" type="snd_libs">&tool_seal;</tool_link>
+	</tool_links>
+
+	<platform>Linux</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="c2emu_bin.tar.gz">Emulator</file>
+		<file name="c2emu_src.tar.gz">Source</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="sega_system_c2" type="multi">&emulator_sega_system_c2;</emulator_link>
+		</port_of>
+	</relatives>
+</emulator>

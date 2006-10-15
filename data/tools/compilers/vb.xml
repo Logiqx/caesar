@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE tool SYSTEM "../../../dtd/caesar.dtd">
+<tool id="vb" type="compilers">
+	<name>VB (Visual Basic)</name>
+	<version>6.0</version>
+	<date>?</date>
+
+	<homepage>http://msdn.microsoft.com/vbasic/</homepage>
+	<author_link id="microsoft">&author_microsoft;</author_link>
+
+	<comment>Part of the Visual Studio development environment</comment>
+
+	<library_links>
+		<library_link id="m6502_slomo" type="cpu">&library_m6502_slomo;</library_link>
+	</library_links>
+
+	<emulator_links>
+		<emulator_link id="domino" type="multi">&emulator_domino;</emulator_link>
+		<emulator_link id="invadersaver" type="multi">&emulator_invadersaver;</emulator_link>
+		<emulator_link id="milliemu" type="single">&emulator_milliemu;</emulator_link>
+		<emulator_link id="pacsaver" type="multi">&emulator_pacsaver;</emulator_link>
+		<emulator_link id="pcslomo" type="multi">&emulator_pcslomo;</emulator_link>
+		<emulator_link id="vbemu" type="multi">&emulator_vbemu;</emulator_link>
+		<emulator_link id="ssvbemu" type="multi2">&emulator_ssvbemu;</emulator_link>
+		<emulator_link id="vbpac" type="multi">&emulator_vbpac;</emulator_link>
+		<emulator_link id="visualam" type="single">&emulator_visualam;</emulator_link>
+	</emulator_links>
+</tool>

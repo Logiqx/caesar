@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="asciipac" type="single" dat="AsciiPac">
+	<name>AsciiPac</name>
+	<version>First</version>
+	<date>19/09/1999</date>
+
+	<homepage status="bad">http://emudx.emuviews.com/</homepage>
+	<author_link id="mike_green">&author_mike_green;</author_link>
+
+	<emulates>Pacman (Namco)</emulates>
+	<comment>Mike's second emulator</comment>
+	<status>No plans to update</status>
+
+	<tool_links>
+		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
+		<tool_link id="allegro" type="gfx_libs">&tool_allegro;</tool_link>
+	</tool_links>
+
+	<platform>DOS</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>No</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="asciipac.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<successors>
+			<emulator_link id="pacdx" type="single">&emulator_pacdx;</emulator_link>
+		</successors>
+	</relatives>
+</emulator>
