@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="andrew_bennett">
-	<name>Andrew Bennett</name>
-	<email>arcem@gauss.demon.co.uk</email>
-	<emulator_links>
-		<emulator_link id="arcem" type="amiga">&emulator_arcem;</emulator_link>
-	</emulator_links>
-</author>

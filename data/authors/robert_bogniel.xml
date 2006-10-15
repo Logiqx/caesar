@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="robert_bogniel">
-	<name>Robert B&amp;ouml;gniel</name>
-	<email>boef@usa.net</email>
-	<emulator_links>
-		<emulator_link id="phoenix98" type="single">&emulator_phoenix98;</emulator_link>
-	</emulator_links>
-</author>

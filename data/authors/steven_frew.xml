@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="steven_frew">
-	<name>Steven Frew</name>
-	<email>steven.frew@howden.com</email>
-	<emulator_links>
-		<emulator_link id="slutte" type="single">&emulator_slutte;</emulator_link>
-	</emulator_links>
-</author>

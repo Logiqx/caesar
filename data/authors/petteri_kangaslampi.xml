@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="petteri_kangaslampi">
-	<name>Petteri Kangaslampi</name>
-	<email>pekangas@sci.fi</email>
-	<tool_links>
-		<tool_link id="midas" type="snd_libs">&tool_midas;</tool_link>
-	</tool_links>
-</author>

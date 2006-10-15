@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="konami">
-	<name>Konami</name>
-	<email>support@konami.com</email>
-	<emulator_links>
-		<emulator_link id="konami_arcade_classics" type="psx">&emulator_konami_arcade_classics;</emulator_link>
-	</emulator_links>
-</author>

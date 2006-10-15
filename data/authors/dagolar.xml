@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="dagolar">
-	<name>Denis aka Dagolar</name>
-	<email>sludge@zmail.ru</email>
-	<emulator_links>
-		<emulator_link id="ssphoenix" type="saturn">&emulator_ssphoenix;</emulator_link>
-	</emulator_links>
-</author>

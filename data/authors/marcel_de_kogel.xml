@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="marcel_de_kogel">
-	<name>Marcel de Kogel</name>
-	<email>m.dekogel@student.utwente.nl</email>
-	<cpu_links>
-		<library_link id="z80em" type="cpu">&library_z80em;</library_link>
-	</cpu_links>
-</author>

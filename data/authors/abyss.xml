@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="abyss">
-	<name>Abyss</name>
-	<emulator_links>
-		<emulator_link id="system16_directx" type="multi2">&emulator_system16_directx;</emulator_link>
-	</emulator_links>
-</author>

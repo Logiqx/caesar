@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="karl_stenerud">
-	<name>Karl Stenerud</name>
-	<email>kstenerud@xoommail.com</email>
-	<cpu_links>
-		<library_link id="musashi" type="cpu">&library_musashi;</library_link>
-	</cpu_links>
-</author>

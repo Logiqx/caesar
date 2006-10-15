@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="bemame">
-	<name>BeMAME Authors</name>
-	<email>mametalk@ideawerx.com</email>
-	<emulator_links>
-		<emulator_link id="bemame" type="beos">&emulator_bemame;</emulator_link>
-	</emulator_links>
-</author>

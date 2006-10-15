@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="andy_clark">
-	<name>Andy Clark</name>
-	<email>andy@mindeater.demon.co.uk</email>
-	<emulator_links>
-		<emulator_link id="boo" type="single">&emulator_boo;</emulator_link>
-	</emulator_links>
-</author>

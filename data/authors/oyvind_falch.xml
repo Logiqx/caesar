@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="oyvind_falch">
-	<name>&amp;Oslash;yvind Falch</name>
-	<email>oyvind.falch@triumph.no</email>
-	<contribution_links>
-		<emulator_link id="mame_amiga" type="amiga">&emulator_mame_amiga;</emulator_link>
-	</contribution_links>
-</author>

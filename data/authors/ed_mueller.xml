@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="ed_mueller">
-	<name>Ed Mueller</name>
-	<email>ed.mueller@itg.ti.com</email>
-	<emulator_links>
-		<emulator_link id="qix" type="single">&emulator_qix;</emulator_link>
-	</emulator_links>
-</author>

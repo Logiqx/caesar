@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="jarno_paananen">
-	<name>Jarno Paananen</name>
-	<email>jpaana@iki.fi</email>
-	<tool_links>
-		<tool_link id="midas" type="snd_libs">&tool_midas;</tool_link>
-	</tool_links>
-</author>

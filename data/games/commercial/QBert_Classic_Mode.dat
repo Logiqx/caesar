@@ -1,6 +1,0 @@
-game (
-	name qbert
-	description "Q*bert (US)"
-	year 1982
-	manufacturer "Gottlieb"
-)

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="libpng">
-	<name>Guy Eric Schalnat, Andreas Dilger, Glenn Randers-Pehrson</name>
-	<tool_links>
-		<tool_link id="libpng" type="gfx_libs">&tool_libpng;</tool_link>
-	</tool_links>
-</author>

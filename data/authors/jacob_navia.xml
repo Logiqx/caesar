@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="jacob_navia">
-	<name>Jacob Navia</name>
-	<email>jacob@jacob.remcomp.fr</email>
-	<tool_links>
-		<tool_link id="lccwin32" type="compilers">&tool_lccwin32;</tool_link>
-	</tool_links>
-</author>

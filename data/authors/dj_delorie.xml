@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="dj_delorie">
-	<name>DJ Delorie</name>
-	<email>djgpp@delorie.com</email>
-	<tool_links>
-		<tool_link id="djgpp" type="compilers">&tool_djgpp;</tool_link>
-	</tool_links>
-</author>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="enrique_sanchez">
-	<name>Enrique S&amp;aacute;nchez</name>
-	<email>sanch@fie.us.es</email>
-	<emulator_links>
-		<emulator_link id="chopsuey" type="single">&emulator_chopsuey;</emulator_link>
-	</emulator_links>
-</author>

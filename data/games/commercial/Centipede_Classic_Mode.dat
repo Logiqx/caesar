@@ -1,6 +1,0 @@
-game (
-	name centiped
-	description "Centipede (revision 3)"
-	year 1980
-	manufacturer "Atari"
-)

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
-<emulator_contents id="linux2">
-	<title>Emulators for Linux</title>
-	<comment>These emulators are all for Linux (or Unix). Check out <a href="http://www.emulinks.de/">http://www.emulinks.de/</a> for Linux emulation.</comment>
-	<emulator_links>
-		<emulator_link id="raine_linux_alt" type="linux2">&emulator_raine_linux_alt;</emulator_link>
-	</emulator_links>
-</emulator_contents>

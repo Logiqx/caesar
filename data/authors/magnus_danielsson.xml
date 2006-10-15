@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="magnus_danielsson">
-	<name>Magnus Danielsson</name>
-	<email>magnus@c64.org</email>
-	<emulator_links>
-		<emulator_link id="shark" type="multi">&emulator_shark;</emulator_link>
-	</emulator_links>
-</author>

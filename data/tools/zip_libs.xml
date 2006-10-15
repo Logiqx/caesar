@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE tool_contents SYSTEM "../../dtd/caesar.dtd">
-<tool_contents id="zip_libs">
-	<title>ZIP Libraries</title>
-	<comment>Here are the ZIP libraries commonly used by emulation authors</comment>
-	<tool_links>
-		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
-	</tool_links>
-</tool_contents>

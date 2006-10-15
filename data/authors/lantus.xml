@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="lantus">
-	<name>Lantus</name>
-	<email>lantus@lantus-x.com</email>
-	<contribution_links>
-		<emulator_link id="fbax" type="xbox">&emulator_fbax;</emulator_link>
-	</contribution_links>
-</author>

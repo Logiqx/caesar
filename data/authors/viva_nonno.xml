@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="viva_nonno">
-	<name>Viva Nonno</name>
-	<emulator_links>
-		<emulator_link id="viva_nonno" type="multi">&emulator_viva_nonno;</emulator_link>
-	</emulator_links>
-</author>

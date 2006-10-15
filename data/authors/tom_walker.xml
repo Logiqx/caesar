@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="tom_walker">
-	<name>Tom Walker</name>
-	<email>tommowalker@hotmail.com</email>
-	<emulator_links>
-		<emulator_link id="yaame" type="multi">&emulator_yaame;</emulator_link>
-	</emulator_links>
-</author>

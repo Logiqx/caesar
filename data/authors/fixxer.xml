@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="fixxer">
-	<name>Fixxer</name>
-	<email>sliver_king@mail.com</email>
-	<emulator_links>
-		<emulator_link id="domino" type="multi">&emulator_domino;</emulator_link>
-	</emulator_links>
-</author>

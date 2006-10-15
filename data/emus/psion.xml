@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
-<emulator_contents id="psion">
-	<title>Emulators for Psion</title>
-	<comment>These emulators are all for Psion organisers</comment>
-	<emulator_links>
-		<emulator_link id="emame" type="psion">&emulator_emame;</emulator_link>
-	</emulator_links>
-</emulator_contents>

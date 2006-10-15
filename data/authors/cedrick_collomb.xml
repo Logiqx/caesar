@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="cedrick_collomb">
-	<name>Cedrick Collomb (Nitch)</name>
-	<contribution_links>
-		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
-	</contribution_links>
-</author>

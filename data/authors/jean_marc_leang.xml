@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="jean_marc_leang">
-	<name>Jean-Marc Leang</name>
-	<email>jeanmarc.leang@ping.be</email>
-	<emulator_links>
-		<emulator_link id="rem" type="single">&emulator_rem;</emulator_link>
-	</emulator_links>
-</author>

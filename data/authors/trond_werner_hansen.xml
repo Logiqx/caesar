@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="trond_werner_hansen">
-	<name>Trond Werner Hansen</name>
-	<email>trond.hansen@triumph.no</email>
-	<contribution_links>
-		<emulator_link id="mame_amiga" type="amiga">&emulator_mame_amiga;</emulator_link>
-	</contribution_links>
-</author>

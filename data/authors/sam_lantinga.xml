@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="sam_lantinga">
-	<name>Sam Lantinga</name>
-	<email>slouken@libsdl.org</email>
-	<tool_links>
-		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
-	</tool_links>
-</author>

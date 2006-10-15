@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="jimmy_hamm">
-	<name>Jimmy Hamm</name>
-	<email>jlhamm@pacificnet.net</email>
-	<emulator_links>
-		<emulator_link id="thunder" type="single">&emulator_thunder;</emulator_link>
-	</emulator_links>
-</author>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="john_lomax">
-	<name>John Lomax</name>
-	<email>john@johnlomax.com</email>
-	<emulator_links>
-		<emulator_link id="mame_jornada" type="wince">&emulator_mame_jornada;</emulator_link>
-	</emulator_links>
-</author>

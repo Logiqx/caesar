@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="mirko_buffoni">
-	<name>Mirko Buffoni</name>
-	<contribution_links>
-		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
-	</contribution_links>
-</author>

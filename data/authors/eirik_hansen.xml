@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="eirik_hansen">
-	<name>Eirik Hansen</name>
-	<email>mats.hansen@triumph.no</email>
-	<emulator_links>
-		<emulator_link id="mame_amiga" type="amiga">&emulator_mame_amiga;</emulator_link>
-	</emulator_links>
-</author>

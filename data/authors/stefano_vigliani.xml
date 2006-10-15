@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="stefano_vigliani">
-	<name>Stefano Vigliani</name>
-	<email>viglius@galactica.it</email>
-	<emulator_links>
-		<emulator_link id="invemu" type="multi">&emulator_invemu;</emulator_link>
-	</emulator_links>
-</author>

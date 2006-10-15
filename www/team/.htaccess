@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Team"
-AuthUserFile /home2/lac/.htpasswds/caesar/team/passwd
-require user logiqx pi

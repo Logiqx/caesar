@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="eric_hustvedt">
-	<name>Eric Hustvedt</name>
-	<email>hustvedt@ma.ultranet.com</email>
-	<emulator_links>
-		<emulator_link id="frogcow" type="mac">&emulator_frogcow;</emulator_link>
-	</emulator_links>
-</author>

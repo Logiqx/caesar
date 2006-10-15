@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="dynofoo">
-	<name>Dynofoo</name>
-	<emulator_links>
-		<emulator_link id="tinyemu" type="single">&emulator_tinyemu;</emulator_link>
-	</emulator_links>
-</author>

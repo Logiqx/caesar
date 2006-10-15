@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="jakesh">
-	<name>Jakesh (Radim Prokes)</name>
-	<email>radim@ragemail.com</email>
-	<emulator_links>
-		<emulator_link id="kallus2" type="fake">&emulator_kallus2;</emulator_link>
-	</emulator_links>
-</author>

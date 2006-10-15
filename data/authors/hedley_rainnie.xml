@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="hedley_rainnie">
-	<name>Hedley Rainnie</name>
-	<emulator_links>
-		<emulator_link id="vecsim" type="linux">&emulator_vecsim;</emulator_link>
-	</emulator_links>
-</author>

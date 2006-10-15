@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="infogrames">
-	<name>Infogrames</name>
-	<emulator_links>
-		<emulator_link id="atari_arcade_classics" type="commercial">&emulator_atari_arcade_classics;</emulator_link>
-	</emulator_links>
-</author>

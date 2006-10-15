@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="xmame_ps2">
-	<name>XMAME for PS2</name>
-	<emulator_links>
-		<emulator_link id="xmame_ps2" type="ps2">&emulator_xmame_ps2;</emulator_link>
-	</emulator_links>
-</author>

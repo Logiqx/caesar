@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="ian_luck">
-	<name>Ian Luck</name>
-	<email>bass@un4seen.com</email>
-	<tool_links>
-		<tool_link id="bass" type="snd_libs">&tool_bass;</tool_link>
-	</tool_links>
-</author>

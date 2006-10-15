@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="mingw">
-	<name>MinGW</name>
-	<tool_links>
-		<tool_link id="mingw" type="compilers">&tool_mingw;</tool_link>
-	</tool_links>
-</author>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="cristobal_aguilera">
-	<name>Cristobal Aguilera (KRAY)</name>
-	<email>arkaikos@hotmail.com</email>
-	<emulator_links>
-		<emulator_link id="neogem" type="multi">&emulator_neogem;</emulator_link>
-	</emulator_links>
-</author>

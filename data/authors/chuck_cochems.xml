@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="chuck_cochems">
-	<name>Chuck Cochems</name>
-	<contribution_links>
-		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
-	</contribution_links>
-</author>

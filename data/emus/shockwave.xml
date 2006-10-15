@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE emulator_contents SYSTEM "../../dtd/caesar.dtd">
-<emulator_contents id="shockwave">
-	<title>Emulators for Shockwave Flash</title>
-	<comment>These emulators are all written in Shockwave Flash. They can therefore be run on the PC, Mac, Linux or Solaris.</comment>
-	<emulator_links>
-		<emulator_link id="shockwave_arcade" type="shockwave">&emulator_shockwave_arcade;</emulator_link>
-	</emulator_links>
-</emulator_contents>

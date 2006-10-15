@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="cesareo_gutierrez">
-	<name>Ces&amp;aacute;reo Guti&amp;eacute;rrez</name>
-	<email>combatschool@hotmail.com</email>
-	<contribution_links>
-		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
-	</contribution_links>
-</author>

@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="inigo_ayo">
-	<name>I&amp;ntilde;igo Ayo</name>
-	<emulator_links>
-		<emulator_link id="toki" type="single">&emulator_toki;</emulator_link>
-	</emulator_links>
-</author>

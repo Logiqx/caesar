@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="chris_pile">
-	<name>Chris Pile</name>
-	<email>pegasus@enterprise.net</email>
-	<emulator_links>
-		<emulator_link id="asteroids" type="single">&emulator_asteroids;</emulator_link>
-	</emulator_links>
-</author>

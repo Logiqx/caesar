@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="leniad">
-	<name>Leniad</name>
-	<email>leniad2@hotmail.com</email>
-	<emulator_links>
-		<emulator_link id="dsp" type="multi">&emulator_dsp;</emulator_link>
-	</emulator_links>
-</author>

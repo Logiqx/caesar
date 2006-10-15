@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="romain_tisserland">
-	<name>Romain Tisserland (Cal2)</name>
-	<emulator_links>
-		<emulator_link id="playscott" type="java">&emulator_playscott;</emulator_link>
-		<emulator_link id="potatomulti" type="java">&emulator_potatomulti;</emulator_link>
-	</emulator_links>
-</author>

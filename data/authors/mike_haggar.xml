@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="mike_haggar">
-	<name>Mike Haggar</name>
-	<emulator_links>
-		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
-	</emulator_links>
-</author>

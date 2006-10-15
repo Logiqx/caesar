@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="tatsuyuki_satoh">
-	<name>Tatsuyuki Satoh</name>
-	<contribution_links>
-		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
-	</contribution_links>
-</author>

@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="david_mitchel">
-	<name>David Mitchel</name>
-	<email>gouky@mygale.org</email>
-	<emulator_links>
-		<emulator_link id="xdragon" type="multi">&emulator_xdragon;</emulator_link>
-	</emulator_links>
-</author>

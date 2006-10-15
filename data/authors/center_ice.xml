@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="center_ice">
-	<name>Center Ice Productions</name>
-	<emulator_links>
-		<emulator_link id="emulaser" type="multi">&emulator_emulaser;</emulator_link>
-	</emulator_links>
-</author>

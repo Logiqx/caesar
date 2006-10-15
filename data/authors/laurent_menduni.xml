@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="laurent_menduni">
-	<name>Laurent Menduni</name>
-	<email>laurent.menduni@free.fr</email>
-	<emulator_links>
-		<emulator_link id="oldspark" type="java">&emulator_oldspark;</emulator_link>
-	</emulator_links>
-</author>

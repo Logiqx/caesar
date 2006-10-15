@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
-<author id="simon_tatham">
-	<name>Simon Tahtham</name>
-	<tool_links>
-		<tool_link id="nasm" type="assemblers">&tool_nasm;</tool_link>
-	</tool_links>
-</author>

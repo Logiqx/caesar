@@ -1,8 +1,0 @@
-game (
-	name lrescue
-	description "Lunar Rescue"
-	year 1979
-	manufacturer "Taito"
-	rom ( name lrescue.rom size 20480 crc 46f5b924 sha1 f057d03f8cbf7fb2ba1a8aa0ac57f72612c06a16 )
-)
-
