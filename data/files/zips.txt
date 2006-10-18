@@ -90,7 +90,8 @@ emus/linux/m1_linux	m1077b-lnx.tar.bz2	825802
 emus/linux/m1_linux	m1077b-lnx64.tar.bz2	1251531
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raines-0.43.2-1.tar.bz2	1739566
+emus/linux/raine_linux	raine_0.43.4_i386.deb	1476440
+emus/linux/raine_linux	raines-0.43.4.tar.bz2	1757994
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -291,7 +292,7 @@ emus/multi/sage	sagesrc.zip	92638
 emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-emus/multi/segamodel2emulator	m2emulator.zip	232272
+emus/multi/segamodel2emulator	m2emulator03.zip	256009
 emus/multi/shark	shark31f.zip	240853
 emus/multi/sideway	sideway.zip	203827
 emus/multi/siemu	siemu-1.03.tar.gz	215066
@@ -364,7 +365,7 @@ emus/multi2/laser32	laser32020a.zip	591664
 emus/multi2/laser32	laser32020as.zip	607700
 emus/multi2/raine32	raine_dlls.zip	1183781
 emus/multi2/raine32	rainefonts.zip	528309
-emus/multi2/raine32	rainew-0.43.2-1.zip	1668012
+emus/multi2/raine32	rainew-0.43.4.zip	2668245
 emus/multi2/sega_system_c2_w	c2emuw.zip	342834
 emus/multi2/sname	sname02d.zip	1024299
 emus/multi2/sparcade_stable	spcad225.zip	389336

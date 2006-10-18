@@ -1,8 +1,8 @@
 clrmamepro (
 	name "SEGA Model 2 Emulator"
-	description "SEGA Model 2 Emulator v0.1"
+	description "SEGA Model 2 Emulator v0.3"
 	category "Sega Model 2B/2C CRX Emulator"
-	version 20040727
+	version 20060828
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -599,5 +599,51 @@ game (
 	rom ( name ep20302.31 merge ep20302.31 size 524288 crc 44ff50d2 sha1 6ffec81042fd5708e8a5df47b63f9809f93bf0f8 )
 	rom ( name ep20290.15 size 524288 crc 9ce3ad21 sha1 812ab45cc9e2920e74e58937d1826774f3f54183 )
 	rom ( name ep20291.16 size 524288 crc 7267a03d sha1 a7216914ee7535fa1856cb19bc05c89948a93c89 )
+)
+
+game (
+	name overrev
+	description "Over Rev [Model 2C CRX]"
+	year 1997
+	manufacturer "Jaleco"
+	rom ( name 20124a.15 size 524288 crc 74beb8d7 sha1 c65c641138ecd7312c4930702d1498b8a346175a )
+	rom ( name 20125a.16 size 524288 crc def64456 sha1 cedb64d2d99a73301ef45c2f5f860a9b87faf6a7 )
+	rom ( name 19996.11 size 4194304 crc 21928a00 sha1 6b439fd2b113b64df9378ef8180a17aa6fa975c5 )
+	rom ( name 19997.12 size 4194304 crc 2a169cab sha1 dbf9af938afd0599d345c42c1df242e575c14de9 )
+	rom ( name 19994.9 size 4194304 crc e691fbd5 sha1 b99c2f3f2a682966d792917dfcb8ed8e53bc0b7a )
+	rom ( name 19995.10 size 4194304 crc 82a7828e sha1 4336a12a07a67f94091b4a9b491bab02c375dd15 )
+	rom ( name 19998.17 size 2097152 crc 6a834574 sha1 8be19bf42dbb157d6acde62a2018ef4c0d41aab4 )
+	rom ( name 19999.21 size 2097152 crc ff590a2d sha1 ad29e4270b4a2f82189fbab83358eb1200f43777 )
+	rom ( name 20001.27 size 2097152 crc 6ca236aa sha1 b3cb89fadb42afed13be4f229d7158dee487978a )
+	rom ( name 20000.25 size 2097152 crc 894d8ded sha1 9bf7c754a29eef47fa49b5567980601895127306 )
+	rom ( name 20002.31 size 524288 crc 7efb069e sha1 30b1bbaf348d6a6b9ee2fdf82a0749baa025e0bf )
+	rom ( name 20003.32 size 4194304 crc 149ac22b sha1 c890bbaebbbb07b62bcb8a3a8edded9fa0ec9a1e )
+	rom ( name 20004.34 size 4194304 crc 0b9c5410 sha1 e5bb30702fc853ccc03316be07a334269d3ebb4a )
+)
+
+game (
+	name skisuprg
+	description "Sega Ski Super G [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	rom ( name epr19489.15 size 524288 crc 1df948a7 sha1 a38faeb97c65b379ad05f7311b55217118c8d2be )
+	rom ( name epr19490.16 size 524288 crc e6fc24d3 sha1 1ac9172cf0b4d6a3488483ffa490a4ca5d410927 )
+	rom ( name epr19551.13 size 524288 crc 3ee8f0d5 sha1 23f45858559776a70b3b57f4cb2840f44e6a6531 )
+	rom ( name epr19552.14 size 524288 crc baa2e49a sha1 b234f3b65e8fabfb6ec7ca62dd9a1d2935b2e95a )
+	rom ( name mpr19494.11 size 4194304 crc f19cdb5c sha1 bdbb7d9e91a7742ff5a908b6244adbed291e5e7f )
+	rom ( name mpr19495.12 size 4194304 crc d42e5ef2 sha1 21ca5e7e543595a4691aacdbcdd2af21d464d939 )
+	rom ( name mpr19492.9 size 4194304 crc 4805318f sha1 dbd1359817933313c6d74d3a1450682e8ce5857a )
+	rom ( name mpr19493.10 size 4194304 crc 39daa909 sha1 e29e50c7fc39bd4945f993ceaa100358054efc5a )
+	rom ( name mpr19502.29 size 4194304 crc 2212d8d6 sha1 3b8a4da2dc00a1eac41b48cbdc322ea1c31b8b29 )
+	rom ( name mpr19503.30 size 4194304 crc 3c9cfc73 sha1 2213485a00cef0bcef11b67f00027c4159c5e2f5 )
+	rom ( name mpr19496.17 size 4194304 crc 0e9aef4e sha1 d4b511b90c0a6e27d6097cb25ff005f68d5fa83c )
+	rom ( name mpr19497.21 size 4194304 crc 5397efe9 sha1 4b20bab36462f9506fa2601c2545051ca49de7f5 )
+	rom ( name mpr19498.18 size 4194304 crc 32e5ae60 sha1 b8a1cc117875c3919a78eedb60a06926288d9b95 )
+	rom ( name mpr19499.22 size 4194304 crc 2b9f5b48 sha1 40f3f2844244c3f1c8792aa262872243ad20fd69 )
+	rom ( name mpr19501.27 size 4194304 crc 66d7b02e sha1 cede0dc5c8d9fbfa8de01fe864b3cc101abf67d7 )
+	rom ( name mpr19500.25 size 4194304 crc 905f5798 sha1 31f104e3022b5bc7ed7c667eb801a57949a06c93 )
+	rom ( name epr19491.31 size 524288 crc 1c9b15fd sha1 045244a4eebc45f149aecf47f090cede1813477b )
+	rom ( name mpr19504.32 size 4194304 crc 9419ec08 sha1 d05d9ceb7fd09fa8991c0df4d1c57eb621460e30 )
+	rom ( name mpr19505.34 size 4194304 crc eba7f41d sha1 f6e521bedf298808a768f6fdcb0b60b320a66d04 )
 )
 

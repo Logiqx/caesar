@@ -261,7 +261,7 @@ plgirls2,plgirls2,m
 bublbob2,bublbob2,m
 tshingna,tshingna,m
 biomtoy,biomtoy,m
-btlkrodj,btlkroad,m
+btlkroad,btlkroad,m
 crimec,crimec,m
 ctribe,ctribe,m
 ddonpchj,ddonpchj,m
@@ -301,7 +301,7 @@ cworld2j,cworld2j,m
 daimakai,daimakai,m
 dino,dino,m
 dinoj,dinoj,m
-dwj,dynwarj,m
+dynwarj,dynwarj,m
 ffight,ffight,m
 ffightj,ffightj,m
 ffightu,ffightu,m
@@ -365,7 +365,7 @@ strider,strider,m
 striderj,striderj,m
 stridrja,stridrja,m
 unsquad,unsquad,m
-varth,varthr1,m
+varthr1,varthr1,m
 varthj,varthj,m
 varthu,varthu,m
 willowje,willowje,m
@@ -410,7 +410,6 @@ tdragon2,tdragon2,m
 cawingu,cawingu,m
 ddragon3,ddragon3,m
 dinou,dinou,m
-dw,dynwar,m
 fantasia,fantasia,m
 fantsia2,fantsia2,m
 gemini,gemini,m
@@ -473,7 +472,7 @@ arbalest,arbalest,m
 blandia,blandia,m
 calibr50,calibr50,m
 daioh,daioh,m
-downtown,downtow2,m
+downtown,downtown,m
 drgnunit,drgnunit,m
 eightfrc,eightfrc,m
 excthour,excthour,m
@@ -507,7 +506,6 @@ sstriker,sstriker,m
 xenrev,xenrev,n
 1944,1944,m
 19xx,19xx,m
-armwar,armwar,m
 armwaru,armwaru,m
 avsp,avsp,m
 batcir,batcir,m
@@ -525,8 +523,8 @@ mmatrix,mmatrix,m
 mpangj,mpangj,m
 msh,msh,m
 mshh,mshh,m
-mshvsf,mshvsfu,m
-mvsc,mvscu,m
+mshvsfu,mshvsfu,m
+mvscu,mvscu,m
 nost,nost,m
 nwarr,nwarr,m
 ringdest,ringdest,m
@@ -541,12 +539,11 @@ vhunt2r1,vhunt2r1,m
 vsav,vsav,m
 vsav2,vsav2,m
 xmcota,xmcota,m
-xmvsf,xmvsfr1,m
+xmvsfr1,xmvsfr1,m
 mshu,mshu,m
 progear,progear,m
 pzloop2j,pzloop2j,m
-block,blockjoy,m
-blocka,block,m
+block,block,m
 blockj,blockj,m
 pang,pang,m
 pkladies,pkladies,m
@@ -565,3 +562,12 @@ jumppop,jumppop,m
 mchampdx,mchampda,m
 mugsmash,mugsmash,m
 multchmp,multchmk,m
+armwarr1,armwarr1,m
+blockjoy,blockjoy,m
+cawingr1,cawingr1,m
+dynwar,dynwar,m
+ffightua,ffightua,m
+fixeighb,fixeighb,m
+sf2hf,sf2hf,m
+varth,varth,m
+

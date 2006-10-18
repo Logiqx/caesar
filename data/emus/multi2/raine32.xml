@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="raine32" type="multi2" dat="dummy">
 	<name>RAINE32</name>
-	<version>0.43.2</version>
-	<date>20/09/2005</date>
+	<version>0.43.4</version>
+	<date>15/08/2006</date>
 
 	<homepage>http://www.rainemu.com/</homepage>
 	<author_link id="tux">&author_tux;</author_link>
@@ -51,7 +51,7 @@
 	</features>
 
 	<files>
-		<file name="rainew-0.43.2-1.zip">Emulator</file>
+		<file name="rainew-0.43.4.zip">Emulator</file>
 		<file name="raine_dlls.zip">Libraries (PNG, SDL, zlib)</file>
 		<file name="rainefonts.zip">RAINE Fonts</file>
 	</files>
