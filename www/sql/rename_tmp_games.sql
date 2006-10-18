@@ -2,6 +2,33 @@
 -- Dat/Map Tables
 --
 
+-- Add extra columns onto the game_display table
+
+ALTER TABLE tmp_game_display
+ADD (
+	orientation	VARCHAR(10) NOT NULL,
+	rotated_width	SMALLINT UNSIGNED NULL,
+	rotated_height	SMALLINT UNSIGNED NULL,
+	aspectx		SMALLINT UNSIGNED NULL,
+	aspecty		SMALLINT UNSIGNED NULL
+);
+
+UPDATE	tmp_game_display
+SET	orientation = 'horizontal',
+	rotated_width = width,
+	rotated_height = height,
+	aspectx = 4,
+	aspecty = 3
+WHERE	rotate IN (0, 180);
+
+UPDATE	tmp_game_display
+SET	orientation = 'vertical',
+	rotated_width = height,
+	rotated_height = width,
+	aspectx = 3,
+	aspecty = 4
+WHERE	rotate IN (90, 270);
+
 -- Add extra columns onto the game table
 
 ALTER TABLE tmp_game
@@ -197,6 +224,9 @@ RENAME TABLE tmp_game_sound TO game_sound;
 
 DROP TABLE IF EXISTS game_input;
 RENAME TABLE tmp_game_input TO game_input;
+
+DROP TABLE IF EXISTS game_control;
+RENAME TABLE tmp_game_control TO game_control;
 
 DROP TABLE IF EXISTS game_dipswitch;
 RENAME TABLE tmp_game_dipswitch TO game_dipswitch;

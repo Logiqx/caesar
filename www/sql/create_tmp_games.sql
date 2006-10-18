@@ -121,7 +121,7 @@ CREATE TABLE tmp_game_display
 	game_name	VARCHAR(20) NOT NULL,
 	type		VARCHAR(6) NOT NULL,
 	rotate		SMALLINT UNSIGNED NOT NULL,
-	flipx		VARCHAR(3) NULL,
+	flipx		CHAR(3) NULL,
 	width		SMALLINT UNSIGNED NULL,
 	height		SMALLINT UNSIGNED NULL,
 	refresh		DECIMAL(8,6) NOT NULL,
@@ -152,13 +152,28 @@ CREATE TABLE tmp_game_input
 	PRIMARY KEY	(dat, game_name)
 );
 
+DROP TABLE IF EXISTS tmp_game_control;
+CREATE TABLE tmp_game_control
+(
+	dat		VARCHAR(60) NOT NULL,
+	game_name	VARCHAR(20) NOT NULL,
+	players		TINYINT UNSIGNED NOT NULL,
+	type		VARCHAR(20) NULL,
+	minimum		MEDIUMINT NULL,
+	maximum		MEDIUMINT NULL,
+	sensitivity	TINYINT UNSIGNED NULL,
+	KEYDELTA	TINYINT UNSIGNED NULL,
+	reverse		CHAR(3) NULL,
+	INDEX		(dat, game_name, players)
+);
+
 DROP TABLE IF EXISTS tmp_game_dipswitch;
 CREATE TABLE tmp_game_dipswitch
 (
 	dat		VARCHAR(60) NOT NULL,
 	game_name	VARCHAR(20) NOT NULL,
 	dipswitch_name	VARCHAR(60) NOT NULL,
-	INDEX		(dat, game_name, dipswitch_name)
+	INDEX		(dat, game_name)
 );
 
 DROP TABLE IF EXISTS tmp_game_dipvalue;
@@ -169,7 +184,7 @@ CREATE TABLE tmp_game_dipvalue
 	dipswitch_name		VARCHAR(60) NOT NULL,
 	dipvalue_name		VARCHAR(60) NOT NULL,
 	dipvalue_default	CHAR(3) NULL,
-	INDEX			(dat, game_name, dipswitch_name, dipvalue_name)
+	INDEX			(dat, game_name, dipswitch_name)
 );
 
 DROP TABLE IF EXISTS tmp_game_driver;

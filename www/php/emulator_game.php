@@ -319,7 +319,7 @@
 
 					mysql_free_result ($result);
 
-					// Get video details (for aspect ratio fixing)
+					// Get video details (for aspect ratio fixing) - old 'video' details
 
 					$query = "SELECT *
 						FROM	game_video
@@ -353,6 +353,64 @@
 
 					mysql_free_result ($result);
 
+					// Get video details (for aspect ratio fixing) - new  'display' details
+
+					$query = "SELECT max(rotated_width) as max_width, sum(rotated_width) as sum_width,
+							max(rotated_height) as max_height, sum(rotated_height) as sum_height,
+							max(aspectx) as max_aspectx, sum(aspectx) as sum_aspectx,
+							max(aspecty) as max_aspecty, sum(aspecty) as sum_aspecty,
+							count(*) as num_displays
+						FROM	game_display
+						WHERE	dat='" . $master['dat'] . "'
+						AND	game_name='" . $row ['x_map_name'] ."'";
+
+					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+
+					$max_width = 0;
+					$sum_width = 0;
+					$max_height = 0;
+					$sum_height = 0;
+					$max_aspectx = isset($emulator ['aspectx']) ? $emulator ['aspectx'] : 0;
+					$sum_aspectx = isset($emulator ['aspectx']) ? $emulator ['aspectx'] : 0;
+					$max_aspecty = isset($emulator ['aspecty']) ? $emulator ['aspecty'] : 0;
+					$sum_aspecty = isset($emulator ['aspecty']) ? $emulator ['aspecty'] : 0;
+					$num_displays = 0;
+
+					if (mysql_num_rows ($result) != 0)
+					{
+						while ($video = mysql_fetch_assoc ($result))
+						{
+							if (isset($video ['max_width']))
+								$max_width = $video ['max_width'];
+
+							if (isset($video ['sum_width']))
+								$sum_width = $video ['sum_width'];
+
+							if (isset($video ['max_height']))
+								$max_height = $video ['max_height'];
+
+							if (isset($video ['sum_height']))
+								$sum_height = $video ['sum_height'];
+
+							if ($aspectx==0 && isset($video ['max_aspectx']))
+								$max_aspectx = $video ['max_aspectx'];
+
+							if ($aspectx==0 && isset($video ['sum_aspectx']))
+								$sum_aspectx = $video ['sum_aspectx'];
+
+							if ($aspecty==0 && isset($video ['max_aspecty']))
+								$max_aspecty = $video ['max_aspecty'];
+
+							if ($aspecty==0 && isset($video ['sum_aspecty']))
+								$sum_aspecty = $video ['sum_aspecty'];
+
+							if (isset($video ['num_displays']))
+								$num_displays = $video ['num_displays'];
+						}
+					}
+
+					mysql_free_result ($result);
+
 					// Snaps
 
 					$query = "SELECT *
@@ -376,40 +434,72 @@
 							$width=$snap ['width'];
 							$height=$snap ['height'];
 
-							/* --- If aspect ratio is unknown, make a simple guess! --- */
-
-							if ($aspectx==0 || $aspecty==0)
+							if ($num_displays > 0)
 							{
-								if ($width>=$height)
+								$snap_aspect = 100 * $width / $height;
+
+								$basic_aspect = 100 * $max_width / $max_height;
+								$basic_error = abs($snap_aspect - $basic_aspect);
+
+								$wide_aspect = 100 * $sum_width / $max_height;
+								$wide_error = abs($snap_aspect - $wide_aspect);
+
+								$tall_aspect = 100 * $max_width / $sum_height;
+								$tall_error = abs($snap_aspect - $tall_aspect);
+
+								if ($basic_error <= $wide_error && $basic_error <= $tall_error)
 								{
-									$aspectx=4;
-									$aspecty=3;
+									$aspectx = $max_aspectx;
+									$aspecty = $max_aspecty;
+								}
+								else if ($wide_error <= $tall_error)
+								{
+									$aspectx = $sum_aspectx;
+									$aspecty = $max_aspecty;
 								}
 								else
 								{
-									$aspectx=3;
-									$aspecty=4;
+									$aspectx = $max_aspectx;
+									$aspecty = $sum_aspecty;
 								}
 							}
-
-							/* --- Cropping should only occur for multi-screen games (i.e. not 4:3 or 3:4) --- */
-
-							if (!(($aspectx==4 && $aspecty==3) || ($aspectx==3 && $aspecty==4)))
+							else
 							{
-								/* --- If image is cropped horizontally then fix aspectx --- */
+								/* --- If aspect ratio is unknown, make a simple guess! --- */
 
-								if ($width>=$x/2-16 && $width<=$x/2+16 && $height==$y)
+								if ($aspectx==0 || $aspecty==0)
 								{
-									//printf("Cropped horizontally %s\n", ext_file->name);
-									$aspectx/=2;
+									if ($width>=$height)
+									{
+										$aspectx=4;
+										$aspecty=3;
+									}
+									else
+									{
+										$aspectx=3;
+										$aspecty=4;
+									}
 								}
 
-								/* --- If image is cropped vertically then fix aspecty --- */
+								/* --- Cropping should only occur for multi-screen games (i.e. not 4:3 or 3:4) --- */
 
-								if ($width==$x && $height>=$y/2-16 && $height<=$y/2+16)
+								if (!(($aspectx==4 && $aspecty==3) || ($aspectx==3 && $aspecty==4)))
 								{
-									//printf("Cropped vertically %s\n", ext_file->name);
-									$aspecty/=2;
+									/* --- If image is cropped horizontally then fix aspectx --- */
+	
+									if ($width>=$x/2-16 && $width<=$x/2+16 && $height==$y)
+									{
+										//printf("Cropped horizontally %s\n", ext_file->name);
+										$aspectx/=2;
+									}
+
+									/* --- If image is cropped vertically then fix aspecty --- */
+
+									if ($width==$x && $height>=$y/2-16 && $height<=$y/2+16)
+									{
+										//printf("Cropped vertically %s\n", ext_file->name);
+										$aspecty/=2;
+									}
 								}
 							}
 
@@ -420,8 +510,19 @@
 							else if ($width*$aspecty>$height*$aspectx)
 								$height=$width*$aspecty/$aspectx;
 
+							$reduced = 0;
+							while ($width >= 640 && $height >=480 ||
+								$width >= 480 && $height >= 640)
+							{
+								$width /= 2;
+								$height /= 2;
+								$reduced++;
+							}
+
 							echo INDENT . TAB . '<img src="../snaps/' . $snap ['path'] . '/' .
 								$snap ['name'] . '" alt="' . $snap ['name'] .
+								' (' . $aspectx . ':' . $aspecty . ')' .
+								($reduced ? ' - reduced in size!' : '') .
 								'" width="' . $width .
 								'" height="' . $height . '"/>' . LF;
 						}
@@ -579,32 +680,19 @@
 
 							$orientation = 'horizontal';
 
-							if (isset($display ['rotate']))
+							if (isset($display ['orientation']))
 							{
 								echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
-								if ($display ['rotate'] == 90 or $display ['rotate'] == 270)
-									$orientation = 'vertical';
-								echo INDENT . TAB . TAB . '<td>Orientation: ' . $orientation . '</td>' . LF;
+								echo INDENT . TAB . TAB . '<td>Orientation: ' . $display ['orientation'] . '</td>' . LF;
 								echo INDENT . TAB . '</tr>' . LF;
 
 								$class = ($class == 'even') ? 'odd' : 'even';
 							}
 
-							if (isset($display ['width']))
+							if (isset($display ['rotated_width']))
 							{
-								if ($orientation == 'horizontal')
-								{
-									$width = $display ['width'];
-									$height = $display ['height'];
-								}
-								else
-								{
-									$width = $display ['height'];
-									$height = $display ['width'];
-								}
-
 								echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
-								echo INDENT . TAB . TAB . '<td>Resolution: ' . $width . ' x ' . $height . '</td>' . LF;
+								echo INDENT . TAB . TAB . '<td>Resolution: ' . $display ['rotated_width'] . ' x ' . $display ['rotated_height'] . '</td>' . LF;
 								echo INDENT . TAB . '</tr>' . LF;
 
 								$class = ($class == 'even') ? 'odd' : 'even';
@@ -739,6 +827,44 @@
 
 								$class = ($class == 'even') ? 'odd' : 'even';
 							}
+						}
+
+						echo INDENT . '</table>' . LF;
+					}
+
+					mysql_free_result ($result);
+
+					// Control
+
+					$query = "SELECT *
+						FROM	game_control
+						WHERE	dat='" . $master['dat'] . "'
+						AND	game_name='" . $row ['x_map_name'] ."'";
+
+					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+
+					if (mysql_num_rows ($result) != 0)
+					{
+						echo INDENT . '<table class="links">' . LF;
+						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
+
+						echo INDENT . TAB . '<tr>' . LF;
+						echo INDENT . TAB . TAB . '<th>Controls</th>' . LF;
+						echo INDENT . TAB . '</tr>' . LF;
+
+						$class = 'odd';
+
+						while ($control = mysql_fetch_assoc ($result))
+						{
+							if (isset($control ['type']))
+							{
+								echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
+								echo INDENT . TAB . TAB . '<td>Type: ' . $control ['type'] . '</td>' . LF;
+								echo INDENT . TAB . '</tr>' . LF;
+
+								$class = ($class == 'even') ? 'odd' : 'even';
+							}
+
 						}
 
 						echo INDENT . '</table>' . LF;
