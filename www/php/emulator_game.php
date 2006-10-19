@@ -473,20 +473,22 @@
 								$tall_aspect = 100 * $max_width / $sum_height;
 								$tall_error = abs($snap_aspect - $tall_aspect);
 
-								if ($basic_error <= $wide_error && $basic_error <= $tall_error)
-								{
-									$aspectx = $max_aspectx;
-									$aspecty = $max_aspecty;
-								}
-								else if ($wide_error <= $tall_error)
+								$sourcefile = isset($row ['game_sourcefile']) ? $row ['game_sourcefile'] : '';
+
+								if ($wide_error <= $tall_error && $wide_error <= $basic_error)
 								{
 									$aspectx = $sum_aspectx;
 									$aspecty = $max_aspecty;
 								}
-								else
+								else if ($tall_error <= $basic_error && $sourcefile != 'cyberbal.c')
 								{
 									$aspectx = $max_aspectx;
 									$aspecty = $sum_aspecty;
+								}
+								else
+								{
+									$aspectx = $max_aspectx;
+									$aspecty = $max_aspecty;
 								}
 							}
 							else

@@ -238,3 +238,181 @@ mysql> select game_name, min(width), max(width), min(height), max(height), count
 +-----------+------------+------------+-------------+-------------+----------+
 53 rows in set (0.04 sec)
 
+mysql> select g.game_sourcefile, gd.game_name from game g, game_display gd where
+ g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.ga
+me_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
++-----------------+-----------+
+| game_sourcefile | game_name |
++-----------------+-----------+
+| backfire.c      | backfira  |
+| backfire.c      | backfire  | ok (vert)
+| bfm_sc2.c       | gldncrwn  | no snaps
+| bfm_sc2.c       | paradice  |
+| bfm_sc2.c       | pokio     |
+| bfm_sc2.c       | pyramid   |
+| bfm_sc2.c       | qntoond   |
+| bfm_sc2.c       | qntoondo  |
+| bfm_sc2.c       | quintoon  |
+| bfm_sc2.c       | slotsnl   |
+| bfm_sc2.c       | sltblgp1  |
+| bfm_sc2.c       | sltblgpo  |
+| bfm_sc2.c       | sltblgtk  |
+| cyberbal.c      | cyberba2  | bad (4:3)
+| cyberbal.c      | cyberbal  |
+| cyberbal.c      | cyberbap  |
+| cyberbal.c      | cyberbt   |
+| cyberbal.c      | cyberbt1  |
+| darius.c        | darius    | ok (horiz)
+| darius.c        | dariuse   |
+| darius.c        | dariusj   |
+| darius.c        | dariuso   |
+| dynax.c         | jantouki  | ok (vert)
+| fromanc2.c      | fromanc2  | ok (4:3)
+| fromanc2.c      | fromanc4  |
+| fromanc2.c      | fromancr  |
+| gaelco2.c       | touchgo   | ok? (4:3)
+| gaelco2.c       | touchgoe  |
+| gaelco2.c       | touchgon  |
+| gaelco2.c       | wrally2   |
+| megatech.c      | mt_aftrb  | ok (4:3)
+| megatech.c      | mt_arrow  |
+| megatech.c      | mt_astrm  |
+| megatech.c      | mt_astro  |
+| megatech.c      | mt_asyn   |
+| megatech.c      | mt_bbros  |
+| megatech.c      | mt_beast  |
+| megatech.c      | mt_cols   |
+| megatech.c      | mt_crack  |
+| megatech.c      | mt_eswat  |
+| megatech.c      | mt_fshrk  |
+| megatech.c      | mt_gaxe   |
+| megatech.c      | mt_gaxe2  |
+| megatech.c      | mt_ggolf  |
+| megatech.c      | mt_gng    |
+| megatech.c      | mt_gsocr  |
+| megatech.c      | mt_kcham  |
+| megatech.c      | mt_lastb  |
+| megatech.c      | mt_mlh    |
+| megatech.c      | mt_mwalk  |
+| megatech.c      | mt_mystd  |
+| megatech.c      | mt_parlg  |
+| megatech.c      | mt_revsh  |
+| megatech.c      | mt_shang  |
+| megatech.c      | mt_shar2  |
+| megatech.c      | mt_shnbi  |
+| megatech.c      | mt_smgp   |
+| megatech.c      | mt_soni2  |
+| megatech.c      | mt_sonia  |
+| megatech.c      | mt_sonic  |
+| megatech.c      | mt_stbld  |
+| megatech.c      | mt_stf    |
+| megatech.c      | mt_tetri  |
+| megatech.c      | mt_tfor2  |
+| megatech.c      | mt_tgolf  |
+| megatech.c      | mt_tlbba  |
+| megatech.c      | mt_wcsoc  |
+| nbmj8688.c      | bijokkog  | ok (vert)
+| nbmj8688.c      | bijokkoy  |
+| nbmj8688.c      | housemn2  |
+| nbmj8688.c      | housemnq  |
+| nbmj8688.c      | livegal   |
+| ninjaw.c        | darius2   | ok (horiz)
+| ninjaw.c        | ninjaw    |
+| ninjaw.c        | ninjawj   |
+| playch10.c      | pc_1942   | ok (4:3)
+| playch10.c      | pc_bball  |
+| playch10.c      | pc_bfght  |
+| playch10.c      | pc_bstar  |
+| playch10.c      | pc_cntra  |
+| playch10.c      | pc_cshwk  |
+| playch10.c      | pc_cvnia  |
+| playch10.c      | pc_dbldr  |
+| playch10.c      | pc_ddrgn  |
+| playch10.c      | pc_drmro  |
+| playch10.c      | pc_duckh  |
+| playch10.c      | pc_ebike  |
+| playch10.c      | pc_ftqst  |
+| playch10.c      | pc_gntlt  |
+| playch10.c      | pc_golf   |
+| playch10.c      | pc_goons  |
+| playch10.c      | pc_grdue  |
+| playch10.c      | pc_grdus  |
+| playch10.c      | pc_hgaly  |
+| playch10.c      | pc_kngfu  |
+| playch10.c      | pc_mario  |
+| playch10.c      | pc_miket  |
+| playch10.c      | pc_mman3  |
+| playch10.c      | pc_moglf  |
+| playch10.c      | pc_mtoid  |
+| playch10.c      | pc_ngai2  |
+| playch10.c      | pc_ngai3  |
+| playch10.c      | pc_ngaid  |
+| playch10.c      | pc_pinbt  |
+| playch10.c      | pc_pwbld  |
+| playch10.c      | pc_pwrst  |
+| playch10.c      | pc_radr2  |
+| playch10.c      | pc_radrc  |
+| playch10.c      | pc_rcpam  |
+| playch10.c      | pc_rkats  |
+| playch10.c      | pc_rnatk  |
+| playch10.c      | pc_rrngr  |
+| playch10.c      | pc_rygar  |
+| playch10.c      | pc_sjetm  |
+| playch10.c      | pc_smb    |
+| playch10.c      | pc_smb2   |
+| playch10.c      | pc_smb3   |
+| playch10.c      | pc_suprc  |
+| playch10.c      | pc_tbowl  |
+| playch10.c      | pc_tenis  |
+| playch10.c      | pc_tkfld  |
+| playch10.c      | pc_tmnt   |
+| playch10.c      | pc_tmnt2  |
+| playch10.c      | pc_trjan  |
+| playch10.c      | pc_vball  |
+| playch10.c      | pc_wcup   |
+| playch10.c      | pc_wgnmn  |
+| playch10.c      | pc_ynoid  |
+| psikyo4.c       | hgkairak  | ok (4:3)
+| psikyo4.c       | hotdebut  |
+| psikyo4.c       | hotgm4ev  |
+| psikyo4.c       | hotgmck   |
+| psikyo4.c       | hotgmck3  |
+| psikyo4.c       | hotgmcki  |
+| psikyo4.c       | loderdfa  |
+| psikyo4.c       | loderndf  |
+| punchout.c      | armwrest  | ok (vert)
+| punchout.c      | punchout  |
+| punchout.c      | spnchotj  |
+| punchout.c      | spnchout  |
+| segas32.c       | harddunj  | ok (4:3)
+| segas32.c       | harddunk  |
+| segas32.c       | orunners  |
+| segas32.c       | orunneru  |
+| segas32.c       | scross    |
+| segas32.c       | titlef    |
+| segas32.c       | titlefu   |
+| subs.c          | subs      | ok (horiz)
+| tbowl.c         | tbowl     | ok (horiz)
+| tbowl.c         | tbowlj    |
+| tetrisp2.c      | rocknms   | no snaps
+| tx1.c           | buggyboy  | ok (horiz)
+| tx1.c           | tx1       |
+| tx1.c           | tx1a      |
+| vsnes.c         | balonfgt  | ok (4:3)
+| vsnes.c         | iceclmrj  |
+| vsnes.c         | vsbbalja  |
+| vsnes.c         | vsbbaljb  |
+| vsnes.c         | vsbball   |
+| vsnes.c         | vsbballj  |
+| vsnes.c         | vsmahjng  |
+| vsnes.c         | vstennij  |
+| vsnes.c         | vstennis  |
+| vsnes.c         | wrecking  |
+| warriorb.c      | darius2d  | ok (horiz)
+| warriorb.c      | drius2do  |
+| warriorb.c      | warriorb  |
+| xmen.c          | xmen6p    |
+| xmen.c          | xmen6pu   | ok (horiz)
++-----------------+-----------+
+169 rows in set (0.08 sec)
+
