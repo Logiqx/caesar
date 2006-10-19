@@ -319,7 +319,7 @@
 
 					mysql_free_result ($result);
 
-					// Get video details (for aspect ratio fixing) - old 'video' details
+					// Get video details (for aspect ratio fixing)
 
 					$query = "SELECT *
 						FROM	game_video
@@ -328,6 +328,7 @@
 
 					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
+					$orientation = 'horizontal';
 					$x = 0;
 					$y = 0;
 					$aspectx = isset($emulator ['aspectx']) ? $emulator ['aspectx'] : 0;
@@ -337,6 +338,9 @@
 					{
 						while ($video = mysql_fetch_assoc ($result))
 						{
+							if (isset($video ['orientation']))
+								$orientation = $video ['orientation'];
+
 							if (isset($video ['width']))
 								$x = $video ['width'];
 
@@ -353,9 +357,10 @@
 
 					mysql_free_result ($result);
 
-					// Get video details (for aspect ratio fixing) - new  'display' details
+					// Get display details (for aspect ratio fixing)
 
-					$query = "SELECT max(rotated_width) as max_width, sum(rotated_width) as sum_width,
+					$query = "SELECT max(orientation) orientation,
+							max(rotated_width) as max_width, sum(rotated_width) as sum_width,
 							max(rotated_height) as max_height, sum(rotated_height) as sum_height,
 							max(aspectx) as max_aspectx, sum(aspectx) as sum_aspectx,
 							max(aspecty) as max_aspecty, sum(aspecty) as sum_aspecty,
@@ -378,34 +383,53 @@
 
 					if (mysql_num_rows ($result) != 0)
 					{
-						while ($video = mysql_fetch_assoc ($result))
+						while ($display = mysql_fetch_assoc ($result))
 						{
-							if (isset($video ['max_width']))
-								$max_width = $video ['max_width'];
+							if (isset($display ['orientation']))
+								$orientation = $display ['orientation'];
 
-							if (isset($video ['sum_width']))
-								$sum_width = $video ['sum_width'];
+							if (isset($display ['max_width']))
+								$max_width = $display ['max_width'];
 
-							if (isset($video ['max_height']))
-								$max_height = $video ['max_height'];
+							if (isset($display ['sum_width']))
+								$sum_width = $display ['sum_width'];
 
-							if (isset($video ['sum_height']))
-								$sum_height = $video ['sum_height'];
+							if (isset($display ['max_height']))
+								$max_height = $display ['max_height'];
 
-							if ($aspectx==0 && isset($video ['max_aspectx']))
-								$max_aspectx = $video ['max_aspectx'];
+							if (isset($display ['sum_height']))
+								$sum_height = $display ['sum_height'];
 
-							if ($aspectx==0 && isset($video ['sum_aspectx']))
-								$sum_aspectx = $video ['sum_aspectx'];
+							if ($aspectx==0 && isset($display ['max_aspectx']))
+								$max_aspectx = $display ['max_aspectx'];
 
-							if ($aspecty==0 && isset($video ['max_aspecty']))
-								$max_aspecty = $video ['max_aspecty'];
+							if ($aspectx==0 && isset($display ['sum_aspectx']))
+								$sum_aspectx = $display ['sum_aspectx'];
 
-							if ($aspecty==0 && isset($video ['sum_aspecty']))
-								$sum_aspecty = $video ['sum_aspecty'];
+							if ($aspecty==0 && isset($display ['max_aspecty']))
+								$max_aspecty = $display ['max_aspecty'];
 
-							if (isset($video ['num_displays']))
-								$num_displays = $video ['num_displays'];
+							if ($aspecty==0 && isset($display ['sum_aspecty']))
+								$sum_aspecty = $display ['sum_aspecty'];
+
+							if (isset($display ['num_displays']))
+								$num_displays = $display ['num_displays'];
+						}
+
+						/* --- If width and height were not specified, set reasonable defaults! --- */
+
+						if ($max_width==0 || $max_height==0)
+						{
+							if ($orientation=='horizontal')
+							{
+								$sum_width=$max_width=640;
+								$sum_height=$max_height=480;
+							}
+							else
+							{
+								$sum_width=$max_width=480;
+								$sum_height=$max_height=640;
+							}
 						}
 					}
 
@@ -436,6 +460,8 @@
 
 							if ($num_displays > 0)
 							{
+								/* --- Guess at the layout of multi-screens! --- */
+
 								$snap_aspect = 100 * $width / $height;
 
 								$basic_aspect = 100 * $max_width / $max_height;
@@ -503,28 +529,98 @@
 								}
 							}
 
-							/* --- Resize the image to match the aspect ratio --- */
+							/* --- Figure out the maximum acceptable dimensions for the snapshot --- */
 
-							if ($width*$aspecty<$height*$aspectx)
-								$width=$height*$aspectx/$aspecty;
-							else if ($width*$aspecty>$height*$aspectx)
-								$height=$width*$aspecty/$aspectx;
-
-							$reduced = 0;
-							while ($width >= 640 && $height >=480 ||
-								$width >= 480 && $height >= 640)
+							if ($orientation == 'horizontal')
 							{
-								$width /= 2;
-								$height /= 2;
-								$reduced++;
+								$limit_width = 384 * $aspectx / 3;
+								$limit_height = 512 * $aspecty / 4;
+							}
+							else
+							{
+								$limit_width = 512 * $aspectx / 4;
+								$limit_height = 384 * $aspecty / 3;
 							}
 
-							echo INDENT . TAB . '<img src="../snaps/' . $snap ['path'] . '/' .
-								$snap ['name'] . '" alt="' . $snap ['name'] .
-								' (' . $aspectx . ':' . $aspecty . ')' .
-								($reduced ? ' - reduced in size!' : '') .
-								'" width="' . $width .
-								'" height="' . $height . '"/>' . LF;
+							//print 'limit=' . $limit_width . 'x' . $limit_height . '<br/>';
+
+							/* --- Resize the image to match the aspect ratio and acceptable dimensions --- */
+
+							//print 'before=' . round($width) . 'x' . round($height) . '<br/>';
+
+							$reduced = 0;
+
+							if ($width*$aspecty<$height*$aspectx)
+							{
+								/* --- Too narrow --- */
+
+								while ($width*$aspecty<$height*$aspectx)
+								{
+									if ($height*$aspectx/$aspecty <= $limit_width)
+									{
+										$width=$height*$aspectx/$aspecty;
+									}
+									else if ($width*$aspecty/$aspectx <= $limit_height)
+									{
+										$height=$width*$aspecty/$aspectx;
+									}
+									else
+									{
+										$width /= 2;
+										$height /= 2;
+										$reduced++;
+									}
+								}
+							}
+
+							else if ($width*$aspecty>$height*$aspectx)
+							{
+								/* --- Too wide --- */
+
+								while ($width*$aspecty>$height*$aspectx)
+								{
+									if ($width*$aspecty/$aspectx <= $limit_height)
+									{
+										$height=$width*$aspecty/$aspectx;
+									}
+									else if ($height*$aspectx/$aspecty <= $limit_width)
+									{
+										$width=$height*$aspectx/$aspecty;
+									}
+									else
+									{
+										$width /= 2;
+										$height /= 2;
+										$reduced++;
+									}
+								}
+							}
+
+							else
+							{
+								/* --- Correct aspect ratio but may be too big --- */
+
+								while ($width>$limit_width || $height>$limit_height)
+								{
+									$width /= 2;
+									$height /= 2;
+									$reduced++;
+								}
+							}
+
+							//print 'after=' . round($width) . 'x' . round($height) . '<br/>';
+
+							/* --- The image can finally be displayed (skip dummy pixel snaps)! --- */
+
+							if ($width > 1 && $height > 1)
+							{
+								echo INDENT . TAB . '<img src="../snaps/' . $snap ['path'] . '/' .
+									$snap ['name'] . '" alt="' . $snap ['name'] .
+									' (' . $aspectx . ':' . $aspecty . ')' .
+									($reduced ? ' [halved in size]' : '') .
+									'" width="' . round($width) .
+									'" height="' . round($height) . '"/>' . LF;
+							}
 						}
 
 						echo INDENT . '</p>' . LF;
