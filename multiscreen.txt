@@ -1,251 +1,256 @@
-mysql> select game_name, min(width), max(width), min(height), max(height), count
-(*) from game_display group by game_name, rotate having count(*) > 1;
-+-----------+------------+------------+-------------+-------------+----------+
-| game_name | min(width) | max(width) | min(height) | max(height) | count(*) |
-+-----------+------------+------------+-------------+-------------+----------+
-| armwrest  |        256 |        256 |         224 |         224 |        2 |
-| backfira  |        320 |        320 |         240 |         240 |        2 |
-| backfire  |        320 |        320 |         240 |         240 |        2 |
-| balonfgt  |        256 |        256 |         240 |         240 |        2 |
-| bijokkog  |        480 |        512 |          64 |         224 |        3 |
-| bijokkoy  |        480 |        512 |          64 |         224 |        3 |
-| buggyboy  |        256 |        256 |         256 |         256 |        3 |
-| cyberba2  |        672 |        672 |         240 |         240 |        2 |
-| cyberbal  |        672 |        672 |         240 |         240 |        2 |
-| cyberbap  |        672 |        672 |         240 |         240 |        2 |
-| cyberbt   |        672 |        672 |         240 |         240 |        2 |
-| cyberbt1  |        672 |        672 |         240 |         240 |        2 |
-| darius    |        288 |        288 |         224 |         224 |        3 |
-| darius2   |        288 |        288 |         224 |         224 |        3 |
-| darius2d  |        320 |        320 |         232 |         232 |        2 |
-| dariuse   |        288 |        288 |         224 |         224 |        3 |
-| dariusj   |        288 |        288 |         224 |         224 |        3 |
-| dariuso   |        288 |        288 |         224 |         224 |        3 |
-| drius2do  |        320 |        320 |         232 |         232 |        2 |
-| fromanc2  |        352 |        352 |         240 |         240 |        2 |
-| fromanc4  |        352 |        352 |         240 |         240 |        2 |
-| fromancr  |        352 |        352 |         240 |         240 |        2 |
-| gldncrwn  |        288 |        400 |          34 |         280 |        2 |
-| harddunj  |        416 |        416 |         224 |         224 |        2 |
-| harddunk  |        416 |        416 |         224 |         224 |        2 |
-| hgkairak  |        320 |        320 |         224 |         224 |        2 |
-| hotdebut  |        320 |        320 |         240 |         240 |        2 |
-| hotgm4ev  |        320 |        320 |         224 |         224 |        2 |
-| hotgmck   |        320 |        320 |         224 |         224 |        2 |
-| hotgmck3  |        320 |        320 |         224 |         224 |        2 |
-| hotgmcki  |        320 |        320 |         224 |         224 |        2 |
-| housemn2  |        480 |        512 |          64 |         224 |        3 |
-| housemnq  |        480 |        512 |          64 |         224 |        3 |
-| iceclmrj  |        256 |        256 |         240 |         240 |        2 |
-| jantouki  |        512 |        512 |         240 |         240 |        2 |
-| livegal   |        480 |        512 |          64 |         224 |        3 |
-| loderdfa  |        320 |        320 |         240 |         240 |        2 |
-| loderndf  |        320 |        320 |         240 |         240 |        2 |
-| mt_aftrb  |        256 |        320 |         192 |         224 |        2 |
-| mt_arrow  |        256 |        320 |         192 |         224 |        2 |
-| mt_astrm  |        256 |        320 |         192 |         224 |        2 |
-| mt_astro  |        256 |        320 |         192 |         224 |        2 |
-| mt_asyn   |        256 |        320 |         192 |         224 |        2 |
-| mt_bbros  |        256 |        320 |         192 |         224 |        2 |
-| mt_beast  |        256 |        320 |         192 |         224 |        2 |
-| mt_cols   |        256 |        320 |         192 |         224 |        2 |
-| mt_crack  |        256 |        320 |         192 |         224 |        2 |
-| mt_eswat  |        256 |        320 |         192 |         224 |        2 |
-| mt_fshrk  |        256 |        320 |         192 |         224 |        2 |
-| mt_gaxe   |        256 |        320 |         192 |         224 |        2 |
-| mt_gaxe2  |        256 |        320 |         192 |         224 |        2 |
-| mt_ggolf  |        256 |        320 |         192 |         224 |        2 |
-| mt_gng    |        256 |        320 |         192 |         224 |        2 |
-| mt_gsocr  |        256 |        320 |         192 |         224 |        2 |
-| mt_kcham  |        256 |        320 |         192 |         224 |        2 |
-| mt_lastb  |        256 |        320 |         192 |         224 |        2 |
-| mt_mlh    |        256 |        320 |         192 |         224 |        2 |
-| mt_mwalk  |        256 |        320 |         192 |         224 |        2 |
-| mt_mystd  |        256 |        320 |         192 |         224 |        2 |
-| mt_parlg  |        256 |        320 |         192 |         224 |        2 |
-| mt_revsh  |        256 |        320 |         192 |         224 |        2 |
-| mt_shang  |        256 |        320 |         192 |         224 |        2 |
-| mt_shar2  |        256 |        320 |         192 |         224 |        2 |
-| mt_shnbi  |        256 |        320 |         192 |         224 |        2 |
-| mt_smgp   |        256 |        320 |         192 |         224 |        2 |
-| mt_soni2  |        256 |        320 |         192 |         224 |        2 |
-| mt_sonia  |        256 |        320 |         192 |         224 |        2 |
-| mt_sonic  |        256 |        320 |         192 |         224 |        2 |
-| mt_stbld  |        256 |        320 |         192 |         224 |        2 |
-| mt_stf    |        256 |        320 |         192 |         224 |        2 |
-| mt_tetri  |        256 |        320 |         192 |         224 |        2 |
-| mt_tfor2  |        256 |        320 |         192 |         224 |        2 |
-| mt_tgolf  |        256 |        320 |         192 |         224 |        2 |
-| mt_tlbba  |        256 |        320 |         192 |         224 |        2 |
-| mt_wcsoc  |        256 |        320 |         192 |         224 |        2 |
-| ninjaw    |        288 |        288 |         224 |         224 |        3 |
-| ninjawj   |        288 |        288 |         224 |         224 |        3 |
-| orunners  |        416 |        416 |         224 |         224 |        2 |
-| orunneru  |        416 |        416 |         224 |         224 |        2 |
-| paradice  |        288 |        400 |          34 |         280 |        2 |
-| pc_1942   |        256 |        256 |         240 |         240 |        2 |
-| pc_bball  |        256 |        256 |         240 |         240 |        2 |
-| pc_bfght  |        256 |        256 |         240 |         240 |        2 |
-| pc_bstar  |        256 |        256 |         240 |         240 |        2 |
-| pc_cntra  |        256 |        256 |         240 |         240 |        2 |
-| pc_cshwk  |        256 |        256 |         240 |         240 |        2 |
-| pc_cvnia  |        256 |        256 |         240 |         240 |        2 |
-| pc_dbldr  |        256 |        256 |         240 |         240 |        2 |
-| pc_ddrgn  |        256 |        256 |         240 |         240 |        2 |
-| pc_drmro  |        256 |        256 |         240 |         240 |        2 |
-| pc_duckh  |        256 |        256 |         240 |         240 |        2 |
-| pc_ebike  |        256 |        256 |         240 |         240 |        2 |
-| pc_ftqst  |        256 |        256 |         240 |         240 |        2 |
-| pc_gntlt  |        256 |        256 |         240 |         240 |        2 |
-| pc_golf   |        256 |        256 |         240 |         240 |        2 |
-| pc_goons  |        256 |        256 |         240 |         240 |        2 |
-| pc_grdue  |        256 |        256 |         240 |         240 |        2 |
-| pc_grdus  |        256 |        256 |         240 |         240 |        2 |
-| pc_hgaly  |        256 |        256 |         240 |         240 |        2 |
-| pc_kngfu  |        256 |        256 |         240 |         240 |        2 |
-| pc_mario  |        256 |        256 |         240 |         240 |        2 |
-| pc_miket  |        256 |        256 |         240 |         240 |        2 |
-| pc_mman3  |        256 |        256 |         240 |         240 |        2 |
-| pc_moglf  |        256 |        256 |         240 |         240 |        2 |
-| pc_mtoid  |        256 |        256 |         240 |         240 |        2 |
-| pc_ngai2  |        256 |        256 |         240 |         240 |        2 |
-| pc_ngai3  |        256 |        256 |         240 |         240 |        2 |
-| pc_ngaid  |        256 |        256 |         240 |         240 |        2 |
-| pc_pinbt  |        256 |        256 |         240 |         240 |        2 |
-| pc_pwbld  |        256 |        256 |         240 |         240 |        2 |
-| pc_pwrst  |        256 |        256 |         240 |         240 |        2 |
-| pc_radr2  |        256 |        256 |         240 |         240 |        2 |
-| pc_radrc  |        256 |        256 |         240 |         240 |        2 |
-| pc_rcpam  |        256 |        256 |         240 |         240 |        2 |
-| pc_rkats  |        256 |        256 |         240 |         240 |        2 |
-| pc_rnatk  |        256 |        256 |         240 |         240 |        2 |
-| pc_rrngr  |        256 |        256 |         240 |         240 |        2 |
-| pc_rygar  |        256 |        256 |         240 |         240 |        2 |
-| pc_sjetm  |        256 |        256 |         240 |         240 |        2 |
-| pc_smb    |        256 |        256 |         240 |         240 |        2 |
-| pc_smb2   |        256 |        256 |         240 |         240 |        2 |
-| pc_smb3   |        256 |        256 |         240 |         240 |        2 |
-| pc_suprc  |        256 |        256 |         240 |         240 |        2 |
-| pc_tbowl  |        256 |        256 |         240 |         240 |        2 |
-| pc_tenis  |        256 |        256 |         240 |         240 |        2 |
-| pc_tkfld  |        256 |        256 |         240 |         240 |        2 |
-| pc_tmnt   |        256 |        256 |         240 |         240 |        2 |
-| pc_tmnt2  |        256 |        256 |         240 |         240 |        2 |
-| pc_trjan  |        256 |        256 |         240 |         240 |        2 |
-| pc_vball  |        256 |        256 |         240 |         240 |        2 |
-| pc_wcup   |        256 |        256 |         240 |         240 |        2 |
-| pc_wgnmn  |        256 |        256 |         240 |         240 |        2 |
-| pc_ynoid  |        256 |        256 |         240 |         240 |        2 |
-| pokio     |        288 |        400 |          34 |         280 |        2 |
-| punchout  |        256 |        256 |         224 |         224 |        2 |
-| pyramid   |        288 |        400 |          34 |         280 |        2 |
-| qntoond   |        288 |        400 |          34 |         280 |        2 |
-| qntoondo  |        288 |        400 |          34 |         280 |        2 |
-| quintoon  |        288 |        400 |          34 |         280 |        2 |
-| rocknms   |        320 |        320 |         224 |         224 |        2 |
-| scross    |        416 |        416 |         224 |         224 |        2 |
-| slotsnl   |        288 |        400 |          34 |         280 |        2 |
-| sltblgp1  |        288 |        400 |          34 |         280 |        2 |
-| sltblgpo  |        288 |        400 |          34 |         280 |        2 |
-| sltblgtk  |        288 |        400 |          34 |         280 |        2 |
-| spnchotj  |        256 |        256 |         224 |         224 |        2 |
-| spnchout  |        256 |        256 |         224 |         224 |        2 |
-| subs      |        256 |        256 |         224 |         224 |        2 |
-| tbowl     |        256 |        256 |         224 |         224 |        2 |
-| tbowlj    |        256 |        256 |         224 |         224 |        2 |
-| titlef    |        416 |        416 |         224 |         224 |        2 |
-| titlefu   |        416 |        416 |         224 |         224 |        2 |
-| touchgo   |        480 |        480 |         240 |         240 |        2 |
-| touchgoe  |        480 |        480 |         240 |         240 |        2 |
-| touchgon  |        480 |        480 |         240 |         240 |        2 |
-| tx1       |        256 |        256 |         256 |         256 |        3 |
-| tx1a      |        256 |        256 |         256 |         256 |        3 |
-| vsbbalja  |        256 |        256 |         240 |         240 |        2 |
-| vsbbaljb  |        256 |        256 |         240 |         240 |        2 |
-| vsbball   |        256 |        256 |         240 |         240 |        2 |
-| vsbballj  |        256 |        256 |         240 |         240 |        2 |
-| vsmahjng  |        256 |        256 |         240 |         240 |        2 |
-| vstennij  |        256 |        256 |         240 |         240 |        2 |
-| vstennis  |        256 |        256 |         240 |         240 |        2 |
-| warriorb  |        320 |        320 |         232 |         232 |        2 |
-| wrally2   |        384 |        384 |         240 |         240 |        2 |
-| wrecking  |        256 |        256 |         240 |         240 |        2 |
-| xmen6p    |        288 |        288 |         224 |         224 |        2 |
-| xmen6pu   |        288 |        288 |         224 |         224 |        2 |
-+-----------+------------+------------+-------------+-------------+----------+
-169 rows in set (0.04 sec)
+Multi-screen games:
+
+select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.rotated_width) max_width, min(gd.rotated_height) min_height, max(gd.rotated_height) max_height, count(*) from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having count(*) > 1 order by g.game_sourcefile, gd.game_name;
+
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+| game_sourcefile | game_name | min_width | max_width | min_height | max_height | count(*) |
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+| backfire.c      | backfira  |       320 |       320 |        240 |        240 |        2 |
+| backfire.c      | backfire  |       320 |       320 |        240 |        240 |        2 |
+| bfm_sc2.c       | gldncrwn  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | paradice  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | pokio     |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | pyramid   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | qntoond   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | qntoondo  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | quintoon  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | slotsnl   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgp1  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgpo  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgtk  |       288 |       400 |         34 |        280 |        2 |
+| cyberbal.c      | cyberba2  |       672 |       672 |        240 |        240 |        2 |
+| cyberbal.c      | cyberbal  |       672 |       672 |        240 |        240 |        2 |
+| cyberbal.c      | cyberbap  |       672 |       672 |        240 |        240 |        2 |
+| cyberbal.c      | cyberbt   |       672 |       672 |        240 |        240 |        2 |
+| cyberbal.c      | cyberbt1  |       672 |       672 |        240 |        240 |        2 |
+| darius.c        | darius    |       288 |       288 |        224 |        224 |        3 |
+| darius.c        | dariuse   |       288 |       288 |        224 |        224 |        3 |
+| darius.c        | dariusj   |       288 |       288 |        224 |        224 |        3 |
+| darius.c        | dariuso   |       288 |       288 |        224 |        224 |        3 |
+| dynax.c         | jantouki  |       512 |       512 |        240 |        240 |        2 |
+| fromanc2.c      | fromanc2  |       352 |       352 |        240 |        240 |        2 |
+| fromanc2.c      | fromanc4  |       352 |       352 |        240 |        240 |        2 |
+| fromanc2.c      | fromancr  |       352 |       352 |        240 |        240 |        2 |
+| gaelco2.c       | touchgo   |       480 |       480 |        240 |        240 |        2 |
+| gaelco2.c       | touchgoe  |       480 |       480 |        240 |        240 |        2 |
+| gaelco2.c       | touchgon  |       480 |       480 |        240 |        240 |        2 |
+| gaelco2.c       | wrally2   |       384 |       384 |        240 |        240 |        2 |
+| megatech.c      | mt_aftrb  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_arrow  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_astrm  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_astro  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_asyn   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_bbros  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_beast  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_cols   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_crack  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_eswat  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_fshrk  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gaxe   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gaxe2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_ggolf  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gng    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gsocr  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_kcham  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_lastb  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mlh    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mwalk  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mystd  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_parlg  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_revsh  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shang  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shar2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shnbi  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_smgp   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_soni2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_sonia  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_sonic  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_stbld  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_stf    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tetri  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tfor2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tgolf  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tlbba  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_wcsoc  |       256 |       320 |        192 |        224 |        2 |
+| nbmj8688.c      | bijokkog  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | bijokkoy  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | housemn2  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | housemnq  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | livegal   |       480 |       512 |         64 |        224 |        3 |
+| ninjaw.c        | darius2   |       288 |       288 |        224 |        224 |        3 |
+| ninjaw.c        | ninjaw    |       288 |       288 |        224 |        224 |        3 |
+| ninjaw.c        | ninjawj   |       288 |       288 |        224 |        224 |        3 |
+| playch10.c      | pc_1942   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_bball  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_bfght  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_bstar  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_cntra  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_cshwk  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_cvnia  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_dbldr  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ddrgn  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_drmro  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_duckh  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ebike  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ftqst  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_gntlt  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_golf   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_goons  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_grdue  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_grdus  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_hgaly  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_kngfu  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_mario  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_miket  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_mman3  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_moglf  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_mtoid  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ngai2  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ngai3  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ngaid  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_pinbt  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_pwbld  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_pwrst  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_radr2  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_radrc  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_rcpam  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_rkats  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_rnatk  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_rrngr  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_rygar  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_sjetm  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_smb    |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_smb2   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_smb3   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_suprc  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_tbowl  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_tenis  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_tkfld  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_tmnt   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_tmnt2  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_trjan  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_vball  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_wcup   |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_wgnmn  |       256 |       256 |        240 |        240 |        2 |
+| playch10.c      | pc_ynoid  |       256 |       256 |        240 |        240 |        2 |
+| psikyo4.c       | hgkairak  |       320 |       320 |        224 |        224 |        2 |
+| psikyo4.c       | hotdebut  |       320 |       320 |        240 |        240 |        2 |
+| psikyo4.c       | hotgm4ev  |       320 |       320 |        224 |        224 |        2 |
+| psikyo4.c       | hotgmck   |       320 |       320 |        224 |        224 |        2 |
+| psikyo4.c       | hotgmck3  |       320 |       320 |        224 |        224 |        2 |
+| psikyo4.c       | hotgmcki  |       320 |       320 |        224 |        224 |        2 |
+| psikyo4.c       | loderdfa  |       320 |       320 |        240 |        240 |        2 |
+| psikyo4.c       | loderndf  |       320 |       320 |        240 |        240 |        2 |
+| punchout.c      | armwrest  |       256 |       256 |        224 |        224 |        2 |
+| punchout.c      | punchout  |       256 |       256 |        224 |        224 |        2 |
+| punchout.c      | spnchotj  |       256 |       256 |        224 |        224 |        2 |
+| punchout.c      | spnchout  |       256 |       256 |        224 |        224 |        2 |
+| segas32.c       | harddunj  |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | harddunk  |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | orunners  |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | orunneru  |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | scross    |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | titlef    |       416 |       416 |        224 |        224 |        2 |
+| segas32.c       | titlefu   |       416 |       416 |        224 |        224 |        2 |
+| subs.c          | subs      |       256 |       256 |        224 |        224 |        2 |
+| tbowl.c         | tbowl     |       256 |       256 |        224 |        224 |        2 |
+| tbowl.c         | tbowlj    |       256 |       256 |        224 |        224 |        2 |
+| tetrisp2.c      | rocknms   |       320 |       320 |        224 |        224 |        2 |
+| tx1.c           | buggyboy  |       256 |       256 |        256 |        256 |        3 |
+| tx1.c           | tx1       |       256 |       256 |        256 |        256 |        3 |
+| tx1.c           | tx1a      |       256 |       256 |        256 |        256 |        3 |
+| vsnes.c         | balonfgt  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | iceclmrj  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vsbbalja  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vsbbaljb  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vsbball   |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vsbballj  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vsmahjng  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vstennij  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | vstennis  |       256 |       256 |        240 |        240 |        2 |
+| vsnes.c         | wrecking  |       256 |       256 |        240 |        240 |        2 |
+| warriorb.c      | darius2d  |       320 |       320 |        232 |        232 |        2 |
+| warriorb.c      | drius2do  |       320 |       320 |        232 |        232 |        2 |
+| warriorb.c      | warriorb  |       320 |       320 |        232 |        232 |        2 |
+| xmen.c          | xmen6p    |       288 |       288 |        224 |        224 |        2 |
+| xmen.c          | xmen6pu   |       288 |       288 |        224 |        224 |        2 |
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+169 rows in set (0.32 sec)
 
 
-mysql> select game_name, min(width), max(width), min(height), max(height), count
-(*) from game_display group by game_name, rotate having max(width) <> min(width)
-;
-+-----------+------------+------------+-------------+-------------+----------+
-| game_name | min(width) | max(width) | min(height) | max(height) | count(*) |
-+-----------+------------+------------+-------------+-------------+----------+
-| bijokkog  |        480 |        512 |          64 |         224 |        3 |
-| bijokkoy  |        480 |        512 |          64 |         224 |        3 |
-| gldncrwn  |        288 |        400 |          34 |         280 |        2 |
-| housemn2  |        480 |        512 |          64 |         224 |        3 |
-| housemnq  |        480 |        512 |          64 |         224 |        3 |
-| livegal   |        480 |        512 |          64 |         224 |        3 |
-| mt_aftrb  |        256 |        320 |         192 |         224 |        2 |
-| mt_arrow  |        256 |        320 |         192 |         224 |        2 |
-| mt_astrm  |        256 |        320 |         192 |         224 |        2 |
-| mt_astro  |        256 |        320 |         192 |         224 |        2 |
-| mt_asyn   |        256 |        320 |         192 |         224 |        2 |
-| mt_bbros  |        256 |        320 |         192 |         224 |        2 |
-| mt_beast  |        256 |        320 |         192 |         224 |        2 |
-| mt_cols   |        256 |        320 |         192 |         224 |        2 |
-| mt_crack  |        256 |        320 |         192 |         224 |        2 |
-| mt_eswat  |        256 |        320 |         192 |         224 |        2 |
-| mt_fshrk  |        256 |        320 |         192 |         224 |        2 |
-| mt_gaxe   |        256 |        320 |         192 |         224 |        2 |
-| mt_gaxe2  |        256 |        320 |         192 |         224 |        2 |
-| mt_ggolf  |        256 |        320 |         192 |         224 |        2 |
-| mt_gng    |        256 |        320 |         192 |         224 |        2 |
-| mt_gsocr  |        256 |        320 |         192 |         224 |        2 |
-| mt_kcham  |        256 |        320 |         192 |         224 |        2 |
-| mt_lastb  |        256 |        320 |         192 |         224 |        2 |
-| mt_mlh    |        256 |        320 |         192 |         224 |        2 |
-| mt_mwalk  |        256 |        320 |         192 |         224 |        2 |
-| mt_mystd  |        256 |        320 |         192 |         224 |        2 |
-| mt_parlg  |        256 |        320 |         192 |         224 |        2 |
-| mt_revsh  |        256 |        320 |         192 |         224 |        2 |
-| mt_shang  |        256 |        320 |         192 |         224 |        2 |
-| mt_shar2  |        256 |        320 |         192 |         224 |        2 |
-| mt_shnbi  |        256 |        320 |         192 |         224 |        2 |
-| mt_smgp   |        256 |        320 |         192 |         224 |        2 |
-| mt_soni2  |        256 |        320 |         192 |         224 |        2 |
-| mt_sonia  |        256 |        320 |         192 |         224 |        2 |
-| mt_sonic  |        256 |        320 |         192 |         224 |        2 |
-| mt_stbld  |        256 |        320 |         192 |         224 |        2 |
-| mt_stf    |        256 |        320 |         192 |         224 |        2 |
-| mt_tetri  |        256 |        320 |         192 |         224 |        2 |
-| mt_tfor2  |        256 |        320 |         192 |         224 |        2 |
-| mt_tgolf  |        256 |        320 |         192 |         224 |        2 |
-| mt_tlbba  |        256 |        320 |         192 |         224 |        2 |
-| mt_wcsoc  |        256 |        320 |         192 |         224 |        2 |
-| paradice  |        288 |        400 |          34 |         280 |        2 |
-| pokio     |        288 |        400 |          34 |         280 |        2 |
-| pyramid   |        288 |        400 |          34 |         280 |        2 |
-| qntoond   |        288 |        400 |          34 |         280 |        2 |
-| qntoondo  |        288 |        400 |          34 |         280 |        2 |
-| quintoon  |        288 |        400 |          34 |         280 |        2 |
-| slotsnl   |        288 |        400 |          34 |         280 |        2 |
-| sltblgp1  |        288 |        400 |          34 |         280 |        2 |
-| sltblgpo  |        288 |        400 |          34 |         280 |        2 |
-| sltblgtk  |        288 |        400 |          34 |         280 |        2 |
-+-----------+------------+------------+-------------+-------------+----------+
-53 rows in set (0.04 sec)
+Multi-screen games with varying resolutions:
 
-mysql> select g.game_sourcefile, gd.game_name from game g, game_display gd where
- g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.ga
-me_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
+select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.rotated_width) max_width, min(gd.rotated_height) min_height, max(gd.rotated_height) max_height, count(*) from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having max(rotated_width) <> min(rotated_width) or max(rotated_height) <> min(rotated_height) order by g.game_sourcefile, gd.game_name;
+
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+| game_sourcefile | game_name | min_width | max_width | min_height | max_height | count(*) |
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+| bfm_sc2.c       | gldncrwn  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | paradice  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | pokio     |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | pyramid   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | qntoond   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | qntoondo  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | quintoon  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | slotsnl   |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgp1  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgpo  |       288 |       400 |         34 |        280 |        2 |
+| bfm_sc2.c       | sltblgtk  |       288 |       400 |         34 |        280 |        2 |
+| megatech.c      | mt_aftrb  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_arrow  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_astrm  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_astro  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_asyn   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_bbros  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_beast  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_cols   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_crack  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_eswat  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_fshrk  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gaxe   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gaxe2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_ggolf  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gng    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_gsocr  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_kcham  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_lastb  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mlh    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mwalk  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_mystd  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_parlg  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_revsh  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shang  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shar2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_shnbi  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_smgp   |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_soni2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_sonia  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_sonic  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_stbld  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_stf    |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tetri  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tfor2  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tgolf  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_tlbba  |       256 |       320 |        192 |        224 |        2 |
+| megatech.c      | mt_wcsoc  |       256 |       320 |        192 |        224 |        2 |
+| nbmj8688.c      | bijokkog  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | bijokkoy  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | housemn2  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | housemnq  |       480 |       512 |         64 |        224 |        3 |
+| nbmj8688.c      | livegal   |       480 |       512 |         64 |        224 |        3 |
++-----------------+-----------+-----------+-----------+------------+------------+----------+
+53 rows in set (0.34 sec)
+
+
+Testing CAESAR pages:
+
+select g.game_sourcefile, gd.game_name from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
+
 +-----------------+-----------+
 | game_sourcefile | game_name |
 +-----------------+-----------+
-| backfire.c      | backfira  |
-| backfire.c      | backfire  | ok (vert)
+| backfire.c      | backfira  | no snaps
+| backfire.c      | backfire  |
 | bfm_sc2.c       | gldncrwn  | no snaps
 | bfm_sc2.c       | paradice  |
 | bfm_sc2.c       | pokio     |
@@ -257,7 +262,7 @@ me_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
 | bfm_sc2.c       | sltblgp1  |
 | bfm_sc2.c       | sltblgpo  |
 | bfm_sc2.c       | sltblgtk  |
-| cyberbal.c      | cyberba2  | bad (4:3)
+| cyberbal.c      | cyberba2  | ok (4:3)
 | cyberbal.c      | cyberbal  |
 | cyberbal.c      | cyberbap  |
 | cyberbal.c      | cyberbt   |
@@ -311,7 +316,7 @@ me_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
 | megatech.c      | mt_tgolf  |
 | megatech.c      | mt_tlbba  |
 | megatech.c      | mt_wcsoc  |
-| nbmj8688.c      | bijokkog  | ok (vert)
+| nbmj8688.c      | bijokkog  | ok (vert) - improve?
 | nbmj8688.c      | bijokkoy  |
 | nbmj8688.c      | housemn2  |
 | nbmj8688.c      | housemnq  |

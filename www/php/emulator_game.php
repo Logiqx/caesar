@@ -475,7 +475,12 @@
 
 								$sourcefile = isset($row ['game_sourcefile']) ? $row ['game_sourcefile'] : '';
 
-								if ($wide_error <= $tall_error && $wide_error <= $basic_error)
+								if ($sourcefile == 'nbmj8688.c')
+								{
+									$aspectx = 896;
+									$aspecty = 1056;
+								}
+								else if ($wide_error <= $tall_error && $wide_error <= $basic_error)
 								{
 									$aspectx = $sum_aspectx;
 									$aspecty = $max_aspecty;
@@ -533,13 +538,21 @@
 
 							/* --- Figure out the maximum acceptable dimensions for the snapshot --- */
 
-							if ($orientation == 'horizontal')
+							if ($sourcefile == 'nbmj8688.c')
 							{
+								// Treat like a vertical game
+								$limit_width = 512 * $aspectx / $aspecty;
+								$limit_height = 384 * $aspecty / $aspectx;
+							}
+							else if ($orientation == 'horizontal')
+							{
+								// Only works for 4:3 displays (but supports multi-screens)
 								$limit_width = 384 * $aspectx / 3;
 								$limit_height = 512 * $aspecty / 4;
 							}
 							else
 							{
+								// Only works for 3:4 displays (but supports multi-screens)
 								$limit_width = 512 * $aspectx / 4;
 								$limit_height = 384 * $aspecty / 3;
 							}

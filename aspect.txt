@@ -1,0 +1,183 @@
+The different aspect ratios in MAME v0.106:
+
+select aspectx, aspecty, count(*) from game_video group by aspectx, aspecty;
+
++---------+---------+----------+
+| aspectx | aspecty | count(*) |
++---------+---------+----------+
+|    NULL |    NULL |      575 |
+|       3 |       4 |     1758 |
+|       4 |       3 |     4228 |
+|       4 |       6 |       94 |
+|       4 |       7 |        1 |
+|       8 |       3 |       44 |
+|      12 |       3 |       10 |
+|     896 |    1056 |        5 |
++---------+---------+----------+
+8 rows in set (0.05 sec)
+
+
+Non-standard aspect ratios (including multi-screen games) of MAME v0.106:
+
+select g.game_sourcefile, gv.game_name, gv.aspectx, gv.aspecty from game g, game_video gv where g.dat = gv.dat and g.game_name = gv.game_name and (aspectx is not null and aspecty is not null) and (not (aspectx = 3 and aspecty = 4)) and (not (aspectx=4 and aspecty=3)) order by g.game_sourcefile, gv.game_name;
+
++-----------------+-----------+---------+---------+
+| game_sourcefile | game_name | aspectx | aspecty |
++-----------------+-----------+---------+---------+
+| backfire.c      | backfira  |       8 |       3 |
+| backfire.c      | backfire  |       8 |       3 |
+| cyberbal.c      | cyberba2  |       8 |       3 |
+| cyberbal.c      | cyberbal  |       8 |       3 |
+| cyberbal.c      | cyberbap  |       8 |       3 |
+| cyberbal.c      | cyberbt   |       8 |       3 |
+| cyberbal.c      | cyberbt1  |       8 |       3 |
+| darius.c        | darius    |      12 |       3 |
+| darius.c        | dariuse   |      12 |       3 |
+| darius.c        | dariusj   |      12 |       3 |
+| darius.c        | dariuso   |      12 |       3 |
+| dynax.c         | jantouki  |       4 |       6 |
+| gaelco2.c       | touchgo   |       8 |       3 |
+| gaelco2.c       | touchgoe  |       8 |       3 |
+| gaelco2.c       | touchgon  |       8 |       3 |
+| gaelco2.c       | wrally2   |       8 |       3 |
+| megatech.c      | mt_aftrb  |       4 |       6 |
+| megatech.c      | mt_arrow  |       4 |       6 |
+| megatech.c      | mt_astrm  |       4 |       6 |
+| megatech.c      | mt_astro  |       4 |       6 |
+| megatech.c      | mt_asyn   |       4 |       6 |
+| megatech.c      | mt_bbros  |       4 |       6 |
+| megatech.c      | mt_beast  |       4 |       6 |
+| megatech.c      | mt_cols   |       4 |       6 |
+| megatech.c      | mt_crack  |       4 |       6 |
+| megatech.c      | mt_eswat  |       4 |       6 |
+| megatech.c      | mt_fshrk  |       4 |       6 |
+| megatech.c      | mt_gaxe   |       4 |       6 |
+| megatech.c      | mt_gaxe2  |       4 |       6 |
+| megatech.c      | mt_ggolf  |       4 |       6 |
+| megatech.c      | mt_gng    |       4 |       6 |
+| megatech.c      | mt_gsocr  |       4 |       6 |
+| megatech.c      | mt_kcham  |       4 |       6 |
+| megatech.c      | mt_lastb  |       4 |       6 |
+| megatech.c      | mt_mwalk  |       4 |       6 |
+| megatech.c      | mt_mystd  |       4 |       6 |
+| megatech.c      | mt_parlg  |       4 |       6 |
+| megatech.c      | mt_revsh  |       4 |       6 |
+| megatech.c      | mt_shang  |       4 |       6 |
+| megatech.c      | mt_shar2  |       4 |       6 |
+| megatech.c      | mt_shnbi  |       4 |       6 |
+| megatech.c      | mt_smgp   |       4 |       6 |
+| megatech.c      | mt_soni2  |       4 |       6 |
+| megatech.c      | mt_sonia  |       4 |       6 |
+| megatech.c      | mt_sonic  |       4 |       6 |
+| megatech.c      | mt_stbld  |       4 |       6 |
+| megatech.c      | mt_stf    |       4 |       6 |
+| megatech.c      | mt_tetri  |       4 |       6 |
+| megatech.c      | mt_tfor2  |       4 |       6 |
+| megatech.c      | mt_tgolf  |       4 |       6 |
+| megatech.c      | mt_tlbba  |       4 |       6 |
+| megatech.c      | mt_wcsoc  |       4 |       6 |
+| nbmj8688.c      | bijokkog  |     896 |    1056 |
+| nbmj8688.c      | bijokkoy  |     896 |    1056 |
+| nbmj8688.c      | housemn2  |     896 |    1056 |
+| nbmj8688.c      | housemnq  |     896 |    1056 |
+| nbmj8688.c      | livegal   |     896 |    1056 |
+| ninjaw.c        | darius2   |      12 |       3 |
+| ninjaw.c        | ninjaw    |      12 |       3 |
+| ninjaw.c        | ninjawj   |      12 |       3 |
+| playch10.c      | pc_1942   |       4 |       6 |
+| playch10.c      | pc_bball  |       4 |       6 |
+| playch10.c      | pc_bfght  |       4 |       6 |
+| playch10.c      | pc_bstar  |       4 |       6 |
+| playch10.c      | pc_cntra  |       4 |       6 |
+| playch10.c      | pc_cshwk  |       4 |       6 |
+| playch10.c      | pc_cvnia  |       4 |       6 |
+| playch10.c      | pc_dbldr  |       4 |       6 |
+| playch10.c      | pc_ddrgn  |       4 |       6 |
+| playch10.c      | pc_drmro  |       4 |       6 |
+| playch10.c      | pc_duckh  |       4 |       6 |
+| playch10.c      | pc_ebike  |       4 |       6 |
+| playch10.c      | pc_ftqst  |       4 |       6 |
+| playch10.c      | pc_gntlt  |       4 |       6 |
+| playch10.c      | pc_golf   |       4 |       6 |
+| playch10.c      | pc_goons  |       4 |       6 |
+| playch10.c      | pc_grdue  |       4 |       6 |
+| playch10.c      | pc_grdus  |       4 |       6 |
+| playch10.c      | pc_hgaly  |       4 |       6 |
+| playch10.c      | pc_kngfu  |       4 |       6 |
+| playch10.c      | pc_mario  |       4 |       6 |
+| playch10.c      | pc_miket  |       4 |       6 |
+| playch10.c      | pc_mman3  |       4 |       6 |
+| playch10.c      | pc_moglf  |       4 |       6 |
+| playch10.c      | pc_mtoid  |       4 |       6 |
+| playch10.c      | pc_ngai2  |       4 |       6 |
+| playch10.c      | pc_ngai3  |       4 |       6 |
+| playch10.c      | pc_ngaid  |       4 |       6 |
+| playch10.c      | pc_pinbt  |       4 |       6 |
+| playch10.c      | pc_pwbld  |       4 |       6 |
+| playch10.c      | pc_pwrst  |       4 |       6 |
+| playch10.c      | pc_radr2  |       4 |       6 |
+| playch10.c      | pc_radrc  |       4 |       6 |
+| playch10.c      | pc_rcpam  |       4 |       6 |
+| playch10.c      | pc_rkats  |       4 |       6 |
+| playch10.c      | pc_rnatk  |       4 |       6 |
+| playch10.c      | pc_rrngr  |       4 |       6 |
+| playch10.c      | pc_rygar  |       4 |       6 |
+| playch10.c      | pc_sjetm  |       4 |       6 |
+| playch10.c      | pc_smb    |       4 |       6 |
+| playch10.c      | pc_smb2   |       4 |       6 |
+| playch10.c      | pc_smb3   |       4 |       6 |
+| playch10.c      | pc_suprc  |       4 |       6 |
+| playch10.c      | pc_tbowl  |       4 |       6 |
+| playch10.c      | pc_tenis  |       4 |       6 |
+| playch10.c      | pc_tkfld  |       4 |       6 |
+| playch10.c      | pc_tmnt   |       4 |       6 |
+| playch10.c      | pc_tmnt2  |       4 |       6 |
+| playch10.c      | pc_trjan  |       4 |       6 |
+| playch10.c      | pc_vball  |       4 |       6 |
+| playch10.c      | pc_wcup   |       4 |       6 |
+| playch10.c      | pc_wgnmn  |       4 |       6 |
+| playch10.c      | pc_ynoid  |       4 |       6 |
+| psikyo4.c       | hgkairak  |       8 |       3 |
+| psikyo4.c       | hotdebut  |       8 |       3 |
+| psikyo4.c       | hotgm4ev  |       8 |       3 |
+| psikyo4.c       | hotgmck   |       8 |       3 |
+| psikyo4.c       | hotgmck3  |       8 |       3 |
+| psikyo4.c       | hotgmcki  |       8 |       3 |
+| psikyo4.c       | loderdfa  |       8 |       3 |
+| psikyo4.c       | loderndf  |       8 |       3 |
+| punchout.c      | armwrest  |       4 |       6 |
+| punchout.c      | punchout  |       4 |       6 |
+| punchout.c      | spnchotj  |       4 |       6 |
+| punchout.c      | spnchout  |       4 |       6 |
+| segas32.c       | harddunj  |       8 |       3 |
+| segas32.c       | harddunk  |       8 |       3 |
+| segas32.c       | orunners  |       8 |       3 |
+| segas32.c       | orunneru  |       8 |       3 |
+| segas32.c       | scross    |       8 |       3 |
+| segas32.c       | titlef    |       8 |       3 |
+| segas32.c       | titlefu   |       8 |       3 |
+| subs.c          | subs      |       8 |       3 |
+| tbowl.c         | tbowl     |       8 |       3 |
+| tbowl.c         | tbowlj    |       8 |       3 |
+| tetrisp2.c      | rocknms   |       4 |       7 |
+| tx1.c           | buggyboy  |      12 |       3 |
+| tx1.c           | tx1       |      12 |       3 |
+| tx1.c           | tx1a      |      12 |       3 |
+| vsnes.c         | balonfgt  |       8 |       3 |
+| vsnes.c         | iceclmrj  |       8 |       3 |
+| vsnes.c         | vsbbalja  |       8 |       3 |
+| vsnes.c         | vsbbaljb  |       8 |       3 |
+| vsnes.c         | vsbball   |       8 |       3 |
+| vsnes.c         | vsbballj  |       8 |       3 |
+| vsnes.c         | vsmahjng  |       8 |       3 |
+| vsnes.c         | vstennij  |       8 |       3 |
+| vsnes.c         | vstennis  |       8 |       3 |
+| vsnes.c         | wrecking  |       8 |       3 |
+| warriorb.c      | darius2d  |       8 |       3 |
+| warriorb.c      | drius2do  |       8 |       3 |
+| warriorb.c      | warriorb  |       8 |       3 |
+| xmen.c          | xmen6p    |       8 |       3 |
+| xmen.c          | xmen6pu   |       8 |       3 |
++-----------------+-----------+---------+---------+
+154 rows in set (0.03 sec)
+
