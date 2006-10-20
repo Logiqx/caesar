@@ -477,8 +477,8 @@
 
 								if ($sourcefile == 'nbmj8688.c')
 								{
-									$aspectx = 896;
-									$aspecty = 1056;
+									$aspectx = 85;    // 896;
+									$aspecty = 100;   // 1056;
 								}
 								else if ($wide_error <= $tall_error && $wide_error <= $basic_error)
 								{
@@ -538,23 +538,17 @@
 
 							/* --- Figure out the maximum acceptable dimensions for the snapshot --- */
 
-							if ($sourcefile == 'nbmj8688.c')
+							if ($aspectx > $aspecty)
 							{
-								// Treat like a vertical game
-								$limit_width = 512 * $aspectx / $aspecty;
-								$limit_height = 384 * $aspecty / $aspectx;
-							}
-							else if ($orientation == 'horizontal')
-							{
-								// Only works for 4:3 displays (but supports multi-screens)
-								$limit_width = 384 * $aspectx / 3;
-								$limit_height = 512 * $aspecty / 4;
+								// Works for all wide displays (x:y horizontal or x:y multi-screen)
+								$limit_width = 384 * $aspectx / $aspecty;
+								$limit_height = 512 * $aspecty / $aspectx;
 							}
 							else
 							{
-								// Only works for 3:4 displays (but supports multi-screens)
-								$limit_width = 512 * $aspectx / 4;
-								$limit_height = 384 * $aspecty / 3;
+								// Works for all tall displays (x:y vertical or x:y multi-screen)
+								$limit_width = 512 * $aspectx / $aspecty;
+								$limit_height = 384 * $aspecty / $aspectx;
 							}
 
 							//print 'limit=' . $limit_width . 'x' . $limit_height . '<br/>';
