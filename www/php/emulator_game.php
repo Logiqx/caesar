@@ -542,13 +542,13 @@
 							{
 								// Works for all wide displays (x:y horizontal or x:y multi-screen)
 								$limit_width = 384 * $aspectx / $aspecty;
-								$limit_height = 512 * $aspecty / $aspectx;
+								$limit_height = 384;
 							}
 							else
 							{
 								// Works for all tall displays (x:y vertical or x:y multi-screen)
-								$limit_width = 512 * $aspectx / $aspecty;
-								$limit_height = 384 * $aspecty / $aspectx;
+								$limit_width = 384;
+								$limit_height = 512;
 							}
 
 							//print 'limit=' . $limit_width . 'x' . $limit_height . '<br/>';
