@@ -2171,17 +2171,6 @@ game (
 ################################################################################
 
 game (
-	name thndcept
-	description "Thunder Cepter"
-	manufacturer "NAMCO"
-	rom ( name tc1-21.bin size 32768 crc 3b942f5f )
-	rom ( name tc1-22.bin size 32768 crc cfef5481 )
-	chip ( type cpu name M6502 clock 2000000 )
-	chip ( type audio name YM-2151 clock 3579545 )
-	sound ( channels 2 )
-)
-
-game (
 	name charon
 	description "Charon"
 	manufacturer "SEGA"
@@ -3012,24 +3001,6 @@ game (
 )
 
 game (
-	name uvt
-	description "Us vs. Them"
-	year 1983
-	manufacturer "Mylstar (USA)"
-	rom ( name usvs.rm4 size 8192 crc 0d7a4072 sha1 84a7eec31037243185ab40ab269be0f83946ebd5 )
-	rom ( name usvs.rm3 size 8192 crc 6f32a671 sha1 d54c1e09988f78ea706b4b0da675b27d9d407696 )
-	rom ( name usvs.rm2 size 8192 crc 36770716 sha1 797b48ef48f563ed21ea263297fe0ed61c69f41e )
-	rom ( name usvs.rm1 size 8192 crc 697bc989 sha1 ebfc0868f949e5aba1efb8fbce06f795888d8e00 )
-	rom ( name usvs.rm0 size 8192 crc 30cf6bd9 sha1 527ad3b96ea4a77f6d6f8a89a9215da490292297 )
-	rom ( name usvs.fg3 size 16384 crc 98703015 sha1 120e87ef640db3f23c1d2c0abf4b6acff7714512 )
-	rom ( name usvs.fg2 size 16384 crc d3990707 sha1 81d58f6bc6ec04b95036f81c4cd3516d0adf348e )
-	rom ( name usvs.fg1 size 16384 crc a2057430 sha1 e24aa35cb27fa41b75f5c01f4c083dc6eeb04c0d )
-	rom ( name usvs.fg0 size 16384 crc 7734e53f sha1 c1307596ba098c98e741f3c00686b514587e1d0a )
-	rom ( name usvs.bg0 size 4096 crc 8a0de09f sha1 6b56ffbe8569625ff307510645683b4e3f04e753 )
-	rom ( name usvs.bg1 size 4096 crc 6fb64d3c sha1 0cf0fd60995e56eddc56c7fac6280abe3b87dbc9 )
-)
-
-game (
 	name multicputest
 	description "Multi-CPU Test"
 	year 2001
@@ -3182,120 +3153,166 @@ game (
 ################################################################################
 
 game (
+	name kgpe
+	description "Kingdom Grand Prix" japanese "éæïóñÇñ@µÂçÏê°"
+	manufacturer "Raizing"
+	year 1994
+	romof shippumd
+	cloneof shippumd
+	rom ( name ma02rom1.bin merge ma02rom1.bin size 524288 crc32 a678b149 )
+	rom ( name ma02rom0.bin merge ma02rom0.bin size 524288 crc32 f226a212 )
+	rom ( name ma02rom2.bin merge ma02rom2.bin size 65536 crc32 dde8a57e )
+	rom ( name ma02rom3.bin merge ma02rom3.bin size 2097152 crc32 0e797142 )
+	rom ( name ma02rom4.bin merge ma02rom4.bin size 2097152 crc32 72a6fa53 )
+	rom ( name ma02rom5.bin merge ma02rom5.bin size 32768 crc32 116ae559 )
+	rom ( name ma02rom6.bin merge ma02rom6.bin size 524288 crc32 199e7cae )
+	archive ( name "kgpe" )
+	chip ( type audio name "ym2151" )
+	chip ( type audio name "m6295" )
+	input ( dipswitches 3 )
+	video ( screen raster orientation vertical x 320 y 240 freq 60 )
+)
+
+game (
 	name mspac6m
-	description "Ms. Pac-Man 6 maps (hack)"
-	year 1981
+	description "Ms. Pac-Man 6 maps (hack)" japanese "Ms. Pac-Man 6 maps (hack)"
 	manufacturer "Bootleg"
-	cloneof puckman
-	romof puckman
-	rom ( name 1.cpu size 4096 crc d16b31b7 sha1 bc2247ec946b639dd1f00bfc603fa157d0baaa97 )
-	rom ( name 2.cpu size 4096 crc 0d32de5e sha1 13ea0c343de072508908be885e6a2a217bbb3047 )
-	rom ( name 3.cpu size 4096 crc 513f4d5c sha1 ae011b89422bd8cbb80389814500bc1427f6ecb2 )
-	rom ( name 4.cpu size 4096 crc e21c81ff sha1 5a6ce8ee3059a31afbb9b8c1d0a1e37606d14a0a )
-	rom ( name 52.cpu size 4096 crc 48453707 sha1 3faf536de2e56770a99379849409eeea01b2d031 )
-	rom ( name 62.cpu size 4096 crc 2e961bc4 sha1 e29814151edde8a22e638a4a8edb9935e48d985b )
-	rom ( name 7.cpu size 2048 crc 2850148a sha1 4257a5dd4ad27d4a6bfae71bbe2564026bdaebb2 )
-	rom ( name 9.cpu size 2048 crc 6c3c6ebb sha1 3f19e9a20e202fda139324ef03991af99516aeef )
-	rom ( name 8.cpu size 2048 crc 5596b345 sha1 0320eb1f7e39dbd438be2f488f43f5b11e13f438 )
-	rom ( name 10.cpu size 2048 crc 50c7477d sha1 c04ec282a8cb528df5e38ad750d12ee71612695d )
-	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
-	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
-	rom ( name pacplus.7f size 32 crc 063dd53a sha1 2e43b46ec3b101d1babab87cdaddfa944116ec06 )
-	rom ( name pacplus.4a size 256 crc e271a166 sha1 cf006536215a7a1d488eebc1d8a2e2a8134ce1a6 )
+	year 1981
+	romof pacplus
+	cloneof pacplus
+	rom ( name 1.cpu size 4096 crc32 d16b31b7 )
+	rom ( name 2.cpu size 4096 crc32 0d32de5e )
+	rom ( name 3.cpu size 4096 crc32 513f4d5c )
+	rom ( name 4.cpu size 4096 crc32 e21c81ff )
+	rom ( name 52.cpu size 4096 crc32 48453707 )
+	rom ( name 62.cpu size 4096 crc32 2e961bc4 )
+	rom ( name 7.cpu size 2048 crc32 2850148a )
+	rom ( name 9.cpu size 2048 crc32 6c3c6ebb )
+	rom ( name 8.cpu size 2048 crc32 5596b345 )
+	rom ( name 10.cpu size 2048 crc32 50c7477d )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc32 a9cc86bf )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc32 77245b66 )
+	rom ( name pacplus.7f merge pacplus.7f size 32 crc32 063dd53a )
+	rom ( name pacplus.4a merge pacplus.4a size 256 crc32 e271a166 )
+	archive ( name "mspac6m" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 4 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
 )
 
 game (
 	name namcosil
-	description "Namco Pacman - Vertical tunnel edition!"
-	year 1998
+	description "Namco Pacman - Vertical tunnel edition!" japanese "Namco Pacman - Vertical tunnel edition!"
 	manufacturer "Bootleg"
-	cloneof puckman
+	year 1998
 	romof puckman
-	rom ( name namcopac.6e merge namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
-	rom ( name namcosil.6f size 4096 crc c5ec2352 sha1 86178b16dabb90005b132febc1a261651a73018d )
-	rom ( name namcopac.6h merge namcopac.6h size 4096 crc 02083b03 sha1 7e1945f6eb51f2e51806d0439f975f7a2889b9b8 )
-	rom ( name namcosil.6j size 4096 crc 57a07f6e sha1 8a7a1d4662e4fc5c5374ad1cad09fd4da1f8398a )
-	rom ( name pacman.5e merge pacman.5e size 4096 crc 0c944964 sha1 06ef227747a440831c9a3a613b76693d52a2f0a9 )
-	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
-	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
-	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
-	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
-	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	cloneof puckman
+	rom ( name namcopac.6e merge namcopac.6e size 4096 crc32 fee263b3 )
+	rom ( name namcosil.6f size 4096 crc32 c5ec2352 )
+	rom ( name namcopac.6h merge namcopac.6h size 4096 crc32 02083b03 )
+	rom ( name namcosil.6j size 4096 crc32 57a07f6e )
+	rom ( name pacman.5e merge pacman.5e size 4096 crc32 0c944964 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc32 958fedf9 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc32 a9cc86bf )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc32 77245b66 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc32 2fc650bd )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc32 3eb3a8e4 )
+	archive ( name "namcosil" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 3 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
 )
 
 game (
 	name pacman25
-	description "25 MAP PAC"
-	year 2004
+	description "25 MAP PAC" japanese "25 MAP PAC"
 	manufacturer "Bootleg"
-	cloneof puckman
+	year 2004
 	romof puckman
-	rom ( name namcopac.6e merge namcopac.6e size 4096 crc fee263b3 sha1 87117ba5082cd7a615b4ec7c02dd819003fbd669 )
-	rom ( name namcosil.6f size 4096 crc c5ec2352 sha1 86178b16dabb90005b132febc1a261651a73018d )
-	rom ( name pacman25.6h size 4096 crc 92cd89b9 sha1 c3a0141480341c550a889b58692c8c90b322ee67 )
-	rom ( name pacman25.6j size 4096 crc f7193845 sha1 6d190cf6e76520b8b8c97e6e3a817c4a142003ba )
-	rom ( name maps1.rom size 4096 crc 19a22304 sha1 6cc0e4921148b7a7eedf5d807bd63062b745e1c6 )
-	rom ( name maps2.rom size 4096 crc 7cdbd912 sha1 b19868bd5da3163e03320e6de0428b22b8e02d80 )
-	rom ( name maps3.rom size 4096 crc c626ea9c sha1 3cd3f20e002845937a43f323b685425c95881d9e )
-	rom ( name maps4.rom size 4096 crc f5ba954d sha1 eba18f9a7f6d50f167ed37bff0adec43f52b49a0 )
-	rom ( name pacman25.5e size 4096 crc 11d47ae1 sha1 fbd47432f258e56f1323766d5b2844f4a2e6e7ac )
-	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
-	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
-	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
-	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
-	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	cloneof puckman
+	rom ( name namcopac.6e merge namcopac.6e size 4096 crc32 fee263b3 )
+	rom ( name namcosil.6f size 4096 crc32 c5ec2352 )
+	rom ( name pacman25.6h size 4096 crc32 92cd89b9 )
+	rom ( name pacman25.6j size 4096 crc32 f7193845 )
+	rom ( name maps1.rom size 4096 crc32 19a22304 )
+	rom ( name maps2.rom size 4096 crc32 7cdbd912 )
+	rom ( name maps3.rom size 4096 crc32 c626ea9c )
+	rom ( name maps4.rom size 4096 crc32 f5ba954d )
+	rom ( name pacman25.5e size 4096 crc32 11d47ae1 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc32 958fedf9 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc32 a9cc86bf )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc32 77245b66 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc32 2fc650bd )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc32 3eb3a8e4 )
+	archive ( name "pacman25" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 4 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
 )
 
 game (
 	name pacman3d
-	description "Pacman 3D"
-	year 1998
+	description "Pacman 3D" japanese "Pacman 3D"
 	manufacturer "Bootleg"
-	cloneof puckman
+	year 1998
 	romof puckman
-	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
-	rom ( name pacman3d.6f size 4096 crc 96364259 sha1 ec2f36a44fd0c13dfd7dc571b9499bc9dbaa247d )
-	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
-	rom ( name pacman3d.6j size 4096 crc 959e930e sha1 0ef24017be05ddf85248c4d00f0e21cbf658f78c )
-	rom ( name pacman3d.5e size 4096 crc aa203d45 sha1 7d2fb9bc8718601efc33d2469452a08018167e60 )
-	rom ( name pacman3d.5f size 4096 crc d1830540 sha1 5d276774997e3be8fc9c21d55562288acd1cffcc )
-	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
-	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
-	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
-	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	cloneof puckman
+	rom ( name pacman.6e size 4096 crc32 c1e6ab10 )
+	rom ( name pacman3d.6f size 4096 crc32 96364259 )
+	rom ( name pacman.6h size 4096 crc32 bcdd1beb )
+	rom ( name pacman3d.6j size 4096 crc32 959e930e )
+	rom ( name pacman3d.5e size 4096 crc32 aa203d45 )
+	rom ( name pacman3d.5f size 4096 crc32 d1830540 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc32 a9cc86bf )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc32 77245b66 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc32 2fc650bd )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc32 3eb3a8e4 )
+	archive ( name "pacman3d" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 4 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
 )
 
 game (
 	name xenrev
-	description "Xen's Revenge (hack - hard!)"
-	year 1998
+	description "Xen's Revenge (hack - hard!)" japanese "Xen's Revenge (hack - hard!)"
 	manufacturer "Bootleg"
-	cloneof puckman
+	year 1998
 	romof puckman
-	rom ( name pacman.6e size 4096 crc c1e6ab10 sha1 e87e059c5be45753f7e9f33dff851f16d6751181 )
-	rom ( name pacman.6f size 4096 crc 1a6fb2d4 sha1 674d3a7f00d8be5e38b1fdc208ebef5a92d38329 )
-	rom ( name pacman.6h size 4096 crc bcdd1beb sha1 8e47e8c2c4d6117d174cdac150392042d3e0a881 )
-	rom ( name xenrev.6j size 4096 crc 64a10b6c sha1 689be23289fb32f2bfa1392edaba9c6bfa5a82e7 )
-	rom ( name xenrev.5e size 4096 crc 40e3522d sha1 461d1895f82502538bf120a61a3950970f9f1b09 )
-	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
-	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
-	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
-	rom ( name 82s123.7f merge 82s123.7f size 32 crc 2fc650bd sha1 8d0268dee78e47c712202b0ec4f1f51109b1f2a5 )
-	rom ( name 82s126.4a merge 82s126.4a size 256 crc 3eb3a8e4 sha1 19097b5f60d1030f8b82d9f1d3a241f93e5c75d6 )
+	cloneof puckman
+	rom ( name pacman.6e size 4096 crc32 c1e6ab10 )
+	rom ( name pacman.6f size 4096 crc32 1a6fb2d4 )
+	rom ( name pacman.6h size 4096 crc32 bcdd1beb )
+	rom ( name xenrev.6j size 4096 crc32 64a10b6c )
+	rom ( name xenrev.5e size 4096 crc32 40e3522d )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc32 958fedf9 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc32 a9cc86bf )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc32 77245b66 )
+	rom ( name 82s123.7f merge 82s123.7f size 32 crc32 2fc650bd )
+	rom ( name 82s126.4a merge 82s126.4a size 256 crc32 3eb3a8e4 )
+	archive ( name "xenrev" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 4 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
 )
 
 game (
 	name f2demo
 	description "Demo Taito F2"
-	year 2000
 	manufacturer "Bootleg"
-	rom ( name lk_obj0.bin size 524288 crc 1bb8aa37 )
-	rom ( name lk_obj1.bin size 524288 crc 75660aac )
-	rom ( name lk_scr.bin size 524288 crc b178fb05 )
-	rom ( name lq09.bin size 131072 crc 809a968b )
-	rom ( name lq11.bin size 131072 crc 7ba3a5cb )
-	rom ( name lq10.bin size 131072 crc 7ee8cdcd )
-	rom ( name lq12.bin size 131072 crc 7ee8cdcd )
+	year 2000
+	board "C49"
+	rom ( name lk_obj0.bin size 524288 crc32 1bb8aa37 )
+	rom ( name lk_obj1.bin size 524288 crc32 75660aac )
+	rom ( name lk_scr.bin size 524288 crc32 b178fb05 )
+	rom ( name lq09.bin size 131072 crc32 809a968b )
+	rom ( name lq11.bin size 131072 crc32 7ba3a5cb )
+	rom ( name lq10.bin size 131072 crc32 7ee8cdcd )
+	rom ( name lq12.bin size 131072 crc32 7ee8cdcd )
+	archive ( name "f2demo" )
+	chip ( type audio name "ym2610" )
+	input ( dipswitches 2 )
+	video ( screen raster orientation horizontal x 320 y 224 freq 60 )
 )
 
 game (
