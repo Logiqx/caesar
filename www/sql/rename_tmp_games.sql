@@ -6,27 +6,27 @@
 
 ALTER TABLE tmp_game_display
 ADD (
-	orientation	VARCHAR(10) NOT NULL,
-	rotated_width	SMALLINT UNSIGNED NULL,
-	rotated_height	SMALLINT UNSIGNED NULL,
-	aspectx		SMALLINT UNSIGNED NULL,
-	aspecty		SMALLINT UNSIGNED NULL
+	x_orientation	VARCHAR(10) NOT NULL,
+	x_rotated_width	SMALLINT UNSIGNED NULL,
+	x_rotated_height SMALLINT UNSIGNED NULL,
+	x_aspectx	SMALLINT UNSIGNED NULL,
+	x_aspecty	SMALLINT UNSIGNED NULL
 );
 
 UPDATE	tmp_game_display
-SET	orientation = 'horizontal',
-	rotated_width = width,
-	rotated_height = height,
-	aspectx = 4,
-	aspecty = 3
+SET	x_orientation = 'horizontal',
+	x_rotated_width = width,
+	x_rotated_height = height,
+	x_aspectx = 4,
+	x_aspecty = 3
 WHERE	rotate IN (0, 180);
 
 UPDATE	tmp_game_display
-SET	orientation = 'vertical',
-	rotated_width = height,
-	rotated_height = width,
-	aspectx = 3,
-	aspecty = 4
+SET	x_orientation = 'vertical',
+	x_rotated_width = height,
+	x_rotated_height = width,
+	x_aspectx = 3,
+	x_aspecty = 4
 WHERE	rotate IN (90, 270);
 
 -- Add extra columns onto the game table
@@ -38,7 +38,8 @@ ADD (
 	x_hidden_ind	TINYINT(1) NULL,
 	x_master_ind	TINYINT(1) NULL,
 	x_group_name	VARCHAR(20) NOT NULL,
-	x_size		INT UNSIGNED NOT NULL
+	x_size		INT UNSIGNED NOT NULL,
+	x_multiscreen_ind TINYINT(1) NULL
 );
 
 ALTER TABLE tmp_game_rom
@@ -189,6 +190,20 @@ WHERE	tmp_game_rom.dat=rombuild.dat AND
 	tmp_game_rom.rom_name=rombuild.rom_name AND
 	tmp_game_rom.size=rombuild.rom_size AND
 	tmp_game_rom.crc=rombuild.rom_crc;
+
+--- Populate x_multiscreen
+
+UPDATE	tmp_game
+SET	x_multiscreen_ind = 1
+WHERE	EXISTS
+	(
+		SELECT	1
+		FROM	tmp_game_display
+		WHERE	tmp_game_display.dat = tmp_game.dat AND
+			tmp_game_display.game_name = tmp_game.game_name
+		GROUP BY dat, game_name
+		HAVING	COUNT(*) > 1
+	);
 
 --- Rename temporary tables
 
