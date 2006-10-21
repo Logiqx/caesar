@@ -538,17 +538,19 @@
 
 							/* --- Figure out the maximum acceptable dimensions for the snapshot --- */
 
+							$limit_constant = 384;
+
 							if ($aspectx > $aspecty)
 							{
 								// Works for all wide displays (x:y horizontal or x:y multi-screen)
-								$limit_width = 384 * $aspectx / $aspecty;
-								$limit_height = 384;
+								$limit_width = $limit_constant * $aspectx / $aspecty;
+								$limit_height = $limit_constant;
 							}
 							else
 							{
 								// Works for all tall displays (x:y vertical or x:y multi-screen)
-								$limit_width = 384;
-								$limit_height = 384 * $aspecty / $aspectx;
+								$limit_width = $limit_constant;
+								$limit_height = $limit_constant * $aspecty / $aspectx;
 
 							}
 
