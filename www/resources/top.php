@@ -51,7 +51,7 @@
 						else if (isset($menu) && ($menu=="games"))
 						{
 							echo INDENT . '<table class="menu">' . LF;
-							echo INDENT . TAB . '<tr><th>Games</th></tr>' . LF;
+							echo INDENT . TAB . '<tr><th>Names</th></tr>' . LF;
 							echo INDENT . TAB . '<tr class="odd"><td>' . LF;
 							echo INDENT . TAB . TAB . '<a href="' . $www_root . 'php/game_search.php?desc=a&amp;desc_match=before">0-9</a> | ' . LF;
 							echo INDENT . TAB . TAB . '<a href="' . $www_root . 'php/game_search.php?desc=a">A</a> | ' . LF;
