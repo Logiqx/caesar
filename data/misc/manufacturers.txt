@@ -1,6 +1,9 @@
 Alpha Denshi
+Ameri
+Arcadia Systems
 Atari
 Atlus
+BFM/ELAM
 Bally/Sente
 Banpresto
 Capcom
@@ -8,13 +11,14 @@ Centuri
 Century Electronics
 Cinematronics
 Comad
-DECO
 Data East
 Dooyong
 Dynax
 Eighting
+Eolith
 Epos Corporation
 Exidy
+Face
 Gaelco
 Gottlieb
 Gremlin
@@ -27,6 +31,8 @@ Jaleco
 Kaneko
 Konami
 Leland Corp.
+MIKI SYOUJI
+Merit
 Metro
 Midway
 Mitchell
@@ -35,8 +41,12 @@ NMK
 Nakanihon
 Namco
 Nichibutsu
+Nihon System
 Nintendo
 Orca
+Philko
+Playmark
+Playmore
 Psikyo
 Raizing
 Rare
@@ -46,14 +56,17 @@ Sammy
 Sanritsu
 Sega
 Seibu
+SemiCom
 Seta
-Sigma Enterprises Inc.
+Sigma
 Stern
+Success
 Sun Electronics
 SunA
 Sunsoft
 Tad
 Taito
+Tecfri
 Technos
 Tecmo
 Tehkan
@@ -65,6 +78,7 @@ Valadon Automation
 Video System Co.
 Visco
 Williams
+Yun Sung
 Zaccaria
 bootleg
 hack
