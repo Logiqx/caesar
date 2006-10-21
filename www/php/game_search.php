@@ -67,6 +67,11 @@
 			else
 				$sourcefile='';
 
+			if (isset($_GET['multiscreen']))
+				$multiscreen=$_GET['multiscreen'];
+			else
+				$multiscreen='';
+
 			if (isset($_GET['sort']))
 				$sort=$_GET['sort'];
 			else
@@ -144,6 +149,16 @@
 				$query = $query . " AND game_sourcefile='" . $sourcefile . "'";
 			}
 
+			if ($multiscreen != '')
+			{
+				if ($args != '' )
+					$args = $args . '&amp;';
+
+				$args = $args . 'x_multiscreen=' . $multiscreen;
+
+				$query = $query . " AND x_multiscreen_ind=1";
+			}
+
 			if ($desc != '')
 			{
 				if ($args != '' )
@@ -218,7 +233,7 @@
 				$query = $query . " ORDER BY description, year, manufacturer";
 			}
 
-			if ($desc != '' || $manu != '' || $year != '' || $nonmame != '' || $sourcefile != '')
+			if ($desc != '' || $manu != '' || $year != '' || $nonmame != '' || $sourcefile != '' || $multiscreen != '')
 			{
 				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
