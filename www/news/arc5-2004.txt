@@ -4,47 +4,47 @@
 <a name="newsitem1087041210,26956,"></a><h2>Saturday 12 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Hard to handle</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:53PM [BST]</small>  </th></tr>  <tr><td> In absence of Smitdogg, Mr. Do has released <a href="http://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=57136&page=0&view=expanded&sb=5&o=&fpart=1#Post57142" target=_blank>Control Panel packs 23 & 24</a>. I guess these have the same quality as the others, nowhere to be found yet, but one expects them to be uploaded to the newsgroups and eventually to <a href="http://www.mamehot.net/" target=_blank>MameHot</a>.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:53AM [BST]</small>  </th></tr>  <tr><td> In absence of Smitdogg, Mr. Do has released <a href="http://www.mameworld.info/ubbthreads/showthreaded.php?Cat=&Number=57136&page=0&view=expanded&sb=5&o=&fpart=1#Post57142" target=_blank>Control Panel packs 23 & 24</a>. I guess these have the same quality as the others, nowhere to be found yet, but one expects them to be uploaded to the newsgroups and eventually to <a href="http://www.mamehot.net/" target=_blank>MameHot</a>.  </td></tr>  </table></p>
 <a name="newsitem1087041020,47461,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Flyer is all around me</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:50PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a> has been updated again. Look at all those cute flyers. Come on, you know you can't resist.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:50AM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a> has been updated again. Look at all those cute flyers. Come on, you know you can't resist.  </td></tr>  </table></p>
 <a name="newsitem1087040997,67055,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Those latin guys</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:49PM [BST]</small>  </th></tr>  <tr><td> I don't think we have many italian readers, but well, the <a href="http://www.mamedatproject.co.nr/" target=_blank>History.dat Translation Project</a> has finished translating all the data into italian. Spread the word.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:49AM [BST]</small>  </th></tr>  <tr><td> I don't think we have many italian readers, but well, the <a href="http://www.mamedatproject.co.nr/" target=_blank>History.dat Translation Project</a> has finished translating all the data into italian. Spread the word.  </td></tr>  </table></p>
 <a name="newsitem1086857271,17140,"></a><h2>Thursday 10 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>More stuff about the resurrection</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:47AM [BST]</small>  </th></tr>  <tr><td> Peale gave me the page they have for <a href="http://vantage.jbeffects.com/" target=_blank>The Vantage Project</a>. If you're interested in the progress and any future release, you can visit it. There's a page for the programmers involved and also a WIP page with some details. They're also announcing a release soon, with new games like Space Laser and Moon War.  </td></tr>  </table></p>
-<a name="newsitem1086823487,97893,"></a>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:47AM [BST]</small>  </th></tr>  <tr><td> Peale gave me the page they have for <a href="http://vantage.jbeffects.com/" target=_blank>The Vantage Project</a>. If you're interested in the progress and any future release, you can visit it. There's a page for the programmers involved and also a WIP page with some details. They're also announcing a release soon, with new games like Space Laser and Moon War.  </td></tr>  </table></p>
+<a name="newsitem1086823487,97893,"></a><h2>Wednesday 9 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Resurrection</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:24AM [BST]</small>  </th></tr>  <tr><td> Peale has taken the old VAntAGE code (look at <a href="http://caesar.logiqx.com/html/emus/multi/vantage.shtml" target=_blank>our VAntAGE page</a>) and he is trying, with the help of some friends, to <a href="http://www.arcadecontrols.org/yabbse/index.php?board=3;action=display;threadid=14020" target=_blank>add new drivers</a>. For now there's a varying degree of success, but there's interest and potential there. VAntAGE is capable of running classics in very old hardware, so you could build a vertical cab with minimal costs. I wish them luck and I hope to hear from this project again very soon.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:24PM [BST]</small>  </th></tr>  <tr><td> Peale has taken the old VAntAGE code (look at <a href="http://caesar.logiqx.com/html/emus/multi/vantage.shtml" target=_blank>our VAntAGE page</a>) and he is trying, with the help of some friends, to <a href="http://www.arcadecontrols.org/yabbse/index.php?board=3;action=display;threadid=14020" target=_blank>add new drivers</a>. For now there's a varying degree of success, but there's interest and potential there. VAntAGE is capable of running classics in very old hardware, so you could build a vertical cab with minimal costs. I wish them luck and I hope to hear from this project again very soon.  </td></tr>  </table></p>
 <a name="newsitem1086632352,78683,"></a><h2>Monday 7 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Not really a surprise...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:19PM [BST]</small>  </th></tr>  <tr><td> Well, so much for the "next release will take a long time", here we have <a href="http://www.rainemu.com/" target=_blank>RAINE 0.40.3</a>. I was expecting this, just a bugfix release, but here it is. The good thing is that (if I read correctly) they have stopped using Allegro and now they use SDL for sound under linux and win32. I still expect a couple more "bugfixes" before the rewrite, if any... Thanks to The Informer for posting this.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:19PM [BST]</small>  </th></tr>  <tr><td> Well, so much for the "next release will take a long time", here we have <a href="http://www.rainemu.com/" target=_blank>RAINE 0.40.3</a>. I was expecting this, just a bugfix release, but here it is. The good thing is that (if I read correctly) they have stopped using Allegro and now they use SDL for sound under linux and win32. I still expect a couple more "bugfixes" before the rewrite, if any... Thanks to The Informer for posting this.  </td></tr>  </table></p>
 <a name="newsitem1086464831,45675,"></a><h2>Saturday 5 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>In a surprising turn of events...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:47PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has released data files and updated CAESAR on the same day as MAME v0.83 being released. Wow!  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:47PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> has released data files and updated CAESAR on the same day as MAME v0.83 being released. Wow!  </td></tr>  </table></p>
 <a name="newsitem1086401546,3301,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Oh yeah...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:12AM [BST]</small>  </th></tr>  <tr><td> ...And <a href="http://www.mame.net/" target=_blank>MAME 0.83</a> is out. Check the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a>; a variety of stuff and a new Atari prototype. Let's hope people don't bug for a new version in a while ^_^  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:12AM [BST]</small>  </th></tr>  <tr><td> ...And <a href="http://www.mame.net/" target=_blank>MAME 0.83</a> is out. Check the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a>; a variety of stuff and a new Atari prototype. Let's hope people don't bug for a new version in a while ^_^  </td></tr>  </table></p>
 <a name="newsitem1086399173,54621,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Summer holidays, or more</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:32AM [BST]</small>  </th></tr>  <tr><td> In a quite surprising move, <a href="http://haze.mame.net/" target=_blank>Haze is taking a break</a>. Hopefully, as he states, he'll be back with renewed interest and motivation and be the great maintainer of MAME he has been until now.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:32AM [BST]</small>  </th></tr>  <tr><td> In a quite surprising move, <a href="http://haze.mame.net/" target=_blank>Haze is taking a break</a>. Hopefully, as he states, he'll be back with renewed interest and motivation and be the great maintainer of MAME he has been until now.  </td></tr>  </table></p>
 <a name="newsitem1086399145,53986,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Never a bad opportunity to relive a classic</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:32AM [BST]</small>  </th></tr>  <tr><td> A rather impressive port/remake, <a href="http://65.75.164.180/games/lemmings/" target=_blank>DHTML Lemmings</a> is a quite accurate remake done only using HTML and JavaScript. Thanks to Dave for posting this!  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:32AM [BST]</small>  </th></tr>  <tr><td> A rather impressive port/remake, <a href="http://65.75.164.180/games/lemmings/" target=_blank>DHTML Lemmings</a> is a quite accurate remake done only using HTML and JavaScript. Thanks to Dave for posting this!  </td></tr>  </table></p>
 <a name="newsitem1086261462,55069,"></a><h2>Thursday 3 June</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>But I'm still missing one of the requirements...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:17PM [BST]</small>  </th></tr>  <tr><td> Want to have a whole collection of classic arcade cabs in your room? <a href="http://www.wayoftherodent.com/gd101/bs_paperarcade.htm" target=_blank>Paper Arcade</a> will help you. All you need is a color printer, scissors and glue, and "reasonably non-arthritic folding fingers". Since I don't have anything arcade in mine, I think I'm getting the whole collection done. Thanks to Dan for posting it at the News board.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:17AM [BST]</small>  </th></tr>  <tr><td> Want to have a whole collection of classic arcade cabs in your room? <a href="http://www.wayoftherodent.com/gd101/bs_paperarcade.htm" target=_blank>Paper Arcade</a> will help you. All you need is a color printer, scissors and glue, and "reasonably non-arthritic folding fingers". Since I don't have anything arcade in mine, I think I'm getting the whole collection done. Thanks to Dan for posting it at the News board.  </td></tr>  </table></p>
 
 
 </body></html>
