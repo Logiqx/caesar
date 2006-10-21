@@ -359,11 +359,11 @@
 
 					// Get display details (for aspect ratio fixing)
 
-					$query = "SELECT max(orientation) orientation,
-							max(rotated_width) as max_width, sum(rotated_width) as sum_width,
-							max(rotated_height) as max_height, sum(rotated_height) as sum_height,
-							max(aspectx) as max_aspectx, sum(aspectx) as sum_aspectx,
-							max(aspecty) as max_aspecty, sum(aspecty) as sum_aspecty,
+					$query = "SELECT max(x_orientation) orientation,
+							max(x_rotated_width) as max_width, sum(x_rotated_width) as sum_width,
+							max(x_rotated_height) as max_height, sum(x_rotated_height) as sum_height,
+							max(x_aspectx) as max_aspectx, sum(x_aspectx) as sum_aspectx,
+							max(x_aspecty) as max_aspecty, sum(x_aspecty) as sum_aspecty,
 							count(*) as num_displays
 						FROM	game_display
 						WHERE	dat='" . $master['dat'] . "'
