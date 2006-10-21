@@ -1,6 +1,7 @@
 Multi-screen games:
 
-select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.rotated_width) max_width, min(gd.rotated_height) min_height, max(gd.rotated_height) max_height, count(*) from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having count(*) > 1 order by g.game_sourcefile, gd.game_name;
+select g.game_sourcefile, gd.game_name, min(gd.x_rotated_width) min_width, max(gd.x_rotated_width) max_width, min(gd.x_rotated_height) min_height, max(gd.x_rotated_height) max_height, count(*) from game g, game_display gd
+where g.dat = gd.dat and g.game_name = gd.game_name and g.x_multiscreen_ind is not null group by g.game_sourcefile, gd.game_name order by g.game_sourcefile, gd.game_name;
 
 +-----------------+-----------+-----------+-----------+------------+------------+----------+
 | game_sourcefile | game_name | min_width | max_width | min_height | max_height | count(*) |
@@ -180,7 +181,8 @@ select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.
 
 Multi-screen games with varying resolutions:
 
-select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.rotated_width) max_width, min(gd.rotated_height) min_height, max(gd.rotated_height) max_height, count(*) from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having max(rotated_width) <> min(rotated_width) or max(rotated_height) <> min(rotated_height) order by g.game_sourcefile, gd.game_name;
+select g.game_sourcefile, gd.game_name, min(gd.x_rotated_width) min_width, max(gd.x_rotated_width) max_width, min(gd.x_rotated_height) min_height, max(gd.x_rotated_height) max_height, count(*) from game g, game_display gd
+where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having max(x_rotated_width) <> min(x_rotated_width) or max(x_rotated_height) <> min(x_rotated_height) order by g.game_sourcefile, gd.game_name;
 
 +-----------------+-----------+-----------+-----------+------------+------------+----------+
 | game_sourcefile | game_name | min_width | max_width | min_height | max_height | count(*) |
@@ -244,7 +246,7 @@ select g.game_sourcefile, gd.game_name, min(gd.rotated_width) min_width, max(gd.
 
 Testing CAESAR pages:
 
-select g.game_sourcefile, gd.game_name from game g, game_display gd where g.dat = gd.dat and g.game_name = gd.game_name group by g.game_sourcefile, gd.game_name having count(*) > 1 order by g.game_sourcefile, g.game_name;
+select game_sourcefile, game_name from game where x_multiscreen_ind is not null order by game_sourcefile, game_name;
 
 +-----------------+-----------+
 | game_sourcefile | game_name |
