@@ -1,0 +1,26 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>July 2006</h1>
+<a name="newsitem1153773209,39821,"></a><h2>Monday 24 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Wow, two news in a day!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:33PM [BST]</small>  </th></tr>  <tr><td> Erik Duijs has released <a href="http://www.gagaplay.com/jemu2" target=_blank>JEmu2 3.4</a>. This version includes full emulation of the Sega Y-Board games, like Galaxy Force 2, G-Loc, Rail Chase and the popular Power Drift (cool game which was apparently too hard for me in the cockpit). There seem to be some glitches but the thing is working beautifully already. Enjoy.  </td></tr>  </table></p>
+<a name="newsitem1153763285,68696,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Mr. Giles is on fire</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:48PM [BST]</small>  </th></tr>  <tr><td> I'm proud to announce the release of <a href="http://www.mamedev.org/" target="_blank">MAME 0.107 "If it doesn't work, it's because you didn't test it enough"</a>. The name says it all, even the whatsnew.txt says that if you have problems, you should report at <a href="http://www.mametesters.org/" target="_blank">mametesters.org</a>. Of course, the big deal this time is the complete rewrite of the rendering system, which is still in testing phase although the major bugs should be out and it's much more functional than the earlier system. Multiple physical screens, for example. An easy way to manage multiscreen games through layouts is provided and already works beautifully.<br><br>If all that is not enough, you can see that there have been many fixes to old drivers too, including some rewrites from scratch to classic drivers and games. Maybe there's not much in the "new" department, but the oldies got a load of great treatment. In any case, get the official Windows binaries at <a href="http://www.mame.net/" target="_blank">mame.net</a>, and read the <a href="http://mamedev.org/releases/whatsnew_0107.txt" target="_blank">changelog</a>, this time you really should.  </td></tr>  </table></p>
+<a name="newsitem1153081637,13626,"></a><h2>Sunday 16 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The time machine</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:27PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.innoveware.com/" target=_blank>JAPE 0.2</a> has been released. 0.1 was released too. The difference is that one comprises almost all features from MAME 0.1, while the other is the more/less port/version of MAME 0.2. Java source and binaries available.  </td></tr>  </table></p>
+<a name="newsitem1152022621,62709,"></a><h2>Tuesday 4 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Jet anoder hava progect</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:17PM [BST]</small>  </th></tr>  <tr><td> There are some news about <a href="http://www.innoveware.com/" target=_blank>JAPE 0.1 WIP</a>. Apparently it's done by Gollum, in yet another Java project. This is a more or less direct port or rewrite  of MAME 0.1, the very first version, with only 5 games. He says it's almost finished so we should expect a release soon. Thanks to Dalthon for noticing it.  </td></tr>  </table></p>
+<a name="newsitem1151786815,68902,"></a><h2>Saturday 1 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Missiles out!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:46PM [BST]</small>  </th></tr>  <tr><td> After some time without news, Erik Duijs has released <a href="http://www.gagaplay.com/jemu2" target=_blank>JEmu2 3.3</a>. It has support for AfterBurner II, which is *great*, although he warns about the requirements of it since it's not optimized yet. Anyway these are good news, AfterBurner II is an old favorite of mine, but nothing beats playing in the cockpit...  </td></tr>  </table></p>
+
+
+</body></html>

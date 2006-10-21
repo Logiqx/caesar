@@ -1,0 +1,14 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>April 2006</h1>
+<a name="newsitem1145019639,95979,"></a><h2>Friday 14 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Do the cheat</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:00PM [BST]</small>  </th></tr>  <tr><td> After 2 years, and again in April, there's an update at <a href="http://cheat.retrogames.com/" target=_blank>Pugsy's MAME Cheat Page</a>. Update? No, I mean massive update, we're talking more than 20 MAME versions since that last update, with cheats checked and renewed. Great!<br><br>While I'm here, I'd also like to mention this <a href="http://www.double.co.nz/nintendo_ds/space_invaders/" target=_blank>Space Invaders Emulator v0.2 for Nintendo DS</a>. The DS also has emulators!  </td></tr>  </table></p>
+<a name="newsitem1144168394,56549,"></a><h2>Tuesday 4 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The spanish version of the english version</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:33PM [BST]</small>  </th></tr>  <tr><td> Finally, after almost 2 months, <a href="http://www.mamedev.org/" target=_blank>MAME 0.105</a> has been released. You can get the official Windows binaries at <a href="http://www.mame.net/" target=_blank>mame.net</a>, and notice they're not compressed with UPX anymore. The amount of core changes is very big, you can check them in the <a href="http://mamedev.org/releases/whatsnew_0105.txt" target=_blank>changelog</a>, if you've not been aware in this long u cycle (up to u9). There have been many fixes to old bugs, and some new games made their way. Including Trivial Pursuit (Spanish Edition) thanks to Manuel Abadia ^_^  </td></tr>  </table></p>
+
+
+</body></html>

@@ -1,0 +1,22 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>July 2005</h1>
+<a name="newsitem1122838743,75095,"></a><h2>Sunday 31 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>CAESAR updates</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:39PM [BST]</small>  </th></tr>  <tr><td> I have updated a load of information in CAESAR. Full details are in the <a href="http://www.logiqx.com/forum/viewtopic.php?p=96#96">forum</a>.  </td></tr>  </table></p>
+<a name="newsitem1122720661,52912,"></a><h2>Saturday 30 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Ready to serve</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:51AM [BST]</small>  </th></tr>  <tr><td> So, years and years and years of research, engineering and development are finished. CAESAR goes PHP, hats off to Logiqx for this awesome work. You can read the <a href="http://www.logiqx.com/forum/viewtopic.php?t=37" target=_blank>announcement</a>. There are some new features in the pages, but I guess the most remarkable feature is a game search function. Although quite simple, it's also flexible if you handle it properly. I.e. searching for games containing "vs" in the name, "capcom" in the manufacturer and a year beginning with "199" gives all the Capcom VS fighters of the 90's (plus Alien vs Predator, but oh well). There is also new information in the game pages and everything stays cross-referenced among hundreds of arcade emulators and thousands of games... But with PHP/MySQL mixed in <a href="http://www.culinaryarts.com/Recipes/recipefiles/Caesar.htm" target=_blank>the recipe</a>.<br><br>Celebration for this breakthrough in CAESAR's history is happening in four weeks. Get your tickets.  </td></tr>  </table></p>
+<a name="newsitem1121116809,46533,"></a><h2>Monday 11 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The beast unleashed again</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:20PM [BST]</small>  </th></tr>  <tr><td> Aaron has decided that we're too deep into July to not have a new version, so <a href="http://www.mame.net/" target=_blank>MAME 0.98</a> was out this weekend. Updates available at <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a> as usual. The <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a> shows a good amount of bugs fixed, some interesting new games (Slipstream, X-Men 6p) and some really good improvements like the revamping in the Taito F3 driver. Good one for the summer!  </td></tr>  </table></p>
+<a name="newsitem1120299555,26709,"></a><h2>Saturday 2 July</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The innards of the beast</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:19AM [BST]</small>  </th></tr>  <tr><td> After some time with the project open, finally there's one section covered at the <a href="http://mamedev.com/docs/" target=_blank>MAME Developer Documentation</a>, dealing with the "Anatomy of a Driver". It's still not completed, and apparently not many devs or programmers aren't contributing, but what's there it's kind of interesting, nonetheless.<br><br>And btw, did you check <a href="http://www.oneswitch.org.uk/4/games/0index.htm" target=_blank>RetroRemakes On Switch game competition</a>?  </td></tr>  </table></p>
+
+
+</body></html>

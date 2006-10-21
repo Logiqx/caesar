@@ -1,0 +1,22 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>March 2006</h1>
+<a name="newsitem1142858937,66636,"></a><h2>Monday 20 March</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>St. Patrick's Edition</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:48AM [GMT]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/jemu2" target=_blank>JEmu2 3.0</a>, which I call "St. Patrick's Edition". The main change in this new version is the addition of Sega Master System, with support for online high scores in seven of them. Enjoy!  </td></tr>  </table></p>
+<a name="newsitem1141766748,19998,"></a><h2>Tuesday 7 March</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sad</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:25PM [GMT]</small>  </th></tr>  <tr><td> Too bad, <a href="http://www.starroms.com/" target=_blank>StarROMs closes its doors</a>. It means that the one and only current dealer of legal ROMs for selling is stopping activities after more than 2 years. I hope others continue where they left, and I wish good luck in any endeavour to the brave business men who founded StarROMs.  </td></tr>  </table></p>
+<a name="newsitem1141672483,90543,"></a><h2>Monday 6 March</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The Hitchhiker's Guide to the Legal ROMs</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:14PM [GMT]</small>  </th></tr>  <tr><td> There's an arcade game which has been released as free (and for non-commercial usage) at <a href="http://www.mamedev.org/" target=_blank>MAMEDev.org</a>. As Aaron explains, the author of <a href="http://www.mamedev.org/roms/alienar/" target=_blank>Alien Arena</a> has decided to release this creation which was essentially homebrew in its nature. But homebrew arcade games weren't so common back in 1984! Maybe not the best game ever, but a little piece of arcade history and a completely legal ROM to download and enjoy.  </td></tr>  </table></p>
+<a name="newsitem1141580037,5814,"></a><h2>Sunday 5 March</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The late night Douglas Adams' show</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:33PM [GMT]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/" target=_blank>JEmu2 2.3</a>. This new version has the ability to be played as an applet, if you want. The other improvements are MSX related, with a few more games and better MSX-2 support (that's deluxe, you know).  </td></tr>  </table></p>
+
+
+</body></html>

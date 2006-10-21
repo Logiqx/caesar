@@ -1,0 +1,18 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>November 2005</h1>
+<a name="newsitem1131965920,24306,"></a><h2>Monday 14 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The hornet is here</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:58AM [GMT]</small>  </th></tr>  <tr><td> It has been released just today: <a href="http://www.mame.net/" target=_blank>MAME 0.102 "Gradius 4"</a>. Binaries are ready and the <a href="http://mamedev.com/releases/whatsnew_0102.txt" target=_blank>changelog</a> is up to read too. Source code and documentation also at <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a> as usual. I guess the star in this release is Gradius 4, in a working Konami Hornet driver which already has another game. There has been also a big change in the memory system, but I'm not sure of which were their effects. This release is as juicy as usual. And Logiqx will be pleased to know it was released the same day he left for 2 weeks... ^_^  </td></tr>  </table></p>
+<a name="newsitem1131881956,77564,"></a><h2>Sunday 13 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>More CPS2 Java goodness</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:39AM [GMT]</small>  </th></tr>  <tr><td> Gollum just wrote me about the most recent WIP in <a href="http://cottage.consolemul.com/" target=_blank>PotatoArcade</a> . CPS-2 is working, and as the saying goes, images are worth 850 words (ah, the inflation) so take a look at the status page. Some of the games are Marvel Vs. Capcom, DD: SoM, Mars Matrix & Super Gem Fighter Mini Mix. Additionally, there's preliminary support for the classic Pang. You can try the current version at the  <a href="http://www.game-oldies.com/" target=_blank>Game-Oldies site</a>.  </td></tr>  </table></p>
+<a name="newsitem1131065217,77967,"></a><h2>Thursday 3 November</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Database On Arrival</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:46PM [GMT]</small>  </th></tr>  <tr><td> Another victim of the PHP fever, <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a> was updated and also transformed into a powerful PHP database engine... With search! Ohhh search within System 16... Now I'm happy (for the nest 3 minutes). Great.  </td></tr>  </table></p>
+
+
+</body></html>

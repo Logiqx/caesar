@@ -1,0 +1,38 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>February 2005</h1>
+<a name="newsitem1109549563,15897,"></a><h2>Sunday 27 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>An easy life...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 11:12PM [GMT]</small>  </th></tr>  <tr><td> Well, MAME v0.93 has got to have been the easiest update ever for me in regards data files and CAESAR! Nothing affected the supplementary data files and there weren't any game renames or ROM changes to affect the CAESAR groupings. Such an easy update only happens once every couple of years it seems! Anyway, that's a long way to say that CAESAR is up to date.  </td></tr>  </table></p>
+<a name="newsitem1109512115,14200,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>In high fidelity</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:48PM [GMT]</small>  </th></tr>  <tr><td> Well, after breaking three fingers in the works, Aaron finally finished the sound system rewriting and this morning we got <a href="http://www.mame.net/" target=_blank>MAME 0.93 "Seibu SPI decryption"</a>! Of course, the stars in the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a> are Aaron's sound system rewrite and Nicola's decrypting graphics on Seibu SPI games, which includes some great Raiden shooters. There are various fixes all around too, and besides the SPI games, you can also play now Ufo Senshi Yohko Chan and hear sound in Tank8. And as Haze says, "please test this release extensively."  </td></tr>  </table></p>
+<a name="newsitem1109250278,1485,"></a><h2>Thursday 24 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The second part of the story</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:04PM [GMT]</small>  </th></tr>  <tr><td> No, not *that* story. I mean <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=168841&page=0&view=expanded&mode=threaded&sb=5#Post168841" target=_blank>this story</a>. Congratulations and thanks to everyone who supported.  </td></tr>  </table></p>
+<a name="newsitem1109073534,86685,"></a><h2>Tuesday 22 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Now let's keep a cold Brain (tm) and use it properly</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:58AM [GMT]</small>  </th></tr>  <tr><td> Even when times are rough, <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=168607&page=0&view=expanded&mode=threaded&sb=5#Post168607" target=_blank>The Dumping Project</a> still needs your help, because regardless of what the actual situation might seem, MAME will keep going. So, please <a href="http://www.mameworld.net/donate.htm" target=_blank>donate</a> for this really rare game which needs to be preserved. Or just donate for anything you want.  </td></tr>  </table></p>
+<a name="newsitem1109027267,94205,"></a><h2>Monday 21 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>"Hello, I'd like to file a trademark claim for LearnToUseYerBrain(tm)"</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:07PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&entry=76627578" target=_blank>MAME(tm)</a>  </td></tr>  </table></p>
+<a name="newsitem1108584929,76007,"></a><h2>Wednesday 16 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Short but Sweet</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:15PM [GMT]</small>  </th></tr>  <tr><td> Just updated CAESAR for MAME v0.92. Got to fly... bye!  </td></tr>  </table></p>
+<a name="newsitem1108320790,18959,"></a><h2>Sunday 13 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The flying nun has landed</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:53PM [GMT]</small>  </th></tr>  <tr><td> It seems that last night <a href="http://www.mame.net/" target=_blank>MAME 0.92 "TNZS bugfix Vegas"</a> was released. Or this morning. I don't know, I'm tired and dizzy and confused and suffering a really severe hangover plus an important lack of sleep, so you can check the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a> by yourselves. If you haven't yet. Nite.  </td></tr>  </table></p>
+<a name="newsitem1107365192,9854,"></a><h2>Wednesday 2 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Six more weeks of winter! </strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:26PM [GMT]</small>  </th></tr>  <tr><td> <a href="http://www.groundhog.org/" target=_blank>Happy</a> <a href="http://www.stormfax.com/ghogday.htm" target=_blank>Groundhog</a> <a href="http://www.gojp.com/groundhog/" target=_blank>Day!</a>  </td></tr>  </table></p>
+
+
+</body></html>

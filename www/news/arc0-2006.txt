@@ -1,0 +1,10 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>January 2006</h1>
+<a name="newsitem1136312774,84195,"></a><h2>Tuesday 3 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The good, the bad, and the littletinywiny</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:26PM [GMT]</small>  </th></tr>  <tr><td> Sixtoe has updated <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a>. I guess that no matter how big the updates are, everyone has noticed that finally he added SNK NeoGeo MVS hardware ^_^<br><br>On other, smaller, saltless news, I've created a little application which loads a MAME-style XML file and allows you to filter out games based on a configurable filter, using number of players, cocktail support, etc. I've made a first public release of <a href="http://pi.logiqx.com/msieve/" target=_blank>MSieve 0.1</a> for testing, although I do plan to improve it and make a second release one of these days.  </td></tr>  </table></p>
+
+
+</body></html>

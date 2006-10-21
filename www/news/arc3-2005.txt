@@ -1,0 +1,38 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>April 2005</h1>
+<a name="newsitem1114727680,83715,"></a><h2>Thursday 28 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Neodammerung</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:34PM [BST]</small>  </th></tr>  <tr><td> <a href="http://www.come.to/blastar" target=_blank>Blastar</a> has made a new homebrew NeoGeo CD game: Codename - Blut Engel. It can be burned and played in your NeoCD console, or played thru an emulator. It's a shooter with simple graphics, but somehow I always find homebrew games in arcade hardware as "very cute" or better. Try it.  </td></tr>  </table></p>
+<a name="newsitem1114030415,36145,"></a><h2>Wednesday 20 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sad news from the penguin</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:53PM [BST]</small>  </th></tr>  <tr><td> After Haze left the MAME maintaining job to Aaron, Tux is doing the same with <a href="http://www.rainemu.com/" target=_blank>RAINE</a>. Read his post where he's saying that <a href="http://www.rainemu.com/msgboard/yabbse/index.php?topic=1034.0" target=_blank>he's not developing in RAINE anymore</a>. The sad thing is that there's no one else to maintain it from now on. He says he might do the odd maintenance release but no more serious developing. This means that one of my favorite emulators is going to hibernate until who knows when. In any case, many thanks to him for all this work with RAINE, he has pushed it to new levels. Hopefully, someone will want to take the chore, but until then, sleep well, my beloved emu!  </td></tr>  </table></p>
+<a name="newsitem1113614494,53800,"></a><h2>Saturday 16 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>He's back with all his toes</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:21AM [BST]</small>  </th></tr>  <tr><td> Some big update at <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a>. And I mean huge update, visit it while it's fresh, and take a look at all those, all those unemulated (sigh) games ^_^  </td></tr>  </table></p>
+<a name="newsitem1113516550,83932,"></a><h2>Thursday 14 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Good while it lasted</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:09PM [BST]</small>  </th></tr>  <tr><td> Sad news for me, because <a href="http://haze.mameworld.info/" target=_blank>Haze is retiring as MAME maintainer</a>. He has been a great maintainer IMHO, and has taken MAME several steps forward, easing and agilizing the development of this great emulator. He'll keep doing drivers, but now he's handing the maintenance job to <a href="http://www.aarongiles.com/" target=_blank>Aaron Giles</a>, so the project is still in good hands, we'll soon get to see how Aaron shapes the work.<br><br>On another topic, there's something strange happening at <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a>. The question is, rebuilding or abduction?  </td></tr>  </table></p>
+<a name="newsitem1113250386,70869,"></a><h2>Monday 11 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Eat in 3D</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:13PM [BST]</small>  </th></tr>  <tr><td> <a href="http://pacifi3d.retrogames.com/" target=_blank>Pacifi3D 0.3</a> has been released by Fosters, with sound, extra romsets, and some improvements over the last version. If you haven't tried this PacMan emulator with enhancements, you should...  </td></tr>  </table></p>
+<a name="newsitem1113169327,75155,"></a><h2>Sunday 10 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Talk talk talk</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:42PM [BST]</small>  </th></tr>  <tr><td> Now we have some boards to discuss all this stuff that the brit has been doing these years: sites, datafiles, utilities, etc. Visit <a href="http://www.logiqx.com/forum/" target=_blank>Logiqx's Forums</a>, and of course pay special attention to the <a href="http://www.logiqx.com/forum/viewforum.php?f=15" target=_blank>CAESAR / General board</a> where hopefully people will post news and discuss about arcade emulation.   </td></tr>  </table></p>
+<a name="newsitem1112905503,64143,"></a><h2>Thursday 7 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The new and improved "do and don't" of MAME</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:25PM [BST]</small>  </th></tr>  <tr><td> Today is the opening of <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a>. This is the official MAME development team site. No boards, no binaries, no nonsense, just the devs. Of course, also legal information and the new <a href="http://mamedev.com/license.html" target=_blank>MAME License</a>. Briefly, it's a modified BSD license with more restrictions, but it's very simple. Be sure to read it and you're informed, so you can open your mouth properly. Remember, knowledge is good.  </td></tr>  </table></p>
+<a name="newsitem1112694278,73531,"></a><h2>Tuesday 5 April</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The Real TGM</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:44AM [BST]</small>  </th></tr>  <tr><td> There are good news from <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=171274&page=0&view=expanded&mode=threaded&sb=5#Post171274" target=_blank>The Dumping Project</a>. Even Guru has run out of storage space! So some auctions will be done, some other PCB's are going to be won, and as usual they need some donations. Instructions at the end of the self-destructing message ^_^  </td></tr>  </table></p>
+
+
+</body></html>

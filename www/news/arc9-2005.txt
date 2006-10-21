@@ -1,0 +1,34 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>October 2005</h1>
+<a name="newsitem1130768586,91061,"></a><h2>Monday 31 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nicholas & Thomas</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:23PM [GMT]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/jemu2/index.html" target=_blank>JEmu2 1.8</a>. The main features of this release are a new 68k core (supposedly better, I guess) and the addition of Snow Bros., one of my all-time favorite platformers. He has also released <a href="http://cottage.consolemul.com/" target=_blank>CottAGE 1.6</a>, which is not available yet in the official site, but you can get it in the JEmu2 page (above) with some notes about it.  </td></tr>  </table></p>
+<a name="newsitem1129989546,99523,"></a><h2>Saturday 22 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The return of the CottAGE</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:59PM [BST]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/jemu2/index.html" target=_blank>JEmu2 1.7</a>. This new version raises the total number of games up to 50. There are 12 new games like Eyes, Ponpoko and Van-Van Car. So now it has 20 games with hi-scores and 22 with full sound, not bad with an emulator with that name ^_^ He is also announcing a CottAGE release very soon.  </td></tr>  </table></p>
+<a name="newsitem1129578449,2428,"></a><h2>Monday 17 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Solomon &amp; Dangerous</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:47PM [BST]</small>  </th></tr>  <tr><td> Gollum wrote me about the <a href="http://cottage.consolemul.com/" target=_blank>CottAGE/PotatoMulti</a> front. There's a first version you can try at the <a href="http://www.game-oldies.com/?m=list&a=viewlist&machine=arcade&page=0-9&view=thumb" target=_blank>Game-Oldies site</a>. This first version has 54 games, including the newly supported Commando and Solomon's Key. And I'd also like to mention <a href="http://www.bigorno.net/xrick/" target=_blank>xrick</a>, a rewrite of the Rick Dangerous engine. One of my favorite platformers of all time. Great!  </td></tr>  </table></p>
+<a name="newsitem1129376831,98691,"></a><h2>Saturday 15 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Strange fishes in the aquarium</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:47AM [BST]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/" target=_blank>JEmu2 1.6.2</a>. While it still has the same old name, and doesn't have any new game supported, this version has added the famous "fishbowl effect". It's a 3D rendering of the screen deformed to look like the good old curved arcade screens. You can check how it looks in <a href="http://www.retrogames.com/cgi-bin/wwwthreads/showpost.pl?Board=retrogen&Number=82792&page=0&view=expanded&mode=threaded&sb=5#Post82792" target=_blank>this post</a>, or better, you can try it by yourself visiting his site.  </td></tr>  </table></p>
+<a name="newsitem1128929396,43652,"></a><h2>Monday 10 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>2 weeks earlier than I expected</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:29AM [BST]</small>  </th></tr>  <tr><td> Yesterday it was released <a href="http://www.mame.net/" target=_blank>MAME 0.101 "Namco FL and DBZ VRVS"</a>. Binaries are ready and the <a href="http://mamedev.com/releases/whatsnew_0101.txt" target=_blank>changelog</a> is there too. Source code and documentation also at <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a> as usual. Along the usual updates and additions, you get Dragonball Z V.R.V.S. working (ugh), and also Golden Axe - The Duel. Worth noting is also the new automatic state saving and loading, which allows you to mimic the behaviour of never turning off the game, saving hi-scores and allowing for time-released features and stuff. Will this be the demise of hiscore.dat? Probably. A good release but still too early for my bday ^_^  </td></tr>  </table></p>
+<a name="newsitem1128316872,95597,"></a><h2>Monday 3 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Double moka with cpscream</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 5:21AM [BST]</small>  </th></tr>  <tr><td> I received two news about updated Java emus in a very short period of time, maybe it's a sign of the good shape of the Java side of emulation, or maybe it's just coincidence... In any case, Gollum told me about more <a href="http://cottage.consolemul.com/" target=_blank>PotatoMulti</a> news, you can see more Z80 based games in the WIP page, like Black Tiger, the Donkey Kong saga and some Lode Runners among others. They're polishing the emulator for an inminent release, so be ready. And Erik Duijs just released <a href="http://www.gagaplay.com/" target=_blank>JEmu2 1.6.1</a>. No new games, but now you have configurable input (a really useful feature in any emulator), and a faster CPS1 driver.  </td></tr>  </table></p>
+<a name="newsitem1128162465,77118,"></a><h2>Saturday 1 October</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Thanks for everything</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:27AM [BST]</small>  </th></tr>  <tr><td> After years of hard work in The Dumping Project, <a href="http://www.mame.net/cgi-bin/wwwthreads/showpost.pl?Board=mamegeneral&Number=181675&page=0&view=expanded&mode=threaded&sb=5#Post181675" target=_blank>Mr. Goodwraith has decided to retire</a>. I want to express my deepest thanks for his work on finding and preserving really rare stuff in danger of disappearing. And why not, also for getting more cool games to play ^_^ Now the MAME Targets was substituted this same week by <a href="http://www.mameworld.net/gurudumps/DumpingProject/index.html" target=_blank>The Wanted Dumps List</a> managed by The Guru, and you can still <a href="http://www.mameworld.net/donate.htm" target=_blank>donate to The Dumping Project</a> as usual.<br>  </td></tr>  </table></p>
+
+
+</body></html>

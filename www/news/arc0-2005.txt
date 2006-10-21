@@ -1,0 +1,70 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>January 2005</h1>
+<a name="newsitem1107101181,13249,"></a><h2>Sunday 30 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Now where did I left that CHD...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 3:06PM [GMT]</small>  </th></tr>  <tr><td> Yesterday <a href="http://www.mame.net/" target=_blank>MAME 0.91 "Sega and Arcadia updates"</a> was released. As the name suggest, the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a> contains quite some Sega and Arcadia improvements, along with fix ups in Kaneko, the debugger and (drum roll) Lethal Enforcers just to name a few. Oh, and <a href="http://haze.mameworld.info/" target=_blank>MAME 0.91u1</a> is already out, which fixes mainly a bug in the memory system. Note that 0.91u1 has Gauntlet Legends.  </td></tr>  </table></p>
+<a name="newsitem1106859670,64599,"></a><h2>Thursday 27 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New Releases</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 8:01PM [GMT]</small>  </th></tr>  <tr><td> Two of the popular emulators were updated in the last couple of days; FBA v0.2.95.23 and ZiNc v1.1. I have updated the data files at logiqx.com and the pages here at CAESAR.  </td></tr>  </table></p>
+<a name="newsitem1106487807,94990,"></a><h2>Sunday 23 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Another one eaten by the blog monster</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:43PM [GMT]</small>  </th></tr>  <tr><td> Well, this is interesting stuff since he has never been too publically available; it seems that <a href="http://mame.blogdrive.com/" target=_blank>Nicola Salmoria has opened a web blog</a>. There's already some MAME development explained by the very founder and creator of MAME. Great.  </td></tr>  </table></p>
+<a name="newsitem1106406372,22350,"></a><h2>Saturday 22 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>FBA Neo-Geo update!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 2:06PM [GMT]</small>  </th></tr>  <tr><td> I have updated the FBA page to include all of the latest game information. One of the biggest changes that I noticed (in addition to a few dozen new games) was the move to the modern MAME Neo-Geo sets. If I remember correctly, this was the last major emulator that needed to make the change (Nebula and Kawaks had already done so). I have also updated the Pacifi3D page for v0.2 which was released earlier this week.  </td></tr>  </table></p>
+<a name="newsitem1106137853,60942,"></a><h2>Wednesday 19 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Fighter Bomber Attack</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 11:30AM [GMT]</small>  </th></tr>  <tr><td> Uhm, a long time since I posted news about Final Burn Alpha, but here it is <a href="http://fba.emuunlim.com/" target=_blank>FBA 0.2.95.21</a>. There are a few new nice things, like a DX9 blitter, a new 68k core and a driver for 68EC020 based Psikyo hardware (which is great, imho).  </td></tr>  </table></p>
+<a name="newsitem1106004535,1219,"></a><h2>Monday 17 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Fried smashed potatoes go multidimensional</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:28PM [GMT]</small>  </th></tr>  <tr><td> Fosters has released <a href="http://pacifi3d.retrogames.com/" target=_blank>Pacifi3D 0.2</a>, with the promised chase and classic views, smooth camera turning, and a few more cool features. What a refreshing little toy.  </td></tr>  </table></p>
+<a name="newsitem1105898039,17802,"></a><h2>Sunday 16 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Emulator Additions</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 4:53PM [GMT]</small>  </th></tr>  <tr><td> I have added <a href="http://caesar.logiqx.com/html/emus/single/pacifi3d.shtml">Pacifi3D</a> and <a href="http://caesar.logiqx.com/html/emus/linux/gngeo.shtml">GNGEO</a> to CAESAR. In addition to this, I have also updated <a href="http://caesar.logiqx.com/html/emus/sound/neojukebox.shtml">NeoJukeBox</a> and <a href="http://caesar.logiqx.com/html/emus/multi/calice.shtml">Calice</a> to use the latest data files from Logiqx.com.  </td></tr>  </table></p>
+<a name="newsitem1105883794,24954,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Spam</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:56PM [GMT]</small>  </th></tr>  <tr><td> I just saw that there's some <a href="http://pacifi3d.retrogames.com/" target=_blank>Pacifi3D WIP</a> with chase and classic views. I really thought the only thing this emu needed was the chase camera, it would make it more playable, so I'm already awaiting the next version. Also I saw in the horizon the release of <a href="http://www.cps2shock.com/" target=_blank>Kawaks 1.53</a>, with support for more hacks, some fixes, and a no rotation option. You know, Kawaks is still my choice for NeoGeo and CPS emulation, what can I do...  </td></tr>  </table></p>
+<a name="newsitem1105644577,87048,"></a><h2>Thursday 13 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Moving, moving, moving</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:29PM [GMT]</small>  </th></tr>  <tr><td> Just a quick note to tell you that Pacifi3D, the Pacman 3D emulator, has a new homepage at ZTNet: <a href="http://pacifi3d.retrogames.com/" target=_blank>http://pacifi3d.retrogames.com/</a>. So write it down, shout it to Logiqx, continue with your RLS.  </td></tr>  </table></p>
+<a name="newsitem1105398877,76323,"></a><h2>Monday 10 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Renderizados todos!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:14PM [GMT]</small>  </th></tr>  <tr><td> Foster, the author of NeoCD/SDL, has released <a href="http://www.geocities.com/neocdsdl/pacifi3d.html" target=_blank>Pacifi3D 0.1</a>. That page is hosted at Geo-lowbandwidth-Cities, so Mr. Do has gently set up a <a href="http://www.mameworld.net/mrdo/pacifi3d.html" target=_blank>mirror</a>. I was gonna make another, but he was first. In short, this is a PacMan emulator, using the original roms, but substituting the usual sprites with 3D objects using polygons. The result is quite cute, and he has some improvements on the way. Try it!  </td></tr>  </table></p>
+<a name="newsitem1105300549,54289,"></a><h2>Sunday 9 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Established past year</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:55PM [GMT]</small>  </th></tr>  <tr><td> Continuing the new great tradition of lazy news, I'm gonna tell you that Sixtoe has made another big update at <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a>. The updates are scarce like whales, but big like... Whales.<br><br>Gerard has also been busy at <a href="http://www.arcadeflyers.com/" target=_blank>The Arcade Flyers Archive</a>, where a new Flyerpack for MAME has been released. This is brand new, so toss away the old ones and use these new flyers instead. More than 2,500 flyers included.<br><br>And a brief mention for <a href="http://unmamed.mame.net/" target=_blank>Bobby Tribble's unMAMEd arcade games</a>, updated again, and removing some really old Sega entries. Finally!  </td></tr>  </table></p>
+<a name="newsitem1105298562,36600,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Snaptastic!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 6:22PM [GMT]</small>  </th></tr>  <tr><td> Updated the MAME snapshots to Crashtest's latest and also updated the flyer images to yesterday's release at Arcade Flyers.  </td></tr>  </table></p>
+<a name="newsitem1104968962,80475,"></a><h2>Wednesday 5 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>MAME v0.90</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:49PM [GMT]</small>  </th></tr>  <tr><td> I have updated CAESAR accordingly and also done some spring cleaning behind the scenes!  </td></tr>  </table></p>
+<a name="newsitem1104880899,27537,"></a><h2>Tuesday 4 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Nothing else interesting has happened lately...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:21PM [GMT]</small>  </th></tr>  <tr><td> Today, <a href="http://www.mame.net/" target=_blank>MAME 0.90 "Sega Madness"</a> is available! This might be one of the best official releases of MAME, due to the great contents of the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a>. As the name suggest, this includes a lot of Sega improvements and fixes with stuff from System 16 to Model 3 (and the evil ST-V). Not only that, there has been a great revamping in the old Bubble Bobble driver, which is driving all the fans crazy of pleasure. ElSemi also submitted a quite working Crystal System driver, Derrick Renaud has added even more discrete sound components and functionality, and in short, there are lots of new stuff for everyone. So, there's only one thing left to do: enjoy!<br><br>On another technical shores, Bryan McPhail's <a href="http://www.vcmame.net/pcbtm/index.html" target=_blank>PCB Target Manager</a> has arrived. I'll try to explain it, if I got it right: it's an universal device to interface arcade pcb's to PC's, allowing trojaning and analisys of protection gadgets or encrypted CPU's. Pretty much as Charles McDonald's method of reading the protected CPU's, but geared towards any kind of chip. It uses a combination of custom hardware to link the pcb's and software to drive the tests. It will also allow programmers to test unknown functions in the target CPU's, analyze the meaning of obscure registers, and in general it seems to be a really great tool for emulation developers out there. Bryan says that hardware schematics and software will be available soon.  </td></tr>  </table></p>
+<a name="newsitem1104773604,95820,"></a><h2>Monday 3 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Two updates in a year... I'm on a roll!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 4:33PM [GMT]</small>  </th></tr>  <tr><td> I've updated some more pages for releases that I never dealt with last year:<br/><a href="http://caesar.logiqx.com/html/emus/java/jae.shtml">JAE</a><br/><a href="http://caesar.logiqx.com/html/emus/palmos/xcade_palmos.shtml">Xcade (Palm OS) v1.54</a><br/><a href="http://caesar.logiqx.com/html/emus/multi/astgl.shtml">ASTGL v0.9</a><br/><a href="http://caesar.logiqx.com/html/emus/multi/dsp.shtml">DSP v0.3 wip 6</a><br/><br/>I have also added pages for the following emulators:<br/><a href="http://caesar.logiqx.com/html/emus/java/playscott.shtml">Playscott v1.2</a><br/><a href="http://caesar.logiqx.com/html/emus/java/oldspark.shtml">OldSpark v0.3</a><br/><a href="http://caesar.logiqx.com/html/emus/multi2/laser_sdl.shtml">Laser SDL v1.0 rev 1</a><br/><br/>Outstanding updates are listed on the '<a href="http://caesar.logiqx.com/info/future.shtml">Future</a>' page.  </td></tr>  </table></p>
+<a name="newsitem1104618789,7831,"></a><h2>Saturday 1 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>A few updates...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:33PM [GMT]</small>  </th></tr>  <tr><td> I have added a few of the new emulators to CAESAR and even done snapshots for them; <a href="http://caesar.logiqx.com/html/emus/multi/crystal_system_emulator.shtml">Crystal System Emulator</a>, <a href="http://caesar.logiqx.com/html/emus/single/radikal_bikers_emulator.shtml">Radikal Bikers Emulator</a> and <a href="http://caesar.logiqx.com/html/emus/multi/tickle.shtml">Tickle</a>. I have also updated the pages for <a href="http://caesar.logiqx.com/html/emus/multi/kawaks.shtml">Kawaks</a>, <a href="http://caesar.logiqx.com/html/emus/multi/raine.shtml">RAINE</a> and <a href="http://caesar.logiqx.com/html/emus/multi/zinc.shtml">ZiNc</a> so the <a href="http://caesar.logiqx.com/html/emus/recent.shtml">Recent Emus</a> page is matching the <a href="http://www.logiqx.com/Dats/Dats.shtml">dats</a> page at Logiqx.com exactly now! Kawaks has been updated again today (Kawaks v1.51) but I haven't done the updates for Logiqx.com or CAESAR yet.  </td></tr>  </table></p>
+
+
+</body></html>

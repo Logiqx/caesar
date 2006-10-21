@@ -1,0 +1,22 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>May 2005</h1>
+<a name="newsitem1116875991,42360,"></a><h2>Monday 23 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Explore, harvest, fight, dance!</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:19PM [BST]</small>  </th></tr>  <tr><td> Ok, please let me tell you that here it is <a href="http://sc2.sf.net/" target=_blank>The Ur-Quan Masters 0.4.0</a>. This is the first fully functional and completely playable version of this remake of the 3DO version of the classic Star Control II. I've been playing it for awhile and it's truly great. Somewhere in the middle of Star Control, Elite and Noctis (if you know them). By all means, this is a highly recommended game with a big dose of retro feel, good music and deep gameplay. Try it!  </td></tr>  </table></p>
+<a name="newsitem1116089793,87795,"></a><h2>Saturday 14 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>For cooks and harvesters</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 4:56PM [BST]</small>  </th></tr>  <tr><td> After 18 months of inactivity, WTC has finally updated <a href="http://emustatus.rainemu.com/" target=_blank>Emustatus</a> with more than 200 new and 200 updated games, and some new protos and stuff. The update is quite big, so if you're a fan of information sites a la System16 and KLOV, then you'll be in your sauce. Ditto.  </td></tr>  </table></p>
+<a name="newsitem1115795407,65860,"></a><h2>Wednesday 11 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Oldies, oldies...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:10AM [BST]</small>  </th></tr>  <tr><td> This is not emulation, this is simulation, and it's a <a href="http://move.to/moose" target=_blank>Computer Space Simulator</a>. It's done by Moosehead, it's free, and has several features for playing this simulator of the first coin-op arcade ever. With more than 36 years behind it, this is the great grandpa of videogames.<br><br>And on other news, Yesterday it was the birthday of the grandpa and arguably most famous character of videogames: Pac-Man. And I have to say something about this... Wakawakawakawakawakawakawakawaka...  </td></tr>  </table></p>
+<a name="newsitem1115146701,54864,"></a><h2>Tuesday 3 May</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The end of the jokes</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:58PM [BST]</small>  </th></tr>  <tr><td> In Aaron's hands, the project has breeded its last creature, namely <a href="http://www.mame.net/" target=_blank>MAME 0.96</a> (no nickname yet). Updates available at <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a>. Checking the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a>, I noticed that Boogie Wings has been promoted from NON_WORKING. That really ends the need of reading the whatsnew for me, so I'm off to updating MAME, the needed roms, and check the very last game I had any curiosity into... Until TGM2 ^_^ Oh btw, please notice this is the very first official version with the license changed to the new BSD based license. Be good.  </td></tr>  </table></p>
+
+
+</body></html>

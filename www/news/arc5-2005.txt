@@ -1,0 +1,14 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>June 2005</h1>
+<a name="newsitem1118138149,82402,"></a><h2>Tuesday 7 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>If Gutenberg was aware of it...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:55AM [BST]</small>  </th></tr>  <tr><td> This time it goes about reading. If you remember how to do such thing between jumping over evil mushrooms and obliterating entire armies of alien ships, then go ahead. First one is a very interesting <a href="http://www.thehollywoodreporter.com/thr/columns/video_games_display.jsp?vnu_content_id=1000663278" target=_blank>article about game preservation</a>. Touches all aspects, is very well written and gives a good overview. The other side is about <a href="http://news.bbc.co.uk/1/hi/technology/4607449.stm" target=_blank>Pacman going to the streets, again</a>. I don't know if any of you remembers the similar framework used for a related project, posted here like 2 years ago. Oh, how old am I...  </td></tr>  </table></p>
+<a name="newsitem1117743825,24515,"></a><h2>Thursday 2 June</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The will of gawd</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:23PM [BST]</small>  </th></tr>  <tr><td> Aaron has pushed together all the submissions and released promptly on the beginning of this month <a href="http://www.mame.net/" target=_blank>MAME 0.97</a> (no nickname yet, no binaries available yet). Updates available at <a href="http://www.mamedev.com/" target=_blank>MAMEDev.com</a> as expected. Checking the <a href="http://www.mame.net/whatsnew.html" target=_blank>changelog</a> in a near future will reveal almost no changes, all of them happened in the u1-u4 cycle. The most famous change is controversial, so I'll only mention that the random resets of Galaxian have been fixed. Enjoy the release.  </td></tr>  </table></p>
+
+
+</body></html>

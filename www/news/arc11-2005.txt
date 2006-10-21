@@ -1,0 +1,22 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>December 2005</h1>
+<a name="newsitem1135948260,61283,"></a><h2>Friday 30 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The hour 103</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 12:11PM [GMT]</small>  </th></tr>  <tr><td> Well, Aaron gave us a New Year gift and released <a href="http://www.mamedev.com/" target=_blank>MAME 0.103</a>. Binaries should be ready anytime at <a href="http://www.mame.net/" target=_blank>mame.net</a>. Since I'm busy enjoying the end of year (programming), I'll not discuss much about the <a href="http://mamedev.com/releases/whatsnew_0103.txt" target=_blank>changelog</a>, althought I guess I can comment that the star this time is a huge STV improvement which makes a lot of games playable in high-end machines. This is also probably the last new post of the year, so on behalf of Logiqx and me, Happy New Year everyone!  </td></tr>  </table></p>
+<a name="newsitem1135350824,64064,"></a><h2>Friday 23 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>New, better versions</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:13PM [GMT]</small>  </th></tr>  <tr><td> Erik has released <a href="http://www.gagaplay.com/jemu2/index.html" target=_blank>JEmu2 1.9</a>. It's packed with quite many fixes, along with a good performance boost (claiming to be up to 50% in some cases). There are four new games, including Jr. Pacman with online high score support (great!) Many of the old CottAGE drivers have been replaced with new, better ones, although the work in that area hasn't finished yet.<br><br>Also, please allow me to pimp my new little utility <a href="http://www.euskalnet.net/pits/dupecrcdetect/" target=_blank>DupeCRCDetect 0.5.2</a>. It allows to detect and manage duplicated files. It's small but I think it does what it has to do in a nice way and with enough features to be useful. This release is supposedly bug-free, isn't that a bonus? ^_^  </td></tr>  </table></p>
+<a name="newsitem1133809911,91128,"></a><h2>Monday 5 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>After a long, long weekend...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:11PM [GMT]</small>  </th></tr>  <tr><td> Well, let's see what I've been missing lately. First, there was a nice update at <a href="http://www.system16.com/" target=_blank>System 16 - The Arcade Museum</a>. Quite enough new stuff to keep you entertained, and there's one which outstands by its weirdness: Renaming CPS2 to CP System II? Looks ugly, no matter how exact it is ^_^<br><br>More on CPS news, we got <a href="http://cps2shock.retrogames.com/" target=_blank>Kawaks 1.55</a> released over at CPS-2 Shock. Inline with the MAME drivers, and adding the new XORed Super Puzzle Fighter II clone, plus supporting some more hacks and bootlegs. There seems to be a bug in command-line usage so maybe there'll be a fix release soon, stay tuned.<br><br>And to finish the round of news, Erik wrote me about some <a href="http://www.gagaplay.com/jemu2/index.html" target=_blank>CottAGE WIP</a>. He's substituting the old, MAME-like drivers with new, fresh, better ones. He also told me other things, so congratulations ;)  </td></tr>  </table></p>
+<a name="newsitem1133464155,4271,"></a><h2>Thursday 1 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Sloth, sloth, sloth...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:09PM [GMT]</small>  </th></tr>  <tr><td> Slow news lately, uh? Well, Tormod has added an article about <a href="http://home.online.no/~tjaberg/" target=_blank>The Art Of CPS2 Battery Maintenance</a> which explains pretty well how to change battery for those depressed, suicidal CPS2 boards. I'm willing to take a CPS2 board with a game and a JAMMA cabinet to fully test the steps provided by the article ^_^<br><br>In other, more informal news, someone in some boards (forgot who, sorry) posted a link about an interesting and fun article about <a href="http://www.akihabaranews.com/en/news-10735-Robot+PacMan+(IREX+2005).html" target=_blank>The Pac-Man Robot</a>.  </td></tr>  </table></p>
+
+
+</body></html>
