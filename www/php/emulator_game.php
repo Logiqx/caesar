@@ -786,21 +786,19 @@
 								$class = ($class == 'even') ? 'odd' : 'even';
 							}
 
-							$orientation = 'horizontal';
-
-							if (isset($display ['orientation']))
+							if (isset($display ['x_orientation']))
 							{
 								echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
-								echo INDENT . TAB . TAB . '<td>Orientation: ' . $display ['orientation'] . '</td>' . LF;
+								echo INDENT . TAB . TAB . '<td>Orientation: ' . $display ['x_orientation'] . '</td>' . LF;
 								echo INDENT . TAB . '</tr>' . LF;
 
 								$class = ($class == 'even') ? 'odd' : 'even';
 							}
 
-							if (isset($display ['rotated_width']))
+							if (isset($display ['x_rotated_width']))
 							{
 								echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
-								echo INDENT . TAB . TAB . '<td>Resolution: ' . $display ['rotated_width'] . ' x ' . $display ['rotated_height'] . '</td>' . LF;
+								echo INDENT . TAB . TAB . '<td>Resolution: ' . $display ['x_rotated_width'] . ' x ' . $display ['x_rotated_height'] . '</td>' . LF;
 								echo INDENT . TAB . '</tr>' . LF;
 
 								$class = ($class == 'even') ? 'odd' : 'even';
