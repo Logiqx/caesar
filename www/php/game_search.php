@@ -62,6 +62,11 @@
 			else
 				$nonmame='';
 
+			if (isset($_GET['sourcefile']))
+				$sourcefile=$_GET['sourcefile'];
+			else
+				$sourcefile='';
+
 			if (isset($_GET['sort']))
 				$sort=$_GET['sort'];
 			else
@@ -127,6 +132,16 @@
 				$args = $args . 'nonmame=' . $nonmame;
 
 				$query = $query . " AND x_nonmame_ind=1";
+			}
+
+			if ($sourcefile != '')
+			{
+				if ($args != '' )
+					$args = $args . '&amp;';
+
+				$args = $args . 'sourcefile=' . $sourcefile;
+
+				$query = $query . " AND game_sourcefile='" . $sourcefile . "'";
 			}
 
 			if ($desc != '')
@@ -203,7 +218,7 @@
 				$query = $query . " ORDER BY description, year, manufacturer";
 			}
 
-			if ($desc != '' || $manu != '' || $year != '' || $nonmame != '')
+			if ($desc != '' || $manu != '' || $year != '' || $nonmame != '' || $sourcefile != '')
 			{
 				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
