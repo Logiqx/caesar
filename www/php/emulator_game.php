@@ -475,21 +475,37 @@
 
 								$sourcefile = isset($row ['game_sourcefile']) ? $row ['game_sourcefile'] : '';
 
-								if ($sourcefile == 'nbmj8688.c')
-								{
-									$aspectx = 85;    // 896;
-									$aspecty = 100;   // 1056;
-								}
-								else if ($wide_error <= $tall_error && $wide_error <= $basic_error)
+								// Are the displays are arranged horizontally?
+								if ($wide_error <= $tall_error && $wide_error <= $basic_error)
 								{
 									$aspectx = $sum_aspectx;
 									$aspecty = $max_aspecty;
 								}
-								else if ($tall_error <= $basic_error && $sourcefile != 'cyberbal.c')
+
+								// Are the displays are arranged vertically?
+								else if ($tall_error <= $basic_error)
 								{
-									$aspectx = $max_aspectx;
-									$aspecty = $sum_aspecty;
+									if ($sourcefile == 'cyberbal.c')
+									{
+										// Cyberball snapshots are not dual screen (odd resolution)!
+										$aspectx = $max_aspectx;
+										$aspecty = $max_aspecty;
+									}
+									else if ($sourcefile == 'nbmj8688.c')
+									{
+										// The freakiest of aspect ratios (see housemnq cabinet)!
+										$aspectx = 85;    // 896 in MAME v0.106;
+										$aspecty = 100;   // 1056 in MAME v0.106;
+									}
+									else
+									{
+										// Assume standard 4:3 / 3:4 displays arranged vertically!
+										$aspectx = $max_aspectx;
+										$aspecty = $sum_aspecty;
+									}
 								}
+
+								// Appears to be a basic display (i.e. single screen)!
 								else
 								{
 									$aspectx = $max_aspectx;
