@@ -7,7 +7,7 @@ dle11,dle11,n
 esh,esh,n
 galaxy,galaxy,n
 blazer,sblazer,n
-lair,lair,n
+lair,dlair,m
 sdq,sdq,n
 sdqshort,sdqshort,n
 tq,tq,n
@@ -22,12 +22,12 @@ bega,bega,n
 begarev1,begarev1,n
 eshalt1,eshalt1,n
 eshalt2,eshalt2,n
-lairreva,lairreva,n
-lairrevb,lairrevb,n
-lairrevc,lairrevc,n
-lairrevd,lairrevd,n
-lairreve,lairreve,n
-lairrevf,lairrevf,n
+lairreva,dlaira,m
+lairrevb,dlairb,m
+lairrevc,dlairc,m
+lairrevd,dlaird,m
+lairreve,dlaire,m
+lairrevf,dlairf,m
 badlandh,badlandh,n
 cobra,cobra,n
 cobraconv,cobraconv,n
@@ -49,7 +49,7 @@ lair2_317,lair2_317,n
 lair2_318,lair2_318,n
 lair2_319e,lair2_319e,n
 lair2_319es,lair2_319es,n
-laireuro,dlair,m
+laireuro,laireuro,n
 lgp,lgp,n
 mach3,mach3,m
 multicputest,multicputest,n
@@ -59,4 +59,3 @@ timetrav,timetrav,n
 tqalt,tqalt,n
 tqhack,tqhack,n
 uvt,usvsthem,m
-

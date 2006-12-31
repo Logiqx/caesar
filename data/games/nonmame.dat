@@ -220,25 +220,6 @@ game (
 // Games that are not in MAME
 
 game (
-	name jgokushi
-	description "Jyangokushi: Haoh no Saihai (Japan 990527)"
-	year 1999
-	manufacturer "Capcom"
-	rom ( name majj.03 size 524288 crc 4614a3b2 sha1 f7226006feafaf561046ae7fce18bf62289d41df )
-	rom ( name maj-sim.01c size 2097152 crc ba0fe27b sha1 60a4fdee8da663777af1e126a1aa6308c9d9a5a9 )
-	rom ( name maj-sim.01d size 2097152 crc 2cd141bf sha1 57ec73ea24d594fc1e4d2d194a3c548a7043666e )
-	rom ( name maj-sim.01a size 2097152 crc e29e4c26 sha1 51e99536f40481c4c208695354e90fb3fe9416d5 )
-	rom ( name maj-sim.01b size 2097152 crc 7f68b88a sha1 944bf34dc998dffe39b25c3e9fcec17ad421ce81 )
-	rom ( name maj-sim.03c size 2097152 crc 3aaeb90b sha1 d426d5c7ae5ca99321ec1280abdd1fdfe4882829 )
-	rom ( name maj-sim.03d size 2097152 crc 97894cea sha1 a501cd80e6da75409e3381d66bd0a13e021e89f3 )
-	rom ( name maj-sim.03a size 2097152 crc ec737d9d sha1 cfff42cc24ac011fab2670dec42cab16f4e0d84d )
-	rom ( name maj-sim.03b size 2097152 crc c23b6f22 sha1 fb3120ea28c67ecb7c4a2b61a64feb62c033ef68 )
-	rom ( name maj.01 size 131072 crc 1fe8c213 sha1 e0045566337851d8261ed65d5bea483f09ae96b4 )
-	rom ( name maj-sim.05a size 2097152 crc 4cb79672 sha1 c5552b279a8573352c865323c834905b6b3d5ee7 )
-	rom ( name maj-sim.05b size 2097152 crc e5f2e14a sha1 2c478ca4f1a5848bb7e5aa72b416d6cf9e50b7b5 )
-)
-
-game (
 	name hsf2j
 	description "Hyper Street Fighter II: The Anniversary Edition (Japan 031222)"
 	year 2004
@@ -2558,96 +2539,15 @@ game (
 )
 
 game (
-	name lair
-	description "Dragon's Lair (US revision F2)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	rom ( name dl_f2_u1.bin size 8192 crc f5ea3b9d )
-	rom ( name dl_f2_u2.bin size 8192 crc dcc1dff2 )
-	rom ( name dl_f2_u3.bin size 8192 crc ab514e5b )
-	rom ( name dl_f2_u4.bin size 8192 crc f5ec23d2 )
-)
-
-game (
-	name lairrevf
-	description "Dragon's Lair (US revision F)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_f_u1.bin size 8192 crc 06fc6941 )
-	rom ( name dl_f_u2.bin size 8192 crc dcc1dff2 )
-	rom ( name dl_f_u3.bin size 8192 crc ab514e5b )
-	rom ( name dl_f_u4.bin size 8192 crc a817324e )
-)
-
-game (
-	name lairreve
-	description "Dragon's Lair (US revision E)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_e_u1.bin size 8192 crc 02980426 )
-	rom ( name dl_e_u2.bin size 8192 crc 979d4c97 )
-	rom ( name dl_e_u3.bin size 8192 crc 897bf075 )
-	rom ( name dl_e_u4.bin size 8192 crc 4ebffba5 )
-)
-
-game (
-	name lairreva
-	description "Dragon's Lair (US revision A)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_a_u1.bin size 8192 crc d76e83ec )
-	rom ( name dl_a_u2.bin size 8192 crc a6a723d8 )
-	rom ( name dl_a_u3.bin size 8192 crc 52c59014 )
-	rom ( name dl_a_u4.bin size 8192 crc 924d12f2 )
-	rom ( name dl_a_u5.bin size 8192 crc 6ec2f9c1 )
-)
-
-game (
-	name lairrevb
-	description "Dragon's Lair (US revision B)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_b_u1.bin size 8192 crc d76e83ec )
-	rom ( name dl_b_u2.bin size 8192 crc 6751103d )
-	rom ( name dl_b_u3.bin size 8192 crc 52c59014 )
-	rom ( name dl_b_u4.bin size 8192 crc 924d12f2 )
-	rom ( name dl_b_u5.bin size 8192 crc 6ec2f9c1 )
-)
-
-game (
-	name lairrevc
-	description "Dragon's Lair (US revision C)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_c_u1.bin size 8192 crc cebfe26a )
-	rom ( name dl_c_u2.bin size 8192 crc 6751103d )
-	rom ( name dl_c_u3.bin size 8192 crc 52c59014 )
-	rom ( name dl_c_u4.bin size 8192 crc 924d12f2 )
-	rom ( name dl_c_u5.bin size 8192 crc 6ec2f9c1 )
-)
-
-game (
-	name lairrevd
-	description "Dragon's Lair (US revision D)"
-	year 1983
-	manufacturer "Starcom / Cinematronics"
-	cloneof lair
-	romof lair
-	rom ( name dl_d_u1.bin size 8192 crc 0b5ab120 )
-	rom ( name dl_d_u2.bin size 8192 crc 93ebfffb )
-	rom ( name dl_d_u3.bin size 8192 crc 22e6591f )
-	rom ( name dl_d_u4.bin size 8192 crc 5f7212cb )
-	rom ( name dl_d_u5.bin size 8192 crc 2b469c89 )
+	name laireuro
+	description "Dragon's Lair (Europe)"
+	year 1984
+	manufacturer "Atari (Europe)"
+	rom ( name u45 size 8192 crc 4d3a9eac sha1 e6cd274b4a0f92b1fb1f013f80f6fd2db3212431 )
+	rom ( name u46 size 8192 crc 8479612b sha1 b5543a06928274bde0e1bdda0747d936feaff177 )
+	rom ( name u47 size 8192 crc 6a66f6b4 sha1 2bee981870e61977565439c34568952043656cfa )
+	rom ( name u48 size 8192 crc 36575106 sha1 178e26e7d5c7f879bc55c2fb170f3bb47a709610 )
+	rom ( name u33 size 8192 crc e7506d96 sha1 610ae25bd8db13b18b9e681e855ffa978043255b )
 )
 
 game (

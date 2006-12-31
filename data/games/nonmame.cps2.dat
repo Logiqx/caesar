@@ -5,25 +5,6 @@
 // Games that are not in MAME
 
 game (
-	name jgokushi
-	description "Jyangokushi: Haoh no Saihai (Japan 990527)"
-	year 1999
-	manufacturer "Capcom"
-	rom ( name majj.03 size 524288 crc 4614a3b2 sha1 f7226006feafaf561046ae7fce18bf62289d41df )
-	rom ( name maj-sim.01c size 2097152 crc ba0fe27b sha1 60a4fdee8da663777af1e126a1aa6308c9d9a5a9 )
-	rom ( name maj-sim.01d size 2097152 crc 2cd141bf sha1 57ec73ea24d594fc1e4d2d194a3c548a7043666e )
-	rom ( name maj-sim.01a size 2097152 crc e29e4c26 sha1 51e99536f40481c4c208695354e90fb3fe9416d5 )
-	rom ( name maj-sim.01b size 2097152 crc 7f68b88a sha1 944bf34dc998dffe39b25c3e9fcec17ad421ce81 )
-	rom ( name maj-sim.03c size 2097152 crc 3aaeb90b sha1 d426d5c7ae5ca99321ec1280abdd1fdfe4882829 )
-	rom ( name maj-sim.03d size 2097152 crc 97894cea sha1 a501cd80e6da75409e3381d66bd0a13e021e89f3 )
-	rom ( name maj-sim.03a size 2097152 crc ec737d9d sha1 cfff42cc24ac011fab2670dec42cab16f4e0d84d )
-	rom ( name maj-sim.03b size 2097152 crc c23b6f22 sha1 fb3120ea28c67ecb7c4a2b61a64feb62c033ef68 )
-	rom ( name maj.01 size 131072 crc 1fe8c213 sha1 e0045566337851d8261ed65d5bea483f09ae96b4 )
-	rom ( name maj-sim.05a size 2097152 crc 4cb79672 sha1 c5552b279a8573352c865323c834905b6b3d5ee7 )
-	rom ( name maj-sim.05b size 2097152 crc e5f2e14a sha1 2c478ca4f1a5848bb7e5aa72b416d6cf9e50b7b5 )
-)
-
-game (
 	name hsf2j
 	description "Hyper Street Fighter II: The Anniversary Edition (Japan 031222)"
 	year 2004
