@@ -5,6 +5,32 @@
 // Games that are not in MAME
 
 game (
+	name pzloop2
+	description "Puzz Loop 2 (Euro 010302)"
+	year 2001
+	manufacturer "Mitchell, distributed by Capcom"
+	rom ( name pl2e.03 size 524288 crc 3b1285b2 sha1 f90f98fb15068306a57109ad954845be0a99e8ab )
+	rom ( name pl2e.04 size 524288 crc 40a2d647 sha1 d1c5fa87b368efe0d2cc3f614d0165bd95748b81 )
+	rom ( name pl2e.05 size 524288 crc 0f11d818 sha1 ca2d5ea892aebfa1a2a825fb45c57b7923936917 )
+	rom ( name pl2e.06 size 524288 crc 86fbbdf4 sha1 325ba5dc54f3d82f39e1299d5f27de7227a458b2 )
+	rom ( name pl2ex.03 size 524288 crc 816cbbd9 sha1 2167bfdf18b1d6253be233e4d5e5a958effbb854 )
+	rom ( name pl2ex.04 size 524288 crc 41c19742 sha1 3da08184e944221d4e5584844b04af338aed0938 )
+	rom ( name pl2ex.05 size 524288 crc fe0eb38b sha1 9ea5aa8a3e79596513b237caa00deb1771e22b19 )
+	rom ( name pl2ex.06 size 524288 crc 491919eb sha1 1c38b317d7f49e22af30d32e8d361233f91e02da )
+	rom ( name pl2-simm.01c size 2097152 crc 137b13a7 sha1 a1ca1bc8699ddfc54d5de1b39a9db9a5ac8b12e5 )
+	rom ( name pl2-simm.01d size 2097152 crc a2db1507 sha1 61c84c8d698a846d54a571b5f7b4824e22136db7 )
+	rom ( name pl2-simm.01a size 2097152 crc 7e80ff8e sha1 afcebfa995ace8b8973e75f1589980c5c4535bca )
+	rom ( name pl2-simm.01b size 2097152 crc cd93e6ed sha1 e4afce48fe481d8291ed2475d5de446afad65351 )
+	rom ( name pl2-simm.03c size 2097152 crc 0f52bbca sha1 e76c29d445062f5e16d06bdc4ab44640ba35aaac )
+	rom ( name pl2-simm.03d size 2097152 crc a62712c3 sha1 2abfe0209e188010a0ae969f0d9eb7d28820b3f2 )
+	rom ( name pl2-simm.03a size 2097152 crc b60c9f8e sha1 40c7985e04463fb2bd59b3bb6aa5897328d37ff3 )
+	rom ( name pl2-simm.03b size 2097152 crc 83fef284 sha1 ef4429f54c456d6485a7d642d49dffafef4435fe )
+	rom ( name pl2.01 size 131072 crc 35697569 sha1 13718923cffb9ec53cef9e22d8875370b5f3dd74 )
+	rom ( name pl2-simm.05a size 2097152 crc 85d8fbe8 sha1 c19d5e9084d07e610379b6e1b6be7bdf0b9b7f7f )
+	rom ( name pl2-simm.05b size 2097152 crc 1ed62584 sha1 28411f610f48cca6424a2d53e2a4ac691e826317 )
+)
+
+game (
 	name hsf2j
 	description "Hyper Street Fighter II: The Anniversary Edition (Japan 031222)"
 	year 2004
