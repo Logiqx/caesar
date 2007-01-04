@@ -190,6 +190,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name 263-p1.bin merge 263-p1.bin size 1048576 crc 27e4def3 sha1 a08785e8145981bb6b5332a3b2df7eb321253cca )
 	rom ( name 263-p2.bin merge 263-p2.bin size 4194304 crc fdb7aed8 sha1 dbeaec38f44e58ffedba99e70fa1439c2bf0dfa3 )
+	rom ( name 263-m1.bin merge 263-m1.bin size 65536 crc 38ffad14 sha1 03d526a887aad28306400c21abd131b9c301c221 )
 	rom ( name 263-m1_decrypted.bin merge 263-m1_decrypted.bin size 65536 crc 0c4c42f8 sha1 b7be47d909f5e4fcfe769ead0653d40e1e708d36 )
 	rom ( name 263-v1.bin merge 263-v1.bin size 8388608 crc 01e9b9cd sha1 0b045c2999449f7dab5ae8a42e957d5b6650431e )
 	rom ( name 263-v2.bin merge 263-v2.bin size 8388608 crc 4ab2bf81 sha1 77ccfa48f7e3daddef5fe5229a0093eb2f803742 )
