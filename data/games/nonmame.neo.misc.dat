@@ -10,8 +10,8 @@ game (
 	year 2002
 	manufacturer "NeoDev"
 	romof neogeo
-	rom ( name pong_p1.rom size 131072 crc 9f35e29d sha1 261ce9305950debbc2fe088a45ab0fa83d6cf10d )
-	rom ( name pong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
+	rom ( name neopong_p1.rom size 131072 crc 9f35e29d sha1 261ce9305950debbc2fe088a45ab0fa83d6cf10d )
+	rom ( name neopong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
@@ -22,11 +22,11 @@ game (
 	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
 	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
 	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
-	rom ( name pong_m1.rom size 131072 crc 78c851cb sha1 a9923c002e4e2171a564af45cff0958c5d57b275 )
+	rom ( name neopong_m1.rom size 131072 crc 78c851cb sha1 a9923c002e4e2171a564af45cff0958c5d57b275 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
-	rom ( name pong_v1.rom size 2097152 crc 6c31223c sha1 ede3a2806d7d872a0f737626a23ecce200b534e6 )
-	rom ( name pong_c1.rom size 1048576 crc f5a57d1a sha1 781170ae439f48fcbcee6af4cb3a1367dbb70498 )
-	rom ( name pong_c2.rom size 1048576 crc affde64e sha1 25ba8b4f6f961027d97d35f13cebeaee2dbb6f5a )
+	rom ( name neopong_v1.rom size 2097152 crc 6c31223c sha1 ede3a2806d7d872a0f737626a23ecce200b534e6 )
+	rom ( name neopong_c1.rom size 1048576 crc f5a57d1a sha1 781170ae439f48fcbcee6af4cb3a1367dbb70498 )
+	rom ( name neopong_c2.rom size 1048576 crc affde64e sha1 25ba8b4f6f961027d97d35f13cebeaee2dbb6f5a )
 )
 
 game (
@@ -36,8 +36,8 @@ game (
 	manufacturer "NeoDev"
 	cloneof neopong
 	romof neopong
-	rom ( name pong0_p1.rom size 131072 crc 31b724d7 sha1 e374613609aeda64b547d8ce38d2078b6ed55ad5 )
-	rom ( name pong_s1.rom merge pong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
+	rom ( name neopong0_p1.rom size 131072 crc 31b724d7 sha1 e374613609aeda64b547d8ce38d2078b6ed55ad5 )
+	rom ( name neopong_s1.rom merge pong_s1.rom size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
@@ -48,11 +48,11 @@ game (
 	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
 	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
 	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
-	rom ( name pong0_m1.rom size 131072 crc 9c0291ea sha1 3fa67c62acba79be6b3a98cc1601e45569fa11ae )
+	rom ( name neopong0_m1.rom size 131072 crc 9c0291ea sha1 3fa67c62acba79be6b3a98cc1601e45569fa11ae )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
-	rom ( name pong0_v1.rom size 524288 crc debeb8fb sha1 49a3d3578c087f1a0050168571ef8d1b08c5dc05 )
-	rom ( name pong0_c1.rom size 1048576 crc d7587282 sha1 6fbc317dede78265dc4cfd2a6d79968320b8fd50 )
-	rom ( name pong0_c2.rom size 1048576 crc fefc9d06 sha1 f191bcd3683a184b5a7d6046156e0b2bca231e95 )
+	rom ( name neopong0_v1.rom size 524288 crc debeb8fb sha1 49a3d3578c087f1a0050168571ef8d1b08c5dc05 )
+	rom ( name neopong0_c1.rom size 1048576 crc d7587282 sha1 6fbc317dede78265dc4cfd2a6d79968320b8fd50 )
+	rom ( name neopong0_c2.rom size 1048576 crc fefc9d06 sha1 f191bcd3683a184b5a7d6046156e0b2bca231e95 )
 )
 
 game (
