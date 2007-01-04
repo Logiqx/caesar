@@ -12,4 +12,7 @@ notepad mamediff.log
 mamediff -v nonmame.neo.misc.dat "H:\Logiqx\Dats\Recent\Systems\Neo-Geo\Neo-Geo YYYYMMDD (Misc).dat"
 notepad mamediff.log
 
+mamediff -v nonmame.neo.decrypted.dat "H:\Logiqx\Dats\Recent\Systems\Neo-Geo\Neo-Geo YYYYMMDD (Decrypted).dat"
+notepad mamediff.log
+
 rm -f mamediff.log mamediff.out
