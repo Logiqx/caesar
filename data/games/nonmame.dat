@@ -3281,6 +3281,23 @@ game (
 ################################################################################
 
 game (
+	name multi15
+	description "MultiPac 1.5"
+	year 1998
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name mpexe15.bin size 524288 crc eb181a29 sha1 14a44730d36c25c76ae68cbfd51febda9d8d1dfa )
+	rom ( name mpgfx15.bin size 131072 crc 012fb9ec sha1 e4b5647f27f5ddad0bb5580736d6acd3a86cdcf7 )
+	rom ( name pal_7f.bin size 256 crc 40a5c3d9 sha1 c159fe5ab64b9eb51a28ccd051fae219d2125577 )
+	rom ( name clut_4a.bin size 1024 crc 562a66de sha1 1281a7585f833b9f93269b14369e1c8df09f2292 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	archive ( name "multi15" )
+)
+
+game (
 	name kgpe
 	description "Kingdom Grand Prix" japanese "éæïóñÇñ@µÂçÏê°"
 	manufacturer "Raizing"

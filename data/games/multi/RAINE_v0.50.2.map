@@ -45,15 +45,11 @@ chaknpop,chaknpop,m
 champwr,champwr,m
 champwrj,champwrj,m
 champwru,champwru,m
-chasehq,chasehq,m
 sci,sci,m
-chasehqj,chasehqj,m
 sciu,sciu,m
 chimerab,chimerab,m
 chukatai,chukatai,m
 cleopatr,cleopatr,m
-contcrcu,contcrcu,m
-contcirc,contcirc,m
 crimecu,crimecu,m
 ctribeb,ctribeb,m
 cupfinal,cupfinal,m
@@ -144,7 +140,6 @@ mnight,mnight,m
 mofflott,mofflott,m
 mustang,mustang,m
 nastar,nastar,m
-nightstr,nightstr,m
 ninjak,ninjak,m
 ninjakd2,ninjakd2,m
 ninjaw,ninjaw,m
@@ -212,7 +207,6 @@ snowbros,snowbros,m
 soldamj,soldamj,m
 solfigtr,solfigtr,m
 spacedxj,spacedxj,m
-spacegun,spacegun,m
 akkanvdr,akkanvdr,m
 ssi,ssi,m
 stdragon,stdragon,m
@@ -571,3 +565,4 @@ ffightua,ffightua,m
 fixeighb,fixeighb,m
 sf2hf,sf2hf,m
 varth,varth,m
+multi15,multi15,n

@@ -1,8 +1,8 @@
 clrmamepro (
 	name RAINE
-	description "RAINE v0.43.4"
+	description "RAINE v0.50.2"
 	category "Multi Game Arcade Emulator"
-	version 20060828
+	version 20070129
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -1994,75 +1994,6 @@ game (
 )
 
 game (
-	name chasehq
-	description "Chase HQ"
-	year 1988
-	manufacturer "Taito"
-	board "B52"
-	rom ( name b52-28.4 size 524288 crc 963bc82b sha1 e3558aecd1b82ddbf10ab2b71843a3664705f1f1 )
-	rom ( name b52-29.27 size 524288 crc 8366d27c sha1 d7c5f588b39742927228ce73e5d69bda1e903df6 )
-	rom ( name b52-30.4 size 524288 crc 1b8cc647 sha1 8807fe01b6804507564fc179adf995bf86521fda )
-	rom ( name b52-31.6 size 524288 crc f1998e20 sha1 b03d4e373e88933391f3533b885817edfca4cfdf )
-	rom ( name b52-32.8 size 524288 crc 8620780c sha1 2545fd8fb03dcddc3da86d5ea06a6dc915acd1a1 )
-	rom ( name b52-33.10 size 524288 crc e6f4b8c4 sha1 8d15c75a16953aa56fb3dc6fd3b691e227bef622 )
-	rom ( name b52-34.5 size 524288 crc 7d8dce36 sha1 ca082e647d10378144c05a70a8e4fe352d95eeaf )
-	rom ( name b52-35.7 size 524288 crc 78eeec0d sha1 2e82186ca17c579816865ef21c52aef9e133fbf5 )
-	rom ( name b52-36.9 size 524288 crc 61e89e91 sha1 f655b3caa37a8835c2eb11f4d72e985636ac5379 )
-	rom ( name b52-37.11 size 524288 crc f02e47b9 sha1 093864bd18bd58dafa57990e999f394ca3124452 )
-	rom ( name b52-38.34 size 524288 crc 5b5bf7f6 sha1 71dd5b40b83870d351c9ecaccc4fb98c3a6740ae )
-	rom ( name b52-50.66 size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
-	rom ( name b52-51.65 size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
-	rom ( name b52-129.30 size 131072 crc 0eaebc08 sha1 1dde3304b251ddeb52f1378ef3845269c3667169 )
-	rom ( name b52-130.36 size 131072 crc 4e7beb46 sha1 b8890c4a2121aa93cfc3a41ddbb3b840d0804cfa )
-	rom ( name b52-131.37 size 131072 crc aa945d83 sha1 9d8a8186a199cacc0e24cf1ee75d81ab8b056406 )
-	rom ( name b52-132.39 size 65536 crc a2f54789 sha1 941a6470e3a5ae35d079657260a8d7d6a9fca122 )
-	rom ( name b52-133.55 size 65536 crc 12232f95 sha1 2894b95fc1d0a6e5b323bf3e7f1968f02b30a845 )
-	rom ( name b52-136.29 size 131072 crc 2f414df0 sha1 0daad8b1f7512a5af0722983751841b5b18064ac )
-	rom ( name b52-137.51 size 65536 crc 37abb74a sha1 1feb1e49102c13a90e02c150472545cd9f6334da )
-	rom ( name b52-113.73 size 524288 crc 2c6a3a05 sha1 f2f0dfbbbb6930bf53025064ebae9c07a95c6deb )
-	rom ( name b52-114.72 size 524288 crc 3a73d6b1 sha1 419f02a875b30913331db207e344d0eaa275297e )
-	rom ( name b52-115.71 size 524288 crc 4e117e93 sha1 51d893fa21793335878c76f6d5987d99da60be04 )
-	rom ( name b52-116.70 size 524288 crc ad46983c sha1 6fcad67456fbd8c967cd4786815f70b57a24a969 )
-	archive ( name "chase_hq" name "chasehq" )
-)
-
-game (
-	name chasehqj
-	description "Chase HQ (Japan)"
-	year 1988
-	manufacturer "Taito"
-	cloneof chasehq
-	romof chasehq
-	board "B52"
-	rom ( name b52-28.4 merge b52-28.4 size 524288 crc 963bc82b sha1 e3558aecd1b82ddbf10ab2b71843a3664705f1f1 )
-	rom ( name b52-29.27 merge b52-29.27 size 524288 crc 8366d27c sha1 d7c5f588b39742927228ce73e5d69bda1e903df6 )
-	rom ( name b52-30.4 merge b52-30.4 size 524288 crc 1b8cc647 sha1 8807fe01b6804507564fc179adf995bf86521fda )
-	rom ( name b52-31.6 merge b52-31.6 size 524288 crc f1998e20 sha1 b03d4e373e88933391f3533b885817edfca4cfdf )
-	rom ( name b52-32.8 merge b52-32.8 size 524288 crc 8620780c sha1 2545fd8fb03dcddc3da86d5ea06a6dc915acd1a1 )
-	rom ( name b52-33.10 merge b52-33.10 size 524288 crc e6f4b8c4 sha1 8d15c75a16953aa56fb3dc6fd3b691e227bef622 )
-	rom ( name b52-34.5 merge b52-34.5 size 524288 crc 7d8dce36 sha1 ca082e647d10378144c05a70a8e4fe352d95eeaf )
-	rom ( name b52-35.7 merge b52-35.7 size 524288 crc 78eeec0d sha1 2e82186ca17c579816865ef21c52aef9e133fbf5 )
-	rom ( name b52-36.9 merge b52-36.9 size 524288 crc 61e89e91 sha1 f655b3caa37a8835c2eb11f4d72e985636ac5379 )
-	rom ( name b52-37.11 merge b52-37.11 size 524288 crc f02e47b9 sha1 093864bd18bd58dafa57990e999f394ca3124452 )
-	rom ( name b52-38.34 merge b52-38.34 size 524288 crc 5b5bf7f6 sha1 71dd5b40b83870d351c9ecaccc4fb98c3a6740ae )
-	rom ( name b52-50.66 merge b52-50.66 size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
-	rom ( name b52-51.65 merge b52-51.65 size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
-	rom ( name b52-129.30 merge b52-129.30 size 131072 crc 0eaebc08 sha1 1dde3304b251ddeb52f1378ef3845269c3667169 )
-	rom ( name b52-140.36 size 131072 crc c1298a4b sha1 41981b72c9ebbea8f8a4aa32e74b9ed46dd71e32 )
-	rom ( name b52-131.37 merge b52-131.37 size 131072 crc aa945d83 sha1 9d8a8186a199cacc0e24cf1ee75d81ab8b056406 )
-	rom ( name b52-132.39 merge b52-132.39 size 65536 crc a2f54789 sha1 941a6470e3a5ae35d079657260a8d7d6a9fca122 )
-	rom ( name b52-133.55 merge b52-133.55 size 65536 crc 12232f95 sha1 2894b95fc1d0a6e5b323bf3e7f1968f02b30a845 )
-	rom ( name b52-139.29 size 131072 crc 997f732e sha1 0f7bd4b3c53e1f14830b3c288f2175e7c125c2cc )
-	rom ( name b52-134.51 size 65536 crc 91faac7f sha1 05f00e0909444566877d0ef678bae49f107e1628 )
-	rom ( name b52-39.73 size 524288 crc ac9cbbd3 sha1 792f41fef37ff35067fd0173d944f90279176649 )
-	rom ( name b52-40.72 size 524288 crc f0551055 sha1 4498cd058a52d5e87c6d502e844908a5df3abf2a )
-	rom ( name b52-41.71 size 524288 crc 8204880c sha1 4dfd6454b4a4c04db3593e98648afbfe8d1f59ed )
-	rom ( name b52-42.70 size 524288 crc 6e617df1 sha1 e3d1678132130c66506f2e1419db2f6b5b062f74 )
-	rom ( name b52-49.68 size 8192 crc 60dd2ed1 sha1 8673b6b3355975fb91cd1491e0ac7c0f590e3824 )
-	archive ( name "chase_hq_japanese" name "chasehqj" )
-)
-
-game (
 	name chikij
 	description "Chiki Chiki Boys (Japan 900619)"
 	year 1990
@@ -2215,63 +2146,6 @@ game (
 	rom ( name ct_mr7.rom merge ct_mr7.rom size 262144 crc a8b773f1 sha1 999e41dfeb3fb937da769c4a33bb29bf4076dc63 )
 	rom ( name ct_mr8.rom merge ct_mr8.rom size 262144 crc 9963a6be sha1 b09b8f52b7fe5ceac34bc7d70c235d60d808fcbf )
 	archive ( name "combatribes_bootleg" name "ctribebl" name "ctribeb" )
-)
-
-game (
-	name contcirc
-	description "Continental Circus"
-	year 1989
-	manufacturer "Taito"
-	board "B33"
-	rom ( name b33-01.3 size 524288 crc f11f2be8 sha1 72ae08dc5bf5f6901fbb52d3b1dabcba90929b38 )
-	rom ( name b33-02.57 size 524288 crc f6fb3ba2 sha1 19b7c4cf33c4737405ebe53e7342578454e6ef95 )
-	rom ( name b33-06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
-	rom ( name b33-05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
-	rom ( name b33-04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
-	rom ( name b33-03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
-	rom ( name b33-07.64 size 524288 crc 151e1f52 sha1 118c673d74f27c4e76b321cc0e84f166d9f0d412 )
-	rom ( name b33-09.18 size 524288 crc 1e6724b5 sha1 48bb96b648605a9ceb88ff3b175a87226583c3d6 )
-	rom ( name b33-10.17 size 524288 crc e9ce03ab sha1 17324e8f0422118bc0912eba5750d80469f40b78 )
-	rom ( name b33-08.19 size 524288 crc caa1c4c8 sha1 15ef4f36e56fab793d2249252c456677ca6a85c9 )
-	rom ( name b33-30.11 size 65536 crc d8746234 sha1 39132eedfe2ff4e3133f8020304da0d04dd757db )
-	rom ( name ic25 size 131072 crc f5c92e42 sha1 42dfa1895e601df76d7022b83f05c4e5c843fd12 )
-	rom ( name ic26 size 131072 crc e7c1d1fa sha1 75e851629a54facb8804ee8a953ab3265633bbf4 )
-	rom ( name ic35 size 131072 crc 16522f2d sha1 1d2823d61518936d342df3ed712da5bdfdf6e55a )
-	rom ( name cc_36.bin size 131072 crc a1732ea5 sha1 b773add433c20633e7acbc99d5cfeb7ccde83371 )
-	rom ( name b14-30 size 65536 crc dccb0c7f sha1 42f0af72f559133b74912a4478e1323062be4b77 )
-	archive ( name "continental_circus" name "contcirc" name "ctcircus" )
-)
-
-game (
-	name contcrcu
-	description "Continental Circus (US Set 1)"
-	year 1987
-	manufacturer "Taito"
-	cloneof contcirc
-	romof contcirc
-	board "B33"
-	rom ( name b33-01.3 merge b33-01.3 size 524288 crc f11f2be8 sha1 72ae08dc5bf5f6901fbb52d3b1dabcba90929b38 )
-	rom ( name b33-02.57 merge b33-02.57 size 524288 crc f6fb3ba2 sha1 19b7c4cf33c4737405ebe53e7342578454e6ef95 )
-	rom ( name b33_03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
-	rom ( name b33_04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
-	rom ( name b33_05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
-	rom ( name b33_06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
-	rom ( name b33-07.64 merge b33-07.64 size 524288 crc 151e1f52 sha1 118c673d74f27c4e76b321cc0e84f166d9f0d412 )
-	rom ( name b33-09.18 merge b33-09.18 size 524288 crc 1e6724b5 sha1 48bb96b648605a9ceb88ff3b175a87226583c3d6 )
-	rom ( name b33-10.17 merge b33-10.17 size 524288 crc e9ce03ab sha1 17324e8f0422118bc0912eba5750d80469f40b78 )
-	rom ( name b33-08.19 merge b33-08.19 size 524288 crc caa1c4c8 sha1 15ef4f36e56fab793d2249252c456677ca6a85c9 )
-	rom ( name b33_30 size 65536 crc d8746234 sha1 39132eedfe2ff4e3133f8020304da0d04dd757db )
-	rom ( name ic25 merge ic25 size 131072 crc f5c92e42 sha1 42dfa1895e601df76d7022b83f05c4e5c843fd12 )
-	rom ( name ic26 merge ic26 size 131072 crc e7c1d1fa sha1 75e851629a54facb8804ee8a953ab3265633bbf4 )
-	rom ( name ic35 merge ic35 size 131072 crc 16522f2d sha1 1d2823d61518936d342df3ed712da5bdfdf6e55a )
-	rom ( name ic36 size 131072 crc d6741e33 sha1 8e86789e1664a34ceed85434fd3186f2571f0c4a )
-	rom ( name b14-30 merge b14-30 size 65536 crc dccb0c7f sha1 42f0af72f559133b74912a4478e1323062be4b77 )
-	rom ( name b14-31 size 8192 crc 5c6b013d sha1 6d02d4560076213b6fb6fe856143bb533090603e )
-	rom ( name b33-06 merge b33-06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
-	rom ( name b33-05 merge b33-05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
-	rom ( name b33-04 merge b33-04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
-	rom ( name b33-03 merge b33-03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
-	archive ( name "continental_circus_us" name "continental_circus_usernate" name "contcalt" name "contcrcu" )
 )
 
 game (
@@ -3128,54 +3002,6 @@ game (
 	rom ( name b95-08.bin size 65536 crc b5aa49e1 sha1 83b0a3434e0d0b9aa581c1acdd0c70308362b923 )
 	rom ( name b95-04.bin size 524288 crc ac4c1716 sha1 06a9def7fa3bd739438f4a1d7b55f70eb904bf54 )
 	archive ( name "don_doko_don" name "dondokod" name "dondokdj" )
-)
-
-game (
-	name dkong
-	description "Donkey Kong"
-	year 1981
-	manufacturer "Nintendo"
-	rom ( name c_5et_g.bin size 4096 crc ba70b88b sha1 d76ebecfea1af098d843ee7e578e480cd658ac1a )
-	rom ( name c_5ct_g.bin size 4096 crc 5ec461ec sha1 acb11a8fbdbb3ab46068385fe465f681e3c824bd )
-	rom ( name c_5bt_g.bin size 4096 crc 1c97d324 sha1 c7966261f3a1d3296927e0b6ee1c58039fc53c1f )
-	rom ( name c_5at_g.bin size 4096 crc b9005ac0 sha1 3fe3599f6fa7c496f782053ddf7bacb453d197c4 )
-	rom ( name s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
-	rom ( name s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
-	rom ( name v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
-	rom ( name v_3pt.bin size 2048 crc 15e9c5e9 sha1 976eb1e18c74018193a35aa86cff482ebfc5cc4e )
-	rom ( name l_4m_b.bin size 2048 crc 59f8054d sha1 793dba9bf5a5fe76328acdfb90815c243d2a65f1 )
-	rom ( name l_4n_b.bin size 2048 crc 672e4714 sha1 92e5d379f4838ac1fa44d448ce7d142dae42102f )
-	rom ( name l_4r_b.bin size 2048 crc feaa59ee sha1 ecf95db5a20098804fc8bd59232c66e2e0ed3db4 )
-	rom ( name l_4s_b.bin size 2048 crc 20f2ef7e sha1 3bc482a38bf579033f50082748ee95205b0f673d )
-	rom ( name c-2k.bpr size 256 crc e273ede5 sha1 b50ec9e1837c00c20fb2a4369ec7dd0358321127 )
-	rom ( name c-2j.bpr size 256 crc d6412358 sha1 f9c872da2fe8e800574ae3bf483fb3ccacc92eb3 )
-	rom ( name v-5e.bpr size 256 crc b869b8f5 sha1 c2bdccbf2654b64ea55cd589fd21323a9178a660 )
-	archive ( name "dkong" )
-)
-
-game (
-	name dkongjp
-	description "Donkey Kong (Japan)"
-	year 1981
-	manufacturer "Nintendo"
-	cloneof dkong
-	romof dkong
-	rom ( name c_5f_b.bin size 4096 crc 424f2b11 sha1 e4f096f2bbd37281f42a5f8e083738f55c07f3dd )
-	rom ( name 5g.cpu size 4096 crc d326599b sha1 94c7382604d0a123a442d53f9641f366dfbb7631 )
-	rom ( name 5h.cpu size 4096 crc ff31ac89 sha1 9626a9e6df0d1b0ff273dbbe986f670200f91f75 )
-	rom ( name c_5k_b.bin size 4096 crc 394d6007 sha1 57e5ae76ef5d4a2fa9cd860b6c6be03b6d5ed5ba )
-	rom ( name v_5h_b.bin merge v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
-	rom ( name v_5k_b.bin size 2048 crc 3684f914 sha1 882ae48ec1eabf5d350438dfec37ab20f7ee155d )
-	rom ( name s_3i_b.bin merge s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
-	rom ( name s_3j_b.bin merge s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
-	rom ( name l_4m_b.bin merge l_4m_b.bin size 2048 crc 59f8054d sha1 793dba9bf5a5fe76328acdfb90815c243d2a65f1 )
-	rom ( name l_4n_b.bin merge l_4n_b.bin size 2048 crc 672e4714 sha1 92e5d379f4838ac1fa44d448ce7d142dae42102f )
-	rom ( name l_4r_b.bin merge l_4r_b.bin size 2048 crc feaa59ee sha1 ecf95db5a20098804fc8bd59232c66e2e0ed3db4 )
-	rom ( name l_4s_b.bin merge l_4s_b.bin size 2048 crc 20f2ef7e sha1 3bc482a38bf579033f50082748ee95205b0f673d )
-	rom ( name c-2k.bpr merge c-2k.bpr size 256 crc e273ede5 sha1 b50ec9e1837c00c20fb2a4369ec7dd0358321127 )
-	rom ( name c-2j.bpr merge c-2j.bpr size 256 crc d6412358 sha1 f9c872da2fe8e800574ae3bf483fb3ccacc92eb3 )
-	rom ( name v-5e.bpr merge v-5e.bpr size 256 crc b869b8f5 sha1 c2bdccbf2654b64ea55cd589fd21323a9178a660 )
-	archive ( name "dkongjp" )
 )
 
 game (
@@ -4174,23 +4000,6 @@ game (
 )
 
 game (
-	name frogger
-	description "Frogger"
-	year 1981
-	manufacturer "Konami"
-	rom ( name frogger.26 size 4096 crc 597696d6 sha1 e7e021776cad00f095a1ebbef407b7c0a8f5d835 )
-	rom ( name frogger.27 size 4096 crc b6e6fcc3 sha1 5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc )
-	rom ( name frsm3.7 size 4096 crc aca22ae0 sha1 5a99060ea2506a3ac7d61ca5876ce5cb3e493565 )
-	rom ( name frogger.608 size 2048 crc e8ab0256 sha1 f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc )
-	rom ( name frogger.609 size 2048 crc 7380a48f sha1 75582a94b696062cbdb66a4c5cf0bc0bb94f81ee )
-	rom ( name frogger.610 size 2048 crc 31d7eb27 sha1 2e1d34ae4da385fd7cac94707d25eeddf4604e1a )
-	rom ( name frogger.607 size 2048 crc 05f7d883 sha1 78831fd287da18928651a8adb7e578d291493eff )
-	rom ( name frogger.606 size 2048 crc f524ee30 sha1 dd768967add61467baa08d5929001f157d6cd911 )
-	rom ( name pr-91.6l size 32 crc 413703bf sha1 66648b2b28d3dcbda5bdb2605d1977428939dd3c )
-	archive ( name "frogger" )
-)
-
-game (
 	name fullthrl
 	description "Full Throttle"
 	year 1987
@@ -5151,7 +4960,7 @@ game (
 	rom ( name ma02rom2.bin merge ma02rom2.bin size 65536 crc dde8a57e sha1 f522a3f17e229c71512464349760a9e27778bf6a )
 	rom ( name ma02rom3.bin merge ma02rom3.bin size 2097152 crc 0e797142 sha1 a480ccd151e49b886d3175a6deff56e1f2c26c3e )
 	rom ( name ma02rom4.bin merge ma02rom4.bin size 2097152 crc 72a6fa53 sha1 ce92e65205b84361cfb90305a61e9541b5c4dc2f )
-	rom ( name ma02rom5.bin merge ma02rom5.bin size 32768 crc 116ae559 sha1 4cc2d2a23cc0aefd457111b7990e47184e79204c )
+	rom ( name ma02rom5.bin merge ma02rom5.bin size 32768 crc 116ae559 sha1 99b25c4ee9bbed8f23c5b5bf4a0a34ff8773c273 )
 	rom ( name ma02rom6.bin merge ma02rom6.bin size 524288 crc 199e7cae sha1 0f5e13cc8ec42c80bb4bbff90aba29cdb15213d4 )
 	archive ( name "kgpe" )
 )
@@ -6798,44 +6607,6 @@ game (
 )
 
 game (
-	name nightstr
-	description "Night Striker"
-	year 1989
-	manufacturer "Taito"
-	board "b91"
-	rom ( name b91-01.bin size 524288 crc 3731d94f sha1 2978d3eb1f44595681e84f3aa8dc03d34a191455 )
-	rom ( name b91-02.bin size 524288 crc 457c64b8 sha1 443f13d56d53ca6a7750ec974da675bad3f34a38 )
-	rom ( name b91-03.bin size 524288 crc cd5fed39 sha1 c16c67cc998889288e6e96535fd8e61afc93bc78 )
-	rom ( name b91-04.bin size 524288 crc 8ca1970d sha1 d8504298a38a95f1d8f3a2fba479ec75fe4d5de7 )
-	rom ( name b91-05.bin size 524288 crc 5e72ac90 sha1 c28c2718e873be5a254992ef8db256a394ca03ff )
-	rom ( name b91-06.bin size 524288 crc a34dc839 sha1 e1fcb763dbc562a62e862297458bde66d691606c )
-	rom ( name b91-07.bin size 524288 crc 4d8ec6cf sha1 2b7c10b459dc45313c4c90899a73c42c55b6c5c9 )
-	rom ( name b91-08.bin size 524288 crc 66f35c34 sha1 9040390fa9c626a54076a9461e0e198f059e2cb1 )
-	rom ( name b91-09.bin size 524288 crc 5f247ca2 sha1 3b89e5d035f27f62a14c5c7a976c804f9bb5c04d )
-	rom ( name b91-10.bin size 524288 crc 1d8f05b4 sha1 04caa6a0887b90860c426a973dc3c3270e996818 )
-	rom ( name b91-11.bin size 524288 crc fff8ce31 sha1 fc729de92937a805d79379228d7a30041594c0df )
-	rom ( name b91-12.bin size 524288 crc da77c7af sha1 49662a69b83739e2e0209cabff83995a951383f4 )
-	rom ( name b91-13.bin size 524288 crc 8c7bf0f5 sha1 6e18531991225c24a9722c9fbe1af6ae6e9b866b )
-	rom ( name b91-14.bin size 524288 crc 6bc314d3 sha1 ae3e9c6b853bab4ec81a6bd951b39a4bc883f456 )
-	rom ( name b91-26.bin size 1024 crc 77682a4f sha1 da2b3143f1c8688a22d8ec47bbb73b2f2e578480 )
-	rom ( name b91-27.bin size 1024 crc a3f8490d sha1 349b8c9ba914603f72f800a3fc8e8277d756deb1 )
-	rom ( name b91-28.bin size 1024 crc fa2f840e sha1 dd61ee6833bd43bbf619d36ec46f2bfa00880f40 )
-	rom ( name b91-29.bin size 8192 crc ad685be8 sha1 e7681d76fa216c124c54544393c4f6a08fd7d74d )
-	rom ( name b91-30.bin size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
-	rom ( name b91-31.bin size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
-	rom ( name b91-32.bin size 256 crc fbf81f30 sha1 c868452c334792345dcced075f6df69cff9e31ca )
-	rom ( name b91-33.bin size 256 crc 89719d17 sha1 50181b8172b0fc08b149db18caf10659be9c517f )
-	rom ( name b91-39.bin size 131072 crc 725b23ae sha1 d4b4335863d32b9a81f7461240e960bf345c9835 )
-	rom ( name b91-40.bin size 131072 crc 81fb364d sha1 f02733509039cde2c1de616e0a7969e31de1007a )
-	rom ( name b91-41.bin size 131072 crc 2694bb42 sha1 ee770472655ac0ef55eeff04037457dbf6744e4f )
-	rom ( name b91-43.bin size 131072 crc 3e6f727a sha1 ae837131a4c0c9bc5deba155c2a5b7ae72f1d070 )
-	rom ( name b91-44.bin size 131072 crc 4bc30adf sha1 531d6ee9c8ff0d4ed07c15465ec7cb78cf976115 )
-	rom ( name b91-45.bin size 131072 crc 7ad63421 sha1 4ecfc3c8cd691d878e5d9212ccff0d225bb06bd9 )
-	rom ( name b91-46.bin size 131072 crc e870be95 sha1 9a83df2c88a029bc40f5ce074143778ea555a2ba )
-	archive ( name "night_striker" name "nightstr" )
-)
-
-game (
 	name nwarr
 	description "Night Warriors: Darkstalkers' Revenge (US 950406)"
 	year 1995
@@ -7987,20 +7758,20 @@ game (
 	year 1996
 	manufacturer "Taito"
 	board "E29"
-	rom ( name pb3_05.rom size 2097152 crc e33c1234 sha1 84c336ed6fd8723e824889fe7b52c284be659e62 )
+	rom ( name e29-05.rom size 2097152 crc e33c1234 sha1 84c336ed6fd8723e824889fe7b52c284be659e62 )
 	rom ( name pb3_02.rom size 1048576 crc 437391d3 sha1 b3cc64c68553d37e0bd09e0dece14901d8df5866 )
-	rom ( name pb3_03.rom size 2097152 crc a4371658 sha1 26510a3f6de97f49b10dfc5cb9b7da947a44bfcb )
-	rom ( name pb3_04.rom size 2097152 crc d1f42457 sha1 2c77be6365deb5ef215da0c66da23b415623bdb1 )
+	rom ( name e29-03.rom size 2097152 crc a4371658 sha1 26510a3f6de97f49b10dfc5cb9b7da947a44bfcb )
+	rom ( name e29-04.rom size 2097152 crc d1f42457 sha1 2c77be6365deb5ef215da0c66da23b415623bdb1 )
 	rom ( name pb3_01.rom size 1048576 crc 52547c77 sha1 d0cc8b8915cec1506c9733a1ce1638038ea93d25 )
 	rom ( name pb3_06.rom size 1048576 crc c16184f8 sha1 ded417d9d116b5a2f7518fa404bc2dda1c6a6366 )
 	rom ( name pb3_07.rom size 1048576 crc fca2ea9b sha1 a87ebedd0d16657288df434a70b8933fafe0ca25 )
 	rom ( name pb3_08.rom size 1048576 crc 7040a3d5 sha1 ea284ec530aac20348f84122e38a508bbc283f44 )
-	rom ( name pb3_10.rom size 524288 crc 1502a122 sha1 cb981a4578aa30276c491a0ef47f5e05c05d8b28 )
-	rom ( name pb3_11.rom size 524288 crc e54ada97 sha1 325e2bc7156656cc262989910dde07a1746cf790 )
-	rom ( name pb3_12.rom size 524288 crc 9eb19a00 sha1 5a6417e4377070f9f01110dc6d513d0de01cff1e )
+	rom ( name e29-10.rom size 524288 crc 1502a122 sha1 cb981a4578aa30276c491a0ef47f5e05c05d8b28 )
+	rom ( name e29-11.rom size 524288 crc e54ada97 sha1 325e2bc7156656cc262989910dde07a1746cf790 )
+	rom ( name e29-12.rom size 524288 crc 9eb19a00 sha1 5a6417e4377070f9f01110dc6d513d0de01cff1e )
 	rom ( name pb3_13.rom size 262144 crc 1ef551ef sha1 527defe8f35314304adb4b483285b08cd6ebe865 )
 	rom ( name pb3_14.rom size 262144 crc 7ee7e688 sha1 d65aa9c449e1d64f10d1be9727a9d93ab1571e65 )
-	rom ( name pb3_16.rom size 524288 crc aac293da sha1 2188d1abe6aeefa872cf16db40999574497d982e )
+	rom ( name e29-16.rom size 524288 crc aac293da sha1 2188d1abe6aeefa872cf16db40999574497d982e )
 	archive ( name "puzzle_bobble_3" name "pbobble3" )
 )
 
@@ -10387,29 +10158,6 @@ game (
 )
 
 game (
-	name spacegun
-	description "Space Gun"
-	year 1990
-	manufacturer "Taito"
-	board "C57"
-	rom ( name c57-16.29 size 131072 crc bfb5d1e7 sha1 cbf22e9043aac54e08c5da74d973da27844170ef )
-	rom ( name c57-07.76 size 524288 crc ad653dc1 sha1 2ec440f793b0a686233fbe61c9462f8365c42b65 )
-	rom ( name c57-06.52 size 524288 crc 4ebadd5b sha1 d32a52b4d7dd19b0fa2551f93ce3d5cbcf2bc158 )
-	rom ( name c57-05.36 size 524288 crc 6a70eb2e sha1 307dd876af65204e86e094b4015ffb4a655824f8 )
-	rom ( name c57-03.12 size 1048576 crc fafca86f sha1 dc6ea78f0deafef632d8bd3677ec74e797dc69a2 )
-	rom ( name c57-02.24 size 1048576 crc 21ee4633 sha1 ddb948b165127c8fb1a988b5a0f17f92117f1b66 )
-	rom ( name c57-01.25 size 1048576 crc f901b04e sha1 24bac1c3a0c585966a7cbeeebd9b2dd3acf45a67 )
-	rom ( name c57-15.27 size 131072 crc b36eb8f1 sha1 e6e9fb844fd9acc6ee8a515a964d5df8de088a8c )
-	rom ( name c57-08.75 size 524288 crc 22593550 sha1 e802e947e6947d146e1b57dbff7ac021e19e7b2b )
-	rom ( name c57-17.59 size 131072 crc e197edb8 sha1 2ffd000aac1825ecd564c273f0cc055710ba4050 )
-	rom ( name c57-18.62 size 131072 crc 19d7d52e sha1 4361929a43f911864ece4dcd06995ea6b6156c59 )
-	rom ( name c57-22.73 size 131072 crc 5855fde3 sha1 fcd6d7ed16b61b9023596f0efb7f6971060a2e0b )
-	rom ( name c57-20.74 size 131072 crc 2e58253f sha1 36fb52ce1c6cf9f537cf500ba330b167871969b9 )
-	rom ( name c57-04.11 size 1048576 crc a9787090 sha1 8c05c4c0d14a9f60defb37225da37aadf946c563 )
-	archive ( name "space_gun" name "spacegun" )
-)
-
-game (
 	name spacedxj
 	description "Space Invaders DX"
 	year 1994
@@ -11479,8 +11227,8 @@ game (
 	year 1988
 	manufacturer "Taito"
 	board "B53"
-	rom ( name b53_11.38 size 65536 crc 9784d443 sha1 bc3647aac9974031dbe4898417fbaa99841f9548 )
-	rom ( name b53_10.32 size 131072 crc a73745c6 sha1 73eb38e75e08312d752332f988dc655084b4a86d )
+	rom ( name b53-11.38 size 65536 crc 9784d443 sha1 bc3647aac9974031dbe4898417fbaa99841f9548 )
+	rom ( name b53-10.32 size 131072 crc a73745c6 sha1 73eb38e75e08312d752332f988dc655084b4a86d )
 	rom ( name b53-08.8 size 131072 crc c3519c2a sha1 30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743 )
 	rom ( name b53-07.7 size 131072 crc 2bf199e8 sha1 4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370 )
 	rom ( name b53-06.6 size 131072 crc 92f35ed9 sha1 5fdd8d6ddbb7be9887af3c8dea9ad3b58c4e86f9 )
@@ -11499,8 +11247,8 @@ game (
 	manufacturer "Bootleg"
 	cloneof tnzs
 	romof tnzs
-	rom ( name nzsb5324.bin size 131072 crc d66824c6 sha1 fd381ac0dc52ce670c3fde320ea60a209e288a52 )
-	rom ( name nzsb5325.bin size 65536 crc d6ac4e71 sha1 f3e71624a8a5e4e4c8a6aa01711ed26bdd5abf5a )
+	rom ( name b53-24.1 size 131072 crc d66824c6 sha1 fd381ac0dc52ce670c3fde320ea60a209e288a52 )
+	rom ( name b53-25.3 size 65536 crc d6ac4e71 sha1 f3e71624a8a5e4e4c8a6aa01711ed26bdd5abf5a )
 	rom ( name nzsb5326.bin size 65536 crc cfd5649c sha1 4f6afccd535d39b41661dc3ccd17af125bfac015 )
 	rom ( name b53-08.8 merge b53-08.8 size 131072 crc c3519c2a sha1 30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743 )
 	rom ( name b53-07.7 merge b53-07.7 size 131072 crc 2bf199e8 sha1 4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370 )
@@ -11521,6 +11269,8 @@ game (
 	cloneof tnzs
 	romof tnzs
 	board "B53"
+	rom ( name b53-10.32 merge b53-10.32 size 131072 crc a73745c6 sha1 73eb38e75e08312d752332f988dc655084b4a86d )
+	rom ( name b53-11.38 merge b53-11.38 size 65536 crc 9784d443 sha1 bc3647aac9974031dbe4898417fbaa99841f9548 )
 	rom ( name ns_a13.rom size 131072 crc 7e0bd5bb sha1 95dfb00ec915778e02d8bfa996735ab817191adc )
 	rom ( name ns_e-3.rom size 65536 crc c7662e96 sha1 be28298bfde4e3867cfe75633ffb0f8611dbbd8b )
 	rom ( name ns_c-11.rom size 131072 crc 3c1dae7b sha1 0004fccc171714c80565326f8690f9662c5b75d9 )
@@ -13129,5 +12879,87 @@ game (
 	rom ( name fy001012.b size 2097152 crc fd30e102 sha1 ae02f94f69aa301b0c37921ca1117e3ad20467b5 )
 	rom ( name fy001011.a size 2097152 crc e3c431de sha1 1030adacbbfabc00231417e09f3de40e3052f65c )
 	archive ( name "zombraid" )
+)
+
+game (
+	name multi15
+	description "MultiPac 1.5"
+	year 1998
+	manufacturer "Bootleg"
+	cloneof puckman
+	romof puckman
+	rom ( name mpexe15.bin size 524288 crc eb181a29 sha1 14a44730d36c25c76ae68cbfd51febda9d8d1dfa )
+	rom ( name mpgfx15.bin size 131072 crc 012fb9ec sha1 e4b5647f27f5ddad0bb5580736d6acd3a86cdcf7 )
+	rom ( name pal_7f.bin size 256 crc 40a5c3d9 sha1 c159fe5ab64b9eb51a28ccd051fae219d2125577 )
+	rom ( name clut_4a.bin size 1024 crc 562a66de sha1 1281a7585f833b9f93269b14369e1c8df09f2292 )
+	rom ( name pacman.5f merge pacman.5f size 4096 crc 958fedf9 sha1 4a937ac02216ea8c96477d4a15522070507fb599 )
+	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
+	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
+	archive ( name "multi15" )
+)
+
+game (
+	name dkong
+	description "Donkey Kong"
+	year 1981
+	manufacturer "Nintendo"
+	rom ( name c_5et_g.bin size 4096 crc ba70b88b sha1 d76ebecfea1af098d843ee7e578e480cd658ac1a )
+	rom ( name c_5ct_g.bin size 4096 crc 5ec461ec sha1 acb11a8fbdbb3ab46068385fe465f681e3c824bd )
+	rom ( name c_5bt_g.bin size 4096 crc 1c97d324 sha1 c7966261f3a1d3296927e0b6ee1c58039fc53c1f )
+	rom ( name c_5at_g.bin size 4096 crc b9005ac0 sha1 3fe3599f6fa7c496f782053ddf7bacb453d197c4 )
+	rom ( name s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
+	rom ( name s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
+	rom ( name v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
+	rom ( name v_3pt.bin size 2048 crc 15e9c5e9 sha1 976eb1e18c74018193a35aa86cff482ebfc5cc4e )
+	rom ( name l_4m_b.bin size 2048 crc 59f8054d sha1 793dba9bf5a5fe76328acdfb90815c243d2a65f1 )
+	rom ( name l_4n_b.bin size 2048 crc 672e4714 sha1 92e5d379f4838ac1fa44d448ce7d142dae42102f )
+	rom ( name l_4r_b.bin size 2048 crc feaa59ee sha1 ecf95db5a20098804fc8bd59232c66e2e0ed3db4 )
+	rom ( name l_4s_b.bin size 2048 crc 20f2ef7e sha1 3bc482a38bf579033f50082748ee95205b0f673d )
+	rom ( name c-2k.bpr size 256 crc e273ede5 sha1 b50ec9e1837c00c20fb2a4369ec7dd0358321127 )
+	rom ( name c-2j.bpr size 256 crc d6412358 sha1 f9c872da2fe8e800574ae3bf483fb3ccacc92eb3 )
+	rom ( name v-5e.bpr size 256 crc b869b8f5 sha1 c2bdccbf2654b64ea55cd589fd21323a9178a660 )
+	archive ( name "dkong" )
+)
+
+game (
+	name dkongjp
+	description "Donkey Kong (Japan)"
+	year 1981
+	manufacturer "Nintendo"
+	cloneof dkong
+	romof dkong
+	rom ( name c_5f_b.bin size 4096 crc 424f2b11 sha1 e4f096f2bbd37281f42a5f8e083738f55c07f3dd )
+	rom ( name 5g.cpu size 4096 crc d326599b sha1 94c7382604d0a123a442d53f9641f366dfbb7631 )
+	rom ( name 5h.cpu size 4096 crc ff31ac89 sha1 9626a9e6df0d1b0ff273dbbe986f670200f91f75 )
+	rom ( name c_5k_b.bin size 4096 crc 394d6007 sha1 57e5ae76ef5d4a2fa9cd860b6c6be03b6d5ed5ba )
+	rom ( name v_5h_b.bin merge v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
+	rom ( name v_5k_b.bin size 2048 crc 3684f914 sha1 882ae48ec1eabf5d350438dfec37ab20f7ee155d )
+	rom ( name s_3i_b.bin merge s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
+	rom ( name s_3j_b.bin merge s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
+	rom ( name l_4m_b.bin merge l_4m_b.bin size 2048 crc 59f8054d sha1 793dba9bf5a5fe76328acdfb90815c243d2a65f1 )
+	rom ( name l_4n_b.bin merge l_4n_b.bin size 2048 crc 672e4714 sha1 92e5d379f4838ac1fa44d448ce7d142dae42102f )
+	rom ( name l_4r_b.bin merge l_4r_b.bin size 2048 crc feaa59ee sha1 ecf95db5a20098804fc8bd59232c66e2e0ed3db4 )
+	rom ( name l_4s_b.bin merge l_4s_b.bin size 2048 crc 20f2ef7e sha1 3bc482a38bf579033f50082748ee95205b0f673d )
+	rom ( name c-2k.bpr merge c-2k.bpr size 256 crc e273ede5 sha1 b50ec9e1837c00c20fb2a4369ec7dd0358321127 )
+	rom ( name c-2j.bpr merge c-2j.bpr size 256 crc d6412358 sha1 f9c872da2fe8e800574ae3bf483fb3ccacc92eb3 )
+	rom ( name v-5e.bpr merge v-5e.bpr size 256 crc b869b8f5 sha1 c2bdccbf2654b64ea55cd589fd21323a9178a660 )
+	archive ( name "dkongjp" )
+)
+
+game (
+	name frogger
+	description "Frogger"
+	year 1981
+	manufacturer "Konami"
+	rom ( name frogger.26 size 4096 crc 597696d6 sha1 e7e021776cad00f095a1ebbef407b7c0a8f5d835 )
+	rom ( name frogger.27 size 4096 crc b6e6fcc3 sha1 5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc )
+	rom ( name frsm3.7 size 4096 crc aca22ae0 sha1 5a99060ea2506a3ac7d61ca5876ce5cb3e493565 )
+	rom ( name frogger.608 size 2048 crc e8ab0256 sha1 f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc )
+	rom ( name frogger.609 size 2048 crc 7380a48f sha1 75582a94b696062cbdb66a4c5cf0bc0bb94f81ee )
+	rom ( name frogger.610 size 2048 crc 31d7eb27 sha1 2e1d34ae4da385fd7cac94707d25eeddf4604e1a )
+	rom ( name frogger.607 size 2048 crc 05f7d883 sha1 78831fd287da18928651a8adb7e578d291493eff )
+	rom ( name frogger.606 size 2048 crc f524ee30 sha1 dd768967add61467baa08d5929001f157d6cd911 )
+	rom ( name pr-91.6l size 32 crc 413703bf sha1 66648b2b28d3dcbda5bdb2605d1977428939dd3c )
+	archive ( name "frogger" )
 )
 
