@@ -68,7 +68,7 @@ CREATE TABLE tmp_game_disk
 (
 	dat		VARCHAR(60) NOT NULL,
 	game_name	VARCHAR(20) NOT NULL,
-	disk_name	VARCHAR(20) NOT NULL,
+	disk_name	VARCHAR(40) NOT NULL,
 	merge		VARCHAR(20) NULL,
 	sha1		VARCHAR(40) NULL,
 	md5		VARCHAR(32) NULL,
@@ -83,7 +83,7 @@ CREATE TABLE tmp_game_sample
 (
 	dat		VARCHAR(60) NOT NULL,
 	game_name	VARCHAR(20) NOT NULL,
-	sample_name	VARCHAR(20) NOT NULL,
+	sample_name	VARCHAR(40) NOT NULL,
 	PRIMARY KEY	(dat, game_name, sample_name)
 );
 
