@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="kawaks" type="multi" dat="WinKawaks_v1.56">
+<emulator id="kawaks" type="multi" dat="WinKawaks_v1.57">
 	<name>Kawaks</name>
-	<version>1.56</version>
-	<date>07/08/2006</date>
+	<version>1.57</version>
+	<date>22/12/2006</date>
 
 	<homepage>http://cps2shock.retrogames.com/download.html</homepage>
 	<homepage>http://kawaks.retrogames.com/</homepage>
@@ -46,7 +46,7 @@
 	</features>
 
 	<files>
-		<file name="winkawaks156.zip">Emulator</file>
+		<file name="winkawaks157.zip">Emulator</file>
 		<file name="hires-skin.zip">Hi-res Skin</file>
 		<file name="sshots.zip">Screen Shots for v1.32</file>
 		<file name="sshots138.zip">Screen Shots update from v1.32 to v1.38</file>
