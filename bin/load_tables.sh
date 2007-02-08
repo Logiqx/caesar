@@ -178,7 +178,7 @@ load_tools()
 
 load_games()
 {
-	for TABLE in game game_comment game_biosset game_rom game_disk game_sample game_chip game_video game_display game_sound game_input game_control game_dipswitch game_dipvalue game_driver game_archive
+	for TABLE in game game_comment game_biosset game_rom game_disk game_sample game_chip game_video game_display game_sound game_input game_control game_driver game_archive
 	do
 		if (( $ERRFLG == 0 ))
 		then
