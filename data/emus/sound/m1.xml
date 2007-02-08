@@ -38,6 +38,7 @@
 
 	<files>
 		<file name="m1077u2b-win32.zip">Emulator</file>
+		<file name="xml.zip">XML</file>
 		<file name="m1074bsdk-win32.zip">SDK (Source)</file>
 		<file name="FoxM1_121.zip">Fox GUI v1.2.1</file>
 		<file name="listsFeb012k4.zip">Song Lists</file>

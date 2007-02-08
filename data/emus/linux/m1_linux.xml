@@ -34,6 +34,7 @@
 
 	<files>
 		<file name="m1077u2b-lnx.tar.bz2">Emulator</file>
+		<file name="xml.zip">XML</file>
 		<file name="m1071-sdk-lnx.tar.bz2">SDK (Source)</file>
 	</files>
 
