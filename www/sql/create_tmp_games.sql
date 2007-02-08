@@ -84,7 +84,7 @@ CREATE TABLE tmp_game_sample
 	dat		VARCHAR(60) NOT NULL,
 	game_name	VARCHAR(20) NOT NULL,
 	sample_name	VARCHAR(40) NOT NULL,
-	PRIMARY KEY	(dat, game_name, sample_name)
+	INDEX		(dat, game_name, sample_name)
 );
 
 DROP TABLE IF EXISTS tmp_game_chip;
