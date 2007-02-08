@@ -441,6 +441,7 @@ avspa,avspa,m
 kof10th,kof10th,m
 matrimnd,matrimnd,n
 pzloop2j,pzloop2j,m
+pzloop2,pzloop2,m
 kf10thep,kf10thep,m
 kf2k5uni,kf2k5uni,m
 kf2k2mp2,kf2k2mp2,m
@@ -487,5 +488,4 @@ svcpcba,svcpcba,m
 svcplus,svcplus,m
 svcplusa,svcplusa,m
 svcsplus,svcsplus,m
-pzloop2,pzloop2,n
-hsf2a,hsf2a,n
+hsf2a,hsf2,m
