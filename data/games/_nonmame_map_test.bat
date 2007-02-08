@@ -9,6 +9,9 @@ DEL "MAME.vers.bat"
 REM --- Run MAMEDiff and MapTest
 
 mamediff nonmame.dat "multi/MAME_%MAME_VER_CURRENT%.dat"
+grep -v kgpe mamediff.out >mamediff.tmp
+mv mamediff.tmp mamediff.out
+cat kgpe.out >>mamediff.out
 mapfix -n -t
 
 ECHO.
