@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="raine32" type="multi2" dat="dummy">
+<emulator id="raine32" type="multi" dat="RAINE_v0.43.4">
 	<name>RAINE32</name>
 	<version>0.50.2</version>
 	<date>28/01/2007</date>
@@ -54,11 +54,19 @@
 		<file name="rainew-0.50.2.zip">Emulator</file>
 		<file name="raine_dlls.zip">Libraries (PNG, SDL, zlib)</file>
 		<file name="rainefonts.zip">RAINE Fonts</file>
+		<file name="snapshot-am.zip">Snapshots</file>
+		<file name="big-snapshot-am.zip">Big Snapshots</file>
+		<file name="dkongg.dx2">Donkey Kong DX File</file>
+		<file name="froggerg.dx2">Frogger DX File</file>
+		<file name="mspacmang.dx2">Ms Pacman DX File</file>
+		<file name="pacmang.dx2">Pacman DX File</file>
 	</files>
 
 	<relatives>
-		<port_of>
-			<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
-		</port_of>
+		<ports>
+			<emulator_link id="raine_beos" type="beos">&emulator_raine_beos;</emulator_link>
+			<emulator_link id="raine" type="multi2">&emulator_raine;</emulator_link>
+			<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
+		</ports>
 	</relatives>
 </emulator>

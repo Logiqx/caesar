@@ -56,7 +56,7 @@
 
 	<relatives>
 		<port_of>
-			<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+			<emulator_link id="raine32" type="multi">&emulator_raine32;</emulator_link>
 		</port_of>
 
 		<alt_versions>

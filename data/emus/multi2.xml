@@ -11,7 +11,7 @@
 		<emulator_link id="laser32" type="multi2">&emulator_laser32;</emulator_link>
 		<emulator_link id="laser_sdl" type="multi2">&emulator_laser_sdl;</emulator_link>
 		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
-		<emulator_link id="raine32" type="multi2">&emulator_raine32;</emulator_link>
+		<emulator_link id="raine" type="multi2">&emulator_raine;</emulator_link>
 		<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
 		<emulator_link id="sname" type="multi2">&emulator_sname;</emulator_link>
 		<emulator_link id="sparcade_stable" type="multi2">&emulator_sparcade_stable;</emulator_link>

@@ -59,7 +59,7 @@
 		<emulator_link id="phoenix" type="multi">&emulator_phoenix;</emulator_link>
 		<emulator_link id="pie" type="multi">&emulator_pie;</emulator_link>
 		<emulator_link id="rage" type="multi">&emulator_rage;</emulator_link>
-		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi">&emulator_raine32;</emulator_link>
 		<emulator_link id="replay" type="multi">&emulator_replay;</emulator_link>
 		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>
 		<emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link>
