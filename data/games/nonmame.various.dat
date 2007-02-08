@@ -131,6 +131,200 @@ game (
 ################################################################################
 
 game (
+	name swe1
+	description "Star Wars: Episode 1 (pinball) [sound only]"
+	year 2000
+	manufacturer "Midway"
+	board "Midway DCS ROM-based stereo"
+	rom ( name sweflash.snd size 1048576 crc 5fc1fd2c sha1 0967db9b6e82d386d3a8415bbef40bcab5a06654 )
+	rom ( name u109.rom size 4194304 crc cc08936b sha1 fc428393e8a0cf37b800dd475fd293a1a98c4bcf )
+	rom ( name u110.rom size 4194304 crc 6011ecd9 sha1 8575958c8942a6cbcb2ac18f291fcada6f8cbc09 )
+)
+
+game (
+	name ttt_10
+	description "Ticket Tac Toe (redemption) [sound only]"
+	year 1996
+	manufacturer "Midway"
+	board "Midway DCS95"
+	rom ( name ttt_s2.rom size 1048576 crc faae93eb sha1 672758544b260d7751ac296f5beb2e271e77c50a )
+	rom ( name ttt_s3.rom size 1048576 crc 371ba9b3 sha1 de6a8cb78e08a434f6668dd4a93cad857acba310 )
+)
+
+game (
+	name rollr_l2
+	description "Rollergames (L-2) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name rolr_u4.l3 size 65536 crc d366c705 sha1 76018305b5040b2e5d8c45cc81a18f13e1a8f8da )
+	rom ( name rolr_u19.l3 size 65536 crc 45a89e55 sha1 3aff897514d242c83a8e7575d430d594a873736e )
+	rom ( name rolr_u20.l3 size 65536 crc 77f89aff sha1 dcd9fe233f33ef8f97cdeaaa365532e485a28944 )
+)
+
+game (
+	name pool_l7
+	description "Pool Sharks (L-7) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name pool_u4.l2 size 65536 crc 04e95e10 sha1 3873b3cd6c2961b3f2f28a1e17f8a63c6db808d2 )
+	rom ( name pool_u19.l2 size 65536 crc 0f45d02b sha1 58bbfdb3b98c43b66e11808cec7cd65a7f2dce6d )
+	rom ( name pool_u20.l2 size 65536 crc 925f62d6 sha1 21b8d6f9a8b98fce8a3cdf7f5f2d40200544a898 )
+)
+
+game (
+	name diner_l4
+	description "Diner (L-4) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name dinr_u4.l1 size 65536 crc 3bd28368 sha1 41eec2f5f863039deaabfae8aece4b1cf15e4b78 )
+	rom ( name dinr_u19.l1 size 65536 crc 278b9a30 sha1 41e59adb8b6c08caee46c3dd73256480b4041619 )
+	rom ( name dinr_u20.l1 size 65536 crc 511fb260 sha1 e6e25b464c5c38f3c0492436f1e8aa2be33dd278 )
+)
+
+game (
+	name rvrbt_l3
+	description "Riverboat Gambler (L-3) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name gamb_u4.l2 size 65536 crc c0cfa9be sha1 352df9a4dcbc131ae249416e9e517137a04627ba )
+	rom ( name gamb_u19.l1 size 65536 crc 04a3a8c8 sha1 e72ef767f13282d2335cda3288037610d9bfedf2 )
+	rom ( name gamb_u20.l1 size 65536 crc a60c734d sha1 76cfcf96276ca4f6b5eee0e0402fab5ee9685366 )
+)
+
+game (
+	name radcl_l1
+	description "Radical (L-1) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name rad_u4.l1 size 65536 crc 5aafc09c sha1 27984bbc91dc7593e6a5b42f74dd6ddf58189bec )
+	rom ( name rad_u19.l1 size 65536 crc 7c005e1f sha1 bdeea7517f2adf72b4b642bffb25ba5b98453127 )
+	rom ( name rad_u20.l1 size 32768 crc 05b96292 sha1 7da0289cf0a0c93768c0706fdedfc3a5f2101e77 )
+)
+
+game (
+	name apollo13
+	description "Apollo 13 (pinball) [sound only]"
+	year 1995
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name apollo13.u7 size 65536 crc e58a36b8 sha1 ae60470a7b6c41cd40dbb7c0bea6f2f148f7b088 )
+	rom ( name apollo13.u17 size 524288 crc 4e863aca sha1 264f9176a1abf758b7a894d83883330ef91b7388 )
+	rom ( name apollo13.u21 size 524288 crc 28169e37 sha1 df5209d24187b546a4296fc4629c58bf729349d2 )
+	rom ( name apollo13.u36 size 524288 crc cede5e0f sha1 fa3b5820ed58e57b3c6185d91e9aea28aebc28d7 )
+)
+
+game (
+	name twst_405
+	description "Twister (pinball) [sound only]"
+	year 1996
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name twstsnd.u7 size 65536 crc 5ccf0798 sha1 ac591c508de8e9687c20b01c298084c99a251016 )
+	rom ( name twstsnd.u17 size 524288 crc 0e35d640 sha1 ce38a03fcc321cd9af07d24bf7aa35f254b629fc )
+	rom ( name twstsnd.u21 size 524288 crc c3eae590 sha1 bda3e0a725339069c49c4282676a07b4e0e8d2eb )
+	rom ( name twstdspa.400 size 524288 crc a6a3d41d sha1 ad42b3390ceeeea43c1cd47f300bcd4b4a4d2558 )
+)
+
+game (
+	name id4
+	description "ID4 - Independance Day (pinball) [sound only]"
+	year 1996
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name id4sndu7.512 size 65536 crc deeaed37 sha1 06d79967a25af0b90a5f1d6360a5b5fdbb972d5a )
+	rom ( name id4sdu17.400 size 524288 crc 385034f1 sha1 0068901f0f3d97cbcbfc1ffb4df5b195e89218e1 )
+	rom ( name id4sdu21.400 size 524288 crc f384a9ab sha1 06bd607e7efd761017a7b605e0294a34e4c6255c )
+	rom ( name id4dspa.200 size 524288 crc 2d3fbcc4 sha1 0bd69ebb68ae880ac9aae40916f13e1ff84ecfaa )
+)
+
+game (
+	name spacejam
+	description "Space Jam (pinball) [sound only]"
+	year 1997
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name spcjam.u7 size 65536 crc c693d853 sha1 3e81e60967dff496c681962f3ff8c7c1fbb7746a )
+	rom ( name spcjam.u17 size 524288 crc ccefe457 sha1 4186dee689fbfc08e5070ccfe8d4be95220cd87b )
+	rom ( name spcjam.u21 size 524288 crc 9e7fe0a6 sha1 187e5893f84d0c0fd70d15c3978fc3fc51e12a51 )
+	rom ( name spcjam.u36 size 524288 crc 7d11e1eb sha1 96d4635b1edf8a22947a5cd529ce9025cf7d0c71 )
+)
+
+game (
+	name swtril43
+	description "Star Wars Trilogy - Special Edition (pinball) [sound only]"
+	year 1997
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name sw0219.u7 size 65536 crc cd7c84d9 sha1 55b0208089933e4a30f0eb87b123dd178383ed43 )
+	rom ( name sw0211.u17 size 524288 crc 6863e7f6 sha1 99f1e0170fbbb91a0eb7a796ab3bf757cb1b23ce )
+	rom ( name sw0211.u21 size 524288 crc 6be68450 sha1 d24652f74b109e47eb5d3d02e04f63c99e92c590 )
+	rom ( name swsedspa.400 size 524288 crc b9bcbf71 sha1 036f53e638699de0447ecd02221f673a40f656be )
+)
+
+game (
+	name jplstw22
+	description "The Lost World: Jurassic Park (pinball) [sound only]"
+	year 1997
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name jp2_u7.bin size 65536 crc 73b74c96 sha1 ffa47cbf1491ed4fbadc984189abbfffc70c9888 )
+	rom ( name jp2_u17.bin size 524288 crc 8d6c0dbd sha1 e1179b2c94927a07efa7d16cf841d5ff7334ff36 )
+	rom ( name jp2_u21.bin size 524288 crc c670a997 sha1 1576e11ec3669f61ff16188de31b9ef3a067c473 )
+	rom ( name jp2dspa.201 size 524288 crc 8fc41ace sha1 9d11f7623eec41972d2be4313c7715e30116d889 )
+)
+
+game (
+	name startrp
+	description "Starship Troopers (pinball) [sound only]"
+	year 1997
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name u7_b130.512 size 65536 crc f1559e4f sha1 82b56f097412052bc1638a3f1c1319009df707f4 )
+	rom ( name u17_152a.040 size 524288 crc 8caeccdb sha1 390f07e48a176a24fe99a202f3fa2b9767d84230 )
+	rom ( name u21_0291.040 size 524288 crc 0c5321f6 sha1 4a51daa16d489ab61d462d44f887c8422f863c5c )
+	rom ( name u36_95a7.040 size 524288 crc c1e4ca6a sha1 487de78ebf1ee8cc721f2ef7b1bd42d2f7b27456 )
+)
+
+game (
+	name goldcue
+	description "Golden Cue (pinball) [sound only]"
+	year 1998
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name gc_sound.u7 size 65536 crc 8b559e39 sha1 59c33615b53864cd542c8bd3be2ba18e91c57dfd )
+	rom ( name gc_sound.u17 size 524288 crc 28c39bae sha1 a11343a4043d8d5a8eaec383e1bb1f42016e33d2 )
+	rom ( name gc_sound.u21 size 524288 crc d3f43a37 sha1 e845370e75200570f828b8452453287b5f599276 )
+	rom ( name gc_sound.u36 size 524288 crc 81f27955 sha1 eba4250898f6de96111232e49d965b78fc6ee2e2 )
+)
+
+game (
+	name hook_408
+	description "Hook (pinball) [sound only]"
+	year 1992
+	manufacturer "Data East"
+	board "Tattoo Assassins"
+	rom ( name hooksnd.u7 size 32768 crc 642f45b3 sha1 a4b2084f32e52a596547384906281d04424332fc )
+	rom ( name hook-voi.u17 size 262144 crc 6ea9fcd2 sha1 bffc66df542e06dedddaa403b5513446d9d6fc8c )
+	rom ( name hook-voi.u21 size 262144 crc b5c275e2 sha1 ff51c2007132a1310ac53b5ab2a4af7d0ab15948 )
+)
+
+game (
+	name mav_402
+	description "Maverick (pinball) [sound only]"
+	year 1994
+	manufacturer "Data East"
+	board "Tattoo Assassins"
+	rom ( name mavu7.dat size 65536 crc 427e6ab9 sha1 6ad9295097f3d498383c91adf4ca667f797f29b1 )
+	rom ( name mavu17.dat size 524288 crc cba377b8 sha1 b7551b6cb64357cdacf1a96cedfccbabf4bd070a )
+	rom ( name mavu21.dat size 524288 crc be0c6a6f sha1 4fee912d9f0d4b196dbfacf06a4202b2fa3037b1 )
+)
+
+game (
 	name gldneye
 	description "GoldenEye (pinball)"
 	year 1994
