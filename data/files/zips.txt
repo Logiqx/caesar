@@ -254,11 +254,6 @@ emus/multi/pie	pie.zip	77289
 emus/multi/pie	piewin32.zip	45473
 emus/multi/rage	rage09.zip	43705
 emus/multi/rage	ragedrv.zip	346424
-emus/multi/raine	history062a.zip	266244
-emus/multi/raine	rained-0.43.2-1.zip	1947929
-emus/multi/raine	rainedocs.zip	86515
-emus/multi/raine	rainefonts.zip	528309
-emus/multi/raine	raineicons.zip	3544
 emus/multi/raine32	big-snapshot-am.zip	2084213
 emus/multi/raine32	dkongg.dx2	2465000
 emus/multi/raine32	froggerg.dx2	1125331
@@ -366,6 +361,11 @@ emus/multi2/galemu_windows	GalEMU-Win32-0409.zip	305008
 emus/multi2/laser_sdl	laser-1.0.r1.src.tar.gz	290770
 emus/multi2/laser32	laser32020a.zip	591664
 emus/multi2/laser32	laser32020as.zip	607700
+emus/multi2/raine	history062a.zip	266244
+emus/multi2/raine	rained-0.43.2-1.zip	1947929
+emus/multi2/raine	rainedocs.zip	86515
+emus/multi2/raine	rainefonts.zip	528309
+emus/multi2/raine	raineicons.zip	3544
 emus/multi2/sega_system_c2_w	c2emuw.zip	342834
 emus/multi2/sname	sname02d.zip	1024299
 emus/multi2/sparcade_stable	spcad225.zip	389336
