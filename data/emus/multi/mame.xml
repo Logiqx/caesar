@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="mame" type="multi" dat="MAME_v0.111">
+<emulator id="mame" type="multi" dat="MAME_v0.112">
 	<name>MAME (Multiple Arcade Machine Emulator)</name>
-	<version>0.111</version>
-	<date>10/12/2006</date>
+	<version>0.112</version>
+	<date>05/02/2007</date>
 
 	<homepage>http://www.mame.net/</homepage>
 	<homepage>http://www.mamedev.org/</homepage>
