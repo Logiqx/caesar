@@ -21,16 +21,12 @@
 
 			echo '<!-- CAESAR pages are basically a table with one row and three columns -->' . LF . LF;
 
-			$non_xhtml_compliant="yes";
-
 			include('resources/top.php');
-
-			// Show the error
 
 			switch ($_GET['code'])
 			{
 				case 400:
-					echo INDENT . '<h1>Error 400 - Bad Request</h1>' . LF . LF;
+					echo INDENT . '<h2>Error 400 - Bad Request</h2>' . LF . LF;
 					echo INDENT . '<p>Syntax error in the client request!</p>' . LF;
 					break;
 				case 401:
@@ -39,18 +35,24 @@
 					break;
 				case 403:
 					echo INDENT . '<h2>Error 403 - Forbidden</h2>' . LF . LF;
-					echo INDENT . '<p>Directory browsing id forbidden on this server!</p>' . LF;
+					echo INDENT . '<p>Directory browsing is forbidden on this server!</p>' . LF;
 					break;
 				case 404:
 					echo INDENT . '<h2>Error 404 - Not Found</h2>' . LF . LF;
 					echo INDENT . '<p>The page that you have requested cannot be found.</p>' . LF;
 					echo INDENT . '<p>Maybe it has been moved or renamed... try browsing for it using the menu on the left hand side of this page.</p>' . LF;
 					break;
+				case 500:
+					echo INDENT . '<h2>Error 500 - Internal Server Error</h2>' . LF . LF;
+					echo INDENT . '<p>The server appears unable to render the requested page!</p>' . LF;
+					break;
 			}
-
+		?>
+		<?php
 			// Standard page footer (counter)
 
 			include('resources/bottom.php');
 		?>
 	</body>
 </html>
+
