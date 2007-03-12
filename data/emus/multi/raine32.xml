@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="raine32" type="multi" dat="RAINE_v0.43.4">
+<emulator id="raine32" type="multi" dat="RAINE_v0.50.2">
 	<name>RAINE32</name>
 	<version>0.50.2</version>
 	<date>28/01/2007</date>
