@@ -37,7 +37,7 @@ CREATE TABLE tmp_game_biosset
 	dat			VARCHAR(60) NOT NULL,
 	game_name		VARCHAR(20) NOT NULL,
 	biosset_name		VARCHAR(20) NOT NULL,
-	biosset_description	VARCHAR(30) NOT NULL,
+	biosset_description	VARCHAR(60) NOT NULL,
 	biosset_default		CHAR(3) NULL,
 	PRIMARY KEY		(dat, game_name, biosset_name)
 );
@@ -47,8 +47,8 @@ CREATE TABLE tmp_game_rom
 (
 	dat		VARCHAR(60) NOT NULL,
 	game_name	VARCHAR(20) NOT NULL,
-	rom_name	VARCHAR(40) NOT NULL,
-	merge		VARCHAR(40) NULL,
+	rom_name	VARCHAR(60) NOT NULL,
+	merge		VARCHAR(60) NULL,
 	bios		VARCHAR(20) NULL,
 	size		INT UNSIGNED NOT NULL,
 	crc		VARCHAR(8) NULL,
