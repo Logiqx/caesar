@@ -3,11 +3,12 @@
 .	_check_for_absolute_links.sh	54
 .	_filelist_compare.sh	1085
 .	_filelist_pc.bat	289
-.	_filelist_pc.txt	882882
+.	_filelist_pc.txt	621790
 .	_filelist_ztnet.sh	261
 .	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	609
 .	error.php	1918
+.	favicon.ico	1406
 .	index.php	1549
 .	robots.txt	0
 cgi-bin	filelist	7212
@@ -39,7 +40,7 @@ cgi-bin/newspro	viewnews.tmpl	803
 cgi-bin/newspro/CVS	Entries	945
 cgi-bin/newspro/CVS	Repository	46
 cgi-bin/newspro/CVS	Root	26
-CVS	Entries	747
+CVS	Entries	795
 CVS	Repository	30
 CVS	Root	26
 images	_filelist_pc.bat	334
