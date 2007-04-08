@@ -66,6 +66,9 @@ emus/gp32/multipac_gp32	multipac 1.0 source.rar	130117
 emus/gp32/multipac_gp32	multipac 1.0.rar	357756
 emus/java/cottage	CottAGE_1.6_bin.zip	699682
 emus/java/cottage	CottAGE_1.6_src.zip	461747
+emus/java/cottage	cottage011-docs.zip	912273
+emus/java/cottage	cottage011-sources.zip	359550
+emus/java/cottage	cottage011.zip	503269
 emus/java/cottage	jef_1_0_beta4_src.zip	122075
 emus/java/jae	Tailgunner.zip	236408
 emus/java/java_phoenix_emulator	jphx040.zip	52222
@@ -90,8 +93,8 @@ emus/linux/m1_linux	m1077u2b-lnx.tar.bz2	2970958
 emus/linux/m1_linux	xml.zip	183799
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raine_0.50.2_i386.deb	1688068
-emus/linux/raine_linux	raines-0.50.2.tar.bz2	1841275
+emus/linux/raine_linux	raine_0.50.3_i386.deb	1691528
+emus/linux/raine_linux	raines-0.50.3.tar.bz2	1859930
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -254,15 +257,15 @@ emus/multi/pie	pie.zip	77289
 emus/multi/pie	piewin32.zip	45473
 emus/multi/rage	rage09.zip	43705
 emus/multi/rage	ragedrv.zip	346424
-emus/multi/raine32	big-snapshot-am.zip	2084213
 emus/multi/raine32	dkongg.dx2	2465000
-emus/multi/raine32	froggerg.dx2	1125331
+emus/multi/raine32	dkongm.dx2	5529862
+emus/multi/raine32	froggerg.dx2	1080548
+emus/multi/raine32	froggerm.dx2	5392842
+emus/multi/raine32	galdxg.dx2	1258178
+emus/multi/raine32	galdxm.dx2	1405671
 emus/multi/raine32	mspacmang.dx2	1458301
 emus/multi/raine32	pacmang.dx2	2104347
-emus/multi/raine32	raine_dlls.zip	1183781
-emus/multi/raine32	rainefonts.zip	528309
-emus/multi/raine32	rainew-0.50.2.zip	1679473
-emus/multi/raine32	snapshot-am.zip	696070
+emus/multi/raine32	rainew-0.50.3.zip	1675347
 emus/multi/replay	repd004.zip	1131826
 emus/multi/replay	replay.zip	18706
 emus/multi/replayplus	rpbd100.zip	899528
