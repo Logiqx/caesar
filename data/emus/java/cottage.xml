@@ -5,15 +5,11 @@
 	<version>1.6</version>
 	<date>31/10/2005</date>
 
-	<homepage>http://cottage.consolemul.com/</homepage>
+	<homepage>http://cottage.consolemul.com/index_org.html</homepage>
 	<author_link id="jaydy">&author_jaydy;</author_link>
+	<author_link id="gollum">&author_gollum;</author_link>
 
 	<contributors>
-		<contributor>
-			<author_link id="gollum">&author_gollum;</author_link>
-			<comment>Contributor</comment>
-		</contributor>
-
 		<contributor>
 			<author_link id="arnon_cardoso">&author_arnon_cardoso;</author_link>
 			<comment>Contributor</comment>
@@ -22,7 +18,7 @@
 
 	<emulates>Z80, 8080 and 6809 based classics</emulates>
 	<comment>Arcade classics playable through your web browser! Note: The game list below is from CottAGE v0.12 (rather than the latest version). Until I figure out a way to update the data file without any intensive effort on my part, the data file for CottAGE v0.12 will have to do!</comment>
-	<status>Dormant</status>
+	<status>Abandoned</status>
 
 	<platform>Java</platform>
 
@@ -44,8 +40,11 @@
 	</features>
 
 	<files>
-		<file name="CottAGE_1.6_bin.zip">Emulator</file>
-		<file name="CottAGE_1.6_src.zip">Source</file>
+		<file name="CottAGE_1.6_bin.zip">Emulator v1.6 [Erik Duijs (Jaydy)]</file>
+		<file name="CottAGE_1.6_src.zip">Source v1.6 [Erik Duijs (Jaydy)]</file>
+		<file name="cottage011.zip">Emulator v0.11 [Julien Frelat (Gollum)]</file>
+		<file name="cottage011-sources.zip">Source v0.11 [Julien Frelat (Gollum)]</file>
+		<file name="cottage011-docs.zip">Developer Docs v0.11 [Julien Frelat (Gollum)]</file>
 		<file name="jef_1_0_beta4_src.zip">Source for JEF (Java Emulation Framework)</file>
 	</files>
 </emulator>
