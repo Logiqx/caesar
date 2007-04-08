@@ -73,12 +73,14 @@ emus/java/cottage	jef_1_0_beta4_src.zip	122075
 emus/java/jae	Tailgunner.zip	236408
 emus/java/java_phoenix_emulator	jphx040.zip	52222
 emus/java/java_pleiads_emulator	jplds030.zip	46697
+emus/java/jemu2	JEmu2_v2.2_src.zip	488095
 emus/java/oldspark	OldSpark03-src.zip	98752
 emus/java/oldspark	OldSpark03.zip	128581
 emus/java/playscott	playscott12.zip	432408
 emus/linux/bpe	bpe.zip	73222
 emus/linux/centsim	centsim-0.2.tar.gz	22175
 emus/linux/daphne_linux	daphne-0.99.7-linux.tar.gz	2411011
+emus/linux/daphne_linux	daphne-1.0beta-linux.tar.gz	5322301
 emus/linux/finalburn_linux	finalburn.20011005.diff.tar.bz2	61230
 emus/linux/finalburn_linux	finalburn.20011005.Linux.tar.bz2	195138
 emus/linux/galemu_linux	galaxian.zip	34068
@@ -115,6 +117,7 @@ emus/mac/atari_vector_sim	atarivecsim.sit.hqx	168013
 emus/mac/centimu	CentiMu_d6.sit	534998
 emus/mac/centimupp	CentiMu++_d9.sit	35582
 emus/mac/daphne_mac	daphne-0.99.7-macosx.tar.gz	3692338
+emus/mac/daphne_mac	daphne-1.0beta-osx.dmg.zip	6506853
 emus/mac/frogcow	FrogCow.sit.hqx	103153
 emus/mac/invadersmu	InvadersMu_d1.sit	97796
 emus/mac/m1_mac	m1-076.dmg	2528112
@@ -155,6 +158,7 @@ emus/multi/classicemu	clasemu.zip	246278
 emus/multi/crystal_system_emulator	CrystalEmu12.zip	210825
 emus/multi/daphne	daphne-0.99.7-src.tar.gz	3499980
 emus/multi/daphne	daphne-0.99.7-win32.zip	2743630
+emus/multi/daphne	daphne-1.0beta-win32.zip	3638025
 emus/multi/daphne	ms-ocx.zip	874028
 emus/multi/domino	domino010.zip	104135
 emus/multi/dsp	dsp_03_s.zip	212659
@@ -179,9 +183,9 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029523.exe	1362072
-emus/multi/finalburnalpha	fba_src_029523.zip	1651105
-emus/multi/finalburnalpha	fba9x_029523.exe	972497
+emus/multi/finalburnalpha	fba_029668_non_unicode.zip	1723095
+emus/multi/finalburnalpha	fba_029668_unicode.zip	1727309
+emus/multi/finalburnalpha	fba_src_029668.zip	1984601
 emus/multi/finalburnalpha	francais.flt	35177
 emus/multi/finalburnalpha	mingw-cygwin-libs.zip	410007
 emus/multi/galemu	gal0409.zip	263302
@@ -239,7 +243,7 @@ emus/multi/multiple_invaders	mie20.zip	188425
 emus/multi/nebula	cheater18.zip	7818
 emus/multi/nebula	gui16.zip	388071
 emus/multi/nebula	logos.zip	1666458
-emus/multi/nebula	nebula225.zip	1738435
+emus/multi/nebula	nebula225b.zip	2359494
 emus/multi/nebula	shots15.zip	1315789
 emus/multi/nebulam2	nebulam2_v0.9b.zip	796079
 emus/multi/neogem	neogem.zip	339914
@@ -293,7 +297,7 @@ emus/multi/sage	sagesrc.zip	92638
 emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-emus/multi/segamodel2emulator	m2emulator03.zip	256009
+emus/multi/segamodel2emulator	m2emulator04.zip	929478
 emus/multi/shark	shark31f.zip	240853
 emus/multi/sideway	sideway.zip	203827
 emus/multi/siemu	siemu-1.03.tar.gz	215066
