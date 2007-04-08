@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="jemu2" type="java" aspectx="4" aspecty="3" dat="JEmu2_v1.8">
+<emulator id="jemu2" type="java" aspectx="4" aspecty="3" dat="JEmu2_v4.0">
 	<name>JEmu2</name>
-	<version>v1.8</version>
-	<date>30/10/2005</date>
+	<version>v4.0</version>
+	<date>16/04/2007</date>
 
 	<homepage>http://www.gagaplay.com/jemu2/</homepage>
 	<author_link id="jaydy">&author_jaydy;</author_link>
 
 	<emulates>Z80, 8080, 6809 and 68000 based classics</emulates>
-	<comment>Arcade classics playable on the Internet! Deployment is done using Java Web Start, enabling a one-click installation and automatic update mechanism. This means: no difficult installation procedures, and each time you start the game, this site is contacted for updates which are then installed completely automatic.</comment>
+	<comment>Arcade classics playable on the Internet! Deployment is done using Java Web Start, enabling a one-click installation and automatic update mechanism. This means: no difficult installation procedures, and each time you start the game, this site is contacted for updates which are then installed completely automatic. Also has a unique "VirtuaArcade" mode where you can walk around a 3D arcade and play the game that you are looking at!</comment>
 	<status>Active</status>
 
 	<platform>Java</platform>
@@ -30,6 +30,10 @@
 		<autoframeskip>Yes</autoframeskip>
 		<throttle>Yes</throttle>
 	</features>
+
+	<files>
+		<file name="JEmu2_v2.2_src.zip">Emulator Source v2.2 (just for the curious)</file>
+	</files>
 
 	<relatives>
 		<predecessors>
