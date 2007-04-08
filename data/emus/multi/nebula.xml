@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="nebula" type="multi" dat="Nebula_v2.25">
+<emulator id="nebula" type="multi" dat="Nebula_v2.25b">
 	<name>Nebula</name>
-	<version>2.25</version>
-	<date>10/09/2005</date>
+	<version>2.25b</version>
+	<date>18/02/2007</date>
 
 	<homepage>http://nebula.emulatronia.com/</homepage>
 	<author_link id="elsemi">&author_elsemi;</author_link>
@@ -45,7 +45,7 @@
 	</features>
 
 	<files>
-		<file name="nebula225.zip">Emulator</file>
+		<file name="nebula225b.zip">Emulator</file>
 		<file name="cheater18.zip">Cheat Utility</file>
 		<file name="shots15.zip">Screenshots</file>
 		<file name="gui16.zip">GUI Templates</file>
