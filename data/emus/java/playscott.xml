@@ -5,14 +5,14 @@
 	<version>1.2</version>
 	<date>28/06/2003</date>
 
-	<homepage>http://cottage.consolemul.com/</homepage>
+	<homepage>http://cottage.consolemul.com/playscott/Playscott.html</homepage>
 	<author_link id="romain_tisserland">&author_romain_tisserland;</author_link>
 	<author_link id="david_raingeard">&author_david_raingeard;</author_link>
 	<author_link id="gollum">&author_gollum;</author_link>
 
 	<emulates>Capcom CPS-1 sound</emulates>
 	<comment>Capcom CPS-1 sound playable through your web browser!</comment>
-	<status>Dormant</status>
+	<status>Abandoned</status>
 
 	<platform>Java</platform>
 

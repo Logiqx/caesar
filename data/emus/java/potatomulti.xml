@@ -5,7 +5,7 @@
 	<version>2005-11-12</version>
 	<date>16/10/2005</date>
 
-	<homepage>http://cottage.consolemul.com/</homepage>
+	<homepage>http://cottage.consolemul.com/index_org.html</homepage>
 	<homepage>http://www.game-oldies.com/?m=list&amp;machine=arcade</homepage>
 	<author_link id="romain_tisserland">&author_romain_tisserland;</author_link>
 	<author_link id="david_raingeard">&author_david_raingeard;</author_link>
@@ -13,7 +13,7 @@
 
 	<emulates>Z80 and 68000 based classics</emulates>
 	<comment>Arcade classics playable on the Internet! Play the games directly from within your web browser.</comment>
-	<status>Active</status>
+	<status>Stalled</status>
 
 	<platform>Java</platform>
 
