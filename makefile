@@ -14,7 +14,7 @@ LD=@load_tables.sh
 
 DATA_DIR=data
 XSL_DIR=xsl
-ifeq ($(HOSTNAME), srv01.proto-host.com)
+ifeq ($(HOSTNAME), gamma.publichostserver.com)
 TXT_DIR=../www/caesar/txt
 SQL_DIR=../www/caesar/sql
 else

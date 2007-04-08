@@ -322,7 +322,7 @@ TMP_DIR=tmp
 GROUP=$2
 ERRFLG=0
 
-if [[ $HOSTNAME = "srv01.proto-host.com" ]]
+if [[ $HOSTNAME = "gamma.publichostserver.com" ]]
 then
 	SQL_DIR=../www/caesar/sql
 else
