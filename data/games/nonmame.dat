@@ -3260,6 +3260,60 @@ game (
 ################################################################################
 
 game (
+	name dkongex
+	description "Donkey Kong (Foundry)"
+	year 2001
+	manufacturer "Bootleg"
+	cloneof dkong
+	romof dkong
+	rom ( name cx_5et_g.bin size 4096 crc 00b7efaf )
+	rom ( name cx_5ct_g.bin size 4096 crc 88af9b69 )
+	rom ( name cx_5bt_g.bin size 4096 crc de74ad91 )
+	rom ( name cx_5at_g.bin size 4096 crc 9fa3e5b7 )
+	rom ( name s_3i_b.bin merge s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
+	rom ( name s_3j_b.bin merge s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
+	rom ( name v_5h_b.bin merge v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
+	rom ( name v_3pt.bin merge v_3pt.bin size 2048 crc 15e9c5e9 sha1 976eb1e18c74018193a35aa86cff482ebfc5cc4e )
+	rom ( name l_4m_b.bin merge l_4m_b.bin size 2048 crc 59f8054d sha1 793dba9bf5a5fe76328acdfb90815c243d2a65f1 )
+	rom ( name l_4n_b.bin merge l_4n_b.bin size 2048 crc 672e4714 sha1 92e5d379f4838ac1fa44d448ce7d142dae42102f )
+	rom ( name l_4r_b.bin merge l_4r_b.bin size 2048 crc feaa59ee sha1 ecf95db5a20098804fc8bd59232c66e2e0ed3db4 )
+	rom ( name l_4s_b.bin merge l_4s_b.bin size 2048 crc 20f2ef7e sha1 3bc482a38bf579033f50082748ee95205b0f673d )
+	rom ( name c-2k.bpr merge c-2k.bpr size 256 crc e273ede5 sha1 b50ec9e1837c00c20fb2a4369ec7dd0358321127 )
+	rom ( name c-2j.bpr merge c-2j.bpr size 256 crc d6412358 sha1 f9c872da2fe8e800574ae3bf483fb3ccacc92eb3 )
+	rom ( name v-5e.bpr merge v-5e.bpr size 256 crc b869b8f5 sha1 c2bdccbf2654b64ea55cd589fd21323a9178a660 )
+	archive ( name "dkongex" )
+	chip ( type audio name "DX samples" )
+	input ( dipswitches 1 )
+	video ( screen raster orientation vertical x 256 y 224 freq 60 )
+	driver ( status good color good colordeep 8 credits "Antiriad & Raine Team" )
+)
+
+game (
+	name froggs
+	description "Frogger enhanced hiscore"
+	year 2001
+	manufacturer "Bootleg"
+	cloneof frogger
+	romof frogger
+	rom ( name frogger.ic5 size 4096 crc c4224bc4 sha1 3e2c8911709a09a6b55ef05d9999a6da8f2bd46f )
+	rom ( name frogger.ic6 size 4096 crc 5370ad00 sha1 ede44284976db9c93484ec97dcbfa923f21a48b2 )
+	rom ( name frogger.ic7 size 4096 crc dd251066 sha1 4612e1fe1ab7182a277140b1a1976cc17e0746a5 )
+	rom ( name frogger.ic8 size 4096 crc e7d0563d sha1 bf855767d847dfff97827d2ed2ed6009af069f42 )
+	rom ( name frogger.608 merge frogger.608 size 2048 crc e8ab0256 sha1 f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc )
+	rom ( name frogger.609 merge frogger.609 size 2048 crc 7380a48f sha1 75582a94b696062cbdb66a4c5cf0bc0bb94f81ee )
+	rom ( name frogger.610 merge frogger.610 size 2048 crc 31d7eb27 sha1 2e1d34ae4da385fd7cac94707d25eeddf4604e1a )
+	rom ( name frogger.607 merge frogger.607 size 2048 crc 05f7d883 sha1 78831fd287da18928651a8adb7e578d291493eff )
+	rom ( name frogger.606 merge frogger.606 size 2048 crc f524ee30 sha1 dd768967add61467baa08d5929001f157d6cd911 )
+	rom ( name pr-91.6l merge pr-91.6l size 32 crc 413703bf sha1 66648b2b28d3dcbda5bdb2605d1977428939dd3c )
+	archive ( name "froggs" )
+	chip ( type audio name "ay9810" )
+	chip ( type audio name "DX samples" )
+	input ( dipswitches 2 )
+	video ( screen raster orientation vertical x 256 y 224 freq 60 )
+	driver ( status good color good colordeep 8 credits "Antiriad & Raine Team" )
+)
+
+game (
 	name multi15
 	description "MultiPac 1.5"
 	year 1998
@@ -3274,6 +3328,10 @@ game (
 	rom ( name 82s126.1m merge 82s126.1m size 256 crc a9cc86bf sha1 bbcec0570aeceb582ff8238a4bc8546a23430081 )
 	rom ( name 82s126.3m merge 82s126.3m size 256 crc 77245b66 sha1 0c4d0bee858b97632411c440bea6948a74759746 )
 	archive ( name "multi15" )
+	chip ( type audio name "namco" )
+	input ( dipswitches 4 )
+	video ( screen raster orientation vertical x 288 y 224 freq 60 )
+	driver ( status good color good colordeep 8 credits "Antiriad & Raine Team" )
 )
 
 game (

@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="raine32" type="multi" dat="RAINE_v0.50.2">
+<emulator id="raine32" type="multi" dat="RAINE_v0.50.3">
 	<name>RAINE32</name>
-	<version>0.50.2</version>
-	<date>28/01/2007</date>
+	<version>0.50.3</version>
+	<date>22/02/2007</date>
 
 	<homepage>http://www.rainemu.com/</homepage>
 	<author_link id="tux">&author_tux;</author_link>
@@ -51,15 +51,15 @@
 	</features>
 
 	<files>
-		<file name="rainew-0.50.2.zip">Emulator</file>
-		<file name="raine_dlls.zip">Libraries (PNG, SDL, zlib)</file>
-		<file name="rainefonts.zip">RAINE Fonts</file>
-		<file name="snapshot-am.zip">Snapshots</file>
-		<file name="big-snapshot-am.zip">Big Snapshots</file>
-		<file name="dkongg.dx2">Donkey Kong DX File</file>
-		<file name="froggerg.dx2">Frogger DX File</file>
-		<file name="mspacmang.dx2">Ms Pacman DX File</file>
-		<file name="pacmang.dx2">Pacman DX File</file>
+		<file name="rainew-0.50.3.zip">Emulator</file>
+		<file name="dkongg.dx2">Donkey Kong DX File (Graphics)</file>
+		<file name="dkongm.dx2">Donkey Kong DX File (Music)</file>
+		<file name="froggerg.dx2">Frogger DX File (Graphics)</file>
+		<file name="froggerm.dx2">Frogger DX File (Music)</file>
+		<file name="galdxg.dx2">Galaxian DX File (Graphics)</file>
+		<file name="galdxm.dx2">Galaxian DX File (Music)</file>
+		<file name="mspacmang.dx2">Ms Pacman DX File (Graphics)</file>
+		<file name="pacmang.dx2">Pacman DX File (Graphics)</file>
 	</files>
 
 	<relatives>
