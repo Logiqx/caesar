@@ -338,7 +338,8 @@ game (
 	description "UNIVERSE BIOS (v1.0 to v2.1, non-MAME)"
 	year 2005
 	manufacturer "CPS2Shock"
-	rom ( name uni-bios.rom size 131072 crc 8dabf76b sha1 c23732c4491d966cf0373c65c83c7a4e88f0082c )
+	rom ( name uni-bios.rom size 131072 crc 2d50996a sha1 5241a4fb0c63b1a23fd1da8efa9c9a9bd3b4279c )
+	rom ( name uni-bios.21 size 131072 crc 8dabf76b sha1 c23732c4491d966cf0373c65c83c7a4e88f0082c )
 	rom ( name uni-bios.20 size 131072 crc 0c12c2ad sha1 37bcd4d30f3892078b46841d895a6eff16dc921e )
 	rom ( name uni-bios.13 size 131072 crc b24b44a0 sha1 eca8851d30557b97c309a0d9f4a9d20e5b14af4e )
 	rom ( name uni-bios.12 size 131072 crc 4fa698e9 sha1 682e13ec1c42beaa2d04473967840c88fd52c75a )
