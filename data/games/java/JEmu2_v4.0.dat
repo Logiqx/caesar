@@ -1,8 +1,8 @@
 clrmamepro (
 	name JEmu2
-	description "JEmu2 v1.8"
+	description "JEmu2 v4.0"
 	category "Java Emulator"
-	version 20051030
+	version 20070408
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -448,5 +448,85 @@ game (
 	year 1985
 	manufacturer "Konami"
 	sourcefile yiear.c
+)
+
+game (
+	name diamond
+	description "Diamond Run"
+	year 1989
+	manufacturer "KH Video"
+	sourcefile gng.c
+)
+
+game (
+	name gloc
+	description "G-LOC Air Battle (US)"
+	year 1990
+	manufacturer "Sega"
+	sourcefile segaybd.c
+)
+
+game (
+	name gforce2
+	description "Galaxy Force 2"
+	year 1988
+	manufacturer "Sega"
+	sourcefile segaybd.c
+)
+
+game (
+	name jrpacman
+	description "Jr. Pac-Man"
+	year 1983
+	manufacturer "Bally Midway"
+	sourcefile jrpacman.c
+)
+
+game (
+	name pacplus
+	description "Pac-Man Plus"
+	year 1982
+	manufacturer "[Namco] (Midway license)"
+	sourcefile pacman.c
+)
+
+game (
+	name pdrift
+	description "Power Drift (World, Rev A)"
+	year 1988
+	manufacturer "Sega"
+	sourcefile segaybd.c
+)
+
+game (
+	name rchase
+	description "Rail Chase (Japan)"
+	year 1991
+	manufacturer "Sega"
+	sourcefile segaybd.c
+)
+
+game (
+	name sharrier
+	description "Space Harrier (Rev A, 8751 315-5163A)"
+	year 1985
+	manufacturer "Sega"
+	sourcefile segahang.c
+)
+
+game (
+	name strkfgtr
+	description "Strike Fighter (Japan)"
+	year 1991
+	manufacturer "Sega"
+	sourcefile segaybd.c
+)
+
+game (
+	name zigzag
+	description "Zig Zag (Galaxian hardware, set 1)"
+	year 1982
+	manufacturer "LAX"
+	sourcefile galaxian.c
 )
 
