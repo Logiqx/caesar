@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="daphne_linux" type="linux" dat="dummy">
 	<name>Daphne (Linux)</name>
-	<version>0.99.7</version>
-	<date>24/09/2005</date>
+	<version>1.0 beta</version>
+	<date>06/02/2007</date>
 
 	<homepage>http://www.daphne-emu.com/</homepage>
 	<homepage>http://daphne.rulecity.com</homepage>
@@ -37,7 +37,8 @@
 	</features>
 
 	<files>
-		<file name="daphne-0.99.7-linux.tar.gz">Emulator</file>
+		<file name="daphne-1.0beta-linux.tar.gz">Emulator v1.0 beta</file>
+		<file name="daphne-0.99.7-linux.tar.gz">Emulator v0.99.7</file>
 	</files>
 
 	<relatives>
