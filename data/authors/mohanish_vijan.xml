@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="mohanish_vijan">
+	<name>Mohanish Vijan</name>
+	<email>mohvijan@hotmail.com</email>
+	<email>97mvisan@ccs.northants.sch.uk</email>
+	<emulator_links>
+		<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
+	</emulator_links>
+</author>

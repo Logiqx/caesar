@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="tickle_mac" type="mac" dat="dummy">
+	<name>Tickle (Mac)</name>
+	<version>0.93</version>
+	<date>02/06/2006</date>
+
+	<homepage>http://www.ascotti.org/programming/tickle/tickle.htm</homepage>
+	<author_link id="alessandro_scotti">&author_alessandro_scotti;</author_link>
+
+	<emulates>Arcade classics from the 1980s</emulates>
+	<comment>Tickle is an object oriented framework written to develop hardware emulators, but it can also used to write simple games and similar stuff. Tickle is composed by a portable library of functions and interfaces, and by an OS-dependent front end that provides access to system input and output devices (keyboard, mouse, joystick, sound, video and so on).</comment>
+	<status>Dormant</status>
+
+	<platform>Mac</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="Tickle0.93_DEV.dmg">Emulator</file>
+		<file name="Tickle0.93_DEV_src.dmg">Source</file>
+	</files>
+
+	<relatives>
+		<port_of>
+			<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+		</port_of>
+	</relatives>	
+</emulator>

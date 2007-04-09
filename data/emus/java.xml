@@ -6,6 +6,7 @@
 	<emulator_links>
 		<emulator_link id="cottage" type="java">&emulator_cottage;</emulator_link>
 		<emulator_link id="jae" type="java">&emulator_jae;</emulator_link>
+		<emulator_link id="jape" type="java">&emulator_jape;</emulator_link>
 		<emulator_link id="java_phoenix_emulator" type="java">&emulator_java_phoenix_emulator;</emulator_link>
 		<emulator_link id="java_pleiads_emulator" type="java">&emulator_java_pleiads_emulator;</emulator_link>
 		<emulator_link id="jemu" type="java">&emulator_jemu;</emulator_link>

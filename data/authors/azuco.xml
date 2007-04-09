@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="azuco">
+	<name>Azuco</name>
+	<email>azuco@smallnews.net</email>
+	<homepage>http://www.smallnews.net/azuco/</homepage>
+	<emulator_links>
+		<emulator_link id="hornet" type="single">&emulator_hornet;</emulator_link>
+	</emulator_links>
+</author>

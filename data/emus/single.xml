@@ -31,6 +31,7 @@
 		<emulator_link id="gg" type="single">&emulator_gg;</emulator_link>
 		<emulator_link id="grytra" type="single">&emulator_grytra;</emulator_link>
 		<emulator_link id="gyruss" type="single">&emulator_gyruss;</emulator_link>
+		<emulator_link id="hornet" type="single">&emulator_hornet;</emulator_link>
 		<emulator_link id="irobot" type="single">&emulator_irobot;</emulator_link>
 		<emulator_link id="ikari" type="single">&emulator_ikari;</emulator_link>
 		<emulator_link id="jabawape" type="single">&emulator_jabawape;</emulator_link>

@@ -9,7 +9,7 @@
 	<author_link id="alessandro_scotti">&author_alessandro_scotti;</author_link>
 
 	<emulates>Arcade classics from the 1980s</emulates>
-	<comment>Tickle is an object oriented framework written to develop hardware emulators, but it can also used to write simple games and similar stuff. Tickle is composed by a portable library of functions and interfaces, and by an OS-dependent front end that provides access to system input and output devices (keyboard, mouse, joystick, sound, video and so on). The "Tickle" Edition contains a circuit emulator for Atari's Rebound (1973). It is far from complete and very CPU intensive but worth a look!</comment>
+	<comment>Tickle is an object oriented framework written to develop hardware emulators, but it can also used to write simple games and similar stuff. Tickle is composed by a portable library of functions and interfaces, and by an OS-dependent front end that provides access to system input and output devices (keyboard, mouse, joystick, sound, video and so on). The "Rebound" Edition contains a circuit emulator for Atari's Rebound (1973). It is far from complete and very CPU intensive but worth a look!</comment>
 	<status>Active</status>
 
 	<tool_links>
@@ -45,4 +45,10 @@
 		<file name="tickle_rebound_win32.zip">Emulator</file>
 		<file name="tickle_rebound_src.zip">Source</file>
 	</files>
+
+	<relatives>
+		<ports>
+			<emulator_link id="tickle_mac" type="mac">&emulator_tickle_mac;</emulator_link>
+		</ports>
+	</relatives>
 </emulator>

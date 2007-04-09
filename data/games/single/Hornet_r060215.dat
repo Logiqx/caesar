@@ -1,0 +1,25 @@
+clrmamepro (
+	name "Hornet"
+	description "Hornet r060215"
+	category "Single Game Arcade Emulator"
+	version 20070409
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name gradius4
+	description "Gradius 4: Fukkatsu"
+	year 1998
+	manufacturer "Konami"
+	rom ( name 837c01.27p size 2097152 crc ce003123 sha1 15e33997be2c1b3f71998627c540db378680a7a1 )
+	rom ( name 837a04.16t size 2097152 crc 18453b59 sha1 3c75a54d8c09c0796223b42d30fb3867a911a074 )
+	rom ( name 837a05.14t size 2097152 crc 77178633 sha1 ececdd501d0692390325c8dad6dbb068808a8b26 )
+	rom ( name 837a14.32u size 4194304 crc ff1b5d18 sha1 7a38362170133dcc6ea01eb62981845917b85c36 )
+	rom ( name 837a13.24u size 4194304 crc d86e10ff sha1 6de1179d7081d9a93ab6df47692d3efc190c38ba )
+	rom ( name 837a16.32v size 4194304 crc bb7a7558 sha1 8c8cc062793c2dcfa72657b6ea0813d7223a0b87 )
+	rom ( name 837a15.24v size 4194304 crc e0620737 sha1 c14078cdb44f75c7c956b3627045d8494941d6b4 )
+	rom ( name 837a08.7s size 524288 crc c3a7ff56 sha1 9d8d033277d560b58da151338d14b4758a9235ea )
+	rom ( name 837a09.16p size 4194304 crc fb8f3dc2 sha1 69e314ac06308c5a24309abc3d7b05af6c0302a8 )
+	rom ( name 837a10.14p size 4194304 crc 1419cad2 sha1 a6369a5c29813fa51e8246d0c091736f32994f3d )
+)
+

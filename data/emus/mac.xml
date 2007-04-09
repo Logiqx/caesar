@@ -21,6 +21,7 @@
 		<emulator_link id="rem_mac" type="mac">&emulator_rem_mac;</emulator_link>
 		<emulator_link id="shaolin" type="mac">&emulator_shaolin;</emulator_link>
 		<emulator_link id="t3em" type="mac">&emulator_t3em;</emulator_link>
+		<emulator_link id="tickle_mac" type="mac">&emulator_tickle_mac;</emulator_link>
 		<emulator_link id="vectorama" type="mac">&emulator_vectorama;</emulator_link>
 		<emulator_link id="williams_digital_arcade" type="mac">&emulator_williams_digital_arcade;</emulator_link>
 		<emulator_link id="yiear" type="mac">&emulator_yiear;</emulator_link>

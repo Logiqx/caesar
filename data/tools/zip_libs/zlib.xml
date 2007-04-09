@@ -23,9 +23,11 @@
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
 		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
 		<emulator_link id="hive" type="multi">&emulator_hive;</emulator_link>
+		<emulator_link id="hornet" type="single">&emulator_hornet;</emulator_link>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
 		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
 		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
 		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
 		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>

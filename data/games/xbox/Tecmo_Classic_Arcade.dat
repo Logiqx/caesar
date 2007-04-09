@@ -1,0 +1,77 @@
+game (
+	name tbowl
+	description "Tecmo Bowl"
+	year 1987
+	manufacturer "Tecmo"
+)
+
+game (
+	name rygar
+	description "Rygar"
+	year 1986
+	manufacturer "Tecmo"
+)
+
+game (
+	name starforc
+	description "Star Force"
+	year 1984
+	manufacturer "Tehkan"
+)
+
+game (
+	name solomon
+	description "Solomon's Key"
+	year 1986
+	manufacturer "Tecmo"
+)
+
+game (
+	name pleiads
+	description "Pleiads"
+	year 1981
+	manufacturer "Tehkan"
+)
+
+game (
+	name senjyo
+	description "Senjyo"
+	year 1983
+	manufacturer "Tehkan"
+)
+
+game (
+	name pbaction
+	description "Pinball Action"
+	year 1985
+	manufacturer "Tehkan"
+)
+
+game (
+	name stratof
+	description "Raiga - Strato Fighter"
+	year 1991
+	manufacturer "Tecmo"
+)
+
+game (
+	name swimmer
+	description "Swimmer"
+	year 1982
+	manufacturer "Tehkan"
+)
+
+game (
+	name bombjack
+	description "Bomb Jack"
+	year 1984
+	manufacturer "Tehkan"
+)
+
+game (
+	name twrldc94
+	description "Tecmo World Cup '94"
+	year 1994
+	manufacturer "Tecmo"
+)
+

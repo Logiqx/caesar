@@ -48,5 +48,9 @@
 		<predecessors>
 			<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
 		</predecessors>
+
+		<derivatives>
+			<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
+		</derivatives>
 	</relatives>
 </emulator>

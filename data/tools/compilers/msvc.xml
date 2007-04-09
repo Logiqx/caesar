@@ -25,6 +25,7 @@
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
 		<emulator_link id="gekko" type="single">&emulator_gekko;</emulator_link>
 		<emulator_link id="hive" type="multi">&emulator_hive;</emulator_link>
+		<emulator_link id="hornet" type="single">&emulator_hornet;</emulator_link>
 		<emulator_link id="irobot" type="single">&emulator_irobot;</emulator_link>
 		<emulator_link id="junofirst" type="multi">&emulator_junofirst;</emulator_link>
 		<emulator_link id="magex" type="multi">&emulator_magex;</emulator_link>
@@ -33,8 +34,9 @@
 		<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
 		<emulator_link id="mamecepod" type="wince">&emulator_mamecepod;</emulator_link>
 		<emulator_link id="marblemadness" type="single">&emulator_marblemadness;</emulator_link>
-		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
 		<emulator_link id="minipac" type="single">&emulator_minipac;</emulator_link>
+		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
+		<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
 		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
 		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>

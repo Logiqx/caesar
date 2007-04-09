@@ -62,6 +62,7 @@ emus/dreamcast/joeys_phoenix	phoenix-0.4.tar.gz	334540
 emus/dreamcast/laserdc	laserdcr1.zip	249262
 emus/dreamcast/multipac_dc	multipacdc.zip	90408
 emus/fake/kallus2	kallus2a.zip	601004
+emus/fake/msega	MSega.zip	265340
 emus/gp32/multipac_gp32	multipac 1.0 source.rar	130117
 emus/gp32/multipac_gp32	multipac 1.0.rar	357756
 emus/java/cottage	CottAGE_1.6_bin.zip	699682
@@ -71,6 +72,9 @@ emus/java/cottage	cottage011-sources.zip	359550
 emus/java/cottage	cottage011.zip	503269
 emus/java/cottage	jef_1_0_beta4_src.zip	122075
 emus/java/jae	Tailgunner.zip	236408
+emus/java/jape	jape020b.zip	1156919
+emus/java/jape	jape020dat.zip	6843
+emus/java/jape	jape020s.zip	354807
 emus/java/java_phoenix_emulator	jphx040.zip	52222
 emus/java/java_pleiads_emulator	jplds030.zip	46697
 emus/java/jemu2	JEmu2_v2.2_src.zip	488095
@@ -133,6 +137,8 @@ emus/mac/rem_mac	REM.cpt.hqx	157736
 emus/mac/shaolin	Shaolin.sit	84381
 emus/mac/t3em	invaders.sit.hqx	78824
 emus/mac/t3em	t3em.sit.hqx	158308
+emus/mac/tickle_mac	Tickle0.93_DEV.dmg	506657
+emus/mac/tickle_mac	Tickle0.93_DEV_src.dmg	409042
 emus/mac/vectorama	vectorama.sit.bin	205696
 emus/mac/williams_digital_arcade	stargatepatch.sit.hqx	551008
 emus/mac/williams_digital_arcade	stargatepatch2.sit.hqx	42352
@@ -463,6 +469,7 @@ emus/single/grytra	grytra_codigo.zip	40333
 emus/single/grytra	grytra10.zip	120810
 emus/single/grytra	gryzdoc.zip	958
 emus/single/gyruss	gy004.zip	192070
+emus/single/hornet	hornet_r060215.zip	7938440
 emus/single/ikari	iwem049b.zip	26100
 emus/single/irobot	irobot2.zip	912262
 emus/single/irobot	irobot98.zip	51322

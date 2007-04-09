@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="tecmo">
+	<name>Tecmo</name>
+	<homepage>http://www.tecmoinc.com/</homepage>
+	<emulator_links>
+		<emulator_link id="tecmo_arcade_classics_xbox" type="xbox">&emulator_tecmo_arcade_classics_xbox;</emulator_link>
+	</emulator_links>
+</author>

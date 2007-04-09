@@ -5,5 +5,6 @@
 	<comment>These do absolutely nothing! They are included in CAESAR so that you won't be deceived by them</comment>
 	<emulator_links>
 		<emulator_link id="kallus2" type="fake">&emulator_kallus2;</emulator_link>
+		<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
 	</emulator_links>
 </emulator_contents>

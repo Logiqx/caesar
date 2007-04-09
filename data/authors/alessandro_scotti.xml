@@ -8,5 +8,6 @@
 		<emulator_link id="side" type="multi">&emulator_side;</emulator_link>
 		<emulator_link id="side_linux" type="linux">&emulator_side_linux;</emulator_link>
 		<emulator_link id="tickle" type="multi">&emulator_tickle;</emulator_link>
+		<emulator_link id="tickle_mac" type="mac">&emulator_tickle_mac;</emulator_link>
 	</emulator_links>
 </author>

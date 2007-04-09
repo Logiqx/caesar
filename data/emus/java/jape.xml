@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="jape" type="java" dat="empty">
+	<name>JAPE (Java Arcade Project Emulator)</name>
+	<version>0.20</version>
+	<date>13/09/2006</date>
+
+	<homepage>http://www.innoveware.com/</homepage>
+	<author_link id="gollum">&author_gollum;</author_link>
+
+	<emulates>Arcade classics</emulates>
+	<comment>Quote from the JAPE home page: In the future, JAPE could be a good Java counterpart to MAME. This project is a good source of information on the software and hardware of many arcade games. You now have a fully-featured Java version to play with. If you are not familiar with C or the complex MAME compilation, you can use the Java version instead, try to write new drivers or experiment with the emulator and built-in debugger, etc.</comment>
+	<status>Active</status>
+
+	<platform>Java</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>?</screendump>
+		<hiscoresave>?</hiscoresave>
+		<savegame>?</savegame>
+		<recordinput>?</recordinput>
+		<dips>?</dips>
+		<cheat>?</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="jape020b.zip">Emulator</file>
+		<file name="jape020s.zip">Source</file>
+		<file name="jape020dat.zip">CMPro data file</file>
+	</files>
+</emulator>

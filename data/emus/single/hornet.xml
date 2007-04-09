@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="hornet" type="single" dat="Hornet_r060215">
+	<name>Hornet</name>
+	<version>r060215</version>
+	<date>15/02/2006</date>
+
+	<homepage>http://www.smallnews.net/azuco/</homepage>
+	<author_link id="azuco">&author_azuco;</author_link>
+
+	<emulates>Gradius 4 (Konami Hornet hardware)</emulates>
+	<comment>This only appears to be the start of an emulator as I couldn't get it to actual play the game, just load the ROMs.</comment>
+	<status>Dormant</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>No</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="hornet_r060215.zip">Emulator</file>
+	</files>
+</emulator>
