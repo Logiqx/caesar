@@ -7,6 +7,7 @@
 		<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
 		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
+		<emulator_link id="jape" type="java">&emulator_jape;</emulator_link>
 		<emulator_link id="kawaks" type="multi">&emulator_kawaks;</emulator_link>
 		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
