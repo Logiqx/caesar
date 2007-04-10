@@ -21,7 +21,7 @@
 		<!-- <emulator_link id="neoragex" type="multi">&emulator_neoragex;</emulator_link> -->
 		<emulator_link id="radikal_bikers_emulator" type="single">&emulator_radikal_bikers_emulator;</emulator_link>
 		<!-- <emulator_link id="rage" type="multi">&emulator_rage;</emulator_link> -->
-		<emulator_link id="raine" type="multi">&emulator_raine;</emulator_link>
+		<emulator_link id="raine32" type="multi">&emulator_raine32;</emulator_link>
 		<!-- <emulator_link id="retrocade" type="multi">&emulator_retrocade;</emulator_link> -->
 		<!-- <emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link> -->
 		<!-- <emulator_link id="system16" type="multi">&emulator_system16;</emulator_link> -->
