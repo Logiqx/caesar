@@ -3,7 +3,7 @@
 <emulator id="jemu2" type="java" aspectx="4" aspecty="3" dat="JEmu2_v4.0">
 	<name>JEmu2</name>
 	<version>v4.0</version>
-	<date>16/04/2007</date>
+	<date>16/01/2007</date>
 
 	<homepage>http://www.gagaplay.com/jemu2/</homepage>
 	<author_link id="jaydy">&author_jaydy;</author_link>
