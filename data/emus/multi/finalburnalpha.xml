@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="finalburnalpha" type="multi" dat="FBA_v0.2.96.68">
 	<name>Final Burn Alpha</name>
-	<version>0.2.96.68</version>
-	<date>05/04/2007</date>
+	<version>0.2.96.70</version>
+	<date>09/04/2007</date>
 
 	<homepage>http://www.barryharris.me.uk/</homepage>
 	<homepage>http://fba.emuunlim.com</homepage>
@@ -50,9 +50,9 @@
 	</features>
 
 	<files>
-		<file name="fba_029668_unicode.zip">Emulator (Unicode)</file>
-		<file name="fba_029668_non_unicode.zip">Emulator (Non-Unicode - i.e. Windows 9x)</file>
-		<file name="fba_src_029668.zip">Source</file>
+		<file name="fba_029670_unicode.zip">Emulator (Unicode)</file>
+		<file name="fba_029670_non_unicode.zip">Emulator (Non-Unicode - i.e. Windows 9x)</file>
+		<file name="fba_src_029670.zip">Source</file>
 		<file name="mingw-cygwin-libs.zip">Cygwin Libraries (needed when compiling)</file>
 		<file name="francais.flt">French language pack</file>
 		<file name="Brazilian_Portugese.flt">Brazilian language pack</file>
