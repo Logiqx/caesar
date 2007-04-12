@@ -189,9 +189,9 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029668_non_unicode.zip	1723095
-emus/multi/finalburnalpha	fba_029668_unicode.zip	1727309
-emus/multi/finalburnalpha	fba_src_029668.zip	1984601
+emus/multi/finalburnalpha	fba_029670_non_unicode.zip	1772286
+emus/multi/finalburnalpha	fba_029670_unicode.zip	1779067
+emus/multi/finalburnalpha	fba_src_029670.zip	2054502
 emus/multi/finalburnalpha	francais.flt	35177
 emus/multi/finalburnalpha	mingw-cygwin-libs.zip	410007
 emus/multi/galemu	gal0409.zip	263302
