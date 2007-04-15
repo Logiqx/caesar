@@ -1,8 +1,8 @@
 clrmamepro (
 	name FBA
-	description "FBA v0.2.96.68"
+	description "FBA v0.2.96.71"
 	category "Emulator for MC68000/Z80 based arcade games"
-	version 20070407
+	version 20070415
 	author "Logiqx, http://www.logiqx.com/"
 	forcezipping zip
 )
@@ -1974,26 +1974,8 @@ game (
 )
 
 game (
-	name battlega
-	description "Battle Garegga (Europe / USA / Japan / Asia) (ver. Sat Feb 3 1996)"
-	year 1996
-	manufacturer "Raizing / 8ing"
-	cloneof battleg
-	romof battleg
-	rom ( name prg0.bin size 524288 crc f80c2fc2 sha1 a9aac5c7f5439b6fe8d1b3db1fb02a27cc28fdf6 )
-	rom ( name prg1.bin size 524288 crc 2ccfdd1e sha1 7a9f11f851854f3f8389b9c3c0906ebb8dc28712 )
-	rom ( name rom4.bin merge rom4.bin size 2097152 crc b333d81f sha1 5481465f1304334fd55798be2f44324c57c2dbcb )
-	rom ( name rom3.bin merge rom3.bin size 2097152 crc 51b9ebfb sha1 30e0c326f5175aa436df8dba08f6f4e08130b92f )
-	rom ( name rom2.bin merge rom2.bin size 2097152 crc b330e5e2 sha1 5d48e9d56f99d093b6390e0af1609fd796df2d35 )
-	rom ( name rom1.bin merge rom1.bin size 2097152 crc 7eafdd70 sha1 7c8da8e86c3f9491719b1d7d5d285568d7614f38 )
-	rom ( name text.u81 merge text.u81 size 32768 crc e67fd534 sha1 987d0edffc2c243a13d4567319ea3d185eaadbf8 )
-	rom ( name snd.bin merge snd.bin size 131072 crc 68632952 sha1 fb834db83157948e2b420b6051102a9c6ac3969b )
-	rom ( name rom5.bin merge rom5.bin size 1048576 crc f6d49863 sha1 3a3c354852adad06e8a051511abfab7606bce382 )
-)
-
-game (
 	name battlegb
-	description "Battle Garegga (ver. Sat Mar 2 1996)"
+	description "Battle Garegga (Austria / Hong Kong) (ver. Sat Mar 2 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	cloneof battleg
@@ -2011,7 +1993,7 @@ game (
 
 game (
 	name battleg
-	description "Battle Garegga (ver. Tue Apr 2 1996)"
+	description "Battle Garegga (Denmark / China) (ver. Tue Apr 2 1996)"
 	year 1996
 	manufacturer "Raizing / 8ing"
 	rom ( name u123 size 524288 crc 88a4e66a sha1 ca97e564eed0c5e028b937312e55da56400d5c8c )
@@ -2023,6 +2005,24 @@ game (
 	rom ( name text.u81 size 32768 crc e67fd534 sha1 987d0edffc2c243a13d4567319ea3d185eaadbf8 )
 	rom ( name snd.bin size 131072 crc 68632952 sha1 fb834db83157948e2b420b6051102a9c6ac3969b )
 	rom ( name rom5.bin size 1048576 crc f6d49863 sha1 3a3c354852adad06e8a051511abfab7606bce382 )
+)
+
+game (
+	name battlega
+	description "Battle Garegga (Europe / USA / Japan / Asia) (ver. Sat Feb 3 1996)"
+	year 1996
+	manufacturer "Raizing / 8ing"
+	cloneof battleg
+	romof battleg
+	rom ( name prg0.bin size 524288 crc f80c2fc2 sha1 a9aac5c7f5439b6fe8d1b3db1fb02a27cc28fdf6 )
+	rom ( name prg1.bin size 524288 crc 2ccfdd1e sha1 7a9f11f851854f3f8389b9c3c0906ebb8dc28712 )
+	rom ( name rom4.bin merge rom4.bin size 2097152 crc b333d81f sha1 5481465f1304334fd55798be2f44324c57c2dbcb )
+	rom ( name rom3.bin merge rom3.bin size 2097152 crc 51b9ebfb sha1 30e0c326f5175aa436df8dba08f6f4e08130b92f )
+	rom ( name rom2.bin merge rom2.bin size 2097152 crc b330e5e2 sha1 5d48e9d56f99d093b6390e0af1609fd796df2d35 )
+	rom ( name rom1.bin merge rom1.bin size 2097152 crc 7eafdd70 sha1 7c8da8e86c3f9491719b1d7d5d285568d7614f38 )
+	rom ( name text.u81 merge text.u81 size 32768 crc e67fd534 sha1 987d0edffc2c243a13d4567319ea3d185eaadbf8 )
+	rom ( name snd.bin merge snd.bin size 131072 crc 68632952 sha1 fb834db83157948e2b420b6051102a9c6ac3969b )
+	rom ( name rom5.bin merge rom5.bin size 1048576 crc f6d49863 sha1 3a3c354852adad06e8a051511abfab7606bce382 )
 )
 
 game (
@@ -5239,6 +5239,118 @@ game (
 )
 
 game (
+	name gloc
+	description "G-LOC Air Battle (US)"
+	year 1990
+	manufacturer "Sega"
+	rom ( name epr-13170.25 size 131072 crc 45189229 sha1 01d18f6e4887633475baf610f455fad4ed7981e4 )
+	rom ( name epr-13169.24 size 131072 crc 1b47cd6e sha1 694f489766f25e4c1f1fef6db79de347688ad80a )
+	rom ( name epr-13028.27 size 131072 crc b6aa2edf sha1 07259fc48cd0f63fbd0a8dadf2294575cd790c85 )
+	rom ( name epr-13027.26 size 131072 crc 6463c87a sha1 882d980a1568ca777364822295e173224509f842 )
+	rom ( name epr-13032.81 size 131072 crc 7da09c4e sha1 09ec269c07f07549aa9851585eac0a5195e25bf9 )
+	rom ( name epr-13031.80 size 131072 crc f3c7e3f4 sha1 927c0cf05e7a72d79fdf19bbe7b18bf167feccd6 )
+	rom ( name epr-13030.54 size 131072 crc 81abcabf sha1 cb4e817d66a7f384aa9757758c51cd1bf7347dd0 )
+	rom ( name epr-13029.53 size 131072 crc f3638efb sha1 f82a46fc8616cbe0235746161c587e54adecfe50 )
+	rom ( name epr-13037.14 size 524288 crc b801a250 sha1 7d1f6a1f2022a4f302f22d11fa79057cf8134ad2 )
+	rom ( name epr-13039.16 size 524288 crc d7e1266d sha1 b0fc4cc60a7e876ae2af343bba6da3fb926ea9c5 )
+	rom ( name epr-13038.15 size 524288 crc 0b2edb6d sha1 04944d6e6f020cd6d33641110847706516630227 )
+	rom ( name epr-13040.17 size 524288 crc 4aeb3a85 sha1 5521fd2d3956839bdbe7b70a9e60cd9fb72a42f1 )
+	rom ( name epr-13048.67 size 524288 crc fe1eb0dd sha1 5e292fc0b83505eb289e026d4be24c9038ef1418 )
+	rom ( name epr-13056.75 size 524288 crc 5904f8e6 sha1 fbb01dadc796624c360d44b7631e3f1f285abf2e )
+	rom ( name epr-13044.63 size 524288 crc 4d931f89 sha1 ff603f4347e4728a2849d9f480893ad0af7abc5c )
+	rom ( name epr-13052.71 size 524288 crc 0291f040 sha1 610dee2a31445f4a054111b7005278560a9c0702 )
+	rom ( name epr-13064.86 size 524288 crc 5f8e651b sha1 f1a957e68dea40c23f6a5a208358ec6d6515fe60 )
+	rom ( name epr-13072.114 size 524288 crc 6b85641a sha1 143a4684d5f303cd30880a2d5728dccbdd168da4 )
+	rom ( name epr-13060.82 size 524288 crc ee16ad97 sha1 6af38cfaf694f686f8e4223fb0b13cd350a8b9e5 )
+	rom ( name epr-13068.110 size 524288 crc 64d52bbb sha1 b6eab546edb2443e5da6c94ec811ec5084212e60 )
+	rom ( name epr-13047.66 size 524288 crc 53340832 sha1 8ece8a71ea8ed80458121622307a137fb13931f6 )
+	rom ( name epr-13055.74 size 524288 crc 39b6b665 sha1 d915db1d9bfe0c6ad3f7b447ce0cfdb42ec66ffe )
+	rom ( name epr-13043.62 size 524288 crc 208f16fd sha1 ce96708ea9886af4aba8730cbb98c0ca72b96f57 )
+	rom ( name epr-13051.70 size 524288 crc ad62cbd4 sha1 09c008ce5cb97575a4312d2f22566bda72ecc4e2 )
+	rom ( name epr-13063.85 size 524288 crc c580bf6d sha1 cb72970377ad2acce499059aa8155711b8da8a11 )
+	rom ( name epr-13071.113 size 524288 crc df99ef99 sha1 12648844c6e78dbd573b7bf0c981edb4d3012b58 )
+	rom ( name epr-13059.81 size 524288 crc 4c982558 sha1 e04902af2740ca098cd6bbf1f57cb25562754a76 )
+	rom ( name epr-13067.109 size 524288 crc f97f6119 sha1 6f91fc28a1260ca4f1c695863717b27d1e45dc32 )
+	rom ( name epr-13046.65 size 524288 crc c75a86e9 sha1 8a180e1e2dd06eb81e2aa4ef73b83879cf6afc1b )
+	rom ( name epr-13054.73 size 524288 crc 2934549a sha1 058b2966141d0db6bb8557d65c77b3458aca9358 )
+	rom ( name epr-13042.61 size 524288 crc 53ed97af sha1 22dffa434eb98e5bca1e429b69553a3540dc54a7 )
+	rom ( name epr-13050.69 size 524288 crc 04429068 sha1 d7d8738809fd959ed428796b2bd1b589b74522c6 )
+	rom ( name epr-13062.84 size 524288 crc 4fdb4ee3 sha1 d76065b9abe5c3cf692567d3a8746a231748340d )
+	rom ( name epr-13070.112 size 524288 crc 52ea130e sha1 860cb3a1701066e595518c49b696b7b7a3994ada )
+	rom ( name epr-13058.80 size 524288 crc 19ff1626 sha1 029e231c3322467b5e2e52eea11df4f645460468 )
+	rom ( name epr-13066.108 size 524288 crc bc70a250 sha1 25189854cc01855b6e3589b85490f30dda029f86 )
+	rom ( name epr-13045.64 size 524288 crc 54d5bc6d sha1 18a301c9e6c4a352f300a438d85c6e6952bf0738 )
+	rom ( name epr-13053.72 size 524288 crc 9502af13 sha1 1a8c0fcd10f4c86af69c0107f486ca2eb8863f93 )
+	rom ( name epr-13041.60 size 524288 crc d0a7402c sha1 8932503c570ec49fdb4706f4015608bd060bafa0 )
+	rom ( name epr-13049.68 size 524288 crc 5b9c0b6c sha1 17f2460b7dc0bd34dca3f90f2b553df4a7149147 )
+	rom ( name epr-13061.83 size 524288 crc 7b95ec3b sha1 284aba4effd9d376a7a8f510a6f675fcb3393d09 )
+	rom ( name epr-13069.111 size 524288 crc e1f538f0 sha1 55dc85faed1d5a7f2d586bac7e524c3fef3c53b4 )
+	rom ( name epr-13057.79 size 524288 crc 73baefee sha1 6e86edc8229dd6112034a7df79f7341a4120dc6b )
+	rom ( name epr-13065.107 size 524288 crc 8937a655 sha1 d38726a8a6fe68a002ac8d17f70ab83c2f814aa2 )
+	rom ( name epr-13033.102 size 65536 crc 6df5e827 sha1 ec260886a27ba00690490500fcf4ebf07fb35205 )
+	rom ( name epr-13036.107 size 524288 crc 7890c26c sha1 97e0678bb571de5cf732804f8909e5cbd24980f1 )
+	rom ( name epr-13035.106 size 524288 crc 009fa13e sha1 c7b224b471696b12332fc7c403c127b19c297df7 )
+	rom ( name epr-13034.105 size 524288 crc cd22d95d sha1 857aa320df0b3fb44fc8a5526ba5ee82cc74fe63 )
+)
+
+game (
+	name glocr360
+	description "G-LOC R360"
+	year 1990
+	manufacturer "Sega"
+	cloneof gloc
+	romof gloc
+	rom ( name epr-13623.25 size 131072 crc 58ad10e7 sha1 3760ede1d1c089f6c8b2ec88b2f25bce67add467 )
+	rom ( name epr-13622.24 size 131072 crc c4e68dbf sha1 f85e6fdf159e19342e5a9278f004e95752af7d55 )
+	rom ( name epr-13323a.27 size 131072 crc 02e24a33 sha1 4955b13e5e90945dfb9066597b16df63c2a09552 )
+	rom ( name epr-13322a.26 size 131072 crc 94f67740 sha1 3d1be8dc9c370cd024fae19bb0b2663995d13d0e )
+	rom ( name epr-13327.81 size 131072 crc 627036f9 sha1 bae8a2b1a90088532e5d487e36265de9a1f38f84 )
+	rom ( name epr-13326.80 size 131072 crc 162ac233 sha1 863b93a38906e3d7f3446c2ee4914205f8123022 )
+	rom ( name epr-13325a.54 size 131072 crc aba307e5 sha1 a27a7d3699a95d7c6265a23157b2fefd362003dd )
+	rom ( name epr-13324a.53 size 131072 crc eb1b19e5 sha1 3d1d7299cb3befc22afc0db0376d7f94dec37367 )
+	rom ( name epr-13037.14 merge epr-13037.14 size 524288 crc b801a250 sha1 7d1f6a1f2022a4f302f22d11fa79057cf8134ad2 )
+	rom ( name epr-13039.16 merge epr-13039.16 size 524288 crc d7e1266d sha1 b0fc4cc60a7e876ae2af343bba6da3fb926ea9c5 )
+	rom ( name epr-13038.15 merge epr-13038.15 size 524288 crc 0b2edb6d sha1 04944d6e6f020cd6d33641110847706516630227 )
+	rom ( name epr-13040.17 merge epr-13040.17 size 524288 crc 4aeb3a85 sha1 5521fd2d3956839bdbe7b70a9e60cd9fb72a42f1 )
+	rom ( name epr-13048.67 merge epr-13048.67 size 524288 crc fe1eb0dd sha1 5e292fc0b83505eb289e026d4be24c9038ef1418 )
+	rom ( name epr-13056.75 merge epr-13056.75 size 524288 crc 5904f8e6 sha1 fbb01dadc796624c360d44b7631e3f1f285abf2e )
+	rom ( name epr-13044.63 merge epr-13044.63 size 524288 crc 4d931f89 sha1 ff603f4347e4728a2849d9f480893ad0af7abc5c )
+	rom ( name epr-13052.71 merge epr-13052.71 size 524288 crc 0291f040 sha1 610dee2a31445f4a054111b7005278560a9c0702 )
+	rom ( name epr-13064.86 merge epr-13064.86 size 524288 crc 5f8e651b sha1 f1a957e68dea40c23f6a5a208358ec6d6515fe60 )
+	rom ( name epr-13072.114 merge epr-13072.114 size 524288 crc 6b85641a sha1 143a4684d5f303cd30880a2d5728dccbdd168da4 )
+	rom ( name epr-13060.82 merge epr-13060.82 size 524288 crc ee16ad97 sha1 6af38cfaf694f686f8e4223fb0b13cd350a8b9e5 )
+	rom ( name epr-13068.110 merge epr-13068.110 size 524288 crc 64d52bbb sha1 b6eab546edb2443e5da6c94ec811ec5084212e60 )
+	rom ( name epr-13047.66 merge epr-13047.66 size 524288 crc 53340832 sha1 8ece8a71ea8ed80458121622307a137fb13931f6 )
+	rom ( name epr-13055.74 merge epr-13055.74 size 524288 crc 39b6b665 sha1 d915db1d9bfe0c6ad3f7b447ce0cfdb42ec66ffe )
+	rom ( name epr-13043.62 merge epr-13043.62 size 524288 crc 208f16fd sha1 ce96708ea9886af4aba8730cbb98c0ca72b96f57 )
+	rom ( name epr-13051.70 merge epr-13051.70 size 524288 crc ad62cbd4 sha1 09c008ce5cb97575a4312d2f22566bda72ecc4e2 )
+	rom ( name epr-13063.85 merge epr-13063.85 size 524288 crc c580bf6d sha1 cb72970377ad2acce499059aa8155711b8da8a11 )
+	rom ( name epr-13071.113 merge epr-13071.113 size 524288 crc df99ef99 sha1 12648844c6e78dbd573b7bf0c981edb4d3012b58 )
+	rom ( name epr-13059.81 merge epr-13059.81 size 524288 crc 4c982558 sha1 e04902af2740ca098cd6bbf1f57cb25562754a76 )
+	rom ( name epr-13067.109 merge epr-13067.109 size 524288 crc f97f6119 sha1 6f91fc28a1260ca4f1c695863717b27d1e45dc32 )
+	rom ( name epr-13331.65 size 524288 crc 8ea8febe sha1 c5b68f955807d7d901b773ba8fba5c9a2d29afd1 )
+	rom ( name epr-13333.73 size 524288 crc 5bcd37d4 sha1 df25d3ef4acd3aea2484ff5760a63245eafcb66c )
+	rom ( name epr-13330.61 size 524288 crc 1e325d52 sha1 91ffdb5d9926ea573550079ca0486a71baf70d07 )
+	rom ( name epr-13332.69 size 524288 crc 8fd8067e sha1 ac438ae60fa08418b5590f5656e2d1ecc3e6eb15 )
+	rom ( name epr-13335.84 size 524288 crc 98ea420b sha1 fc138a45e287e0c7c3ec1cc75aa6dabc9dca8d42 )
+	rom ( name epr-13337.112 size 524288 crc f55f00a4 sha1 77f1e946c7bce69aa9f1f3e59af1e033338c9d95 )
+	rom ( name epr-13334.80 size 524288 crc 72725060 sha1 6002eca365a69816ac6e7ccba65ae73967e83a89 )
+	rom ( name epr-13336.108 size 524288 crc e2d4d477 sha1 cdeefeb6d66433c121cac4e77453f6265bacf9e2 )
+	rom ( name epr-13045.64 merge epr-13045.64 size 524288 crc 54d5bc6d sha1 18a301c9e6c4a352f300a438d85c6e6952bf0738 )
+	rom ( name epr-13053.72 merge epr-13053.72 size 524288 crc 9502af13 sha1 1a8c0fcd10f4c86af69c0107f486ca2eb8863f93 )
+	rom ( name epr-13041.60 merge epr-13041.60 size 524288 crc d0a7402c sha1 8932503c570ec49fdb4706f4015608bd060bafa0 )
+	rom ( name epr-13049.68 merge epr-13049.68 size 524288 crc 5b9c0b6c sha1 17f2460b7dc0bd34dca3f90f2b553df4a7149147 )
+	rom ( name epr-13061.83 merge epr-13061.83 size 524288 crc 7b95ec3b sha1 284aba4effd9d376a7a8f510a6f675fcb3393d09 )
+	rom ( name epr-13069.111 merge epr-13069.111 size 524288 crc e1f538f0 sha1 55dc85faed1d5a7f2d586bac7e524c3fef3c53b4 )
+	rom ( name epr-13057.79 merge epr-13057.79 size 524288 crc 73baefee sha1 6e86edc8229dd6112034a7df79f7341a4120dc6b )
+	rom ( name epr-13065.107 merge epr-13065.107 size 524288 crc 8937a655 sha1 d38726a8a6fe68a002ac8d17f70ab83c2f814aa2 )
+	rom ( name epr-13624.102 size 65536 crc eff33f2d sha1 87ea22042e5ee1df28544e4959e16f54cfe17f23 )
+	rom ( name epr-13036.107 merge epr-13036.107 size 524288 crc 7890c26c sha1 97e0678bb571de5cf732804f8909e5cbd24980f1 )
+	rom ( name epr-13035.106 merge epr-13035.106 size 524288 crc 009fa13e sha1 c7b224b471696b12332fc7c403c127b19c297df7 )
+	rom ( name epr-13625.105 size 524288 crc fae71fd2 sha1 c8468486b1ac74d3a6254d538f05034b1533e40b )
+)
+
+game (
 	name gaia
 	description "Gaia Crusaders"
 	year 1999
@@ -5290,6 +5402,114 @@ game (
 	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+)
+
+game (
+	name gforce2
+	description "Galaxy Force 2"
+	year 1988
+	manufacturer "Sega"
+	rom ( name epr-11688.bin size 131072 crc c845f2df sha1 17586a5f83170e99f28cd35b28e85e503e7bbe75 )
+	rom ( name epr-11687.bin size 131072 crc 1cbefbbf sha1 28d473707cf042baca9d3a75ef22a5beb8c993f7 )
+	rom ( name epr-11875.bin size 131072 crc c81701c6 sha1 00c269f18c5eded7a0e4b6354779cd80db827409 )
+	rom ( name epr-11874.bin size 131072 crc 5301fd79 sha1 60a751c168d519cd45a9575e138514d580bce9b6 )
+	rom ( name epr-11816.bin size 131072 crc 317dd0c2 sha1 7f1c7dcfb111385e2a94912975c2f9bfe78445ac )
+	rom ( name epr-11815.bin size 131072 crc f1fb22f1 sha1 da3ce521b0a19b391913c35af34084d29edceca7 )
+	rom ( name epr-11468.bin size 131072 crc 74ca9ca5 sha1 c6f27ce43ef270088e6155c8240fd15afa5729fd )
+	rom ( name epr-11467.bin size 131072 crc 6e60e736 sha1 73086744cb2fe1ce162f851cb879755c21819b33 )
+	rom ( name epr-11695.bin size 131072 crc 38a864be sha1 ef7d89511713d695f6a454c42f079d3507d9690d )
+	rom ( name epr-11694.bin size 131072 crc 7e297b84 sha1 bbf1aa2b0b6b1f9fdaf9bea77d24b7f4f9320696 )
+	rom ( name epr-11469.bin size 131072 crc ed7a2299 sha1 1aecf9ccba1fed0b7908008e798c522251a08b0f )
+	rom ( name epr-11470.bin size 131072 crc 34dea550 sha1 da95b8346c3530573461553629af4cc493bbb4af )
+	rom ( name epr-11477.bin size 131072 crc a2784653 sha1 00a123d1fc8116ca678d6d8dbf1a5450feee014d )
+	rom ( name epr-11478.bin size 131072 crc 8b778993 sha1 015ae757d26cd6e69bdf79e237f62743a8f41e0c )
+	rom ( name epr-11471.bin size 131072 crc f1974069 sha1 c8beb1a2ce430e3e6478c87c7053a58f8f31a140 )
+	rom ( name epr-11472.bin size 131072 crc 0d24409a sha1 ee00e23b0c548918b89dd48ed3f8b0370388659e )
+	rom ( name epr-11479.bin size 131072 crc ecd6138a sha1 bbc157a1f9b7e24d16e6f126d95c448736e83791 )
+	rom ( name epr-11480.bin size 131072 crc 64ad66c5 sha1 aaab6999aa88b3340b16ee1188a8432477e16625 )
+	rom ( name epr-11473.bin size 131072 crc 0538c6ec sha1 9397db188f12cf8cd91841794134760f30f83893 )
+	rom ( name epr-11474.bin size 131072 crc eb923c50 sha1 f997d2bc7f674eae4243eaf640d8faffa41d9521 )
+	rom ( name epr-11481.bin size 131072 crc 78e652b6 sha1 8c70609172908131fef8cbe05f810dbd3d120eba )
+	rom ( name epr-11482.bin size 131072 crc 2f879766 sha1 ca5835d0bb77fe7de83ad336a82111cb2f96cd41 )
+	rom ( name epr-11475.bin size 131072 crc 69cfec89 sha1 db2a9b03fff727f198fb5cbfb9c281ac3bbc5623 )
+	rom ( name epr-11476.bin size 131072 crc a60b9b79 sha1 6e9aa51923c12f5658bd17deb6c032e08c91dade )
+	rom ( name epr-11483.bin size 131072 crc d5d3a505 sha1 fa7662346b954d3faf0e8fcf138004231676845c )
+	rom ( name epr-11484.bin size 131072 crc b8a56a50 sha1 ccbc391d6f60b88630d7a93b8bb6e365a8d59ed8 )
+	rom ( name epr-11696.bin size 131072 crc 99e8e49e sha1 ab6e1d74af412ec2f939043d7dc26f4b2e34a528 )
+	rom ( name epr-11697.bin size 131072 crc 7545c52e sha1 bdb0ccf233e10e9449aa367db5a5b5f209bee969 )
+	rom ( name epr-11700.bin size 131072 crc e13839c1 sha1 4975b5314797d11c782b0478eaa84eaf9980b1cd )
+	rom ( name epr-11701.bin size 131072 crc 9fb3d365 sha1 bfcf4abfa91aa41b16f01b7bafe97cd865167fbc )
+	rom ( name epr-11698.bin size 131072 crc cfeba3e2 sha1 826b73858ca5ea05688246d36b1f607356974ca9 )
+	rom ( name epr-11699.bin size 131072 crc 4a00534a sha1 9a637b45b140420937b232bf690ef8bc3d43f5ad )
+	rom ( name epr-11702.bin size 131072 crc 2a09c627 sha1 c6b0a618b4ddd9d227d3472544b62ebef966b041 )
+	rom ( name epr-11703.bin size 131072 crc 43bb7d9f sha1 e36d208937f56f0af14292184c80ca939c32c378 )
+	rom ( name epr-11524.bin size 131072 crc 5d35849f sha1 b86fb230ed0901dfdb525e7a47d9c9ad8031a3f6 )
+	rom ( name epr-11525.bin size 131072 crc 9ae47552 sha1 43268dd5f79282aabd8972994437de1b2d2acc40 )
+	rom ( name epr-11532.bin size 131072 crc b3565ddb sha1 3208744d43a11f4de8a6b626cc9113ad63d36807 )
+	rom ( name epr-11533.bin size 131072 crc f5d16e8a sha1 3b5c1582794a0e69707264879b544ac48afd9337 )
+	rom ( name epr-11526.bin size 131072 crc 094cb3f0 sha1 4b30e24dfd33c9922ffd5665cd9631b1f24243da )
+	rom ( name epr-11527.bin size 131072 crc e821a144 sha1 eeec0e51798645cce8f9a7e686178268398977fb )
+	rom ( name epr-11534.bin size 131072 crc b7f0ad7c sha1 987b198692db365f3a81e88e5eec526775c318c6 )
+	rom ( name epr-11535.bin size 131072 crc 95da7a46 sha1 ffe6cd80eecc7c53a1155396ede0720d975d2c3b )
+	rom ( name epr-11693.bin size 65536 crc 0497785c sha1 f077e71efdc96d6eb3f1a1f989650466554fb13a )
+	rom ( name epr-11465.bin size 524288 crc e1436dab sha1 363f4c111de38cb1d82b245e4fcc65308f506e6a )
+	rom ( name epr-11516.bin size 131072 crc 19d0e17f sha1 7171131226cf1fe260a2db310fad2ec264adca26 )
+	rom ( name epr-11814.bin size 131072 crc 0b05d376 sha1 8d0c0be2fd9dbc714c82c7cd1c439d5ff65e1317 )
+)
+
+game (
+	name gforce2j
+	description "Galaxy Force 2 (Japan)"
+	year 1988
+	manufacturer "Sega"
+	cloneof gforce2
+	romof gforce2
+	rom ( name epr-11511.bin size 131072 crc d80a86d6 sha1 e1beecb2af2d9960514639f30dbf923c9d5d5a89 )
+	rom ( name epr-11510.bin size 131072 crc d2b1bef4 sha1 191c0387f4e47c2d675a6d6984907ca3a9d4156a )
+	rom ( name epr-11515.bin size 131072 crc d85875cf sha1 11fe1e008b2ced564aa5f82130cc7872fefeaf8d )
+	rom ( name epr-11514.bin size 131072 crc 3dcc6919 sha1 0f701854734880aa98e890d8e2d13c62216dfb53 )
+	rom ( name epr-11513.bin size 131072 crc e18bc177 sha1 3fb179c9074954fc9b64da1463f542d60a99ec84 )
+	rom ( name epr-11512.bin size 131072 crc 6010e63e sha1 00aa5e8516f094409a407744b84ef183393b8b19 )
+	rom ( name epr-11468.bin merge epr-11468.bin size 131072 crc 74ca9ca5 sha1 c6f27ce43ef270088e6155c8240fd15afa5729fd )
+	rom ( name epr-11467.bin merge epr-11467.bin size 131072 crc 6e60e736 sha1 73086744cb2fe1ce162f851cb879755c21819b33 )
+	rom ( name epr-11695.bin merge epr-11695.bin size 131072 crc 38a864be sha1 ef7d89511713d695f6a454c42f079d3507d9690d )
+	rom ( name epr-11694.bin merge epr-11694.bin size 131072 crc 7e297b84 sha1 bbf1aa2b0b6b1f9fdaf9bea77d24b7f4f9320696 )
+	rom ( name epr-11469.bin merge epr-11469.bin size 131072 crc ed7a2299 sha1 1aecf9ccba1fed0b7908008e798c522251a08b0f )
+	rom ( name epr-11470.bin merge epr-11470.bin size 131072 crc 34dea550 sha1 da95b8346c3530573461553629af4cc493bbb4af )
+	rom ( name epr-11477.bin merge epr-11477.bin size 131072 crc a2784653 sha1 00a123d1fc8116ca678d6d8dbf1a5450feee014d )
+	rom ( name epr-11478.bin merge epr-11478.bin size 131072 crc 8b778993 sha1 015ae757d26cd6e69bdf79e237f62743a8f41e0c )
+	rom ( name epr-11471.bin merge epr-11471.bin size 131072 crc f1974069 sha1 c8beb1a2ce430e3e6478c87c7053a58f8f31a140 )
+	rom ( name epr-11472.bin merge epr-11472.bin size 131072 crc 0d24409a sha1 ee00e23b0c548918b89dd48ed3f8b0370388659e )
+	rom ( name epr-11479.bin merge epr-11479.bin size 131072 crc ecd6138a sha1 bbc157a1f9b7e24d16e6f126d95c448736e83791 )
+	rom ( name epr-11480.bin merge epr-11480.bin size 131072 crc 64ad66c5 sha1 aaab6999aa88b3340b16ee1188a8432477e16625 )
+	rom ( name epr-11473.bin merge epr-11473.bin size 131072 crc 0538c6ec sha1 9397db188f12cf8cd91841794134760f30f83893 )
+	rom ( name epr-11474.bin merge epr-11474.bin size 131072 crc eb923c50 sha1 f997d2bc7f674eae4243eaf640d8faffa41d9521 )
+	rom ( name epr-11481.bin merge epr-11481.bin size 131072 crc 78e652b6 sha1 8c70609172908131fef8cbe05f810dbd3d120eba )
+	rom ( name epr-11482.bin merge epr-11482.bin size 131072 crc 2f879766 sha1 ca5835d0bb77fe7de83ad336a82111cb2f96cd41 )
+	rom ( name epr-11475.bin merge epr-11475.bin size 131072 crc 69cfec89 sha1 db2a9b03fff727f198fb5cbfb9c281ac3bbc5623 )
+	rom ( name epr-11476.bin merge epr-11476.bin size 131072 crc a60b9b79 sha1 6e9aa51923c12f5658bd17deb6c032e08c91dade )
+	rom ( name epr-11483.bin merge epr-11483.bin size 131072 crc d5d3a505 sha1 fa7662346b954d3faf0e8fcf138004231676845c )
+	rom ( name epr-11484.bin merge epr-11484.bin size 131072 crc b8a56a50 sha1 ccbc391d6f60b88630d7a93b8bb6e365a8d59ed8 )
+	rom ( name epr-11696.bin merge epr-11696.bin size 131072 crc 99e8e49e sha1 ab6e1d74af412ec2f939043d7dc26f4b2e34a528 )
+	rom ( name epr-11697.bin merge epr-11697.bin size 131072 crc 7545c52e sha1 bdb0ccf233e10e9449aa367db5a5b5f209bee969 )
+	rom ( name epr-11700.bin merge epr-11700.bin size 131072 crc e13839c1 sha1 4975b5314797d11c782b0478eaa84eaf9980b1cd )
+	rom ( name epr-11701.bin merge epr-11701.bin size 131072 crc 9fb3d365 sha1 bfcf4abfa91aa41b16f01b7bafe97cd865167fbc )
+	rom ( name epr-11698.bin merge epr-11698.bin size 131072 crc cfeba3e2 sha1 826b73858ca5ea05688246d36b1f607356974ca9 )
+	rom ( name epr-11699.bin merge epr-11699.bin size 131072 crc 4a00534a sha1 9a637b45b140420937b232bf690ef8bc3d43f5ad )
+	rom ( name epr-11702.bin merge epr-11702.bin size 131072 crc 2a09c627 sha1 c6b0a618b4ddd9d227d3472544b62ebef966b041 )
+	rom ( name epr-11703.bin merge epr-11703.bin size 131072 crc 43bb7d9f sha1 e36d208937f56f0af14292184c80ca939c32c378 )
+	rom ( name epr-11524.bin merge epr-11524.bin size 131072 crc 5d35849f sha1 b86fb230ed0901dfdb525e7a47d9c9ad8031a3f6 )
+	rom ( name epr-11525.bin merge epr-11525.bin size 131072 crc 9ae47552 sha1 43268dd5f79282aabd8972994437de1b2d2acc40 )
+	rom ( name epr-11532.bin merge epr-11532.bin size 131072 crc b3565ddb sha1 3208744d43a11f4de8a6b626cc9113ad63d36807 )
+	rom ( name epr-11533.bin merge epr-11533.bin size 131072 crc f5d16e8a sha1 3b5c1582794a0e69707264879b544ac48afd9337 )
+	rom ( name epr-11526.bin merge epr-11526.bin size 131072 crc 094cb3f0 sha1 4b30e24dfd33c9922ffd5665cd9631b1f24243da )
+	rom ( name epr-11527.bin merge epr-11527.bin size 131072 crc e821a144 sha1 eeec0e51798645cce8f9a7e686178268398977fb )
+	rom ( name epr-11534.bin merge epr-11534.bin size 131072 crc b7f0ad7c sha1 987b198692db365f3a81e88e5eec526775c318c6 )
+	rom ( name epr-11535.bin merge epr-11535.bin size 131072 crc 95da7a46 sha1 ffe6cd80eecc7c53a1155396ede0720d975d2c3b )
+	rom ( name epr-11693.bin merge epr-11693.bin size 65536 crc 0497785c sha1 f077e71efdc96d6eb3f1a1f989650466554fb13a )
+	rom ( name epr-11465.bin merge epr-11465.bin size 524288 crc e1436dab sha1 363f4c111de38cb1d82b245e4fcc65308f506e6a )
+	rom ( name epr-11516.bin merge epr-11516.bin size 131072 crc 19d0e17f sha1 7171131226cf1fe260a2db310fad2ec264adca26 )
+	rom ( name epr-11814.bin merge epr-11814.bin size 131072 crc 0b05d376 sha1 8d0c0be2fd9dbc714c82c7cd1c439d5ff65e1317 )
 )
 
 game (
@@ -6957,6 +7177,121 @@ game (
 )
 
 game (
+	name loffirej
+	description "Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134)"
+	year 1989
+	manufacturer "Sega"
+	cloneof loffire
+	romof loffire
+	rom ( name epr12794.bin size 131072 crc 1e588992 sha1 fe7107e83c12643e7d22fd4b4cd0c7bcff0d84c3 )
+	rom ( name epr12795.bin size 131072 crc d43d7427 sha1 ecbd425bab6aa65ffbd441d6a0936ac055d5f06d )
+	rom ( name epr12804.rom merge epr12804.rom size 131072 crc b853480e sha1 de0889e99251da7ea50316282ebf6f434cc2db11 )
+	rom ( name epr12805.rom merge epr12805.rom size 131072 crc 4a7200c3 sha1 3e6febed36a55438e0d24441b68f2b7952791584 )
+	rom ( name epr12802.rom merge epr12802.rom size 131072 crc d746bb39 sha1 08dc8cf565997c7e52329961bf7a229a15900cff )
+	rom ( name epr12803.rom merge epr12803.rom size 131072 crc c1d9e751 sha1 98b3d0b3b31702f6234b5fea2b82d512fc5d3ad2 )
+	rom ( name opr12791.rom merge opr12791.rom size 65536 crc acfa69ba sha1 353c43dda6c2282a785646b0a58c90cfd173cd7b )
+	rom ( name opr12792.rom merge opr12792.rom size 65536 crc e506723c sha1 d04dc29686fe348f8f715d14c027de0e508c770f )
+	rom ( name opr12793.rom merge opr12793.rom size 65536 crc 0ce8cce3 sha1 1a6b1af2b0b9e8240e681f7b15e9d08595753fe6 )
+	rom ( name epr12787.rom merge epr12787.rom size 131072 crc 6431a3a6 sha1 63a732b7dfd2b83fe7684d47fea26063c4ece099 )
+	rom ( name epr12788.rom merge epr12788.rom size 131072 crc 1982a0ce sha1 e4756f31b0094e0e9ddb2df53a5c938ac5559230 )
+	rom ( name epr12789.rom merge epr12789.rom size 131072 crc 97d03274 sha1 b4b9921db53949bc8e91f8a2992e89c172fe8893 )
+	rom ( name epr12790.rom merge epr12790.rom size 131072 crc 816e76e6 sha1 34d2a662af96f40f40a77497cbc0a3374fe9a34f )
+	rom ( name epr12783.rom merge epr12783.rom size 131072 crc c13feea9 sha1 c0c3097903079deec22b0f8de76927f7570ac0f6 )
+	rom ( name epr12784.rom merge epr12784.rom size 131072 crc 39b94c65 sha1 4deae3bf7bb4e04b011d23292a0c68471758e7ec )
+	rom ( name epr12785.rom merge epr12785.rom size 131072 crc 05ed0059 sha1 b7404a0f4f15ffdbd08673683cea22340de3f5f9 )
+	rom ( name epr12786.rom merge epr12786.rom size 131072 crc a4123165 sha1 024597dcfbd3be932626b84dbd6e7d38a7a0195d )
+	rom ( name epr12779.rom merge epr12779.rom size 131072 crc ae58af7c sha1 8c57f2d0b6584dd606afc5ecff039479e5068420 )
+	rom ( name epr12780.rom merge epr12780.rom size 131072 crc ee670c1e sha1 8a9e0808d40e210abf6c49ef5c0774d8c0d6602b )
+	rom ( name epr12781.rom merge epr12781.rom size 131072 crc 538f6bc5 sha1 4f294ef0aa9c7e2ac7e92518d938f0870f2e46d1 )
+	rom ( name epr12782.rom merge epr12782.rom size 131072 crc 5acc34f7 sha1 ef27ab818f50e59a122b9fc65b13442d9fee307c )
+	rom ( name epr12775.rom merge epr12775.rom size 131072 crc 693056ec sha1 82d10d960441811b9369295bbb60fa7bfc5457a3 )
+	rom ( name epr12776.rom merge epr12776.rom size 131072 crc 61efbdfd sha1 67f267e0673c64ce77669826ea1d11cb79d0ccc1 )
+	rom ( name epr12777.rom merge epr12777.rom size 131072 crc 29d5b953 sha1 0c932a67e2aecffa7a1dbaa587c96214e1a2cc7f )
+	rom ( name epr12778.rom merge epr12778.rom size 131072 crc 2fb68e07 sha1 8685e72aed115cbc9c6c7511217996a573b30d16 )
+	rom ( name epr12798.rom merge epr12798.rom size 65536 crc 0587738d sha1 24c79b0c73616d5532a49a2c9121dfabe3a80c7d )
+	rom ( name epr12799.rom merge epr12799.rom size 131072 crc bc60181c sha1 3c89161348db7cafb5636ab4eaba91fbd3541f90 )
+	rom ( name epr12800.rom merge epr12800.rom size 131072 crc 1158c1a3 sha1 e1d664a203eed5a0130b39ced7bea8328f06f107 )
+	rom ( name epr12801.rom merge epr12801.rom size 131072 crc 2d6567c4 sha1 542be9d8e91cf2df18d95f4e259cfda0560697cb )
+	rom ( name 317-0134.key size 8192 crc 732626d4 sha1 75ed7ca417758dd62afb4edbb9daee754932c392 )
+)
+
+game (
+	name loffireu
+	description "Line of Fire / Bakudan Yarou (US, FD1094 317-0135)"
+	year 1989
+	manufacturer "Sega"
+	cloneof loffire
+	romof loffire
+	rom ( name epr12847a.bin size 131072 crc c50eb4ed sha1 18a46c97aec2fefd160338c1760b6ee367dcb57f )
+	rom ( name epr12848a.bin size 131072 crc f8ff8640 sha1 193bb8f42f3c5011ad1fbf87215f012de5e950fb )
+	rom ( name epr12804.rom merge epr12804.rom size 131072 crc b853480e sha1 de0889e99251da7ea50316282ebf6f434cc2db11 )
+	rom ( name epr12805.rom merge epr12805.rom size 131072 crc 4a7200c3 sha1 3e6febed36a55438e0d24441b68f2b7952791584 )
+	rom ( name epr12802.rom merge epr12802.rom size 131072 crc d746bb39 sha1 08dc8cf565997c7e52329961bf7a229a15900cff )
+	rom ( name epr12803.rom merge epr12803.rom size 131072 crc c1d9e751 sha1 98b3d0b3b31702f6234b5fea2b82d512fc5d3ad2 )
+	rom ( name opr12791.rom merge opr12791.rom size 65536 crc acfa69ba sha1 353c43dda6c2282a785646b0a58c90cfd173cd7b )
+	rom ( name opr12792.rom merge opr12792.rom size 65536 crc e506723c sha1 d04dc29686fe348f8f715d14c027de0e508c770f )
+	rom ( name opr12793.rom merge opr12793.rom size 65536 crc 0ce8cce3 sha1 1a6b1af2b0b9e8240e681f7b15e9d08595753fe6 )
+	rom ( name epr12787.rom merge epr12787.rom size 131072 crc 6431a3a6 sha1 63a732b7dfd2b83fe7684d47fea26063c4ece099 )
+	rom ( name epr12788.rom merge epr12788.rom size 131072 crc 1982a0ce sha1 e4756f31b0094e0e9ddb2df53a5c938ac5559230 )
+	rom ( name epr12789.rom merge epr12789.rom size 131072 crc 97d03274 sha1 b4b9921db53949bc8e91f8a2992e89c172fe8893 )
+	rom ( name epr12790.rom merge epr12790.rom size 131072 crc 816e76e6 sha1 34d2a662af96f40f40a77497cbc0a3374fe9a34f )
+	rom ( name epr12783.rom merge epr12783.rom size 131072 crc c13feea9 sha1 c0c3097903079deec22b0f8de76927f7570ac0f6 )
+	rom ( name epr12784.rom merge epr12784.rom size 131072 crc 39b94c65 sha1 4deae3bf7bb4e04b011d23292a0c68471758e7ec )
+	rom ( name epr12785.rom merge epr12785.rom size 131072 crc 05ed0059 sha1 b7404a0f4f15ffdbd08673683cea22340de3f5f9 )
+	rom ( name epr12786.rom merge epr12786.rom size 131072 crc a4123165 sha1 024597dcfbd3be932626b84dbd6e7d38a7a0195d )
+	rom ( name epr12779.rom merge epr12779.rom size 131072 crc ae58af7c sha1 8c57f2d0b6584dd606afc5ecff039479e5068420 )
+	rom ( name epr12780.rom merge epr12780.rom size 131072 crc ee670c1e sha1 8a9e0808d40e210abf6c49ef5c0774d8c0d6602b )
+	rom ( name epr12781.rom merge epr12781.rom size 131072 crc 538f6bc5 sha1 4f294ef0aa9c7e2ac7e92518d938f0870f2e46d1 )
+	rom ( name epr12782.rom merge epr12782.rom size 131072 crc 5acc34f7 sha1 ef27ab818f50e59a122b9fc65b13442d9fee307c )
+	rom ( name epr12775.rom merge epr12775.rom size 131072 crc 693056ec sha1 82d10d960441811b9369295bbb60fa7bfc5457a3 )
+	rom ( name epr12776.rom merge epr12776.rom size 131072 crc 61efbdfd sha1 67f267e0673c64ce77669826ea1d11cb79d0ccc1 )
+	rom ( name epr12777.rom merge epr12777.rom size 131072 crc 29d5b953 sha1 0c932a67e2aecffa7a1dbaa587c96214e1a2cc7f )
+	rom ( name epr12778.rom merge epr12778.rom size 131072 crc 2fb68e07 sha1 8685e72aed115cbc9c6c7511217996a573b30d16 )
+	rom ( name epr12798.rom merge epr12798.rom size 65536 crc 0587738d sha1 24c79b0c73616d5532a49a2c9121dfabe3a80c7d )
+	rom ( name epr12799.rom merge epr12799.rom size 131072 crc bc60181c sha1 3c89161348db7cafb5636ab4eaba91fbd3541f90 )
+	rom ( name epr12800.rom merge epr12800.rom size 131072 crc 1158c1a3 sha1 e1d664a203eed5a0130b39ced7bea8328f06f107 )
+	rom ( name epr12801.rom merge epr12801.rom size 131072 crc 2d6567c4 sha1 542be9d8e91cf2df18d95f4e259cfda0560697cb )
+	rom ( name 317-0135.key size 8192 crc c53ad019 sha1 7e6dc2b35ebfeefb507d4d03f5a59574944177d1 )
+)
+
+game (
+	name loffire
+	description "Line of Fire / Bakudan Yarou (World, FD1094 317-0136)"
+	year 1989
+	manufacturer "Sega"
+	rom ( name epr12849.rom size 131072 crc 61cfd2fe sha1 b47ae9cdf741574ab9128dd3556b1ef35e81a149 )
+	rom ( name epr12850.rom size 131072 crc 14598f2a sha1 13a51529ed32acefd733d9f638621c3e023dbd6d )
+	rom ( name epr12804.rom size 131072 crc b853480e sha1 de0889e99251da7ea50316282ebf6f434cc2db11 )
+	rom ( name epr12805.rom size 131072 crc 4a7200c3 sha1 3e6febed36a55438e0d24441b68f2b7952791584 )
+	rom ( name epr12802.rom size 131072 crc d746bb39 sha1 08dc8cf565997c7e52329961bf7a229a15900cff )
+	rom ( name epr12803.rom size 131072 crc c1d9e751 sha1 98b3d0b3b31702f6234b5fea2b82d512fc5d3ad2 )
+	rom ( name opr12791.rom size 65536 crc acfa69ba sha1 353c43dda6c2282a785646b0a58c90cfd173cd7b )
+	rom ( name opr12792.rom size 65536 crc e506723c sha1 d04dc29686fe348f8f715d14c027de0e508c770f )
+	rom ( name opr12793.rom size 65536 crc 0ce8cce3 sha1 1a6b1af2b0b9e8240e681f7b15e9d08595753fe6 )
+	rom ( name epr12787.rom size 131072 crc 6431a3a6 sha1 63a732b7dfd2b83fe7684d47fea26063c4ece099 )
+	rom ( name epr12788.rom size 131072 crc 1982a0ce sha1 e4756f31b0094e0e9ddb2df53a5c938ac5559230 )
+	rom ( name epr12789.rom size 131072 crc 97d03274 sha1 b4b9921db53949bc8e91f8a2992e89c172fe8893 )
+	rom ( name epr12790.rom size 131072 crc 816e76e6 sha1 34d2a662af96f40f40a77497cbc0a3374fe9a34f )
+	rom ( name epr12783.rom size 131072 crc c13feea9 sha1 c0c3097903079deec22b0f8de76927f7570ac0f6 )
+	rom ( name epr12784.rom size 131072 crc 39b94c65 sha1 4deae3bf7bb4e04b011d23292a0c68471758e7ec )
+	rom ( name epr12785.rom size 131072 crc 05ed0059 sha1 b7404a0f4f15ffdbd08673683cea22340de3f5f9 )
+	rom ( name epr12786.rom size 131072 crc a4123165 sha1 024597dcfbd3be932626b84dbd6e7d38a7a0195d )
+	rom ( name epr12779.rom size 131072 crc ae58af7c sha1 8c57f2d0b6584dd606afc5ecff039479e5068420 )
+	rom ( name epr12780.rom size 131072 crc ee670c1e sha1 8a9e0808d40e210abf6c49ef5c0774d8c0d6602b )
+	rom ( name epr12781.rom size 131072 crc 538f6bc5 sha1 4f294ef0aa9c7e2ac7e92518d938f0870f2e46d1 )
+	rom ( name epr12782.rom size 131072 crc 5acc34f7 sha1 ef27ab818f50e59a122b9fc65b13442d9fee307c )
+	rom ( name epr12775.rom size 131072 crc 693056ec sha1 82d10d960441811b9369295bbb60fa7bfc5457a3 )
+	rom ( name epr12776.rom size 131072 crc 61efbdfd sha1 67f267e0673c64ce77669826ea1d11cb79d0ccc1 )
+	rom ( name epr12777.rom size 131072 crc 29d5b953 sha1 0c932a67e2aecffa7a1dbaa587c96214e1a2cc7f )
+	rom ( name epr12778.rom size 131072 crc 2fb68e07 sha1 8685e72aed115cbc9c6c7511217996a573b30d16 )
+	rom ( name epr12798.rom size 65536 crc 0587738d sha1 24c79b0c73616d5532a49a2c9121dfabe3a80c7d )
+	rom ( name epr12799.rom size 131072 crc bc60181c sha1 3c89161348db7cafb5636ab4eaba91fbd3541f90 )
+	rom ( name epr12800.rom size 131072 crc 1158c1a3 sha1 e1d664a203eed5a0130b39ced7bea8328f06f107 )
+	rom ( name epr12801.rom size 131072 crc 2d6567c4 sha1 542be9d8e91cf2df18d95f4e259cfda0560697cb )
+	rom ( name 317-0136.key size 8192 crc 344bfe0c sha1 f6bb8045b46f90f8abadf1dc2e1ae1d7cef9c810 )
+)
+
+game (
 	name lostwrld
 	description "Lost Worlds (Japan)"
 	year 1988
@@ -7241,6 +7576,36 @@ game (
 	rom ( name ra_ma_01.05 size 32768 crc c00d1e80 sha1 53e64c4c0c6309130b37597d13b44a9e95b717d8 )
 	rom ( name ra_ma_01.02 size 65536 crc eabfa46d sha1 402c99ebf88f9025f74f0a28ced22b7882a65eb3 )
 	rom ( name ra_ma_01.06 size 262144 crc 6edb2ab8 sha1 e3032e8eda2686f30df4b7a088c5a4d4d45782ed )
+)
+
+game (
+	name mjleague
+	description "Major League [Incomplete Sound]"
+	year 1985
+	manufacturer "Sega"
+	rom ( name epr-7404.9b size 32768 crc ec1655b5 sha1 5c1df364fa9733daa4478c5f88298089e4963c33 )
+	rom ( name epr-7401.6b size 32768 crc 2befa5e0 sha1 0a1681a4c7d62a5754ba6f3845436b4d08324246 )
+	rom ( name epr-7405.10b size 32768 crc 7a4f4e38 sha1 65a22097dd933e83f326bd64b3863915897780a6 )
+	rom ( name epr-7402.7b size 32768 crc b7bef762 sha1 214450e0b094f99ef38dec2a3e5cbdb0b30e917d )
+	rom ( name epr-7406a.11b size 32768 crc bb743639 sha1 5d99638a79f02ce14374d3b1f3d9fbfc5c13c6e1 )
+	rom ( name epr-7403a.8b size 32768 crc 0a39a4d0 sha1 ff6c579a69fe20c4ebe8672f1a57a6efa9982fb6 )
+	rom ( name epr-7051.9a size 32768 crc 10ca255a sha1 ccf58ffcac2f7fbdbfbdf32601a1b97f359cbd91 )
+	rom ( name epr-7052.10a size 32768 crc 2550db0e sha1 28f8d68f43d26f12793fe295c205cc86adc4e96a )
+	rom ( name epr-7053.11a size 32768 crc 5bfea038 sha1 01dc6e14cc7bba9f7930e68573c441fa2841f49a )
+	rom ( name epr-7055.5a size 32768 crc 1fb860bd sha1 4a4155d0352dfae9e402a2b2f1558ef17b1303b4 )
+	rom ( name epr-7059.2b size 32768 crc 3d14091d sha1 36208415b2012b6e948fefa15b0f7041748066be )
+	rom ( name epr-7056.6a size 32768 crc b35dd968 sha1 e306b5e38acf583d7b2089302622ad25ae5564b0 )
+	rom ( name epr-7060.3b size 32768 crc 61bb3757 sha1 5c87cf23be22b84e3dae746527ca057d870d6397 )
+	rom ( name epr-7057.7a size 32768 crc 3e5a2b6f sha1 d3dbafb4acb916e02c978a156008bd75ba122fb7 )
+	rom ( name epr-7061.4b size 32768 crc c808dad5 sha1 9b65acc8dc23b16e56327298188d1a6ab48b2b5d )
+	rom ( name epr-7058.8a size 32768 crc b543675f sha1 35ffc9295a8849a18fabe156fdbc9801ea2179cd )
+	rom ( name epr-7062.5b size 32768 crc 9168eb47 sha1 daaa7836e627a0679e65373d8f20a9383ba4c905 )
+	rom ( name epr-7054c.1b size 32768 crc 4443b744 sha1 73359a6e9d62b382dee47fea31b9e17eb26a0321 )
+	rom ( name 7751.bin size 1024 crc 6a9534fc sha1 67ad94674db5c2aab75785668f610f6f4eccd158 )
+	rom ( name epr-7063.1a size 32768 crc 45d8908a sha1 e61f81f953c1a744ded36fed3b55774e4747af29 )
+	rom ( name epr-7065.2a size 32768 crc 8c8f8cff sha1 fca5a916a8b25800ee5e8771e2ced0ed9bd737f4 )
+	rom ( name epr-7064.3a size 32768 crc 159f6636 sha1 66fa3f3e95a6ef3d3ff4ded09c05ab1131d9fbbb )
+	rom ( name epr-7066.4a size 32768 crc f5cfa91f sha1 c85d68cbcd03fe1436bed12235c033610acc11ee )
 )
 
 game (
@@ -10115,6 +10480,248 @@ game (
 )
 
 game (
+	name pdriftj
+	description "Power Drift (Japan)"
+	year 1988
+	manufacturer "Sega"
+	cloneof pdrift
+	romof pdrift
+	rom ( name epr-11746a.25 size 131072 crc b0f1caf4 sha1 1d7e70e740ef513728a72ff6e7b1c4b78e3cb0d5 )
+	rom ( name epr-11745a.24 size 131072 crc a89720cd sha1 a0393546797f124e1c03bd12945dc6358bb94ba9 )
+	rom ( name epr-11748.27 merge epr-11748.27 size 131072 crc 82a76cab sha1 f8d3fe059e18896cd0e64711f1a3ee8b6372b4e0 )
+	rom ( name epr-11747.26 merge epr-11747.26 size 131072 crc 9796ece5 sha1 f84f5689c2edc0853ff173ce20f93f89758b2f31 )
+	rom ( name epr-11752.81 size 131072 crc b6bb8111 sha1 475ce4e3d92747a9012a0ab03838ece61f6d33e0 )
+	rom ( name epr-11751.80 size 131072 crc 7f0d0311 sha1 7917be201ff44c6b895fc8e9e296e8b1ecf8d639 )
+	rom ( name epr-11750b.54 size 131072 crc bc14ce30 sha1 9bbadee0946e0abaac4f0d2625ba5550f11fa8a9 )
+	rom ( name epr-11749b.53 size 131072 crc 9e385568 sha1 74e22eaed645cc80b1eb0c52912186066e58b9d2 )
+	rom ( name epr-11791.14 merge epr-11791.14 size 131072 crc 36b2910a sha1 9948b91837f944a7a606542fa685525e74bbe398 )
+	rom ( name epr-11789.16 merge epr-11789.16 size 131072 crc b86f8d2b sha1 a053f2021841fd0ef89fd3f28050a698b36c435e )
+	rom ( name epr-11792.15 merge epr-11792.15 size 131072 crc c85caf6e sha1 2411ea99ec7f6e2b0b4f219e86ff2172539ad2c4 )
+	rom ( name epr-11790.17 merge epr-11790.17 size 131072 crc 2a564e66 sha1 5f30fc15bfd017d75cfffe1e9e62ed0bcf32a98e )
+	rom ( name epr-11757.67 merge epr-11757.67 size 131072 crc e46dc478 sha1 baf79e230aef3d63fb50373b2b1626f7c56ee94f )
+	rom ( name epr-11758.75 merge epr-11758.75 size 131072 crc 5b435c87 sha1 6b42b08e73957c36cd8faa896ca14461d00afd29 )
+	rom ( name epr-11773.63 merge epr-11773.63 size 131072 crc 1b5d5758 sha1 54f58a274740a0566e0553d145c0c284ffd1d36b )
+	rom ( name epr-11774.71 merge epr-11774.71 size 131072 crc 2ca0c170 sha1 7de74c045bf084659ba70da9458d720125ff25ae )
+	rom ( name epr-11759.86 merge epr-11759.86 size 131072 crc ac8111f6 sha1 6412716dc97ae697b438d9c9cd554d1087416bc2 )
+	rom ( name epr-11760.114 merge epr-11760.114 size 131072 crc 91282af9 sha1 fddee7982949b7da724c7830e7bd139aeb84672d )
+	rom ( name epr-11775.82 merge epr-11775.82 size 131072 crc 48225793 sha1 ee003c2ea24c14e0968da94bac139735660932fe )
+	rom ( name epr-11776.110 merge epr-11776.110 size 131072 crc 78c46198 sha1 d299e631843da47cb7a46103d52a3dabfab71746 )
+	rom ( name epr-11761.66 merge epr-11761.66 size 131072 crc baa5d065 sha1 56dc71814e3f0f327781b0c1587038351c60f7b7 )
+	rom ( name epr-11762.74 merge epr-11762.74 size 131072 crc 1d1af7a5 sha1 86c02565b5aca201588c98678fb0c54faa8d4d6b )
+	rom ( name epr-11777.62 merge epr-11777.62 size 131072 crc 9662dd32 sha1 454ec914b6c936f692bf90d2232c8169acec470a )
+	rom ( name epr-11778.70 merge epr-11778.70 size 131072 crc 2dfb7494 sha1 4b9f1609e425c5e634e95dbc2d0ca820dd9212bc )
+	rom ( name epr-11763.85 merge epr-11763.85 size 131072 crc 1ee23407 sha1 776c868e0e4e601fd6d0a83561b064b4be0560e2 )
+	rom ( name epr-11764.113 merge epr-11764.113 size 131072 crc e859305e sha1 aafcc3209a4fb6e0e8169ae6cce386b370b824f7 )
+	rom ( name epr-11779.81 merge epr-11779.81 size 131072 crc a49cd793 sha1 efe77949be39a2ff88b50bfb2b4664b9267d9a09 )
+	rom ( name epr-11780.109 merge epr-11780.109 size 131072 crc d514ed81 sha1 fbac3ad085363972a79e77aebb7fdae2200e7cda )
+	rom ( name epr-11765.65 merge epr-11765.65 size 131072 crc 649e2dff sha1 a6c61b71d08b31a0ca175ab0404e2eaf1d09ccc2 )
+	rom ( name epr-11766.73 merge epr-11766.73 size 131072 crc d92fb7fc sha1 2f5c2d88ae0766351b9efe8ffcbebc88fc3a6c59 )
+	rom ( name epr-11781.61 merge epr-11781.61 size 131072 crc 9692d4cd sha1 967351ba2c781ca865e3c1ee9eeef1aad2247c27 )
+	rom ( name epr-11782.69 merge epr-11782.69 size 131072 crc c913bb43 sha1 9bc15a3180cf4c3134bb55e99e6092f0faf95c56 )
+	rom ( name epr-11767.84 merge epr-11767.84 size 131072 crc 1f8ad054 sha1 289f5795116ee29540f28e35c3b4f72adeca7891 )
+	rom ( name epr-11768.112 merge epr-11768.112 size 131072 crc db2c4053 sha1 a5b6daa6deb7afb0019e289acb81c82d507ec93a )
+	rom ( name epr-11783.80 merge epr-11783.80 size 131072 crc 6d189007 sha1 dd871ea3166fdcb59d49707d35dde8b6c7fdc76b )
+	rom ( name epr-11784.108 merge epr-11784.108 size 131072 crc 57f5fd64 sha1 6aff54d3f3f76ce0f1a93485d1a35a3987d456d9 )
+	rom ( name epr-11769.64 merge epr-11769.64 size 131072 crc 28f0ab51 sha1 d7cb7b83e5d85eb59d34cfd5c0d8e6c7ff81e24c )
+	rom ( name epr-11770.72 merge epr-11770.72 size 131072 crc d7557ea9 sha1 62430505d399ee2cc0f94e03144860056345573c )
+	rom ( name epr-11785.60 merge epr-11785.60 size 131072 crc e6ef32c4 sha1 869ba3816f5e3125f613f3b284fec74cd19db79e )
+	rom ( name epr-11786.68 merge epr-11786.68 size 131072 crc 2066b49d sha1 905ce70c921043d07591422a87fedd6e897ff38e )
+	rom ( name epr-11771.83 merge epr-11771.83 size 131072 crc 67635618 sha1 f690ace026130ecb95532c92f2ad3741d0d167c1 )
+	rom ( name epr-11772.111 merge epr-11772.111 size 131072 crc 0f798d3a sha1 71565ce28b93ae50d64af8c965fba6408a07f031 )
+	rom ( name epr-11787.79 merge epr-11787.79 size 131072 crc e631dc12 sha1 3fd6db2eb297890b35dec566b6a90fc2d96bd085 )
+	rom ( name epr-11788.107 merge epr-11788.107 size 131072 crc 8464c66e sha1 af93cbcc50acbd929d0298fb9a75da0369e13ff7 )
+	rom ( name epr-11899.102 merge epr-11899.102 size 65536 crc ed9fa889 sha1 25d1a069254b34c31d8ee82d301ada895e8dc391 )
+	rom ( name mpr-11754.107 merge mpr-11754.107 size 524288 crc ebeb8484 sha1 269f33cb1a9be126bada858e25291385d48686a2 )
+	rom ( name epr-11755.105 merge epr-11755.105 size 131072 crc 12e43f8a sha1 0f9a11ba6b7c1a352daa1146a01ce147945e91e4 )
+	rom ( name epr-11756.106 merge epr-11756.106 size 131072 crc c2db1244 sha1 c98fe17c9f04a639a862cc2a86fab17d1f5d025c )
+	rom ( name epr-11895.ic1 merge epr-11895.ic1 size 131072 crc ee99a6fd sha1 4444826e751d9186e6d46b081e47cd99ee3cf853 )
+	rom ( name epr-11896.ic2 merge epr-11896.ic2 size 131072 crc 4bebc015 sha1 307022ea1c1ee87c9ef3782526888c48c3c69fd2 )
+	rom ( name epr-11897.ic3 merge epr-11897.ic3 size 131072 crc 4463cb95 sha1 e86fd4611cf83fe72d59950a60fc8c3a7381a1c7 )
+	rom ( name epr-11898.ic4 merge epr-11898.ic4 size 131072 crc 5d19d767 sha1 d335cd3ef57c75e388df04b04fc3e2881a3902cf )
+)
+
+game (
+	name pdrifta
+	description "Power Drift (World)"
+	year 1988
+	manufacturer "Sega"
+	cloneof pdrift
+	romof pdrift
+	rom ( name epr-12017.25 merge epr-12017.25 size 131072 crc 31190322 sha1 18df4bd6078b1c76c7061c05a476a7cbf7d0b37b )
+	rom ( name epr-12016.24 merge epr-12016.24 size 131072 crc 499f64a6 sha1 506652bdb0f3d23a2cf7ff29732b8ec77c389b46 )
+	rom ( name epr-11748.27 merge epr-11748.27 size 131072 crc 82a76cab sha1 f8d3fe059e18896cd0e64711f1a3ee8b6372b4e0 )
+	rom ( name epr-11747.26 merge epr-11747.26 size 131072 crc 9796ece5 sha1 f84f5689c2edc0853ff173ce20f93f89758b2f31 )
+	rom ( name epr-11905.81 merge epr-11905.81 size 131072 crc 1cf68109 sha1 198c1f9d4278586d1e0f50acaaf08e60ba464f8a )
+	rom ( name epr-11904.80 merge epr-11904.80 size 131072 crc bb993681 sha1 c5107e8d52cba3a0fc813ffa9e3752e0f9c3c0df )
+	rom ( name epr-12019.54 size 131072 crc e514d7b6 sha1 27ae99f5f3e8d2f248916f7a252e2c0686638df5 )
+	rom ( name epr-12018.53 size 131072 crc 0a3f7faf sha1 fe20a164a7a2c9e9bf0e7aade75b0488bdc93d79 )
+	rom ( name epr-11791.14 merge epr-11791.14 size 131072 crc 36b2910a sha1 9948b91837f944a7a606542fa685525e74bbe398 )
+	rom ( name epr-11789.16 merge epr-11789.16 size 131072 crc b86f8d2b sha1 a053f2021841fd0ef89fd3f28050a698b36c435e )
+	rom ( name epr-11792.15 merge epr-11792.15 size 131072 crc c85caf6e sha1 2411ea99ec7f6e2b0b4f219e86ff2172539ad2c4 )
+	rom ( name epr-11790.17 merge epr-11790.17 size 131072 crc 2a564e66 sha1 5f30fc15bfd017d75cfffe1e9e62ed0bcf32a98e )
+	rom ( name epr-11757.67 merge epr-11757.67 size 131072 crc e46dc478 sha1 baf79e230aef3d63fb50373b2b1626f7c56ee94f )
+	rom ( name epr-11758.75 merge epr-11758.75 size 131072 crc 5b435c87 sha1 6b42b08e73957c36cd8faa896ca14461d00afd29 )
+	rom ( name epr-11773.63 merge epr-11773.63 size 131072 crc 1b5d5758 sha1 54f58a274740a0566e0553d145c0c284ffd1d36b )
+	rom ( name epr-11774.71 merge epr-11774.71 size 131072 crc 2ca0c170 sha1 7de74c045bf084659ba70da9458d720125ff25ae )
+	rom ( name epr-11759.86 merge epr-11759.86 size 131072 crc ac8111f6 sha1 6412716dc97ae697b438d9c9cd554d1087416bc2 )
+	rom ( name epr-11760.114 merge epr-11760.114 size 131072 crc 91282af9 sha1 fddee7982949b7da724c7830e7bd139aeb84672d )
+	rom ( name epr-11775.82 merge epr-11775.82 size 131072 crc 48225793 sha1 ee003c2ea24c14e0968da94bac139735660932fe )
+	rom ( name epr-11776.110 merge epr-11776.110 size 131072 crc 78c46198 sha1 d299e631843da47cb7a46103d52a3dabfab71746 )
+	rom ( name epr-11761.66 merge epr-11761.66 size 131072 crc baa5d065 sha1 56dc71814e3f0f327781b0c1587038351c60f7b7 )
+	rom ( name epr-11762.74 merge epr-11762.74 size 131072 crc 1d1af7a5 sha1 86c02565b5aca201588c98678fb0c54faa8d4d6b )
+	rom ( name epr-11777.62 merge epr-11777.62 size 131072 crc 9662dd32 sha1 454ec914b6c936f692bf90d2232c8169acec470a )
+	rom ( name epr-11778.70 merge epr-11778.70 size 131072 crc 2dfb7494 sha1 4b9f1609e425c5e634e95dbc2d0ca820dd9212bc )
+	rom ( name epr-11763.85 merge epr-11763.85 size 131072 crc 1ee23407 sha1 776c868e0e4e601fd6d0a83561b064b4be0560e2 )
+	rom ( name epr-11764.113 merge epr-11764.113 size 131072 crc e859305e sha1 aafcc3209a4fb6e0e8169ae6cce386b370b824f7 )
+	rom ( name epr-11779.81 merge epr-11779.81 size 131072 crc a49cd793 sha1 efe77949be39a2ff88b50bfb2b4664b9267d9a09 )
+	rom ( name epr-11780.109 merge epr-11780.109 size 131072 crc d514ed81 sha1 fbac3ad085363972a79e77aebb7fdae2200e7cda )
+	rom ( name epr-11765.65 merge epr-11765.65 size 131072 crc 649e2dff sha1 a6c61b71d08b31a0ca175ab0404e2eaf1d09ccc2 )
+	rom ( name epr-11766.73 merge epr-11766.73 size 131072 crc d92fb7fc sha1 2f5c2d88ae0766351b9efe8ffcbebc88fc3a6c59 )
+	rom ( name epr-11781.61 merge epr-11781.61 size 131072 crc 9692d4cd sha1 967351ba2c781ca865e3c1ee9eeef1aad2247c27 )
+	rom ( name epr-11782.69 merge epr-11782.69 size 131072 crc c913bb43 sha1 9bc15a3180cf4c3134bb55e99e6092f0faf95c56 )
+	rom ( name epr-11767.84 merge epr-11767.84 size 131072 crc 1f8ad054 sha1 289f5795116ee29540f28e35c3b4f72adeca7891 )
+	rom ( name epr-11768.112 merge epr-11768.112 size 131072 crc db2c4053 sha1 a5b6daa6deb7afb0019e289acb81c82d507ec93a )
+	rom ( name epr-11783.80 merge epr-11783.80 size 131072 crc 6d189007 sha1 dd871ea3166fdcb59d49707d35dde8b6c7fdc76b )
+	rom ( name epr-11784.108 merge epr-11784.108 size 131072 crc 57f5fd64 sha1 6aff54d3f3f76ce0f1a93485d1a35a3987d456d9 )
+	rom ( name epr-11769.64 merge epr-11769.64 size 131072 crc 28f0ab51 sha1 d7cb7b83e5d85eb59d34cfd5c0d8e6c7ff81e24c )
+	rom ( name epr-11770.72 merge epr-11770.72 size 131072 crc d7557ea9 sha1 62430505d399ee2cc0f94e03144860056345573c )
+	rom ( name epr-11785.60 merge epr-11785.60 size 131072 crc e6ef32c4 sha1 869ba3816f5e3125f613f3b284fec74cd19db79e )
+	rom ( name epr-11786.68 merge epr-11786.68 size 131072 crc 2066b49d sha1 905ce70c921043d07591422a87fedd6e897ff38e )
+	rom ( name epr-11771.83 merge epr-11771.83 size 131072 crc 67635618 sha1 f690ace026130ecb95532c92f2ad3741d0d167c1 )
+	rom ( name epr-11772.111 merge epr-11772.111 size 131072 crc 0f798d3a sha1 71565ce28b93ae50d64af8c965fba6408a07f031 )
+	rom ( name epr-11787.79 merge epr-11787.79 size 131072 crc e631dc12 sha1 3fd6db2eb297890b35dec566b6a90fc2d96bd085 )
+	rom ( name epr-11788.107 merge epr-11788.107 size 131072 crc 8464c66e sha1 af93cbcc50acbd929d0298fb9a75da0369e13ff7 )
+	rom ( name epr-11899.102 merge epr-11899.102 size 65536 crc ed9fa889 sha1 25d1a069254b34c31d8ee82d301ada895e8dc391 )
+	rom ( name mpr-11754.107 merge mpr-11754.107 size 524288 crc ebeb8484 sha1 269f33cb1a9be126bada858e25291385d48686a2 )
+	rom ( name epr-11755.105 merge epr-11755.105 size 131072 crc 12e43f8a sha1 0f9a11ba6b7c1a352daa1146a01ce147945e91e4 )
+	rom ( name epr-11756.106 merge epr-11756.106 size 131072 crc c2db1244 sha1 c98fe17c9f04a639a862cc2a86fab17d1f5d025c )
+	rom ( name epr-11895.ic1 merge epr-11895.ic1 size 131072 crc ee99a6fd sha1 4444826e751d9186e6d46b081e47cd99ee3cf853 )
+	rom ( name epr-11896.ic2 merge epr-11896.ic2 size 131072 crc 4bebc015 sha1 307022ea1c1ee87c9ef3782526888c48c3c69fd2 )
+	rom ( name epr-11897.ic3 merge epr-11897.ic3 size 131072 crc 4463cb95 sha1 e86fd4611cf83fe72d59950a60fc8c3a7381a1c7 )
+	rom ( name epr-11898.ic4 merge epr-11898.ic4 size 131072 crc 5d19d767 sha1 d335cd3ef57c75e388df04b04fc3e2881a3902cf )
+)
+
+game (
+	name pdrifte
+	description "Power Drift (World, Earlier)"
+	year 1988
+	manufacturer "Sega"
+	cloneof pdrift
+	romof pdrift
+	rom ( name epr-11901.25 size 131072 crc 16744be8 sha1 51d06f1b590621d37b2eb8f6cc88f17b248402ad )
+	rom ( name epr-11900.24 size 131072 crc 0a170d06 sha1 525dec21708fb33c6c7e6d86cb82fd16f6bddfa0 )
+	rom ( name epr-11748.27 merge epr-11748.27 size 131072 crc 82a76cab sha1 f8d3fe059e18896cd0e64711f1a3ee8b6372b4e0 )
+	rom ( name epr-11747.26 merge epr-11747.26 size 131072 crc 9796ece5 sha1 f84f5689c2edc0853ff173ce20f93f89758b2f31 )
+	rom ( name epr-11905.81 merge epr-11905.81 size 131072 crc 1cf68109 sha1 198c1f9d4278586d1e0f50acaaf08e60ba464f8a )
+	rom ( name epr-11904.80 merge epr-11904.80 size 131072 crc bb993681 sha1 c5107e8d52cba3a0fc813ffa9e3752e0f9c3c0df )
+	rom ( name epr-11903.54 size 131072 crc d004f411 sha1 212a985275647fae24b580ebaffc1230c06318ac )
+	rom ( name epr-11902.53 size 131072 crc e8028e08 sha1 de4ee5011e9552e624b6223e0e1ef00bc271a811 )
+	rom ( name epr-11791.14 merge epr-11791.14 size 131072 crc 36b2910a sha1 9948b91837f944a7a606542fa685525e74bbe398 )
+	rom ( name epr-11789.16 merge epr-11789.16 size 131072 crc b86f8d2b sha1 a053f2021841fd0ef89fd3f28050a698b36c435e )
+	rom ( name epr-11792.15 merge epr-11792.15 size 131072 crc c85caf6e sha1 2411ea99ec7f6e2b0b4f219e86ff2172539ad2c4 )
+	rom ( name epr-11790.17 merge epr-11790.17 size 131072 crc 2a564e66 sha1 5f30fc15bfd017d75cfffe1e9e62ed0bcf32a98e )
+	rom ( name epr-11757.67 merge epr-11757.67 size 131072 crc e46dc478 sha1 baf79e230aef3d63fb50373b2b1626f7c56ee94f )
+	rom ( name epr-11758.75 merge epr-11758.75 size 131072 crc 5b435c87 sha1 6b42b08e73957c36cd8faa896ca14461d00afd29 )
+	rom ( name epr-11773.63 merge epr-11773.63 size 131072 crc 1b5d5758 sha1 54f58a274740a0566e0553d145c0c284ffd1d36b )
+	rom ( name epr-11774.71 merge epr-11774.71 size 131072 crc 2ca0c170 sha1 7de74c045bf084659ba70da9458d720125ff25ae )
+	rom ( name epr-11759.86 merge epr-11759.86 size 131072 crc ac8111f6 sha1 6412716dc97ae697b438d9c9cd554d1087416bc2 )
+	rom ( name epr-11760.114 merge epr-11760.114 size 131072 crc 91282af9 sha1 fddee7982949b7da724c7830e7bd139aeb84672d )
+	rom ( name epr-11775.82 merge epr-11775.82 size 131072 crc 48225793 sha1 ee003c2ea24c14e0968da94bac139735660932fe )
+	rom ( name epr-11776.110 merge epr-11776.110 size 131072 crc 78c46198 sha1 d299e631843da47cb7a46103d52a3dabfab71746 )
+	rom ( name epr-11761.66 merge epr-11761.66 size 131072 crc baa5d065 sha1 56dc71814e3f0f327781b0c1587038351c60f7b7 )
+	rom ( name epr-11762.74 merge epr-11762.74 size 131072 crc 1d1af7a5 sha1 86c02565b5aca201588c98678fb0c54faa8d4d6b )
+	rom ( name epr-11777.62 merge epr-11777.62 size 131072 crc 9662dd32 sha1 454ec914b6c936f692bf90d2232c8169acec470a )
+	rom ( name epr-11778.70 merge epr-11778.70 size 131072 crc 2dfb7494 sha1 4b9f1609e425c5e634e95dbc2d0ca820dd9212bc )
+	rom ( name epr-11763.85 merge epr-11763.85 size 131072 crc 1ee23407 sha1 776c868e0e4e601fd6d0a83561b064b4be0560e2 )
+	rom ( name epr-11764.113 merge epr-11764.113 size 131072 crc e859305e sha1 aafcc3209a4fb6e0e8169ae6cce386b370b824f7 )
+	rom ( name epr-11779.81 merge epr-11779.81 size 131072 crc a49cd793 sha1 efe77949be39a2ff88b50bfb2b4664b9267d9a09 )
+	rom ( name epr-11780.109 merge epr-11780.109 size 131072 crc d514ed81 sha1 fbac3ad085363972a79e77aebb7fdae2200e7cda )
+	rom ( name epr-11765.65 merge epr-11765.65 size 131072 crc 649e2dff sha1 a6c61b71d08b31a0ca175ab0404e2eaf1d09ccc2 )
+	rom ( name epr-11766.73 merge epr-11766.73 size 131072 crc d92fb7fc sha1 2f5c2d88ae0766351b9efe8ffcbebc88fc3a6c59 )
+	rom ( name epr-11781.61 merge epr-11781.61 size 131072 crc 9692d4cd sha1 967351ba2c781ca865e3c1ee9eeef1aad2247c27 )
+	rom ( name epr-11782.69 merge epr-11782.69 size 131072 crc c913bb43 sha1 9bc15a3180cf4c3134bb55e99e6092f0faf95c56 )
+	rom ( name epr-11767.84 merge epr-11767.84 size 131072 crc 1f8ad054 sha1 289f5795116ee29540f28e35c3b4f72adeca7891 )
+	rom ( name epr-11768.112 merge epr-11768.112 size 131072 crc db2c4053 sha1 a5b6daa6deb7afb0019e289acb81c82d507ec93a )
+	rom ( name epr-11783.80 merge epr-11783.80 size 131072 crc 6d189007 sha1 dd871ea3166fdcb59d49707d35dde8b6c7fdc76b )
+	rom ( name epr-11784.108 merge epr-11784.108 size 131072 crc 57f5fd64 sha1 6aff54d3f3f76ce0f1a93485d1a35a3987d456d9 )
+	rom ( name epr-11769.64 merge epr-11769.64 size 131072 crc 28f0ab51 sha1 d7cb7b83e5d85eb59d34cfd5c0d8e6c7ff81e24c )
+	rom ( name epr-11770.72 merge epr-11770.72 size 131072 crc d7557ea9 sha1 62430505d399ee2cc0f94e03144860056345573c )
+	rom ( name epr-11785.60 merge epr-11785.60 size 131072 crc e6ef32c4 sha1 869ba3816f5e3125f613f3b284fec74cd19db79e )
+	rom ( name epr-11786.68 merge epr-11786.68 size 131072 crc 2066b49d sha1 905ce70c921043d07591422a87fedd6e897ff38e )
+	rom ( name epr-11771.83 merge epr-11771.83 size 131072 crc 67635618 sha1 f690ace026130ecb95532c92f2ad3741d0d167c1 )
+	rom ( name epr-11772.111 merge epr-11772.111 size 131072 crc 0f798d3a sha1 71565ce28b93ae50d64af8c965fba6408a07f031 )
+	rom ( name epr-11787.79 merge epr-11787.79 size 131072 crc e631dc12 sha1 3fd6db2eb297890b35dec566b6a90fc2d96bd085 )
+	rom ( name epr-11788.107 merge epr-11788.107 size 131072 crc 8464c66e sha1 af93cbcc50acbd929d0298fb9a75da0369e13ff7 )
+	rom ( name epr-11899.102 merge epr-11899.102 size 65536 crc ed9fa889 sha1 25d1a069254b34c31d8ee82d301ada895e8dc391 )
+	rom ( name mpr-11754.107 merge mpr-11754.107 size 524288 crc ebeb8484 sha1 269f33cb1a9be126bada858e25291385d48686a2 )
+	rom ( name epr-11755.105 merge epr-11755.105 size 131072 crc 12e43f8a sha1 0f9a11ba6b7c1a352daa1146a01ce147945e91e4 )
+	rom ( name epr-11756.106 merge epr-11756.106 size 131072 crc c2db1244 sha1 c98fe17c9f04a639a862cc2a86fab17d1f5d025c )
+	rom ( name epr-11895.ic1 merge epr-11895.ic1 size 131072 crc ee99a6fd sha1 4444826e751d9186e6d46b081e47cd99ee3cf853 )
+	rom ( name epr-11896.ic2 merge epr-11896.ic2 size 131072 crc 4bebc015 sha1 307022ea1c1ee87c9ef3782526888c48c3c69fd2 )
+	rom ( name epr-11897.ic3 merge epr-11897.ic3 size 131072 crc 4463cb95 sha1 e86fd4611cf83fe72d59950a60fc8c3a7381a1c7 )
+	rom ( name epr-11898.ic4 merge epr-11898.ic4 size 131072 crc 5d19d767 sha1 d335cd3ef57c75e388df04b04fc3e2881a3902cf )
+)
+
+game (
+	name pdrift
+	description "Power Drift (World, Rev A)"
+	year 1988
+	manufacturer "Sega"
+	rom ( name epr-12017.25 size 131072 crc 31190322 sha1 18df4bd6078b1c76c7061c05a476a7cbf7d0b37b )
+	rom ( name epr-12016.24 size 131072 crc 499f64a6 sha1 506652bdb0f3d23a2cf7ff29732b8ec77c389b46 )
+	rom ( name epr-11748.27 size 131072 crc 82a76cab sha1 f8d3fe059e18896cd0e64711f1a3ee8b6372b4e0 )
+	rom ( name epr-11747.26 size 131072 crc 9796ece5 sha1 f84f5689c2edc0853ff173ce20f93f89758b2f31 )
+	rom ( name epr-11905.81 size 131072 crc 1cf68109 sha1 198c1f9d4278586d1e0f50acaaf08e60ba464f8a )
+	rom ( name epr-11904.80 size 131072 crc bb993681 sha1 c5107e8d52cba3a0fc813ffa9e3752e0f9c3c0df )
+	rom ( name epr-12019a.54 size 131072 crc 11188a30 sha1 42dd0344d92529848b53a8cec4c145237ccd5b51 )
+	rom ( name epr-12018a.53 size 131072 crc 1c582e1f sha1 c32d2f921554bddd7dedcb81e231aa91f50fa27b )
+	rom ( name epr-11791.14 size 131072 crc 36b2910a sha1 9948b91837f944a7a606542fa685525e74bbe398 )
+	rom ( name epr-11789.16 size 131072 crc b86f8d2b sha1 a053f2021841fd0ef89fd3f28050a698b36c435e )
+	rom ( name epr-11792.15 size 131072 crc c85caf6e sha1 2411ea99ec7f6e2b0b4f219e86ff2172539ad2c4 )
+	rom ( name epr-11790.17 size 131072 crc 2a564e66 sha1 5f30fc15bfd017d75cfffe1e9e62ed0bcf32a98e )
+	rom ( name epr-11757.67 size 131072 crc e46dc478 sha1 baf79e230aef3d63fb50373b2b1626f7c56ee94f )
+	rom ( name epr-11758.75 size 131072 crc 5b435c87 sha1 6b42b08e73957c36cd8faa896ca14461d00afd29 )
+	rom ( name epr-11773.63 size 131072 crc 1b5d5758 sha1 54f58a274740a0566e0553d145c0c284ffd1d36b )
+	rom ( name epr-11774.71 size 131072 crc 2ca0c170 sha1 7de74c045bf084659ba70da9458d720125ff25ae )
+	rom ( name epr-11759.86 size 131072 crc ac8111f6 sha1 6412716dc97ae697b438d9c9cd554d1087416bc2 )
+	rom ( name epr-11760.114 size 131072 crc 91282af9 sha1 fddee7982949b7da724c7830e7bd139aeb84672d )
+	rom ( name epr-11775.82 size 131072 crc 48225793 sha1 ee003c2ea24c14e0968da94bac139735660932fe )
+	rom ( name epr-11776.110 size 131072 crc 78c46198 sha1 d299e631843da47cb7a46103d52a3dabfab71746 )
+	rom ( name epr-11761.66 size 131072 crc baa5d065 sha1 56dc71814e3f0f327781b0c1587038351c60f7b7 )
+	rom ( name epr-11762.74 size 131072 crc 1d1af7a5 sha1 86c02565b5aca201588c98678fb0c54faa8d4d6b )
+	rom ( name epr-11777.62 size 131072 crc 9662dd32 sha1 454ec914b6c936f692bf90d2232c8169acec470a )
+	rom ( name epr-11778.70 size 131072 crc 2dfb7494 sha1 4b9f1609e425c5e634e95dbc2d0ca820dd9212bc )
+	rom ( name epr-11763.85 size 131072 crc 1ee23407 sha1 776c868e0e4e601fd6d0a83561b064b4be0560e2 )
+	rom ( name epr-11764.113 size 131072 crc e859305e sha1 aafcc3209a4fb6e0e8169ae6cce386b370b824f7 )
+	rom ( name epr-11779.81 size 131072 crc a49cd793 sha1 efe77949be39a2ff88b50bfb2b4664b9267d9a09 )
+	rom ( name epr-11780.109 size 131072 crc d514ed81 sha1 fbac3ad085363972a79e77aebb7fdae2200e7cda )
+	rom ( name epr-11765.65 size 131072 crc 649e2dff sha1 a6c61b71d08b31a0ca175ab0404e2eaf1d09ccc2 )
+	rom ( name epr-11766.73 size 131072 crc d92fb7fc sha1 2f5c2d88ae0766351b9efe8ffcbebc88fc3a6c59 )
+	rom ( name epr-11781.61 size 131072 crc 9692d4cd sha1 967351ba2c781ca865e3c1ee9eeef1aad2247c27 )
+	rom ( name epr-11782.69 size 131072 crc c913bb43 sha1 9bc15a3180cf4c3134bb55e99e6092f0faf95c56 )
+	rom ( name epr-11767.84 size 131072 crc 1f8ad054 sha1 289f5795116ee29540f28e35c3b4f72adeca7891 )
+	rom ( name epr-11768.112 size 131072 crc db2c4053 sha1 a5b6daa6deb7afb0019e289acb81c82d507ec93a )
+	rom ( name epr-11783.80 size 131072 crc 6d189007 sha1 dd871ea3166fdcb59d49707d35dde8b6c7fdc76b )
+	rom ( name epr-11784.108 size 131072 crc 57f5fd64 sha1 6aff54d3f3f76ce0f1a93485d1a35a3987d456d9 )
+	rom ( name epr-11769.64 size 131072 crc 28f0ab51 sha1 d7cb7b83e5d85eb59d34cfd5c0d8e6c7ff81e24c )
+	rom ( name epr-11770.72 size 131072 crc d7557ea9 sha1 62430505d399ee2cc0f94e03144860056345573c )
+	rom ( name epr-11785.60 size 131072 crc e6ef32c4 sha1 869ba3816f5e3125f613f3b284fec74cd19db79e )
+	rom ( name epr-11786.68 size 131072 crc 2066b49d sha1 905ce70c921043d07591422a87fedd6e897ff38e )
+	rom ( name epr-11771.83 size 131072 crc 67635618 sha1 f690ace026130ecb95532c92f2ad3741d0d167c1 )
+	rom ( name epr-11772.111 size 131072 crc 0f798d3a sha1 71565ce28b93ae50d64af8c965fba6408a07f031 )
+	rom ( name epr-11787.79 size 131072 crc e631dc12 sha1 3fd6db2eb297890b35dec566b6a90fc2d96bd085 )
+	rom ( name epr-11788.107 size 131072 crc 8464c66e sha1 af93cbcc50acbd929d0298fb9a75da0369e13ff7 )
+	rom ( name epr-11899.102 size 65536 crc ed9fa889 sha1 25d1a069254b34c31d8ee82d301ada895e8dc391 )
+	rom ( name mpr-11754.107 size 524288 crc ebeb8484 sha1 269f33cb1a9be126bada858e25291385d48686a2 )
+	rom ( name epr-11755.105 size 131072 crc 12e43f8a sha1 0f9a11ba6b7c1a352daa1146a01ce147945e91e4 )
+	rom ( name epr-11756.106 size 131072 crc c2db1244 sha1 c98fe17c9f04a639a862cc2a86fab17d1f5d025c )
+	rom ( name epr-11895.ic1 size 131072 crc ee99a6fd sha1 4444826e751d9186e6d46b081e47cd99ee3cf853 )
+	rom ( name epr-11896.ic2 size 131072 crc 4bebc015 sha1 307022ea1c1ee87c9ef3782526888c48c3c69fd2 )
+	rom ( name epr-11897.ic3 size 131072 crc 4463cb95 sha1 e86fd4611cf83fe72d59950a60fc8c3a7381a1c7 )
+	rom ( name epr-11898.ic4 size 131072 crc 5d19d767 sha1 d335cd3ef57c75e388df04b04fc3e2881a3902cf )
+)
+
+game (
 	name pspikes2
 	description "Power Spikes II"
 	year 1994
@@ -11070,6 +11677,51 @@ game (
 	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+)
+
+game (
+	name rchase
+	description "Rail Chase (Japan)"
+	year 1991
+	manufacturer "Sega"
+	rom ( name ic25.bin size 131072 crc 388b2365 sha1 0f006f9120b96b8d8be968878ce1d6dd853cd977 )
+	rom ( name ic24.bin size 131072 crc 14dba5d4 sha1 ad09c55273ab1105630f2f76019aedc234fb9292 )
+	rom ( name ic27.bin size 131072 crc dc1cd5a4 sha1 3b2b6afbeb7daa7c0cc75279bc495221c2508e25 )
+	rom ( name ic26.bin size 131072 crc 969fdb3a sha1 2d98f1bab2c20cad3d4c20ee2c4022d04fa9ffce )
+	rom ( name ic81.bin size 131072 crc c5d525b6 sha1 1fab7f761be67b67ee346a1af1f1fe12aef87dc5 )
+	rom ( name ic80.bin size 131072 crc 299e3c7c sha1 e4903816ec364e9352abd1180e8a609fed75e1a7 )
+	rom ( name ic54.bin size 131072 crc 18eb23c5 sha1 53e5681c7450a3879ed80c1680168d6295caa887 )
+	rom ( name ic53.bin size 131072 crc 8f4f824e sha1 d470f23ce2dca4e75b7b714175d47338c41bb721 )
+	rom ( name vic14.bin size 262144 crc 1fdf1b87 sha1 ed46af0f72081d545015b73a8d12240664f29506 )
+	rom ( name vic16.bin size 262144 crc 9a1dd53c sha1 cb01f2c64554914ea693879dfcb498181a1e7a9a )
+	rom ( name vic67.bin size 524288 crc 9fa88781 sha1 a035fd0fe1d37a589adf3a5029c20d237d5cc827 )
+	rom ( name vic75.bin size 524288 crc 49e824bb sha1 c1330719b5718aa664b5788244d8cb7b7103a57c )
+	rom ( name vic63.bin size 524288 crc 35b5187e sha1 6f0f6471c4135d07a2c852cdc50322b99176712e )
+	rom ( name vic71.bin size 524288 crc 9a538b9b sha1 cd84a39bd3858fa6c1d8eb4a349d939261cea6b6 )
+	rom ( name vic86.bin size 524288 crc e11c6c67 sha1 839e71690e75e47d11b758f5b525452bcc75b823 )
+	rom ( name vic114.bin size 524288 crc 16344535 sha1 a9bd101ae93c24a2e8002ad6a111cf0d0d3b1a64 )
+	rom ( name vic82.bin size 524288 crc 78e9983b sha1 c0f6577b55acda2cc8cdf0884d5c0517f79de4e9 )
+	rom ( name vic110.bin size 524288 crc e9daa1a4 sha1 24ad782e88a586fbb31f7ad86be4cdeb38823102 )
+	rom ( name vic66.bin size 524288 crc b83df159 sha1 f0cf99e6ddae1d26fd68240a731f3e28e9c6073b )
+	rom ( name vic74.bin size 524288 crc 76dbe9ce sha1 2f5af8d015cf8fb90a0862bc37235bc20d4dac0d )
+	rom ( name vic62.bin size 524288 crc 9e998209 sha1 c0d39d11d554fd6a43db77ccf96ac04dd634edff )
+	rom ( name vic70.bin size 524288 crc 2caddf1a sha1 a2e891e65c7cd156a3131a084ff51ae9b1663bc0 )
+	rom ( name vic85.bin size 524288 crc b15e19ff sha1 947c35301875b4842835f2ba6aca216f087a3fc7 )
+	rom ( name vic113.bin size 524288 crc 84c7008f sha1 b92f3c636c5d91c5b1c6090a48be7bb1be6b927e )
+	rom ( name vic81.bin size 524288 crc c3cf5faa sha1 02bca1b248fcb6313cd529ca2aa0f7516177166b )
+	rom ( name vic109.bin size 524288 crc 7e91beb2 sha1 bc1a7ce68d6b825daf93ca437dda803857cee0a2 )
+	rom ( name vic65.bin size 524288 crc 31dbb2c3 sha1 3efeff785d78056e2615dc2267f7bb80a6d4c663 )
+	rom ( name vic73.bin size 524288 crc 7e68257d sha1 600d1066cfa83f5df46e240a473a8f04179e70f8 )
+	rom ( name vic61.bin size 524288 crc 71031ad0 sha1 02b6240461d66907199f846310e72d37faa5fb50 )
+	rom ( name vic69.bin size 524288 crc 27e70a5e sha1 fa767f6cc8e46c0e804c37666a8499376c09b025 )
+	rom ( name vic84.bin size 524288 crc 7540bf85 sha1 e8f9208aea6ecedb6ae810a362476cdf1d424319 )
+	rom ( name vic112.bin size 524288 crc 7d87b94d sha1 4ef5b7b114c25b9e274e3f3dd7e3d7bd29d2d8b9 )
+	rom ( name vic80.bin size 524288 crc 87725d74 sha1 d284512ad15362a886072aaa1a3af98f7a0bddf9 )
+	rom ( name vic108.bin size 524288 crc 73477291 sha1 1fe9d7666d89ee55a0178dceb7cfea7ce94b9e18 )
+	rom ( name ic102.bin size 65536 crc 7cc3b543 sha1 c5e6a2dca891d0b6528e6d66ccd18b24ed4a9464 )
+	rom ( name ic107.bin size 524288 crc 345f5a41 sha1 d414c3485ba31863c2b36282756709e06a41d262 )
+	rom ( name ic106.bin size 524288 crc f604c270 sha1 02023786fec2f2702c2f19f51aff5b7e4928ae91 )
+	rom ( name ic105.bin size 524288 crc 76095538 sha1 aab830e3675116c475fe69e0e991118c045b131b )
 )
 
 game (
@@ -15232,6 +15884,61 @@ game (
 	rom ( name strider.09 merge strider.09 size 65536 crc 2ed403bc sha1 4ce863ea40d789db5a7cfce91d2c7c720deb9be5 )
 	rom ( name strider.18 merge strider.18 size 131072 crc 4386bc80 sha1 fb2b261995aeacfa13e7ee40b1a973dfb178f015 )
 	rom ( name strider.19 merge strider.19 size 131072 crc 444536d7 sha1 a14f5de2f6b5b29ae5161dca1f8c08c566301a91 )
+)
+
+game (
+	name strkfgtr
+	description "Strike Fighter (Japan)"
+	year 1991
+	manufacturer "Sega"
+	rom ( name epr-13824.25 size 131072 crc 2cf2610c sha1 451511842ef61a0404094ecab4f9dc548790d06f )
+	rom ( name epr-13823.24 size 131072 crc 2c98242f sha1 1b1dab94b3a4842c7fc2f1d1869771341b5f840a )
+	rom ( name epr-13826.27 size 131072 crc 3d34ea55 sha1 7c492e479f6ca41af70616639b7391d111003efe )
+	rom ( name epr-13825.26 size 131072 crc fe218d83 sha1 8e33c966a8148df3c3dab76ae3ea187b5ada2155 )
+	rom ( name epr-13830.81 size 131072 crc f9adc9d1 sha1 63f24ac5345ce1cc4e67193eb01737c60f747d9f )
+	rom ( name epr-13829.80 size 131072 crc c5cd85dd sha1 34c3033dca7fe8c77dbf23ad01684967b26f0284 )
+	rom ( name epr-13828.54 size 131072 crc 2470cf5f sha1 eb1a732228fe7ad9cf0747d2b53e391c5a733667 )
+	rom ( name epr-13827.53 size 131072 crc a9d0cf7d sha1 c40c73c9e9105ed6503b77b65a6423a26057d810 )
+	rom ( name epr-13832.14 size 524288 crc 41679754 sha1 58d46f33a4318bbc9e2a20eb5550a66ee0b2e62f )
+	rom ( name epr-13833.16 size 524288 crc 6148e11a sha1 5802208cf0415f6af39de162e9f12e7c205915f7 )
+	rom ( name epr-13038.15 size 524288 crc 0b2edb6d sha1 04944d6e6f020cd6d33641110847706516630227 )
+	rom ( name epr-13040.17 size 524288 crc 4aeb3a85 sha1 5521fd2d3956839bdbe7b70a9e60cd9fb72a42f1 )
+	rom ( name epr-13048.67 size 524288 crc fe1eb0dd sha1 5e292fc0b83505eb289e026d4be24c9038ef1418 )
+	rom ( name epr-13056.75 size 524288 crc 5904f8e6 sha1 fbb01dadc796624c360d44b7631e3f1f285abf2e )
+	rom ( name epr-13044.63 size 524288 crc 4d931f89 sha1 ff603f4347e4728a2849d9f480893ad0af7abc5c )
+	rom ( name epr-13052.71 size 524288 crc 0291f040 sha1 610dee2a31445f4a054111b7005278560a9c0702 )
+	rom ( name epr-13064.86 size 524288 crc 5f8e651b sha1 f1a957e68dea40c23f6a5a208358ec6d6515fe60 )
+	rom ( name epr-13072.114 size 524288 crc 6b85641a sha1 143a4684d5f303cd30880a2d5728dccbdd168da4 )
+	rom ( name epr-13060.82 size 524288 crc ee16ad97 sha1 6af38cfaf694f686f8e4223fb0b13cd350a8b9e5 )
+	rom ( name epr-13068.110 size 524288 crc 64d52bbb sha1 b6eab546edb2443e5da6c94ec811ec5084212e60 )
+	rom ( name epr-13047.66 size 524288 crc 53340832 sha1 8ece8a71ea8ed80458121622307a137fb13931f6 )
+	rom ( name epr-13055.74 size 524288 crc 39b6b665 sha1 d915db1d9bfe0c6ad3f7b447ce0cfdb42ec66ffe )
+	rom ( name epr-13043.62 size 524288 crc 208f16fd sha1 ce96708ea9886af4aba8730cbb98c0ca72b96f57 )
+	rom ( name epr-13051.70 size 524288 crc ad62cbd4 sha1 09c008ce5cb97575a4312d2f22566bda72ecc4e2 )
+	rom ( name epr-13063.85 size 524288 crc c580bf6d sha1 cb72970377ad2acce499059aa8155711b8da8a11 )
+	rom ( name epr-13071.113 size 524288 crc df99ef99 sha1 12648844c6e78dbd573b7bf0c981edb4d3012b58 )
+	rom ( name epr-13059.81 size 524288 crc 4c982558 sha1 e04902af2740ca098cd6bbf1f57cb25562754a76 )
+	rom ( name epr-13067.109 size 524288 crc f97f6119 sha1 6f91fc28a1260ca4f1c695863717b27d1e45dc32 )
+	rom ( name epr-13046.65 size 524288 crc c75a86e9 sha1 8a180e1e2dd06eb81e2aa4ef73b83879cf6afc1b )
+	rom ( name epr-13054.73 size 524288 crc 2934549a sha1 058b2966141d0db6bb8557d65c77b3458aca9358 )
+	rom ( name epr-13042.61 size 524288 crc 53ed97af sha1 22dffa434eb98e5bca1e429b69553a3540dc54a7 )
+	rom ( name epr-13050.69 size 524288 crc 04429068 sha1 d7d8738809fd959ed428796b2bd1b589b74522c6 )
+	rom ( name epr-13062.84 size 524288 crc 4fdb4ee3 sha1 d76065b9abe5c3cf692567d3a8746a231748340d )
+	rom ( name epr-13070.112 size 524288 crc 52ea130e sha1 860cb3a1701066e595518c49b696b7b7a3994ada )
+	rom ( name epr-13058.80 size 524288 crc 19ff1626 sha1 029e231c3322467b5e2e52eea11df4f645460468 )
+	rom ( name epr-13066.108 size 524288 crc bc70a250 sha1 25189854cc01855b6e3589b85490f30dda029f86 )
+	rom ( name epr-13045.64 size 524288 crc 54d5bc6d sha1 18a301c9e6c4a352f300a438d85c6e6952bf0738 )
+	rom ( name epr-13053.72 size 524288 crc 9502af13 sha1 1a8c0fcd10f4c86af69c0107f486ca2eb8863f93 )
+	rom ( name epr-13041.60 size 524288 crc d0a7402c sha1 8932503c570ec49fdb4706f4015608bd060bafa0 )
+	rom ( name epr-13049.68 size 524288 crc 5b9c0b6c sha1 17f2460b7dc0bd34dca3f90f2b553df4a7149147 )
+	rom ( name epr-13061.83 size 524288 crc 7b95ec3b sha1 284aba4effd9d376a7a8f510a6f675fcb3393d09 )
+	rom ( name epr-13069.111 size 524288 crc e1f538f0 sha1 55dc85faed1d5a7f2d586bac7e524c3fef3c53b4 )
+	rom ( name epr-13057.79 size 524288 crc 73baefee sha1 6e86edc8229dd6112034a7df79f7341a4120dc6b )
+	rom ( name epr-13065.107 size 524288 crc 8937a655 sha1 d38726a8a6fe68a002ac8d17f70ab83c2f814aa2 )
+	rom ( name epr-13831.102 size 65536 crc dabbcea1 sha1 79dab7d4a0f80a6acc05672a422ace9c487e26ae )
+	rom ( name mpr-13036.107 size 524288 crc 7890c26c sha1 97e0678bb571de5cf732804f8909e5cbd24980f1 )
+	rom ( name mpr-13035.106 size 524288 crc 009fa13e sha1 c7b224b471696b12332fc7c403c127b19c297df7 )
+	rom ( name mpr-13034.105 size 524288 crc cd22d95d sha1 857aa320df0b3fb44fc8a5526ba5ee82cc74fe63 )
 )
 
 game (
