@@ -171,6 +171,390 @@ game (
 )
 
 game (
+	name rapidrvr
+	description "Rapid River [sound only]"
+	year 1997
+	manufacturer "Namco"
+	board "Namco System 12"
+	rom ( name rd1wavel.2s size 8388608 crc bf52c08c sha1 6745062e078e520484390fad1f723124aa4076d0 )
+	rom ( name rd1waveh.3s size 8388608 crc ef0136b5 sha1 a6d923ededca168fe555e0b86a72f53bec5424cc )
+	rom ( name tss3verb.3 size 524288 crc 6e26fbaf sha1 4ab6637d22f0d26f7e1d10e9c80059c56f64303d )
+)
+
+game (
+	name bellring
+	description "Bell Ringer (pinball) [sound only]"
+	year 1990
+	manufacturer "Gottlieb"
+	board "Gottlieb System 3"
+	rom ( name br_yrom1.bin size 32768 crc d5aab379 sha1 b3995f8aa2e54f91f2a0fd010c807fbfbf9ae847 )
+	rom ( name br_drom1.bin size 32768 crc 99f38229 sha1 f63d743e63e88728e8d53320b21b2fda1b6385f8 )
+)
+
+game (
+	name ccruise
+	description "Caribbean Cruise (pinball) [sound only]"
+	year 1989
+	manufacturer "International Concepts"
+	board "Gottlieb System 3"
+	rom ( name yrom1.bin size 32768 crc 6e424e53 sha1 90a9bf5ce84680972f9d12eb386215494c584b9b )
+	rom ( name drom1.bin size 32768 crc 4480257e sha1 50b93d4496816ef7cdf007ac75c72c6aaa956aba )
+)
+
+game (
+	name dd_l2
+	description "Dr. Dude (pinball) [sound only]"
+	year 1990
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name dude_u4.l1 size 65536 crc 3eeef714 sha1 74dcc83958cb62819e0ac36ca83001694faafec7 )
+	rom ( name dude_u19.l1 size 65536 crc dc7b985b sha1 f672d1f1fe1d1d887113ea6ccd745a78f7760526 )
+	rom ( name dude_u20.l1 size 65536 crc a83d53dd sha1 92a81069c42c7760888201fb0787fa7ddfbf1658 )
+)
+
+game (
+	name lca
+	description "Lights, Camera, Action (pinball) [sound only]"
+	year 1989
+	manufacturer "Gottlieb/Premier"
+	board "Gottlieb System 3"
+	rom ( name yrom1.bin size 32768 crc 20919ebb sha1 a2ea79863b41a04aa23ea596932825408cca64e3 )
+	rom ( name drom1.bin size 32768 crc a258d72d sha1 eeb4768c8b2f57509a088d3ac8d35aa34f2cfc2c )
+)
+
+game (
+	name bguns_l8
+	description "Big Guns (L-8) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name gund_u4.l1 size 32768 crc d4a430a3 sha1 5b44e3f313cc7cb75f51c239013d46e5eb986f9d )
+	rom ( name guns_u19.l1 size 32768 crc ec1a6c23 sha1 45bb4f78b89de9e690b5f9741d17f97766e702d6 )
+	rom ( name guns_u21.l1 size 32768 crc 35c6bfe4 sha1 83dbd10311add75f56046de58d315f8a87389703 )
+	rom ( name guns_u22.l1 size 32768 crc 091a5cb8 sha1 db77314241eb6ed7f4385f99312a49b7caad1283 )
+)
+
+game (
+	name swrds_l2
+	description "Swords of Fury (L-2) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name swrd_u4.l1 size 32768 crc 272b509c sha1 756d3783f664ca1c41dd1d12032330b74c3f89ea )
+	rom ( name swrd_u19.l1 size 32768 crc a22f84fa sha1 1731e86e85cca2d283512d5048c787df3970c9c5 )
+	rom ( name swrd_u21.l1 size 32768 crc ee8b0a64 sha1 c2c52059a9a5f7c0abcfdd76cfc6d5b5451f7d1e )
+	rom ( name swrd_u22.l1 size 32768 crc 73dcdbb0 sha1 66f5b3804442a1742b6fb3cccf539c4df956b3f2 )
+)
+
+game (
+	name rdkng_l4
+	description "Road Kings (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name road_u4.l1 size 32768 crc 4395b48f sha1 2325ce6ba7f6f92f884c302e6f053c31229dc774 )
+	rom ( name road_u21.l1 size 32768 crc f34efbf4 sha1 cb5ffe9818994f4681e3492a5cd46f410d2e5353 )
+	rom ( name road_u22.l1 size 32768 crc a9803804 sha1 a400d4621c3f7a6e47546b2f33dc4920183a5a74 )
+)
+
+game (
+	name spstn_l5
+	description "Space Station (L-5) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name sstn_u4.l1 size 32768 crc ad7a0511 sha1 9aa6412de12599fd0d10faef8fffb5d535f49015 )
+	rom ( name sstn_u21.l1 size 32768 crc a2ceccaa sha1 4c23713543e06458e49e3f2d472543c4a4246a93 )
+	rom ( name sstn_u22.l1 size 32768 crc 2b745994 sha1 67ebfe13db6670237496b033611bf9d4ba8d5c30 )
+)
+
+game (
+	name atlantisp
+	description "Atlantis (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name u4_snd.rom size 32768 crc 6a48b588 sha1 c58dbfd920c279d7b9d2de8558d73c687b29ce9c )
+	rom ( name u19_snd.rom size 32768 crc 1387467c sha1 8b3dd6c2fc94cfebc1879795532c651cda202846 )
+	rom ( name u20_snd.rom size 32768 crc d5a6a773 sha1 30807e03655d2249c801007350bfb228a2e8a0a4 )
+)
+
+game (
+	name btmn_103
+	description "Batman (1.03) (pinball) [sound only]"
+	year 1991
+	manufacturer "Data East"
+	board "Tattoo Assassins"
+	rom ( name batman.u7 size 32768 crc b2e88bf5 sha1 28f814ea73f8eefd1bb5499a599e67a6850c92c0 )
+	rom ( name batman.u17 size 262144 crc b84914dd sha1 333d88033428705cbd0a40d70d938c0021bb0015 )
+	rom ( name batman.u21 size 131072 crc 42dab6ac sha1 facf993db2ce240c9e825ca9a21ac65a0fbba188 )
+)
+
+game (
+	name pb_l5
+	description "Pin*Bot (L-5) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name pbot_u4.l1 size 32768 crc de5926bd sha1 3d111e27c5f0c8c0afc5fe5cc45bf77c12b69228 )
+	rom ( name pbot_u19.l1 size 32768 crc 40eb4e9f sha1 07b0557b35599a2dd5aa66a306fbbe8f50eed998 )
+	rom ( name pbot_u21.l1 size 32768 crc 3eab88d9 sha1 667e3b675e2ae8fec6a6faddb9b0dd5531d64f8f )
+	rom ( name pbot_u22.l1 size 32768 crc a2d2c9cb sha1 46437dc54538f1626caf41a2818ddcf8000c44e4 )
+)
+
+game (
+	name f14_l1
+	description "F-14 Tomcat (L-1) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name f14_u4.l1 size 32768 crc 43ecaabf sha1 64b50dbff03cd556130d0cff47b951fdf37d397d )
+	rom ( name f14_u19.l1 size 32768 crc d0de4a7c sha1 46ecd5786653add47751cc56b38d9db7c4622377 )
+	rom ( name f14_u21.l1 size 32768 crc e412300c sha1 382d0cfa47abea295f0c7501bc0a010473e9d73b )
+	rom ( name f14_u22.l1 size 32768 crc c9dd7496 sha1 de3cb855d87033274cc912578b02d1593d2d69f9 )
+)
+
+game (
+	name hs_l4
+	description "High Speed (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name hs_u4.l1 size 32768 crc 0f96e094 sha1 58650705a02a71ced85f5c2a243722a35282cbf7 )
+	rom ( name hs_u21.l2 size 32768 crc c0580037 sha1 675ca65a6a20f8607232c532b4d127641f77d837 )
+	rom ( name hs_u22.l2 size 32768 crc c03be631 sha1 53823e0f55377a45aa181882c310dd307cf368f5 )
+)
+
+game (
+	name grand_l4
+	description "Grand Lizard (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name lzrd_u4.l1 size 32768 crc 4baafc11 sha1 3507f5f37e02688fa56cf5bb303eaccdcedede06 )
+	rom ( name lzrd_u21.l1 size 16384 crc 98859d37 sha1 08429b9e6a3b3007815373dc280b985e3441aa9f )
+	rom ( name lzrd_u22.l1 size 16384 crc 4e782eba sha1 b44ab499128300175bdb57f07ffe2992c82e47e4 )
+)
+
+game (
+	name ft_l5
+	description "Fish Tales (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name ft_u18.l1 size 524288 crc 48d2760a sha1 701b0bbb68f99332493ee1276e5a1cef5c85d499 )
+)
+
+game (
+	name gw_l5
+	description "The Getaway: High Speed II (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name u18snd size 524288 crc 37bbe485 sha1 e6b7ccef250db0c801e3dd8ebf93522b466ca1ec )
+)
+
+game (
+	name taf_l5
+	description "The Addams Family (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Midway"
+	board "Williams Pinball CVSD"
+	rom ( name tafu18l1.rom size 524288 crc 131ae471 sha1 5ed03b521dfef56cbb99814539d4c74da4216f67 )
+)
+
+game (
+	name tafg_lx3
+	description "The Addams Family Special Collectors Edition Gold (LX-3) (pinball) [sound only]"
+	year 1994
+	manufacturer "Midway"
+	board "Williams Pinball CVSD"
+	rom ( name ag_u18_s.l1 size 524288 crc 02e824a9 sha1 ed8aa5161ea6c12cc9e646939290d848408a59a3 )
+	rom ( name ag_u15_s.l1 size 262144 crc b8c88c75 sha1 b2b88e5192eb817ae60ab1f306e932d8bae3fbba )
+)
+
+game (
+	name drac_l1
+	description "Bram Stoker's Dracula (L-1) (pinball) [sound only]"
+	year 1993
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name dracsnd.u18 size 524288 crc 372ffb90 sha1 89979670869c565d3ab86abbce462e2f935a566b )
+	rom ( name dracsnd.u15 size 524288 crc 77b5abe2 sha1 e5622ae9ae0c1a0be886a1e5dc25b5a42c00c2ae )
+	rom ( name dracsnd.u14 size 524288 crc 5137aaf5 sha1 e6ee924e7e4718db0f7f315f2a6843e6f90afb41 )
+)
+
+game (
+	name trucksp3
+	description "Truck Stop (P-3) (pinball) [sound only]"
+	year 1988
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name u4sndp1.256 size 32768 crc 120a386f sha1 51b3b45eb7ea63758b21aad404ba12a9607fec44 )
+	rom ( name u19sndp1.256 size 32768 crc 5cd43dda sha1 23dd8a52ea1340fc239a246af0d94da905464efb )
+	rom ( name u20sndp1.256 size 32768 crc 93ac5c33 sha1 f6dc84eca4678188a58ba3c8ef18975164dd29b0 )
+)
+
+game (
+	name milln_l3
+	description "Millionaire (L-3) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name mill_u4.l1 size 32768 crc cf766506 sha1 a6e4df19a513102abbce2653d4f72245f54407b1 )
+	rom ( name mill_u19.l1 size 32768 crc e073245a sha1 cbaddde6bb19292ace574a8329e18c97c2ee9763 )
+	rom ( name mill_u21.l1 size 32768 crc 4cd1ee90 sha1 4e24b96138ced16eff9036303ca6347e3423dbfc )
+	rom ( name mill_u22.l1 size 32768 crc 73735cfc sha1 f74c873a20990263e0d6b35609fc51c08c9f8e31 )
+)
+
+game (
+	name fire_l3
+	description "Fire! (L-3) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name fire_u4.l1 size 32768 crc 0e058918 sha1 4d6bf2290141119174787f8dd653c47ea4c73693 )
+	rom ( name fire_u21.l1 size 32768 crc 2edde0a4 sha1 de292a340a3a06b0b996fc69fee73eb7bbfbbe64 )
+	rom ( name fire_u22.l1 size 32768 crc 16145c97 sha1 523e99df3907a2c843c6e27df4d16799c4136a46 )
+)
+
+game (
+	name cycln_l5
+	description "Cyclone (L-5) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name cycl_u4.l1 size 32768 crc d04b663b sha1 f54c6df08ec73b733cfeb2a989e44e5c04da3d9e )
+	rom ( name cycl_u19.l1 size 32768 crc a20f6519 sha1 63ded5f76133340fa31d4fe65420f4465866fb85 )
+	rom ( name cycl_u21.l1 size 32768 crc d4f69a7c sha1 da0ce27d92b22583be54a41fc8083cee803c987a )
+	rom ( name cycl_u22.l1 size 32768 crc 28dc8f13 sha1 bccce3a9b6b2f52da919c6df8db07e5e3de12657 )
+)
+
+game (
+	name taxi_l4
+	description "Taxi (Lola) (L-4) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name taxi_u4.l2 size 32768 crc 6082ebb5 sha1 37e19ad27fe05b4c8e572f6598d2d574e4ac5a7d )
+	rom ( name taxi_u19.l2 size 32768 crc 91c64913 sha1 10e48977f925f6bc1be0c56854aafa99283b4047 )
+	rom ( name taxi_u21.l2 size 32768 crc 2b20e9ab sha1 d785667ae0fd237dd8343bb1ecfbacf050ec2c6f )
+	rom ( name taxi_u22.l2 size 32768 crc d13055c5 sha1 8c2959bde03567b83db425ebc9e7309d9601c2b2 )
+)
+
+game (
+	name tsptr_l3
+	description "Transporter the Rescue (L-3) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name tran_u4.l2 size 32768 crc a06ddd61 sha1 630fe7ab94516930c4876a95f822024a44371170 )
+	rom ( name tran_u19.l2 size 32768 crc 3cfde8b0 sha1 7bdc71ba1ba4fd337f052354323c86fd97b2b881 )
+	rom ( name tran_u20.l2 size 32768 crc e9890cf1 sha1 0ae37504c704401101c79ce49df11044f8d8caa9 )
+	rom ( name tran_u21.l2 size 32768 crc b10120ee sha1 305a898a8b762c27dba26921ef169556bf96e518 )
+	rom ( name tran_u22.l2 size 32768 crc 337784b5 sha1 30c17afd8f76118940982db946cd3a2a29445d10 )
+)
+
+game (
+	name esha_pr4
+	description "Earthshaker! (Family version) (PR-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name eshk_u4.l1 size 32768 crc 40069f8c sha1 aafdc189259fa9c8dc49e60e978b84775e16c64e )
+	rom ( name eshk_u19.l1 size 32768 crc e5593075 sha1 549b03402e5639b449e35325eb52e78f8810b07a )
+	rom ( name eshk_u21.l1 size 32768 crc feac68e5 sha1 2f12a78398bc3a468e3e0656da91260d45b0663b )
+	rom ( name eshk_u22.l1 size 32768 crc 44f50fe1 sha1 a8e24dbb0f5cf300118e1ebdcd2bb6b274d87936 )
+)
+
+game (
+	name whirl_l3
+	description "Whirlwind (L-3) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name whir_u4.l1 size 32768 crc 29952d84 sha1 26479a341b0552c5f9d9bf9dd013855e51a7b857 )
+	rom ( name whir_u19.l1 size 32768 crc c63f6fe9 sha1 947bbccb5eeae414770254d42d0a95425e2dca8c )
+	rom ( name whir_u20.l1 size 32768 crc 713007af sha1 3ac88bb905ccf8e227bbf3c102c74e3d2446cc88 )
+	rom ( name whir_u21.l1 size 32768 crc fa3da322 sha1 732107eace9eecdb97eff4abb4420a2febef7425 )
+	rom ( name whir_u22.l1 size 32768 crc fcaf8c4e sha1 8e8cab1923a56bcef4671dce28aef1e39303c04a )
+)
+
+game (
+	name eatpm_l4
+	description "Elvira and the Party Monsters (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name elvi_u4.l1 size 32768 crc b5afa4db sha1 59b72dac5301a4befa01b93da5162478682e6021 )
+	rom ( name elvi_u19.l1 size 32768 crc 806bc350 sha1 d170aef11001096da9f2f7240726662009e26f5f )
+	rom ( name elvi_u20.l1 size 32768 crc 3d92d5fd sha1 834d40a59be57057103d1d8ab48fdaaf7dc5eda2 )
+	rom ( name elvi_u21.l1 size 32768 crc 68d44545 sha1 8c3ea8521a44b1539cd148f142cca14184174ba7 )
+	rom ( name elvi_u22.l1 size 32768 crc e525b4fe sha1 be728ec33a00b93c3346428a9248b588460af945 )
+)
+
+game (
+	name polic_l4
+	description "Police Force (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name pfrc_u4.l2 size 32768 crc 8f431529 sha1 0f479990715a31fd860c000a066cffb70da502c2 )
+	rom ( name pfrc_u19.l1 size 32768 crc abc4caeb sha1 6faef2de9a49a1015b4038ab18849de2f25dbded )
+	rom ( name pfrc_u21.l1 size 32768 crc 7729afd3 sha1 9cd2898a7a4203cf3b2dcd203e25cde5dd582ee7 )
+	rom ( name pfrc_u22.l1 size 32768 crc 40f5e6b2 sha1 4af2e2658720b08d03d24c9d314a6e5074b2c747 )
+)
+
+game (
+	name bcats_l5
+	description "Bad Cats (L-5) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name cats_u4.l1 size 32768 crc 18c62813 sha1 a4fb69cfedd0b92c22b599913df3cdf8b3eef42c )
+	rom ( name cats_u19.l1 size 32768 crc f2fea68b sha1 9a41823e71342b7a162420378f122bba34ce0636 )
+	rom ( name cats_u20.l1 size 32768 crc bf4dc35a sha1 9920ce90d93fb6ecf98792c35bb6eb8862a969f3 )
+	rom ( name cats_u21.l1 size 32768 crc 04110d08 sha1 4b44b26983cb5d14a93c16a19dc2bdbaa665dc69 )
+	rom ( name cats_u22.l1 size 32768 crc 7e152c78 sha1 b4ab770fdd9420a5d35e55bf8fb84c99ac544b8b )
+)
+
+game (
+	name mousn_l4
+	description "Mousin' Around! (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name mous_u4.l2 size 32768 crc 643add1e sha1 45dea0f4c6f24d17e6f7dda75afaa7caefdc6b96 )
+	rom ( name mous_u19.l2 size 32768 crc 7b4941f7 sha1 2b2fc8e7634b1885b020b2115126d6341172cc91 )
+	rom ( name mous_u20.l2 size 32768 crc 59b1b0c5 sha1 443426be41c1413f22b137145dbc3bcf84d9ccc7 )
+	rom ( name mous_u22.l1 size 32768 crc 00ad198c sha1 4f15696909e1f3574ad20b28e31da2c155ed129f )
+)
+
+game (
+	name gs_l4
+	description "The Bally Game Show (L-4) (pinball) [sound only]"
+	year 1990
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name gshw_u4.l2 size 65536 crc e89e0116 sha1 e96bee143d1662d078f21531f405d838fdace693 )
+	rom ( name gshw_u19.l1 size 65536 crc 8bae0813 sha1 a2b1beca13796892d8ee1533e395cabdbbb11f88 )
+	rom ( name gshw_u20.l1 size 65536 crc 75ccbdf7 sha1 7dce8ae427a621919caad8d8b08b06bb0adad850 )
+)
+
+game (
+	name bnzai_l3
+	description "Banzai Run (L-3) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name banz_u4.l1 size 32768 crc 8fd69c69 sha1 c024cda85c6616943c3a12ab5943a7be8709bfe3 )
+	rom ( name banz_u19.l1 size 32768 crc 9104248c sha1 48a8c41f3a4127f4fb4de37e876c8380e3511e1f )
+	rom ( name banz_u20.l1 size 32768 crc 26b3d15c sha1 528084b6c62394f8ed9fc0f90b91d844060fc904 )
+	rom ( name banz_u21.l1 size 32768 crc cd06716e sha1 b61a0dc017dd4a09296a43a855461c5cee07517b )
+	rom ( name banz_u22.l1 size 32768 crc e8159033 sha1 e8f15801feefeb30768e88d685c208108aa134e8 )
+)
+
+game (
 	name ttt_10
 	description "Ticket Tac Toe (redemption) [sound only]"
 	year 1996

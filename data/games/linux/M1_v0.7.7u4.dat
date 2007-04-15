@@ -1,8 +1,8 @@
 clrmamepro (
 	name M1
-	description "M1 v0.7.7u2 [sound only]"
+	description "M1 v0.7.7u4 [sound only]"
 	category "Arcade Machine Sound Emulator"
-	version 20070208
+	version 20070415
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -51,7 +51,7 @@ game (
 game (
 	name 1943kai
 	description "1943 Kai [sound only]"
-	year 1988
+	year 1987
 	manufacturer "Capcom"
 	board "Ghosts and Goblins"
 	rom ( name 1943kai.05 size 32768 crc 25f37957 sha1 1e50c2a920eb3b5c881843686db857e9fee5ba1d )
@@ -795,11 +795,21 @@ game (
 game (
 	name asurabld
 	description "Asura Blade [sound only]"
-	year 1999
+	year 1998
 	manufacturer "Fuuki"
 	board "Fuuki FG-3"
 	rom ( name srom.u7 size 524288 crc bb1deb89 sha1 b1c70abddc0b9a88beb69a592376ff69a7e091eb )
 	rom ( name pcm.u6 size 4194304 crc ac72225a sha1 8d16399ed34ac5bd69dbf43b2de2b0db9ac1c610 )
+)
+
+game (
+	name asurabus
+	description "Asura Buster [sound only]"
+	year 2000
+	manufacturer "Fuuki"
+	board "Fuuki FG-3"
+	rom ( name srom.u7 size 524288 crc 368da389 sha1 1423b709da40bf3033c9032c4bd07658f1a969de )
+	rom ( name pcm.u6 size 4194304 crc 31b05be4 sha1 d0f4f387f84a74591224b0f42b7f5c538a3dc498 )
 )
 
 game (
@@ -6372,13 +6382,13 @@ game (
 
 game (
 	name mpangj
-	description "Mighty Pang! [sound only]"
+	description "Mighty Pang! (Japan) [sound only]"
 	year 2000
 	manufacturer "Mitchell"
 	board "Capcom QSound (CPS version)"
 	rom ( name mpn.01 size 131072 crc 90c7adb6 sha1 a2653e977e5e0457b249e098e5ca0abc93dac336 )
-	rom ( name mpn-sim.05a size 2097152 crc 318a2e21 sha1 c573cd88f8279a062c73ef1d79cd8421dbdcd93e )
-	rom ( name mpn-sim.05b size 2097152 crc 5462f4e8 sha1 299fbdab700e735e6395c5d9e3f079bb2e3dbd73 )
+	rom ( name mpn-simm.05a size 2097152 crc 318a2e21 sha1 c573cd88f8279a062c73ef1d79cd8421dbdcd93e )
+	rom ( name mpn-simm.05b size 2097152 crc 5462f4e8 sha1 299fbdab700e735e6395c5d9e3f079bb2e3dbd73 )
 )
 
 game (
@@ -9950,7 +9960,7 @@ game (
 game (
 	name swa_dsb
 	description "Star Wars Arcade (music) [sound only]"
-	year 1995
+	year 1994
 	manufacturer "Sega"
 	cloneof swa
 	romof swa
@@ -9963,7 +9973,7 @@ game (
 game (
 	name swa
 	description "Star Wars Arcade (sound effects) [sound only]"
-	year 1995
+	year 1994
 	manufacturer "Sega"
 	board "Model 1/2"
 	rom ( name epr16470.bin size 131072 crc 7da18cf7 sha1 bd432d882d217277faee120e2577357a32eb4a6e )
@@ -10000,7 +10010,7 @@ game (
 game (
 	name sgunner
 	description "Steel Gunner [sound only]"
-	year 1992
+	year 1990
 	manufacturer "Namco"
 	board "Namco System 2"
 	rom ( name sg1-snd0.bin size 131072 crc bdf36d44 sha1 46ee7c1b320fec3296e2483d6a68a1f11bcf196d )
@@ -10298,7 +10308,7 @@ game (
 game (
 	name superchs
 	description "Super Chase - Criminal Termination [sound only]"
-	year 1993
+	year 1992
 	manufacturer "Taito"
 	board "F3/Super Z/JC Systems"
 	rom ( name d46-37.8up size 131072 crc 60b51b91 sha1 0d0b017808e0a3bdabe8ef5a726bbe16428db06b )
@@ -13068,17 +13078,6 @@ game (
 )
 
 game (
-	name swe1
-	description "Star Wars: Episode 1 (pinball) [sound only]"
-	year 2000
-	manufacturer "Midway"
-	board "Midway DCS ROM-based stereo"
-	rom ( name sweflash.snd size 1048576 crc 5fc1fd2c sha1 0967db9b6e82d386d3a8415bbef40bcab5a06654 )
-	rom ( name u109.rom size 4194304 crc cc08936b sha1 fc428393e8a0cf37b800dd475fd293a1a98c4bcf )
-	rom ( name u110.rom size 4194304 crc 6011ecd9 sha1 8575958c8942a6cbcb2ac18f291fcada6f8cbc09 )
-)
-
-game (
 	name fvipers2
 	description "Fighting Vipers 2 [sound only]"
 	year 1998
@@ -13094,7 +13093,7 @@ game (
 game (
 	name swtmpeg
 	description "Star Wars Trilogy (music) [sound only]"
-	year 1999
+	year 1998
 	manufacturer "Sega"
 	board "Sega Digital Sound Board (type 2)"
 	rom ( name ep21384.2 size 131072 crc 12fa4780 sha1 a10ce82d81045cc49efcfba490693d06aeced3ae )
@@ -13134,69 +13133,6 @@ game (
 	rom ( name ep19491.31 size 524288 crc 1c9b15fd sha1 045244a4eebc45f149aecf47f090cede1813477b )
 	rom ( name mp19504.32 size 4194304 crc 9419ec08 sha1 d05d9ceb7fd09fa8991c0df4d1c57eb621460e30 )
 	rom ( name mp19505.34 size 4194304 crc eba7f41d sha1 f6e521bedf298808a768f6fdcb0b60b320a66d04 )
-)
-
-game (
-	name gradius4
-	description "Gradius IV: Fukkatsu [sound only]"
-	year 1998
-	manufacturer "Konami"
-	board "Konami Hornet"
-	rom ( name 837a08.7s size 524288 crc c3a7ff56 sha1 9d8d033277d560b58da151338d14b4758a9235ea )
-	rom ( name 837a09.16p size 4194304 crc fb8f3dc2 sha1 69e314ac06308c5a24309abc3d7b05af6c0302a8 )
-	rom ( name 837a10.14p size 4194304 crc 1419cad2 sha1 a6369a5c29813fa51e8246d0c091736f32994f3d )
-)
-
-game (
-	name nbapbp
-	description "NBA Play by Play [sound only]"
-	year 1998
-	manufacturer "Konami"
-	board "Konami Hornet"
-	rom ( name 778a08.7s size 524288 crc 6259b4bf sha1 d0c38870495c9a07984b4b85e736d6477dd44832 )
-	rom ( name 778a09.16p size 4194304 crc e8c6fd93 sha1 dd378b67b3b7dd932e4b39fbf4321e706522247f )
-	rom ( name 778a10.14p size 4194304 crc c6a0857b sha1 976734ba56460fcc090619fbba043a3d888c4f4e )
-	rom ( name 778a11.12p size 4194304 crc 40199382 sha1 bee268adf9b6634a4f6bb39278ecd02f2bdcb1f4 )
-	rom ( name 778a12.9p size 4194304 crc 27d0c724 sha1 48e48cbaea6db0de8c3471a2eda6faaa16eed46e )
-)
-
-game (
-	name gticlub
-	description "GTI Club [sound only]"
-	year 1998
-	manufacturer "Konami"
-	board "GTI Club"
-	rom ( name 688a07.13k size 262144 crc f0805f06 sha1 4b87e02b89e7ea812454498603767668e4619025 )
-	rom ( name 688a09.9s size 2097152 crc fb582963 sha1 ce8fe6a4d7ac7d7f4b6591f9150b1d351e636354 )
-	rom ( name 688a10.7s size 2097152 crc b3ddc5f1 sha1 a3f76c86e85eb17f20efb037c1ad64e9cb8566c8 )
-	rom ( name 688a11.5s size 2097152 crc fc706183 sha1 c8ce6de0588be1023ef48577bc88a4e5effdcd25 )
-	rom ( name 688a12.2s size 2097152 crc 510c70e3 sha1 5af77bc98772ab7961308c3af0a80cb1bca690e3 )
-)
-
-game (
-	name thunderh
-	description "Thunder Hurricane [sound only]"
-	year 1998
-	manufacturer "Konami"
-	board "GTI Club"
-	rom ( name 680a07.13k size 524288 crc 12247a3e sha1 846cd9423efd3c9b17fce08393c6c83307d72f92 )
-	rom ( name 680a09.9s size 2097152 crc 71c2b049 sha1 ce360172c8774b31edf16a80104c35b1caf26cd9 )
-	rom ( name 680a10.7s size 2097152 crc 19882bf3 sha1 7287da58853c84cbadbfb42bed37f2b0032c4b4d )
-	rom ( name 680a11.5s size 2097152 crc 0c74fe3f sha1 2e69f8d37552a74bbda65b134f747b4380ed33b0 )
-	rom ( name 680a12.2s size 2097152 crc b052919d sha1 a61c8eaf378ab7d780478db61217302d1b9f8f73 )
-)
-
-game (
-	name slrasslt
-	description "Solar Assault [sound only]"
-	year 1998
-	manufacturer "Konami"
-	board "GTI Club"
-	rom ( name 792a07.10k size 524288 crc 89a65ad1 sha1 d814ef0b560c8e68da57ad5c6096e4fc05e9913e )
-	rom ( name 792a09.9s size 2097152 crc 7d7ea427 sha1 a9a311a7c17223cc87140fe2890e20a321464831 )
-	rom ( name 792a10.7s size 2097152 crc e585e5d9 sha1 ec44ad324a66eeea4c45933dda5a8a9a4398879d )
-	rom ( name 792a11.5s size 2097152 crc c9c3a04c sha1 f834659f67712c9fcd93b7407669d7f35517b790 )
-	rom ( name 792a12.2s size 2097152 crc da8fcdd5 sha1 daa7b3a086ada69e93c3d7cd9130befc79e422dc )
 )
 
 game (
@@ -13596,5 +13532,1193 @@ game (
 	rom ( name mpr22889.24 size 4194304 crc 4f9ba45d sha1 d60314e852637edf6510be52b9b6576a1f3e1b7e )
 	rom ( name mpr22888.23 size 4194304 crc 018fcf22 sha1 c5133358f591d699f177617463e7dfa22edf5369 )
 	rom ( name mpr22890.25 size 4194304 crc b638bd7c sha1 ed9c69175fd0ca4c6f22e542b4e68398a6e4ad07 )
+)
+
+game (
+	name 10yard
+	description "10-Yard Fight [sound only]"
+	year 1983
+	manufacturer "IREM"
+	board "Irem M62"
+	rom ( name yf-s.3b size 8192 crc 0392a60c sha1 68030504eafc58db250099edd3c3323bdb9eff6b )
+	rom ( name yf-s.1b size 8192 crc 6588f41a sha1 209305efc68171886427216b9a0b37333f40daa8 )
+	rom ( name yf-s.3a size 8192 crc bd054e44 sha1 f10c32c70d60680229fc0891d0e1308015fa69d6 )
+	rom ( name yf-s.1a size 8192 crc 2490d4c3 sha1 e4da7b01e8ad075b7e3c8beb6668faff72db9aa2 )
+)
+
+game (
+	name alpha1v
+	description "Alpha One (Vision Electronics / Kyle Hodgetts) [sound only]"
+	year 1988
+	manufacturer "Kyle Hodgetts"
+	board "Irem M62"
+	rom ( name 1-a1 size 4096 crc 9e07fdd5 sha1 ed4f462fcfe91fa8e88bfeaaba0a0c11fa0b4601 )
+)
+
+game (
+	name youjyudn
+	description "Youjyuden (Japan) [sound only]"
+	year 1986
+	manufacturer "IREM"
+	board "Irem M62"
+	rom ( name yju_a3fb.bin size 16384 crc e15c8030 sha1 bbbf4fa0349d614af86e356a106d5dd24b0b8baa )
+)
+
+game (
+	name horizon
+	description "Horizon [sound only]"
+	year 1985
+	manufacturer "IREM"
+	board "Irem M62"
+	rom ( name hrza-3f size 16384 crc 7412c99f sha1 33e7cffa08d9644c78e1bada9a2b08ce5d3f97e1 )
+)
+
+game (
+	name newtangl
+	description "New Tropical Angel [sound only]"
+	year 1983
+	manufacturer "IREM"
+	board "Irem M62"
+	rom ( name ta-s-1a- size 8192 crc ea8a05cb sha1 5683e4dca93066ee788287ab73a766fa303ebe84 )
+)
+
+game (
+	name shtrider
+	description "Shot Rider [sound only]"
+	year 1984
+	manufacturer "Seibu Kaihatsu"
+	board "Irem M62"
+	rom ( name sr11a.bin size 8192 crc a8396b76 sha1 614151fb1d25930e9fee4ab290a63f8fe97adbe6 )
+)
+
+game (
+	name spelunkr
+	description "Spelunker [sound only]"
+	year 1986
+	manufacturer "Br0derbund"
+	board "Irem M62"
+	rom ( name spra.3d size 16384 crc 4110363c sha1 8c1f4966291887c17175ab921acd732be6266186 )
+	rom ( name spra.3f size 16384 crc 67a9d2e6 sha1 d859648d7a3f05ae777a3909ddcd866b786c5b26 )
+)
+
+game (
+	name spelunk2
+	description "Spelunker II [sound only]"
+	year 1986
+	manufacturer "Br0derbund"
+	board "Irem M62"
+	rom ( name sp2-a.3d size 16384 crc 839ec7e2 sha1 a2c45553b149fc16b8af6338627cd2a8a31e08a0 )
+	rom ( name sp2-a.3f size 16384 crc ad3ce898 sha1 36876b6d51a480a0664413dfcc57ef343e0f9965 )
+)
+
+game (
+	name travrusa
+	description "Traverse USA [sound only]"
+	year 1983
+	manufacturer "IREM"
+	board "Irem M62"
+	rom ( name mr10.1a size 4096 crc a02ad8a0 sha1 aff80b506dbecabed2a36eb743693940f6a22d16 )
+)
+
+game (
+	name archrivl
+	description "Arch Rivals [sound only]"
+	year 1989
+	manufacturer "Bally Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name u4.snd size 32768 crc 96b3c652 sha1 1bb576d0bf6b6b8df24e7b9352a33e97dd8ebdcb )
+	rom ( name u19.snd size 32768 crc c4b3dc23 sha1 87e6eaec82d749ad28e0fa3d0efecd8a4aaf5cd7 )
+	rom ( name u20.snd size 32768 crc f7907a02 sha1 3fabb2b7fd82e773d7b6db53c5328b5866d70617 )
+)
+
+game (
+	name pigskin
+	description "Pigskin 621AD [sound only]"
+	year 1990
+	manufacturer "Bally Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name pigskin.u4 size 65536 crc 6daf2d37 sha1 4c8098520fe44e36b01389bcfcfe3ad1d027cbde )
+	rom ( name pigskin.u19 size 65536 crc 56fd16a3 sha1 b91aabdbd3185355f2b7177fc4d3a86fa110f51d )
+	rom ( name pigskin.u20 size 65536 crc 5d032fb8 sha1 a236cdc64856637e560bec7119b051fac13efbe0 )
+)
+
+game (
+	name trisport
+	description "Tri-Sports [sound only]"
+	year 1989
+	manufacturer "Bally Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name sl1-snd.u4 size 65536 crc 0ed8c904 sha1 21292a001c4c44f87b8782c706e5c346b767cd6b )
+	rom ( name sl1-snd.u19 size 65536 crc b57d7d7e sha1 483f718f1cc4549baf5696935532d30803254a19 )
+	rom ( name sl1-snd.u20 size 32768 crc 3ae15c08 sha1 6b0fd09c39da08d1f67b6dd4287e8d2894522e1d )
+)
+
+game (
+	name schmeisr
+	description "Schmeiser Robo [sound only]"
+	year 1993
+	manufacturer "Hot-B"
+	board "DECO32"
+	rom ( name sr013.18p size 65536 crc 4ac00cbb sha1 cbc21e13978ae5e8940c8c22932dc424605c0ba4 )
+	rom ( name sr012.15p size 524288 crc 38843d4d sha1 0eda60a4d2caa1e57582c354b8be926905d7fb0c )
+	rom ( name sr011.14p size 524288 crc 81805616 sha1 cdca2eb6d12924b9b578b4ce95d5816c7d82f345 )
+)
+
+game (
+	name nitrobal
+	description "Nitro Ball [sound only]"
+	year 1992
+	manufacturer "Data East"
+	board "DECO32"
+	rom ( name jl08.r20 size 65536 crc 93d93fe1 sha1 efc618724251d23a23b3019d475f7739a7e88751 )
+	rom ( name mav10.r17 size 524288 crc 8ad734b0 sha1 768b9f54bbf4b54591cafecb7a27960da919ce84 )
+	rom ( name mav11.r19 size 524288 crc ef513908 sha1 72db6c704071d7a784b3768c256fc51087e9e93c )
+)
+
+game (
+	name sotsugyo
+	description "Sotsugyuo Shousho [sound only]"
+	year 1995
+	manufacturer "Mitchell"
+	board "DECO32"
+	rom ( name sb020.16f size 65536 crc baf5ec93 sha1 82b22a0b565e51cd40733f21fa876dd7064eb604 )
+	rom ( name sb030.15h size 131072 crc 1ea43f48 sha1 74cc8c740f1c7fa94c2cb460ea4ee7aa0c490ed7 )
+)
+
+game (
+	name funkyjet
+	description "Funky Jet [sound only]"
+	year 1992
+	manufacturer "Mitchell"
+	board "DECO32"
+	rom ( name jk02.16f size 65536 crc 748c0bd8 sha1 35910e6a4c4f198fb76bde0f5b053e2c66cfa0ff )
+	rom ( name jk03.15h size 131072 crc 69a0eaf7 sha1 05038e82ee03106625f05082fe9912e16be181ee )
+)
+
+game (
+	name crater
+	description "Crater Raider [sound only]"
+	year 1984
+	manufacturer "Midway"
+	board "Bally/Midway Super Sound I/O"
+	rom ( name crsnd4.a7 size 4096 crc fd666cb5 sha1 257174266e264db8ac9af5f2296fd0a22847f85f )
+	rom ( name crsnd1.a8 size 4096 crc 90bf2c4c sha1 7adfbf2251b5d46043d614554320e2fe544cc570 )
+	rom ( name crsnd2.a9 size 4096 crc 3b8deef1 sha1 a14186a33a7b5ca07086ce44fb1c8c64900654d0 )
+	rom ( name crsnd3.a10 size 4096 crc 05803453 sha1 1bba85e6494b4f67cea82d61e6cd341337bca998 )
+)
+
+game (
+	name timber
+	description "Timber [sound only]"
+	year 1984
+	manufacturer "Midway"
+	board "Bally/Midway Super Sound I/O"
+	rom ( name tima7.bin size 4096 crc c615dc3e sha1 664d5e3ac3936fd04a855ee0c88f1c1b4d1dea5b )
+	rom ( name tima8.bin size 4096 crc 83841c87 sha1 bd5a2e567e015e10e45651e15b42ffb3b69d2305 )
+	rom ( name tima9.bin size 4096 crc 22bcdcd3 sha1 69cedc8cec52ca310f828dfe73d7de04729b06d3 )
+)
+
+game (
+	name bellring
+	description "Bell Ringer (pinball) [sound only]"
+	year 1990
+	manufacturer "Gottlieb"
+	board "Gottlieb System 3"
+	rom ( name br_yrom1.bin size 32768 crc d5aab379 sha1 b3995f8aa2e54f91f2a0fd010c807fbfbf9ae847 )
+	rom ( name br_drom1.bin size 32768 crc 99f38229 sha1 f63d743e63e88728e8d53320b21b2fda1b6385f8 )
+)
+
+game (
+	name ccruise
+	description "Caribbean Cruise (pinball) [sound only]"
+	year 1989
+	manufacturer "International Concepts"
+	board "Gottlieb System 3"
+	rom ( name yrom1.bin size 32768 crc 6e424e53 sha1 90a9bf5ce84680972f9d12eb386215494c584b9b )
+	rom ( name drom1.bin size 32768 crc 4480257e sha1 50b93d4496816ef7cdf007ac75c72c6aaa956aba )
+)
+
+game (
+	name kengo
+	description "Ken Go [sound only]"
+	year 1991
+	manufacturer "IREM"
+	board "Irem M72/M81/M83/M97/M99"
+	rom ( name ken_d-sp.rom size 65536 crc 233ca1cf sha1 4ebb6162773bd586a10016ccd77998a9b880f474 )
+)
+
+game (
+	name poundfor
+	description "Pound for Pound [sound only]"
+	year 1990
+	manufacturer "IREM"
+	board "Irem M72/M81/M83/M97/M99"
+	rom ( name ppa-sp.4j size 65536 crc 3f458a5b sha1 d73740b2a548bf8a895909da0841f18d9ed32668 )
+)
+
+game (
+	name matchit
+	description "Match It / Shisensho [sound only]"
+	year 1989
+	manufacturer "Tamtex"
+	board "Irem M72/M81/M83/M97/M99"
+	rom ( name ic01.01 size 65536 crc 51b0a26c sha1 af2482cfe8d395848c8e1bf07bf1049ffc6ee69b )
+)
+
+game (
+	name kikcubic
+	description "Kickle Cubele / Meikyu Jima  [sound only]"
+	year 1988
+	manufacturer "IREM"
+	board "Irem M72/M81/M83/M97/M99"
+	rom ( name mqj-sp size 65536 crc bbcf3582 sha1 4a5b9d4161b26e3ca400573fa78268893e42d5db )
+	rom ( name mqj-v0 size 65536 crc 54762956 sha1 f08e983af28b16d27505d465ca64e7c7a93373a4 )
+)
+
+game (
+	name newsin7
+	description "New Sinbad 7 [sound only]"
+	year 1983
+	manufacturer "Artic Electronics (ATW)"
+	board "Scramble / Super Cobra"
+	rom ( name newsin.13 size 2048 crc d88489a2 sha1 ab10fd4862129824301a0a847de298f1826aa03e )
+	rom ( name newsin.12 size 2048 crc b154a7af sha1 91ca28b2530f22786ff581e5710b40f0cf99f516 )
+	rom ( name newsin.11 size 2048 crc 7ade709b sha1 bda1401172139cd6e3e03424c56e4f59e5afebd5 )
+)
+
+game (
+	name mars
+	description "Mars [sound only]"
+	year 1981
+	manufacturer "Artic Electronics (ATW)"
+	board "Scramble / Super Cobra"
+	rom ( name u39.9 size 2048 crc bb5968b9 sha1 8bc57fd80da7aff294e12e991e9acf60c1ab2893 )
+	rom ( name u51.10 size 2048 crc 75fd7720 sha1 3ee4ca0d85ffacf0388cada17581da0cdaaf83ef )
+	rom ( name u78.11 size 2048 crc 72a492da sha1 a272f72378850f7ecf52498746c2015f6dad3ab9 )
+)
+
+game (
+	name pooyan
+	description "Pooyan (SFX only) [sound only]"
+	year 1982
+	manufacturer "Konami"
+	board "Time Pilot"
+	rom ( name xx.7a size 4096 crc fbe2b368 sha1 5689a84ef110bdc0039ad1a6c5778e0b8eccfce0 )
+	rom ( name xx.8a size 4096 crc e1795b3d sha1 9ab4e5362f9f7d9b46b750e14b1d9d71c57be40f )
+)
+
+game (
+	name jungler
+	description "Jungler [sound only]"
+	year 1981
+	manufacturer "Konami"
+	board "Time Pilot"
+	rom ( name 1b size 4096 crc f86999c3 sha1 4660bd7826219b1bad7d9178918823196d4fd8d6 )
+)
+
+game (
+	name rocnrope
+	description "Roc 'N Rope [sound only]"
+	year 1983
+	manufacturer "Konami"
+	board "Time Pilot"
+	rom ( name rnr_7a.snd size 4096 crc 75d2c4e2 sha1 b701019b4e7b06b268be660ce7958b5367318c27 )
+	rom ( name rnr_8a.snd size 4096 crc ca4325ae sha1 34ac035c0c2ed6bcafde1491d976bb9e9d2a2a7d )
+)
+
+game (
+	name tactcian
+	description "Tactician [sound only]"
+	year 1982
+	manufacturer "Konami"
+	board "Time Pilot"
+	rom ( name tacticia.s2 size 4096 crc 97d145a7 sha1 7aee9004287590a25e153d45b95dfaac89fbe996 )
+	rom ( name tacticia.s1 size 4096 crc 067f781b sha1 640bc7813c239e497644e53a080d81366fcd04df )
+)
+
+game (
+	name anteater
+	description "Anteater [sound only]"
+	year 1982
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name ra4-5c size 2048 crc 87300b4f sha1 b81b685ac1d353ff1cd40b876a7478b87b85e7a9 )
+	rom ( name ra4-5d size 2048 crc af4e5ffe sha1 62717a233cf9f58267af4a9e1c80479b373ab317 )
+)
+
+game (
+	name dd_l2
+	description "Dr. Dude (pinball) [sound only]"
+	year 1990
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name dude_u4.l1 size 65536 crc 3eeef714 sha1 74dcc83958cb62819e0ac36ca83001694faafec7 )
+	rom ( name dude_u19.l1 size 65536 crc dc7b985b sha1 f672d1f1fe1d1d887113ea6ccd745a78f7760526 )
+	rom ( name dude_u20.l1 size 65536 crc a83d53dd sha1 92a81069c42c7760888201fb0787fa7ddfbf1658 )
+)
+
+game (
+	name lca
+	description "Lights, Camera, Action (pinball) [sound only]"
+	year 1989
+	manufacturer "Gottlieb/Premier"
+	board "Gottlieb System 3"
+	rom ( name yrom1.bin size 32768 crc 20919ebb sha1 a2ea79863b41a04aa23ea596932825408cca64e3 )
+	rom ( name drom1.bin size 32768 crc a258d72d sha1 eeb4768c8b2f57509a088d3ac8d35aa34f2cfc2c )
+)
+
+game (
+	name armorcar
+	description "Armored Car [sound only]"
+	year 1981
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name sound.5c size 2048 crc 54ee7753 sha1 3ebfa2cadf33acb4d24aa50cfa4713355cc780a3 )
+	rom ( name sound.5d size 2048 crc 5218fec0 sha1 c8f84f1e6aafc544e5acf48b245e8b1edb63211e )
+)
+
+game (
+	name calipso
+	description "Calipso [sound only]"
+	year 1982
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name calipso.5c size 2048 crc 9cbc65ab sha1 b4ce04d18f9536c0ddd2f9c15edda75570e750e5 )
+	rom ( name calipso.5d size 2048 crc a225ee3b sha1 dba111f89851c69fb6fce16219cb2b0cb3294c15 )
+)
+
+game (
+	name ckongs
+	description "Crazy Kong (Scramble hardware) [sound only]"
+	year 1981
+	manufacturer "Unknown"
+	board "Scramble / Super Cobra"
+	rom ( name turt_snd.5c size 4096 crc f0c30f9a sha1 5621f336e9be8acf986a34bbb8855ed5d45c28ef )
+	rom ( name snd_5d.bin size 4096 crc 892c9547 sha1 c3ec98049b560eb0ddefdb1e1b2d551b418b9a1c )
+)
+
+game (
+	name darkplnt
+	description "Dark Planet [sound only]"
+	year 1982
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name 5c.snd size 4096 crc 672b9454 sha1 2b2ec06d62ff5f19a1c802152c798940631fb1d6 )
+)
+
+game (
+	name hunchbks
+	description "Hunchback (Scramble hardware) [sound only]"
+	year 1983
+	manufacturer "Century Electronics"
+	board "Scramble / Super Cobra"
+	rom ( name 2p_hb08.bin size 2048 crc 412087b0 sha1 4d6f343577ae73031f32cda8903c74e5a840e71d )
+	rom ( name 11d_snd.bin size 2048 crc 88226086 sha1 fe2da172313063e5b056fc8c8d8b2a5c64db5179 )
+)
+
+game (
+	name losttomb
+	description "Lost Tomb [sound only]"
+	year 1982
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name 5c size 2048 crc b899be2a sha1 9b343a682531255104db61177a43ad933c3af34e )
+	rom ( name 5d size 2048 crc 6907af31 sha1 8496c8db5342129d81381eec196facbca45bca77 )
+)
+
+game (
+	name mimonkey
+	description "Mighty Monkey [sound only]"
+	year 1982
+	manufacturer "Universal Video Games"
+	board "Scramble / Super Cobra"
+	rom ( name mm13.11d size 4096 crc 2d14c527 sha1 062414ce0415b6c471149319ecae22f465df3a4f )
+	rom ( name mm14.10d size 4096 crc 35ed0f96 sha1 5aaacae5c2acf97540b72491f71ea823f5eeae1a )
+)
+
+game (
+	name minefld
+	description "Minefield [sound only]"
+	year 1983
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name ma15c size 2048 crc 8bef736b sha1 c5c7ce9c40e6fe60a4914b6bbd646ba6853c9043 )
+	rom ( name ma15d size 2048 crc f67b3f97 sha1 bb15f95eab6594508b5c02af60ed9fff3abd23ee )
+)
+
+game (
+	name moonwar
+	description "Moonwar [sound only]"
+	year 1981
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name mw2.5c size 2048 crc c26231eb sha1 5b19edfaefe1a535059311d067ea53405879d627 )
+	rom ( name mw2.5d size 2048 crc bb48a646 sha1 cf51202d16b03bbed12ff24501be68683f28c992 )
+)
+
+game (
+	name spdcoin
+	description "Speed Coin (Prototype) [sound only]"
+	year 1984
+	manufacturer "Stern"
+	board "Scramble / Super Cobra"
+	rom ( name spdcoin.5c size 2048 crc b4cf64b7 sha1 a95d94be2e374b78b4ba49b6931f0c214ff9d033 )
+	rom ( name spdcoin.5d size 2048 crc 92304df0 sha1 01471bf7cbea0090933a253b1b46f80c8f240df5 )
+)
+
+game (
+	name stratgyx
+	description "Strategy X [sound only]"
+	year 1981
+	manufacturer "Konami"
+	board "Scramble / Super Cobra"
+	rom ( name s1.bin size 4096 crc 713a5db8 sha1 8ec41cb93cfd856dc5aecace6238240a5d114ce1 )
+	rom ( name s2.bin size 4096 crc 46079411 sha1 72bfc39979818309ac5a49654a825f9e4bd0236c )
+)
+
+game (
+	name superbon
+	description "Super Bond [sound only]"
+	year 1982
+	manufacturer "Alpha"
+	board "Scramble / Super Cobra"
+	rom ( name 5c size 2048 crc b899be2a sha1 9b343a682531255104db61177a43ad933c3af34e )
+	rom ( name 5d.snd size 2048 crc 80640a04 sha1 83f2bafcfa5737441194d3058a76b2582317cfcb )
+)
+
+game (
+	name scobra
+	description "Super Cobra [sound only]"
+	year 1981
+	manufacturer "Konami"
+	board "Scramble / Super Cobra"
+	rom ( name 5c size 2048 crc d4346959 sha1 5eab4505beb69a5bdd88b23db60e1193371250cf )
+	rom ( name 5d size 2048 crc cc025d95 sha1 2b0784c4d05c466e0b7648f16e14f34393d792c3 )
+	rom ( name 5e size 2048 crc 1628c53f sha1 ec79a73e4a2d7373454b227dd7eff255f1cc60cc )
+)
+
+game (
+	name theend
+	description "The End [sound only]"
+	year 1980
+	manufacturer "Konami"
+	board "Scramble / Super Cobra"
+	rom ( name ic56_1.bin size 2048 crc 7a141f29 sha1 ca483943971c8fc7f5775a8a7cc6ddd331d48170 )
+	rom ( name ic55_2.bin size 2048 crc 218497c1 sha1 3e080621f2e83909a6f304a2d960a080bccbbdc2 )
+)
+
+game (
+	name gradius4
+	description "Gradius IV: Fukkatsu [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 837a08.7s size 524288 crc c3a7ff56 sha1 9d8d033277d560b58da151338d14b4758a9235ea )
+	rom ( name 837a09.16p size 4194304 crc fb8f3dc2 sha1 69e314ac06308c5a24309abc3d7b05af6c0302a8 )
+	rom ( name 837a10.14p size 4194304 crc 1419cad2 sha1 a6369a5c29813fa51e8246d0c091736f32994f3d )
+)
+
+game (
+	name nbapbp
+	description "NBA Play by Play [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 778a08.7s size 524288 crc 6259b4bf sha1 d0c38870495c9a07984b4b85e736d6477dd44832 )
+	rom ( name 778a09.16p size 4194304 crc e8c6fd93 sha1 dd378b67b3b7dd932e4b39fbf4321e706522247f )
+	rom ( name 778a10.14p size 4194304 crc c6a0857b sha1 976734ba56460fcc090619fbba043a3d888c4f4e )
+	rom ( name 778a11.12p size 4194304 crc 40199382 sha1 bee268adf9b6634a4f6bb39278ecd02f2bdcb1f4 )
+	rom ( name 778a12.9p size 4194304 crc 27d0c724 sha1 48e48cbaea6db0de8c3471a2eda6faaa16eed46e )
+)
+
+game (
+	name thrilld
+	description "Thrill Drive [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 713a08.7s size 524288 crc 6a72a825 sha1 abeac99c5343efacabcb0cdff6d34f9f967024db )
+	rom ( name 713a09.16p size 4194304 crc 058f250a sha1 63b8e60004ec49009633e86b4992c00083def9a8 )
+	rom ( name 713a10.14p size 4194304 crc 27f9833e sha1 1540f00d2571ecb81b914c553682b67fca94bbbd )
+)
+
+game (
+	name racingj
+	description "Racing Jam [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 676gna08.7s size 524288 crc 8973f6f2 sha1 f5648a7e0205f7e979ccacbb52936809ce14a184 )
+	rom ( name 676a09.16p size 4194304 crc f85c8dc6 sha1 8b302c80be309b5cc68b75945fcd7b87a56a4c9b )
+	rom ( name 676a10.14p size 4194304 crc 7b5b7828 sha1 aec224d62e4b1e8fdb929d7947ce70d84ba676cf )
+)
+
+game (
+	name racingj2
+	description "Racing Jam: Chapter 2 [sound only]"
+	year 1999
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 888a08.7s size 524288 crc 55fbea65 sha1 ad953f758181731efccadcabc4326e6634c359e8 )
+	rom ( name 888a09.16p size 4194304 crc 11e2fed2 sha1 24b8a367b59fedb62c56f066342f2fa87b135fc5 )
+	rom ( name 888a10.14p size 4194304 crc 328ce610 sha1 dbbc779a1890c53298c0db129d496df048929496 )
+)
+
+game (
+	name gticlub
+	description "GTI Club [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "GTI Club"
+	rom ( name 688a07.13k size 262144 crc f0805f06 sha1 4b87e02b89e7ea812454498603767668e4619025 )
+	rom ( name 688a09.9s size 2097152 crc fb582963 sha1 ce8fe6a4d7ac7d7f4b6591f9150b1d351e636354 )
+	rom ( name 688a10.7s size 2097152 crc b3ddc5f1 sha1 a3f76c86e85eb17f20efb037c1ad64e9cb8566c8 )
+	rom ( name 688a11.5s size 2097152 crc fc706183 sha1 c8ce6de0588be1023ef48577bc88a4e5effdcd25 )
+	rom ( name 688a12.2s size 2097152 crc 510c70e3 sha1 5af77bc98772ab7961308c3af0a80cb1bca690e3 )
+)
+
+game (
+	name thunderh
+	description "Thunder Hurricane [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "GTI Club"
+	rom ( name 680a07.13k size 524288 crc 12247a3e sha1 846cd9423efd3c9b17fce08393c6c83307d72f92 )
+	rom ( name 680a09.9s size 2097152 crc 71c2b049 sha1 ce360172c8774b31edf16a80104c35b1caf26cd9 )
+	rom ( name 680a10.7s size 2097152 crc 19882bf3 sha1 7287da58853c84cbadbfb42bed37f2b0032c4b4d )
+	rom ( name 680a11.5s size 2097152 crc 0c74fe3f sha1 2e69f8d37552a74bbda65b134f747b4380ed33b0 )
+	rom ( name 680a12.2s size 2097152 crc b052919d sha1 a61c8eaf378ab7d780478db61217302d1b9f8f73 )
+)
+
+game (
+	name slrasslt
+	description "Solar Assault [sound only]"
+	year 1998
+	manufacturer "Konami"
+	board "GTI Club"
+	rom ( name 792a07.10k size 524288 crc 89a65ad1 sha1 d814ef0b560c8e68da57ad5c6096e4fc05e9913e )
+	rom ( name 792a09.9s size 2097152 crc 7d7ea427 sha1 a9a311a7c17223cc87140fe2890e20a321464831 )
+	rom ( name 792a10.7s size 2097152 crc e585e5d9 sha1 ec44ad324a66eeea4c45933dda5a8a9a4398879d )
+	rom ( name 792a11.5s size 2097152 crc c9c3a04c sha1 f834659f67712c9fcd93b7407669d7f35517b790 )
+	rom ( name 792a12.2s size 2097152 crc da8fcdd5 sha1 daa7b3a086ada69e93c3d7cd9130befc79e422dc )
+)
+
+game (
+	name sscope2
+	description "Silent Scope 2 [sound only]"
+	year 2000
+	manufacturer "Konami"
+	board "Konami Hornet"
+	rom ( name 931a08.bin size 524288 crc 1597d604 sha1 a1eab4d25907930b59ea558b484c3b6ddcb9303c )
+	rom ( name 931a09.bin size 4194304 crc 694c354c sha1 42f54254a5959e1b341f2801f1ad032c4ed6f329 )
+	rom ( name 931a10.bin size 4194304 crc 78ceb519 sha1 e61c0d21b6dc37a9293e72814474f5aee59115ad )
+	rom ( name 931a11.bin size 4194304 crc 9c8362b2 sha1 a8158c4db386e2bbd61dc9a600720f07a1eba294 )
+)
+
+game (
+	name rckmanj
+	description "Rockman: The Power Battle (CPS-2) [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	board "Capcom QSound (CPS version)"
+	rom ( name rcm.01 size 131072 crc d60cf8a3 sha1 dccd84b93e62489c703011422d0fe84444c7f7db )
+	rom ( name rcm.51 size 524288 crc b6d07080 sha1 b8f07553c01b1f67b0696110cd4e35e4cf4fa158 )
+	rom ( name rcm.52 size 524288 crc dfddc493 sha1 56b5129f24d05d2c85a767b0a632bf260f5425b2 )
+	rom ( name rcm.53 size 524288 crc 6062ae3a sha1 28a4d59bce0c341c240ee8cc92f85850ea8ffb10 )
+	rom ( name rcm.54 size 524288 crc 08c6f3bf sha1 6b8175748ff25b90572f914e4565935e27aa09a5 )
+	rom ( name rcm.55 size 524288 crc f97dfccc sha1 752a3855d78e55dc31291e14d0223104691784f4 )
+	rom ( name rcm.56 size 524288 crc ade475bc sha1 02ae6bc21d5e41e05595845f264c9ad040d70b37 )
+	rom ( name rcm.57 size 524288 crc 075effb3 sha1 4be02d966d933c0d92908c5e05842c6b33c9703b )
+	rom ( name rcm.58 size 524288 crc f6c1f87b sha1 d6cd8d2bac96404b6983d738093b7177d478f12e )
+)
+
+game (
+	name othunder
+	description "Operation Thunderbolt [sound only]"
+	year 1988
+	manufacturer "Taito"
+	board "Taito AIR/B/Dual68k/H/F2 Systems"
+	rom ( name b67-13.40 size 65536 crc 2936b4b1 sha1 39b41643464dd89e456ab6eb15a0ff0aef30afde )
+	rom ( name b67-08 size 524288 crc 458f41fb sha1 acca7c95acd1ae7a1cc51fb7fe644ad6d00ff5ac )
+	rom ( name b67-07 size 524288 crc 4f834357 sha1 f34705ce64870a8b24ec2639505079cc031fb719 )
+)
+
+game (
+	name rapidrvr
+	description "Rapid River [sound only]"
+	year 1997
+	manufacturer "Namco"
+	board "Namco System 12"
+	rom ( name rd1wavel.2s size 8388608 crc bf52c08c sha1 6745062e078e520484390fad1f723124aa4076d0 )
+	rom ( name rd1waveh.3s size 8388608 crc ef0136b5 sha1 a6d923ededca168fe555e0b86a72f53bec5424cc )
+	rom ( name tss3verb.3 size 524288 crc 6e26fbaf sha1 4ab6637d22f0d26f7e1d10e9c80059c56f64303d )
+)
+
+game (
+	name skichamp
+	description "Ski Champ [sound only]"
+	year 1998
+	manufacturer "Sega"
+	board "Model 3"
+	rom ( name epr20356.21 size 524288 crc 4e4015d0 sha1 3c28551ac0e93483b3db5be99f2b3cbafa9a739a )
+	rom ( name mpr20334.22 size 4194304 crc de1d67cd sha1 2e80c627684d107b0e761dd807dbe2755eaddee3 )
+	rom ( name mpr20335.24 size 2097152 crc 6eb66e67 sha1 b55e847e7d9db222d2b1dc5c788c0c9503c9cfe6 )
+)
+
+game (
+	name mmancp2u
+	description "Mega Man: The Power Battle (CPS2) [sound only]"
+	year 1995
+	manufacturer "Capcom"
+	board "Capcom QSound (CPS version)"
+	rom ( name rcm.01 size 131072 crc d60cf8a3 sha1 dccd84b93e62489c703011422d0fe84444c7f7db )
+	rom ( name rcm.51 size 524288 crc b6d07080 sha1 b8f07553c01b1f67b0696110cd4e35e4cf4fa158 )
+	rom ( name rcm.52 size 524288 crc dfddc493 sha1 56b5129f24d05d2c85a767b0a632bf260f5425b2 )
+	rom ( name rcm.53 size 524288 crc 6062ae3a sha1 28a4d59bce0c341c240ee8cc92f85850ea8ffb10 )
+	rom ( name rcm.54 size 524288 crc 08c6f3bf sha1 6b8175748ff25b90572f914e4565935e27aa09a5 )
+	rom ( name rcm.55 size 524288 crc f97dfccc sha1 752a3855d78e55dc31291e14d0223104691784f4 )
+	rom ( name rcm.56 size 524288 crc ade475bc sha1 02ae6bc21d5e41e05595845f264c9ad040d70b37 )
+	rom ( name rcm.57 size 524288 crc 075effb3 sha1 4be02d966d933c0d92908c5e05842c6b33c9703b )
+	rom ( name rcm.58 size 524288 crc f6c1f87b sha1 d6cd8d2bac96404b6983d738093b7177d478f12e )
+)
+
+game (
+	name zintrckb
+	description "Zintrick / Oshidashi (hack / bootleg) (SFX) [sound only]"
+	year 1996
+	manufacturer "SNK"
+	board "Neo Geo"
+	rom ( name zin_m1.rom size 131072 crc fd9627ca sha1 b640c1f1ff466f734bb1cb5d7b589cb7e8a55346 )
+	rom ( name zin_v1.rom size 2097152 crc c09f74f1 sha1 d0b56a780a6eba85ff092240b1f1cc6718f17c21 )
+)
+
+game (
+	name midnrun
+	description "Midnight Run [sound only]"
+	year 1995
+	manufacturer "Konami"
+	board "System GX"
+	rom ( name midnight.19l size 131072 crc a82c0ba1 sha1 dad69f2e5e75009d70cc2748477248ec47627c30 )
+	rom ( name midnight.m5r size 2097152 crc d320dbde sha1 eb602cad6ac7c7151c9f29d39b10041d5a354164 )
+	rom ( name midnight.m3r size 2097152 crc f431e29f sha1 e6082d88f86abb63d02ac34e70873b58f88b0ddc )
+	rom ( name midnight.m5n size 2097152 crc 8db31bd4 sha1 d662d3bb6e8b44a01ffa158f5d7425454aad49a3 )
+)
+
+game (
+	name robokid
+	description "Atomic Robo-Kid [sound only]"
+	year 1988
+	manufacturer "UPL"
+	board "Mutant Night"
+	rom ( name robokid.k7 size 65536 crc f490a2e9 sha1 861d1256c090ce3d1f45f95cc894affbbc3f1466 )
+)
+
+game (
+	name omegaf
+	description "Omega Fighter [sound only]"
+	year 1989
+	manufacturer "UPL"
+	board "Mutant Night"
+	rom ( name 7.7m size 65536 crc d40fc8d5 sha1 4f615a0fb786cafc20f82f0b5fa112a9c356378f )
+)
+
+game (
+	name butasan
+	description "Butasan [sound only]"
+	year 1987
+	manufacturer "NMK (Jaleco Licence)"
+	board "Mutant Night"
+	rom ( name buta-01.bin size 65536 crc c9d23e2d sha1 cee289d5bf7626fc35808a09f9f1f4628fa16974 )
+)
+
+game (
+	name esckids
+	description "Escape Kids [sound only]"
+	year 1991
+	manufacturer "Konami"
+	board "Parodius"
+	rom ( name 975f02 size 65536 crc 994fb229 sha1 bf194ae91240225b8edb647b1a62cd83abfa215e )
+	rom ( name 975c03 size 524288 crc dc4a1707 sha1 f252d08483fd664f8fc03bf8f174efd452b4cdc5 )
+)
+
+game (
+	name mlanding
+	description "Midnight Landing [sound only]"
+	year 1987
+	manufacturer "Taito"
+	board "Rastan"
+	rom ( name ml_b0935.epr size 32768 crc b85915c5 sha1 656e97035ae304f84e90758d0dd6f0616c40f1db )
+)
+
+game (
+	name joust2
+	description "Joust 2: Survival of the Fittest [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name u04_r1.snd size 32768 crc 3af6b47d sha1 aff19d65a4d9c249dec6a9e04a4066fada0f8fa1 )
+	rom ( name u19_r1.snd size 32768 crc e7f9ed2e sha1 6b9ef5189650f0b6b2866da7f532cdf851f02ead )
+	rom ( name u20_r1.snd size 32768 crc c85b29f7 sha1 b37e1890bd0dfa0c7db19fc878450718b60c1ca0 )
+)
+
+game (
+	name strkforc
+	description "Strike Force [sound only]"
+	year 1990
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name sfu4.bin size 65536 crc 8f747312 sha1 729929c209741e72eb83b407cf95d7709ec1b5ae )
+	rom ( name sfu19.bin size 65536 crc afb29926 sha1 ad904c0968a90b8187cc87d6c171fbc021d2f66f )
+	rom ( name sfu20.bin size 65536 crc 1bc9b746 sha1 a5ad40ce7f228f30c21c5a7bdc2893c2a7fe7f58 )
+)
+
+game (
+	name bguns_l8
+	description "Big Guns (L-8) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name gund_u4.l1 size 32768 crc d4a430a3 sha1 5b44e3f313cc7cb75f51c239013d46e5eb986f9d )
+	rom ( name guns_u19.l1 size 32768 crc ec1a6c23 sha1 45bb4f78b89de9e690b5f9741d17f97766e702d6 )
+	rom ( name guns_u21.l1 size 32768 crc 35c6bfe4 sha1 83dbd10311add75f56046de58d315f8a87389703 )
+	rom ( name guns_u22.l1 size 32768 crc 091a5cb8 sha1 db77314241eb6ed7f4385f99312a49b7caad1283 )
+)
+
+game (
+	name swrds_l2
+	description "Swords of Fury (L-2) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name swrd_u4.l1 size 32768 crc 272b509c sha1 756d3783f664ca1c41dd1d12032330b74c3f89ea )
+	rom ( name swrd_u19.l1 size 32768 crc a22f84fa sha1 1731e86e85cca2d283512d5048c787df3970c9c5 )
+	rom ( name swrd_u21.l1 size 32768 crc ee8b0a64 sha1 c2c52059a9a5f7c0abcfdd76cfc6d5b5451f7d1e )
+	rom ( name swrd_u22.l1 size 32768 crc 73dcdbb0 sha1 66f5b3804442a1742b6fb3cccf539c4df956b3f2 )
+)
+
+game (
+	name rdkng_l4
+	description "Road Kings (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name road_u4.l1 size 32768 crc 4395b48f sha1 2325ce6ba7f6f92f884c302e6f053c31229dc774 )
+	rom ( name road_u21.l1 size 32768 crc f34efbf4 sha1 cb5ffe9818994f4681e3492a5cd46f410d2e5353 )
+	rom ( name road_u22.l1 size 32768 crc a9803804 sha1 a400d4621c3f7a6e47546b2f33dc4920183a5a74 )
+)
+
+game (
+	name spstn_l5
+	description "Space Station (L-5) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name sstn_u4.l1 size 32768 crc ad7a0511 sha1 9aa6412de12599fd0d10faef8fffb5d535f49015 )
+	rom ( name sstn_u21.l1 size 32768 crc a2ceccaa sha1 4c23713543e06458e49e3f2d472543c4a4246a93 )
+	rom ( name sstn_u22.l1 size 32768 crc 2b745994 sha1 67ebfe13db6670237496b033611bf9d4ba8d5c30 )
+)
+
+game (
+	name atlantisp
+	description "Atlantis (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name u4_snd.rom size 32768 crc 6a48b588 sha1 c58dbfd920c279d7b9d2de8558d73c687b29ce9c  )
+	rom ( name u19_snd.rom size 32768 crc 1387467c sha1 8b3dd6c2fc94cfebc1879795532c651cda202846 )
+	rom ( name u20_snd.rom size 32768 crc d5a6a773 sha1 30807e03655d2249c801007350bfb228a2e8a0a4  )
+)
+
+game (
+	name btmn_103
+	description "Batman (1.03) (pinball) [sound only]"
+	year 1991
+	manufacturer "Data East"
+	board "Tattoo Assassins"
+	rom ( name batman.u7 size 32768 crc b2e88bf5 sha1 28f814ea73f8eefd1bb5499a599e67a6850c92c0 )
+	rom ( name batman.u17 size 262144 crc b84914dd sha1 333d88033428705cbd0a40d70d938c0021bb0015 )
+	rom ( name batman.u21 size 131072 crc 42dab6ac sha1 facf993db2ce240c9e825ca9a21ac65a0fbba188 )
+)
+
+game (
+	name pb_l5
+	description "Pin*Bot (L-5) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name pbot_u4.l1 size 32768 crc de5926bd sha1 3d111e27c5f0c8c0afc5fe5cc45bf77c12b69228 )
+	rom ( name pbot_u19.l1 size 32768 crc 40eb4e9f sha1 07b0557b35599a2dd5aa66a306fbbe8f50eed998 )
+	rom ( name pbot_u21.l1 size 32768 crc 3eab88d9 sha1 667e3b675e2ae8fec6a6faddb9b0dd5531d64f8f )
+	rom ( name pbot_u22.l1 size 32768 crc a2d2c9cb sha1 46437dc54538f1626caf41a2818ddcf8000c44e4 )
+)
+
+game (
+	name f14_l1
+	description "F-14 Tomcat (L-1) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name f14_u4.l1 size 32768 crc 43ecaabf sha1 64b50dbff03cd556130d0cff47b951fdf37d397d )
+	rom ( name f14_u19.l1 size 32768 crc d0de4a7c sha1 46ecd5786653add47751cc56b38d9db7c4622377 )
+	rom ( name f14_u21.l1 size 32768 crc e412300c sha1 382d0cfa47abea295f0c7501bc0a010473e9d73b )
+	rom ( name f14_u22.l1 size 32768 crc c9dd7496 sha1 de3cb855d87033274cc912578b02d1593d2d69f9 )
+)
+
+game (
+	name hs_l4
+	description "High Speed (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name hs_u4.l1 size 32768 crc 0f96e094 sha1 58650705a02a71ced85f5c2a243722a35282cbf7 )
+	rom ( name hs_u21.l2 size 32768 crc c0580037 sha1 675ca65a6a20f8607232c532b4d127641f77d837 )
+	rom ( name hs_u22.l2 size 32768 crc c03be631 sha1 53823e0f55377a45aa181882c310dd307cf368f5 )
+)
+
+game (
+	name grand_l4
+	description "Grand Lizard (L-4) (pinball) [sound only]"
+	year 1986
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name lzrd_u4.l1 size 32768 crc 4baafc11 sha1 3507f5f37e02688fa56cf5bb303eaccdcedede06 )
+	rom ( name lzrd_u21.l1 size 16384 crc 98859d37 sha1 08429b9e6a3b3007815373dc280b985e3441aa9f )
+	rom ( name lzrd_u22.l1 size 16384 crc 4e782eba sha1 b44ab499128300175bdb57f07ffe2992c82e47e4 )
+)
+
+game (
+	name ft_l5
+	description "Fish Tales (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name ft_u18.l1 size 524288 crc 48d2760a sha1 701b0bbb68f99332493ee1276e5a1cef5c85d499 )
+)
+
+game (
+	name gw_l5
+	description "The Getaway: High Speed II (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name u18snd size 524288 crc 37bbe485 sha1 e6b7ccef250db0c801e3dd8ebf93522b466ca1ec )
+)
+
+game (
+	name taf_l5
+	description "The Addams Family (L-5) (pinball) [sound only]"
+	year 1992
+	manufacturer "Midway"
+	board "Williams Pinball CVSD"
+	rom ( name tafu18l1.rom size 524288 crc 131ae471 sha1 5ed03b521dfef56cbb99814539d4c74da4216f67 )
+)
+
+game (
+	name tafg_lx3
+	description "The Addams Family Special Collectors Edition Gold (LX-3) (pinball) [sound only]"
+	year 1994
+	manufacturer "Midway"
+	board "Williams Pinball CVSD"
+	rom ( name ag_u18_s.l1 size 524288 crc 02e824a9 sha1 ed8aa5161ea6c12cc9e646939290d848408a59a3 )
+	rom ( name ag_u15_s.l1 size 262144 crc b8c88c75 sha1 b2b88e5192eb817ae60ab1f306e932d8bae3fbba )
+)
+
+game (
+	name drac_l1
+	description "Bram Stoker's Dracula (L-1) (pinball) [sound only]"
+	year 1993
+	manufacturer "Williams"
+	board "Williams Pinball CVSD"
+	rom ( name dracsnd.u18 size 524288 crc 372ffb90 sha1 89979670869c565d3ab86abbce462e2f935a566b )
+	rom ( name dracsnd.u15 size 524288 crc 77b5abe2 sha1 e5622ae9ae0c1a0be886a1e5dc25b5a42c00c2ae )
+	rom ( name dracsnd.u14 size 524288 crc 5137aaf5 sha1 e6ee924e7e4718db0f7f315f2a6843e6f90afb41 )
+)
+
+game (
+	name trucksp3
+	description "Truck Stop (P-3) (pinball) [sound only]"
+	year 1988
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name u4sndp1.256 size 32768 crc 120a386f sha1 51b3b45eb7ea63758b21aad404ba12a9607fec44 )
+	rom ( name u19sndp1.256 size 32768 crc 5cd43dda sha1 23dd8a52ea1340fc239a246af0d94da905464efb )
+	rom ( name u20sndp1.256 size 32768 crc 93ac5c33 sha1 f6dc84eca4678188a58ba3c8ef18975164dd29b0 )
+)
+
+game (
+	name milln_l3
+	description "Millionaire (L-3) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name mill_u4.l1 size 32768 crc cf766506 sha1 a6e4df19a513102abbce2653d4f72245f54407b1 )
+	rom ( name mill_u19.l1 size 32768 crc e073245a sha1 cbaddde6bb19292ace574a8329e18c97c2ee9763 )
+	rom ( name mill_u21.l1 size 32768 crc 4cd1ee90 sha1 4e24b96138ced16eff9036303ca6347e3423dbfc )
+	rom ( name mill_u22.l1 size 32768 crc 73735cfc sha1 f74c873a20990263e0d6b35609fc51c08c9f8e31 )
+)
+
+game (
+	name fire_l3
+	description "Fire! (L-3) (pinball) [sound only]"
+	year 1987
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name fire_u4.l1 size 32768 crc 0e058918 sha1 4d6bf2290141119174787f8dd653c47ea4c73693 )
+	rom ( name fire_u21.l1 size 32768 crc 2edde0a4 sha1 de292a340a3a06b0b996fc69fee73eb7bbfbbe64 )
+	rom ( name fire_u22.l1 size 32768 crc 16145c97 sha1 523e99df3907a2c843c6e27df4d16799c4136a46 )
+)
+
+game (
+	name cycln_l5
+	description "Cyclone (L-5) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name cycl_u4.l1 size 32768 crc d04b663b sha1 f54c6df08ec73b733cfeb2a989e44e5c04da3d9e )
+	rom ( name cycl_u19.l1 size 32768 crc a20f6519 sha1 63ded5f76133340fa31d4fe65420f4465866fb85 )
+	rom ( name cycl_u21.l1 size 32768 crc d4f69a7c sha1 da0ce27d92b22583be54a41fc8083cee803c987a )
+	rom ( name cycl_u22.l1 size 32768 crc 28dc8f13 sha1 bccce3a9b6b2f52da919c6df8db07e5e3de12657 )
+)
+
+game (
+	name taxi_l4
+	description "Taxi (Lola) (L-4) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name taxi_u4.l2 size 32768 crc 6082ebb5 sha1 37e19ad27fe05b4c8e572f6598d2d574e4ac5a7d )
+	rom ( name taxi_u19.l2 size 32768 crc 91c64913 sha1 10e48977f925f6bc1be0c56854aafa99283b4047 )
+	rom ( name taxi_u21.l2 size 32768 crc 2b20e9ab sha1 d785667ae0fd237dd8343bb1ecfbacf050ec2c6f )
+	rom ( name taxi_u22.l2 size 32768 crc d13055c5 sha1 8c2959bde03567b83db425ebc9e7309d9601c2b2 )
+)
+
+game (
+	name tsptr_l3
+	description "Transporter the Rescue (L-3) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name tran_u4.l2 size 32768 crc a06ddd61 sha1 630fe7ab94516930c4876a95f822024a44371170 )
+	rom ( name tran_u19.l2 size 32768 crc 3cfde8b0 sha1 7bdc71ba1ba4fd337f052354323c86fd97b2b881 )
+	rom ( name tran_u20.l2 size 32768 crc e9890cf1 sha1 0ae37504c704401101c79ce49df11044f8d8caa9 )
+	rom ( name tran_u21.l2 size 32768 crc b10120ee sha1 305a898a8b762c27dba26921ef169556bf96e518 )
+	rom ( name tran_u22.l2 size 32768 crc 337784b5 sha1 30c17afd8f76118940982db946cd3a2a29445d10 )
+)
+
+game (
+	name esha_pr4
+	description "Earthshaker! (Family version) (PR-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name eshk_u4.l1 size 32768 crc 40069f8c sha1 aafdc189259fa9c8dc49e60e978b84775e16c64e )
+	rom ( name eshk_u19.l1 size 32768 crc e5593075 sha1 549b03402e5639b449e35325eb52e78f8810b07a )
+	rom ( name eshk_u21.l1 size 32768 crc feac68e5 sha1 2f12a78398bc3a468e3e0656da91260d45b0663b )
+	rom ( name eshk_u22.l1 size 32768 crc 44f50fe1 sha1 a8e24dbb0f5cf300118e1ebdcd2bb6b274d87936 )
+)
+
+game (
+	name whirl_l3
+	description "Whirlwind (L-3) (pinball) [sound only]"
+	year 1990
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name whir_u4.l1 size 32768 crc 29952d84 sha1 26479a341b0552c5f9d9bf9dd013855e51a7b857 )
+	rom ( name whir_u19.l1 size 32768 crc c63f6fe9 sha1 947bbccb5eeae414770254d42d0a95425e2dca8c )
+	rom ( name whir_u20.l1 size 32768 crc 713007af sha1 3ac88bb905ccf8e227bbf3c102c74e3d2446cc88 )
+	rom ( name whir_u21.l1 size 32768 crc fa3da322 sha1 732107eace9eecdb97eff4abb4420a2febef7425 )
+	rom ( name whir_u22.l1 size 32768 crc fcaf8c4e sha1 8e8cab1923a56bcef4671dce28aef1e39303c04a )
+)
+
+game (
+	name eatpm_l4
+	description "Elvira and the Party Monsters (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name elvi_u4.l1 size 32768 crc b5afa4db sha1 59b72dac5301a4befa01b93da5162478682e6021 )
+	rom ( name elvi_u19.l1 size 32768 crc 806bc350 sha1 d170aef11001096da9f2f7240726662009e26f5f )
+	rom ( name elvi_u20.l1 size 32768 crc 3d92d5fd sha1 834d40a59be57057103d1d8ab48fdaaf7dc5eda2 )
+	rom ( name elvi_u21.l1 size 32768 crc 68d44545 sha1 8c3ea8521a44b1539cd148f142cca14184174ba7 )
+	rom ( name elvi_u22.l1 size 32768 crc e525b4fe sha1 be728ec33a00b93c3346428a9248b588460af945 )
+)
+
+game (
+	name polic_l4
+	description "Police Force (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name pfrc_u4.l2 size 32768 crc 8f431529 sha1 0f479990715a31fd860c000a066cffb70da502c2 )
+	rom ( name pfrc_u19.l1 size 32768 crc abc4caeb sha1 6faef2de9a49a1015b4038ab18849de2f25dbded )
+	rom ( name pfrc_u21.l1 size 32768 crc 7729afd3 sha1 9cd2898a7a4203cf3b2dcd203e25cde5dd582ee7 )
+	rom ( name pfrc_u22.l1 size 32768 crc 40f5e6b2 sha1 4af2e2658720b08d03d24c9d314a6e5074b2c747 )
+)
+
+game (
+	name bcats_l5
+	description "Bad Cats (L-5) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name cats_u4.l1 size 32768 crc 18c62813 sha1 a4fb69cfedd0b92c22b599913df3cdf8b3eef42c )
+	rom ( name cats_u19.l1 size 32768 crc f2fea68b sha1 9a41823e71342b7a162420378f122bba34ce0636 )
+	rom ( name cats_u20.l1 size 32768 crc bf4dc35a sha1 9920ce90d93fb6ecf98792c35bb6eb8862a969f3 )
+	rom ( name cats_u21.l1 size 32768 crc 04110d08 sha1 4b44b26983cb5d14a93c16a19dc2bdbaa665dc69 )
+	rom ( name cats_u22.l1 size 32768 crc 7e152c78 sha1 b4ab770fdd9420a5d35e55bf8fb84c99ac544b8b )
+)
+
+game (
+	name mousn_l4
+	description "Mousin' Around! (LA-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name mous_u4.l2 size 32768 crc 643add1e sha1 45dea0f4c6f24d17e6f7dda75afaa7caefdc6b96 )
+	rom ( name mous_u19.l2 size 32768 crc 7b4941f7 sha1 2b2fc8e7634b1885b020b2115126d6341172cc91 )
+	rom ( name mous_u20.l2 size 32768 crc 59b1b0c5 sha1 443426be41c1413f22b137145dbc3bcf84d9ccc7 )
+	rom ( name mous_u22.l1 size 32768 crc 00ad198c sha1 4f15696909e1f3574ad20b28e31da2c155ed129f )
+)
+
+game (
+	name gs_l4
+	description "The Bally Game Show (L-4) (pinball) [sound only]"
+	year 1990
+	manufacturer "Midway"
+	board "Williams Y-Unit CVSD"
+	rom ( name gshw_u4.l2 size 65536 crc e89e0116 sha1 e96bee143d1662d078f21531f405d838fdace693 )
+	rom ( name gshw_u19.l1 size 65536 crc 8bae0813 sha1 a2b1beca13796892d8ee1533e395cabdbbb11f88 )
+	rom ( name gshw_u20.l1 size 65536 crc 75ccbdf7 sha1 7dce8ae427a621919caad8d8b08b06bb0adad850 )
+)
+
+game (
+	name bnzai_l3
+	description "Banzai Run (L-3) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name banz_u4.l1 size 32768 crc 8fd69c69 sha1 c024cda85c6616943c3a12ab5943a7be8709bfe3 )
+	rom ( name banz_u19.l1 size 32768 crc 9104248c sha1 48a8c41f3a4127f4fb4de37e876c8380e3511e1f )
+	rom ( name banz_u20.l1 size 32768 crc 26b3d15c sha1 528084b6c62394f8ed9fc0f90b91d844060fc904 )
+	rom ( name banz_u21.l1 size 32768 crc cd06716e sha1 b61a0dc017dd4a09296a43a855461c5cee07517b )
+	rom ( name banz_u22.l1 size 32768 crc e8159033 sha1 e8f15801feefeb30768e88d685c208108aa134e8 )
+)
+
+game (
+	name choko
+	description "Choko [sound only]"
+	year 2001
+	manufacturer "Mitchell"
+	board "Capcom QSound (CPS version)"
+	rom ( name tko.01 size 131072 crc 6eda50c2 sha1 7e67c104094a3ced8b3fdd81f52ee42483b30fc5 )
+	rom ( name tkoj5_a.simm5 size 2097152 crc ab45d509 sha1 c58cf87d3828dfe0643cf4c58615f3352bd45508 )
+	rom ( name tkoj5_b.simm5 size 2097152 crc fa905c3d sha1 3eae65b01d50ec4ec4aeff49f434b9b88a50463c )
+)
+
+game (
+	name jyangoku
+	description "Jyangokushi: Haoh no Saihai [sound only]"
+	year 1999
+	manufacturer "Capcom"
+	board "Capcom QSound (CPS version)"
+	rom ( name maj_01.1a size 131072 crc 1fe8c213 sha1 e0045566337851d8261ed65d5bea483f09ae96b4 )
+	rom ( name maj5_a.simm5 size 2097152 crc 5ad9ee53 sha1 acfb7ec137209409c1a439ebc62d8fa3f87e7012 )
+	rom ( name maj5_b.simm5 size 2097152 crc efb3dbfb sha1 3b32b9890f79805b6a2e1ec63f2cadaca14cf11a )
+)
+
+game (
+	name warriorb
+	description "Warrior Blade - Rastan Saga Episode III [sound only]"
+	year 1991
+	manufacturer "Taito"
+	board "Taito AIR/B/Dual68k/H/F2 Systems"
+	rom ( name d24_17.69 size 131072 crc e41e4aae sha1 9bf40b6e8aa5c6ec62c5d21edbb2214f6550c94f )
+	rom ( name d24-12.107 size 1048576 crc 279203a1 sha1 ed75e811a1f0863c134034457ce2e97372726bdb )
+	rom ( name d24-10.95 size 1048576 crc 0e0c716d sha1 5e2f334dd484678766c5a71196d9bad0ba0fe8d9 )
+	rom ( name d24-11.118 size 1048576 crc 15362573 sha1 8602c9f24134cac6fe1375fb189b152f0c68aeb7 )
+)
+
+game (
+	name champwr
+	description "Champion Wrestler [sound only]"
+	year 1989
+	manufacturer "Taito"
+	board "Master of Weapons"
+	rom ( name c01-08.rom size 65536 crc 810efff8 sha1 dd4fc046095e0e815e8e1fd96d258da0d6bba298 )
+	rom ( name c01-05.rom size 131072 crc 22efad4a sha1 54fb33dfba5059dee16fa8b5a33b0b2d62a78373 )
+)
+
+game (
+	name wgp
+	description "World Grand Prix [sound only]"
+	year 1989
+	manufacturer "Taito"
+	board "Taito AIR/B/Dual68k/H/F2 Systems"
+	rom ( name c32-24.34 size 65536 crc e9adb447 sha1 8b7044b6ea864e4cfd60b87abd28c38caecb147d )
+	rom ( name c32-12.7 size 524288 crc df48a37b sha1 c0c191f4b8a5f55c0f1e52dac9cd3f7d15adace6 )
+	rom ( name c32-11.8 size 524288 crc 2b326ff0 sha1 3c442e3c97234e4514a7bed31644212586869bd0 )
+)
+
+game (
+	name wgp2
+	description "World Grand Prix 2 [sound only]"
+	year 1990
+	manufacturer "Taito"
+	cloneof wgp
+	romof wgp
+	board "Taito AIR/B/Dual68k/H/F2 Systems"
+	rom ( name c73-05.34 size 65536 crc 7e00a299 sha1 93696a229f17a15a92a8d9ef3b34d340de5dec44 )
+	rom ( name c32-12.7 merge c32-12.7 size 524288 crc df48a37b sha1 c0c191f4b8a5f55c0f1e52dac9cd3f7d15adace6 )
+	rom ( name c32-11.8 merge c32-11.8 size 524288 crc 2b326ff0 sha1 3c442e3c97234e4514a7bed31644212586869bd0 )
+)
+
+game (
+	name avspirit
+	description "Avenging Spirit [sound only]"
+	year 1991
+	manufacturer "Jaleco"
+	board "Jaleco Mega System 1 (68k version)"
+	rom ( name spirit01.rom size 131072 crc d02ec045 sha1 465b61d89ca06e7e0a42c42efb6919c964ad0f93 )
+	rom ( name spirit02.rom size 131072 crc 30213390 sha1 9334978d3568b36215ed29789501f7cbaf6651ea )
+	rom ( name spirit14.rom size 262144 crc 13be9979 sha1 828ae745867e25834e51d08308b4ab5d8e80f2c8 )
+	rom ( name spirit13.rom size 262144 crc 05bc04d9 sha1 b903edf39393cad2b4b6b58b10651304793aaa3e )
+)
+
+game (
+	name bigstrik
+	description "Big Striker [sound only]"
+	year 1992
+	manufacturer "Jaleco"
+	board "Jaleco Mega System 1 (68k version)"
+	rom ( name 91105v10.8 size 65536 crc 7dd69ece sha1 e8dc3cbce8cb3f549384cd114f8fc0e6c72462f3 )
+	rom ( name 91105v10.7 size 65536 crc bc2c1508 sha1 110dece929f9b452eb287c736d394d1022a09d75 )
+	rom ( name 91105v10.11 size 262144 crc 0ef8fd43 sha1 c226db63d9427ba024e7c41d5518c8895b45feaa )
+	rom ( name 91105v10.10 size 262144 crc d273a92a sha1 9f94bb7a60dfc7158871c9239d72832ca7b8ad09 )
+)
+
+game (
+	name chimerab
+	description "Chimera Beast (prototype) [sound only]"
+	year 1993
+	manufacturer "Jaleco"
+	board "Jaleco Mega System 1 (68k version)"
+	rom ( name prg8.bin size 65536 crc a682b1ca sha1 66f5d5a73f5e8cba87eac09c55eee59117d94f7b )
+	rom ( name prg7.bin size 65536 crc 83b9982d sha1 68e7d344ebfffe19822c4cf9f7b13cb51f23537a )
+	rom ( name voi11.bin size 262144 crc 14b3afe6 sha1 6d8659d0fc6980ffc1661702fc787737448dce9d )
+	rom ( name voi10.bin size 262144 crc 67498914 sha1 8d89fa90f38fd102b15f26f71491ea833ec32cb2 )
+)
+
+game (
+	name tshingen
+	description "Takeda Shingen [sound only]"
+	year 1988
+	manufacturer "Jaleco"
+	board "Jaleco Mega System 1 (68k version)"
+	rom ( name takeda5.bin size 65536 crc fbdc51c0 sha1 bc6036c556275f7eccd7741d23437a98b0aa13bb )
+	rom ( name takeda6.bin size 65536 crc 8fa65b69 sha1 23a2d60435f235366f877ac79ac1506a99cfae9c )
+	rom ( name takeda9.bin size 131072 crc db7f3f4f sha1 2667bab60abe49b3a9ce4ff63948e274578062b7 )
+	rom ( name takeda10.bin size 131072 crc c9959d71 sha1 afbb756b3b4730262055f80995bd4ba5f9031d26 )
+	rom ( name shing_07.rom size 131072 crc c37ecbdc sha1 fcae2bbc4a10ee0fa18c9a850ae451c0600ea98c )
+	rom ( name shing_08.rom size 131072 crc 36d56c8c sha1 391f8c6b3ee605ce846f1862b0d3b14694dbd556 )
 )
 
