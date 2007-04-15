@@ -160,17 +160,6 @@ game (
 ################################################################################
 
 game (
-	name swe1
-	description "Star Wars: Episode 1 (pinball) [sound only]"
-	year 2000
-	manufacturer "Midway"
-	board "Midway DCS ROM-based stereo"
-	rom ( name sweflash.snd size 1048576 crc 5fc1fd2c sha1 0967db9b6e82d386d3a8415bbef40bcab5a06654 )
-	rom ( name u109.rom size 4194304 crc cc08936b sha1 fc428393e8a0cf37b800dd475fd293a1a98c4bcf )
-	rom ( name u110.rom size 4194304 crc 6011ecd9 sha1 8575958c8942a6cbcb2ac18f291fcada6f8cbc09 )
-)
-
-game (
 	name rapidrvr
 	description "Rapid River [sound only]"
 	year 1997
