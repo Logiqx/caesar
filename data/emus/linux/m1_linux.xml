@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="m1_linux" type="linux" dat="M1_v0.7.7u2">
+<emulator id="m1_linux" type="linux" dat="M1_v0.7.7u4">
 	<name>M1 for Linux</name>
-	<version>0.7.7u2</version>
-	<date>04/02/2007</date>
+	<version>0.7.7u4</version>
+	<date>03/03/2007</date>
 
 	<homepage>http://rbelmont.mameworld.info/</homepage>
 	<homepage>http://www.emuhype.com/</homepage>
@@ -33,7 +33,7 @@
 	</features>
 
 	<files>
-		<file name="m1077u2b-lnx.tar.bz2">Emulator</file>
+		<file name="m1077u4b-lnx.tar.bz2">Emulator</file>
 		<file name="xml.zip">XML</file>
 		<file name="m1071-sdk-lnx.tar.bz2">SDK (Source)</file>
 	</files>

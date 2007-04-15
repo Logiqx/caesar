@@ -95,7 +95,7 @@ emus/linux/invemu_linux	invemu.tgz	92717
 emus/linux/laser_linux	laser09-unix-src.tar	133120
 emus/linux/laser_linux	laser09-unix.zip	26102
 emus/linux/m1_linux	m1071-sdk-lnx.tar.bz2	899692
-emus/linux/m1_linux	m1077u2b-lnx.tar.bz2	2970958
+emus/linux/m1_linux	m1077u4b-lnx.tar.bz2	2988570
 emus/linux/m1_linux	xml.zip	183799
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
@@ -189,9 +189,9 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029670_non_unicode.zip	1772286
-emus/multi/finalburnalpha	fba_029670_unicode.zip	1779067
-emus/multi/finalburnalpha	fba_src_029670.zip	2054502
+emus/multi/finalburnalpha	fba_029671_non_unicode.zip	1782887
+emus/multi/finalburnalpha	fba_029671_unicode.zip	1789148
+emus/multi/finalburnalpha	fba_src_029671.zip	2065939
 emus/multi/finalburnalpha	francais.flt	35177
 emus/multi/finalburnalpha	mingw-cygwin-libs.zip	410007
 emus/multi/galemu	gal0409.zip	263302
@@ -608,7 +608,7 @@ emus/sound/hoot	my_hoot.zip	100976
 emus/sound/m1	FoxM1_121.zip	1328004
 emus/sound/m1	listsFeb012k4.zip	1017406
 emus/sound/m1	m1074bsdk-win32.zip	1484561
-emus/sound/m1	m1077u2b-win32.zip	1167211
+emus/sound/m1	m1077u4b-win32.zip	1246699
 emus/sound/m1	xml.zip	183799
 emus/sound/mmsnd	mmsnd3610.zip	1764730
 emus/sound/nebula_jukebox	jukebox29.zip	279543

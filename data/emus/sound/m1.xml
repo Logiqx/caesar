@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="m1" type="sound" dat="dummy">
 	<name>M1</name>
-	<version>0.7.7u2</version>
-	<date>04/02/2007</date>
+	<version>0.7.7u4</version>
+	<date>03/03/2007</date>
 
 	<homepage>http://rbelmont.mameworld.info/</homepage>
 	<homepage>http://www.emuhype.com/</homepage>
@@ -37,7 +37,7 @@
 	</features>
 
 	<files>
-		<file name="m1077u2b-win32.zip">Emulator</file>
+		<file name="m1077u4b-win32.zip">Emulator</file>
 		<file name="xml.zip">XML</file>
 		<file name="m1074bsdk-win32.zip">SDK (Source)</file>
 		<file name="FoxM1_121.zip">Fox GUI v1.2.1</file>
