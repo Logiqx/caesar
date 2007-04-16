@@ -3,9 +3,9 @@
 ECHO Uploading to %CAESAR_LOGIN%@%CAESAR_FTP%...
 ECHO.
 
-pscp all.tar.gz %CAESAR_LOGIN%@%CAESAR_FTP%:www/caesar/upload/all.tar.gz
+pscp all.zip %CAESAR_LOGIN%@%CAESAR_FTP%:www/caesar/upload/all.zip
 
-rm -f all.tar.gz
+rm -f all.zip
 
 ECHO.
 PAUSE

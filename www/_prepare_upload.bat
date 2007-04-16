@@ -1,11 +1,11 @@
 @ECHO OFF
 
 IF NOT EXIST %CAESAR%\www\upload MKDIR %CAESAR%\www\upload
-IF NOT EXIST %CAESAR%\www\upload\all.tar.gz GOTO MAKE_TAR
+IF NOT EXIST %CAESAR%\www\upload\all.zip GOTO MAKE_ZIP
 
-DEL %CAESAR%\www\upload\all.tar.gz /S /Q >nul
+DEL %CAESAR%\www\upload\all.zip /S /Q >nul
 
-:MAKE_TAR
+:MAKE_ZIP
 
 ECHO Copying updates to the www_update directory....
 
@@ -16,11 +16,11 @@ XCOPY * %CAESAR%\www_update /M /S /I /Y
 IF NOT EXIST %CAESAR%\www_update MKDIR %CAESAR%\www_update
 
 ECHO.
-ECHO Creating %CAESAR%\www\upload\all.tar.gz...
+ECHO Creating %CAESAR%\www\upload\all.zip...
 
 cd %CAESAR%\www_update
 ECHO.
-tar cvfz ../www/upload/all.tar.gz --exclude=*.tag *
+zip -r -9 ../www/upload/all.zip *
 
 ECHO.
 ECHO All done!
