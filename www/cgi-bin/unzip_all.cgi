@@ -1,9 +1,6 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
-HOME=/home2/lac/www/caesar
-UPLOAD=$HOME/upload
-
-cd $HOME
+WWW=/home2/lac/www/caesar
 
 echo "Content-type: text/html"
 echo
@@ -12,8 +9,8 @@ echo "<html><body><pre>"
 date
 echo
 
-tar -x -v -b20 -f${UPLOAD}/all.tar.gz -z
-
+cd $WWW
+unzip -o upload/all.zip
 RESULT=$?
 
 echo
@@ -22,3 +19,4 @@ echo Error code=$RESULT
 echo
 date
 echo "</pre></body></head>"
+
