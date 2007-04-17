@@ -518,7 +518,7 @@
 
 				$games = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
-				if (mysql_num_rows ($games) > 1000)
+				if (mysql_num_rows ($games) >= 350)
 				{
 					echo INDENT . '<p>' . LF;
 					echo INDENT . INDENT . '<a href="emulator_games.php?id=' . $_GET ['id'] . '&amp;letter=0-9">0-9</a>';
