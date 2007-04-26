@@ -21,7 +21,7 @@
 
 			echo '<!-- CAESAR pages are basically a table with one row and three columns -->' . LF . LF;
 
-			//$non_xhtml_compliant="no";
+			$non_xhtml_compliant="yes";
 
 			include('resources/top.php');
 
@@ -29,13 +29,30 @@
 
 			echo INDENT . 'Have some news to tell us about? Then <a href="http://www.logiqx.com/forum/viewforum.php?f=15">submit news</a> here!' . LF ;
 
-			$template = "CAESAR";
-			include("cutenews/show_news.php");
-			//include("cutenews/show_archives.php");
+			if (isset($_GET['year']) && isset($_GET['month']))
+			{
+				$news='news/' . 'arc' . $_GET['month'] . '-' . $_GET['year'] . '.txt';
 
-			echo '<p><a title="RSS Feed" href="http://caesar.logiqx.com/cutenews/rss.php">';
-			echo '<img src="http://caesar.logiqx.com/cutenews/skins/images/rss_icon.gif" alt="rss" />';
-			echo '</a></p>';
+				if (file_exists($news))
+					include($news);
+			}
+			else if (isset($_GET['year']))
+			{
+				for ($i=11; $i>=0; $i--)
+				{
+					$news='news/' . 'arc' . $i . '-' . $_GET['year'] . '.txt';
+
+					if (file_exists($news))
+						include($news);
+				}
+			}
+			else
+			{
+				$news='news/news.txt';
+
+				if (file_exists($news))
+					include($news);
+			}
 
 			// Standard page footer (counter)
 
