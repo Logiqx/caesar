@@ -4,14 +4,14 @@ ShowNewsControls``x0
 HeadlineNumber``x0
 EnableHeadlines``x0
 SiteLink``xhttp://caesar.logiqx.com/
-htmlfile_path``x/sites/logiqx.com/caesar/news
+htmlfile_path``x/home/lac/www/caesar/news
 DateFormat``x<Field: Weekday> <Field: Day> <Field: Month_Name>
 Modify_ItemsPerPage``x20
 SiteTitle``xCAESAR
 glossdat``xNewsPro|~|<a href="http://amphibian.gagames.com/newspro/">NewsPro</a>
-userdata``xlogiqx~YGM/dG4X5a4MA~logiqx@logiqx.com~3|rob~PBOZCcs7uHlvw~rob@logiqx.com~1|pi~QXr6DU1uK8KQo~pi@logiqx.com~1|peterd~EW8R4h4cVmEbA~peterd@emuhq.com~1
+userdata``xlogiqx~YGM/dG4X5a4MA~logiqx@logiqx.com~3|rob~PBOZCcs7uHlvw~rob@logiqx.com~1|pi~QXr6DU1uK8KQo~pi@logiqx.com~1|peterd~EW8R4h4cVmEbA~peterd@emuhq.com~1|neoforma~z0RMwLlcIuYMQ~~1
 arclinkfile``xarclinks.txt
-admin_path``x/sites/logiqx.com/caesar/cgi/newspro
+admin_path``x/home/lac/www/caesar/cgi-bin/newspro
 showreadme``xno
 NumberLimit``x0
 CreateAnchors``x1
@@ -23,7 +23,7 @@ ArcTime``x2
 CommercialUser``x0
 TimeOffset``x5
 UseCookies``x0
-archive_path``x/sites/logiqx.com/caesar/news
+archive_path``x/home/lac/www/caesar/news
 AutoLinkURL``x1
 Daylight_Time_Zone``xBST
 EnableBROption``x0

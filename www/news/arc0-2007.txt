@@ -1,0 +1,18 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>January 2007</h1>
+<a name="newsitem1169680722,26760,"></a><h2>Wednesday 24 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>How many arcade news can you get?</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:18PM [GMT]</small>  </th></tr>  <tr><td> After the return of one of the FBA Team members, and getting a much needed update, Barry Harris has released another version: <a href="http://www.barryharris.me.uk/" target=_blank>FBA 0.2.96.59</a>. This one is only a bug-fix release, correcting bugs with GUI and sound, and adding yet another SF2CE clone. What's interesting is that he has a preliminary System 16A driver in the works, so I suspect that he has another release planned for quite soon...  </td></tr>  </table></p>
+<a name="newsitem1169233527,29665,"></a><h2>Friday 19 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>We've not finished yet</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 6:05PM [GMT]</small>  </th></tr>  <tr><td> Apparently the last releases still had bugs, so here you have <a href="http://www.rainemu.com/" target=_blank>RAINE 0.50.1</a>. Besides some improvements regarding smart screen size choices and other bugs cleared out, they've added also the nice Multipac 1.5 rom.<br><br>And you thought the arcade sk3n3 was dead, well, now one of the members of the FBA Team got the emulation bug again, and released <a href="http://www.barryharris.me.uk/" target=_blank>FBA 0.2.96.58</a>, with unicode and non-unicode binaries besides the source. This is a huge update which brings FBA up to modern times; including the CPS2 decryption algorithm, a big lot of new games and complete clone sets, matching roms with MAME, fixed long-standing bugs... The list is quite big. While Mr. Harris doesn't promise more releases, at least FBA has been updated and can remain up-to-date for a while more.  </td></tr>  </table></p>
+<a name="newsitem1168982959,79537,"></a><h2>Tuesday 16 January</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>It's raining emus</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 8:29PM [GMT]</small>  </th></tr>  <tr><td> After a couple of prereleases, Tux has released <a href="http://www.rainemu.com/" target=_blank>RAINE 0.50.0-2 Final</a>. Bugs have ironed out, GUI has been polished, and what we have now is a fine-tuned and quick emulator which predates the previous versions. While there's still work ahead, the amount of changes and improvements is quite impressive, and for us retro-retrogamers and owners of ghetto-PC's, a great choice. I still use RAINE for quite a lot of games which run a bit heavy on MAME, so if you haven't tried RAINE yet, do so.  </td></tr>  </table></p>
+
+
+</body></html>

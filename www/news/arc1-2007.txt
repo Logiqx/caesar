@@ -1,0 +1,18 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>February 2007</h1>
+<a name="newsitem1171881808,51931,"></a><h2>Monday 19 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>The grateful release</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:43AM [GMT]</small>  </th></tr>  <tr><td> ElSemi has released <a href="http://nebula.emulatronia.com/" target=_blank>Nebula 2.25b</a>, which is a quick update while he finishes 2.26, as he mentions. It includes several additions to the PGM driver, including KOV Super Heroes, plus updates to NeoGeo, CPS1 and general stuff.  </td></tr>  </table></p>
+<a name="newsitem1170706767,61752,"></a><h2>Monday 5 February</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Whoooops</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:19PM [GMT]</small>  </th></tr>  <tr><td> I see that R. Belmont released <a href="http://rbelmont.mameworld.info/?p=182" target=_blank>M1 0.7.7u2</a> yesterday. As I said, I'm in a hurry so I can't check the changelog right now. But I'm sure it's great, this is the best arcade sound player. Enjoy!  </td></tr>  </table></p>
+<a name="newsitem1170706679,21900,"></a>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Anniversary Edition, twice</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:17PM [GMT]</small>  </th></tr>  <tr><td> First of all, happy birthday, MAME. Ten years of one of the coolest projects ever, isn't it nice? And as the tradition dictates, <a href="http://www.mamedev.org/" target="_blank">MAME 0.112</a> was released, and binaries should be available there and in <a href="http://www.mame.net/" target=_blank>mame.net</a> in a bit. Scouting in the <a href="http://mamedev.org/releases/whatsnew_0112.txt" target=_blank>changelog</a>, we see a big list of contributors. Thanks to them all! There's not much noteworthy (and I'm in a hurry right now), but HSF is included. OMG, it's the end of the sk3n3!  </td></tr>  </table></p>
+
+
+</body></html>

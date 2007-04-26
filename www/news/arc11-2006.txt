@@ -1,0 +1,18 @@
+<html><head><title> NewsPro Archive </title></head><body>
+
+<h1>December 2006</h1>
+<a name="newsitem1167580407,5486,"></a><h2>Sunday 31 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>Another year is gone...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:53PM [GMT]</small>  </th></tr>  <tr><td> So 2006 is almost finished, and maybe some of you, while you read this, are already in 2007. I, on behalf of the CAESAR team, want to wish you a fun and safe entrance in the upcoming year, and a Happy New Year in uppercase, fireworks and THX sound. Remember to drink with moderation(*) and that no means no!<br><br><small>(*) To drink with moderation means that each five or six drinks, rest a few minutes.</small><br>  </td></tr>  </table></p>
+<a name="newsitem1167509518,55769,"></a><h2>Saturday 30 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>So, the emusk3n3 is not dead...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:11PM [GMT]</small>  </th></tr>  <tr><td> Well, Tux released yesterday <a href="http://www.rainemu.com/" target=_blank>RAINE 0.50.0 Pre-Release 1</a>, a kind of preview for the upcoming and heavily revamped RAINE, a personal favorite of mine. While this release is not complete, it has the main changes already implemented: a totally new graphics rendering system, different input methods, and a lot more, all specified in the post in the main page and in the <a href="http://www.rainemu.com/html/archive/NEWS-0.50.0" target=_blank>changelog</a>. Beware that the GUI can't alter yet all the new configuration options, specially in the inputs, so you'll have to tinker with config files by hand. A preview only for the brave!  </td></tr>  </table></p>
+<a name="newsitem1166108656,50275,"></a><h2>Thursday 14 December</h2>
+<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
+  <tr><th><strong>I was looking at another place...</strong><br/> 
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:04PM [GMT]</small>  </th></tr>  <tr><td> It seems that <a href="http://www.mamedev.org/" target="_blank">MAME 0.111</a> has been released, without no one telling me. Source and binaries are available there and in <a href="http://www.mame.net/" target=_blank>mame.net</a>. The <a href="http://mamedev.org/releases/whatsnew_0111.txt" target=_blank>changelog</a> includes the new CPS2 decryption tables for a few games (a step forward the proper emulation of this encryption), and LaserDisc support. This alone makes all the other changes to look smaller than they are... Beware of your hard disk with these new CHDs!  </td></tr>  </table></p>
+
+
+</body></html>
