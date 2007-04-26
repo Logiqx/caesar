@@ -34,7 +34,7 @@
 				{
 					if (file_exists('../news/arc' . $j . '-' . $i . '.txt'))
 					{
-                				echo INDENT . TAB . '<tr class="' . $class . '"><td><a href="../?year=' . $i . '&amp;month=' . $j . '">' . date('F', mktime(0, 0, 0, $j+1, 1)) . ' ' . $i . '</a></td></tr>' . LF;
+                				echo INDENT . TAB . '<tr class="' . $class . '"><td><a href="../news.php?year=' . $i . '&amp;month=' . $j . '">' . date('F', mktime(0, 0, 0, $j+1, 1)) . ' ' . $i . '</a></td></tr>' . LF;
 
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
