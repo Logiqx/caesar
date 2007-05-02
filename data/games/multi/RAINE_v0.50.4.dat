@@ -1,8 +1,8 @@
 clrmamepro (
 	name RAINE
-	description "RAINE v0.50.3"
+	description "RAINE v0.50.4"
 	category "Multi Game Arcade Emulator"
-	version 20070408
+	version 20070502
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -13057,5 +13057,192 @@ game (
 	rom ( name 1k.bin size 2048 crc 7e3f56a2 sha1 a9795d8b7388f404f3b0e2c6ce15d713a4c5bafa )
 	rom ( name 6l.bpr size 32 crc c3ac9467 sha1 f382ad5a34d282056c78a5ec00c30ec43772bae2 )
 	archive ( name "galaxian" )
+)
+
+game (
+	name chasehq
+	description "Chase HQ"
+	year 1988
+	manufacturer "Taito"
+	board "B52"
+	rom ( name b52-28.4 size 524288 crc 963bc82b sha1 e3558aecd1b82ddbf10ab2b71843a3664705f1f1 )
+	rom ( name b52-29.27 size 524288 crc 8366d27c sha1 d7c5f588b39742927228ce73e5d69bda1e903df6 )
+	rom ( name b52-30.4 size 524288 crc 1b8cc647 sha1 8807fe01b6804507564fc179adf995bf86521fda )
+	rom ( name b52-31.6 size 524288 crc f1998e20 sha1 b03d4e373e88933391f3533b885817edfca4cfdf )
+	rom ( name b52-32.8 size 524288 crc 8620780c sha1 2545fd8fb03dcddc3da86d5ea06a6dc915acd1a1 )
+	rom ( name b52-33.10 size 524288 crc e6f4b8c4 sha1 8d15c75a16953aa56fb3dc6fd3b691e227bef622 )
+	rom ( name b52-34.5 size 524288 crc 7d8dce36 sha1 ca082e647d10378144c05a70a8e4fe352d95eeaf )
+	rom ( name b52-35.7 size 524288 crc 78eeec0d sha1 2e82186ca17c579816865ef21c52aef9e133fbf5 )
+	rom ( name b52-36.9 size 524288 crc 61e89e91 sha1 f655b3caa37a8835c2eb11f4d72e985636ac5379 )
+	rom ( name b52-37.11 size 524288 crc f02e47b9 sha1 093864bd18bd58dafa57990e999f394ca3124452 )
+	rom ( name b52-38.34 size 524288 crc 5b5bf7f6 sha1 71dd5b40b83870d351c9ecaccc4fb98c3a6740ae )
+	rom ( name b52-50.66 size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
+	rom ( name b52-51.65 size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
+	rom ( name b52-129.30 size 131072 crc 0eaebc08 sha1 1dde3304b251ddeb52f1378ef3845269c3667169 )
+	rom ( name b52-130.36 size 131072 crc 4e7beb46 sha1 b8890c4a2121aa93cfc3a41ddbb3b840d0804cfa )
+	rom ( name b52-131.37 size 131072 crc aa945d83 sha1 9d8a8186a199cacc0e24cf1ee75d81ab8b056406 )
+	rom ( name b52-132.39 size 65536 crc a2f54789 sha1 941a6470e3a5ae35d079657260a8d7d6a9fca122 )
+	rom ( name b52-133.55 size 65536 crc 12232f95 sha1 2894b95fc1d0a6e5b323bf3e7f1968f02b30a845 )
+	rom ( name b52-136.29 size 131072 crc 2f414df0 sha1 0daad8b1f7512a5af0722983751841b5b18064ac )
+	rom ( name b52-137.51 size 65536 crc 37abb74a sha1 1feb1e49102c13a90e02c150472545cd9f6334da )
+	rom ( name b52-113.73 size 524288 crc 2c6a3a05 sha1 f2f0dfbbbb6930bf53025064ebae9c07a95c6deb )
+	rom ( name b52-114.72 size 524288 crc 3a73d6b1 sha1 419f02a875b30913331db207e344d0eaa275297e )
+	rom ( name b52-115.71 size 524288 crc 4e117e93 sha1 51d893fa21793335878c76f6d5987d99da60be04 )
+	rom ( name b52-116.70 size 524288 crc ad46983c sha1 6fcad67456fbd8c967cd4786815f70b57a24a969 )
+	archive ( name "chase_hq" name "chasehq" )
+)
+
+game (
+	name chasehqj
+	description "Chase HQ (Japan)"
+	year 1988
+	manufacturer "Taito"
+	cloneof chasehq
+	romof chasehq
+	board "B52"
+	rom ( name b52-28.4 merge b52-28.4 size 524288 crc 963bc82b sha1 e3558aecd1b82ddbf10ab2b71843a3664705f1f1 )
+	rom ( name b52-29.27 merge b52-29.27 size 524288 crc 8366d27c sha1 d7c5f588b39742927228ce73e5d69bda1e903df6 )
+	rom ( name b52-30.4 merge b52-30.4 size 524288 crc 1b8cc647 sha1 8807fe01b6804507564fc179adf995bf86521fda )
+	rom ( name b52-31.6 merge b52-31.6 size 524288 crc f1998e20 sha1 b03d4e373e88933391f3533b885817edfca4cfdf )
+	rom ( name b52-32.8 merge b52-32.8 size 524288 crc 8620780c sha1 2545fd8fb03dcddc3da86d5ea06a6dc915acd1a1 )
+	rom ( name b52-33.10 merge b52-33.10 size 524288 crc e6f4b8c4 sha1 8d15c75a16953aa56fb3dc6fd3b691e227bef622 )
+	rom ( name b52-34.5 merge b52-34.5 size 524288 crc 7d8dce36 sha1 ca082e647d10378144c05a70a8e4fe352d95eeaf )
+	rom ( name b52-35.7 merge b52-35.7 size 524288 crc 78eeec0d sha1 2e82186ca17c579816865ef21c52aef9e133fbf5 )
+	rom ( name b52-36.9 merge b52-36.9 size 524288 crc 61e89e91 sha1 f655b3caa37a8835c2eb11f4d72e985636ac5379 )
+	rom ( name b52-37.11 merge b52-37.11 size 524288 crc f02e47b9 sha1 093864bd18bd58dafa57990e999f394ca3124452 )
+	rom ( name b52-38.34 merge b52-38.34 size 524288 crc 5b5bf7f6 sha1 71dd5b40b83870d351c9ecaccc4fb98c3a6740ae )
+	rom ( name b52-50.66 merge b52-50.66 size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
+	rom ( name b52-51.65 merge b52-51.65 size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
+	rom ( name b52-129.30 merge b52-129.30 size 131072 crc 0eaebc08 sha1 1dde3304b251ddeb52f1378ef3845269c3667169 )
+	rom ( name b52-140.36 size 131072 crc c1298a4b sha1 41981b72c9ebbea8f8a4aa32e74b9ed46dd71e32 )
+	rom ( name b52-131.37 merge b52-131.37 size 131072 crc aa945d83 sha1 9d8a8186a199cacc0e24cf1ee75d81ab8b056406 )
+	rom ( name b52-132.39 merge b52-132.39 size 65536 crc a2f54789 sha1 941a6470e3a5ae35d079657260a8d7d6a9fca122 )
+	rom ( name b52-133.55 merge b52-133.55 size 65536 crc 12232f95 sha1 2894b95fc1d0a6e5b323bf3e7f1968f02b30a845 )
+	rom ( name b52-139.29 size 131072 crc 997f732e sha1 0f7bd4b3c53e1f14830b3c288f2175e7c125c2cc )
+	rom ( name b52-134.51 size 65536 crc 91faac7f sha1 05f00e0909444566877d0ef678bae49f107e1628 )
+	rom ( name b52-39.73 size 524288 crc ac9cbbd3 sha1 792f41fef37ff35067fd0173d944f90279176649 )
+	rom ( name b52-40.72 size 524288 crc f0551055 sha1 4498cd058a52d5e87c6d502e844908a5df3abf2a )
+	rom ( name b52-41.71 size 524288 crc 8204880c sha1 4dfd6454b4a4c04db3593e98648afbfe8d1f59ed )
+	rom ( name b52-42.70 size 524288 crc 6e617df1 sha1 e3d1678132130c66506f2e1419db2f6b5b062f74 )
+	rom ( name b52-49.68 size 8192 crc 60dd2ed1 sha1 8673b6b3355975fb91cd1491e0ac7c0f590e3824 )
+	archive ( name "chase_hq_japanese" name "chasehqj" )
+)
+
+game (
+	name contcirc
+	description "Continental Circus"
+	year 1989
+	manufacturer "Taito"
+	board "B33"
+	rom ( name b33-01.3 size 524288 crc f11f2be8 sha1 72ae08dc5bf5f6901fbb52d3b1dabcba90929b38 )
+	rom ( name b33-02.57 size 524288 crc f6fb3ba2 sha1 19b7c4cf33c4737405ebe53e7342578454e6ef95 )
+	rom ( name b33-06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
+	rom ( name b33-05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
+	rom ( name b33-04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
+	rom ( name b33-03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
+	rom ( name b33-07.64 size 524288 crc 151e1f52 sha1 118c673d74f27c4e76b321cc0e84f166d9f0d412 )
+	rom ( name b33-09.18 size 524288 crc 1e6724b5 sha1 48bb96b648605a9ceb88ff3b175a87226583c3d6 )
+	rom ( name b33-10.17 size 524288 crc e9ce03ab sha1 17324e8f0422118bc0912eba5750d80469f40b78 )
+	rom ( name b33-08.19 size 524288 crc caa1c4c8 sha1 15ef4f36e56fab793d2249252c456677ca6a85c9 )
+	rom ( name b33-30.11 size 65536 crc d8746234 sha1 39132eedfe2ff4e3133f8020304da0d04dd757db )
+	rom ( name ic25 size 131072 crc f5c92e42 sha1 42dfa1895e601df76d7022b83f05c4e5c843fd12 )
+	rom ( name ic26 size 131072 crc e7c1d1fa sha1 75e851629a54facb8804ee8a953ab3265633bbf4 )
+	rom ( name ic35 size 131072 crc 16522f2d sha1 1d2823d61518936d342df3ed712da5bdfdf6e55a )
+	rom ( name cc_36.bin size 131072 crc a1732ea5 sha1 b773add433c20633e7acbc99d5cfeb7ccde83371 )
+	rom ( name b14-30 size 65536 crc dccb0c7f sha1 42f0af72f559133b74912a4478e1323062be4b77 )
+	archive ( name "continental_circus" name "contcirc" name "ctcircus" )
+)
+
+game (
+	name contcrcu
+	description "Continental Circus (US Set 1)"
+	year 1987
+	manufacturer "Taito"
+	cloneof contcirc
+	romof contcirc
+	board "B33"
+	rom ( name b33-01.3 merge b33-01.3 size 524288 crc f11f2be8 sha1 72ae08dc5bf5f6901fbb52d3b1dabcba90929b38 )
+	rom ( name b33-02.57 merge b33-02.57 size 524288 crc f6fb3ba2 sha1 19b7c4cf33c4737405ebe53e7342578454e6ef95 )
+	rom ( name b33_06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
+	rom ( name b33_05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
+	rom ( name b33_04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
+	rom ( name b33_03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
+	rom ( name b33-07.64 merge b33-07.64 size 524288 crc 151e1f52 sha1 118c673d74f27c4e76b321cc0e84f166d9f0d412 )
+	rom ( name b33-09.18 merge b33-09.18 size 524288 crc 1e6724b5 sha1 48bb96b648605a9ceb88ff3b175a87226583c3d6 )
+	rom ( name b33-10.17 merge b33-10.17 size 524288 crc e9ce03ab sha1 17324e8f0422118bc0912eba5750d80469f40b78 )
+	rom ( name b33-08.19 merge b33-08.19 size 524288 crc caa1c4c8 sha1 15ef4f36e56fab793d2249252c456677ca6a85c9 )
+	rom ( name b33_30 size 65536 crc d8746234 sha1 39132eedfe2ff4e3133f8020304da0d04dd757db )
+	rom ( name ic25 merge ic25 size 131072 crc f5c92e42 sha1 42dfa1895e601df76d7022b83f05c4e5c843fd12 )
+	rom ( name ic26 merge ic26 size 131072 crc e7c1d1fa sha1 75e851629a54facb8804ee8a953ab3265633bbf4 )
+	rom ( name ic35 merge ic35 size 131072 crc 16522f2d sha1 1d2823d61518936d342df3ed712da5bdfdf6e55a )
+	rom ( name ic36 size 131072 crc d6741e33 sha1 8e86789e1664a34ceed85434fd3186f2571f0c4a )
+	rom ( name b14-30 merge b14-30 size 65536 crc dccb0c7f sha1 42f0af72f559133b74912a4478e1323062be4b77 )
+	rom ( name b14-31 size 8192 crc 5c6b013d sha1 6d02d4560076213b6fb6fe856143bb533090603e )
+	rom ( name b33-06 merge b33-06 size 524288 crc 2cb40599 sha1 48b269610f80a42608f563742e5266dcf11638d1 )
+	rom ( name b33-05 merge b33-05 size 524288 crc bddf9eea sha1 284f4ba3dc107b4e26424963d8206c5ec4882983 )
+	rom ( name b33-04 merge b33-04 size 524288 crc 8df866a2 sha1 6b87d8e683fe7d31070b16620ebfee4edf7711b8 )
+	rom ( name b33-03 merge b33-03 size 524288 crc 4f6c36d9 sha1 18b15a991c3daf22b7f3f144edf3bd2abb3917eb )
+	archive ( name "continental_circus_us" name "continental_circus_usernate" name "contcalt" name "contcrcu" )
+)
+
+game (
+	name nightstr
+	description "Night Striker"
+	year 1989
+	manufacturer "Taito"
+	board "b91"
+	rom ( name b91-01.bin size 524288 crc 3731d94f sha1 2978d3eb1f44595681e84f3aa8dc03d34a191455 )
+	rom ( name b91-02.bin size 524288 crc 457c64b8 sha1 443f13d56d53ca6a7750ec974da675bad3f34a38 )
+	rom ( name b91-03.bin size 524288 crc cd5fed39 sha1 c16c67cc998889288e6e96535fd8e61afc93bc78 )
+	rom ( name b91-04.bin size 524288 crc 8ca1970d sha1 d8504298a38a95f1d8f3a2fba479ec75fe4d5de7 )
+	rom ( name b91-05.bin size 524288 crc 5e72ac90 sha1 c28c2718e873be5a254992ef8db256a394ca03ff )
+	rom ( name b91-06.bin size 524288 crc a34dc839 sha1 e1fcb763dbc562a62e862297458bde66d691606c )
+	rom ( name b91-07.bin size 524288 crc 4d8ec6cf sha1 2b7c10b459dc45313c4c90899a73c42c55b6c5c9 )
+	rom ( name b91-08.bin size 524288 crc 66f35c34 sha1 9040390fa9c626a54076a9461e0e198f059e2cb1 )
+	rom ( name b91-09.bin size 524288 crc 5f247ca2 sha1 3b89e5d035f27f62a14c5c7a976c804f9bb5c04d )
+	rom ( name b91-10.bin size 524288 crc 1d8f05b4 sha1 04caa6a0887b90860c426a973dc3c3270e996818 )
+	rom ( name b91-11.bin size 524288 crc fff8ce31 sha1 fc729de92937a805d79379228d7a30041594c0df )
+	rom ( name b91-12.bin size 524288 crc da77c7af sha1 49662a69b83739e2e0209cabff83995a951383f4 )
+	rom ( name b91-13.bin size 524288 crc 8c7bf0f5 sha1 6e18531991225c24a9722c9fbe1af6ae6e9b866b )
+	rom ( name b91-14.bin size 524288 crc 6bc314d3 sha1 ae3e9c6b853bab4ec81a6bd951b39a4bc883f456 )
+	rom ( name b91-26.bin size 1024 crc 77682a4f sha1 da2b3143f1c8688a22d8ec47bbb73b2f2e578480 )
+	rom ( name b91-27.bin size 1024 crc a3f8490d sha1 349b8c9ba914603f72f800a3fc8e8277d756deb1 )
+	rom ( name b91-28.bin size 1024 crc fa2f840e sha1 dd61ee6833bd43bbf619d36ec46f2bfa00880f40 )
+	rom ( name b91-29.bin size 8192 crc ad685be8 sha1 e7681d76fa216c124c54544393c4f6a08fd7d74d )
+	rom ( name b91-30.bin size 65536 crc 30cc1f79 sha1 3b0e3e6e8bce7a7d04a5b0103e2ce4e18e52a68e )
+	rom ( name b91-31.bin size 65536 crc c189781c sha1 af3904ce51f715970965d110313491dbacf188b8 )
+	rom ( name b91-32.bin size 256 crc fbf81f30 sha1 c868452c334792345dcced075f6df69cff9e31ca )
+	rom ( name b91-33.bin size 256 crc 89719d17 sha1 50181b8172b0fc08b149db18caf10659be9c517f )
+	rom ( name b91-39.bin size 131072 crc 725b23ae sha1 d4b4335863d32b9a81f7461240e960bf345c9835 )
+	rom ( name b91-40.bin size 131072 crc 81fb364d sha1 f02733509039cde2c1de616e0a7969e31de1007a )
+	rom ( name b91-41.bin size 131072 crc 2694bb42 sha1 ee770472655ac0ef55eeff04037457dbf6744e4f )
+	rom ( name b91-43.bin size 131072 crc 3e6f727a sha1 ae837131a4c0c9bc5deba155c2a5b7ae72f1d070 )
+	rom ( name b91-44.bin size 131072 crc 4bc30adf sha1 531d6ee9c8ff0d4ed07c15465ec7cb78cf976115 )
+	rom ( name b91-45.bin size 131072 crc 7ad63421 sha1 4ecfc3c8cd691d878e5d9212ccff0d225bb06bd9 )
+	rom ( name b91-46.bin size 131072 crc e870be95 sha1 9a83df2c88a029bc40f5ce074143778ea555a2ba )
+	archive ( name "night_striker" name "nightstr" )
+)
+
+game (
+	name spacegun
+	description "Space Gun"
+	year 1990
+	manufacturer "Taito"
+	board "C57"
+	rom ( name c57-16.29 size 131072 crc bfb5d1e7 sha1 cbf22e9043aac54e08c5da74d973da27844170ef )
+	rom ( name c57-07.76 size 524288 crc ad653dc1 sha1 2ec440f793b0a686233fbe61c9462f8365c42b65 )
+	rom ( name c57-06.52 size 524288 crc 4ebadd5b sha1 d32a52b4d7dd19b0fa2551f93ce3d5cbcf2bc158 )
+	rom ( name c57-05.36 size 524288 crc 6a70eb2e sha1 307dd876af65204e86e094b4015ffb4a655824f8 )
+	rom ( name c57-03.12 size 1048576 crc fafca86f sha1 dc6ea78f0deafef632d8bd3677ec74e797dc69a2 )
+	rom ( name c57-02.24 size 1048576 crc 21ee4633 sha1 ddb948b165127c8fb1a988b5a0f17f92117f1b66 )
+	rom ( name c57-01.25 size 1048576 crc f901b04e sha1 24bac1c3a0c585966a7cbeeebd9b2dd3acf45a67 )
+	rom ( name c57-15.27 size 131072 crc b36eb8f1 sha1 e6e9fb844fd9acc6ee8a515a964d5df8de088a8c )
+	rom ( name c57-08.75 size 524288 crc 22593550 sha1 e802e947e6947d146e1b57dbff7ac021e19e7b2b )
+	rom ( name c57-17.59 size 131072 crc e197edb8 sha1 2ffd000aac1825ecd564c273f0cc055710ba4050 )
+	rom ( name c57-18.62 size 131072 crc 19d7d52e sha1 4361929a43f911864ece4dcd06995ea6b6156c59 )
+	rom ( name c57-22.73 size 131072 crc 5855fde3 sha1 fcd6d7ed16b61b9023596f0efb7f6971060a2e0b )
+	rom ( name c57-20.74 size 131072 crc 2e58253f sha1 36fb52ce1c6cf9f537cf500ba330b167871969b9 )
+	rom ( name c57-04.11 size 1048576 crc a9787090 sha1 8c05c4c0d14a9f60defb37225da37aadf946c563 )
+	archive ( name "space_gun" name "spacegun" )
 )
 
