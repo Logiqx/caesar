@@ -383,7 +383,7 @@ turfmast,turfmast,m
 hardyard,hardyard,m
 nitd,nitd,m
 nightstr,nightstr,m
-nwarr,nwarr,m
+nwarr,nwarru,m
 ncombat,ncombat,m
 ncommand,ncommand,m
 ninjemak,ninjemak,m
@@ -461,7 +461,7 @@ qtorimon,qtorimon,m
 rtype,rtype,m
 rtype2,rtype2,m
 rtypeleo,rtypeleo,m
-racinfrc,racinfrc,m
+racinfrc,racinfru,m
 radm,radm,m
 raflesia,raflesia,m
 raiden,raiden,m
@@ -1310,4 +1310,3 @@ taxi_l4,taxi_l4,n
 trucksp3,trucksp3,n
 tsptr_l3,tsptr_l3,n
 whirl_l3,whirl_l3,n
-
