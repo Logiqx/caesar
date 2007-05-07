@@ -5,7 +5,7 @@ PC_TMP=_filelist_pc.tmp
 ZTNET_TXT=_filelist_ztnet.txt
 ZTNET_TMP=_filelist_ztnet.tmp
 
-EXCLUSIONS="^. news|^. cgi-bin/newspro|^. team/download|^. team/pi"
+EXCLUSIONS="^. news|^. cgi-bin/newspro|^. cutenews|^. team/download|^. team/pi"
 
 CMP_TMP=_filelist_compare.tmp
 TIDY_SH=_filelist_tidy.sh
