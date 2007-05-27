@@ -1,8 +1,8 @@
 clrmamepro (
 	name "SEGA Model 2 Emulator"
-	description "SEGA Model 2 Emulator v0.4"
+	description "SEGA Model 2 Emulator v0.5"
 	category "Sega Model 2B/2C CRX Emulator"
-	version 20070408
+	version 20070527
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -1094,5 +1094,37 @@ game (
 	rom ( name ep20302.31 merge ep20302.31 size 524288 crc 44ff50d2 sha1 6ffec81042fd5708e8a5df47b63f9809f93bf0f8 )
 	rom ( name mp20303.32 merge mp20303.32 size 2097152 crc c040973f sha1 57a496c5dcc1a3931b6e41bf8d41e45d6dac0c31 )
 	rom ( name mp20304.33 merge mp20304.33 size 2097152 crc 6decfe83 sha1 d73adafceff2f1776c93e53bd5677d67f1c2c08f )
+)
+
+game (
+	name motoraid
+	description "Motoraid [Model 2A CRX]"
+	year 1995
+	manufacturer "Sega"
+	rom ( name epr20007 size 524288 crc f040c108 sha1 a6a0fa8fb9d62d0cc2ac84ea3ad457953952d980 )
+	rom ( name epr20008 size 524288 crc 78976e1a sha1 fd15e8c81b3b2f3bdf3bb8d9414b9b8a6f1f000f )
+	rom ( name mpr-20019 size 4194304 crc 49053727 sha1 0543d19d1d60b1d12b4409c1491782f2232da685 )
+	rom ( name mpr-20020 size 4194304 crc cc5ddb15 sha1 19e15e0e9ec1bb5d1b789876778fbb487cfea1ba )
+	rom ( name mpr-20017 size 4194304 crc 4e206acd sha1 b48b5bd3a2f68c62d16516a037fbd45f49283d23 )
+	rom ( name mpr-20018 size 4194304 crc e7ed0e85 sha1 78a0c72095a664c4b6e529beea46a31ae0a99e5a )
+	rom ( name mpr-20015 size 4194304 crc 23427339 sha1 3e37cfcb4dcc8976805934faf8805cd83acde66e )
+	rom ( name mpr-20016 size 4194304 crc c99a83f4 sha1 b057d61478f7dc7a32ad233473f1a63498b3779e )
+	rom ( name epr20013 size 524288 crc a4478f52 sha1 28f430319b34e715ca57ce4e01be23a786eab4bc )
+	rom ( name epr20014 size 524288 crc 1aa541be sha1 c4cc61a42e89aaae075ad1b6e8df2907c5710d3e )
+	rom ( name epr20011 size 1048576 crc 794c026c sha1 85abd667491fd019ee18ba256fd580356f4e1fe9 )
+	rom ( name epr20012 size 1048576 crc f53db4e3 sha1 4474610eed52248e5e36be438eff5d39f076b134 )
+	rom ( name mpr-20023 size 4194304 crc 016be8d6 sha1 804f69cd342e25cf1bed48e778981d67c4d1c9c7 )
+	rom ( name mpr-20026 size 4194304 crc 20044a30 sha1 46be0cc2b8a4a3f530d081d11c6099d814977270 )
+	rom ( name mpr-20024 size 4194304 crc 62fd2d5b sha1 6a386a666ae57da5e47364da7b97da9c913710ef )
+	rom ( name mpr-20027 size 4194304 crc b2504ea6 sha1 17c23c64b1080ab6a8eb282cabcd7d7612193045 )
+	rom ( name mpr-20025 size 4194304 crc d4ecd0be sha1 9df0d1db32b818dad28f9eeab3bc19c56d27ec6d )
+	rom ( name mpr-20028 size 4194304 crc 3147e0e1 sha1 9aa0e13c8dc5073a603279a538cc7662531dfd19 )
+	rom ( name mpr-20022 size 4194304 crc 9e47b3c2 sha1 c73279e837f56c0417c07ba3c642af28fe9a24fa )
+	rom ( name mpr-20021 size 4194304 crc 3cbf36cb sha1 059cea17f9d6f5960d9fd869c36ffb6fcf230c1a )
+	rom ( name epr20029 size 524288 crc 927d31b9 sha1 e7a18ccf5a0b9ebf18ae1d5518973fa3b4eb4653 )
+	rom ( name mpr20030 size 2097152 crc b70ab686 sha1 006911ce6332091d17808855c60a72fe928df778 )
+	rom ( name mpr20031 size 2097152 crc 84da70e4 sha1 77962afcac82589cc7bc852329335676ae3e23cf )
+	rom ( name mpr20032 size 2097152 crc 15516d35 sha1 bced0d30f9b6ab579a11ac069cbb9d6d91352246 )
+	rom ( name mpr20033 size 2097152 crc 8c8ed187 sha1 a9e8e2d38b23716df2e211748c52b6b666f4c111 )
 )
 

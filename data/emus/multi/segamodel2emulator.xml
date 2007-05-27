@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="segamodel2emulator" type="multi" dat="SEGA_Model_2_Emulator_v0.4">
+<emulator id="segamodel2emulator" type="multi" dat="SEGA_Model_2_Emulator_v0.5">
 	<name>SEGA Model 2 Emulator</name>
-	<version>0.4</version>
-	<date>03/04/2007</date>
+	<version>0.5</version>
+	<date>24/05/2007</date>
 
 	<homepage>http://nebula.emulatronia.com/</homepage>
 	<author_link id="elsemi">&author_elsemi;</author_link>
 
 	<emulates>Sega Model 2</emulates>
-	<comment>A rewrite of the Nebula Model 2 emulator.</comment>
+	<comment>A rewrite of the Nebula Model 2 emulator (includes a special version for dual core machines).</comment>
 	<status>Active</status>
 
 	<tool_links>
@@ -41,7 +41,7 @@
 	</features>
 
 	<files>
-		<file name="m2emulator04.zip">Emulator</file>
+		<file name="m2emulator05.zip">Emulator</file>
 	</files>
 
 	<relatives>

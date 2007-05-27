@@ -302,7 +302,7 @@ emus/multi/sage	sagesrc.zip	92638
 emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-emus/multi/segamodel2emulator	m2emulator04.zip	929478
+emus/multi/segamodel2emulator	m2emulator05.zip	1204572
 emus/multi/shark	shark31f.zip	240853
 emus/multi/sideway	sideway.zip	203827
 emus/multi/siemu	siemu-1.03.tar.gz	215066
