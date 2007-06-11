@@ -1,9 +1,9 @@
 .	.htaccess	4405
 .	_archive_bit_clear.bat	133
 .	_check_for_absolute_links.sh	54
-.	_filelist_compare.sh	1085
+.	_filelist_compare.sh	1097
 .	_filelist_pc.bat	289
-.	_filelist_pc.txt	1041238
+.	_filelist_pc.txt	1037052
 .	_filelist_ztnet.sh	261
 .	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	582
@@ -12,6 +12,9 @@
 .	index.php	1355
 .	news.php	1549
 .	robots.txt	0
+backup/cutenews/20070527	comments.txt	56
+backup/cutenews/20070527	news.txt	1105
+backup/cutenews/20070527/archives	index.htm	117
 cgi-bin	filelist	7212
 cgi-bin	filelist.c	3712
 cgi-bin	unzip_all.cgi	231
@@ -43,7 +46,7 @@ cgi-bin/newspro	viewnews.tmpl	803
 cgi-bin/newspro/CVS	Entries	1027
 cgi-bin/newspro/CVS	Repository	46
 cgi-bin/newspro/CVS	Root	26
-CVS	Entries	829
+CVS	Entries	825
 CVS	Repository	30
 CVS	Root	26
 images	_filelist_pc.bat	334
@@ -24294,7 +24297,7 @@ txt/emus/multi	s11emu.txt	866
 txt/emus/multi	sage.txt	581
 txt/emus/multi	sega_system_24_emulator.txt	930
 txt/emus/multi	sega_system_c2.txt	1131
-txt/emus/multi	segamodel2emulator.txt	769
+txt/emus/multi	segamodel2emulator.txt	823
 txt/emus/multi	shark.txt	867
 txt/emus/multi	sideway.txt	885
 txt/emus/multi	siemu.txt	739
@@ -24509,7 +24512,7 @@ txt/emus/xbox	taito_legends_xbox.txt	1486
 txt/emus/xbox	tecmo_arcade_classics_xbox.txt	761
 txt/files	images.txt	199886
 txt/files	snaps.txt	806665
-txt/files	zips.txt	29981
+txt/files	zips.txt	29983
 txt/games	nonmame.dat	246618
 txt/games/amiga	ArcEm_v0.3.dat	2318
 txt/games/amiga	ArcEm_v0.3.txt	163
@@ -24711,7 +24714,7 @@ txt/games/multi	M72_v0.33b.dat	27207
 txt/games/multi	M72_v0.33b.txt	363
 txt/games/multi	MageX_v0.8a.dat	55234
 txt/games/multi	MageX_v0.8a.txt	1017
-txt/games/multi	MAME_v0.115.dat	29546813
+txt/games/multi	MAME_v0.116.dat	29644822
 txt/games/multi	Mapefer3_v0.8b.dat	3714
 txt/games/multi	Mapefer3_v0.8b.txt	62
 txt/games/multi	MGE_v0.471.dat	4890
@@ -24760,8 +24763,8 @@ txt/games/multi	S11Emu_v0.2.dat	12438
 txt/games/multi	S11Emu_v0.2.txt	263
 txt/games/multi	SAGE_v1.16.dat	32098
 txt/games/multi	SAGE_v1.16.txt	855
-txt/games/multi	SEGA_Model_2_Emulator_v0.4.dat	117852
-txt/games/multi	SEGA_Model_2_Emulator_v0.4.txt	1714
+txt/games/multi	SEGA_Model_2_Emulator_v0.5.dat	121412
+txt/games/multi	SEGA_Model_2_Emulator_v0.5.txt	1763
 txt/games/multi	Sega_System_24_Emulator_20030208.dat	5927
 txt/games/multi	Sega_System_24_Emulator_20030208.txt	304
 txt/games/multi	Sega_System_C2_Emulator_v0.2b.dat	12204
@@ -25178,11 +25181,12 @@ txt/tools/snd_libs	seal.txt	2101
 txt/tools/snd_libs	wavmix.txt	320
 txt/tools/zip_libs	zlib.txt	1696
 upload	_upload.bat	173
+upload	all.zip	4079299
 upload/CVS	Entries	48
 upload/CVS	Repository	37
 upload/CVS	Root	26
 zips	_filelist_pc.bat	329
-zips	_filelist_pc.txt	29981
+zips	_filelist_pc.txt	29983
 zips/emus/amiga/amame	Amame.lha	333436
 zips/emus/amiga/arcem	arcem03.lha	28020
 zips/emus/amiga/asie	ASIE31.lha	124579
@@ -25487,7 +25491,7 @@ zips/emus/multi/sage	sagesrc.zip	92638
 zips/emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 zips/emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 zips/emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-zips/emus/multi/segamodel2emulator	m2emulator04.zip	929478
+zips/emus/multi/segamodel2emulator	m2emulator05a.zip	1205604
 zips/emus/multi/shark	shark31f.zip	240853
 zips/emus/multi/sideway	sideway.zip	203827
 zips/emus/multi/siemu	siemu-1.03.tar.gz	215066
