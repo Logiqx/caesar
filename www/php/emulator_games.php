@@ -77,17 +77,7 @@
 
 				$games = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
-				if (mysql_num_rows ($games) > 1000)
-				{
-					echo INDENT . '<p>' . LF;
-					echo INDENT . INDENT . '<a href="emulator_games.php?id=' . $_GET ['id'] . '&amp;letter=0-9">0-9</a>';
-					for ($c = 'A', $i = 0; $i < 26; $i++, $c++)
-					{
-						echo INDENT . INDENT . '| <a href="emulator_games.php?id=' . $_GET ['id'] . '&amp;letter=' . $c . '">' . $c . '</a>';
-					}
-					echo INDENT . '</p>' . LF;
-				}
-				elseif (mysql_num_rows ($games) != 0)
+				if (mysql_num_rows ($games) != 0)
 				{
 					echo INDENT . '<table class="links">' . LF;
 					echo INDENT . TAB . '<colgroup class="name"/>' . LF;
