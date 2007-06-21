@@ -17,12 +17,16 @@ RewriteEngine On
 
 RewriteCond %{HTTP_REFERER} !^$
 RewriteCond %{HTTP_REFERER} !^http://.*\.logiqx\.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://logiqx/ [NC]
 RewriteCond %{HTTP_REFERER} !^http://caesar/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://.*\.mikeg\.ws/ [NC]
 RewriteRule ^zips/.*$ - [F]
 
 RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http://caesar.logiqx.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://.*\.logiqx.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://logiqx/ [NC]
 RewriteCond %{HTTP_REFERER} !^http://caesar/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://.*\.mikeg\.ws/ [NC]
 RewriteRule ^(snaps|images)/.*$ - [F]
 
 # Redirect http://www.caesar.logiqx.com and http://www.logiqx.com/caesar/
