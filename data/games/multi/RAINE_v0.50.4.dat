@@ -2,7 +2,7 @@ clrmamepro (
 	name RAINE
 	description "RAINE v0.50.4"
 	category "Multi Game Arcade Emulator"
-	version 20070502
+	version 20070611
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -12970,10 +12970,10 @@ game (
 	manufacturer "Bootleg"
 	cloneof dkong
 	romof dkong
-	rom ( name cx_5et_g.bin size 4096 crc 00b7efaf )
-	rom ( name cx_5ct_g.bin size 4096 crc 88af9b69 )
-	rom ( name cx_5bt_g.bin size 4096 crc de74ad91 )
-	rom ( name cx_5at_g.bin size 4096 crc 9fa3e5b7 )
+	rom ( name cx_5et_g.bin size 4096 crc 00b7efaf sha1 97ed5930eb5d0cb98a9008b1d329ba7f3b8b8dbf )
+	rom ( name cx_5ct_g.bin size 4096 crc 88af9b69 sha1 c5621dd8198c333b3fa32fdece60ee5a3d8b2276 )
+	rom ( name cx_5bt_g.bin size 4096 crc de74ad91 sha1 c80227361bdbc565e9f5764e6364b52d40ca778a )
+	rom ( name cx_5at_g.bin size 4096 crc 9fa3e5b7 sha1 5c34170f762a147d5285d17d6689fd64dab99ff2 )
 	rom ( name s_3i_b.bin merge s_3i_b.bin size 2048 crc 45a4ed06 sha1 144d24464c1f9f01894eb12f846952290e6e32ef )
 	rom ( name s_3j_b.bin merge s_3j_b.bin size 2048 crc 4743fe92 sha1 6c82b57637c0212a580591397e6a5a1718f19fd2 )
 	rom ( name v_5h_b.bin merge v_5h_b.bin size 2048 crc 12c8c95d sha1 a57ff5a231c45252a63b354137c920a1379b70a3 )
