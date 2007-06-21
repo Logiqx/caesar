@@ -5,6 +5,7 @@
 	<comment>These are the most popular of all the emulators, either due to the games they support or the speed of emulation being faster than MAME. You should definitely try these out but don't ignore the other emus out there! Be sure to check out all recent emulators and the ones that support games not in MAME (see relevant pages in CAESAR).</comment>
 	<emulator_links>
 		<!-- <emulator_link id="callus95patch" type="multi">&emulator_callus95patch;</emulator_link> -->
+		<emulator_link id="capcom_system_3_emulator" type="multi">&emulator_capcom_system_3_emulator;</emulator_link>
 		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
 		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
 		<!-- <emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link> -->

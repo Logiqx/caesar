@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="capcom_system_3_emulator" type="multi" dat="Capcom_System_3_Emulator_v0.0">
+	<name>Capcom System 3 Emulator</name>
+	<version>0.0</version>
+	<date>20/06/2007</date>
+
+	<homepage>http://nebula.emulatronia.com/</homepage>
+	<author_link id="elsemi">&author_elsemi;</author_link>
+
+	<emulates>Capcom Play System 3</emulates>
+	<comment>The first officially released emulator to support Capcom's Play System 3 games.</comment>
+	<status>Active</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+		<tool_link id="zlib" type="zip_libs">&tool_zlib;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>No</rotate>
+	</features>
+
+	<files>
+		<file name="cps3emulator00.zip">Emulator</file>
+	</files>
+</emulator>
