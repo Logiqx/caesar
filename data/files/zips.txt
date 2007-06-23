@@ -156,6 +156,7 @@ emus/multi/calice	Calice v0.6.6.zip	18571
 emus/multi/callus	cls042.zip	327404
 emus/multi/callus95patch	cls95p24.zip	185385
 emus/multi/capcom_system_3_emulator	cps3emulator00.zip	1190072
+emus/multi/capcom_system_3_emulator	cps3emulator01.zip	1196284
 emus/multi/cinelator95	cinelatr.zip	396584
 emus/multi/cinelator95	config.zip	5743
 emus/multi/cinemu	cine12.zip	59064
