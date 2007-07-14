@@ -1,8 +1,8 @@
 clrmamepro (
 	name RAINE
-	description "RAINE v0.50.4"
+	description "RAINE v0.50.5"
 	category "Multi Game Arcade Emulator"
-	version 20070611
+	version 20070707
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -7642,27 +7642,6 @@ game (
 	rom ( name c98-14.rom size 131072 crc a858e17c sha1 4389f43035a94e776a25350a8989dcfdb3e4675a )
 	rom ( name c98-16.rom size 262144 crc 59df5c77 sha1 e6f222589dd8d046fb92dcf5f68ab0f6cd1b725b )
 	archive ( name "pulirula" )
-)
-
-game (
-	name pulirulj
-	description "Pulirula (Japan)"
-	year 1991
-	manufacturer "Taito"
-	cloneof pulirula
-	romof pulirula
-	board "C98"
-	rom ( name c98-06.rom merge c98-06.rom size 131072 crc 64a71b45 sha1 40734c378f15cd47d4128f9713bf19b0d42c0517 )
-	rom ( name c98-02.rom merge c98-02.rom size 1048576 crc 4a2ad2b3 sha1 3296cf2855203d06170c991d187c65ccc3751952 )
-	rom ( name c98-03.rom merge c98-03.rom size 1048576 crc 589a678f sha1 228b959046bec10b28599d83d9e58fd149273473 )
-	rom ( name c98-04.rom merge c98-04.rom size 1048576 crc 0e1fe3b2 sha1 37bf8e946ee4239de104a07ff87727cb6e2a3932 )
-	rom ( name c98-05.rom merge c98-05.rom size 524288 crc 9ddd9c39 sha1 4005a540c5cef6754284361da79a9e5e15612146 )
-	rom ( name c98-01.rom merge c98-01.rom size 1048576 crc 197f66f5 sha1 cc5d104033f9ab7d614afd47eeb61a22ef5714ea )
-	rom ( name c98-07.rom merge c98-07.rom size 131072 crc 90195bc0 sha1 0f7e48ee8964dec1fbc6f8dab57f3ae67b2494d2 )
-	rom ( name c98-12.rom merge c98-12.rom size 262144 crc 816d6cde sha1 cac583440cca9aa57373f4a6c9a68c5442a5258b )
-	rom ( name c98-14.rom merge c98-14.rom size 131072 crc a858e17c sha1 4389f43035a94e776a25350a8989dcfdb3e4675a )
-	rom ( name c98-13 size 262144 crc b7d13d5b sha1 f2cac6931c5984d68c2d5303b53c54b5781b3aed )
-	archive ( name "pulirula_jp" name "pulirulj" )
 )
 
 game (

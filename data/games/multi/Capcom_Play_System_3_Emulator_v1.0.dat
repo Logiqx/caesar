@@ -1,8 +1,8 @@
 clrmamepro (
-	name "Capcom System 3 Emulator"
-	description "Capcom System 3 Emulator v0.1"
+	name "Capcom Play System 3 Emulator"
+	description "Capcom Play System 3 Emulator v1.0"
 	category "CPS-3 Emulator"
-	version 20070623
+	version 20070709
 	author "neoforma, http://various.ru/"
 )
 
@@ -134,5 +134,93 @@ game (
 	rom ( name 40 size 8388608 crc 72d98890 sha1 f40926c52cb7a71b0ef0027a0ea38bbc7e8b31b0 )
 	rom ( name 41 size 8388608 crc 88ccb33c sha1 1e7af35d186d0b4e45b6c27458ddb9cfddd7c9bc )
 	rom ( name 50 size 4194304 crc 2f5b44bd sha1 7ffdbed5b6899b7e31414a0828e04543d07435e4 )
+)
+
+game (
+	name jojobachd
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (CHD)"
+	year 1999
+	manufacturer "Capcom"
+	cloneof jojoba
+	romof jojoba
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc 4dab19f5 sha1 ba07190e7662937fc267f07285c51e99a45c061e )
+	disk ( name jjm000 sha1 688520bb83ccbf4b31c3bfe26bd0cc8292a8c558 )
+)
+
+game (
+	name jojoaltchd
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Alt) (CHD)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof jojo
+	romof jojo
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc 02778f60 sha1 a167f9ebe030592a0cdb0c6a3c75835c6a43be4c )
+	disk ( name cap-jjk-160 sha1 74fb14d838d98c3e10baa08e6f7b2464d840dcf0 )
+)
+
+game (
+	name jojochd
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (CHD)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof jojo
+	romof jojo
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc 02778f60 sha1 a167f9ebe030592a0cdb0c6a3c75835c6a43be4c )
+	disk ( name jjk000 sha1 d5a11315ac21e573ffe78e63602ec2cb420f361f )
+)
+
+game (
+	name sfiii2chd
+	description "Street Fighter III 2nd Impact: Giant Attack (CHD)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfiii2
+	romof sfiii2
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc faea0a3e sha1 a03cd63bcf52e4d57f7a598c8bc8e243694624ec )
+	disk ( name 3ga000 sha1 76e9fdef020c4b85a10aa8828a63e67c7dca22bd )
+)
+
+game (
+	name sfiii3achd
+	description "Street Fighter III 3rd Strike: Fight for the Future (Alt) (CHD)"
+	year 1999
+	manufacturer "Capcom"
+	cloneof sfiii3
+	romof sfiii3
+	rom ( name sf33usa.bin merge sf33usa.bin size 524288 crc ecc545c1 sha1 e39083820aae914fd8b80c9765129bedb745ceba )
+	disk ( name cap-33s-2 sha1 24e78b8c66fb1573ffd642ee51607f3b53ed40b7 )
+)
+
+game (
+	name sfiii3chd
+	description "Street Fighter III 3rd Strike: Fight for the Future (CHD)"
+	year 1999
+	manufacturer "Capcom"
+	cloneof sfiii3
+	romof sfiii3
+	rom ( name sf33usa.bin merge sf33usa.bin size 524288 crc ecc545c1 sha1 e39083820aae914fd8b80c9765129bedb745ceba )
+	disk ( name 33s000 sha1 47c7ae0f2dc47c7d28bdf66d378a3aaba4c99c75 )
+)
+
+game (
+	name sfiiichd
+	description "Street Fighter III: New Generation (CHD)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof sfiii
+	romof sfiii
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc 74205250 sha1 c3e83ace7121d32da729162662ec6b5285a31211 )
+	disk ( name sf3000 sha1 cc72c9eb2096f4d51f2cf6df18f29fd79d05067c )
+)
+
+game (
+	name warzardchd
+	description "Warzard / Red Earth (CHD)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof warzard
+	romof warzard
+	rom ( name 29f400.u2 merge 29f400.u2 size 524288 crc f8e2f0c6 sha1 93d6a986f44c211fff014e55681eca4d2a2774d6 )
+	disk ( name wzd000 sha1 6d4e6b7fff4ff3f04e349479fa5a1cbe63e673b8 )
 )
 

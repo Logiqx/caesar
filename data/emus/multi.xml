@@ -12,7 +12,7 @@
 		<emulator_link id="calice" type="multi">&emulator_calice;</emulator_link>
 		<emulator_link id="callus" type="multi">&emulator_callus;</emulator_link>
 		<emulator_link id="callus95patch" type="multi">&emulator_callus95patch;</emulator_link>
-		<emulator_link id="capcom_system_3_emulator" type="multi">&emulator_capcom_system_3_emulator;</emulator_link>
+		<emulator_link id="cps3_emulator" type="multi">&emulator_cps3_emulator;</emulator_link>
 		<emulator_link id="cinelator95" type="multi">&emulator_cinelator95;</emulator_link>
 		<emulator_link id="cinemu" type="multi">&emulator_cinemu;</emulator_link>
 		<emulator_link id="classicemu" type="multi">&emulator_classicemu;</emulator_link>

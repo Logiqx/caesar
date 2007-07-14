@@ -14,7 +14,7 @@
 	<emulator_links>
 		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
 		<emulator_link id="cage" type="multi">&emulator_cage;</emulator_link>
-		<emulator_link id="capcom_system_3_emulator" type="multi">&emulator_capcom_system_3_emulator;</emulator_link>
+		<emulator_link id="cps3_emulator" type="multi">&emulator_cps3_emulator;</emulator_link>
 		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
 		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
 		<emulator_link id="dmame" type="multi2">&emulator_dmame;</emulator_link>

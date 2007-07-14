@@ -4,7 +4,7 @@
 	<name>ElSemi</name>
 	<email>nebulaemu@myrealbox.com</email>
 	<emulator_links>
-		<emulator_link id="capcom_system_3_emulator" type="multi">&emulator_capcom_system_3_emulator;</emulator_link>
+		<emulator_link id="cps3_emulator" type="multi">&emulator_cps3_emulator;</emulator_link>
 		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
 		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
