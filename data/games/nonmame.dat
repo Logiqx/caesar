@@ -3036,48 +3036,6 @@ game (
 ################################################################################
 
 game (
-	name astron
-	description "Astron Belt (Hitachi)"
-	year 1983
-	manufacturer "Sega (Japan), Bally / Midway (USA)"
-	rom ( name 5279 size 512 crc 8716aeb5 )
-	rom ( name 5280 size 2048 crc 583af1ff )
-	rom ( name 5281 size 2048 crc 7b5c820c )
-	rom ( name 5284 size 16384 crc eec6db27 )
-	rom ( name 5285 size 16384 crc 820e154e )
-	rom ( name 5286 size 16384 crc 8eb1c28e )
-	rom ( name 5338 size 16384 crc 94ca5f9a )
-	rom ( name 5473c size 16384 crc 0f24baaa )
-	rom ( name 5474a size 16384 crc 5d44603d )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b )
-	rom ( name pr-5276.bin size 32 crc 91267e8a )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab )
-	rom ( name pr-5278.bin size 256 crc e81613da )
-)
-
-; Daphne actually loads all ROMs except abp* from astron but we can't do this in CMPro or RC!
-
-game (
-	name astronp
-	description "Astron Belt (Pioneer)"
-	year 1983
-	manufacturer "Sega (Japan), Bally / Midway (USA)"
-	rom ( name 5279 size 512 crc 8716aeb5 )
-	rom ( name 5280 size 2048 crc 583af1ff )
-	rom ( name 5281 size 2048 crc 7b5c820c )
-	rom ( name 5284 size 16384 crc eec6db27 )
-	rom ( name 5285 size 16384 crc 820e154e )
-	rom ( name 5286 size 16384 crc 8eb1c28e )
-	rom ( name 5338 size 16384 crc 94ca5f9a )
-	rom ( name abp-ic10.bin size 16384 crc a3746393 )
-	rom ( name abp-ic03.bin size 16384 crc fd0dcfc9 )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b )
-	rom ( name pr-5276.bin size 32 crc 91267e8a )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab )
-	rom ( name pr-5278.bin size 256 crc e81613da )
-)
-
-game (
 	name badlnds
 	description "Badlands"
 	year 1984
@@ -3132,51 +3090,6 @@ game (
 	rom ( name an0a merge an0a size 8192 crc e429305d )
 	rom ( name an0b merge an0b size 8192 crc 09e4b780 )
 	rom ( name an0c merge an0c size 8192 crc 0c127207 )
-)
-
-; Daphne actually loads 5611-5612 and 5592-5595 from galaxy but we can't do this in CMPro or RC!
-; 5275-5281 are also loaded from astron but again, we can't do this in CMPro or RC!
-
-game (
-	name sblazer
-	description "Star Blazer"
-	year 1984
-	manufacturer "Sega"
-	rom ( name 5279 size 512 crc 8716aeb5 )
-	rom ( name 5280 size 2048 crc 583af1ff )
-	rom ( name 5281 size 2048 crc 7b5c820c )
-	rom ( name epr-5590.bin size 16384 crc c06e41bb )
-	rom ( name epr-5591.bin size 16384 crc b179d18c )
-	rom ( name gr5592.bin size 16384 crc d13715f8 )
-	rom ( name gr5593.bin size 16384 crc b0a557aa )
-	rom ( name gr5594.bin size 16384 crc 4403ef5a )
-	rom ( name gr5595.bin size 16384 crc ccbaec4f )
-	rom ( name gr5611.bin size 16384 crc b16bdfe4 )
-	rom ( name gr5612.bin size 16384 crc e312d080 )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b )
-	rom ( name pr-5276.bin size 32 crc 91267e8a )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab )
-	rom ( name pr-5278.bin size 256 crc e81613da )
-)
-
-; Daphne actually loads 5275-5278 from astron but we can't do this in CMPro or RC!
-
-game (
-	name cobraab
-	description "Cobra Command (Astron Belt hardware)"
-	year 1984
-	manufacturer "Data East USA"
-	rom ( name ic-1.bin size 16384 crc 079783c7 )
-	rom ( name ic-11.bin size 2048 crc 5a2e8f4e )
-	rom ( name ic-12.bin size 2048 crc 4b89d7ed )
-	rom ( name ic-13.bin size 512 crc 3547a14c )
-	rom ( name ic-2.bin size 8192 crc 40c0b825 )
-	rom ( name ic-7.bin size 8192 crc 9e12b19c )
-	rom ( name ic-8.bin size 8192 crc 201041c0 )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b )
-	rom ( name pr-5276.bin size 32 crc 91267e8a )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab )
-	rom ( name pr-5278.bin size 256 crc e81613da )
 )
 
 game (
@@ -3252,30 +3165,6 @@ game (
 	rom ( name m3_a.bin merge m3_a.bin size 4096 crc a04736d8 )
 )
 
-; Daphne actually loads 5275-5281 from astron but we can't do this in CMPro or RC!
-
-game (
-	name galaxy
-	description "Galaxy Ranger"
-	year 1984
-	manufacturer "Bally / Midway"
-	rom ( name 5279 size 512 crc 8716aeb5 )
-	rom ( name 5280 size 2048 crc 583af1ff )
-	rom ( name 5281 size 2048 crc 7b5c820c )
-	rom ( name gr5592.bin size 16384 crc d13715f8 )
-	rom ( name gr5593.bin size 16384 crc b0a557aa )
-	rom ( name gr5594.bin size 16384 crc 4403ef5a )
-	rom ( name gr5595.bin size 16384 crc ccbaec4f )
-	rom ( name gr5611.bin size 16384 crc b16bdfe4 )
-	rom ( name gr5612.bin size 16384 crc e312d080 )
-	rom ( name gr5633.bin size 16384 crc 398f6b23 )
-	rom ( name gr5634.bin size 16384 crc 2c5be1b7 )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b )
-	rom ( name pr-5276.bin size 32 crc 91267e8a )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab )
-	rom ( name pr-5278.bin size 256 crc e81613da )
-)
-
 game (
 	name sae
 	description "Space Ace (US enhancement 1.0)"
@@ -3297,28 +3186,6 @@ game (
 	rom ( name tq_cop.bin size 1024 crc 6748e6b3 )
 	rom ( name tq_u1.bin size 8192 crc e8e7f566 )
 	rom ( name tq_u33.bin size 32768 crc 82df5d89 )
-)
-
-game (
-	name galaxyp
-	description "Galaxy Ranger (Pioneer)"
-	year 1984
-	manufacturer "Bally / Midway (USA)"
-	rom ( name epr-5613.bin size 16384 crc 6617e702 sha1 9de760d0e5a654a6abaa1a8cd7b038638d61f523 )
-	rom ( name epr-5614.bin size 16384 crc 73ad8932 sha1 ab0ff5e14bb58aa1f874fd135f1a8bd96de3f25e )
-	rom ( name gr5592.bin size 16384 crc d13715f8 sha1 72e2570a1fa437faac0c52e24f801020b6e5a110 )
-	rom ( name gr5593.bin size 16384 crc b0a557aa sha1 5baacbaa25cdc0ee414bafe24d50a256631601aa )
-	rom ( name gr5594.bin size 16384 crc 4403ef5a sha1 f8c879ea22cc48bc06608ff7bad3408378ef5162 )
-	rom ( name gr5611.bin size 16384 crc b16bdfe4 sha1 565725189d0b124f8de148f343e67a177ca056f6 )
-	rom ( name gr5595.bin size 16384 crc ccbaec4f sha1 b6750543a0875e7cdc71ecb06575783b7e0ba457 )
-	rom ( name gr5612.bin size 16384 crc e312d080 sha1 24eea718aa1914b87145da9990cb833b9621576c )
-	rom ( name 5280 size 2048 crc 583af1ff sha1 64259e955a04ee44d716870864f86011a709f2db )
-	rom ( name 5281 size 2048 crc 7b5c820c sha1 ddac82cea4d795011bd48d15bc6e2a0ee864429f )
-	rom ( name 5279 size 512 crc 8716aeb5 sha1 9a8bf599d025d039b12bc616850386f280b4df11 )
-	rom ( name pr-5278.bin size 256 crc e81613da sha1 fc32141f7c0c8c0c1ed623636af3862a4ef0e940 )
-	rom ( name pr-5277.bin size 256 crc bf2c33ab sha1 4a83b3e9b74b900621e8f42edf94cc04b791cdd0 )
-	rom ( name pr-5276.bin size 32 crc 91267e8a sha1 ae5bd8efea5322c4d9986d06680a781392f9a642 )
-	rom ( name pr-5275.bin size 32 crc 0c872a9b sha1 eaabce5d867a4e896bd356abc94429f9a4eec372 )
 )
 
 game (

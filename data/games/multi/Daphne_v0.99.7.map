@@ -1,12 +1,12 @@
 ace,spaceace,m
-astron,astron,n
-astronp,astronp,n
-cobraab,cobraab,n
+astron,astron,m
+astronp,astronp,m
+cobraab,cobraseg,m
 cliff,cliffhgr,m
 dle11,dle11,n
 esh,esh,n
-galaxy,galaxy,n
-blazer,sblazer,n
+galaxy,galaxyr,m
+blazer,sblazerp,m
 lair,dlair,m
 sdq,superdq,m
 sdqshort,superdqs,m
@@ -36,7 +36,7 @@ cputest,cputest,n
 dle21,dle21,n
 firefox,firefox,n
 firefoxa,firefoxa,n
-galaxyp,galaxyp,n
+galaxyp,galaxyrp,m
 gpworld,gpworld,n
 interstellar,interstellar,n
 lair2,lair2,n
