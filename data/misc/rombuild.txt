@@ -602,6 +602,10 @@ Juno_First_v1.23	rtype2	rt2_n2_l.bin	65536	1591294a
 Juno_First_v1.23	rtype2	rt2_n2_u.bin	65536	e898b182
 Juno_First_v1.23	rtype2	rt2_n3_l.bin	65536	696ac2b7
 Juno_First_v1.23	rtype2	rt2_n3_u.bin	65536	bfa202b1
+Juno_First_v1.23	rtype	cpu-01.bin	65536	b28d1a60
+Juno_First_v1.23	rtype	cpu-11.bin	65536	bb182f1a
+Juno_First_v1.23	rtype	cpu-21.bin	65536	5b41f5f3
+Juno_First_v1.23	rtype	cpu-31.bin	65536	2bec510a
 KEM_v1.1	dotron	loc-cpu4	16384	0477e9a2
 Kung_Fu_Master_v0.0000001a	kungfub	kf9	16384	05fcce8b
 Kung_Fu_Master_v0.0000001a	kungfub	kf14	16384	1df11d81
@@ -613,8 +617,6 @@ M72_v0.33b	nspirit	nin-b0.rom	131072	fe629815
 M72_v0.33b	nspirit	nin-b1.rom	131072	667966af
 M72_v0.33b	nspirit	nin-b2.rom	131072	3e922f9b
 M72_v0.33b	nspirit	nin-b3.rom	131072	092d6291
-M72_v0.33b	rtypejp	db_d2.bin	32768	791df4f8
-M72_v0.33b	rtypejp	db_c2.bin	32768	ed793841
 M72_v0.33b	rtype2	rt2_c0.bin	262144	f5bad5f2
 M72_v0.33b	rtype2	rt2_c1.bin	262144	71451778
 M72_v0.33b	rtype2	rt2_c2.bin	262144	c6b0c352
@@ -623,6 +625,12 @@ M72_v0.33b	rtype2	rt2_h1.bin	131072	4b79840c
 M72_v0.33b	rtype2	rt2_l1.bin	131072	6ab3ae42
 M72_v0.33b	rtype2	rt2_l0.bin	131072	a1661cdf
 M72_v0.33b	rtype2	rt2_h0.bin	131072	47639a78
+M72_v0.33b	rtypeus	cpu-01.bin	65536	b28d1a60
+M72_v0.33b	rtypeus	cpu-11.bin	65536	bb182f1a
+M72_v0.33b	rtypeus	cpu-21.bin	65536	5b41f5f3
+M72_v0.33b	rtypeus	cpu-31.bin	65536	2bec510a
+M72_v0.33b	rtypejp	db_d3.bin	65536	b28d1a60
+M72_v0.33b	rtypejp	db_a3.bin	65536	2bec510a
 MageX_v0.8a	galaxian	7f	4096	b10533fd
 MageX_v0.8a	galaxian	7j	4096	9163454d
 MageX_v0.8a	galaxian	7l	4096	952c6135
@@ -1527,8 +1535,6 @@ RAGE_v0.9	nspirit	nin-b0.rom	131072	fe629815
 RAGE_v0.9	nspirit	nin-b1.rom	131072	667966af
 RAGE_v0.9	nspirit	nin-b2.rom	131072	3e922f9b
 RAGE_v0.9	nspirit	nin-b3.rom	131072	092d6291
-RAGE_v0.9	rtypejp	db_d2.bin	32768	791df4f8
-RAGE_v0.9	rtypejp	db_c2.bin	32768	ed793841
 RAGE_v0.9	rtype2	rt2_c0.bin	262144	f5bad5f2
 RAGE_v0.9	rtype2	rt2_c1.bin	262144	71451778
 RAGE_v0.9	rtype2	rt2_c2.bin	262144	c6b0c352
@@ -1537,6 +1543,12 @@ RAGE_v0.9	rtype2	rt2_h1.bin	131072	4b79840c
 RAGE_v0.9	rtype2	rt2_l1.bin	131072	6ab3ae42
 RAGE_v0.9	rtype2	rt2_l0.bin	131072	a1661cdf
 RAGE_v0.9	rtype2	rt2_h0.bin	131072	47639a78
+RAGE_v0.9	rtypeus	cpu-01.bin	65536	b28d1a60
+RAGE_v0.9	rtypeus	cpu-11.bin	65536	bb182f1a
+RAGE_v0.9	rtypeus	cpu-21.bin	65536	5b41f5f3
+RAGE_v0.9	rtypeus	cpu-31.bin	65536	2bec510a
+RAGE_v0.9	rtypejp	db_d3.bin	65536	b28d1a60
+RAGE_v0.9	rtypejp	db_a3.bin	65536	2bec510a
 RCPS	aof3	aof3_c1.rom	4194304	f6c74731
 RCPS	aof3	aof3_c2.rom	4194304	f587f149
 RCPS	aof3	aof3_c3.rom	4194304	7749f5e6
