@@ -68,6 +68,10 @@ ALTER TABLE tmp_game ADD KEY (x_master_ind, x_group_name);
 
 ALTER TABLE tmp_game ADD KEY (x_map_name);
 
+-- Index for populating x_mame_ind
+
+ALTER TABLE tmp_game ADD KEY (crc);
+
 
 -- Rename games named 'The XXX' to 'XXX, The'
 
@@ -170,11 +174,11 @@ WHERE	dat LIKE 'MAME_v%';
 
 -- Takes 10 minutes on my PC!
 
---UPDATE	tmp_game_rom tgr1, tmp_game_rom tgr2
---SET	tgr1.x_mame_ind=1
---WHERE	tgr1.size=tgr2.size AND
---	tgr1.crc=tgr2.crc AND
---	tgr2.x_mame_ind=1;
+UPDATE	tmp_game_rom tgr1, tmp_game_rom tgr2
+SET	tgr1.x_mame_ind=1
+WHERE	tgr1.size=tgr2.size AND
+	tgr1.crc=tgr2.crc AND
+	tgr2.x_mame_ind=1;
 
 -- Populate x_rombuild_ind (takes no time, slightly suprisingly)
 -- Note: Both SQL statements must be commented out for the first database load
