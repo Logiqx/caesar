@@ -19,13 +19,13 @@ ssf2t,ssf2t,m
 ssf2ta,ssf2ta,m
 ssf2tur1,ssf2tur1,m
 xmcotau,xmcotau,m
-xmcotaj,xmcotaj,m
+xmcotaj,xmcotaj1,m
 xmvsfur1,xmvsfur1,m
 avspj,avspj,m
 ddsomjr1,ddsomjr1,m
 sfzjr2,sfzjr2,m
 vampja,vampja,m
-xmcotaj1,xmcotaj1,m
+xmcotaj1,xmcotaj2,m
 ddsomu,ddsomu,m
 ddsomur1,ddsomur1,m
 19xxh,19xxh,m
@@ -65,7 +65,7 @@ cawing,cawing,m
 cawingj,cawingj,m
 dinoj,dinoj,m
 ffightj,ffightj,m
-ffightu,ffightu,m
+ffightu,ffightua,m
 forgottn,forgottn,m
 lostwrld,lostwrld,m
 daimakai,daimakai,m
@@ -130,8 +130,8 @@ smbombr1,smbombr1,m
 batcirj,batcirj,m
 batcir,batcir,m
 ecofghtr,ecofghtr,m
-sfa3,sfa3,m
-sfa3r1,sfa3r1,m
+sfa3,sfa3u,m
+sfa3r1,sfa3ur1,m
 sfz3jr1,sfz3jr1,m
 vampjr1,vampjr1,m
 2020bb,2020bb,m
@@ -376,7 +376,7 @@ sf2m4,sf2m4,m
 sf2m5,sf2m5,m
 sf2m6,sf2m6,m
 sf2m7,sf2m7,m
-dimahoo,dimahoo,m
+dimahoo,dimahoou,m
 gmahou,gmahou,m
 kof2001,kof2001,m
 mmatrix,mmatrix,m

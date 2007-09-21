@@ -3179,16 +3179,6 @@ game (
 )
 
 game (
-	name tq
-	description "Thayer's Quest"
-	year 1984
-	manufacturer "RDI Video Systems"
-	rom ( name tq_cop.bin size 1024 crc 6748e6b3 )
-	rom ( name tq_u1.bin size 8192 crc e8e7f566 )
-	rom ( name tq_u33.bin size 32768 crc 82df5d89 )
-)
-
-game (
 	name badlandh
 	description "Badlands (Hitachi)"
 	year 1984
@@ -3308,26 +3298,6 @@ game (
 	rom ( name gpw_6146.bin size 32 crc d10801a0 sha1 89e9ac0d9c9eee6efd5455a3416c436ceda8f632 )
 	rom ( name gpw_6147.bin size 256 crc b7173df9 sha1 044beda43cb1793033021a08b3ee3441d5ffe6c3 )
 	rom ( name gpw_5501.bin size 256 crc 1bdf71d4 sha1 ac52e948cce6df4abb7543c08e2c6454efd63e79 )
-)
-
-game (
-	name interstellar
-	description "Interstella"
-	year 1983
-	manufacturer "Funai / Gakken (USA)"
-	rom ( name rom2.top size 8192 crc 5d643381 sha1 75ca52c28a52f534eda00c18b0db97e9923ff670 )
-	rom ( name rom3.top size 8192 crc ce5a2b09 sha1 2de6a6e993c3411577ac0c834db8aaf16fb007ed )
-	rom ( name rom4.top size 8192 crc 7c2cb1f1 sha1 ffd92510c03c2d35a59d233883c2b9f57394a51c )
-	rom ( name rom5.top size 8192 crc 354377f6 sha1 bcf95b7ee1b47854e10baf24b0d8af3d56738b99 )
-	rom ( name rom6.top size 8192 crc 0319bf40 sha1 f324626e457c3eb7d6b74bc6afbfcc3aab2b3c72 )
-	rom ( name rom1.top size 8192 crc 4f34fb1d sha1 56ca19344c84c5989d0be797e2759f84760310be )
-	rom ( name rom11.bot size 8192 crc 165cbc57 sha1 39463888f22ec3125f0686066d923a9aae79a8f7 )
-	rom ( name rom7.bot size 8192 crc 1447ce3a sha1 8545cec108df6adab303802b1407c89b2dceba21 )
-	rom ( name rom8.bot size 8192 crc e9c9e490 sha1 79aa35552b984018bc723adece5c40a0833a313c )
-	rom ( name rom9.bot size 8192 crc 9d79acb6 sha1 72af972695face0016afce8a26c629d963e86d48 )
-	rom ( name red6b.bot size 256 crc 5c52f844 sha1 a8a3d91f3247ad13c805d8d8288b07f3cdaf1189 )
-	rom ( name green6c.bot size 256 crc 7d8c845c sha1 04ae2ca0cc6679e21346ce34e9e01aa5bf4e2067 )
-	rom ( name blue6d.bot size 256 crc 5ebb81f9 sha1 285d60f2894c524ca80fc68ad7c2dfd9093a67ea )
 )
 
 game (
@@ -3463,17 +3433,6 @@ game (
 	romof cputest
 	rom ( name prog1.bin size 113 crc aefca341 sha1 851e5447630d9731f461003e97580696e93eae24 )
 	rom ( name prog2.bin size 113 crc 0c6c8ce9 sha1 1b962199ae130c2c6f83de5ae92f88342b987f43 )
-)
-
-game (
-	name tqalt
-	description "Thayer's Quest (Alternate)"
-	year 1983
-	manufacturer "RDI Video Systems (USA)"
-	cloneof tq
-	rom ( name tq_u33.bin size 32768 crc 82df5d89 sha1 58dfd62bf8c5a55d1eba397d2c284e99a4685a3f )
-	rom ( name thayers.u1 size 8192 crc 33817e25 sha1 f9750da863dd57fe2f5b6e8fce9c6695dc5c9adc )
-	rom ( name tq_cop.bin size 1024 crc 6748e6b3 sha1 5d7d1ecb57c1501ef6a2d9691eecc9970586606b )
 )
 
 game (
