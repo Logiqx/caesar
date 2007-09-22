@@ -70,7 +70,7 @@ ALTER TABLE tmp_game ADD KEY (x_map_name);
 
 -- Index for populating x_mame_ind
 
-ALTER TABLE tmp_game ADD KEY (crc);
+ALTER TABLE tmp_game_rom ADD KEY (crc);
 
 
 -- Rename games named 'The XXX' to 'XXX, The'
