@@ -3117,55 +3117,6 @@ game (
 )
 
 game (
-	name esh
-	description "Esh's Aurunmilla"
-	year 1983
-	manufacturer "Funai / Gakken"
-	rom ( name c5_h.bin size 256 crc abde5e4b )
-	rom ( name c6_v.bin size 256 crc 7157ba22 )
-	rom ( name f8_is2.bin size 8192 crc 0e3b6e62 )
-	rom ( name h8_is1.bin size 8192 crc 114c912b )
-	rom ( name j1_rgb.bin size 512 crc 1e9f795f )
-	rom ( name k3_c.bin size 4096 crc a936ef01 )
-	rom ( name l3_b.bin size 4096 crc 9366dde7 )
-	rom ( name m3_a.bin size 4096 crc a04736d8 )
-)
-
-game (
-	name eshalt1
-	description "Esh's Aurunmilla (alternate set 1)"
-	year 1983
-	manufacturer "Funai / Gakken"
-	cloneof esh
-	romof esh
-	rom ( name c5_h.bin merge c5_h.bin size 256 crc abde5e4b )
-	rom ( name c6_v.bin merge c6_v.bin size 256 crc 7157ba22 )
-	rom ( name f8_alt1.bin size 8192 crc 7a562f49 )
-	rom ( name h8_is1.bin merge h8_is1.bin size 8192 crc 114c912b )
-	rom ( name j1_rgb.bin merge j1_rgb.bin size 512 crc 1e9f795f )
-	rom ( name k3_c.bin merge k3_c.bin size 4096 crc a936ef01 )
-	rom ( name l3_b.bin merge l3_b.bin size 4096 crc 9366dde7 )
-	rom ( name m3_a.bin merge m3_a.bin size 4096 crc a04736d8 )
-)
-
-game (
-	name eshalt2
-	description "Esh's Aurunmilla (alternate set 2)"
-	year 1983
-	manufacturer "Funai / Gakken"
-	cloneof esh
-	romof esh
-	rom ( name c5_h.bin merge c5_h.bin size 256 crc abde5e4b )
-	rom ( name c6_v.bin merge c6_v.bin size 256 crc 7157ba22 )
-	rom ( name f8_is2.bin merge f8_is2.bin size 8192 crc 0e3b6e62 )
-	rom ( name h8_alt2.bin size 8192 crc 8d27d363 )
-	rom ( name j1_rgb.bin merge j1_rgb.bin size 512 crc 1e9f795f )
-	rom ( name k3_c.bin merge k3_c.bin size 4096 crc a936ef01 )
-	rom ( name l3_b.bin merge l3_b.bin size 4096 crc 9366dde7 )
-	rom ( name m3_a.bin merge m3_a.bin size 4096 crc a04736d8 )
-)
-
-game (
 	name sae
 	description "Space Ace (US enhancement 1.0)"
 	year 1983
@@ -3277,30 +3228,6 @@ game (
 )
 
 game (
-	name gpworld
-	description "GP World"
-	year 1984
-	manufacturer "Sega (Japan)"
-	rom ( name gpw_6162a.bin size 16384 crc 70e42574 sha1 2fa50c7a67a2efb6b2c313850ace40e42d18b0a8 )
-	rom ( name gpw_6163.bin size 16384 crc 49539e46 sha1 7cfd5b6b356c3fa5439e6fe3ac2e6a097b722a2c )
-	rom ( name gpw_6164.bin size 16384 crc 7f0e6853 sha1 c255ac6e4b61faa8da9b5aa70f12c868b81acfe1 )
-	rom ( name gpw_6148.bin size 4096 crc a4b11cf5 sha1 9697494335089b13071d773812eec373ef5b358c )
-	rom ( name gpw_6149.bin size 16384 crc 7e6c4797 sha1 acf934e1f3f55a0d1cd1630f6a78f9954f1ec53f )
-	rom ( name gpw_6150.bin size 16384 crc 6837e095 sha1 b2ac8341fcf0037d186b0759227597643ca0336d )
-	rom ( name gpw_6151.bin size 16384 crc 26d72b96 sha1 759ef85877edfc37f2a1a242bf1c9b0e8d5e9a88 )
-	rom ( name gpw_6152.bin size 16384 crc 86939fe2 sha1 07527297262297562e052672976fd6f7124f5c7b )
-	rom ( name gpw_6153.bin size 16384 crc f52b7c1b sha1 326c6b46e85ab12b43ae2b6b7a49055fe5c31431 )
-	rom ( name gpw_6154.bin size 16384 crc bbf5d7db sha1 3dc50fa0dfe285cc741d9d6b9bac4a0ff6e3877f )
-	rom ( name gpw_6155.bin size 16384 crc a020bd03 sha1 13cd81dc2df185d9ec989e69261d275b46e44075 )
-	rom ( name gpw_6156.bin size 16384 crc 2c03c64c sha1 fa31e49385e004b6fb81c8d54cc6b64dfe1358d2 )
-	rom ( name gpw_6157.bin size 16384 crc cdd31036 sha1 722d843a1c524b0a689ab73bb7367c4ca33fc983 )
-	rom ( name gpw_6158.bin size 16384 crc d15ac707 sha1 170e0a851c3e845330f776a53ca619d16d025dd7 )
-	rom ( name gpw_6146.bin size 32 crc d10801a0 sha1 89e9ac0d9c9eee6efd5455a3416c436ceda8f632 )
-	rom ( name gpw_6147.bin size 256 crc b7173df9 sha1 044beda43cb1793033021a08b3ee3441d5ffe6c3 )
-	rom ( name gpw_5501.bin size 256 crc 1bdf71d4 sha1 ac52e948cce6df4abb7543c08e2c6454efd63e79 )
-)
-
-game (
 	name dle21
 	description "Dragon's Lair (US enhancement 2.1)"
 	year 1983
@@ -3407,21 +3334,6 @@ game (
 	cloneof lair2
 	romof lair2
 	rom ( name dl2_319es.bin size 65536 crc 4b9a811d sha1 6fe580f541305422f89edbbf475f7c5f17153738 )
-)
-
-game (
-	name lgp
-	description "Laser Grand Prix"
-	year 1983
-	manufacturer "Taito (USA)"
-	rom ( name a02_01.bin size 8192 crc 088ca6e1 sha1 b3f0869b0c333d991363ac46a1c53daa3f6c85e9 )
-	rom ( name a02_02.bin size 8192 crc 8e1be578 sha1 cfad7cb72c7d13b2b614680bccc6f807521f3bf4 )
-	rom ( name a02_03.bin size 8192 crc 4978953a sha1 eec6596430238ffffb0d173852bdd7f11c60e9b2 )
-	rom ( name a02_04.bin size 8192 crc 903d0ae2 sha1 bd04182dd77eb5a4ef28d7127f631689b6695e17 )
-	rom ( name a02_14.bin size 16384 crc 28996b3c sha1 664aa4d2582784bb7c56cfb8883294578fe18dd9 )
-	rom ( name a02_15.bin size 16384 crc 6b7abbb2 sha1 890777d99b646147359d09e42692a272e570113c )
-	rom ( name a02_16.bin size 16384 crc aad4fb3c sha1 2cd4a331a8e0f010d60b594655361776fa24255f )
-	rom ( name a02_17.bin size 16384 crc db8b9723 sha1 1319a3f35dffdcf65fe7496cfabaf5787989d0bc )
 )
 
 game (

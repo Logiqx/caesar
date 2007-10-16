@@ -4,7 +4,7 @@ astronp,astronp,m
 cobraab,cobraseg,m
 cliff,cliffhgr,m
 dle11,dle11,n
-esh,esh,n
+esh,esh,m
 galaxy,galaxyr,m
 blazer,sblazerp,m
 lair,dlair,m
@@ -20,8 +20,8 @@ acereva,spaceaa,m
 acereva2,spaceaa2,m
 bega,bega,n
 begarev1,begarev1,n
-eshalt1,eshalt1,n
-eshalt2,eshalt2,n
+eshalt1,esha,m
+eshalt2,eshb,m
 lairreva,dlaira,m
 lairrevb,dlairb,m
 lairrevc,dlairc,m
@@ -37,7 +37,7 @@ dle21,dle21,n
 firefox,firefox,n
 firefoxa,firefoxa,n
 galaxyp,galaxyrp,m
-gpworld,gpworld,n
+gpworld,gpworld,m
 interstellar,istellar,m
 lair2,lair2,n
 lair2_211,lair2_211,n
@@ -50,7 +50,7 @@ lair2_318,lair2_318,n
 lair2_319e,lair2_319e,n
 lair2_319es,lair2_319es,n
 laireuro,dleuro,m
-lgp,lgp,n
+lgp,lgp,m
 mach3,mach3,m
 multicputest,multicputest,n
 roadblaster,roadblaster,n
