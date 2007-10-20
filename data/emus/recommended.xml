@@ -16,6 +16,7 @@
 		<emulator_link id="m1" type="sound">&emulator_m1;</emulator_link>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
 		<!-- <emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link> -->
+		<emulator_link id="mjolnir" type="multi">&emulator_mjolnir;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
 		<emulator_link id="nebula_jukebox" type="sound">&emulator_nebula_jukebox;</emulator_link>
 		<!-- <emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link> -->

@@ -151,6 +151,7 @@
 		</modified_versions>
 
 		<derivatives>
+			<emulator_link id="mjolnir" type="multi">&emulator_mjolnir;</emulator_link>
 			<emulator_link id="snamew" type="multi">&emulator_snamew;</emulator_link>
 		</derivatives>
 	</relatives>

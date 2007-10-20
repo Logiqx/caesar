@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="mjolnir" type="multi" dat="Mjolnir_v0.3.1">
+	<name>Mjolnir</name>
+	<version>0.3.1</version>
+	<date>13/10/2007</date>
+
+	<homepage>http://www.machna.com/games</homepage>
+	<author_link id="phil_stroffolino">&author_phil_stroffolino;</author_link>
+
+	<emulates>System 21, System 22 and Super System 22 games</emulates>
+	<comment>Mjolnir is a MAME (http://www.mamedev.org) derivative work, based on a branch of MAME0100. Mjolnir supports a subset of games released for Namco's System 21, System 22, and Super System 22 harware. The focus to date has been on Prop Cycle and Starblade, though other titles work to various extents and bug reports are welcome. Mjolnir's primry purpose is to provide a framework for experimenting with rendering abstractions that provide a bridge between traditional arcade video hardware and modern APIs like OpenGL and Direct3d. Mjolnir's secondary purpose is to explore the benefits of targeted patches and recompilation techniques to eliminate performance bottlenecks.</comment>
+	<status>Active</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>Yes</recordinput>
+		<dips>Yes</dips>
+		<cheat>Yes</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+		<network>No</network>
+		<recordsound>No</recordsound>
+		<rotate>Yes</rotate>
+	</features>
+
+	<files>
+		<file name="mjolnir0.3.1.zip">Emulator</file>
+	</files>
+
+	<relatives>
+		<modification_of>
+			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		</modification_of>
+	</relatives>
+</emulator>

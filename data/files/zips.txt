@@ -242,6 +242,7 @@ emus/multi/mapefer3	mapefer3_codigo.zip	66110
 emus/multi/mge	mge0471.zip	170263
 emus/multi/mimic	hwc210.zip	24519
 emus/multi/mimic	mimic211.zip	419148
+emus/multi/mjolnir	mjolnir0.3.1.zip	3514297
 emus/multi/modeler	Modeler093a.zip	350095
 emus/multi/mulator	M-ulator V0.14 [Dos].zip	238664
 emus/multi/multipac	multipc8.zip	175064

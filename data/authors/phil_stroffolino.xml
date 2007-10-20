@@ -4,6 +4,7 @@
 	<name>Phil Stroffolino</name>
 	<email>phil@maya.com</email>
 	<emulator_links>
+		<emulator_link id="mjolnir" type="multi">&emulator_mjolnir;</emulator_link>
 		<emulator_link id="rem_mac" type="mac">&emulator_rem_mac;</emulator_link>
 		<emulator_link id="shaolin" type="mac">&emulator_shaolin;</emulator_link>
 		<emulator_link id="yiear" type="mac">&emulator_yiear;</emulator_link>

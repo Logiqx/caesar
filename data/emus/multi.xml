@@ -47,6 +47,7 @@
 		<emulator_link id="mapefer3" type="multi">&emulator_mapefer3;</emulator_link>
 		<emulator_link id="mge" type="multi">&emulator_mge;</emulator_link>
 		<emulator_link id="mimic" type="multi">&emulator_mimic;</emulator_link>
+		<emulator_link id="mjolnir" type="multi">&emulator_mjolnir;</emulator_link>
 		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
 		<emulator_link id="multipac" type="multi">&emulator_multipac;</emulator_link>
 		<emulator_link id="multiple_invaders" type="multi">&emulator_multiple_invaders;</emulator_link>
