@@ -530,3 +530,17 @@ game (
 	sourcefile galaxian.c
 )
 
+game (
+	name aburner2
+	description "After Burner II"
+	year 1987
+	manufacturer "Sega"
+)
+
+game (
+	name outrun
+	description "Out Run"
+	year 1986
+	manufacturer "Sega"
+)
+
