@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="oldsparkcpp" type="multi" dat="OldSpark_C++_20071006">
+	<name>OldSpark C++</name>
+	<version>Second Public Release (20071006)</version>
+	<date>06/10/2007</date>
+
+	<homepage>http://bcz.emu-france.com/</homepage>
+	<author_link id="bruno_vedder">&author_bruno_vedder;</author_link>
+
+	<emulates>Z80 based classics</emulates>
+	<comment>OldSpark C++ is a complete rewrite of the Java Oldspark emulator.</comment>
+	<status>Active</status>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="OldSpark-C++20070812-win-bin.zip">Emulator</file>
+		<file name="OldSpark-C++20070812-src.zip">Source</file>
+	</files>
+	
+	<relatives>
+		<predecessors>
+			<emulator_link id="oldspark" type="java">&emulator_oldspark;</emulator_link>
+		</predecessors>
+
+		<ports>
+			<emulator_link id="oldsparkcpplinux" type="linux">&emulator_oldsparkcpplinux;</emulator_link>
+		</ports>
+	</relatives>
+</emulator>

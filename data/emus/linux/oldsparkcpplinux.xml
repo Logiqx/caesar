@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="oldspark" type="java" dat="OldSpark_v0.3">
-	<name>OldSpark</name>
-	<version>v0.3</version>
-	<date>21/05/2003</date>
+<emulator id="oldsparkcpplinux" type="linux" dat="dummy">
+	<name>OldSpark C++ Linux</name>
+	<version>Second Public Release (20071006)</version>
+	<date>06/10/2007</date>
 
 	<homepage>http://bcz.emu-france.com/</homepage>
 	<author_link id="bruno_vedder">&author_bruno_vedder;</author_link>
-	<author_link id="laurent_menduni">&author_laurent_menduni;</author_link>
 
 	<emulates>Z80 based classics</emulates>
-	<comment>Arcade classics playable through your Java client!</comment>
-	<status>Dormant</status>
+	<comment>OldSpark C++ is a complete rewrite of the Java Oldspark emulator.</comment>
+	<status>Active</status>
 
-	<platform>Java</platform>
+	<platform>Windows</platform>
 
 	<controllers>
 		<controller>Keyboard</controller>
@@ -22,24 +21,23 @@
 	<features>
 		<sound>Yes</sound>
 		<source>Yes</source>
-		<screendump>No</screendump>
+		<screendump>Yes</screendump>
 		<hiscoresave>No</hiscoresave>
-		<savegame>No</savegame>
+		<savegame>Yes</savegame>
 		<recordinput>No</recordinput>
 		<dips>No</dips>
 		<cheat>No</cheat>
-		<autoframeskip>?</autoframeskip>
-		<throttle>?</throttle>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
 	</features>
 
 	<files>
-		<file name="OldSpark03.zip">Emulator</file>
-		<file name="OldSpark03-src.zip">Source</file>
+		<file name="OldSpark-C++20070812Linux-bin.zip">Emulator</file>
 	</files>
 	
 	<relatives>
-		<successors>
+		<port_of>
 			<emulator_link id="oldsparkcpp" type="multi">&emulator_oldsparkcpp;</emulator_link>
-		</successors>
+		</port_of>
 	</relatives>
 </emulator>

@@ -55,6 +55,7 @@
 		<emulator_link id="nebulam2" type="multi">&emulator_nebulam2;</emulator_link>
 		<emulator_link id="neogem" type="multi">&emulator_neogem;</emulator_link>
 		<emulator_link id="neoragex" type="multi">&emulator_neoragex;</emulator_link>
+		<emulator_link id="oldsparkcpp" type="multi">&emulator_oldsparkcpp;</emulator_link>
 		<emulator_link id="pacsaver" type="multi">&emulator_pacsaver;</emulator_link>
 		<emulator_link id="pasmulator" type="multi">&emulator_pasmulator;</emulator_link>
 		<emulator_link id="pcslomo" type="multi">&emulator_pcslomo;</emulator_link>

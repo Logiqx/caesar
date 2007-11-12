@@ -16,6 +16,7 @@
 		<emulator_link id="laser_linux" type="linux">&emulator_laser_linux;</emulator_link>
 		<emulator_link id="m1_linux" type="linux">&emulator_m1_linux;</emulator_link>
 		<emulator_link id="modeler_linux" type="linux">&emulator_modeler_linux;</emulator_link>
+		<emulator_link id="oldsparkcpplinux" type="multi">&emulator_oldsparkcpplinux;</emulator_link>
 		<emulator_link id="pacifi3d_linux" type="linux">&emulator_pacifi3d_linux;</emulator_link>
 		<emulator_link id="raine_linux" type="linux">&emulator_raine_linux;</emulator_link>
 		<emulator_link id="replayplus_linux" type="linux">&emulator_replayplus_linux;</emulator_link>

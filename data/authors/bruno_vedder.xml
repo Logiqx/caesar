@@ -2,10 +2,13 @@
 <!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
 <author id="bruno_vedder">
 	<name>Bruno Vedder</name>
+	<email>osmose_emulator@yahoo.fr</email>
 	<email>bruno.vedder@emu-france.com</email>
 	<emulator_links>
 		<emulator_link id="bpe" type="linux">&emulator_bpe;</emulator_link>
 		<emulator_link id="mikie" type="single">&emulator_mikie;</emulator_link>
 		<emulator_link id="oldspark" type="java">&emulator_oldspark;</emulator_link>
+		<emulator_link id="oldsparkcpp" type="multi">&emulator_oldsparkcpp;</emulator_link>
+		<emulator_link id="oldsparkcpplinux" type="linux">&emulator_oldsparkcpplinux;</emulator_link>
 	</emulator_links>
 </author>

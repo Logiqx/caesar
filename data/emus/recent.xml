@@ -14,6 +14,7 @@
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
 		<emulator_link id="mjolnir" type="multi">&emulator_mjolnir;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>
+		<emulator_link id="oldsparkcpp" type="multi">&emulator_oldsparkcpp;</emulator_link>
 		<emulator_link id="raine32" type="multi">&emulator_raine32;</emulator_link>
 		<emulator_link id="segamodel2emulator" type="multi">&emulator_segamodel2emulator;</emulator_link>
 		<emulator_link id="zinc" type="multi">&emulator_zinc;</emulator_link>

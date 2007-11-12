@@ -97,6 +97,7 @@ emus/linux/laser_linux	laser09-unix.zip	26102
 emus/linux/m1_linux	m1071-sdk-lnx.tar.bz2	899692
 emus/linux/m1_linux	m1077u4b-lnx.tar.bz2	2988570
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
+emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
 emus/linux/raine_linux	raine_0.50.5_i386.deb	1697210
 emus/linux/raine_linux	raines-0.50.5.tar.bz2	1840657
@@ -189,9 +190,9 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029671_non_unicode.zip	1732652
-emus/multi/finalburnalpha	fba_029671_unicode.zip	1737654
-emus/multi/finalburnalpha	fba_src_029671.zip	1995758
+emus/multi/finalburnalpha	fba_029672_non_unicode.zip	1902811
+emus/multi/finalburnalpha	fba_029672_unicode.zip	1909762
+emus/multi/finalburnalpha	fba_src_029672.zip	2207367
 emus/multi/finalburnalpha	francais.flt	35177
 emus/multi/finalburnalpha	mingw-cygwin-libs.zip	410007
 emus/multi/galemu	gal0409.zip	263302
@@ -242,7 +243,8 @@ emus/multi/mapefer3	mapefer3_codigo.zip	66110
 emus/multi/mge	mge0471.zip	170263
 emus/multi/mimic	hwc210.zip	24519
 emus/multi/mimic	mimic211.zip	419148
-emus/multi/mjolnir	mjolnir0.3.1.zip	3514297
+emus/multi/mjolnir	mjolnir-0.4-MAME0.100.zip	344147
+emus/multi/mjolnir	mjolnir0.4.zip	3511721
 emus/multi/modeler	Modeler093a.zip	350095
 emus/multi/mulator	M-ulator V0.14 [Dos].zip	238664
 emus/multi/multipac	multipc8.zip	175064
@@ -258,6 +260,8 @@ emus/multi/neoragex	neoragex-previews06.zip	1133944
 emus/multi/neoragex	neoragex06b.zip	334178
 emus/multi/neoragex	ptw00409.zip	36755
 emus/multi/neoragex	romfix.zip	475
+emus/multi/oldsparkcpp	OldSpark-C++20070812-src.zip	361128
+emus/multi/oldsparkcpp	OldSpark-C++20070812-win-bin.zip	290830
 emus/multi/pacsaver	pacsaver.zip	1549880
 emus/multi/pasmulator	pm32b022.zip	210870
 emus/multi/pasmulator	pm32s022.zip	191096
