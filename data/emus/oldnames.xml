@@ -29,6 +29,10 @@
 			<emulator_link id="kem" type="multi">&emulator_kem;</emulator_link>
 		</old_name>
 		<old_name>
+			<name>MAME32</name>
+			<emulator_link id="mameui" type="multi">&emulator_mameui;</emulator_link>
+		</old_name>
+		<old_name>
 			<name>Multi-processor Arcade Emulator</name>
 			<emulator_link id="sparcade" type="multi">&emulator_sparcade;</emulator_link>
 		</old_name>

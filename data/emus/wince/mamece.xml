@@ -46,7 +46,7 @@
 	<relatives>
 		<hybrid_of>
 			<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
-			<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+			<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 		</hybrid_of>
 
 		<modified_versions>

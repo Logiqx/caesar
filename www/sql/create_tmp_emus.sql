@@ -12,7 +12,7 @@ CREATE TABLE tmp_emulator
 	aspectx			SMALLINT UNSIGNED NULL,
 	aspecty			SMALLINT UNSIGNED NULL,
 	name			VARCHAR(80) NOT NULL,
-	version			VARCHAR(20) NOT NULL,
+	version			VARCHAR(40) NOT NULL,
 	date			VARCHAR(20) NOT NULL,
 	platform		VARCHAR(30) NOT NULL,
 	emulates		VARCHAR(200) NOT NULL,

@@ -13,7 +13,7 @@
 
 	<emulator_links>
 		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
-		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 	</emulator_links>
 
 	<files>

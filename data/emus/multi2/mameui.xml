@@ -1,16 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="mame32" type="multi2" dat="dummy">
-	<name>MAME32</name>
-	<version>0.82</version>
-	<date>06/05/2004</date>
+<emulator id="mameui" type="multi2" dat="dummy">
+	<name>MameUI</name>
+	<version>0.121</version>
+	<date>18/11/2007</date>
 
+	<homepage>http://mameui.classicgaming.gamespy.com/</homepage>
 	<homepage>http://www.classicgaming.com/mame32qa/</homepage>
 	<homepage>http://www.classicgaming.com/mame32/</homepage>
 	<author_link id="michael_soderstrom">&author_michael_soderstrom;</author_link>
 
 	<emulates>Emulates far more than anything else!</emulates>
-	<comment>The latest beta release of MAME32. There is also a PPro/P2/P3 optimised version available</comment>
+	<comment>The latest beta release of MameUI. 32-bit and 64-bit versions are available.</comment>
 	<status>Active</status>
 
 	<tool_links>

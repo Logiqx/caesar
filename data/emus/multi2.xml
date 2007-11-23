@@ -10,7 +10,7 @@
 		<emulator_link id="galemu_windows" type="multi2">&emulator_galemu_windows;</emulator_link>
 		<emulator_link id="laser32" type="multi2">&emulator_laser32;</emulator_link>
 		<emulator_link id="laser_sdl" type="multi2">&emulator_laser_sdl;</emulator_link>
-		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 		<emulator_link id="raine" type="multi2">&emulator_raine;</emulator_link>
 		<emulator_link id="sega_system_c2_w" type="multi2">&emulator_sega_system_c2_w;</emulator_link>
 		<emulator_link id="sname" type="multi2">&emulator_sname;</emulator_link>

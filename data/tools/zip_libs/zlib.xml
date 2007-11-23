@@ -26,7 +26,7 @@
 		<emulator_link id="hive" type="multi">&emulator_hive;</emulator_link>
 		<emulator_link id="hornet" type="single">&emulator_hornet;</emulator_link>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
-		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 		<emulator_link id="modeler" type="multi">&emulator_modeler;</emulator_link>
 		<emulator_link id="msega" type="fake">&emulator_msega;</emulator_link>
 		<emulator_link id="nebula" type="multi">&emulator_nebula;</emulator_link>

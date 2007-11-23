@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="mame" type="multi" dat="MAME_v0.120">
+<emulator id="mame" type="multi" dat="MAME_v0.121">
 	<name>MAME (Multiple Arcade Machine Emulator)</name>
-	<version>0.120</version>
-	<date>15/10/2007</date>
+	<version>0.121</version>
+	<date>18/11/2007</date>
 
 	<homepage>http://www.mamedev.org/</homepage>
 	<author_link id="nicola_salmoria">&author_nicola_salmoria;</author_link>
@@ -147,7 +147,7 @@
 		</ports>
 
 		<modified_versions>
-			<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+			<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 		</modified_versions>
 
 		<derivatives>

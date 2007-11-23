@@ -30,7 +30,7 @@
 		<emulator_link id="irobot" type="single">&emulator_irobot;</emulator_link>
 		<emulator_link id="junofirst" type="multi">&emulator_junofirst;</emulator_link>
 		<emulator_link id="magex" type="multi">&emulator_magex;</emulator_link>
-		<emulator_link id="mame32" type="multi2">&emulator_mame32;</emulator_link>
+		<emulator_link id="mameui" type="multi2">&emulator_mameui;</emulator_link>
 		<emulator_link id="mamece" type="wince">&emulator_mamece;</emulator_link>
 		<emulator_link id="mamece_10x" type="wince">&emulator_mamece_10x;</emulator_link>
 		<emulator_link id="mamecepod" type="wince">&emulator_mamecepod;</emulator_link>
