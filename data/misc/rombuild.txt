@@ -957,14 +957,7 @@ NeoRAGEx_v0.6b	sengoku	n058001b.53c	524288	ecb41adc
 NeoRAGEx_v0.6b	sengoku	n058001b.63c	524288	78b25278
 NeoRAGEx_v0.6b	sengoku	n058001a.03c	524288	d0d55b2a
 NeoRAGEx_v0.6b	superspy	n138001a.178	524288	b993bc83
-NeoRAGEx_v0.6b	superspy	n138001a.278	524288	426cd040
-NeoRAGEx_v0.6b	superspy	n138001a.27c	524288	426cd040
-NeoRAGEx_v0.6b	superspy	n138001a.478	65536	64455806
-NeoRAGEx_v0.6b	superspy	n138001b.178	524288	9f513d5a
-NeoRAGEx_v0.6b	superspy	n138001b.17c	524288	9f513d5a
 NeoRAGEx_v0.6b	superspy	n138001c.178	524288	b993bc83
-NeoRAGEx_v0.6b	superspy	n138001d.178	524288	9f513d5a
-NeoRAGEx_v0.6b	superspy	n138001d.17c	524288	9f513d5a
 NeoRAGEx_v0.6b	superspy	n138001a.17c	524288	d7a059b1
 NeoRAGEx_v0.6b	superspy	n138001c.17c	524288	d7a059b1
 NeoRAGEx_v0.6b	superspy	n138001a.038	524288	2e949e32
