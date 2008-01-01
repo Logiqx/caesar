@@ -1,0 +1,38 @@
+<h2>31 May 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Sega Model 2 Emulator v0.5a</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Just five days after the last release ElSemi made a quick <a href="http://nebula.emulatronia.com/">bugfix version</a>. This release fixes analog wraparound bug and wrong color tables in Virtua Cop.<br /><br />Aside from that there also two new functions added: An ability to run games from commandline and an option to auto-switch to full screen after the game is launched.</td>
+  </tr>
+</table><h2>24 May 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Sega Model 2 Emulator v0.5</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>All new and shiny <a href="http://nebula.emulatronia.com/">v0.5</a>. ElSemi has fixed some bugs in Daytona USA and added Motor Raid!<br /><br />It's really great to see that Model 2 finally gets attention it deserves.</td>
+  </tr>
+</table><h2>06 May 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.115</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>New version of MAME is still not available from the <a href="http://mame.net">main site</a>, but Logiqx has already updated the datafile.<br /><br />You can grab your all new and shiny copy of MAME v0.115 from <a href="http://mamedev.org">mamedev.org</a>.</td>
+  </tr>
+</table><h2>01 May 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>The last Raine?</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>After more than two months of silence a new <a href="http://www.rainemu.com/">Raine 0.50.4</a> is released.<br /><br />Looks like this one might be the final version. Some (or all?) bugs were cleared out, mouse behavior is fixed and autofire function is back.</td>
+  </tr>
+</table>
+

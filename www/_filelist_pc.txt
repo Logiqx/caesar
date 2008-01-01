@@ -3,7 +3,7 @@
 .	_check_for_absolute_links.sh	54
 .	_filelist_compare.sh	1097
 .	_filelist_pc.bat	289
-.	_filelist_pc.txt	1032875
+.	_filelist_pc.txt	1028684
 .	_filelist_ztnet.sh	261
 .	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	582
@@ -23756,7 +23756,7 @@ sql	rename_tmp_games.sql	6772
 sql	rename_tmp_libs.sql	953
 sql	rename_tmp_misc.sql	1049
 sql	rename_tmp_tools.sql	765
-sql/CVS	Entries	805
+sql/CVS	Entries	801
 sql/CVS	Repository	34
 sql/CVS	Root	26
 team	.htaccess	112
@@ -24738,7 +24738,7 @@ txt/games/multi	M72_v0.33b.dat	27207
 txt/games/multi	M72_v0.33b.txt	363
 txt/games/multi	MageX_v0.8a.dat	55234
 txt/games/multi	MageX_v0.8a.txt	1018
-txt/games/multi	MAME_v0.121.dat	30739317
+txt/games/multi	MAME_v0.122.dat	30863954
 txt/games/multi	Mapefer3_v0.8b.dat	3714
 txt/games/multi	Mapefer3_v0.8b.txt	62
 txt/games/multi	MGE_v0.471.dat	4890
@@ -25175,7 +25175,7 @@ txt/misc	catver.txt	166831
 txt/misc	history.txt	13625046
 txt/misc	mameinfo.txt	13119412
 txt/misc	manufacturers.txt	824
-txt/misc	rombuild.txt	92581
+txt/misc	rombuild.txt	92204
 txt/tools	assemblers.txt	180
 txt/tools	compilers.txt	588
 txt/tools	gfx_libs.txt	395

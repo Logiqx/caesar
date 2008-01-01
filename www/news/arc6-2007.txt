@@ -1,0 +1,38 @@
+<h2>15 Jul 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Capcom Play System 3 Emulator v1.0a</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>ElSemi has fixed some nasty bugs in CPS3 emulation (like Alt versions of SFIII 3rd Strike and JoJo's Venture CHDs not loading at all), so be sure to <a href="http://nebula.emulatronia.com/">check it</a>.<br /><br />This version is fully compatible with the romset of v1.0.</td>
+  </tr>
+</table><h2>10 Jul 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.117</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Logiqx has already made a datafile while I was excited about TinyMAME finally being fixed and ridden of Poly-Play.<br /><br />CPS-3 is finished, Neo-Geo driver is updated and MAME is going to be emulated in MAME (some day).</td>
+  </tr>
+</table><h2>08 Jul 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Capcom Play System 3 Emulator v1.0</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>ElSemi released final version of his <a href="http://nebula.emulatronia.com/">CPS-3 Emulator</a>. It emulates transparencies (sort of, not the actual thing) and CHDs. If anyone is still curious about the differences between CHD and no CHD games &mdash; there are none. Only the loading time. CHDs take much more time to boot.<br /><br />Andreas made a post with CPS-3 keys on June 9. It took a month to emulate everything.</td>
+  </tr>
+</table><h2>07 Jul 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Raine v0.50.5</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td><a href="http://www.rainemu.com/">Raine</a> is not finished yet!<br /><br />Emmanuel has released a new version just today. It fixes some of the problems of previous version, adds hiscore support for some of the games and makes small changes to how the scanlines work.</td>
+  </tr>
+</table>
+

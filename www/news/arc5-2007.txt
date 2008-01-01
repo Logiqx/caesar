@@ -1,0 +1,38 @@
+<h2>27 Jun 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>DiscreteSIM v1.0</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>A couple of days ago Dan Boris released a <a href="http://atarihq.com/danb/Pong.shtml">Pong! emulator</a>. As many other vintage arcade games of 70s Pong! doesn't use any CPU, so it seems that the only way to emulate it is to simulate the operation of the original circuit using a generic digital logic simulator.<br /><br />Don't hold your breath. The emulation is so slow, that even on the fastest PCs today it's more of a slideshow than a game (<strong>eight seconds</strong> to render <strong>one frame</strong> on AMD Athlon 64 3000+). Also some things are not working properly, but it's good to see that a game that was dropped from MAME is not forgotten.</td>
+  </tr>
+</table><h2>23 Jun 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Capcom System 3 Emulator v0.1</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Since ElSemi has already released a <a href="http://nebula.emulatronia.com/">new version</a> which really shows the progress of CPS-3 emulation, I've decided it would be a right thing to post about it here.<br /><br />If you prefer MAME, you can try <a href="http://mamedev.org/release.html">v0.116u2</a>. It already works with CPS-3 games.</td>
+  </tr>
+</table><h2>20 Jun 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Capcom System 3 Emulator v0.0</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>ElSemi has finally made it. The first working (sort of) emulator of CPS-3.<br /><br />It's still an early preview version with many features missing, but it's the most one can expect in merely two weeks after system's encryption was broken.<br /><br /><a href="http://nebula.emulatronia.com/">Take a look</a> if you have a decent PC. Amazing stuff.</td>
+  </tr>
+</table><h2>11 Jun 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.116</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>New version released and so is datafile. You can grab your own MAME v0.116 from <a href="http://mamedev.org">MAMEDev</a>.<br /><br />Good news for everyone who loves CPS-3: Emulation is possible. Please don't start trashing forums with questions on where to get ROMs, though : )</td>
+  </tr>
+</table>
+

@@ -1,0 +1,29 @@
+<h2>31 Dec 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>WinKawaks v1.59</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>To tell you the truth, I wasn't expecting WinKawaks to get any update, but it's good to know that I was wrong.<br /><br />As fas as I understand, this version supports latest MAME sets now and adds those sets that were included in MAME's CPS-1, CPS-2 and Neo-Geo drivers in last few months.<br /><br />Happy New Year!</td>
+  </tr>
+</table><h2>26 Dec 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Raine v0.50.6 & NeoRaine v1.0.0</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Small bug fixes, nothing special.<br /><br />As for NeoRaine it's Raine with a Neo Geo CD support. Since it's based on Raine, it's possible now to have a good quality Neo Geo CD emulator for Linux.</td>
+  </tr>
+</table><h2>18 Dec 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.122</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Here comes the new MAME release. Some small fixes to old drivers and Neo-Geo games and an addition of a quite popular game - <b>Mortal Kombat 4</b>. If you have a PC from the future (i.e. an overclocked C2D) than you can play it a full speed with sound. There are still some graphical glitches, but it's playable. Big thanks goes to Aaron Giles, the mastermind behind current MAME team for the progress he made in last months with Zeus hardware.</td>
+  </tr>
+</table>
+

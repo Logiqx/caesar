@@ -1,0 +1,65 @@
+<h2>31 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Mjolnir v0.4</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Mjolnir has arrived. Phil released another update to his Namco System 21/22 emulator a couple of hours ago. The best news is that Solvalou is fixed and playable now. Some fixes were made to other games too.</td>
+  </tr>
+</table><h2>15 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.120</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Only three days ago there was an update and now there is a full version. The most interesting part is a new 64-bit version for those who have a modern PC. Most games run as in 32-bit version, but some other run about 10-15% faster, so you might want to try it.<br /><br />Also be sure to update your Neo-Geo roms, because they changed a lot.</td>
+  </tr>
+</table><h2>13 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Mjolnir v0.3.1</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Another update. Full screen wasn't working as intended, so it was fixed again. Also some fixes were made to Prop Cycle textures.</td>
+  </tr>
+</table><h2>13 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Mjolnir v0.3</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Phil Stroffolino has released a new version of <a href="http://machna.com/games/">Mjolnir</a>.  Full screen support added, some bugfixes made. Looks like <b>Starblade</b> can be finished now.</td>
+  </tr>
+</table><h2>06 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>OldSpark C++</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Bruno Vedder has released <a href="http://bcz.emu-france.com/">second public version</a> of his emulator for Windows and Linux.<br /><br />Currently it supports only 13 games such as <b>Pac-Man</b>, <b>Solomon's Key</b>, <b>Galaxian</b> and a couple of clones.</td>
+  </tr>
+</table><h2>03 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Mjolnir v0.2</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Phil has released the <a href="http://machna.com/games/">second version</a> of his System 21, System 22 and Super System 22 emulator. It's built upon MAME v0.100, so it should be faster than modern MAME versions.<br /><br />It supports 27 sets such as <b>Starblade</b>, <b>Alpine Racer</b>, <b>Prop Cycle</b>, a couple of <b>Ridge Racers</b> and some other games.</td>
+  </tr>
+</table><h2>01 Oct 2007</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Mjolnir v0.1</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td><a href="http://machna.com/games/">Phil Stroffolino</a> has released his long-awaited <a href="http://system16.com/hardware.php?id=536">Namco System 21</a> and <a href="http://system16.com/hardware.php?id=537">Namco System 22</a> emulator, but unfortunately there was a bug in it and so he unreleased it.<br /><br />Since Phil was able to reproduce this bug, there will be a new release soon (hopefully). His emulator will run games faster than MAME and make them playable on current high-end PCs.</td>
+  </tr>
+</table>
+
