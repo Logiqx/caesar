@@ -728,7 +728,7 @@ game (
 
 game (
 	name gldneye
-	description "GoldenEye (pinball)"
+	description "GoldenEye (pinball) [sound only]"
 	year 1994
 	manufacturer "Sega"
 	rom ( name bondu7.bin size 65536 crc 7581a349 )
@@ -738,7 +738,7 @@ game (
 
 game (
 	name gnr_300
-	description "Guns 'N Roses (pinball)"
+	description "Guns 'N Roses (pinball) [sound only]"
 	year 1994
 	manufacturer "Data East"
 	rom ( name gnru7.snd size 65536 crc 3b9de915 )
@@ -750,7 +750,7 @@ game (
 
 game (
 	name jupk_513
-	description "Jurassic Park (pinball)"
+	description "Jurassic Park (pinball) [sound only]"
 	year 1993
 	manufacturer "Data East"
 	rom ( name jpu7.dat size 65536 crc f3afcf13 )
@@ -760,7 +760,7 @@ game (
 
 game (
 	name lah_112
-	description "Last Action Hero (pinball)"
+	description "Last Action Hero (pinball) [sound only]"
 	year 1993
 	manufacturer "Data East"
 	rom ( name lahsnd.u7 size 65536 crc 0279c45b )
@@ -770,7 +770,7 @@ game (
 
 game (
 	name lw3_208
-	description "Lethal Weapon 3 (pinball)"
+	description "Lethal Weapon 3 (pinball) [sound only]"
 	year 1992
 	manufacturer "Data East"
 	rom ( name lw3u7.dat size 32768 crc ba845ac3 )
@@ -780,7 +780,7 @@ game (
 
 game (
 	name rab_130
-	description "Rocky and Bullwinkle (pinball)"
+	description "Rocky and Bullwinkle (pinball) [sound only]"
 	year 1993
 	manufacturer "Data East"
 	rom ( name rab.u7 size 65536 crc b232e630 )
@@ -790,7 +790,7 @@ game (
 
 game (
 	name stwr_103
-	description "Star Wars (pinball)"
+	description "Star Wars (pinball) [sound only]"
 	year 1992
 	manufacturer "Data East"
 	rom ( name s-wars.u7 size 32768 crc cefa19d5 )
@@ -800,7 +800,7 @@ game (
 
 game (
 	name tftc_303
-	description "Tales from the Crypt (pinball)"
+	description "Tales from the Crypt (pinball) [sound only]"
 	year 1993
 	manufacturer "Data East"
 	rom ( name sndu7.dat size 65536 crc 7963740e )
@@ -810,7 +810,7 @@ game (
 
 game (
 	name tomy_400
-	description "Tommy (pinball)"
+	description "Tommy (pinball) [sound only]"
 	year 1994
 	manufacturer "Data East"
 	rom ( name tommysnd.u7 size 65536 crc ab0b4626 )
@@ -822,7 +822,7 @@ game (
 
 game (
 	name trek_201
-	description "Star Trek 25th Anniversary (pinball)"
+	description "Star Trek 25th Anniversary (pinball) [sound only]"
 	year 1992
 	manufacturer "Data East"
 	rom ( name trek.u7 size 32768 crc f137abbb )
@@ -832,7 +832,7 @@ game (
 
 game (
 	name wwfr_106
-	description "WWF Royal Rumble (pinball)"
+	description "WWF Royal Rumble (pinball) [sound only]"
 	year 1994
 	manufacturer "Data East"
 	rom ( name wfsndu7.512 size 65536 crc eb01745c )
@@ -843,7 +843,7 @@ game (
 
 game (
 	name xfilesp
-	description "The X-Files (pinball)"
+	description "The X-Files (pinball) [sound only]"
 	year 1994
 	manufacturer "Sega"
 	rom ( name xfsndu7.512 size 65536 crc 01d65239 )
@@ -853,7 +853,7 @@ game (
 
 game (
 	name afm_113
-	description "Attack From Mars (pinball)"
+	description "Attack From Mars (pinball) [sound only]"
 	year 1995
 	manufacturer "Bally"
 	rom ( name afm_s2.l1 size 1048576 crc 6e39d96e )
@@ -863,7 +863,7 @@ game (
 
 game (
 	name cc_13
-	description "Cactus Canyon (pinball)"
+	description "Cactus Canyon (pinball) [sound only]"
 	year 1998
 	manufacturer "Bally"
 	rom ( name sav2_8.rom size 1048576 crc 94928841 )
@@ -876,7 +876,7 @@ game (
 
 game (
 	name congo_21
-	description "Congo (pinball)"
+	description "Congo (pinball) [sound only]"
 	year 1995
 	manufacturer "Williams"
 	rom ( name cgs2v1_1.rom size 1048576 crc 2b7637ae )
@@ -886,7 +886,7 @@ game (
 
 game (
 	name corv_21
-	description "Corvette (pinball)"
+	description "Corvette (pinball) [sound only]"
 	year 1994
 	manufacturer "Bally"
 	rom ( name corvsnd2 size 524288 crc 630d20a3 )
@@ -899,7 +899,7 @@ game (
 
 game (
 	name cp_16
-	description "Championship Pub (pinball)"
+	description "Championship Pub (pinball) [sound only]"
 	year 1998
 	manufacturer "Bally"
 	rom ( name cp_s2.bin size 524288 crc e0b67f6f )
@@ -912,7 +912,7 @@ game (
 
 game (
 	name cv_14
-	description "Cirqus Voltaire (pinball)"
+	description "Cirqus Voltaire (pinball) [sound only]"
 	year 1997
 	manufacturer "Bally"
 	rom ( name s2v1_0.rom size 524288 crc 79dbb8ee )
@@ -924,7 +924,7 @@ game (
 
 game (
 	name dh_lx2
-	description "Dirty Harry (pinball)"
+	description "Dirty Harry (pinball) [sound only]"
 	year 1995
 	manufacturer "Williams"
 	rom ( name dh_snd.u2 size 524288 crc dce5339a )
@@ -936,7 +936,7 @@ game (
 
 game (
 	name dm_lx4
-	description "Demolition Man (pinball)"
+	description "Demolition Man (pinball) [sound only]"
 	year 1994
 	manufacturer "Williams"
 	rom ( name dm_u2_s.l2 size 524288 crc 85fb8bce )
@@ -949,7 +949,7 @@ game (
 
 game (
 	name fs_lx5
-	description "Flintstones (pinball)"
+	description "Flintstones (pinball) [sound only]"
 	year 1994
 	manufacturer "Williams"
 	rom ( name fs_u2_s.l1 size 524288 crc aa3da768 )
@@ -964,7 +964,7 @@ game (
 
 game (
 	name i500_11r
-	description "Indianapolis 500 (pinball)"
+	description "Indianapolis 500 (pinball) [sound only]"
 	year 1995
 	manufacturer "Bally"
 	rom ( name su2 size 524288 crc d2f9ab24 )
@@ -977,7 +977,7 @@ game (
 
 game (
 	name ij_l7
-	description "Indiana Jones (pinball)"
+	description "Indiana Jones (pinball) [sound only]"
 	year 1993
 	manufacturer "Williams"
 	rom ( name ijsnd_l3.u2 size 524288 crc fbd91a0d )
@@ -991,7 +991,7 @@ game (
 
 game (
 	name jb_10r
-	description "Jackbot (pinball)"
+	description "Jackbot (pinball) [sound only]"
 	year 1995
 	manufacturer "Williams"
 	rom ( name jbsnd_u2.rom size 524288 crc b116d59f )
@@ -1003,7 +1003,7 @@ game (
 
 game (
 	name jd_l7
-	description "Judge Dredd (pinball)"
+	description "Judge Dredd (pinball) [sound only]"
 	year 1993
 	manufacturer "Bally"
 	rom ( name jdsnd_u2.bin size 524288 crc d8f453c6 )
@@ -1018,7 +1018,7 @@ game (
 
 game (
 	name jm_12r
-	description "Johnny Mnemonic (pinball)"
+	description "Johnny Mnemonic (pinball) [sound only]"
 	year 1995
 	manufacturer "Williams"
 	rom ( name jm_u2_s.1_0 size 524288 crc 4aeeff3d )
@@ -1032,7 +1032,7 @@ game (
 
 game (
 	name jy_12
-	description "Junkyard (pinball)"
+	description "Junkyard (pinball) [sound only]"
 	year 1996
 	manufacturer "Williams"
 	rom ( name jy_s2.rom size 524288 crc 1a1bc2ca )
@@ -1043,7 +1043,7 @@ game (
 
 game (
 	name mb_10
-	description "Monster Bash (pinball)"
+	description "Monster Bash (pinball) [sound only]"
 	year 1998
 	manufacturer "Williams"
 	rom ( name mb_s2.rom size 524288 crc 9152f559 )
@@ -1056,7 +1056,7 @@ game (
 
 game (
 	name mm_10
-	description "Medieval Madness (pinball)"
+	description "Medieval Madness (pinball) [sound only]"
 	year 1997
 	manufacturer "Williams"
 	rom ( name mm_s2.1_0 size 524288 crc c55c3b71 )
@@ -1068,7 +1068,7 @@ game (
 
 game (
 	name nbaf_31
-	description "NBA Fast Break (pinball)"
+	description "NBA Fast Break (pinball) [sound only]"
 	year 1997
 	manufacturer "Bally"
 	rom ( name fb-s2.3_0 size 1048576 crc 4594abd3 )
@@ -1080,7 +1080,7 @@ game (
 
 game (
 	name nf_23x
-	description "No Fear (pinball)"
+	description "No Fear (pinball) [sound only]"
 	year 1995
 	manufacturer "Williams"
 	rom ( name nfu2s size 524288 crc 136caeb9 )
@@ -1093,7 +1093,7 @@ game (
 
 game (
 	name ngg_13
-	description "No Good Gofers (pinball)"
+	description "No Good Gofers (pinball) [sound only]"
 	year 1997
 	manufacturer "Williams"
 	rom ( name nggsndl1.s2 size 524288 crc 6263866d )
@@ -1105,7 +1105,7 @@ game (
 
 game (
 	name pop_lx5
-	description "Popeye (pinball)"
+	description "Popeye (pinball) [sound only]"
 	year 1994
 	manufacturer "Bally"
 	rom ( name popsndl2.u2 size 524288 crc 00590f2d )
@@ -1118,7 +1118,7 @@ game (
 
 game (
 	name rs_l6
-	description "Red and Ted's Roadshow (pinball)"
+	description "Red and Ted's Roadshow (pinball) [sound only]"
 	year 1994
 	manufacturer "Williams"
 	rom ( name rs_u2_s.l1 size 524288 crc 5a2db20c )
@@ -1132,7 +1132,7 @@ game (
 
 game (
 	name sc_18
-	description "Safe Cracker (pinball)"
+	description "Safe Cracker (pinball) [sound only]"
 	year 1996
 	manufacturer "Bally"
 	rom ( name safsnds2.rom size 1048576 crc 20e14c63 )
@@ -1142,7 +1142,7 @@ game (
 
 game (
 	name ss_15
-	description "Scared Stiff (pinball)"
+	description "Scared Stiff (pinball) [sound only]"
 	year 1996
 	manufacturer "Bally"
 	rom ( name sssnd_11.s2 size 1048576 crc 1b080a72 )
@@ -1152,7 +1152,7 @@ game (
 
 game (
 	name sttng_l7
-	description "Star Trek: The Next Generation (pinball)"
+	description "Star Trek: The Next Generation (pinball) [sound only]"
 	year 1993
 	manufacturer "Williams"
 	rom ( name ng_u2_s.l1 size 524288 crc c3bd7bf5 )
@@ -1166,7 +1166,7 @@ game (
 
 game (
 	name tom_13
-	description "Theatre of Magic (pinball)"
+	description "Theatre of Magic (pinball) [sound only]"
 	year 1995
 	manufacturer "Bally"
 	rom ( name tm_u2_s.l2 size 524288 crc b128fbba )
@@ -1179,7 +1179,7 @@ game (
 
 game (
 	name totan_14
-	description "Tales of the Arabian Nights (pinball)"
+	description "Tales of the Arabian Nights (pinball) [sound only]"
 	year 1996
 	manufacturer "Williams"
 	rom ( name ans2v1_1.rom size 1048576 crc 0d023f90 )
@@ -1190,7 +1190,7 @@ game (
 
 game (
 	name ts_lx5
-	description "The Shadow (pinball)"
+	description "The Shadow (pinball) [sound only]"
 	year 1994
 	manufacturer "Bally"
 	rom ( name ts_u2_s.l1 size 524288 crc f1486cfb )
@@ -1203,7 +1203,7 @@ game (
 
 game (
 	name wcs_l2
-	description "World Cup '94 (pinball)"
+	description "World Cup '94 (pinball) [sound only]"
 	year 1994
 	manufacturer "Bally"
 	rom ( name wcup_u2.rom size 524288 crc 92252f28 )
@@ -1217,7 +1217,7 @@ game (
 
 game (
 	name wd_12
-	description "Who Dunnit (pinball)"
+	description "Who Dunnit (pinball) [sound only]"
 	year 1995
 	manufacturer "Bally"
 	rom ( name wdu2_10.rom size 524288 crc 2fd534be )
@@ -1230,7 +1230,7 @@ game (
 
 game (
 	name andretti
-	description "Mario Andretti (pinball)"
+	description "Mario Andretti (pinball) [sound only]"
 	year 1995
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc 918c3270 )
@@ -1241,7 +1241,7 @@ game (
 
 game (
 	name barbwire
-	description "Barb Wire (pinball)"
+	description "Barb Wire (pinball) [sound only]"
 	year 1996
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc 7171bc86 )
@@ -1262,7 +1262,7 @@ game (
 
 game (
 	name baywatch
-	description "Baywatch (pinball)"
+	description "Baywatch (pinball) [sound only]"
 	year 1995
 	manufacturer "Sega"
 	rom ( name bayw.u17 size 524288 crc b20fde56 )
@@ -1272,7 +1272,7 @@ game (
 
 game (
 	name bbnny
-	description "Bugs Bunny's Birthday Bash (pinball)"
+	description "Bugs Bunny's Birthday Bash (pinball) [sound only]"
 	year 1990
 	manufacturer "Bally"
 	rom ( name bugs_u19.l1 size 65536 crc a2084702 )
@@ -1282,7 +1282,7 @@ game (
 
 game (
 	name bighurt
-	description "Big Hurt (pinball)"
+	description "Big Hurt (pinball) [sound only]"
 	year 1995
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc b3def376 )
@@ -1293,7 +1293,7 @@ game (
 
 game (
 	name cactjack
-	description "Cactus Jack (pinball)"
+	description "Cactus Jack (pinball) [sound only]"
 	year 1991
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 131072 crc c890475f )
@@ -1304,7 +1304,7 @@ game (
 
 game (
 	name carhop
-	description "Car Hop (pinball)"
+	description "Car Hop (pinball) [sound only]"
 	year 1991
 	manufacturer "Gottlieb"
 	rom ( name drom1.bin size 32768 crc 9dec74e7 )
@@ -1313,7 +1313,7 @@ game (
 
 game (
 	name clas1812
-	description "Class of 1812 (pinball)"
+	description "Class of 1812 (pinball) [sound only]"
 	year 1991
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 131072 crc 357b0069 )
@@ -1324,7 +1324,7 @@ game (
 
 game (
 	name cueball
-	description "Cue Ball Wizard (pinball)"
+	description "Cue Ball Wizard (pinball) [sound only]"
 	year 1992
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 476bb11c )
@@ -1335,7 +1335,7 @@ game (
 
 game (
 	name deadweap
-	description "Deadly Weapon (pinball)"
+	description "Deadly Weapon (pinball) [sound only]"
 	year 1990
 	manufacturer "Gottlieb"
 	rom ( name drom1.bin size 32768 crc f55dd7ec )
@@ -1344,7 +1344,7 @@ game (
 
 game (
 	name frankst
-	description "Mary Shelley's Frankenstein (pinball)"
+	description "Mary Shelley's Frankenstein (pinball) [sound only]"
 	year 1994
 	manufacturer "Sega"
 	rom ( name frsnd.u17 size 524288 crc 0da904d6 )
@@ -1355,7 +1355,7 @@ game (
 
 game (
 	name gladiatp
-	description "Gladiators (pinball)"
+	description "Gladiators (pinball) [sound only]"
 	year 1993
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 85cbdda7 )
@@ -1366,7 +1366,7 @@ game (
 
 game (
 	name opthund
-	description "Operation Thunder (pinball)"
+	description "Operation Thunder (pinball) [sound only]"
 	year 1992
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 0fbb130a )
@@ -1376,7 +1376,7 @@ game (
 
 game (
 	name rescu911
-	description "Rescue 911 (pinball)"
+	description "Rescue 911 (pinball) [sound only]"
 	year 1994
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc f6daa16c )
@@ -1387,7 +1387,7 @@ game (
 
 game (
 	name sfight2
-	description "Street Fighter II (pinball)"
+	description "Street Fighter II (pinball) [sound only]"
 	year 1993
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 8518ff55 )
@@ -1398,7 +1398,7 @@ game (
 
 game (
 	name shaqattq
-	description "Shaq Attack (pinball)"
+	description "Shaq Attack (pinball) [sound only]"
 	year 1995
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc 019014ec )
@@ -1409,7 +1409,7 @@ game (
 
 game (
 	name silvslug
-	description "Silver Slugger (pinball)"
+	description "Silver Slugger (pinball) [sound only]"
 	year 1990
 	manufacturer "Gottlieb"
 	rom ( name drom1.bin size 32768 crc eac3e1cc )
@@ -1418,7 +1418,7 @@ game (
 
 game (
 	name smb
-	description "Super Mario Bros. (pinball)"
+	description "Super Mario Bros. (pinball) [sound only]"
 	year 1992
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc e9cef116 )
@@ -1429,7 +1429,7 @@ game (
 
 game (
 	name southpk
-	description "South Park (pinball)"
+	description "South Park (pinball) [sound only]"
 	year 1999
 	manufacturer "Sega"
 	rom ( name spku17.100 size 1048576 crc 829262c9 )
@@ -1441,7 +1441,7 @@ game (
 
 game (
 	name stargatp
-	description "Stargate (pinball)"
+	description "Stargate (pinball) [sound only]"
 	year 1995
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc a0f62605 )
@@ -1451,7 +1451,7 @@ game (
 
 game (
 	name surfnsaf
-	description "Surf'n Safari (pinball)"
+	description "Surf'n Safari (pinball) [sound only]"
 	year 1991
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 38b569b2 )
@@ -1461,7 +1461,7 @@ game (
 
 game (
 	name teedoffp
-	description "Teed Off (pinball)"
+	description "Teed Off (pinball) [sound only]"
 	year 1993
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc 9e442b71 )
@@ -1472,7 +1472,7 @@ game (
 
 game (
 	name tfight
-	description "Title Fight (pinball)"
+	description "Title Fight (pinball) [sound only]"
 	year 1990
 	manufacturer "Gottlieb"
 	rom ( name drom1.bin size 32768 crc 9514739f )
@@ -1491,7 +1491,7 @@ game (
 
 game (
 	name vegas
-	description "Vegas (pinball)"
+	description "Vegas (pinball) [sound only]"
 	year 1990
 	manufacturer "Gottlieb"
 	rom ( name drom1.bin size 32768 crc 46eb5755 )
@@ -1500,7 +1500,7 @@ game (
 
 game (
 	name waterwld
-	description "Waterworld (pinball)"
+	description "Waterworld (pinball) [sound only]"
 	year 1995
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc 3ee37668 )
@@ -1511,7 +1511,7 @@ game (
 
 game (
 	name wcsoccer
-	description "World Challenge Soccer (pinball)"
+	description "World Challenge Soccer (pinball) [sound only]"
 	year 1994
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc ece4eebf )
@@ -1522,7 +1522,7 @@ game (
 
 game (
 	name wipeout
-	description "Wipeout (pinball)"
+	description "Wipeout (pinball) [sound only]"
 	year 1993
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 262144 crc cccdf23a )
@@ -1533,7 +1533,7 @@ game (
 
 game (
 	name freddy
-	description "Freddy: A Nightmare on Elm Street (pinball)"
+	description "Freddy: A Nightmare on Elm Street (pinball) [sound only]"
 	year 1994
 	manufacturer "Gottlieb"
 	rom ( name arom1.bin size 524288 crc 6bec0567 )
@@ -1541,6 +1541,124 @@ game (
 	rom ( name drom1.bin size 32768 crc d472210c )
 	rom ( name yrom1.bin size 32768 crc 4a748665 )
 )
+
+game (
+	name bk2k_l4
+	description "Black Knight 2000 (L-4) (pinball) [sound only]"
+	year 1989
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name bk2k_u4.l2 size 32768 crc 1d87281b sha1 609288b017aac6ce6da8717a35fdf87013adeb3c )
+	rom ( name bk2k_u19.l1 size 32768 crc 58e162b2 sha1 891f810ae18b46593f570d719f0290a1d08a1a10 )
+	rom ( name bk2k_u21.l1 size 32768 crc 08be36ad sha1 0f4c448e003df54ed8ccf0e0c57f6123ce1e2027 )
+	rom ( name bk2k_u22.l1 size 32768 crc 9c8becd8 sha1 9090e8104dad63f14246caabafec428d94d5e18d )
+)
+
+game (
+	name dm_h5
+	description "Demolition Man (H-5) (pinball) [sound only]"
+	year 1995
+	manufacturer "Williams"
+	board "Midway Digital Compressed Sound (DCS)"
+	rom ( name dm.2 size 524288 crc 03dae358 sha1 e6ab35a0c530eda90bd2d65af7bff82af08c39f3 )
+	rom ( name dm.3 size 524288 crc 3b924d3f sha1 5bd6126cc6a6c662de0bc311c047441bc29919b2 )
+	rom ( name dm.4 size 524288 crc ff8985da sha1 b382c301744ce208f4710b3dd2342457d02f0ce9 )
+	rom ( name dm.5 size 524288 crc 76f09bd0 sha1 1e4861ddc12069733f7e1d25192df97b0d9b09ee )
+	rom ( name dm.6 size 524288 crc 2897aca8 sha1 d910289e10422e22b4a3e1e296a4a167da1eaa5b )
+	rom ( name dm.7 size 524288 crc 6b1b9137 sha1 4064f4fc230ba17b68819ff889335d9b6d9bba3e )
+	rom ( name dm.8 size 524288 crc 5b333818 sha1 007b8c117516b6023b376f95ff13831111f4dc20 )
+	rom ( name dm.9 size 524288 crc 4c1a34e8 sha1 3eacc3c63b2d9db57fc86447f1408635b987ef69 )
+)
+
+game (
+	name esha_la3
+	description "Earthshaker (LA-3) (pinball) [sound only]"
+	year 1988
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name eshk_u4.l1 size 32768 crc 40069f8c sha1 aafdc189259fa9c8dc49e60e978b84775e16c64e )
+	rom ( name eshk_u19.l1 size 32768 crc e5593075 sha1 549b03402e5639b449e35325eb52e78f8810b07a )
+	rom ( name eshk_u21.l1 size 32768 crc feac68e5 sha1 2f12a78398bc3a468e3e0656da91260d45b0663b )
+	rom ( name eshk_u22.l1 size 32768 crc 44f50fe1 sha1 a8e24dbb0f5cf300118e1ebdcd2bb6b274d87936 )
+)
+
+game (
+	name godzillp
+	description "Godzilla (pinball) [sound only]"
+	year 1998
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name gdzu7.100 size 65536 crc a0afe8b7 sha1 33e4a824b26b58e8f963fa8a525a64f4779b45db )
+	rom ( name gdzu17.100 size 524288 crc 6bba69c8 sha1 51341e188b4191eb1836349dfdd456163d464ad6 )
+	rom ( name gdzu21.100 size 524288 crc db738958 sha1 23082cf98bbcc6d356145414267da887a5ca9305 )
+	rom ( name gdzu36.100 size 524288 crc e3f24234 sha1 eb123200928221a647e10839ebb7f4628501c581 )
+	rom ( name gdzu37.100 size 524288 crc 2c1acb14 sha1 4d710e09f5500da937932b4b01d862abb4a89e5a )
+)
+
+game (
+	name lostspc
+	description "Lost in Space (pinball) [sound only]"
+	year 1998
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name lisu7.100 size 65536 crc 96e6b3c4 sha1 5cfb43b8c182aed4b49ad1b8803812a18c6c8b6f )
+	rom ( name lisu17.100 size 524288 crc 69076939 sha1 f2cdf61a2b469d1a69eb3f08fc6e511d72336586 )
+	rom ( name lisu21.100 size 524288 crc 56eede09 sha1 9ff53d7a188bd7293ad92089d143bd54623a50d4 )
+	rom ( name lisu36.100 size 524288 crc 56f2c53b sha1 5c2daf17116016fbead1320eb150cf655984662b )
+	rom ( name lisu37.100 size 524288 crc f9430c59 sha1 f0f7169e63fc12d29fe39cd24dd67c5fb17779f7 )
+)
+
+game (
+	name rollr_e1
+	description "Rollergames (PU-1) (pinball) [sound only]"
+	year 1991
+	manufacturer "Williams"
+	board "Williams Y-Unit CVSD"
+	rom ( name rolr_u4.pe1 size 65536 crc 8c383b24 sha1 5c738e5ec566f7fa5706cd4c33e5d706fa76c72d )
+	rom ( name rolr_u19.pe1 size 65536 crc c6880cff sha1 c8ce23d68297d36ef62e508855a478434ff9a592 )
+	rom ( name rolr_u20.pe1 size 65536 crc 4220812b sha1 7071565f1087020d1e1738e801dafb509ea37622 )
+)
+
+game (
+	name smbmush
+	description "Super Mario Brothers Mushroom World (pinball) [sound only]"
+	year 1992
+	manufacturer "Gottlieb"
+	board "Gottlieb System 3"
+	rom ( name yrom1.bin size 32768 crc 09712c37 sha1 e2ee902ea6eac3e6257880949bd07a90de08e7b9 )
+	rom ( name drom1.bin size 32768 crc 6f04a0ac sha1 53bbc182a3bd635ad18504692a4454994daef7ef )
+	rom ( name arom1.bin size 262144 crc edce7951 sha1 4a80d6367a5bebf9fee181456280619aa64b441f )
+	rom ( name arom2.bin size 262144 crc dd7ea212 sha1 adaf0262e315c26b1f4d6365e9d465c7afb6984d )
+)
+
+game (
+	name sttng_x7
+	description "Star Trek: The Next Generation (LX-7 Special) (pinball) [sound only]"
+	year 1994
+	manufacturer "Williams"
+	board "Midway Digital Compressed Sound (DCS)"
+	rom ( name ngs_u2.rom size 524288 crc e9fe68fe sha1 3d7631aa5ddd52f7c3c00cd091e212430faea249 )
+	rom ( name ngs_u3.rom size 524288 crc 368cfd89 sha1 40ddc12b2cabbcf73ababf753f3a2fd4bcc10737 )
+	rom ( name ngs_u4.rom size 524288 crc 8e79a513 sha1 4b763d7445acd921a0a6d64d18b5df8ff9e3257e )
+	rom ( name ngs_u5.rom size 524288 crc 46049eb0 sha1 02991bf1d33ac1df91f459b2d37cf7e07e347b04 )
+	rom ( name ngs_u6.rom size 524288 crc e0124da0 sha1 bfdba059d084c93122ad291aa8def61f43c26d47 )
+	rom ( name ngs_u7.rom size 524288 crc dc1c74d0 sha1 21b6b4d2cdd5086bcbbc7ee7a2abdc550a45d2e3 )
+	rom ( name ng_u8_s.l1 size 524288 crc c9fb065e sha1 c148178ee0ea787acc88078db01d17073e75fdc7 )
+)
+
+game (
+	name viprsega
+	description "Viper Night Drivin' (pinball) [sound only]"
+	year 1998
+	manufacturer "Sega"
+	board "Tattoo Assassins"
+	rom ( name vpru7.dat size 65536 crc f21617d7 sha1 78d1ade400b83c62bb6288bccf386ef34050dd04 )
+	rom ( name vpru17.dat size 524288 crc 47b1317c sha1 32259965b5a12f63267af96eef8396bf71895a65 )
+	rom ( name vpru21.dat size 524288 crc 0e0e2dd6 sha1 b409c837a52eb399c9a4896ca0c502360c93dcc9 )
+	rom ( name vpru36.dat size 524288 crc 7b482876 sha1 c8960c2d45a77a35d22408c7bb8ba322e7af36f0 )
+	rom ( name vpru37.dat size 524288 crc 0bf23e0e sha1 b5724ed6cfe791320a8cf208cc20a2d3f0db85c8 )
+)
+
 
 ###############################################################################
 # Sega Model 2 - Nebula Model 2 & Virtua
