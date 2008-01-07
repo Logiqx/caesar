@@ -1,8 +1,8 @@
 clrmamepro (
 	name WinKawaks
-	description "WinKawaks v1.58"
+	description "WinKawaks v1.59"
 	category "Capcom CPS-1, CPS-2 and Neo-Geo"
-	version 20070420
+	version 20080101
 	author "Logiqx, http://www.logiqx.com/"
 )
 
@@ -122,7 +122,7 @@ game (
 	rom ( name 097-s1.bin size 131072 crc 8dd66743 sha1 39214bb25a1d5b44a8524010be05bf5a0211981f )
 	rom ( name 097-m1.bin size 131072 crc b20e4291 sha1 0e891ab53f9fded510295dfc7818bc59b4a9dd97 )
 	rom ( name 097-v1.bin size 4194304 crc 6f885152 sha1 8175804d5c1420c5d37b733d4a8fa2aa81e59f1b )
-	rom ( name 097-v2.bin size 1048576 crc 32187ccd sha1 35a93de2a23bdec181c504d9c21a871bf86edee1 )
+	rom ( name 097-v2.bin size 2097152 crc 3359e868 sha1 b7efd9f1a6dab33271fe8356bcc863aeae1d3ed8 )
 	rom ( name 097-c1.bin size 4194304 crc 33d0d589 sha1 fe4aa95555e478ceb2d28fd27d83ee06cd09520c )
 	rom ( name 097-c2.bin size 4194304 crc 186f8b43 sha1 f5cced93e21dc841b00ebeaa30786cb0e047bd9a )
 	rom ( name 097-c3.bin size 2097152 crc c339fff5 sha1 58dfd1e30dc0ad3f816a5dbd1cc7e7ccbb792c53 )
@@ -385,7 +385,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 002-s1.bin size 131072 crc 1a7fd0c6 sha1 3fc701b7afddab369ddf9dedfbc5e1aaf80b8af3 )
-	rom ( name 002-m1.bin size 65536 crc 79a8f4c2 sha1 08ca2b72fd9b0ed068dc918ecda51d13203a3481 )
+	rom ( name 002-m1.bin size 131072 crc 753a2a08 sha1 4e117120019c420789e20bd4cc6cff845867cbfd )
 	rom ( name 002-v11.bin size 524288 crc b7b925bd sha1 644c92fa90e74998e73714f74b1e0680ee372a07 )
 	rom ( name 002-v12.bin size 524288 crc 329f26fc sha1 2c8009edc88c6b26f7be5beb2b8d260aac394ee1 )
 	rom ( name 002-v13.bin size 524288 crc 0c39f3c8 sha1 db8f8670639601215707d918d4fb93221460446a )
@@ -410,7 +410,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 041-s1.bin size 131072 crc 015c5c94 sha1 f1c60cd3dc54986b39f630ef3bf48f68c68695dc )
-	rom ( name 041-m1.bin size 65536 crc b2611c03 sha1 a2c8b850b53e445edabdfd44f05c64de596618b8 )
+	rom ( name 041-m1.bin size 131072 crc 790b15eb sha1 3a470c0e457cf94ccc8551544e5e4af23edafae5 )
 	rom ( name 041-v1.bin size 1048576 crc cb1da093 sha1 4f4d1d5fefa9dda372083c045bf0d268a57ce8f1 )
 	rom ( name 041-v2.bin size 1048576 crc 1c954a9d sha1 159bc6efdd531615461f6e16f83f6d4c4e67c237 )
 	rom ( name 041-v3.bin size 524288 crc afaa0180 sha1 c4a047e21f093830498a163598ed7bd48a8cf9d1 )
@@ -473,7 +473,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 022-s1.bin size 131072 crc 843c3624 sha1 dbdf86c193b7c1d795f8c21f2c103c1d3e18abbe )
-	rom ( name 022-m1.bin size 65536 crc a9e30496 sha1 c7a42dc64007408fd9b3b9d3a54c523da3acf475 )
+	rom ( name 022-m1.bin size 131072 crc 8e1d4ab6 sha1 deabc11ab81e7e68a3e041c03a127ae28d0d7264 )
 	rom ( name 022-v11.bin size 1048576 crc 2cb4ad91 sha1 169ec7303c4275155a66a88cc08270c24132bb36 )
 	rom ( name 022-v22.bin size 1048576 crc 65a54d13 sha1 a591fbcedca8f679dacbebcd554e3aa3fd163e92 )
 	rom ( name 022-c1.bin size 1048576 crc 4d47a48c sha1 6e282285be72583d828e7765b1c1695ecdc44777 )
@@ -864,7 +864,7 @@ game (
 	manufacturer "SNK"
 	romof neogeo
 	rom ( name 069-p1.bin size 1048576 crc a8bcfbbc sha1 519c4861151797e5f4d4f33432b83dfabed8e7c4 )
-	rom ( name 069-p2.bin size 2097152 crc dbe963ed sha1 8ece7f663cfe8e563576a397e41161d392cee67e )
+	rom ( name 069-sp2.bin size 2097152 crc dbe963ed sha1 8ece7f663cfe8e563576a397e41161d392cee67e )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
@@ -892,7 +892,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 060-s1.bin size 131072 crc 70727a1e sha1 e0d226be0578adbe7c1d41baba79e61d4d8fac39 )
+	rom ( name 060-s1.bin size 131072 crc 7f012104 sha1 f366dcc3923655dff16ec08a40d5fce22a84257d )
 	rom ( name 060-m1.bin size 131072 crc 0b7c4e65 sha1 999a1e784de18db3f1332b30bc425836ea6970be )
 	rom ( name 060-v1.bin size 2097152 crc f417c215 sha1 0f53b8dd056f43b5d880628e8b74c2b27881ffac )
 	rom ( name 060-v2.bin size 1048576 crc 64470036 sha1 eb2b34b3c01eb5c1a0a40cff6f4c0f2eee7bf7f2 )
@@ -909,11 +909,11 @@ game (
 	manufacturer "Viccom"
 	cloneof fightfev
 	romof fightfev
-	rom ( name 060-p1a.bin size 1048576 crc 2a104b50 sha1 3eb663d3df7074e1cdf4c0e450a35c9cf55d8979 )
+	rom ( name 060-p1.rom size 1048576 crc 2a104b50 sha1 3eb663d3df7074e1cdf4c0e450a35c9cf55d8979 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 060-s1.bin merge 060-s1.bin size 131072 crc 70727a1e sha1 e0d226be0578adbe7c1d41baba79e61d4d8fac39 )
+	rom ( name 060-s1.bin merge 060-s1.bin size 131072 crc 7f012104 sha1 f366dcc3923655dff16ec08a40d5fce22a84257d )
 	rom ( name 060-m1.bin merge 060-m1.bin size 131072 crc 0b7c4e65 sha1 999a1e784de18db3f1332b30bc425836ea6970be )
 	rom ( name 060-v1.bin merge 060-v1.bin size 2097152 crc f417c215 sha1 0f53b8dd056f43b5d880628e8b74c2b27881ffac )
 	rom ( name 060-v2.bin merge 060-v2.bin size 1048576 crc 64470036 sha1 eb2b34b3c01eb5c1a0a40cff6f4c0f2eee7bf7f2 )
@@ -1166,7 +1166,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 209-s1.bin size 131072 crc c0eaad86 sha1 99412093c9707d51817893971e73fb8469cdc9d0 )
-	rom ( name 209-m1.bin size 65536 crc dd945773 sha1 2304d070864da79dceb29c64e8d71b7db0992d1e )
+	rom ( name 209-m1.bin size 131072 crc cd758325 sha1 b51eac634fc646c07210dff993018ad9ebabd3f9 )
 	rom ( name 209-v1.bin size 2097152 crc ef214212 sha1 3e05ccaa2d06decb18b379b96f900c0e6b39ce70 )
 	rom ( name 209-c1.bin size 4194304 crc b49d980e sha1 722d10074f16fa7f14c71270f43fdab427b85e2b )
 	rom ( name 209-c2.bin size 4194304 crc 5649b015 sha1 9c9674f3841e6becd3b8e63bae9b9df45ac9f11e )
@@ -1202,7 +1202,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 048-s1.bin size 131072 crc 8285b25a sha1 d983640cda3e346e38469b4d3ec8048b116a7bb7 )
-	rom ( name 048-m1.bin size 65536 crc e191f955 sha1 fc19705644ffb3d1ae76bcf2b6b78fef05bcf701 )
+	rom ( name 048-m1.bin size 131072 crc 310467c7 sha1 c529961195c9bdf5d1ce70a38ad129002d1f3b5f )
 	rom ( name 048-v1.bin size 2097152 crc f1947d2b sha1 955ff91ab24eb2a7ec51ff46c9f9f2ec060456b2 )
 	rom ( name 048-c1.bin size 2097152 crc 3fa890e9 sha1 e73d2802bacfbc2b2b16fbbedddde17488e4bbde )
 	rom ( name 048-c2.bin size 2097152 crc 59c48ad8 sha1 2630817e735a6d197377558f4324c1442803fe15 )
@@ -1442,7 +1442,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 029-s1.bin size 131072 crc bcd502f0 sha1 a3400f52c037aa6a42e59e602cc24fa45fcbc951 )
-	rom ( name 029-m1.bin size 65536 crc 909d4ed9 sha1 5230b423b3f629bb955a5b2dab7e502fa7d83254 )
+	rom ( name 029-m1.bin size 131072 crc 8ed64977 sha1 c2f77213f05b4b2e1962a45e718a9e36cc398cbb )
 	rom ( name 029-v1.bin size 1048576 crc 85065452 sha1 7154b7c59b16c32753ac6b5790fb50b51ce30a20 )
 	rom ( name 029-c1.bin size 1048576 crc 2f5ab875 sha1 3e060973bba41a6c22ff7054104bdc5eee1fa13a )
 	rom ( name 029-c2.bin size 1048576 crc 318b2711 sha1 7014110cee98280317e1189f306ca40652b61f6f )
@@ -1498,7 +1498,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 005-s1.bin size 131072 crc 1c5369a2 sha1 db0dba0a7dced6c9ca929c5abda491b05d84199c )
-	rom ( name 005-m1.bin size 65536 crc 91ee1f73 sha1 f060728543333a99216cc2879f7666a1f4235068 )
+	rom ( name 005-m1.bin size 131072 crc b5253c6a sha1 3e9ee04c6c31c951774bda89929188b357bfdf46 )
 	rom ( name 005-v11.bin size 524288 crc cc0455fd sha1 a8ff4270e7705e263d25ff0b301f503bccea7e59 )
 	rom ( name 005-v21.bin size 524288 crc f94ab5b7 sha1 2c16985102e3585e08622d8c54ac5c60425b9ff8 )
 	rom ( name 005-v22.bin size 524288 crc 232cfd04 sha1 61b66a9decbbd1f500a8c186615e7fd077c6861e )
@@ -1522,7 +1522,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 005-s1.bin merge 005-s1.bin size 131072 crc 1c5369a2 sha1 db0dba0a7dced6c9ca929c5abda491b05d84199c )
-	rom ( name 005-m1.bin merge 005-m1.bin size 65536 crc 91ee1f73 sha1 f060728543333a99216cc2879f7666a1f4235068 )
+	rom ( name 005-m1.bin merge 005-m1.bin size 131072 crc b5253c6a sha1 3e9ee04c6c31c951774bda89929188b357bfdf46 )
 	rom ( name 005-v11.bin merge 005-v11.bin size 524288 crc cc0455fd sha1 a8ff4270e7705e263d25ff0b301f503bccea7e59 )
 	rom ( name 005-v21.bin merge 005-v21.bin size 524288 crc f94ab5b7 sha1 2c16985102e3585e08622d8c54ac5c60425b9ff8 )
 	rom ( name 005-v22.bin merge 005-v22.bin size 524288 crc 232cfd04 sha1 61b66a9decbbd1f500a8c186615e7fd077c6861e )
@@ -1795,10 +1795,10 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 263-p1.bin size 1048576 crc 27e4def3 sha1 a08785e8145981bb6b5332a3b2df7eb321253cca )
+	rom ( name 263-pg1.bin size 1048576 crc 27e4def3 sha1 a08785e8145981bb6b5332a3b2df7eb321253cca )
 	rom ( name 263-p2.bin size 4194304 crc fdb7aed8 sha1 dbeaec38f44e58ffedba99e70fa1439c2bf0dfa3 )
-	rom ( name 263-m1.bin size 65536 crc 38ffad14 sha1 03d526a887aad28306400c21abd131b9c301c221 )
-	rom ( name 263-m1_decrypted.bin size 65536 crc 0c4c42f8 sha1 b7be47d909f5e4fcfe769ead0653d40e1e708d36 )
+	rom ( name 263-m1.bin size 131072 crc 46ac8228 sha1 5aeea221050c98e4bb0f16489ce772bf1c80f787 )
+	rom ( name 263-m1_decrypted.bin size 131072 crc ef5db532 sha1 4aeba9e206b8f309610eb7e1891644f39aa61830 )
 	rom ( name 263-v1.bin size 8388608 crc 01e9b9cd sha1 0b045c2999449f7dab5ae8a42e957d5b6650431e )
 	rom ( name 263-v2.bin size 8388608 crc 4ab2bf81 sha1 77ccfa48f7e3daddef5fe5229a0093eb2f803742 )
 )
@@ -1819,9 +1819,9 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 263-p1.bin merge 263-p1.bin size 1048576 crc 27e4def3 sha1 a08785e8145981bb6b5332a3b2df7eb321253cca )
+	rom ( name 263-pg1.bin merge 263-pg1.bin size 1048576 crc 27e4def3 sha1 a08785e8145981bb6b5332a3b2df7eb321253cca )
 	rom ( name 263-p2.bin merge 263-p2.bin size 4194304 crc fdb7aed8 sha1 dbeaec38f44e58ffedba99e70fa1439c2bf0dfa3 )
-	rom ( name 263-m1_decrypted.bin merge 263-m1_decrypted.bin size 65536 crc 0c4c42f8 sha1 b7be47d909f5e4fcfe769ead0653d40e1e708d36 )
+	rom ( name 263-m1_decrypted.bin merge 263-m1_decrypted.bin size 131072 crc ef5db532 sha1 4aeba9e206b8f309610eb7e1891644f39aa61830 )
 	rom ( name 263-v1.bin merge 263-v1.bin size 8388608 crc 01e9b9cd sha1 0b045c2999449f7dab5ae8a42e957d5b6650431e )
 	rom ( name 263-v2.bin merge 263-v2.bin size 8388608 crc 4ab2bf81 sha1 77ccfa48f7e3daddef5fe5229a0093eb2f803742 )
 )
@@ -1845,7 +1845,7 @@ game (
 	rom ( name 263-p1p.bin size 1048576 crc 806a6e04 sha1 df503772d607271ea51285154c9fd68e18b143ce )
 	rom ( name 263-p2.bin merge 263-p2.bin size 4194304 crc fdb7aed8 sha1 dbeaec38f44e58ffedba99e70fa1439c2bf0dfa3 )
 	rom ( name 263-s1p.bin size 131072 crc 07ff87ce sha1 96ddb439de2a26bf9869015d7fb19129d40f3fd9 )
-	rom ( name 263-m1_decrypted.bin merge 263-m1_decrypted.bin size 65536 crc 0c4c42f8 sha1 b7be47d909f5e4fcfe769ead0653d40e1e708d36 )
+	rom ( name 263-m1_decrypted.bin merge 263-m1_decrypted.bin size 131072 crc ef5db532 sha1 4aeba9e206b8f309610eb7e1891644f39aa61830 )
 	rom ( name 263-v1.bin merge 263-v1.bin size 8388608 crc 01e9b9cd sha1 0b045c2999449f7dab5ae8a42e957d5b6650431e )
 	rom ( name 263-v2.bin merge 263-v2.bin size 8388608 crc 4ab2bf81 sha1 77ccfa48f7e3daddef5fe5229a0093eb2f803742 )
 )
@@ -1889,10 +1889,36 @@ game (
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 268-p1cr.bin size 4194304 crc d0466792 sha1 880819933d997fab398f91061e9dbccb959ae8a1 )
 	rom ( name 268-p2cr.bin size 4194304 crc fbf6b61e sha1 9ec743d5988b5e3183f37f8edf45c72a8c0c893e )
-	rom ( name 268-m1.bin size 65536 crc 58b107d0 sha1 cc7fe66ff4f9c026cde4df06f86c848eb21f7af8 )
+	rom ( name 268-m1.bin size 524288 crc 4a5a6e0e sha1 df0f660f2465e1db7be5adfcaf5e88ad61a74a42 )
 	rom ( name 268-m1_decrypted.bin size 65536 crc 3c0655a7 sha1 ae839d4c2b87a7aa3dd8e5caddc43eb75ee9b732 )
 	rom ( name 268-v1c.bin size 8388608 crc ae31d60c sha1 c42285cf4e52fea74247860813e826df5aa7600a )
 	rom ( name 268-v2c.bin size 8388608 crc c40613ed sha1 af889570304e2867d7dfea1e94e388c06249fb67 )
+)
+
+game (
+	name mslug5h
+	description "Metal Slug 5 (set 2)"
+	year 2003
+	manufacturer "SNK Playmore"
+	cloneof mslug5
+	romof mslug5
+	rom ( name 268-c1c.bin merge 268-c1c.bin size 8388608 crc ab7c389a sha1 025a188de589500bf7637fa8e7a37ab24bf4312e )
+	rom ( name 268-c2c.bin merge 268-c2c.bin size 8388608 crc 3560881b sha1 493d218c92290b4770024d6ee2917c4022753b07 )
+	rom ( name 268-c3c.bin merge 268-c3c.bin size 8388608 crc 3af955ea sha1 cf36b6ae9b0d12744b17cb7a928399214de894be )
+	rom ( name 268-c4c.bin merge 268-c4c.bin size 8388608 crc c329c373 sha1 5073d4079958a0ef5426885af2c9e3178f37d5e0 )
+	rom ( name 268-c5c.bin merge 268-c5c.bin size 8388608 crc 959c8177 sha1 889bda7c65d71172e7d89194d1269561888fe789 )
+	rom ( name 268-c6c.bin merge 268-c6c.bin size 8388608 crc 010a831b sha1 aec140661e3ae35d264df416478ba15188544d91 )
+	rom ( name 268-c7c.bin merge 268-c7c.bin size 8388608 crc 6d72a969 sha1 968dd9a4d1209b770b9b85ea6532fa24d262a262 )
+	rom ( name 268-c8c.bin merge 268-c8c.bin size 8388608 crc 551d720e sha1 ebf69e334fcaba0fda6fd432fd0970283a365d12 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 268-p1cr2.bin size 4194304 crc 3636690a sha1 e0da714b4bdc6efffe1250ded02ebddb3ab6d7b3 )
+	rom ( name 268-p2cr2.bin size 4194304 crc 8dfc47a2 sha1 27d618cfbd0107a4d2a836797e967b39d2eb4851 )
+	rom ( name 268-m1h.bin size 524288 crc 4a5a6e0e sha1 df0f660f2465e1db7be5adfcaf5e88ad61a74a42 )
+	rom ( name 268-m1_decrypted.bin merge 268-m1_decrypted.bin size 65536 crc 3c0655a7 sha1 ae839d4c2b87a7aa3dd8e5caddc43eb75ee9b732 )
+	rom ( name 268-v1c.bin merge 268-v1c.bin size 8388608 crc ae31d60c sha1 c42285cf4e52fea74247860813e826df5aa7600a )
+	rom ( name 268-v2c.bin merge 268-v2c.bin size 8388608 crc c40613ed sha1 af889570304e2867d7dfea1e94e388c06249fb67 )
 )
 
 game (
@@ -2026,7 +2052,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 014-s1.bin size 131072 crc 99419733 sha1 b2524af8704941acc72282aa1d62fd4c93e3e822 )
-	rom ( name 014-m1.bin size 131072 crc b6683092 sha1 623ec7ec2915fb077bf65b4a16c815e071c25259 )
+	rom ( name 014-m1.bin size 131072 crc 2a97e84d sha1 3c3f0236ec261b48637ddff3d1dcd11ede4af300 )
 	rom ( name 014-v1.bin size 1048576 crc 25419296 sha1 c9fc04987c4e0875d276e1a0fb671740b6f548ad )
 	rom ( name 014-v2.bin size 1048576 crc 0de53d5e sha1 467f6040da3dfb1974785e95e14c3f608a93720a )
 	rom ( name 014-c1.bin size 1048576 crc 5e4381bf sha1 d429a5e09dafd2fb99495658b3652eecbf58f91b )
@@ -2045,10 +2071,10 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 001-s1.bin size 65536 crc 8ded55a5 sha1 27c8ffac16fbcc19c843d1b5b47ae8d8ef83d44a )
-	rom ( name 001-m1.bin size 65536 crc cd088502 sha1 939f745cd576905f326e6246a2eed78e9fa88178 )
-	rom ( name 001-v11.bin size 524288 crc a7c3d5e5 sha1 e3efc86940f91c53b7724c4566cfc21ea1a7a465 )
-	rom ( name 001-v21.bin size 524288 crc 55e670b3 sha1 a047049646a90b6db2d1882264df9256aa5a85e5 )
+	rom ( name 001-s1.bin size 131072 crc 7988ba51 sha1 bc2f661f381b06b34ac2fa215dd5689d3bf84832 )
+	rom ( name 001-m1.bin size 131072 crc 9e63843f sha1 4dcc642ff19636cfc5d294c125afee53cc3ff640 )
+	rom ( name 001-v1.bin size 524288 crc a7c3d5e5 sha1 e3efc86940f91c53b7724c4566cfc21ea1a7a465 )
+	rom ( name 001-v2.bin size 524288 crc 55e670b3 sha1 a047049646a90b6db2d1882264df9256aa5a85e5 )
 	rom ( name 001-v22.bin size 524288 crc ab0d8368 sha1 404114db9f3295929080b87a5d0106b40da6223a )
 	rom ( name 001-v23.bin size 524288 crc df468e28 sha1 4e5d4a709a4737a87bba4083aeb788f657862f1a )
 	rom ( name 001-c1.bin size 524288 crc 32ea98e1 sha1 c2fb3fb7dd14523a4b4b7fbdb81f44cb4cc48239 )
@@ -2107,7 +2133,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 207-s1.bin size 65536 crc 6c4b09c4 sha1 2e9eac88afab606fad6c439efba0f6490389dd5f )
+	rom ( name 207-s1.bin size 131072 crc 6aebafce sha1 5db03715fbed62f2ff3cef7f93606f30261c0362 )
 	rom ( name 207-m1.bin size 131072 crc 81eade02 sha1 d6d135bc525f3ed14a8c255f0b83d83a52b0659c )
 	rom ( name 207-v1.bin size 2097152 crc 4143c052 sha1 561b19bc8811b80f2f42ffc0b5df27132696470a )
 	rom ( name 207-c1.bin size 2097152 crc c7541b9d sha1 25ca1a2b14cc2648d8dbe432cbd1396017af822c )
@@ -2183,6 +2209,27 @@ game (
 )
 
 game (
+	name nitdbl
+	description "Nightmare in the Dark (bootleg)"
+	year 2001
+	manufacturer "bootleg"
+	cloneof nitd
+	romof nitd
+	rom ( name 260-p1bl.bin size 524288 crc 1a05bd1b sha1 7bbddef842d50b0778711063af695b168a76ff61 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 260-s1bl.bin size 131072 crc dd3bf47c sha1 881271caee6508b8be51bf1b59c8f1e58e08e551 )
+	rom ( name 260-m1.bin merge 260-m1.bin size 524288 crc 6407c5e5 sha1 d273e154cc905b63205a17a1a6d419cac3485a92 )
+	rom ( name 260-c1bl.bin size 2097152 crc b4353190 sha1 90d5352e243a05f5c2be4fa7475667bb56e78016 )
+	rom ( name 260-c2bl.bin size 2097152 crc 6e27511f sha1 1fc5cf7786ad0f0bc7b1623acabe605ad04af3c1 )
+	rom ( name 260-c3bl.bin size 2097152 crc 472cf075 sha1 7cdd25019e37a3d127e68a4179c051881df19afa )
+	rom ( name 260-c4bl.bin size 2097152 crc 4c3926e6 sha1 7fc54a9886dbef911f7b226e3cd20081c535e989 )
+	rom ( name 260-v1bl.bin size 2097152 crc 79008868 sha1 90bd6aaefd37341297ab1f4ae7246e52facd87d0 )
+	rom ( name 260-v2bl.bin size 2097152 crc 728558f9 sha1 309aa7c933c199b2e540a601b363e7af8744fe00 )
+)
+
+game (
 	name ncombat
 	description "Ninja Combat"
 	year 1990
@@ -2207,7 +2254,7 @@ game (
 )
 
 game (
-	name ncombata
+	name ncombath
 	description "Ninja Combat (set 2)"
 	year 1990
 	manufacturer "Alpha Denshi Co."
@@ -2327,7 +2374,7 @@ game (
 	year 1994
 	manufacturer "Eighting / Hudson"
 	romof neogeo
-	rom ( name 073-p1.bin size 262144 crc 0b21130d sha1 885c67347d33c0a4cd8c91b45c72959900d707a5 )
+	rom ( name 073-p1.bin size 524288 crc adc356ad sha1 801e0a54b65d7a3500e6cef2d6bba40c6356dc1f )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
@@ -2495,12 +2542,12 @@ game (
 	year 1994
 	manufacturer "Taito"
 	romof neogeo
-	rom ( name 083-p1.bin size 262144 crc 7c3c34e1 sha1 50fafb3529351c82a3656e6b07ab174a7bf8da0b )
+	rom ( name 083-p1.bin size 524288 crc 6102ca14 sha1 328429d11de5b327a0654ae0548da4d0025a2ae6 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 083-s1.bin size 131072 crc 9caae538 sha1 cf2d90a7c1a42107c0bb8b9a61397634286dbe0a )
-	rom ( name 083-m1.bin size 65536 crc 129e6054 sha1 4edd18c44759e7a140705f1544413c649131c551 )
+	rom ( name 083-m1.bin size 131072 crc f424368a sha1 5e5bbcaeb82bed2ee17df08f005ca20ad1030723 )
 	rom ( name 083-v3.bin size 1048576 crc 0840cbc4 sha1 1adbd7aef44fa80832f63dfb8efdf69fd7256a57 )
 	rom ( name 083-v4.bin size 524288 crc 0a548948 sha1 e1e4afd17811cb60401c14fbcf0465035165f4fb )
 	rom ( name 083-c5.bin size 524288 crc e89ad494 sha1 69c9ea415773af94ac44c48af05d55ada222b138 )
@@ -2514,12 +2561,12 @@ game (
 	manufacturer "Taito"
 	cloneof pbobblen
 	romof pbobblen
-	rom ( name 083-p1.rom size 262144 crc d6efe86f sha1 f80a0b291c2e88dd894851bd14fa8cf7523fb7fe )
+	rom ( name 083-p1.rom size 524288 crc ac1e9ef3 sha1 a2b125ee70869667431ab125bc29e768500802ad )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 083-s1.bin merge 083-s1.bin size 131072 crc 9caae538 sha1 cf2d90a7c1a42107c0bb8b9a61397634286dbe0a )
-	rom ( name 083-m1.bin merge 083-m1.bin size 65536 crc 129e6054 sha1 4edd18c44759e7a140705f1544413c649131c551 )
+	rom ( name 083-m1.bin merge 083-m1.bin size 131072 crc f424368a sha1 5e5bbcaeb82bed2ee17df08f005ca20ad1030723 )
 	rom ( name 083-v3.bin merge 083-v3.bin size 1048576 crc 0840cbc4 sha1 1adbd7aef44fa80832f63dfb8efdf69fd7256a57 )
 	rom ( name 083-v4.bin merge 083-v4.bin size 524288 crc 0a548948 sha1 e1e4afd17811cb60401c14fbcf0465035165f4fb )
 	rom ( name 083-c5.bin merge 083-c5.bin size 524288 crc e89ad494 sha1 69c9ea415773af94ac44c48af05d55ada222b138 )
@@ -2556,7 +2603,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 202-s1.bin size 65536 crc 4a421612 sha1 8a79055be7bf6e2c344a72d6afe6a33be3d4a6c3 )
+	rom ( name 202-s1.bin size 131072 crc cd19264f sha1 531be2305cd56d332fb7a53ab924214ade34a9e8 )
 	rom ( name 202-m1.bin size 131072 crc 9c0291ea sha1 3fa67c62acba79be6b3a98cc1601e45569fa11ae )
 	rom ( name 202-v1.bin size 524288 crc debeb8fb sha1 49a3d3578c087f1a0050168571ef8d1b08c5dc05 )
 	rom ( name 202-c1.bin size 1048576 crc cc0095ef sha1 3d86f455e6db10a2449b775dc386f1826ba3b62e )
@@ -2592,9 +2639,9 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 021-s1.bin size 131072 crc 6956d778 sha1 e3757776d60dc07d8e07c9ca61b223b14732f860 )
-	rom ( name 021-m1.bin size 65536 crc 058683ec sha1 2aff3dc18d078911ed3a09d48664faf5958b4ab5 )
-	rom ( name 021-v1.bin size 524288 crc 66c1e5c4 sha1 7e85420021d4c39c36ed75a1cec567c5610ffce0 )
-	rom ( name 021-v2.bin size 524288 crc 8ed20a86 sha1 d15cba5eac19ea56fdd4877541f1bb3eb755ebba )
+	rom ( name 021-m1.bin size 131072 crc ba5e0946 sha1 247ab832de9054e6a7a381a15f1eae44e41250b9 )
+	rom ( name 021-v11.bin size 524288 crc 66c1e5c4 sha1 7e85420021d4c39c36ed75a1cec567c5610ffce0 )
+	rom ( name 021-v21.bin size 524288 crc 8ed20a86 sha1 d15cba5eac19ea56fdd4877541f1bb3eb755ebba )
 	rom ( name 021-c1.bin size 524288 crc 509250ec sha1 d6ddb16d8222088f153a85a905bcb99541a5f2cf )
 	rom ( name 021-c2.bin size 524288 crc 09ed5258 sha1 6bf50cd10236e29146b49e714a0e0ebcfe30a682 )
 )
@@ -2675,8 +2722,8 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 264-p1.bin size 8388608 crc b8cc969d sha1 4f2205b4bdd32dd1522106ef4df10ac0eb1b852d )
-	rom ( name 264-m1.bin size 65536 crc 9abd048c sha1 f96eecb419362bcac50ea4f48a707bdf4375ce9a )
-	rom ( name 264-m1_decrypted.bin size 65536 crc 7e06206d sha1 ba32dd6ffbfbf532bba9bed4c2d70cfbe959ac23 )
+	rom ( name 264-m1.bin size 131072 crc 4dbd7b43 sha1 6b63756b0d2d30bbf13fbd219833c81fd060ef96 )
+	rom ( name 264-m1_decrypted.bin size 131072 crc c5d36af9 sha1 320739d0cfa6cc84455ae1f7b1f9cdab3c018933 )
 	rom ( name 264-v1.bin size 8388608 crc fa005812 sha1 73723126dab5a640ac11955ed6da1bf7a91394f5 )
 	rom ( name 264-v2.bin size 8388608 crc c3dc8bf0 sha1 a105e37262d9500a30fb8a5dac05aa4fab2562a3 )
 )
@@ -2701,7 +2748,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name rodn_s1.rom size 131072 crc c155d4ff sha1 cc20d4e30004ca82da2ba075c084d294c94651d0 )
-	rom ( name 264-m1_decrypted.bin merge 264-m1_decrypted.bin size 65536 crc 7e06206d sha1 ba32dd6ffbfbf532bba9bed4c2d70cfbe959ac23 )
+	rom ( name 264-m1_decrypted.bin merge 264-m1_decrypted.bin size 131072 crc c5d36af9 sha1 320739d0cfa6cc84455ae1f7b1f9cdab3c018933 )
 	rom ( name 264-v1.bin merge 264-v1.bin size 8388608 crc fa005812 sha1 73723126dab5a640ac11955ed6da1bf7a91394f5 )
 	rom ( name 264-v2.bin merge 264-v2.bin size 8388608 crc c3dc8bf0 sha1 a105e37262d9500a30fb8a5dac05aa4fab2562a3 )
 )
@@ -2771,6 +2818,34 @@ game (
 	rom ( name 095-c6.bin size 4194304 crc 3e164718 sha1 53217f938c8964c1ca68a6fd5249c4169a5ac8e6 )
 	rom ( name 095-c7.bin size 2097152 crc ca605e12 sha1 5150b835247fd705bc1dece97d423d9c20a51416 )
 	rom ( name 095-c8.bin size 2097152 crc 4e6beb6c sha1 c0ac7cfc832ace6ad52c58f5da3a8101baead749 )
+)
+
+game (
+	name rbff1a
+	description "Real Bout Fatal Fury (set 2)"
+	year 1995
+	manufacturer "SNK"
+	cloneof rbff1
+	romof rbff1
+	rom ( name 095-p1.bin merge 095-p1.bin size 1048576 crc 63b4d8ae sha1 03aa9f6bab6aee685d1b57a52823797704eea845 )
+	rom ( name 095-p2.bin merge 095-p2.bin size 2097152 crc cc15826e sha1 44d6ac6c0ca697a6f367dcfd809b1e1771cb0635 )
+	rom ( name 095-ep1.bin size 524288 crc be0060a3 sha1 fa741d34898ad5004a23e280139d1446f1a082c7 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 095-s1.bin merge 095-s1.bin size 131072 crc b6bf5e08 sha1 b527355c35ea097f3448676f2ffa65b8e56ae30c )
+	rom ( name 095-m1.bin merge 095-m1.bin size 131072 crc 653492a7 sha1 39e511fb9ed5d2135dc8428a31d0baafb2ab36e0 )
+	rom ( name 069-v1.bin merge 069-v1.bin size 4194304 crc 2bdbd4db sha1 5f4fecf69c2329d699cbd45829c19303b1e2a80e )
+	rom ( name 069-v2.bin merge 069-v2.bin size 4194304 crc a698a487 sha1 11b8bc53bc26a51f4a408e900e3769958625c4ed )
+	rom ( name 095-v3.bin merge 095-v3.bin size 4194304 crc 189d1c6c sha1 f0b8cd1ee40ea3feeb2800f0723b451ec8240203 )
+	rom ( name 069-c1.bin merge 069-c1.bin size 4194304 crc e302f93c sha1 d8610b14900b2b8fe691b67ca9b1abb335dbff74 )
+	rom ( name 069-c2.bin merge 069-c2.bin size 4194304 crc 1053a455 sha1 69501bfac68739e63d798045b812badd251d57b8 )
+	rom ( name 069-c3.bin merge 069-c3.bin size 4194304 crc 1c0fde2f sha1 cf6c2ef56c03a861de3b0b6dc0d7c9204d947f9d )
+	rom ( name 069-c4.bin merge 069-c4.bin size 4194304 crc a25fc3d0 sha1 83cb349e2f1032652060b233e741fb893be5af16 )
+	rom ( name 095-c5.bin merge 095-c5.bin size 4194304 crc 8b9b65df sha1 e2a7e20855501f240bcd22f5cc92fcb4a9806abe )
+	rom ( name 095-c6.bin merge 095-c6.bin size 4194304 crc 3e164718 sha1 53217f938c8964c1ca68a6fd5249c4169a5ac8e6 )
+	rom ( name 095-c7.bin merge 095-c7.bin size 2097152 crc ca605e12 sha1 5150b835247fd705bc1dece97d423d9c20a51416 )
+	rom ( name 095-c8.bin merge 095-c8.bin size 2097152 crc 4e6beb6c sha1 c0ac7cfc832ace6ad52c58f5da3a8101baead749 )
 )
 
 game (
@@ -3127,8 +3202,8 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 270-p1b.bin size 4194304 crc b6cbe386 sha1 99c2407361116c2b2c5fe72df53e05c5f99163c1 )
-	rom ( name 270-p2b.bin size 4194304 crc 5023067f sha1 b1d682fa7d158f19664356a919da6572e8cfeee0 )
+	rom ( name 270-p1bl.bin size 4194304 crc b6cbe386 sha1 99c2407361116c2b2c5fe72df53e05c5f99163c1 )
+	rom ( name 270-p2bl.bin size 4194304 crc 5023067f sha1 b1d682fa7d158f19664356a919da6572e8cfeee0 )
 	rom ( name 270-m1.bin merge 270-m1.bin size 524288 crc 49c9901a sha1 2623e9765a0eba58fee2de72851e9dc502344a3d )
 	rom ( name 270-m1_decrypted.bin merge 270-m1_decrypted.bin size 262144 crc e94a5e2b sha1 53ef2ad6583060af69fdde73576e09ba88affa55 )
 	rom ( name 270-v1.bin merge 270-v1.bin size 8388608 crc 62e434eb sha1 1985f5e88f8e866f9683b6cea901aa28c04b80bf )
@@ -3449,7 +3524,7 @@ game (
 	name svcpcb
 	description "SNK Vs. CAPCOM (dedicated PCB)"
 	year 2003
-	manufacturer "Playmore"
+	manufacturer "SNK Playmore"
 	romof neogeo
 	rom ( name 269-c1.bin size 33554432 crc 1b608f9c sha1 4e70ad182da2ca18815bd3936efb04a06ebce01e )
 	rom ( name 269-c2.bin size 33554432 crc 5a95f294 sha1 6123cc7b20b494076185d27c2ffea910e124b195 )
@@ -3457,8 +3532,8 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 269-p1.bin size 33554432 crc 432cfdfc sha1 19b40d32188a8bace6d2d570c6cf3d2f1e31e379 )
-	rom ( name 269-m1.bin size 131072 crc 7d337756 sha1 205b8b5be7acc8d564fe17835795f25b13c27d7a )
-	rom ( name 269-m1_decrypted.bin size 131072 crc 447b3123 sha1 a09adc2c0ee2ee0f01287ceb97474a1a58093bd2 )
+	rom ( name 269-m1.bin size 524288 crc f6819d00 sha1 d3bbe09df502464f104e53501708ac6e2c1832c6 )
+	rom ( name 269-m1_decrypted.bin size 524288 crc 7b7bf462 sha1 7466a6962de5242f71b9c52d7bd21a9832115e11 )
 	rom ( name 269-v1.bin size 8388608 crc c659b34c sha1 1931e8111ef43946f68699f8707334c96f753a1e )
 	rom ( name 269-v2.bin size 8388608 crc dd903835 sha1 e58d38950a7a8697bb22a1cc7a371ae6664ae8f9 )
 )
@@ -3467,7 +3542,7 @@ game (
 	name svcpcba
 	description "SNK Vs. CAPCOM (dedicated PCB set 2)"
 	year 2003
-	manufacturer "Playmore"
+	manufacturer "SNK Playmore"
 	cloneof svcpcb
 	romof svcpcb
 	rom ( name 269-c1a.bin size 16777216 crc e64d2b0c sha1 0714198c400e5c273181e4c6f906b49e35fef75d )
@@ -3479,8 +3554,8 @@ game (
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 269-p1a.bin size 4194304 crc 38e2005e sha1 1b902905916a30969282f1399a756e32ff069097 )
 	rom ( name 269-p2a.bin size 4194304 crc 6d13797c sha1 3cb71a95cea6b006b44cac0f547df88aec0007b7 )
-	rom ( name 269-m1.bin merge 269-m1.bin size 131072 crc 7d337756 sha1 205b8b5be7acc8d564fe17835795f25b13c27d7a )
-	rom ( name 269-m1_decrypted.bin merge 269-m1_decrypted.bin size 131072 crc 447b3123 sha1 a09adc2c0ee2ee0f01287ceb97474a1a58093bd2 )
+	rom ( name 269-m1.bin merge 269-m1.bin size 524288 crc f6819d00 sha1 d3bbe09df502464f104e53501708ac6e2c1832c6 )
+	rom ( name 269-m1_decrypted.bin merge 269-m1_decrypted.bin size 524288 crc 7b7bf462 sha1 7466a6962de5242f71b9c52d7bd21a9832115e11 )
 	rom ( name 269-v1a.bin size 16777216 crc a6af4753 sha1 ec4f61a526b707a7faec4653b773beb3bf3a17ba )
 )
 
@@ -3488,7 +3563,7 @@ game (
 	name svc
 	description "SNK Vs. CAPCOM"
 	year 2003
-	manufacturer "Playmore"
+	manufacturer "SNK Playmore"
 	romof neogeo
 	rom ( name 269-c1r.bin size 8388608 crc 887b4068 sha1 227cdcf7a10a415f1e3afe7ae97acc9afc2cc8e1 )
 	rom ( name 269-c2r.bin size 8388608 crc 4e8903e4 sha1 31daaa4fd6c23e8f0a8428931c513d97d2eee1bd )
@@ -3503,8 +3578,8 @@ game (
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 269-p1.bin size 4194304 crc 38e2005e sha1 1b902905916a30969282f1399a756e32ff069097 )
 	rom ( name 269-p2.bin size 4194304 crc 6d13797c sha1 3cb71a95cea6b006b44cac0f547df88aec0007b7 )
-	rom ( name 269-m1.bin size 131072 crc 7d337756 sha1 205b8b5be7acc8d564fe17835795f25b13c27d7a )
-	rom ( name 269-m1_decrypted.bin size 131072 crc 447b3123 sha1 a09adc2c0ee2ee0f01287ceb97474a1a58093bd2 )
+	rom ( name 269-m1.bin size 524288 crc f6819d00 sha1 d3bbe09df502464f104e53501708ac6e2c1832c6 )
+	rom ( name 269-m1_decrypted.bin size 524288 crc 7b7bf462 sha1 7466a6962de5242f71b9c52d7bd21a9832115e11 )
 	rom ( name 269-v1.bin size 8388608 crc c659b34c sha1 1931e8111ef43946f68699f8707334c96f753a1e )
 	rom ( name 269-v2.bin size 8388608 crc dd903835 sha1 e58d38950a7a8697bb22a1cc7a371ae6664ae8f9 )
 )
@@ -3529,7 +3604,7 @@ game (
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 269-p1.bin merge 269-p1.bin size 4194304 crc 38e2005e sha1 1b902905916a30969282f1399a756e32ff069097 )
 	rom ( name 269-p2.bin merge 269-p2.bin size 4194304 crc 6d13797c sha1 3cb71a95cea6b006b44cac0f547df88aec0007b7 )
-	rom ( name 269-m1_decrypted.bin merge 269-m1_decrypted.bin size 131072 crc 447b3123 sha1 a09adc2c0ee2ee0f01287ceb97474a1a58093bd2 )
+	rom ( name 269-m1_decrypted.bin merge 269-m1_decrypted.bin size 524288 crc 7b7bf462 sha1 7466a6962de5242f71b9c52d7bd21a9832115e11 )
 	rom ( name 269-v1.bin merge 269-v1.bin size 8388608 crc c659b34c sha1 1931e8111ef43946f68699f8707334c96f753a1e )
 	rom ( name 269-v2.bin merge 269-v2.bin size 8388608 crc dd903835 sha1 e58d38950a7a8697bb22a1cc7a371ae6664ae8f9 )
 )
@@ -3656,14 +3731,35 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 031-s1.bin size 65536 crc 2db38c3b sha1 8f23b32f3abd3faed0ca238938ce6a2b6d75ee10 )
-	rom ( name 031-m1.bin size 65536 crc 2f38d5d3 sha1 0fc01750277e554978e68e7e6d596f8bd6b1e178 )
+	rom ( name 031-s1.bin size 131072 crc 4c117174 sha1 26e52c4f628338a9aa1c159517cdf873f738fb98 )
+	rom ( name 031-m1.bin size 131072 crc 3aa4e9e1 sha1 65e53d799a0cb55b5bc55d57773e4682a72d7c2d )
 	rom ( name 031-v1.bin size 1048576 crc cc78497e sha1 895bd647150fae9b2259ef043ed681f4c4de66ea )
 	rom ( name 031-v2.bin size 1048576 crc dda043c6 sha1 08165a59700ab6b1e523079dd2a3549e520cc594 )
 	rom ( name 031-c1.bin size 1048576 crc bd0a4eb8 sha1 b67988cb3e550d083e81c9bd436da55b242785ed )
 	rom ( name 031-c2.bin size 1048576 crc efde5382 sha1 e42789c8d87ee3d4549d0a903e990c03338cbbd8 )
 	rom ( name 031-c3.bin size 524288 crc 580f7f33 sha1 f4f95a7c8de00e1366a723fc4cd0e8c1905af636 )
 	rom ( name 031-c4.bin size 524288 crc ed297de8 sha1 616f8fa4c86231f3e79faf9f69f8bb909cbc35f0 )
+)
+
+game (
+	name socbrala
+	description "Soccer Brawl (alternate set)"
+	year 1991
+	manufacturer "SNK"
+	cloneof socbrawl
+	romof socbrawl
+	rom ( name 031-pg1.bin size 524288 crc 17f034a7 sha1 2e66c7bd93a08efe63c4894494db50bbf58f60e4 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 031-s1.bin merge 031-s1.bin size 131072 crc 4c117174 sha1 26e52c4f628338a9aa1c159517cdf873f738fb98 )
+	rom ( name 031-m1.bin merge 031-m1.bin size 131072 crc 3aa4e9e1 sha1 65e53d799a0cb55b5bc55d57773e4682a72d7c2d )
+	rom ( name 031-v1.bin merge 031-v1.bin size 1048576 crc cc78497e sha1 895bd647150fae9b2259ef043ed681f4c4de66ea )
+	rom ( name 031-v2.bin merge 031-v2.bin size 1048576 crc dda043c6 sha1 08165a59700ab6b1e523079dd2a3549e520cc594 )
+	rom ( name 031-c1.bin merge 031-c1.bin size 1048576 crc bd0a4eb8 sha1 b67988cb3e550d083e81c9bd436da55b242785ed )
+	rom ( name 031-c2.bin merge 031-c2.bin size 1048576 crc efde5382 sha1 e42789c8d87ee3d4549d0a903e990c03338cbbd8 )
+	rom ( name 031-c3.bin merge 031-c3.bin size 524288 crc 580f7f33 sha1 f4f95a7c8de00e1366a723fc4cd0e8c1905af636 )
+	rom ( name 031-c4.bin merge 031-c4.bin size 524288 crc ed297de8 sha1 616f8fa4c86231f3e79faf9f69f8bb909cbc35f0 )
 )
 
 game (
@@ -3794,7 +3890,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 079-s1.bin size 131072 crc 3ac06665 sha1 ba9ab51eb95c3568304377ef6d7b5f32e8fbcde1 )
-	rom ( name 079-m1.bin size 65536 crc 1a5f08db sha1 3121ed568fba4c30794b00d326ddb0c750b7f4ee )
+	rom ( name 079-m1.bin size 131072 crc bee3455a sha1 fd5345d9847982085a9b364fff542580889bf02f )
 	rom ( name 079-v1.bin size 2097152 crc 718a2400 sha1 cefc5d0b302bd4a87ab1fa244ade4482c23c6806 )
 	rom ( name 079-v2.bin size 524288 crc b19884f8 sha1 5fe910f2029da19ddab4dc95c2292d7fbb086741 )
 	rom ( name 079-c1.bin size 2097152 crc 0581c72a sha1 453f7a8474195a1120da5fa24337d79674563d9e )
@@ -3850,7 +3946,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 203-s1.bin size 131072 crc 4e132fac sha1 ecc5552880cc0a771121efe2a60810b70f6121ff )
+	rom ( name 203-s1.bin size 131072 crc bfdc8309 sha1 781337eab932a130b396a6c1080611d6f9c24c6e )
 	rom ( name 203-m1.bin size 131072 crc a602c2c2 sha1 19fd5d0379244c528b58343f6cbf78b4766fb23d )
 	rom ( name 203-v1.bin size 2097152 crc baa2b9a5 sha1 914782b6c81d9a76ce02251575592b0648434ba3 )
 	rom ( name 203-c1.bin size 2097152 crc bba9e8c0 sha1 db89b7275a59ae6104a8308025c7e142a67b947b )
@@ -3868,7 +3964,7 @@ game (
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 086-s1.bin size 131072 crc 6f5e2b3a sha1 273341489f6625d35a4a920042a60e2b86373847 )
-	rom ( name 086-m1.bin size 65536 crc 860ba8c7 sha1 6457964fd2fdda1d4f57787fff0cec76b47692cb )
+	rom ( name 086-m1.bin size 131072 crc cb82bc5d sha1 8e3ecabec25d89adb6e0eed0ef5f94d34a4d5fc0 )
 	rom ( name 086-v1.bin size 2097152 crc 97bf1986 sha1 b80d3a37e18d0a52f1e0092dc300989c9647efd1 )
 	rom ( name 086-v2.bin size 2097152 crc b7eb05df sha1 ff2b55c7021c248cfdcfc9cd3658f2896bcbca38 )
 	rom ( name 086-c1.bin size 4194304 crc 2611bc2a sha1 bb5a96acd4a90fcb41c49cc8e9f760c4a06d6b84 )
@@ -4086,7 +4182,7 @@ game (
 	year 1998
 	manufacturer "SNK"
 	romof neogeo
-	rom ( name yz98-p1.160 size 2097152 crc 8893df89 sha1 0452828785110601c65f667209fc2d2926cd3751 )
+	rom ( name 242-p1.bin size 2097152 crc 8893df89 sha1 0452828785110601c65f667209fc2d2926cd3751 )
 	rom ( name 242-p2.bin size 4194304 crc 980aba4c sha1 5e735929ec6c3ca5b2efae3c7de47bcbb8ade2c5 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
@@ -4114,7 +4210,7 @@ game (
 	manufacturer "SNK"
 	cloneof kof98
 	romof kof98
-	rom ( name yz98-p1.160 merge yz98-p1.160 size 2097152 crc 8893df89 sha1 0452828785110601c65f667209fc2d2926cd3751 )
+	rom ( name 242-p1.bin merge 242-p1.bin size 2097152 crc 8893df89 sha1 0452828785110601c65f667209fc2d2926cd3751 )
 	rom ( name 242-p2.bin merge 242-p2.bin size 4194304 crc 980aba4c sha1 5e735929ec6c3ca5b2efae3c7de47bcbb8ade2c5 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
@@ -4142,7 +4238,7 @@ game (
 	manufacturer "SNK"
 	cloneof kof98
 	romof kof98
-	rom ( name 242-p1.bin size 1048576 crc 61ac868a sha1 26577264aa72d6af272952a876fcd3775f53e3fa )
+	rom ( name 242-pn1.bin size 1048576 crc 61ac868a sha1 26577264aa72d6af272952a876fcd3775f53e3fa )
 	rom ( name 242-p2.bin merge 242-p2.bin size 4194304 crc 980aba4c sha1 5e735929ec6c3ca5b2efae3c7de47bcbb8ade2c5 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
@@ -4729,6 +4825,33 @@ game (
 )
 
 game (
+	name kof2003h
+	description "The King of Fighters 2003 (set 2)"
+	year 2003
+	manufacturer "SNK Playmore"
+	cloneof kof2003
+	romof kof2003
+	rom ( name 271-c1k.bin size 8388608 crc efb9dd24 sha1 1c6fe10fdbfc3306c3b7321c731f28ffdbfb15b8 )
+	rom ( name 271-c2k.bin size 8388608 crc 3fb90447 sha1 04d196de7c54c77bc75eba56d3060d46efc2d406 )
+	rom ( name 271-c3k.bin size 8388608 crc 27950f28 sha1 924f4de61c86b9efde6f1104b986886f1117055d )
+	rom ( name 271-c4k.bin size 8388608 crc 735177f8 sha1 c95da1bc256995a7f44c9cc3312879ab6cbc15d6 )
+	rom ( name 271-c5k.bin size 8388608 crc a51b7c0f sha1 53dcf692b35b8d32abe5962ac799b8d641f04710 )
+	rom ( name 271-c6k.bin size 8388608 crc d5cae4e0 sha1 248cd9eaac7a04d6b5d80c7534de90b057d566d7 )
+	rom ( name 271-c7k.bin size 8388608 crc e65ae2d0 sha1 39744e10697d7ac539ecfcfa597e75597f321955 )
+	rom ( name 271-c8k.bin size 8388608 crc 312f528c sha1 b4ad75f54f730ada6cb00112b74022250f055725 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 271-p1k.bin size 4194304 crc d0d0ae3e sha1 538d054ac50c91694fbbfefcce548b063713e14e )
+	rom ( name 271-p2k.bin size 4194304 crc fb3f79d9 sha1 f253d10e732d6e23ae82d74ac9269d21f69ddb4d )
+	rom ( name 271-p3k.bin size 1048576 crc 232702ad sha1 6045046027dac1cbd4cbd14b5c1ece522bc6197f )
+	rom ( name 271-m1k.bin size 524288 crc 48d9affe sha1 68f01560b91bbada39001ce01bdeeed5c9bb29f2 )
+	rom ( name 271-m1_decrypted.bin merge 271-m1_decrypted.bin size 524288 crc 0e86af8f sha1 769102b67bb1a699cfa5674d66cdb46ae633cb65 )
+	rom ( name 271-v1c.bin merge 271-v1c.bin size 8388608 crc ffa3f8c7 sha1 7cf4a933973ca23b7f87c81151d8659e6ec4bd20 )
+	rom ( name 271-v2c.bin merge 271-v2c.bin size 8388608 crc 5382c7d1 sha1 1bf999705eda80ba1e7b0d6bdd010d9bfb18bd76 )
+)
+
+game (
 	name kof2k3nd
 	description "The King of Fighters 2003 (decrypted C)"
 	year 2003
@@ -5087,8 +5210,8 @@ game (
 	year 1998
 	manufacturer "SNK"
 	romof neogeo
-	rom ( name 243-p1.bin size 1048576 crc af1e6554 sha1 bd8526f60c2472937728a5d933fbd19d899f2cba )
-	rom ( name 243-p2.bin size 4194304 crc add4a30b sha1 7db62564db49fe0218cbb35b119d62582a24d658 )
+	rom ( name 243-pg1.bin size 1048576 crc af1e6554 sha1 bd8526f60c2472937728a5d933fbd19d899f2cba )
+	rom ( name 243-pg2.bin size 4194304 crc add4a30b sha1 7db62564db49fe0218cbb35b119d62582a24d658 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
@@ -5113,15 +5236,15 @@ game (
 	manufacturer "SNK"
 	romof neogeo
 	rom ( name 011-p1.bin size 524288 crc c7f944b5 sha1 da7560e09187c68f1d9f7656218497b4464c56c9 )
-	rom ( name 011-p2.bin size 131072 crc 811a4faf sha1 8169dfaf79f52d80ecec402ce1b1ab9cafb7ebdd )
+	rom ( name 011-sp2.bin size 131072 crc 811a4faf sha1 8169dfaf79f52d80ecec402ce1b1ab9cafb7ebdd )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
 	rom ( name 011-s1.bin size 131072 crc ec5fdb96 sha1 8003028025ac7bf531e568add6ba66c02d0b7e84 )
-	rom ( name 011-m1.bin size 131072 crc d59d5d12 sha1 0692b6f35c9ee3840f945703c4eb51ab83eb0714 )
+	rom ( name 011-m1.bin size 131072 crc 6f737b5a sha1 d52f7b6786b6e33f09ba0cf30889082c1dfb9336 )
 	rom ( name 011-v11.bin size 1048576 crc 5c674d5c sha1 d7b9beddeb247b584cea9ca6c43ec6869809b673 )
-	rom ( name 011-v12.bin size 1048576 crc 7df8898b sha1 23dd6df47fa51b210af800ae551295300e125106 )
-	rom ( name 011-v21.bin size 1048576 crc 1ebe94c7 sha1 c186810523a7df880cb080c62aa322bbcaefca17 )
+	rom ( name 011-v12.bin size 524288 crc 9f513d5a sha1 37b04962f0b8e2a74abd35c407337a6151dc4e95 )
+	rom ( name 011-v21.bin size 524288 crc 426cd040 sha1 b2b45189837c8287223c2b8bd4df9525b72a3f16 )
 	rom ( name 011-c1.bin size 1048576 crc cae7be57 sha1 43b35b349594535689c358d9f324adda55e5281a )
 	rom ( name 011-c2.bin size 1048576 crc 9e29d986 sha1 b417763bad1acf76116cd56f4203c2d2677e22e5 )
 	rom ( name 011-c3.bin size 1048576 crc 14832ff2 sha1 1179792d773d97d5e45e7d8f009051d362d72e24 )
@@ -5262,8 +5385,8 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 051-s1.bin size 65536 crc 6d0f146a sha1 537fc5ef099f46fef64d147c0d1264b319758b4f )
-	rom ( name 051-m1.bin size 65536 crc d57bd7af sha1 9ed766dbc3c07dbba7869ff335eeb7e297c8e2d9 )
+	rom ( name 051-s1.bin size 131072 crc 9fea5758 sha1 5c6f01da89f2639cf741ee7c39e27023b8083052 )
+	rom ( name 051-m1.bin size 131072 crc 8e69f29a sha1 7a25f4997996434ea1b7d0d1ca9e7aaf966cbd03 )
 	rom ( name 051-v1.bin size 2097152 crc 019978b6 sha1 7896a551115fc6ed38b5944e0c8dcb2b2c1c077d )
 	rom ( name 051-v2.bin size 2097152 crc 5758f38c sha1 da10f4b7d22d9139bbf068bd940be82168a74ca1 )
 	rom ( name 051-c1.bin size 2097152 crc d624c132 sha1 49c7e9f020cba45d7083b45252bcc03397f8c286 )
@@ -5346,8 +5469,8 @@ game (
 	year 1992
 	manufacturer "Alpha Denshi Co."
 	romof neogeo
-	rom ( name 053-p1.bin size 524288 crc 95b574cb sha1 b7b7af6a04c3d902e7f8852897741ecaf0b1062c )
-	rom ( name 053-p2.bin size 524288 crc f198ed45 sha1 24ccc091e97f63796562bb5b30df51f39bd504ef )
+	rom ( name 053-p1.bin size 524288 crc d42e1e9a sha1 9d1911fe4bf6202466ec45557dd008cbf01ca9c6 )
+	rom ( name 053-p2.bin size 524288 crc 0e33e8a3 sha1 4b7086edb504f3c30529d51ba8f453d48eba5164 )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
@@ -5363,13 +5486,35 @@ game (
 
 game (
 	name wh1h
-	description "World Heroes (alternate set)"
+	description "World Heroes (set 2)"
 	year 1992
 	manufacturer "Alpha Denshi Co."
 	cloneof wh1
 	romof wh1
-	rom ( name 053-p1.rom size 524288 crc ed29fde2 sha1 52b8ca5b804f786f95e1dfb348d8c7b82f1d4ddf )
-	rom ( name 053-p2.rom size 524288 crc 98f2b158 sha1 a64e1425970eb53cc910891db39973dee3d54ccc )
+	rom ( name 053-p1.rom size 524288 crc 95b574cb sha1 b7b7af6a04c3d902e7f8852897741ecaf0b1062c )
+	rom ( name 053-p2.rom size 524288 crc f198ed45 sha1 24ccc091e97f63796562bb5b30df51f39bd504ef )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 053-s1.bin merge 053-s1.bin size 131072 crc 8c2c2d6b sha1 87fa79611c6f8886dcc8766814829c669c65b40f )
+	rom ( name 053-m1.bin merge 053-m1.bin size 131072 crc 1bd9d04b sha1 65cd7b002123ed1a3111e3d942608d0082799ff3 )
+	rom ( name 053-v2.bin merge 053-v2.bin size 2097152 crc a68df485 sha1 007fa715423fba72c899cd3db3f4bec13281cf7a )
+	rom ( name 053-v4.bin merge 053-v4.bin size 1048576 crc 7bea8f66 sha1 428e8721bd87f7faa756adb1e12672219be46c1d )
+	rom ( name 053-c1.bin merge 053-c1.bin size 2097152 crc 85eb5bce sha1 3d03d29296ca6e6b5106aac4aaeec9d4b4ed1313 )
+	rom ( name 053-c2.bin merge 053-c2.bin size 2097152 crc ec93b048 sha1 d4159210df94e259f874a4671d271ec27be13451 )
+	rom ( name 053-c3.bin merge 053-c3.bin size 1048576 crc 0dd64965 sha1 e97b3b8a461da5e8861b3dfdacb25e007ced37a1 )
+	rom ( name 053-c4.bin merge 053-c4.bin size 1048576 crc 9270d954 sha1 a2ef909868f6b06cdcc22a63ddf6c96be12b999c )
+)
+
+game (
+	name wh1ha
+	description "World Heroes (set 3)"
+	year 1992
+	manufacturer "Alpha Denshi Co."
+	cloneof wh1
+	romof wh1
+	rom ( name 053-p1a.bin size 524288 crc ed29fde2 sha1 52b8ca5b804f786f95e1dfb348d8c7b82f1d4ddf )
+	rom ( name 053-p2a.bin size 524288 crc 98f2b158 sha1 a64e1425970eb53cc910891db39973dee3d54ccc )
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
@@ -5419,6 +5564,27 @@ game (
 	rom ( name 064-m1.bin size 131072 crc d2eec9d3 sha1 09478787045f1448d19d064dd3d540d1741fd619 )
 	rom ( name 064-v1.bin size 2097152 crc aa277109 sha1 35c22b15bb0a4d0ab118cb22a2d450d03995a17c )
 	rom ( name 064-v2.bin size 2097152 crc b6527edd sha1 2bcf5bfa6e117cf4a3728a5e5f5771313c93f22a )
+	rom ( name 064-c13.bin size 4194304 crc 771a6365 sha1 646bdf3a79819fbca98f513c172b9e9500c073be )
+	rom ( name 064-c24.bin size 4194304 crc e7863a05 sha1 39d34119137216f914b8b8b7b3e622a6c210f130 )
+	rom ( name 064-c57.bin size 4194304 crc 64594ed4 sha1 982dbb932c0cb2eb9292bf19c463fd618c8180f3 )
+	rom ( name 064-c68.bin size 4194304 crc 6e385398 sha1 e74a0e72876bff8766152b76e5d94f2958b03cf2 )
+)
+
+game (
+	name wh2jh
+	description "World Heroes 2 Jet (alternate set)"
+	year 1994
+	manufacturer "ADK / SNK"
+	cloneof wh2j
+	romof wh2j
+	rom ( name 064-p1.bin merge 064-p1.bin size 2097152 crc 385a2e86 sha1 cfde4a1aeae038a3d6ca9946065624f097682d3d )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
+	rom ( name 064-s1.bin merge 064-s1.bin size 131072 crc 2a03998a sha1 5e33f469982f12d4622a06d323a345f192bf88e6 )
+	rom ( name 064-m1.bin merge 064-m1.bin size 131072 crc d2eec9d3 sha1 09478787045f1448d19d064dd3d540d1741fd619 )
+	rom ( name 064-v1.bin merge 064-v1.bin size 2097152 crc aa277109 sha1 35c22b15bb0a4d0ab118cb22a2d450d03995a17c )
+	rom ( name 064-v2.bin merge 064-v2.bin size 2097152 crc b6527edd sha1 2bcf5bfa6e117cf4a3728a5e5f5771313c93f22a )
 	rom ( name 064-c1.bin size 2097152 crc 2ec87cea sha1 e713ec7839a7665edee6ee3f82a6e530b3b4bd7c )
 	rom ( name 064-c2.bin size 2097152 crc 526b81ab sha1 b5f0a2f04489539ed6b9d0810b12787356c64b23 )
 	rom ( name 064-c3.bin size 2097152 crc 436d1b31 sha1 059776d77b91377ed0bcfc278802d659c917fc0f )
@@ -5667,7 +5833,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 006-s1.bin size 65536 crc 197d1a28 sha1 3f6ec453ebdead50c9fabd71071817b699a8a82c )
+	rom ( name 006-s1.bin size 131072 crc eb5189f0 sha1 0239c342ea62e73140a2306052f226226461a478 )
 	rom ( name 006-m1.bin size 131072 crc f0b6425d sha1 ba90c665d3e84c40d0383be64b1399ba831c0cfc )
 	rom ( name 006-v11.bin size 524288 crc cdf74a42 sha1 a17106cc3f9e5c5d52b4def861c0545a98151da2 )
 	rom ( name 006-v12.bin size 524288 crc e2fd2371 sha1 cc95297bee7ffbdcb24ac4daeb5307cb39a52067 )
@@ -5692,7 +5858,7 @@ game (
 	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
 	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
 	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 006-s1.bin merge 006-s1.bin size 65536 crc 197d1a28 sha1 3f6ec453ebdead50c9fabd71071817b699a8a82c )
+	rom ( name 006-s1.bin merge 006-s1.bin size 131072 crc eb5189f0 sha1 0239c342ea62e73140a2306052f226226461a478 )
 	rom ( name 006-m1.bin merge 006-m1.bin size 131072 crc f0b6425d sha1 ba90c665d3e84c40d0383be64b1399ba831c0cfc )
 	rom ( name 006-v11.bin merge 006-v11.bin size 524288 crc cdf74a42 sha1 a17106cc3f9e5c5d52b4def861c0545a98151da2 )
 	rom ( name 006-v12.bin merge 006-v12.bin size 524288 crc e2fd2371 sha1 cc95297bee7ffbdcb24ac4daeb5307cb39a52067 )
@@ -5720,10 +5886,10 @@ game (
 	rom ( name 061-m1.bin size 131072 crc 156f6951 sha1 49686f615f109a02b4f23931f1c84fee13872ffd )
 	rom ( name 061-v1.bin size 2097152 crc f081c8d3 sha1 fc9da0ddc1ddd1f9ae1443a726815c25e9dc38ae )
 	rom ( name 061-v2.bin size 2097152 crc 7cd63302 sha1 c39984c0ae0a8e76f1fc036344bbb83635c18937 )
-	rom ( name 061-c1.bin size 2097152 crc a626474f sha1 d695f0dcb9480088b3a7c1488bd541b4c159528a )
-	rom ( name 061-c2.bin size 2097152 crc c3be42ae sha1 7fa65538bd0a0a162e4d3e9f49913da59d915e02 )
-	rom ( name 061-c3.bin size 2097152 crc 2a7b98b9 sha1 75e1019dca8a8583afcc53651ac856cba3a96315 )
-	rom ( name 061-c4.bin size 2097152 crc c0be9a1f sha1 228f41eaefdf3e147761f8ef849e3b5f321877d4 )
+	rom ( name 061-c1-16.bin size 2097152 crc a626474f sha1 d695f0dcb9480088b3a7c1488bd541b4c159528a )
+	rom ( name 061-c2-16.bin size 2097152 crc c3be42ae sha1 7fa65538bd0a0a162e4d3e9f49913da59d915e02 )
+	rom ( name 061-c3-16.bin size 2097152 crc 2a7b98b9 sha1 75e1019dca8a8583afcc53651ac856cba3a96315 )
+	rom ( name 061-c4-16.bin size 2097152 crc c0be9a1f sha1 228f41eaefdf3e147761f8ef849e3b5f321877d4 )
 )
 
 game (
@@ -5932,6 +6098,31 @@ game (
 	rom ( name 19xh.04a size 524288 crc bb13ea3b sha1 3ae0fa09ae031e2a0f1ea8645a9baced44289383 )
 	rom ( name 19xh.05a size 524288 crc cbd76601 sha1 a6b64e5f4b35a120dc463a6c9e98e2ec8e739e59 )
 	rom ( name 19xh.06a size 524288 crc b362de8b sha1 0383a44efbfccdc78637995ed4f99740ef96cbad )
+	rom ( name 19x.07 merge 19x.07 size 524288 crc 61c0296c sha1 9e225beccffd14bb53a32f8c0f2aef7f331dae30 )
+	rom ( name 19x.01 merge 19x.01 size 131072 crc ef55195e sha1 813f465f2d392f6abeadbf661c54cf51171fa006 )
+	rom ( name 19x.11m merge 19x.11m size 2097152 crc d38beef3 sha1 134e961b926a97cca5e45d3558efb98f6f278e08 )
+	rom ( name 19x.12m merge 19x.12m size 2097152 crc d47c96e2 sha1 3c1b5563f8e7ee1c450b3592fcb319e928caec3c )
+)
+
+game (
+	name 19xxb
+	description "19XX: The War Against Destiny (Brazil 951218)"
+	year 1996
+	manufacturer "Capcom"
+	cloneof 19xx
+	romof 19xx
+	rom ( name 19x.13m merge 19x.13m size 524288 crc 427aeb18 sha1 901029b5423e4bda85f592735036c06b7d426680 )
+	rom ( name 19x.15m merge 19x.15m size 524288 crc 63bdbf54 sha1 9beb64ef0a8c92490848599d5d979bf42532609d )
+	rom ( name 19x.17m merge 19x.17m size 524288 crc 2dfe18b5 sha1 8a44364d9af6b9e1664b44b9235dc172182c9eb8 )
+	rom ( name 19x.19m merge 19x.19m size 524288 crc cbef9579 sha1 172413f220b242411218c7865e04014ec6417537 )
+	rom ( name 19x.14m merge 19x.14m size 2097152 crc e916967c sha1 3f937022166149a80585f91388de521055ca88ca )
+	rom ( name 19x.16m merge 19x.16m size 2097152 crc 6e75f3db sha1 4e1c8466eaa612102d0807d2e8bf1004e97476ea )
+	rom ( name 19x.18m merge 19x.18m size 2097152 crc 2213e798 sha1 b1a9d5547f3f6c3ab59e8b761d224793c6ca33cb )
+	rom ( name 19x.20m merge 19x.20m size 2097152 crc ab9d5b96 sha1 52b755da401fde90c13181b02ab33e5e4b2aa1f7 )
+	rom ( name 19xb.03a size 524288 crc 341bdf4a sha1 e7deccd034f2a2664507dbb7fed9757c2424dbf7 )
+	rom ( name 19xb.04a size 524288 crc dff8069e sha1 3b31d1f66680cee1da3f3d3fd822739e99f48ccd )
+	rom ( name 19xb.05a size 524288 crc a47a92a8 sha1 20254ec70029ec027793d4fbd9a7067c2a756315 )
+	rom ( name 19xb.06a size 524288 crc c52df10d sha1 88707c4d1ec8649a7e10ec60e5bbc6f5ffb26f73 )
 	rom ( name 19x.07 merge 19x.07 size 524288 crc 61c0296c sha1 9e225beccffd14bb53a32f8c0f2aef7f331dae30 )
 	rom ( name 19x.01 merge 19x.01 size 131072 crc ef55195e sha1 813f465f2d392f6abeadbf661c54cf51171fa006 )
 	rom ( name 19x.11m merge 19x.11m size 2097152 crc d38beef3 sha1 134e961b926a97cca5e45d3558efb98f6f278e08 )
@@ -6688,14 +6879,14 @@ game (
 
 game (
 	name dimahoo
-	description "Dimahoo (US 000121)"
+	description "Dimahoo (Euro 000121)"
 	year 2000
 	manufacturer "Eighting/Raizing, distributed by Capcom"
 	rom ( name gmd.13m size 4194304 crc 80dd19f0 sha1 0fd8b1e8d73cc83e6c34f0d94487938da2344f76 )
 	rom ( name gmd.15m size 4194304 crc dfd93a78 sha1 c343d5ddcc25bd0739491e7439d7c0d0a8881a04 )
 	rom ( name gmd.17m size 4194304 crc 16356520 sha1 058713bef30c1b1d8b7dd0ceaaa57a3ab9751a70 )
 	rom ( name gmd.19m size 4194304 crc dfc33031 sha1 a1ceaeddc2a79d5b79f1b107cac2ef6a5e621e77 )
-	rom ( name gmdu.03 size 524288 crc 43bcb15f sha1 8cf758f9b3b416273e5b20e5d1c09c0a67029a01 )
+	rom ( name gdme_03.03 size 524288 crc 968fcecd sha1 82d6eb6488df48bc7b977fc900c24b29bd6573a9 )
 	rom ( name gmd.04 size 524288 crc 37485567 sha1 643c41fce6057bcaef0e0bedc62914c33d97eeaf )
 	rom ( name gmd.05 size 524288 crc da269ffb sha1 e99b04192030b6006cf67b563f40cea29c1b2e78 )
 	rom ( name gmd.06 size 524288 crc 55b483c9 sha1 d47e077312f3c044d3647b79fa9e0581ccff5992 )
@@ -6703,6 +6894,27 @@ game (
 	rom ( name gmd.02 size 131072 crc 3fd39dde sha1 6a6e3ef9baa430ee83ab2312aa0221bae4d73dbd )
 	rom ( name gmd.11m size 4194304 crc 06a65542 sha1 a1b3df70c90055a3cd59d0149fd18a74eff5bcc9 )
 	rom ( name gmd.12m size 4194304 crc 50bc7a31 sha1 7283569fc646c39f4c693f14e0ce7ff2ee49111a )
+)
+
+game (
+	name dimahoou
+	description "Dimahoo (US 000121)"
+	year 2000
+	manufacturer "Eighting/Raizing, distributed by Capcom"
+	cloneof dimahoo
+	romof dimahoo
+	rom ( name gmd.13m merge gmd.13m size 4194304 crc 80dd19f0 sha1 0fd8b1e8d73cc83e6c34f0d94487938da2344f76 )
+	rom ( name gmd.15m merge gmd.15m size 4194304 crc dfd93a78 sha1 c343d5ddcc25bd0739491e7439d7c0d0a8881a04 )
+	rom ( name gmd.17m merge gmd.17m size 4194304 crc 16356520 sha1 058713bef30c1b1d8b7dd0ceaaa57a3ab9751a70 )
+	rom ( name gmd.19m merge gmd.19m size 4194304 crc dfc33031 sha1 a1ceaeddc2a79d5b79f1b107cac2ef6a5e621e77 )
+	rom ( name gmdu.03 size 524288 crc 43bcb15f sha1 8cf758f9b3b416273e5b20e5d1c09c0a67029a01 )
+	rom ( name gmd.04 merge gmd.04 size 524288 crc 37485567 sha1 643c41fce6057bcaef0e0bedc62914c33d97eeaf )
+	rom ( name gmd.05 merge gmd.05 size 524288 crc da269ffb sha1 e99b04192030b6006cf67b563f40cea29c1b2e78 )
+	rom ( name gmd.06 merge gmd.06 size 524288 crc 55b483c9 sha1 d47e077312f3c044d3647b79fa9e0581ccff5992 )
+	rom ( name gmd.01 merge gmd.01 size 131072 crc 3f9bc985 sha1 1616bbee82877b1052a07531066f5009a80706be )
+	rom ( name gmd.02 merge gmd.02 size 131072 crc 3fd39dde sha1 6a6e3ef9baa430ee83ab2312aa0221bae4d73dbd )
+	rom ( name gmd.11m merge gmd.11m size 4194304 crc 06a65542 sha1 a1b3df70c90055a3cd59d0149fd18a74eff5bcc9 )
+	rom ( name gmd.12m merge gmd.12m size 4194304 crc 50bc7a31 sha1 7283569fc646c39f4c693f14e0ce7ff2ee49111a )
 )
 
 game (
@@ -7236,6 +7448,30 @@ game (
 
 game (
 	name ecofghtu
+	description "Eco Fighters (US 940215)"
+	year 1993
+	manufacturer "Capcom"
+	cloneof ecofghtr
+	romof ecofghtr
+	rom ( name uec.13m merge uec.13m size 2097152 crc dcaf1436 sha1 ba124cc0bb10c1d1c07592a3623add4ed054182e )
+	rom ( name uec.15m merge uec.15m size 2097152 crc 2807df41 sha1 66a9800af435055737ce50a0b0ced7c5718c2004 )
+	rom ( name uec.17m merge uec.17m size 2097152 crc 8a708d02 sha1 95ec527edc904a66e325667521b4d07d72579211 )
+	rom ( name uec.19m merge uec.19m size 2097152 crc de7be0ef sha1 bf8df9a31f8923f4b726ea12fe8327368463ebe1 )
+	rom ( name uec.14m merge uec.14m size 1048576 crc 1a003558 sha1 64bbd89e65dc0cf6f4ab5ea93a4cc6312d0d0802 )
+	rom ( name uec.16m merge uec.16m size 1048576 crc 4ff8a6f9 sha1 03968a301417e8843d42d4e0db42aa0a3a38664b )
+	rom ( name uec.18m merge uec.18m size 1048576 crc b167ae12 sha1 48c552d02caad27d680aa51170560794f2a51478 )
+	rom ( name uec.20m merge uec.20m size 1048576 crc 1064bdc2 sha1 c51f75ac8d3f02a771feda0a933314a928555c4e )
+	rom ( name uecu.03a size 524288 crc 22d88a4d sha1 0aa5a4b51ae98b8b3bfc65aef9449796ffad7f10 )
+	rom ( name uecu.04a size 524288 crc 6436cfcd sha1 adb4e1ab2a01a1ea1b08a76ecf58654450e13cf9 )
+	rom ( name uecu.05a size 524288 crc 336f121b sha1 93800c459b516382cc62cebeb456274f48322fab )
+	rom ( name uecu.06a size 524288 crc 6f99d984 sha1 3f962197edab648bf87c1f2976956ea21e7ac3c4 )
+	rom ( name uec.01 merge uec.01 size 131072 crc c235bd15 sha1 feb7cd7db9dc0b9887b33eed9796bb0205fb719d )
+	rom ( name uec.11m merge uec.11m size 2097152 crc 81b25d39 sha1 448adfcc7d98873a48c710d857225cdd1580e5c9 )
+	rom ( name uec.12m merge uec.12m size 2097152 crc 27729e52 sha1 a55c8159adf766dda70cb047f5ac85ce6bc0a3f3 )
+)
+
+game (
+	name ecofgtu1
 	description "Eco Fighters (US 931203)"
 	year 1993
 	manufacturer "Capcom"
@@ -8219,6 +8455,78 @@ game (
 )
 
 game (
+	name mmancp2u
+	description "Mega Man: The Power Battle (CPS2, USA 951006)"
+	year 1995
+	manufacturer "Capcom"
+	rom ( name rcm.73 size 524288 crc 774c6e04 sha1 6bd14960218e31d5a043b20a1b9d2d69cace761e )
+	rom ( name rcm.74 size 524288 crc 004ec725 sha1 b1d3bcf920b0a1d0f4b59c77f5962e8162bbef65 )
+	rom ( name rcm.75 size 524288 crc 70a73f99 sha1 6dd126b4e64e34d5911ed5877b1b94b503404249 )
+	rom ( name rcm.76 size 524288 crc 89a889ad sha1 1ffe112051a3afc94df1326f17ef58dc2fc531aa )
+	rom ( name rcm.63 size 524288 crc acad7c62 sha1 eec10990339c9fd8fdae896a5fd98d5bf0220ed1 )
+	rom ( name rcm.64 size 524288 crc 65c0464e sha1 4a035f4d28fc8aa72bfe0a06392b93b0abfba458 )
+	rom ( name rcm.65 size 524288 crc ecedad3d sha1 dea1377f086ea3a45ced983e258beb6607b295c9 )
+	rom ( name rcm.66 size 524288 crc 1300eb7b sha1 db4f53b1cf521df99d073dcf0bfafe7b113e95d5 )
+	rom ( name rcm.83 size 524288 crc 6af30499 sha1 a97bf2f382b6edc1e920e18d8ad5ca18131a2f21 )
+	rom ( name rcm.84 size 524288 crc fb3097cc sha1 7bff2372809cdfa4dcd8537a448b177c0e86a94e )
+	rom ( name rcm.85 size 524288 crc 3d6186d8 sha1 70f1ff678dd1ec533360458a564953fc5634cbc5 )
+	rom ( name rcm.86 size 524288 crc 6d974ebd sha1 41de66481a64fa8a6471c512fc5dcaf96d95ee69 )
+	rom ( name rcm.93 size 524288 crc 7a5a5166 sha1 2160015e2e43e2c024a3af56da961ac02ffc74e9 )
+	rom ( name rcm.94 size 524288 crc 2e16557a sha1 f4a916c1524a8de23fc6afabc8c724a89530c631 )
+	rom ( name rcm.95 size 524288 crc 8c7700f1 sha1 84846af535e9e333e911486d545988568554b67b )
+	rom ( name rcm.96 size 524288 crc 7da4cd24 sha1 dd44377ff9f83f15cac032c4e7ef2071adcfa196 )
+	rom ( name rcmu.03b size 524288 crc c39f037f sha1 eefc5aa0fde322c6f895a37399424060c702a459 )
+	rom ( name rcmu.04b size 524288 crc cd6f5e99 sha1 46d5298bdf7dd3ccfe5d491c61f3c2e2da011e3b )
+	rom ( name rcm.05b size 524288 crc 4376ea95 sha1 7370ceffca513aa9f68a74f6869d561476589200 )
+	rom ( name rcm.01 size 131072 crc d60cf8a3 sha1 dccd84b93e62489c703011422d0fe84444c7f7db )
+	rom ( name rcm.51 size 524288 crc b6d07080 sha1 b8f07553c01b1f67b0696110cd4e35e4cf4fa158 )
+	rom ( name rcm.52 size 524288 crc dfddc493 sha1 56b5129f24d05d2c85a767b0a632bf260f5425b2 )
+	rom ( name rcm.53 size 524288 crc 6062ae3a sha1 28a4d59bce0c341c240ee8cc92f85850ea8ffb10 )
+	rom ( name rcm.54 size 524288 crc 08c6f3bf sha1 6b8175748ff25b90572f914e4565935e27aa09a5 )
+	rom ( name rcm.55 size 524288 crc f97dfccc sha1 752a3855d78e55dc31291e14d0223104691784f4 )
+	rom ( name rcm.56 size 524288 crc ade475bc sha1 02ae6bc21d5e41e05595845f264c9ad040d70b37 )
+	rom ( name rcm.57 size 524288 crc 075effb3 sha1 4be02d966d933c0d92908c5e05842c6b33c9703b )
+	rom ( name rcm.58 size 524288 crc f6c1f87b sha1 d6cd8d2bac96404b6983d738093b7177d478f12e )
+)
+
+game (
+	name rmancp2j
+	description "Rockman: The Power Battle (CPS2, Japan 950922)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof mmancp2u
+	romof mmancp2u
+	rom ( name rcm.73 merge rcm.73 size 524288 crc 774c6e04 sha1 6bd14960218e31d5a043b20a1b9d2d69cace761e )
+	rom ( name rcm.74 merge rcm.74 size 524288 crc 004ec725 sha1 b1d3bcf920b0a1d0f4b59c77f5962e8162bbef65 )
+	rom ( name rcm.75 merge rcm.75 size 524288 crc 70a73f99 sha1 6dd126b4e64e34d5911ed5877b1b94b503404249 )
+	rom ( name rcm.76 merge rcm.76 size 524288 crc 89a889ad sha1 1ffe112051a3afc94df1326f17ef58dc2fc531aa )
+	rom ( name rcm.63 merge rcm.63 size 524288 crc acad7c62 sha1 eec10990339c9fd8fdae896a5fd98d5bf0220ed1 )
+	rom ( name rcm.64 merge rcm.64 size 524288 crc 65c0464e sha1 4a035f4d28fc8aa72bfe0a06392b93b0abfba458 )
+	rom ( name rcm.65 merge rcm.65 size 524288 crc ecedad3d sha1 dea1377f086ea3a45ced983e258beb6607b295c9 )
+	rom ( name rcm.66 merge rcm.66 size 524288 crc 1300eb7b sha1 db4f53b1cf521df99d073dcf0bfafe7b113e95d5 )
+	rom ( name rcm.83 merge rcm.83 size 524288 crc 6af30499 sha1 a97bf2f382b6edc1e920e18d8ad5ca18131a2f21 )
+	rom ( name rcm.84 merge rcm.84 size 524288 crc fb3097cc sha1 7bff2372809cdfa4dcd8537a448b177c0e86a94e )
+	rom ( name rcm.85 merge rcm.85 size 524288 crc 3d6186d8 sha1 70f1ff678dd1ec533360458a564953fc5634cbc5 )
+	rom ( name rcm.86 merge rcm.86 size 524288 crc 6d974ebd sha1 41de66481a64fa8a6471c512fc5dcaf96d95ee69 )
+	rom ( name rcm.93 merge rcm.93 size 524288 crc 7a5a5166 sha1 2160015e2e43e2c024a3af56da961ac02ffc74e9 )
+	rom ( name rcm.94 merge rcm.94 size 524288 crc 2e16557a sha1 f4a916c1524a8de23fc6afabc8c724a89530c631 )
+	rom ( name rcm.95 merge rcm.95 size 524288 crc 8c7700f1 sha1 84846af535e9e333e911486d545988568554b67b )
+	rom ( name rcm.96 merge rcm.96 size 524288 crc 7da4cd24 sha1 dd44377ff9f83f15cac032c4e7ef2071adcfa196 )
+	rom ( name rcmj.03a size 524288 crc 30559f60 sha1 7a7c7c00613e379317383d68cac47dfbbb2200c9 )
+	rom ( name rcmj.04a size 524288 crc 5efc9366 sha1 33420ac6ccf3c4982ce7644c574414574f706bd3 )
+	rom ( name rcm.05a size 524288 crc 517ccde2 sha1 492256c192f0c4814efa1ee1dd390453dd2e5865 )
+	rom ( name rcm.01 merge rcm.01 size 131072 crc d60cf8a3 sha1 dccd84b93e62489c703011422d0fe84444c7f7db )
+	rom ( name rcm.51 merge rcm.51 size 524288 crc b6d07080 sha1 b8f07553c01b1f67b0696110cd4e35e4cf4fa158 )
+	rom ( name rcm.52 merge rcm.52 size 524288 crc dfddc493 sha1 56b5129f24d05d2c85a767b0a632bf260f5425b2 )
+	rom ( name rcm.53 merge rcm.53 size 524288 crc 6062ae3a sha1 28a4d59bce0c341c240ee8cc92f85850ea8ffb10 )
+	rom ( name rcm.54 merge rcm.54 size 524288 crc 08c6f3bf sha1 6b8175748ff25b90572f914e4565935e27aa09a5 )
+	rom ( name rcm.55 merge rcm.55 size 524288 crc f97dfccc sha1 752a3855d78e55dc31291e14d0223104691784f4 )
+	rom ( name rcm.56 merge rcm.56 size 524288 crc ade475bc sha1 02ae6bc21d5e41e05595845f264c9ad040d70b37 )
+	rom ( name rcm.57 merge rcm.57 size 524288 crc 075effb3 sha1 4be02d966d933c0d92908c5e05842c6b33c9703b )
+	rom ( name rcm.58 merge rcm.58 size 524288 crc f6c1f87b sha1 d6cd8d2bac96404b6983d738093b7177d478f12e )
+)
+
+game (
 	name megaman2
 	description "Mega Man 2: The Power Fighters (US 960708)"
 	year 1996
@@ -8318,7 +8626,7 @@ game (
 
 game (
 	name nwarr
-	description "Night Warriors: Darkstalkers Revenge (US 950406)"
+	description "Night Warriors: Darkstalkers Revenge (Euro 950316)"
 	year 1995
 	manufacturer "Capcom"
 	rom ( name vph.13m size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
@@ -8329,6 +8637,35 @@ game (
 	rom ( name vph.16m size 4194304 crc 2f41ca75 sha1 f4a67e60b62001e6fe75cb05b9c81040a8a09f54 )
 	rom ( name vph.18m size 4194304 crc 64498eed sha1 d64e54a9ad1cbb927b7bac2eb16e1487834c5706 )
 	rom ( name vph.20m size 4194304 crc 17f2433f sha1 0cbf8c96f92016fefb4a9c668ce5fd260342d712 )
+	rom ( name vphe.03f size 524288 crc a922c44f sha1 aa06c7ee9b9878d999a21201f4ff3134cef1fff0 )
+	rom ( name vphe.04c size 524288 crc 7312d890 sha1 8cf2ff6eb2c13e308e65d7ac7a5f9664c44170df )
+	rom ( name vphe.05d size 524288 crc cde8b506 sha1 1c4f7fa6799be1aa444ed31464cddb79fee22928 )
+	rom ( name vphe.06c size 524288 crc be99e7d0 sha1 863c713ba7b6120a50835ee7a0153021fbbcef81 )
+	rom ( name vphe.07b size 524288 crc 69e0e60c sha1 8b9b7280dfbbb45a875d78d40703503ffce663bb )
+	rom ( name vphe.08b size 524288 crc d95a3849 sha1 9ec77670fb83cf9beba95439b709c138e800bcc8 )
+	rom ( name vphe.09b size 524288 crc 9882561c sha1 cc6d4a50819cd4e6b8c39c60e7c8ce46ba0f05d8 )
+	rom ( name vphe.10b size 524288 crc 976fa62f sha1 ede8cb58365795f7068f3be52639383e226cf751 )
+	rom ( name vph.01 size 131072 crc 5045dcac sha1 fd1a6586fbdd48a707df1fa52309b4cf50e3cc4c )
+	rom ( name vph.02 size 131072 crc 86b60e59 sha1 197d07ced8b9850729c83fa59b7afc283500bdee )
+	rom ( name vph.11m size 2097152 crc e1837d33 sha1 e3cb69f64767bacbec7286d0b4cd0ce7a0ba13d8 )
+	rom ( name vph.12m size 2097152 crc fbd3cd90 sha1 4813c25802ad71b77ca04fd8f3a86344f99f0d6a )
+)
+
+game (
+	name nwarru
+	description "Night Warriors: Darkstalkers Revenge (US 950406)"
+	year 1995
+	manufacturer "Capcom"
+	cloneof nwarr
+	romof nwarr
+	rom ( name vph.13m merge vph.13m size 4194304 crc c51baf99 sha1 2fb6642908e542e404391eb17392f8270e87bf48 )
+	rom ( name vph.15m merge vph.15m size 4194304 crc 3ce83c77 sha1 93369b23c6d7d834297434691bb047ee3dd9539c )
+	rom ( name vph.17m merge vph.17m size 4194304 crc 4f2408e0 sha1 cd49c6b3c7e6470c6058f98ccc5210b052bb13e2 )
+	rom ( name vph.19m merge vph.19m size 4194304 crc 9ff60250 sha1 d69ba4dc6bd37d003245f0cf3211d6e2623005b8 )
+	rom ( name vph.14m merge vph.14m size 4194304 crc 7a0e1add sha1 6b28a91bd59bba97886fdea30116a5b1071109ed )
+	rom ( name vph.16m merge vph.16m size 4194304 crc 2f41ca75 sha1 f4a67e60b62001e6fe75cb05b9c81040a8a09f54 )
+	rom ( name vph.18m merge vph.18m size 4194304 crc 64498eed sha1 d64e54a9ad1cbb927b7bac2eb16e1487834c5706 )
+	rom ( name vph.20m merge vph.20m size 4194304 crc 17f2433f sha1 0cbf8c96f92016fefb4a9c668ce5fd260342d712 )
 	rom ( name vphu.03f size 524288 crc 85d6a359 sha1 38f4bb5cf2e1e82ce9673b911329fdc8220ce0dc )
 	rom ( name vphu.04c size 524288 crc cb7fce77 sha1 85a8c8b1c71df0eee5f23e0bf28b2d95af2ce830 )
 	rom ( name vphu.05e size 524288 crc e08f2bba sha1 0f6d01a3b05085df23ead4c09c5363a1587b527e )
@@ -8337,10 +8674,10 @@ game (
 	rom ( name vphu.08b size 524288 crc 51bb20fb sha1 a98c569dd45b4bd2275f9bd1df060d6eaead53df )
 	rom ( name vphu.09b size 524288 crc 41a64205 sha1 1f5af658b7c3fb09cab3dd10d6dc433a0605f81a )
 	rom ( name vphu.10b size 524288 crc 2b1d43ae sha1 fa9a456fe92783c7cb93ca231b24387cf56644d7 )
-	rom ( name vph.01 size 131072 crc 5045dcac sha1 fd1a6586fbdd48a707df1fa52309b4cf50e3cc4c )
-	rom ( name vph.02 size 131072 crc 86b60e59 sha1 197d07ced8b9850729c83fa59b7afc283500bdee )
-	rom ( name vph.11m size 2097152 crc e1837d33 sha1 e3cb69f64767bacbec7286d0b4cd0ce7a0ba13d8 )
-	rom ( name vph.12m size 2097152 crc fbd3cd90 sha1 4813c25802ad71b77ca04fd8f3a86344f99f0d6a )
+	rom ( name vph.01 merge vph.01 size 131072 crc 5045dcac sha1 fd1a6586fbdd48a707df1fa52309b4cf50e3cc4c )
+	rom ( name vph.02 merge vph.02 size 131072 crc 86b60e59 sha1 197d07ced8b9850729c83fa59b7afc283500bdee )
+	rom ( name vph.11m merge vph.11m size 2097152 crc e1837d33 sha1 e3cb69f64767bacbec7286d0b4cd0ce7a0ba13d8 )
+	rom ( name vph.12m merge vph.12m size 2097152 crc fbd3cd90 sha1 4813c25802ad71b77ca04fd8f3a86344f99f0d6a )
 )
 
 game (
@@ -8511,30 +8848,6 @@ game (
 )
 
 game (
-	name progearj
-	description "Progear No Arashi (Japan 010117)"
-	year 2001
-	manufacturer "Capcom, supported by Cave"
-	cloneof progear
-	romof progear
-	rom ( name pga-simm.01c merge pga-simm.01c size 2097152 crc 452f98b0 sha1 a10e615c32098f6d25becd466da8faa967523a7b )
-	rom ( name pga-simm.01d merge pga-simm.01d size 2097152 crc 9e672092 sha1 fce0b8b43a1c069262f4e3e81c1a04621e232c88 )
-	rom ( name pga-simm.01a merge pga-simm.01a size 2097152 crc ae9ddafe sha1 afbb26fed6cd0cb5c0099a10d35aeb453318c14d )
-	rom ( name pga-simm.01b merge pga-simm.01b size 2097152 crc 94d72d94 sha1 df6a3fe49c008f73b160eb6f2a44dc371ff73cba )
-	rom ( name pga-simm.03c merge pga-simm.03c size 2097152 crc 48a1886d sha1 ebf44b42d784924e08a832a7e5f66a887bab244b )
-	rom ( name pga-simm.03d merge pga-simm.03d size 2097152 crc 172d7e37 sha1 0eaedd24cd3fa87b6f35fbd63078d40c493c92d0 )
-	rom ( name pga-simm.03a merge pga-simm.03a size 2097152 crc 9ee33d98 sha1 85d1bd31940e35ac8c732165020881a2d65cd6b1 )
-	rom ( name pga-simm.03b merge pga-simm.03b size 2097152 crc 848dee32 sha1 c591288e86ad1624d0fe66563808af9fac786e64 )
-	rom ( name pgaj.03 size 524288 crc 06dbba54 sha1 b0b808e9974c727bd187f2cdcba71a301b78c759 )
-	rom ( name pgaj.04 size 524288 crc a1f1f1bc sha1 839cdc89d9483632883c185951c76deb4ff7657e )
-	rom ( name pga.01 merge pga.01 size 131072 crc bdbfa992 sha1 7c5496c1daaea6a7ab95c0b25625d325ec3427cc )
-	rom ( name pga-simm.05a merge pga-simm.05a size 2097152 crc c0aac80c sha1 91784d35d4f7e113529bb5be6081b67094b150ea )
-	rom ( name pga-simm.05b merge pga-simm.05b size 2097152 crc 37a65d86 sha1 374d562a4648734f82aa2ddb6d258e870896dd45 )
-	rom ( name pga-simm.06a merge pga-simm.06a size 2097152 crc d3f1e934 sha1 5dcea28c873d0d472f5b94e07d97cd77ace2b252 )
-	rom ( name pga-simm.06b merge pga-simm.06b size 2097152 crc 8b39489a sha1 fd790efaf37dc2c4c16f657941044e3e2d3c2711 )
-)
-
-game (
 	name progeara
 	description "Progear (Asia 010117)"
 	year 2001
@@ -8551,6 +8864,30 @@ game (
 	rom ( name pga-simm.03b merge pga-simm.03b size 2097152 crc 848dee32 sha1 c591288e86ad1624d0fe66563808af9fac786e64 )
 	rom ( name pgaa.03 size 524288 crc 25e6e2ce sha1 15b702ccc2bab7f2f9e7724ed83931c686763ffe )
 	rom ( name pgaa.04 size 524288 crc 8104307e sha1 3ed134fcbf5c1c9f068f59b49b96d01a1ea33eeb )
+	rom ( name pga.01 merge pga.01 size 131072 crc bdbfa992 sha1 7c5496c1daaea6a7ab95c0b25625d325ec3427cc )
+	rom ( name pga-simm.05a merge pga-simm.05a size 2097152 crc c0aac80c sha1 91784d35d4f7e113529bb5be6081b67094b150ea )
+	rom ( name pga-simm.05b merge pga-simm.05b size 2097152 crc 37a65d86 sha1 374d562a4648734f82aa2ddb6d258e870896dd45 )
+	rom ( name pga-simm.06a merge pga-simm.06a size 2097152 crc d3f1e934 sha1 5dcea28c873d0d472f5b94e07d97cd77ace2b252 )
+	rom ( name pga-simm.06b merge pga-simm.06b size 2097152 crc 8b39489a sha1 fd790efaf37dc2c4c16f657941044e3e2d3c2711 )
+)
+
+game (
+	name progearj
+	description "Progear No Arashi (Japan 010117)"
+	year 2001
+	manufacturer "Capcom, supported by Cave"
+	cloneof progear
+	romof progear
+	rom ( name pga-simm.01c merge pga-simm.01c size 2097152 crc 452f98b0 sha1 a10e615c32098f6d25becd466da8faa967523a7b )
+	rom ( name pga-simm.01d merge pga-simm.01d size 2097152 crc 9e672092 sha1 fce0b8b43a1c069262f4e3e81c1a04621e232c88 )
+	rom ( name pga-simm.01a merge pga-simm.01a size 2097152 crc ae9ddafe sha1 afbb26fed6cd0cb5c0099a10d35aeb453318c14d )
+	rom ( name pga-simm.01b merge pga-simm.01b size 2097152 crc 94d72d94 sha1 df6a3fe49c008f73b160eb6f2a44dc371ff73cba )
+	rom ( name pga-simm.03c merge pga-simm.03c size 2097152 crc 48a1886d sha1 ebf44b42d784924e08a832a7e5f66a887bab244b )
+	rom ( name pga-simm.03d merge pga-simm.03d size 2097152 crc 172d7e37 sha1 0eaedd24cd3fa87b6f35fbd63078d40c493c92d0 )
+	rom ( name pga-simm.03a merge pga-simm.03a size 2097152 crc 9ee33d98 sha1 85d1bd31940e35ac8c732165020881a2d65cd6b1 )
+	rom ( name pga-simm.03b merge pga-simm.03b size 2097152 crc 848dee32 sha1 c591288e86ad1624d0fe66563808af9fac786e64 )
+	rom ( name pgaj.03 size 524288 crc 06dbba54 sha1 b0b808e9974c727bd187f2cdcba71a301b78c759 )
+	rom ( name pgaj.04 size 524288 crc a1f1f1bc sha1 839cdc89d9483632883c185951c76deb4ff7657e )
 	rom ( name pga.01 merge pga.01 size 131072 crc bdbfa992 sha1 7c5496c1daaea6a7ab95c0b25625d325ec3427cc )
 	rom ( name pga-simm.05a merge pga-simm.05a size 2097152 crc c0aac80c sha1 91784d35d4f7e113529bb5be6081b67094b150ea )
 	rom ( name pga-simm.05b merge pga-simm.05b size 2097152 crc 37a65d86 sha1 374d562a4648734f82aa2ddb6d258e870896dd45 )
@@ -9260,7 +9597,7 @@ game (
 
 game (
 	name sfa3
-	description "Street Fighter Alpha 3 (US 980904)"
+	description "Street Fighter Alpha 3 (Euro 980904)"
 	year 1998
 	manufacturer "Capcom"
 	rom ( name sz3.13m size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
@@ -9271,8 +9608,8 @@ game (
 	rom ( name sz3.16m size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
 	rom ( name sz3.18m size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
 	rom ( name sz3.20m size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
-	rom ( name sz3u.03c size 524288 crc e007da2e sha1 d190ac7ca2c27f11b9b4f96860b226bbea0ee403 )
-	rom ( name sz3u.04c size 524288 crc 5f78f0e7 sha1 f4df30fd3515fe9f1125f470b96028052c61f57b )
+	rom ( name sz3e_03c.03 size 524288 crc 9762b206 sha1 fc4561ca990dd11ed2c5203540102078b721db2f )
+	rom ( name sz3e_04c.04 size 524288 crc 5ad3f721 sha1 fec11cc5f63593f0181eb28ae85ad916686793eb )
 	rom ( name sz3.05c size 524288 crc 57fd0a40 sha1 bc2d5f4d57117bbf58b1adb088e00424ef489e92 )
 	rom ( name sz3.06c size 524288 crc f6305f8b sha1 3fd1ebdbad96103aca604e950b488e52460a71ec )
 	rom ( name sz3.07c size 524288 crc 6eab0f6f sha1 f8d093dda65cf4e8a3000dc1b96355bb03dcb495 )
@@ -9286,7 +9623,36 @@ game (
 )
 
 game (
-	name sfa3r1
+	name sfa3u
+	description "Street Fighter Alpha 3 (US 980904)"
+	year 1998
+	manufacturer "Capcom"
+	cloneof sfa3
+	romof sfa3
+	rom ( name sz3.13m merge sz3.13m size 4194304 crc 0f7a60d9 sha1 c69e0ee22537312909dacc86d2e4be319d54e426 )
+	rom ( name sz3.15m merge sz3.15m size 4194304 crc 8e933741 sha1 f4ac4bfe830dc7df9fe4f680e4e0c053e7cbd8fe )
+	rom ( name sz3.17m merge sz3.17m size 4194304 crc d6e98147 sha1 37f331fbb1284db446faecade6f484f58c0e1b2a )
+	rom ( name sz3.19m merge sz3.19m size 4194304 crc f31a728a sha1 f14136564648f006c1b74afda78349f260524b5f )
+	rom ( name sz3.14m merge sz3.14m size 4194304 crc 5ff98297 sha1 9e0ce43380b776c7a03872bafd4856f6fa60bda7 )
+	rom ( name sz3.16m merge sz3.16m size 4194304 crc 52b5bdee sha1 7918204dc457f7a146d8fb8cf7242dfed3109fd8 )
+	rom ( name sz3.18m merge sz3.18m size 4194304 crc 40631ed5 sha1 c18c56822b90a71ca5fbdf3440eb2671011f3d8f )
+	rom ( name sz3.20m merge sz3.20m size 4194304 crc 763409b4 sha1 af60a5116c1ca9050366a35ea29128921867f3cc )
+	rom ( name sz3u.03c size 524288 crc e007da2e sha1 d190ac7ca2c27f11b9b4f96860b226bbea0ee403 )
+	rom ( name sz3u.04c size 524288 crc 5f78f0e7 sha1 f4df30fd3515fe9f1125f470b96028052c61f57b )
+	rom ( name sz3.05c merge sz3.05c size 524288 crc 57fd0a40 sha1 bc2d5f4d57117bbf58b1adb088e00424ef489e92 )
+	rom ( name sz3.06c merge sz3.06c size 524288 crc f6305f8b sha1 3fd1ebdbad96103aca604e950b488e52460a71ec )
+	rom ( name sz3.07c merge sz3.07c size 524288 crc 6eab0f6f sha1 f8d093dda65cf4e8a3000dc1b96355bb03dcb495 )
+	rom ( name sz3.08c merge sz3.08c size 524288 crc 910c4a3b sha1 dbd41280f9b16ad6a5b8f12092549970349395f1 )
+	rom ( name sz3.09c merge sz3.09c size 524288 crc b29e5199 sha1 c6c215eb5aa37f678a9cafcbd8620969fb5ca12f )
+	rom ( name sz3.10b merge sz3.10b size 524288 crc deb2ff52 sha1 0aa4722aad68a04164946c78bf05752f947b4322 )
+	rom ( name sz3.01 merge sz3.01 size 131072 crc de810084 sha1 fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd )
+	rom ( name sz3.02 merge sz3.02 size 131072 crc 72445dc4 sha1 14fca7596ac45ba655016eef5b6120f9f9671c23 )
+	rom ( name sz3.11m merge sz3.11m size 4194304 crc 1c89eed1 sha1 649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3 )
+	rom ( name sz3.12m merge sz3.12m size 4194304 crc f392b13a sha1 fa04ce0370144a49bd1d5acd873eef87b0dc9d15 )
+)
+
+game (
+	name sfa3ur1
 	description "Street Fighter Alpha 3 (US 980629)"
 	year 1998
 	manufacturer "Capcom"
@@ -10426,6 +10792,35 @@ game (
 
 game (
 	name xmcotaj
+	description "X-Men: Children of the Atom (Japan 941222)"
+	year 1994
+	manufacturer "Capcom"
+	cloneof xmcota
+	romof xmcota
+	rom ( name xmn.13m merge xmn.13m size 4194304 crc bf4df073 sha1 4d2740c3a827f0ec2cf75ad99c65e393c6a11c23 )
+	rom ( name xmn.15m merge xmn.15m size 4194304 crc 4d7e4cef sha1 50b8797b8099a8d76ad063ba1201a13dbb88ae3a )
+	rom ( name xmn.17m merge xmn.17m size 4194304 crc 513eea17 sha1 a497477ad9ac13180911d8745ef6ee1955c0b877 )
+	rom ( name xmn.19m merge xmn.19m size 4194304 crc d23897fc sha1 1e31627999736652252164d32662779a1ac6ca29 )
+	rom ( name xmn.14m merge xmn.14m size 4194304 crc 778237b7 sha1 89a759ec383518ec52f5059d10ec342f2247aa20 )
+	rom ( name xmn.16m merge xmn.16m size 4194304 crc 67b36948 sha1 692fb6e4096b880aa22996d554b160f664bbd907 )
+	rom ( name xmn.18m merge xmn.18m size 4194304 crc 015a7c4c sha1 cccc95dafd076a1a9fa004710006149c42d058ba )
+	rom ( name xmn.20m merge xmn.20m size 4194304 crc 9dde2758 sha1 17ba259cad03c7b5d56c0a5eda9ab53521665729 )
+	rom ( name xmnj.03d size 524288 crc 79086d62 sha1 d99a48bd40593aa9c1ff1fcbfc40cfe3bc882fc5 )
+	rom ( name xmnj.04d size 524288 crc 38eed613 sha1 86ecb58bf03adda705a39a9779862fe2c85cadad )
+	rom ( name xmn.05 size 524288 crc c3ed62a2 sha1 4e3317d7ca981e33318822103a16e59f4ce20deb )
+	rom ( name xmn.06 size 524288 crc f03c52e1 sha1 904b2312ee594f5ece0484cad0eed25cc758185e )
+	rom ( name xmn.07 size 524288 crc 325626b1 sha1 3f3a0aabbe5ffad8136ac91e0de785103b16059b )
+	rom ( name xmn.08 size 524288 crc 7194ea10 sha1 40a5892d816f24cbfd4c310792eeabf689c6fa7e )
+	rom ( name xmn.09 size 524288 crc ae946df3 sha1 733671f76d766bda7110df9d338791cc5202b050 )
+	rom ( name xmn.10 size 524288 crc 32a6be1d sha1 8f5fcb33b528abed670b4fc3fa62431a6e033c56 )
+	rom ( name xmn.01a merge xmn.01a size 131072 crc 40f479ea sha1 f29e15f537675305264ae2138a0a537fb9e2008b )
+	rom ( name xmn.02a merge xmn.02a size 131072 crc 39d9b5ad sha1 af502debfd36100d4fc971ed25fdf9d7121d6f18 )
+	rom ( name xmn.11m merge xmn.11m size 2097152 crc c848a6bc sha1 ac8ac564d3c43225822f8bc330eba9f35b24b0a4 )
+	rom ( name xmn.12m merge xmn.12m size 2097152 crc 729c188f sha1 3279774ad8aebbcf0fc779cdfcbe21044dd192ad )
+)
+
+game (
+	name xmcotaj1
 	description "X-Men: Children of the Atom (Japan 941219)"
 	year 1994
 	manufacturer "Capcom"
@@ -10454,7 +10849,7 @@ game (
 )
 
 game (
-	name xmcotaj1
+	name xmcotaj2
 	description "X-Men: Children of the Atom (Japan 941217)"
 	year 1994
 	manufacturer "Capcom"
@@ -11256,6 +11651,27 @@ game (
 
 game (
 	name ffightu
+	description "Final Fight (US)"
+	year 1989
+	manufacturer "Capcom"
+	cloneof ffight
+	romof ffight
+	rom ( name ff05-05m.bin merge ff05-05m.bin size 524288 crc 9c284108 sha1 7868f5801347340867720255f8380548ad1a65a7 )
+	rom ( name ff07-07m.bin merge ff07-07m.bin size 524288 crc a7584dfb sha1 f7b00a3ca8cb85264ab293089f9f540a8292b49c )
+	rom ( name ff01-01m.bin merge ff01-01m.bin size 524288 crc 0b605e44 sha1 5ce16af72858a57aefbf6efed820c2c51935882a )
+	rom ( name ff03-03m.bin merge ff03-03m.bin size 524288 crc 52291cd2 sha1 df5f3d3aa96a7a33ff22f2a31382942c4c4f1111 )
+	rom ( name ff30-36.bin merge ff30-36.bin size 131072 crc f9a5ce83 sha1 0756ae576a1f6d5b8b22f8630dca40ef38567ea6 )
+	rom ( name ff35-42.bin merge ff35-42.bin size 131072 crc 65f11215 sha1 5045a467f3e228c02b4a355b52f58263ffa90113 )
+	rom ( name ff31-37.bin merge ff31-37.bin size 131072 crc e1033784 sha1 38f44434c8befd623953ae23d6e5ff4e201d6627 )
+	rom ( name ff43.rom size 131072 crc 4ca65947 sha1 74ffe00df96273770a24d9a46f13e53ea8812670 )
+	rom ( name ff32-32m.bin merge ff32-32m.bin size 524288 crc c747696e sha1 d3362dadded31ccb7eaf71ef282d698d18edd722 )
+	rom ( name ff09-09.bin merge ff09-09.bin size 65536 crc b8367eb5 sha1 ec3db29fdd6200e9a8f4f8073a7e34aef731354f )
+	rom ( name ff18-18.bin merge ff18-18.bin size 131072 crc 375c66e7 sha1 36189e23209ce4ae5d9cbabd1574540d0591e7b3 )
+	rom ( name ff19-19.bin merge ff19-19.bin size 131072 crc 1ef137f9 sha1 974b5e72aa28b87ebfa7438efbdfeda769dedf5e )
+)
+
+game (
+	name ffightua
 	description "Final Fight (US 900112)"
 	year 1989
 	manufacturer "Capcom"
@@ -11276,7 +11692,7 @@ game (
 )
 
 game (
-	name ffightua
+	name ffightub
 	description "Final Fight (US 900613)"
 	year 1989
 	manufacturer "Capcom"

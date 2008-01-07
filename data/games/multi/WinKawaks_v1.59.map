@@ -26,7 +26,7 @@ vampj,vampj,m
 vampja,vampja,m
 ffight,ffight,m
 ffightj,ffightj,m
-ffightu,ffightua,m
+ffightua,ffightua,m
 ghouls,ghouls,m
 daimakai,daimakai,m
 ghoulsu,ghoulsu,m
@@ -109,8 +109,8 @@ wofj,wofj,m
 wofu,wofu,m
 xmcota,xmcota,m
 xmcotau,xmcotau,m
-xmcotaj,xmcotaj1,m
-xmcotaj1,xmcotaj2,m
+xmcotaj1,xmcotaj1,m
+xmcotaj2,xmcotaj2,m
 xmvsfur1,xmvsfur1,m
 xmcotajr,xmcotajr,m
 sf2jc,sf2jc,m
@@ -133,8 +133,8 @@ smbomb,smbomb,m
 smbombr1,smbombr1,m
 batcirj,batcirj,m
 ecofghtr,ecofghtr,m
-sfa3,sfa3u,m
-sfa3r1,sfa3ur1,m
+sfa3u,sfa3u,m
+sfa3ur1,sfa3ur1,m
 sfz3jr1,sfz3jr1,m
 vampjr1,vampjr1,m
 3wonderu,3wonderu,m
@@ -280,9 +280,9 @@ viewpoin,viewpoin,m
 vsavu,vsavu,m
 vsav,vsav,m
 wakuwak7,wakuwak7,m
-wh1,wh1h,m
+wh1h,wh1h,m
 wh2,wh2,m
-wh2j,wh2jh,m
+wh2jh,wh2jh,m
 whp,whp,m
 wjammers,wjammers,m
 zedblade,zedblade,m
@@ -339,7 +339,7 @@ bngbeadn,bngbeadn,n
 bangbead,bangbead,m
 batcir,batcir,m
 ddtodh,ddtodh,m
-nwarr,nwarru,m
+nwarru,nwarru,m
 vhuntj,vhuntj,m
 vhuntjr2,vhuntjr2,m
 neonopon,neonopon1,n
@@ -354,7 +354,7 @@ zupapa,zupapa,m
 zupapan,zupapan,n
 1944,1944,m
 cawingu,cawingu,m
-dimahoo,dimahoou,m
+dimahoou,dimahoou,m
 dinou,dinou,m
 gigawing,gigawing,m
 gmahou,gmahou,m
@@ -390,7 +390,7 @@ kotmh,kotmh,m
 pbobblna,pbobblna,m
 sf2uk,sf2uk,m
 sfar1,sfar1,m
-wh1h,wh1ha,m
+wh1ha,wh1ha,m
 aof2a,aof2a,m
 fatfursa,fatfursa,m
 fightfva,fightfva,m
@@ -405,7 +405,7 @@ samsho3a,samsho3a,m
 ddtodj,ddtodj,m
 dynwar,dynwar,m
 ghostlop,ghostlop,m
-ncombata,ncombath,m
+ncombath,ncombath,m
 sf2hf,sf2hf,m
 sf2m1,sf2m1,m
 sf2m2,sf2m2,m
@@ -451,7 +451,7 @@ xmvsfu,xmvsfu,m
 aof3k,aof3k,m
 cawingr1,cawingr1,m
 ct2k3sp,ct2k3sp,m
-ffightua,ffightub,m
+ffightub,ffightub,m
 fswords,fswords,m
 kf2k2mp,kf2k2mp,m
 kf2k3bl,kf2k3bl,m
@@ -501,7 +501,7 @@ ddsomr3,ddsomr3,m
 ddtoda,ddtoda,m
 ddtodr1,ddtodr1,m
 ecofghta,ecofghta,m
-ecofghtu,ecofgtu1,m
+ecofgtu1,ecofgtu1,m
 garoubl,garoubl,m
 gwinga,gwinga,m
 hsf2,hsf2,m
@@ -558,3 +558,19 @@ xmvsfh,xmvsfh,m
 xmvsfj,xmvsfj,m
 xmvsfjr1,xmvsfjr1,m
 xmvsfjr2,xmvsfjr2,m
+19xxb,19xxb,m
+dimahoo,dimahoo,m
+ecofghtu,ecofghtu,m
+ffightu,ffightu,m
+mmancp2u,mmancp2u,m
+nitdbl,nitdbl,m
+nwarr,nwarr,m
+rmancp2j,rmancp2j,m
+sfa3,sfa3,m
+socbrala,socbrala,m
+wh1,wh1,m
+wh2j,wh2j,m
+xmcotaj,xmcotaj,m
+rbff1a,rbff1a,n
+kof2003h,kof2003h,n
+mslug5h,mslug5h,n
