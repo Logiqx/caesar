@@ -1699,6 +1699,44 @@ game (
 	rom ( name mp19323.18 merge mp19323.18 size 4194304 crc 453d3f4a )
 )
 
+game (
+	name dynmcopc
+	description "Dynamite Cop  [Model 2C CRX]"
+	year 1996
+	manufacturer "Sega"
+	cloneof dynamcop
+	romof dynamcop
+	rom ( name ep20952.15 size 524288 crc ec8bc896 sha1 85deb1dc1348730a0c9b6ce3679582e7894ff2ed )
+	rom ( name ep20953.16 size 524288 crc a8276ffd sha1 9bea99c043775c00742c20e2f917d211dca09cc5 )
+	rom ( name ep20932.14 merge ep20932.14 size 524288 crc 618a68bf sha1 3022283dded4d08d790d034b6d543c0397b5bf5a )
+	rom ( name ep20933.15 merge ep20933.15 size 524288 crc 13abe49c sha1 a741a0205c1b3664ab4d09d6d991a768269a79ea )
+	rom ( name mp20797.10 merge mp20797.10 size 4194304 crc 87bab1e4 sha1 af2b2d82364621a1528d6ed59fbfbf15dc93ee72 )
+	rom ( name mp20798.11 merge mp20798.11 size 4194304 crc 40dd752b sha1 8c2e210ac7c7b133ba9befc79a07c4ca6b4e3f18 )
+	rom ( name mp20795.8 merge mp20795.8 size 4194304 crc 0ef85e12 sha1 97c657edd98cde6f0780a04a7711e5b370087a60 )
+	rom ( name mp20796.9 merge mp20796.9 size 4194304 crc 870139cb sha1 24fda2cd458cf7a3db485564c02ac61d30cbdf5e )
+	rom ( name mp20793.6 merge mp20793.6 size 4194304 crc 42ea08f8 sha1 e70b55709067628ea0bf3f5190a300100b61eed1 )
+	rom ( name mp20794.7 merge mp20794.7 size 4194304 crc 8e5cd1db sha1 d90e86d38bda12f2d0f99e23a42928f05bde3ea8 )
+	rom ( name mp20791.4 merge mp20791.4 size 4194304 crc 4883d0df sha1 b98af63e81f6c1b2766d7e96acbd1821bba000d4 )
+	rom ( name mp20792.5 merge mp20792.5 size 4194304 crc 47becfa2 sha1 a333885872a64b322f3cb464a70352d73654b1b3 )
+	rom ( name mp20799.16 merge mp20799.16 size 4194304 crc 424571bf sha1 18a4e8d0e968fff3b645b59a0023b0ef38d51924 )
+	rom ( name mp20803.20 merge mp20803.20 size 4194304 crc 61a8ad52 sha1 0215b5de6d10f0852ac0ca4e10475e10243e39c7 )
+	rom ( name mp20800.17 merge mp20800.17 size 4194304 crc 3c2ee808 sha1 dc0c470c6b410ab991ef0e09ce1cc0f63c8a204d )
+	rom ( name mp20804.21 merge mp20804.21 size 4194304 crc 03b35cb8 sha1 7bd2ae89f9cc7c0570dbaffe5f54aea2dfa1b39e )
+	rom ( name mp20801.18 merge mp20801.18 size 4194304 crc c6914173 sha1 d0861366c4123c833a325df5345f951386a94d1a )
+	rom ( name mp20805.22 merge mp20805.22 size 4194304 crc f6605ede sha1 7c95bfe2e95bae3d59c3c9efe1f40b5bc292ad44 )
+	rom ( name mp20802.19 merge mp20802.19 size 4194304 crc d11b5267 sha1 b90909849fbe0f62d5ec7c38608c84e7fa845ebf )
+	rom ( name mp20806.23 merge mp20806.23 size 4194304 crc 0c942073 sha1 5f32a56857e2213b110c32deea184dba882e34b8 )
+	rom ( name mp20809.25 merge mp20809.25 size 4194304 crc 3b7b4622 sha1 c6f1a1fd2684f352d3846b7f859b0405fa2d667a )
+	rom ( name mp20807.24 merge mp20807.24 size 4194304 crc 1241e0f2 sha1 3f7fa1d7d3d398bc8d5295bc1df6fe11405d20d9 )
+	rom ( name mp20810.27 merge mp20810.27 size 4194304 crc 838a10a7 sha1 a658f1864829058b1d419e7c001e47cd0ab06a20 )
+	rom ( name mp20808.26 merge mp20808.26 size 4194304 crc 706bd495 sha1 f857b303afda6301b19d97dfe5c313126261716e )
+	rom ( name ep20811.30 merge ep20811.30 size 524288 crc a154b83e sha1 2640c6b6966f4a888329e583b6b713bd0e779b6b )
+	rom ( name mp20812.31 merge mp20812.31 size 2097152 crc 695b6088 sha1 09682d18144e60d740a9d7a3e19db6f76fa581f1 )
+	rom ( name mp20813.32 merge mp20813.32 size 2097152 crc 1908679c sha1 32913385f09da2e43af0c4a4612b955527bfe759 )
+	rom ( name mp20814.36 merge mp20814.36 size 2097152 crc e8ebc74c sha1 731ce721bb9e148f3a9f7fbe569522567a681c4e )
+	rom ( name mp20815.37 merge mp20815.37 size 2097152 crc 1b5aaae4 sha1 32b4bf6c096fdccdd5d8f1ddb6c27d3389a52234 )
+)
+
 ################################################################################
 # MMSND
 ################################################################################
