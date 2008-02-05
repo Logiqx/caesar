@@ -95,12 +95,12 @@ emus/linux/invemu_linux	invemu.tgz	92717
 emus/linux/laser_linux	laser09-unix-src.tar	133120
 emus/linux/laser_linux	laser09-unix.zip	26102
 emus/linux/m1_linux	m1071-sdk-lnx.tar.bz2	899692
-emus/linux/m1_linux	m1077u4b-lnx.tar.bz2	2988570
+emus/linux/m1_linux	m1078a5-lnx.tar.bz2	3312372
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raine_0.50.5_i386.deb	1697210
-emus/linux/raine_linux	raines-0.50.5.tar.bz2	1840657
+emus/linux/raine_linux	raine_0.50.6-4_i386.deb	3202348
+emus/linux/raine_linux	raines-0.50.6.tar.bz2	1855489
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -225,7 +225,7 @@ emus/multi/kawaks	hires-skin.zip	250019
 emus/multi/kawaks	sshots.zip	2690164
 emus/multi/kawaks	sshots138.zip	132334
 emus/multi/kawaks	sshots142.zip	69084
-emus/multi/kawaks	winkawaks158.zip	533812
+emus/multi/kawaks	winkawaks159.zip	534683
 emus/multi/kem	kem110.zip	537414
 emus/multi/kong	kong_020.zip	49824
 emus/multi/laser	laser020.zip	567565
@@ -280,7 +280,7 @@ emus/multi/raine32	galdxg.dx2	1258178
 emus/multi/raine32	galdxm.dx2	1405671
 emus/multi/raine32	mspacmang.dx2	1458301
 emus/multi/raine32	pacmang.dx2	2104347
-emus/multi/raine32	rainew-0.50.5.zip	1673930
+emus/multi/raine32	rainew-0.50.6-4.zip	1756953
 emus/multi/replay	repd004.zip	1131826
 emus/multi/replay	replay.zip	18706
 emus/multi/replayplus	rpbd100.zip	899528
@@ -308,7 +308,7 @@ emus/multi/sage	sagesrc.zip	92638
 emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-emus/multi/segamodel2emulator	m2emulator05a.zip	1205604
+emus/multi/segamodel2emulator	m2_emulator_06.zip	1213763
 emus/multi/shark	shark31f.zip	240853
 emus/multi/sideway	sideway.zip	203827
 emus/multi/siemu	siemu-1.03.tar.gz	215066
@@ -611,7 +611,7 @@ emus/sound/hoot	hootsrc20011006.cab	157060
 emus/sound/hoot	mxdrv20010330.cab	7189
 emus/sound/hoot	my_hoot.zip	100976
 emus/sound/m1	m1074bsdk-win32.zip	1484561
-emus/sound/m1	m1077u4b-win32.zip	1184807
+emus/sound/m1	m1078a5-w32.zip	1223698
 emus/sound/mmsnd	mmsnd3610.zip	1764730
 emus/sound/nebula_jukebox	jukebox29.zip	279543
 emus/sound/neojukebox	dsound.zip	4175
