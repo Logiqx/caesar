@@ -10,7 +10,7 @@
 	define ('DB_HOST', 'localhost');
 	define ('DB_NAME', 'lac_caesar');
 	define ('DB_USER', 'lac_php');
-	define ('DB_PASS', '');
+	define ('DB_PASS', 'r34d0nly');
 
 	// Make the connection
 
