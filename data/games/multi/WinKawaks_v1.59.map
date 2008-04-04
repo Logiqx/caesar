@@ -18,7 +18,7 @@ cybotsj,cybotsj,m
 ddsomr2,ddsomr2,m
 ddsomjr1,ddsomjr1,m
 ddtodu,ddtodu,m
-ddtodjr1,ddtodjr1,m
+ddtodjr1,ddtodjr2,m
 ddtodur1,ddtodur1,m
 dino,dino,m
 dinoj,dinoj,m
@@ -402,7 +402,7 @@ tophunta,tophunta,m
 kof2001h,kof2001h,m
 samsho3a,samsho3a,m
 2020bba,2020bba,m
-ddtodj,ddtodj,m
+ddtodj,ddtodjr1,m
 dynwar,dynwar,m
 ghostlop,ghostlop,m
 ncombath,ncombath,m
@@ -571,6 +571,6 @@ socbrala,socbrala,m
 wh1,wh1,m
 wh2j,wh2j,m
 xmcotaj,xmcotaj,m
-rbff1a,rbff1a,n
 kof2003h,kof2003h,n
-mslug5h,mslug5h,n
+mslug5h,mslug5h,m
+rbff1a,rbff1a,m
