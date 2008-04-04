@@ -523,7 +523,6 @@ Cinelator_95_Beta	speedfrk	0470-22	1024	3ca350f4
 Cinelator_95_Beta	speedfrk	0470-28	1024	ca8afcbe
 ClassicEmu_v0.01	sup_galx	supergal.u	2048	e8f3aa67
 ClassicEmu_v0.01	sup_galx	supergal.v	2048	f58283e3
-EMU_v2.3	llander	034597.01	2048	3f55d17f
 GalEmu_v40.9	galaxian	7f	4096	b10533fd
 GalEmu_v40.9	galaxian	7j	4096	9163454d
 GalEmu_v40.9	galaxian	7l	4096	952c6135
@@ -1679,7 +1678,6 @@ Retrocade_v1.2_b2	snowbros	ch3	131072	34024aef
 Retrocade_v1.2_b2	galaxian	7f	4096	b10533fd
 Retrocade_v1.2_b2	galaxian	7j	4096	9163454d
 Retrocade_v1.2_b2	galaxian	7l	4096	952c6135
-Retrocade_v1.2_b2	llander	034597.01	2048	3f55d17f
 Retrocade_v1.2_b2	dotron	loc-cpu4	16384	0477e9a2
 Retrocade_v1.2_b2	atarifb	034006.l5	256	c5ac7bf6
 Retrocade_v1.2_b2	frenzy	5c-5	4096	c71c0011
@@ -1799,7 +1797,6 @@ VAntAGE_v1.12	pisces	pisces.1k	4096	cdc5aa26
 VAntAGE_v1.12	pisces	pisces.1j	4096	2dba9e0e
 VAntAGE_v1.12	pisces	pisces.1k	4096	cdc5aa26
 VBEmu_Screen_Saver_v1.01a	lrescue	lrescue.rom	20480	46f5b924
-Vector_Dream_v2.3	llander	034597.01	2048	3f55d17f
 Xcade_v0.85	pisces	pisces.1j	4096	2dba9e0e
 Xcade_v0.85	pisces	pisces.1k	4096	cdc5aa26
 Xcade_v0.85	pisces	pisces.1j	4096	2dba9e0e
