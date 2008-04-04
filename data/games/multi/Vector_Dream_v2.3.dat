@@ -2,8 +2,13 @@ clrmamepro (
 	name "Vector Dream"
 	description "Vector Dream v2.3"
 	category "Multi Game Arcade Emulator"
-	version 20040709
-	author "Logiqx, http://www.logiqx.com/"
+	version 20080401
+	date 2008-04-01
+	author Logiqx
+	homepage "Logiqx Home Page"
+	url http://www.logiqx.com/
+	comment "Please report any data file issues at http://forum.logiqx.com/"
+	forcenodump required
 )
 
 game (
@@ -17,7 +22,7 @@ game (
 	rom ( name 034569.02 size 2048 crc 72837a4e sha1 9b21ba5e1518079c326ca6e15b9993e6c4483caa )
 	rom ( name 034599.01 size 2048 crc 355a9371 sha1 6ecb40169b797d9eb623bcb17872f745b1bf20fa )
 	rom ( name 034598.01 size 2048 crc 9c4ffa68 sha1 eb4ffc289d254f699f821df3146aa2c6cd78597f )
-	rom ( name 034597.01 size 2048 crc 3f55d17f sha1 e6333e53570fb05a841a7f141872c8bd14143f9c )
+	rom ( name 034597.01 size 2048 flags nodump )
 )
 
 game (

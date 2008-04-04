@@ -2,8 +2,13 @@ clrmamepro (
 	name Calice
 	description "Calice v0.6.6"
 	category "Capcom CPS-1, CPS-2, Neo-Geo, ZN-1 and ZN-2"
-	version 20050116
-	author "Logiqx, http://www.logiqx.com/"
+	version 20080401
+	date 2008-04-01
+	author Logiqx
+	homepage "Logiqx Home Page"
+	url http://www.logiqx.com/
+	comment "Please report any data file issues at http://forum.logiqx.com/"
+	forcenodump ignore
 )
 
 game (
@@ -3097,8 +3102,8 @@ game (
 	rom ( name avpa.04d size 524288 crc 94f50b0c sha1 607b13e4cb4968c47a598f7dfec965c6d6ba68f0 )
 	rom ( name avp.05d merge avp.05d size 524288 crc fbfb5d7a sha1 5549bc9d780753bc9c10fba82588e5c3d4a2acb2 )
 	rom ( name avp.06 merge avp.06 size 524288 crc 190b817f sha1 9bcfc0a015ffba9cdac25b6270939a9690de5da7 )
-	rom ( name avpax.03d size 524288 flags nodump )
-	rom ( name avpax.04d size 524288 flags nodump )
+	rom ( name avpax.03d size 524288 crc efbe8b5f sha1 a49a8ce4bb74c7630c0e84137a0c027516cb9994 )
+	rom ( name avpax.04d size 524288 crc 3b1aa217 sha1 b6ba1929fba00091b94e1e3fc7fcb82c4acb0271 )
 	rom ( name avp.13 merge avp.13 size 2097152 crc 8f8b5ae4 sha1 457ce959aa5db3a003de7dda2b3799b2f1ae279b )
 	rom ( name avp.15 merge avp.15 size 2097152 crc b00280df sha1 bc1291a4a222d410bc99b6f1ed392067d9c3999e )
 	rom ( name avp.17 merge avp.17 size 2097152 crc 94403195 sha1 efaad001527a5eba8f626aea9037ac6ef9a2c295 )

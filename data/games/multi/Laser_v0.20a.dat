@@ -2,8 +2,12 @@ clrmamepro (
 	name Laser
 	description "Laser v0.20a"
 	category "Space Invaders and other games on 8080 Hardware"
-	version 20050328
-	author "Logiqx, http://www.logiqx.com/"
+	version 20080401
+	date 2008-04-01
+	author Logiqx
+	homepage "Logiqx Home Page"
+	url http://www.logiqx.com/
+	comment "Please report any data file issues at http://forum.logiqx.com/"
 	forcemerging split
 )
 
@@ -294,9 +298,7 @@ game (
 )
 
 // sitv uses some incorrect ROMs:
-//
 //	invaders.h and invaders.e from invaders (instead of tv0h.s1)
-//
 // So long as invaders is complete though, sitv will still run
 
 game (
@@ -324,10 +326,8 @@ game (
 )
 
 // sisv2 also loads ROMs from these locations (but can't be represented):
-//
 //	sv0h.bin from sisv
 //	cv01_1.bin and cv02_2.bin from sicv
-//
 // So long as sisv and sicv are complete though, sisv2 will still run
 
 game (
@@ -348,10 +348,8 @@ game (
 )
 
 // sisv also loads ROMs from these locations (but can't be represented):
-//
 //	tv04.m1 from sitv
 //	cv01_1.bin and cv02_2.bin from sicv
-//
 // So long as sitv and sicv are complete though, sisv will still run
 
 game (
@@ -410,10 +408,8 @@ game (
 )
 
 // In addition to these ROMs, earthinv also needs to load:
-//
 //	04 from invadpt2 (which does not exist)
 //	05 from invaddlx (which does not exist)
-//
 // i.e. earthinv WILL NOT LOAD into the emulator!
 
 game (
@@ -528,8 +524,8 @@ game (
 	rom ( name i2 size 1024 crc 5c5f3f86 sha1 25c64ccb7d0e136f67d6e1da7927ae6d89e0ceb9 )
 	rom ( name j1 size 1024 crc 0aa8b79a sha1 aed139e8c8ba912823c57fe4cc7231b2d638f479 )
 	rom ( name basnd.u2 size 1024 crc 75731745 sha1 538a63c9c60f1886fca4caf3eb1e0bada2d3f162 )
-	rom ( name sheriff.cl1 size 1024 flags nodump )
-	rom ( name sheriff.cl2 size 1024 flags nodump )
+	rom ( name sheriff.cl1 size 1024 crc 820f8cdd sha1 197eeb008c140558e7c1ab2b2bd0f6a27096877c )
+	rom ( name sheriff.cl2 size 1024 crc 820f8cdd sha1 197eeb008c140558e7c1ab2b2bd0f6a27096877c )
 )
 
 game (
@@ -596,10 +592,8 @@ game (
 )
 
 // invadpt2 also loads ROMs from these locations but they do not exist!:
-//
 //	invdelux.d and invdelux.e from invaddlx
 //	(instead of pv06_1.bin and pv07_2.bin)
-//
 // So long as invaddlx is complete though, invadpt2 will still run
 
 game (
@@ -685,9 +679,7 @@ game (
 )
 
 // In addition to these ROMs, galxwar2 also needs to load:
-//
 //	univgw4.1, univgw5.2, univgw6.3, univgw2.5 from galxwars
-//
 // So long as galxwars is complete though, galxwar2 will still run
 
 game (
@@ -825,11 +817,9 @@ game (
 )
 
 // Instead of the correct ROMs (00/01/03/04/05), superinv really loads:
-//
 //	invaders.h, invaders.g and invaders.f from invaders
 //	04 from invadpt2 (which does not exist)
 //	05 from invaddlx (which does not exist)
-//
 // i.e. superinv WILL NOT LOAD into the emulator!
 
 game (
@@ -1011,7 +1001,6 @@ game (
 )
 
 // All ROMs must be stored in ozmawars - impossible with any ROM manager
-//
 // i.e. ozmawar2 WILL NOT LOAD into the emulator!
 
 game (
@@ -1061,10 +1050,8 @@ game (
 )
 
 // beaminv uses some incorrect ROMs:
-//
 //	invaders.h, invaders.g and invaders.f from invaders
 //	(instead of 5a, 4a and 3a)
-//
 // So long as invaders is complete though, beaminv will still run
 
 game (
