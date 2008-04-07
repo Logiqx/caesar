@@ -95,7 +95,7 @@ emus/linux/invemu_linux	invemu.tgz	92717
 emus/linux/laser_linux	laser09-unix-src.tar	133120
 emus/linux/laser_linux	laser09-unix.zip	26102
 emus/linux/m1_linux	m1071-sdk-lnx.tar.bz2	899692
-emus/linux/m1_linux	m1078a5-lnx.tar.bz2	3312372
+emus/linux/m1_linux	m1078a6-lnx.tar.bz2	2228243
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
@@ -612,7 +612,7 @@ emus/sound/hoot	hootsrc20011006.cab	157060
 emus/sound/hoot	mxdrv20010330.cab	7189
 emus/sound/hoot	my_hoot.zip	100976
 emus/sound/m1	m1074bsdk-win32.zip	1484561
-emus/sound/m1	m1078a5-w32.zip	1223698
+emus/sound/m1	m1078a6-w32.zip	1226202
 emus/sound/mmsnd	mmsnd3610.zip	1764730
 emus/sound/nebula_jukebox	jukebox29.zip	279543
 emus/sound/neojukebox	dsound.zip	4175

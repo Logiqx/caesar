@@ -3,7 +3,7 @@
 .	_check_for_absolute_links.sh	54
 .	_filelist_compare.sh	1097
 .	_filelist_pc.bat	289
-.	_filelist_pc.txt	806275
+.	_filelist_pc.txt	1011933
 .	_filelist_ztnet.sh	261
 .	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	582
@@ -24018,6 +24018,7 @@ txt/authors	mr_k.txt	68
 txt/authors	murilo_queiroz.txt	237
 txt/authors	mutewitness.txt	87
 txt/authors	namco.txt	709
+txt/authors	negative64.txt	82
 txt/authors	neil_bradley.txt	546
 txt/authors	neil_tringham.txt	240
 txt/authors	neill_corlett.txt	240
@@ -24285,7 +24286,7 @@ txt/emus/multi	callus95patch.txt	627
 txt/emus/multi	cinelator95.txt	708
 txt/emus/multi	cinemu.txt	777
 txt/emus/multi	classicemu.txt	506
-txt/emus/multi	cps3_emulator.txt	660
+txt/emus/multi	cps3_emulator.txt	663
 txt/emus/multi	crystal_system_emulator.txt	754
 txt/emus/multi	daphne.txt	989
 txt/emus/multi	domino.txt	562
@@ -24312,7 +24313,7 @@ txt/emus/multi	kong.txt	431
 txt/emus/multi	laser.txt	1072
 txt/emus/multi	m72.txt	611
 txt/emus/multi	magex.txt	1286
-txt/emus/multi	mame.txt	3654
+txt/emus/multi	mame.txt	3656
 txt/emus/multi	mapefer3.txt	689
 txt/emus/multi	mge.txt	585
 txt/emus/multi	mimic.txt	625
@@ -24357,7 +24358,7 @@ txt/emus/multi	system16.txt	1365
 txt/emus/multi	system8.txt	521
 txt/emus/multi	thearcade.txt	457
 txt/emus/multi	tickle.txt	1175
-txt/emus/multi	u64emu.txt	906
+txt/emus/multi	u64emu.txt	1080
 txt/emus/multi	vantage.txt	1286
 txt/emus/multi	vbemu.txt	672
 txt/emus/multi	vbpac.txt	505
@@ -24558,8 +24559,8 @@ txt/emus/xbox	taito_legends_xbox.txt	1486
 txt/emus/xbox	tecmo_arcade_classics_xbox.txt	761
 txt/files	images.txt	199886
 txt/files	snaps.txt	807425
-txt/files	zips.txt	30326
-txt/games	nonmame.dat	252799
+txt/files	zips.txt	30367
+txt/games	nonmame.dat	245994
 txt/games/amiga	ArcEm_v0.3.dat	2318
 txt/games/amiga	ArcEm_v0.3.txt	163
 txt/games/amiga	ASIE_v5-2001.dat	4030
@@ -24659,7 +24660,7 @@ txt/games/linux	BPE.txt	24
 txt/games/linux	centsim_v0.2.dat	1161
 txt/games/linux	centsim_v0.2.txt	70
 txt/games/linux	M1_v0.7.8a5.dat	711549
-txt/games/linux	M1_v0.7.8a5.txt	45423
+txt/games/linux	M1_v0.7.8a5.txt	45424
 txt/games/linux	vecsim_v0.8.dat	9680
 txt/games/linux	vecsim_v0.8.txt	315
 txt/games/linux	Xcade_v0.85.dat	24141
@@ -24698,7 +24699,7 @@ txt/games/multi	AstDxGL_v0.9.dat	5215
 txt/games/multi	AstDxGL_v0.9.txt	243
 txt/games/multi	CAGE_v1.07.dat	32085
 txt/games/multi	CAGE_v1.07.txt	834
-txt/games/multi	Calice_v0.6.6.dat	737138
+txt/games/multi	Calice_v0.6.6.dat	737218
 txt/games/multi	Calice_v0.6.6.txt	11560
 txt/games/multi	Callus_v0.42.dat	142094
 txt/games/multi	Callus_v0.42.txt	1663
@@ -24706,6 +24707,8 @@ txt/games/multi	Callus95_v0.42_patch_2.4.dat	223707
 txt/games/multi	Callus95_v0.42_patch_2.4.txt	3708
 txt/games/multi	Capcom_Play_System_3_Emulator_v1.0.dat	14217
 txt/games/multi	Capcom_Play_System_3_Emulator_v1.0.txt	880
+txt/games/multi	Capcom_Play_System_3_Emulator_v1.0a.dat	14319
+txt/games/multi	Capcom_Play_System_3_Emulator_v1.0a.txt	896
 txt/games/multi	Cinelator_95_Beta.dat	8720
 txt/games/multi	Cinelator_95_Beta.txt	521
 txt/games/multi	CINEMU_v1.2.dat	7872
@@ -24720,12 +24723,12 @@ txt/games/multi	DSP_v0.3_wip_6.dat	8716
 txt/games/multi	DSP_v0.3_wip_6.txt	177
 txt/games/multi	E++_v1.03.dat	5195
 txt/games/multi	E++_v1.03.txt	156
-txt/games/multi	EMU_v2.3.dat	11192
+txt/games/multi	EMU_v2.3.dat	11152
 txt/games/multi	EMU_v2.3.txt	358
 txt/games/multi	EmuDX_v1.0.dat	2955
 txt/games/multi	EmuDX_v1.0.txt	158
 txt/games/multi	FBA_v0.2.96.72.dat	2336798
-txt/games/multi	FBA_v0.2.96.72.txt	30130
+txt/games/multi	FBA_v0.2.96.72.txt	30132
 txt/games/multi	Final_Burn_v0.518.dat	162703
 txt/games/multi	Final_Burn_v0.518.txt	1967
 txt/games/multi	GalEmu_v40.9.dat	39448
@@ -24752,7 +24755,7 @@ txt/games/multi	KEM_v1.1.dat	29566
 txt/games/multi	KEM_v1.1.txt	474
 txt/games/multi	Kong_Emulator_v0.2.dat	4117
 txt/games/multi	Kong_Emulator_v0.2.txt	110
-txt/games/multi	Laser_v0.20a.dat	65339
+txt/games/multi	Laser_v0.20a.dat	64797
 txt/games/multi	Laser_v0.20a.txt	2639
 txt/games/multi	Laserdisc.dat	159
 txt/games/multi	Laserdisc.txt	58
@@ -24762,8 +24765,7 @@ txt/games/multi	M72_v0.33b.dat	27207
 txt/games/multi	M72_v0.33b.txt	363
 txt/games/multi	MageX_v0.8a.dat	55234
 txt/games/multi	MageX_v0.8a.txt	1018
-txt/games/multi	MAME_v0.122.dat	30863954
-txt/games/multi	MAME_v0.123.dat	31033713
+txt/games/multi	MAME_v0.124a.dat	31748447
 txt/games/multi	Mapefer3_v0.8b.dat	3714
 txt/games/multi	Mapefer3_v0.8b.txt	62
 txt/games/multi	MGE_v0.471.dat	4890
@@ -24781,7 +24783,7 @@ txt/games/multi	Multiple_Invaders_v2.0.txt	357
 txt/games/multi	Nebula_Model_2_v0.9b.dat	72043
 txt/games/multi	Nebula_Model_2_v0.9b.txt	948
 txt/games/multi	Nebula_v2.25b.dat	1085990
-txt/games/multi	Nebula_v2.25b.txt	15667
+txt/games/multi	Nebula_v2.25b.txt	15669
 txt/games/multi	NeoRAGEx_v0.6b.dat	239414
 txt/games/multi	NeoRAGEx_v0.6b.txt	4317
 txt/games/multi	OldSpark_C++_20071006.dat	25924
@@ -24799,12 +24801,12 @@ txt/games/multi	PIE_v1.12.txt	90
 txt/games/multi	RAGE_v0.9.dat	43590
 txt/games/multi	RAGE_v0.9.txt	607
 txt/games/multi	RAINE_v0.50.5.dat	1099050
-txt/games/multi	RAINE_v0.50.5.txt	19559
+txt/games/multi	RAINE_v0.50.5.txt	19560
 txt/games/multi	Replay_v0.04.dat	224071
 txt/games/multi	Replay_v0.04.txt	5864
 txt/games/multi	Replay+_v1.00.dat	22606
 txt/games/multi	Replay+_v1.00.txt	521
-txt/games/multi	Retrocade_v1.2_b2.dat	162060
+txt/games/multi	Retrocade_v1.2_b2.dat	162020
 txt/games/multi	Retrocade_v1.2_b2.txt	4290
 txt/games/multi	Retrovaders_v1.02.dat	31937
 txt/games/multi	Retrovaders_v1.02.txt	1013
@@ -24856,7 +24858,7 @@ txt/games/multi	VBEmu_v1.00a.dat	1274
 txt/games/multi	VBEmu_v1.00a.txt	70
 txt/games/multi	VBPac_v0.10a.dat	1834
 txt/games/multi	VBPac_v0.10a.txt	66
-txt/games/multi	Vector_Dream_v2.3.dat	6210
+txt/games/multi	Vector_Dream_v2.3.dat	6170
 txt/games/multi	Vector_Dream_v2.3.txt	231
 txt/games/multi	Virtua.dat	27388
 txt/games/multi	Virtua.txt	273
@@ -24865,7 +24867,7 @@ txt/games/multi	Virtual_PCB_v0.4.txt	78
 txt/games/multi	Viva_Nonno_v22.0.3.dat	21144
 txt/games/multi	Viva_Nonno_v22.0.3.txt	220
 txt/games/multi	WinKawaks_v1.59.dat	1287515
-txt/games/multi	WinKawaks_v1.59.txt	20207
+txt/games/multi	WinKawaks_v1.59.txt	20209
 txt/games/multi	Winvader_v1.0.dat	5828
 txt/games/multi	Winvader_v1.0.txt	316
 txt/games/multi	xDragon_v0.30.dat	12974
@@ -25200,7 +25202,7 @@ txt/misc	catver.txt	166831
 txt/misc	history.txt	13625046
 txt/misc	mameinfo.txt	13119412
 txt/misc	manufacturers.txt	824
-txt/misc	rombuild.txt	92204
+txt/misc	rombuild.txt	91406
 txt/tools	assemblers.txt	180
 txt/tools	compilers.txt	588
 txt/tools	gfx_libs.txt	395
@@ -25234,12 +25236,11 @@ txt/tools/snd_libs	seal.txt	2101
 txt/tools/snd_libs	wavmix.txt	320
 txt/tools/zip_libs	zlib.txt	1735
 upload	_upload.bat	173
-upload	all.zip	24862
 upload/CVS	Entries	48
 upload/CVS	Repository	36
 upload/CVS	Root	25
 zips	_filelist_pc.bat	329
-zips	_filelist_pc.txt	30326
+zips	_filelist_pc.txt	30367
 zips/emus/amiga/amame	Amame.lha	333436
 zips/emus/amiga/arcem	arcem03.lha	28020
 zips/emus/amiga/asie	ASIE31.lha	124579
@@ -25341,8 +25342,8 @@ zips/emus/linux/m1_linux	m1078a5-lnx.tar.bz2	3312372
 zips/emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 zips/emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 zips/emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-zips/emus/linux/raine_linux	raine_0.50.6-4_i386.deb	3202348
-zips/emus/linux/raine_linux	raines-0.50.6.tar.bz2	1855489
+zips/emus/linux/raine_linux	raine_0.50.12_i386.deb	1944364
+zips/emus/linux/raine_linux	raines-0.50.12.tar.bz2	1978272
 zips/emus/linux/replayplus_linux	rpbl100.zip	610712
 zips/emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 zips/emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -25403,7 +25404,7 @@ zips/emus/multi/cinelator95	config.zip	5743
 zips/emus/multi/cinemu	cine12.zip	59064
 zips/emus/multi/cinemu	cinesrc.zip	115246
 zips/emus/multi/classicemu	clasemu.zip	246278
-zips/emus/multi/cps3_emulator	cps3emulator10.zip	553792
+zips/emus/multi/cps3_emulator	cps3emulator10a.zip	552874
 zips/emus/multi/crystal_system_emulator	CrystalEmu12.zip	210825
 zips/emus/multi/daphne	daphne-0.99.7-src.tar.gz	3499980
 zips/emus/multi/daphne	daphne-0.99.7-win32.zip	2743630
@@ -25522,7 +25523,7 @@ zips/emus/multi/raine32	galdxg.dx2	1258178
 zips/emus/multi/raine32	galdxm.dx2	1405671
 zips/emus/multi/raine32	mspacmang.dx2	1458301
 zips/emus/multi/raine32	pacmang.dx2	2104347
-zips/emus/multi/raine32	rainew-0.50.6-4.zip	1756953
+zips/emus/multi/raine32	rainew-0.50.12.zip	1796079
 zips/emus/multi/replay	repd004.zip	1131826
 zips/emus/multi/replay	replay.zip	18706
 zips/emus/multi/replayplus	rpbd100.zip	899528
@@ -25578,6 +25579,7 @@ zips/emus/multi/u64emu	nekkid10.zip	6896
 zips/emus/multi/u64emu	u64emu302.zip	128628
 zips/emus/multi/u64emu	u64emu302src.zip	699040
 zips/emus/multi/u64emu	u64emu305_dist.zip	133701
+zips/emus/multi/u64emu	u64emu311.zip	104238
 zips/emus/multi/vantage	dkong.zip	385354
 zips/emus/multi/vantage	dkongjr.zip	836546
 zips/emus/multi/vantage	galaga.zip	38647
