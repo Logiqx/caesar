@@ -2,12 +2,14 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="u64emu" type="multi" dat="U64Emu_v3.05">
 	<name>U64Emu</name>
-	<version>3.05</version>
+	<version>3.11</version>
 	<date>14/10/2002</date>
 
 	<homepage>http://kiame.emuhq.com/</homepage>
 	<homepage>http://rcp.emuhq.com/</homepage>
+	<homepage status="bad">http://www.metaworx.net/</homepage>
 	<author_link id="rcp">&author_rcp;</author_link>
+	<author_link id="negative64">&author_negative64;</author_link>
 
 	<emulates>Killer Instinct and Killer Instinct 2</emulates>
 	<comment>Formerly known as KIAME, this emulator emulates Killer Instinct and Killer Instinct 2 (based on Nintendo's Ultra-64 Hardware). Much of the code is taken from TRWin (Nintendo 64 emulator), also by RCP.</comment>
@@ -38,6 +40,7 @@
 	</features>
 
 	<files>
+		<file name="u64emu311.zip">Emulator v3.11 (by Negative64)</file>
 		<file name="u64emu305_dist.zip">Emulator v3.05 distribution</file>
 		<file name="u64emu302.zip">Emulator v3.02</file>
 		<file name="u64emu302src.zip">Source v3.02</file>

@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="raine32" type="multi" dat="RAINE_v0.50.5">
 	<name>RAINE32</name>
-	<version>0.50.6</version>
-	<date>05/01/2008</date>
+	<version>0.50.12</version>
+	<date>05/04/2008</date>
 
 	<homepage>http://www.rainemu.com/</homepage>
 	<author_link id="tux">&author_tux;</author_link>
@@ -51,7 +51,7 @@
 	</features>
 
 	<files>
-		<file name="rainew-0.50.6-4.zip">Emulator</file>
+		<file name="rainew-0.50.12.zip">Emulator</file>
 		<file name="dkongg.dx2">Donkey Kong DX File (Graphics)</file>
 		<file name="dkongm.dx2">Donkey Kong DX File (Music)</file>
 		<file name="froggerg.dx2">Frogger DX File (Graphics)</file>

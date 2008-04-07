@@ -99,8 +99,8 @@ emus/linux/m1_linux	m1078a5-lnx.tar.bz2	3312372
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raine_0.50.6-4_i386.deb	3202348
-emus/linux/raine_linux	raines-0.50.6.tar.bz2	1855489
+emus/linux/raine_linux	raine_0.50.12_i386.deb	1944364
+emus/linux/raine_linux	raines-0.50.12.tar.bz2	1978272
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -161,7 +161,7 @@ emus/multi/cinelator95	config.zip	5743
 emus/multi/cinemu	cine12.zip	59064
 emus/multi/cinemu	cinesrc.zip	115246
 emus/multi/classicemu	clasemu.zip	246278
-emus/multi/cps3_emulator	cps3emulator10.zip	553792
+emus/multi/cps3_emulator	cps3emulator10a.zip	552874
 emus/multi/crystal_system_emulator	CrystalEmu12.zip	210825
 emus/multi/daphne	daphne-0.99.7-src.tar.gz	3499980
 emus/multi/daphne	daphne-0.99.7-win32.zip	2743630
@@ -280,7 +280,7 @@ emus/multi/raine32	galdxg.dx2	1258178
 emus/multi/raine32	galdxm.dx2	1405671
 emus/multi/raine32	mspacmang.dx2	1458301
 emus/multi/raine32	pacmang.dx2	2104347
-emus/multi/raine32	rainew-0.50.6-4.zip	1756953
+emus/multi/raine32	rainew-0.50.12.zip	1796079
 emus/multi/replay	repd004.zip	1131826
 emus/multi/replay	replay.zip	18706
 emus/multi/replayplus	rpbd100.zip	899528
@@ -336,6 +336,7 @@ emus/multi/u64emu	nekkid10.zip	6896
 emus/multi/u64emu	u64emu302.zip	128628
 emus/multi/u64emu	u64emu302src.zip	699040
 emus/multi/u64emu	u64emu305_dist.zip	133701
+emus/multi/u64emu	u64emu311.zip	104238
 emus/multi/vantage	dkong.zip	385354
 emus/multi/vantage	dkongjr.zip	836546
 emus/multi/vantage	galaga.zip	38647

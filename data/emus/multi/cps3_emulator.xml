@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="cps3_emulator" type="multi" dat="Capcom_Play_System_3_Emulator_v1.0">
+<emulator id="cps3_emulator" type="multi" dat="Capcom_Play_System_3_Emulator_v1.0a">
 	<name>Capcom Play System 3 Emulator</name>
-	<version>1.0</version>
-	<date>08/07/2007</date>
+	<version>1.0a</version>
+	<date>15/07/2007</date>
 
 	<homepage>http://nebula.emulatronia.com/</homepage>
 	<author_link id="elsemi">&author_elsemi;</author_link>
@@ -41,6 +41,6 @@
 	</features>
 
 	<files>
-		<file name="cps3emulator10.zip">Emulator</file>
+		<file name="cps3emulator10a.zip">Emulator</file>
 	</files>
 </emulator>
