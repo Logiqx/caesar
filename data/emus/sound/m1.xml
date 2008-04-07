@@ -2,10 +2,10 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="m1" type="sound" dat="dummy">
 	<name>M1</name>
-	<version>0.7.8a5</version>
+	<version>0.7.8a6</version>
 	<date>11/11/2007</date>
 
-	<homepage>http://rbelmont.mameworld.info/</homepage>
+	<homepage>http://rbelmont.mameworld.info/?page_id=223</homepage>
 	<homepage>http://www.emuhype.com/</homepage>
 	<author_link id="richter_belmont">&author_richter_belmont;</author_link>
 
@@ -37,7 +37,7 @@
 	</features>
 
 	<files>
-		<file name="m1078a5-w32.zip">Emulator</file>
+		<file name="m1078a6-w32.zip">Emulator</file>
 		<file name="m1074bsdk-win32.zip">SDK (Source 0.7.4)</file>
 	</files>
 
