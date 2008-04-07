@@ -1,9 +1,14 @@
 clrmamepro (
 	name M1
-	description "M1 v0.7.8a5 [sound only]"
+	description "M1 v0.7.8a6 [sound only]"
 	category "Arcade Machine Sound Emulator"
-	version 20080102
-	author "Logiqx, http://www.logiqx.com/"
+	version 20080317
+	date 2008-03-17
+	author Logiqx
+	homepage "Logiqx Home Page"
+	url http://www.logiqx.com/
+	comment "Please report any data file issues at http://forum.logiqx.com/"
+	forcenodump ignore
 )
 
 game (
@@ -15964,5 +15969,296 @@ game (
 	board "Neo Geo"
 	rom ( name 070-m1.bin size 131072 crc 5a3b3191 sha1 fa9a9930e18c64e598841fb344c4471d3d2c1964 )
 	rom ( name 070-v1.bin size 2097152 crc d3a7e1ff sha1 4a4a227e10f4af58168f6c26011ea1d414253f92 )
+)
+
+game (
+	name nslasher
+	description "Night Slashers [sound only]"
+	year 1994
+	manufacturer "Data East Corporation"
+	board "Night Slashers"
+	rom ( name sndprg.17l size 65536 crc 18939e92 sha1 50b37a78d9d2259d4b140dd17393c4e5ca92bca5 )
+	rom ( name mbh-10.14l size 524288 crc c4d6b116 sha1 c5685bce6a6c6a74ca600ebf766ba1007f0dc666 )
+	rom ( name mbh-11.16l size 524288 crc 0ec40b6b sha1 9fef44149608ae2a00f6a75a6f77f2efcab6e78e )
+)
+
+game (
+	name kouyakyu
+	description "The Koukouyakyuh [sound only]"
+	year 1985
+	manufacturer "Alpha Denshi Co."
+	board "Equites Sound Board"
+	rom ( name epr-6703.bin size 8192 crc fbff3a86 sha1 4ed2887b1e4509ded853a230f735d4d2aa475886 )
+	rom ( name epr-6702.bin size 8192 crc 27ddf031 sha1 2f11d3b693e46852762669ed1e35a667990edec7 )
+	rom ( name epr-6701.bin size 8192 crc 3c83588a sha1 a84c813ba9d464cffc855397aaacbb9177c86fb4 )
+	rom ( name epr-6700.bin size 8192 crc ee579266 sha1 94dfcf506049fc78db00084ff7031d19520d9a85 )
+	rom ( name epr-6699.bin size 8192 crc 9bfa4a72 sha1 8ac4d308dab0d67a26b4e3550c2e8064aaf36a74 )
+	rom ( name epr-6698.bin size 8192 crc 7adfd1ff sha1 b543dd6734a681a187dabf602bea390de663039c )
+)
+
+game (
+	name gekisou
+	description "Gekisou (Japan) [sound only]"
+	year 1985
+	manufacturer "Eastern Micro Electronics"
+	board "Equites Sound Board"
+	rom ( name v1.1l size 16384 crc dc6af437 sha1 77112fec51343d8e73765b2a342a888612813c3b )
+	rom ( name v2.1h size 16384 crc cb12582e sha1 ef378232e2744540cc4c9187cfb36d780dadc962 )
+	rom ( name v3.1e size 16384 crc 0ab5e777 sha1 9177c42418f022a65d73c3302873b894c5a137a4 )
+)
+
+game (
+	name bullfgtr
+	description "Bull Fighter [sound only]"
+	year 1985
+	manufacturer "Alpha Denshi Co."
+	board "Equites Sound Board"
+	rom ( name hv1vr.bin size 8192 crc 2a8e6fcf sha1 866903408e05938a982ffef4c9b849203c6cc060 )
+	rom ( name hv2vr.bin size 8192 crc 026e1533 sha1 6271869a3faaafacfac35262746e87a83c158b93 )
+	rom ( name hv3vr.bin size 8192 crc 51ee751c sha1 60bf848dfdfe313ab05df5a5c05819b0fa87ca50 )
+	rom ( name hv4vr.bin size 8192 crc 62c7a25b sha1 237d3cbdfbf45b33c2f65d30faba151380866a93 )
+)
+
+game (
+	name splndrbt
+	description "Splendor Blast [sound only]"
+	year 1985
+	manufacturer "Alpha Denshi Co."
+	board "Equites Sound Board"
+	rom ( name 1_v.1m size 8192 crc 1b3a6e42 sha1 41a4f0503c939ec0a739c8bc6bf3c8fc354912ee )
+	rom ( name 2_v.1l size 8192 crc 2a618c72 sha1 6ad459d94352c317150ae6344d4db9bb613938dd )
+	rom ( name 3_v.1k size 8192 crc bbee5346 sha1 753cb784b04f081fa1f8590dc28056d9918f313b )
+	rom ( name 4_v.1h size 8192 crc 10f45af4 sha1 00fa599bad8bf3ba6deee54165f381403096e8f9 )
+)
+
+game (
+	name hvoltage
+	description "High Voltage [sound only]"
+	year 1985
+	manufacturer "Alpha Denshi Co."
+	board "Equites Sound Board"
+	rom ( name 5_v.1l size 16384 crc ed9bb6ea sha1 73b0251b86835368ec2a4e98a5f61e28e58fd234 )
+	rom ( name 6_v.1h size 16384 crc e9542211 sha1 482f2c90e842fe5cc31cc6a39025adf65ba47ce9 )
+	rom ( name 7_v.1e size 16384 crc 44d38554 sha1 6765971376eafa218fda1accb1e173a7c1850cc8 )
+)
+
+game (
+	name equites
+	description "Equites [sound only]"
+	year 1984
+	manufacturer "Alpha Denshi Co."
+	board "Equites Sound Board"
+	rom ( name ev1.1m size 8192 crc 43faaf2e sha1 c9aaf298d673eb70399366776474f1b242549eb4 )
+	rom ( name ev2.1l size 8192 crc 09e6702d sha1 896771f73a486e5035909eeed9ef48103d81d4ae )
+	rom ( name ev3.1k size 8192 crc 10ff140b sha1 7c28f988a9c8b2a702d007096199e67b447a183c )
+	rom ( name ev4.1h size 8192 crc b7917264 sha1 e58345fda088b171fd348959de15082f3cb42514 )
+)
+
+game (
+	name bigfight
+	description "Big Fight [sound only]"
+	year 1992
+	manufacturer "Tatsumi"
+	board "Round Up 5"
+	rom ( name rom20.ic91 size 65536 crc b3add091 sha1 8a67bfff75c13fe4d9b89d30449199200d11cea7 )
+	rom ( name rom15.ic39 size 262144 crc 58d136e8 sha1 4aa063c4b9b057cba4655ecbe44a87c8c411e3aa )
+)
+
+game (
+	name cyclwarr
+	description "Cycle Warriors [sound only]"
+	year 1991
+	manufacturer "Tatsumi"
+	board "Round Up 5"
+	rom ( name cw26a size 65536 crc f7a70e3a sha1 5581633bf1f15d7f5c1e03de897d65d60f9f1e33 )
+	rom ( name cw24a size 131072 crc 22600cba sha1 a1514fbe037942f1493a17eb0b7986949470cb22 )
+	rom ( name cw25a size 131072 crc 372c6bc8 sha1 d4875bf3bffecf338bebba3b8d6a791585556a06 )
+)
+
+game (
+	name roundup5
+	description "Round Up 5 - Super Delta Force [sound only]"
+	year 1989
+	manufacturer "Tatsumi"
+	board "Round Up 5"
+	rom ( name ru-28d size 65536 crc df36c6c5 sha1 c046482043f6b54c55696ba3d339ffb11d78f674 )
+	rom ( name ru-17b size 131072 crc 82391b47 sha1 6b1977522c6e906503abc50bdd24c4c38cdc9bdb )
+	rom ( name ru-16e size 65536 crc 374fe170 sha1 5d190a2735698b0384948bfdb1a900f56f0d7ebc )
+)
+
+game (
+	name 40love
+	description "Forty-Love [sound only]"
+	year 1984
+	manufacturer "Taito"
+	board "Taito Sound Board '84"
+	rom ( name a30-08.u08 size 8192 crc 2fc42ee1 sha1 b56e5f9acbcdc476252e188f41ad7249dba6f8e1 )
+	rom ( name a30-09.u09 size 8192 crc 3a75abce sha1 ad2df26789d38196c0677c22ab8f176e99604b18 )
+	rom ( name a30-10.u10 size 8192 crc 393c4b5b sha1 a8e1dd5c33e929bc832cccc13b85ecd13fff1eb2 )
+	rom ( name a30-11.u37 size 8192 crc 11b2c6d2 sha1 d55690512a37c4df2386a845e0cfb14f8052295b )
+	rom ( name a30-12.u38 size 8192 crc f7afd475 sha1 dd09d5ca7fec5e0454f9efb8ebc722561010f124 )
+	rom ( name a30-13.u39 size 8192 crc e806630f sha1 09022aae88ea0171a0aacf3260fa3a95e8faeb21 )
+)
+
+game (
+	name fieldday
+	description "Field Day [sound only]"
+	year 1984
+	manufacturer "Taito"
+	board "Taito Sound Board '84"
+	rom ( name a17_24.bin size 8192 crc 6bac6b7f sha1 eb95192204a868737d609b789312ac37c31d3071 )
+	rom ( name a17_25.bin size 8192 crc 570b90b1 sha1 2a8c3bebd15655ffbfeaf40c2db90292afbb11ef )
+	rom ( name a17_26.bin size 8192 crc 7a8ea7f4 sha1 1d9d2b54645266f95aa89cdbec6f82d4ac20d6e4 )
+	rom ( name a17_27.bin size 8192 crc e10594d9 sha1 3df15b8b0c7af9fed93eca27237e15e6a7a8f835 )
+	rom ( name a17_28.bin size 8192 crc 1a4d1dae sha1 fbc3c55ad9f15ead432c136eec648fe22e523ea7 )
+	rom ( name a17_29.bin size 8192 crc 3c540007 sha1 549e7ff260214c538913ff548dcb088987845911 )
+)
+
+game (
+	name victnine
+	description "Victorious Nine [sound only]"
+	year 1984
+	manufacturer "Taito"
+	board "Taito Sound Board '84"
+	rom ( name a16-12.8 size 8192 crc 4b9bff43 sha1 4bcd52d6d72213f8fa7b544dbdd344312a9e2115 )
+	rom ( name a16-13.9 size 8192 crc 355121b9 sha1 69cbe31eed53456f49a81c37b6661f7ba4a72fa6 )
+	rom ( name a16-14.10 size 8192 crc 0f33ef4d sha1 6916016d7cf43870d2e19fc1e6f1b20e48e07d76 )
+	rom ( name a16-15.37 size 8192 crc f91d63dc sha1 4585d0c7ed05249c17385f20b6557e2e4375a6bb )
+	rom ( name a16-16.38 size 8192 crc 9395351b sha1 8f97bdf03dec47bcaaa62fb66c545566776116be )
+	rom ( name a16-17.39 size 8192 crc 872270b3 sha1 2298cb8ced6c3e9afb430faab1b38ba8f2fa93b5 )
+)
+
+game (
+	name onna34ro
+	description "Onna Sansirou - Typhoon Gal (set 1) [sound only]"
+	year 1985
+	manufacturer "Taito"
+	board "Taito Sound Board '84"
+	rom ( name a52-12.08s size 8192 crc 28f48096 sha1 20aa5041cd71003e0981c32e34005bcbad53f707 )
+	rom ( name a52-13.09s size 8192 crc 4d3b16f3 sha1 8687b76398da875f69e9565277f00478c2b82a99 )
+	rom ( name a52-14.10s size 8192 crc 90a6f4e8 sha1 101767a90e963f3031e0830fd25a537ca8296de9 )
+	rom ( name a52-15.37s size 8192 crc 5afc21d0 sha1 317d5fb3a48ce5e13e02c5c6431fa08ada115d27 )
+	rom ( name a52-16.38s size 8192 crc ccf42aee sha1 a6eb01c5384724999631b55700dade430b71ca95 )
+)
+
+game (
+	name flstory
+	description "The FairyLand Story [sound only]"
+	year 1985
+	manufacturer "Taito"
+	board "Taito Sound Board '84"
+	rom ( name snd.22 size 8192 crc d58b201d sha1 1c9c2936ec95a8fa920d58668bea420c5e15008f )
+	rom ( name snd.23 size 8192 crc 25e7fd9d sha1 b9237459e3d8acf8502a693914e50714a37d515e )
+)
+
+game (
+	name msisaac
+	description "Metal Soldier Isaac II [sound only]"
+	year 1985
+	manufacturer "Taito"
+	board "Metal Soldier Isaac"
+	rom ( name a34_01.bin size 16384 crc 545e45e7 sha1 18ddb1ec8809bb62ae1c1068cd16cd3c933bf6ba )
+)
+
+game (
+	name smgp
+	description "Super Monaco GP [sound only]"
+	year 1989
+	manufacturer "Sega"
+	board "Super Monaco GP"
+	rom ( name epr12436.17 size 65536 crc 16ec5f0a sha1 307b7388b5c36fd4bc2a61f7941db44858e03c5c )
+	rom ( name mpr12437.11 size 131072 crc a1c7e712 sha1 fa7fa8c39690ae5dab8b28af5aeed5ffae2cd6de )
+	rom ( name mpr12438.12 size 131072 crc 6573d46b sha1 c4a4a0ea35250eff28a5bfd5e9cd372f52fd1308 )
+	rom ( name mpr12439.13 size 131072 crc 13bf6de5 sha1 92228a05ec33d606491a1da98c4989f69cddbb49 )
+)
+
+game (
+	name g_acro
+	description "Aero the Acro-Bat (U) [c][!] [sound only]"
+	year 1993
+	manufacturer "Sunsoft / Iguana"
+	board "Sega Genesis/MegaDrive"
+	rom ( name "Aero The Acro-Bat (U) [x].md" size 1048576 crc a3a7a8b5 sha1 438fec09e05337a063f986632b52c9d60dd03ba1 )
+)
+
+game (
+	name g_acr2
+	description "Aero the Acro-Bat 2 (U) [!] [sound only]"
+	year 1994
+	manufacturer "Sunsoft / Iguana"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_acr2.bin size 2097152 crc 39eb74eb sha1 6284a8a6c39137493b1ccc01fcd115cdfb775750 )
+)
+
+game (
+	name g_arca
+	description "Arcade Classics (U) [!] [sound only]"
+	year 1995
+	manufacturer "Digital Eclipse / Williams"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_arca.bin size 524288 crc 8aed2090 sha1 ec29aec7848dbcea6678adb4b31deba0a6ecf1e2 )
+)
+
+game (
+	name g_clay
+	description "Clay Fighter (U) [!] [sound only]"
+	year 1994
+	manufacturer "Interplay / Visual Concepts"
+	board "Sega Genesis/MegaDrive"
+	rom ( name "Clay Fighter (U).md" size 2097152 crc b12c1bc1 sha1 9cd15c84f4ee85ad8f3a512a0fed000724251758 )
+)
+
+game (
+	name g_desd
+	description "Desert Demomlition [sound only]"
+	year 1995
+	manufacturer "Blue Sky / Sega"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_desd.bin size 1048576 crc c287343d sha1 afc95f7ce66e30abbe10f8d5cd6b791407c7a0bc )
+)
+
+game (
+	name g_ejim
+	description "Earthworm Jim (U) [!] [sound only]"
+	year 1994
+	manufacturer "Shiny / Playmates Interactive Entertainment / Virgin"
+	board "Sega Genesis/MegaDrive"
+	rom ( name "Earthworm Jim (U).md" size 3145728 crc df3acf59 sha1 a544211d1ebab1f096f6e72a0d724f74f9ddbce8 )
+)
+
+game (
+	name g_jim2
+	description "Earthworm Jim 2 (U) [!] [sound only]"
+	year 1995
+	manufacturer "Shiny / Playmates Interactive Entertainment / Virgin"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_jim2.bin size 3145728 crc d57f8ba7 sha1 ef7cccfc5eafa32fc6acc71dd9b71693f64eac94 )
+)
+
+game (
+	name g_ma96
+	description "Madden NFL 96 (UE) [!] [sound only]"
+	year 1995
+	manufacturer "Electronic Arts"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_ma96.bin size 2097152 crc f126918b sha1 35a4241eed51f10de2e63c843f162ce5d92c70a2 )
+)
+
+game (
+	name g_scob
+	description "Scooby Doo Mystery (U) [!] [sound only]"
+	year 1995
+	manufacturer "Acclaim"
+	board "Sega Genesis/MegaDrive"
+	rom ( name g_scob.bin size 2097152 crc 7bb9dd9b sha1 ccc9542d964de5bdc1e9101620cae40dd98e7127 )
+)
+
+game (
+	name g_ootw
+	description "Out of this World (Beta) [sound only]"
+	year 1992
+	manufacturer "Delphine / Virgin"
+	board "Sega Genesis/MegaDrive"
+	rom ( name "Out of This World (U).md" size 1048576 crc 2da36e01 sha1 f00f96fb1b346d5b13c6bc8bc586477fed743800 )
 )
 
