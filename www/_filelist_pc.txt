@@ -3,7 +3,7 @@
 .	_check_for_absolute_links.sh	54
 .	_filelist_compare.sh	1097
 .	_filelist_pc.bat	289
-.	_filelist_pc.txt	1011933
+.	_filelist_pc.txt	919540
 .	_filelist_ztnet.sh	261
 .	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	582
@@ -24240,11 +24240,11 @@ txt/emus/linux	gngeo.txt	838
 txt/emus/linux	gxp_linux.txt	536
 txt/emus/linux	invemu_linux.txt	711
 txt/emus/linux	laser_linux.txt	611
-txt/emus/linux	m1_linux.txt	685
+txt/emus/linux	m1_linux.txt	697
 txt/emus/linux	modeler_linux.txt	697
 txt/emus/linux	oldsparkcpplinux.txt	609
 txt/emus/linux	pacifi3d_linux.txt	1139
-txt/emus/linux	raine_linux.txt	1048
+txt/emus/linux	raine_linux.txt	1049
 txt/emus/linux	replayplus_linux.txt	940
 txt/emus/linux	sega_c2_linux.txt	799
 txt/emus/linux	side_linux.txt	943
@@ -24521,7 +24521,7 @@ txt/emus/sound	cpse.txt	529
 txt/emus/sound	fm_emu.txt	654
 txt/emus/sound	gxp.txt	623
 txt/emus/sound	hoot.txt	965
-txt/emus/sound	m1.txt	613
+txt/emus/sound	m1.txt	625
 txt/emus/sound	mmsnd.txt	740
 txt/emus/sound	nebula_jukebox.txt	690
 txt/emus/sound	neojukebox.txt	832
@@ -24559,8 +24559,8 @@ txt/emus/xbox	taito_legends_xbox.txt	1486
 txt/emus/xbox	tecmo_arcade_classics_xbox.txt	761
 txt/files	images.txt	199886
 txt/files	snaps.txt	807425
-txt/files	zips.txt	30367
-txt/games	nonmame.dat	245994
+txt/files	zips.txt	30366
+txt/games	nonmame.dat	248569
 txt/games/amiga	ArcEm_v0.3.dat	2318
 txt/games/amiga	ArcEm_v0.3.txt	163
 txt/games/amiga	ASIE_v5-2001.dat	4030
@@ -24659,8 +24659,8 @@ txt/games/linux	BPE.dat	900
 txt/games/linux	BPE.txt	24
 txt/games/linux	centsim_v0.2.dat	1161
 txt/games/linux	centsim_v0.2.txt	70
-txt/games/linux	M1_v0.7.8a5.dat	711549
-txt/games/linux	M1_v0.7.8a5.txt	45424
+txt/games/linux	M1_v0.7.8a6.dat	723963
+txt/games/linux	M1_v0.7.8a6.txt	46282
 txt/games/linux	vecsim_v0.8.dat	9680
 txt/games/linux	vecsim_v0.8.txt	315
 txt/games/linux	Xcade_v0.85.dat	24141
@@ -24705,8 +24705,6 @@ txt/games/multi	Callus_v0.42.dat	142094
 txt/games/multi	Callus_v0.42.txt	1663
 txt/games/multi	Callus95_v0.42_patch_2.4.dat	223707
 txt/games/multi	Callus95_v0.42_patch_2.4.txt	3708
-txt/games/multi	Capcom_Play_System_3_Emulator_v1.0.dat	14217
-txt/games/multi	Capcom_Play_System_3_Emulator_v1.0.txt	880
 txt/games/multi	Capcom_Play_System_3_Emulator_v1.0a.dat	14319
 txt/games/multi	Capcom_Play_System_3_Emulator_v1.0a.txt	896
 txt/games/multi	Cinelator_95_Beta.dat	8720
@@ -25240,7 +25238,7 @@ upload/CVS	Entries	48
 upload/CVS	Repository	36
 upload/CVS	Root	25
 zips	_filelist_pc.bat	329
-zips	_filelist_pc.txt	30367
+zips	_filelist_pc.txt	30366
 zips/emus/amiga/amame	Amame.lha	333436
 zips/emus/amiga/arcem	arcem03.lha	28020
 zips/emus/amiga/asie	ASIE31.lha	124579
@@ -25338,7 +25336,7 @@ zips/emus/linux/invemu_linux	invemu.tgz	92717
 zips/emus/linux/laser_linux	laser09-unix-src.tar	133120
 zips/emus/linux/laser_linux	laser09-unix.zip	26102
 zips/emus/linux/m1_linux	m1071-sdk-lnx.tar.bz2	899692
-zips/emus/linux/m1_linux	m1078a5-lnx.tar.bz2	3312372
+zips/emus/linux/m1_linux	m1078a6-lnx.tar.bz2	2228243
 zips/emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 zips/emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 zips/emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
@@ -25855,7 +25853,7 @@ zips/emus/sound/hoot	hootsrc20011006.cab	157060
 zips/emus/sound/hoot	mxdrv20010330.cab	7189
 zips/emus/sound/hoot	my_hoot.zip	100976
 zips/emus/sound/m1	m1074bsdk-win32.zip	1484561
-zips/emus/sound/m1	m1078a5-w32.zip	1223698
+zips/emus/sound/m1	m1078a6-w32.zip	1226202
 zips/emus/sound/mmsnd	mmsnd3610.zip	1764730
 zips/emus/sound/nebula_jukebox	jukebox29.zip	279543
 zips/emus/sound/neojukebox	dsound.zip	4175
