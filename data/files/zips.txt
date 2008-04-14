@@ -144,6 +144,9 @@ emus/mac/williams_digital_arcade	stargatepatch.sit.hqx	551008
 emus/mac/williams_digital_arcade	stargatepatch2.sit.hqx	42352
 emus/mac/yiear	yakf.cpt.Hqx	91675
 emus/mac/yiear	YieAr.sit	446868
+emus/multi/aae	aae.zip	55901228
+emus/multi/aae	aaeup4.zip	14133121
+emus/multi/aae	aaeup5.zip	1959518
 emus/multi/ace	ace18src.zip	416316
 emus/multi/ace	ace19.zip	222252
 emus/multi/ace	sgemf.zip	332
@@ -190,9 +193,9 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029672_non_unicode.zip	1902811
-emus/multi/finalburnalpha	fba_029672_unicode.zip	1909762
-emus/multi/finalburnalpha	fba_src_029672.zip	2207367
+emus/multi/finalburnalpha	fba_029679_non_unicode.zip	2101772
+emus/multi/finalburnalpha	fba_029679_unicode.zip	2108617
+emus/multi/finalburnalpha	fba_src_029679.zip	2690448
 emus/multi/finalburnalpha	francais.flt	35177
 emus/multi/finalburnalpha	mingw-cygwin-libs.zip	410007
 emus/multi/galemu	gal0409.zip	263302

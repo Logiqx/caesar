@@ -12,6 +12,7 @@
 	<comment>Written in x86 assembler and very fast. The one minor limitation is that it doesn't natively handle bank switching.</comment>
 
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
 		<emulator_link id="bebombjack" type="beos">&emulator_bebombjack;</emulator_link>
 		<emulator_link id="begeminiwing" type="beos">&emulator_begeminiwing;</emulator_link>

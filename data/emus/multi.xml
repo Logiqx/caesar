@@ -4,6 +4,7 @@
 	<title>Multi Emulators</title>
 	<comment>These emulators support a variety of different games, not just a single game and it's clones</comment>
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="siemu" type="multi">&emulator_siemu;</emulator_link>
 		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
 		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>

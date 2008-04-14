@@ -12,6 +12,7 @@
 
 	<emulator_links>
 		<emulator_link id="1942" type="single">&emulator_1942;</emulator_link>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="amoad" type="single">&emulator_amoad;</emulator_link>
 		<emulator_link id="arcadeemu" type="multi">&emulator_arcadeemu;</emulator_link>
 		<emulator_link id="asciipac" type="single">&emulator_asciipac;</emulator_link>

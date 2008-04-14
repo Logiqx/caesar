@@ -4,6 +4,7 @@
 	<title>Recent Emulators</title>
 	<comment>These emulators have all been released/updated in the past year, still active or likely to receive further updates. ROMCenter/CMPro dats are available individually from my main page at <a href="http://www.logiqx.com/">http://www.logiqx.com/</a></comment>
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="cps3_emulator" type="multi">&emulator_cps3_emulator;</emulator_link>
 		<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
 		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>

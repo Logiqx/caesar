@@ -12,6 +12,7 @@
 	<comment>Written in x86 assembler and pretty fast</comment>
 
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="soundsgood" type="sound">&emulator_soundsgood;</emulator_link>
 		<emulator_link id="besnowbros" type="beos">&emulator_besnowbros;</emulator_link>
 		<emulator_link id="boo" type="single">&emulator_boo;</emulator_link>

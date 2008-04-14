@@ -12,6 +12,7 @@
 	<comment>Written in x86 assembler and very fast</comment>
 
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="emudx" type="multi">&emulator_emudx;</emulator_link>
 		<emulator_link id="emudx32" type="multi2">&emulator_emudx32;</emulator_link>
 		<emulator_link id="replayplus" type="multi">&emulator_replayplus;</emulator_link>

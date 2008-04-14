@@ -235,6 +235,9 @@ emus/mac/williams_digital_arcade	joust_1.png	3086	302	255
 emus/mac/williams_digital_arcade	joust_2.png	2142	302	255
 emus/mac/williams_digital_arcade	robotron_1.png	3622	302	255
 emus/mac/williams_digital_arcade	robotron_2.png	1315	302	255
+emus/multi	aae_1.png	94800	1024	768
+emus/multi	aae_2.png	24307	1024	768
+emus/multi	aae_3.png	653723	1024	768
 emus/multi	ace_1.png	31711	768	448
 emus/multi	cage_1.png	6815	301	346
 emus/multi	callus_1.png	15136	384	224

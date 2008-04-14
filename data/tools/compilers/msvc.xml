@@ -11,6 +11,7 @@
 	<comment>Part of the Visual Studio development environment</comment>
 
 	<emulator_links>
+		<emulator_link id="aae" type="multi">&emulator_aae;</emulator_link>
 		<emulator_link id="ace" type="multi">&emulator_ace;</emulator_link>
 		<emulator_link id="annoid" type="single">&emulator_annoid;</emulator_link>
 		<emulator_link id="astdxgl" type="multi">&emulator_astdxgl;</emulator_link>
