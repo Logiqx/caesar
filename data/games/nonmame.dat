@@ -1514,12 +1514,58 @@ game (
 )
 
 ###############################################################################
-# Tickle
+# Discrete Logic
 ################################################################################
+
+game (
+	name pong
+	description "Pong"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
+
+game (
+	name pongdbls
+	description "Pong (Doubles)"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
+
+game (
+	name hockeytv
+	description "Hockey TV"
+	year 1972
+	manufacturer "Atari"
+	chip ( type cpu name GENSYNC clock 7109640 )
+	chip ( type audio name Custom )
+	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
+	sound ( channels 1 )
+	input ( players 2 control stick )
+	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
+)
 
 game (
 	name rebound
 	description "Rebound"
+	year 1973
+	manufacturer "Atari"
+)
+
+game (
+	name gotchaa
+	description "Gotcha"
 	year 1973
 	manufacturer "Atari"
 )
@@ -3775,45 +3821,6 @@ game (
 	video ( screen raster orientation vertical x 240 y 384 colors 1024 freq 60.000000 )
 	sound ( channels 1 )
 	input ( players 1 control joy8way buttons 2 coins 1 )
-)
-
-game (
-	name pong
-	description "Pong"
-	year 1972
-	manufacturer "Atari"
-	chip ( type cpu name GENSYNC clock 7109640 )
-	chip ( type audio name Custom )
-	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
-	sound ( channels 1 )
-	input ( players 2 control stick )
-	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
-)
-
-game (
-	name pongdbls
-	description "Pong (Doubles)"
-	year 1972
-	manufacturer "Atari"
-	chip ( type cpu name GENSYNC clock 7109640 )
-	chip ( type audio name Custom )
-	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
-	sound ( channels 1 )
-	input ( players 2 control stick )
-	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
-)
-
-game (
-	name hockeytv
-	description "Hockey TV"
-	year 1972
-	manufacturer "Atari"
-	chip ( type cpu name GENSYNC clock 7109640 )
-	chip ( type audio name Custom )
-	video ( screen raster orientation horizontal x 374 y 245 colors 3 freq 60.000000 )
-	sound ( channels 1 )
-	input ( players 2 control stick )
-	dipswitch ( name "Ending Score" entry "11" entry "15" default "11" )
 )
 
 ################################################################################
