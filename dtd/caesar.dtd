@@ -18,18 +18,22 @@
 <!--================ My structures =========================-->
 
 <!ELEMENT emulator_link (name, version, date, homepage+, author_link+, emulates, comment, platform)>
-<!ATTLIST emulator_link id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST emulator_link id NMTOKEN #REQUIRED>
+<!ATTLIST emulator_link type NMTOKEN #REQUIRED>
 
 <!ELEMENT old_name (name, emulator_link)>
 
 <!ELEMENT author_link (name)>
-<!ATTLIST author_link id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST author_link id NMTOKEN #REQUIRED>
+<!ATTLIST author_link type NMTOKEN #REQUIRED>
 
 <!ELEMENT library_link (name, version, date, homepage, author_link+, emulates, comment)>
-<!ATTLIST library_link id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST library_link id NMTOKEN #REQUIRED>
+<!ATTLIST library_link type NMTOKEN #REQUIRED>
 
 <!ELEMENT tool_link (name, version, date, homepage, author_link+, comment)>
-<!ATTLIST tool_link id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST tool_link id NMTOKEN #REQUIRED>
+<!ATTLIST tool_link type NMTOKEN #REQUIRED>
 
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
@@ -44,10 +48,10 @@
 <!ELEMENT mame (#PCDATA)>
 <!ELEMENT rombuild (#PCDATA)>
 <!ELEMENT homepage (#PCDATA)>
-<!ATTLIST homepage status CDATA "">
+<!ATTLIST homepage status NMTOKEN #IMPLIED>
 <!ELEMENT comment (#PCDATA | a)*>
 <!ELEMENT a (#PCDATA)>
-<!ATTLIST a href CDATA "">
+<!ATTLIST a href NMTOKEN #REQUIRED>
 <!ELEMENT status (#PCDATA)>
 <!ELEMENT platform (#PCDATA)>
 
@@ -63,7 +67,10 @@
 <!ELEMENT emulator (name, version, date, homepage+, author_link+, contributors?,
 	emulates, comment, status,
 	cpu_links?, tool_links?, platform, controllers?, features, files?, relatives?, snaps?, game_links?)>
-<!ATTLIST emulator dat CDATA "" dat_type CDATA "" id CDATA "" type CDATA "">
+<!ATTLIST emulator dat NMTOKEN #REQUIRED>
+<!ATTLIST emulator dat_type NMTOKEN #IMPLIED>
+<!ATTLIST emulator id NMTOKEN #REQUIRED>
+<!ATTLIST emulator type NMTOKEN #REQUIRED>
 <!ELEMENT contributors (contributor+)>
 <!ELEMENT contributor (author_link, comment?)>
 <!ELEMENT controllers (controller+)>
@@ -88,7 +95,8 @@
 
 <!ELEMENT files (file+)>
 <!ELEMENT file (#PCDATA)>
-<!ATTLIST file name CDATA "" size CDATA "">
+<!ATTLIST file name NMTOKEN #REQUIRED>
+<!ATTLIST file size NMTOKEN #IMPLIED>
 
 <!ELEMENT relatives (predecessors?, derivative_of?, hybrid_of?, modification_of?, port_of?, alt_versions?, ports?, modified_versions?, derivatives?, successors?)>
 <!ELEMENT predecessors (emulator_link+)>
@@ -104,24 +112,30 @@
 
 <!ELEMENT game_groups (game_group+)>
 <!ELEMENT game_group (name, manufacturer, year, non_mame, game_links)>
-<!ATTLIST game_group id NMTOKEN "">
+<!ATTLIST game_group id NMTOKEN #REQUIRED>
 <!ELEMENT game_links (game_link+)>
 <!ELEMENT game_link (name, manufacturer, year, size, non_mame?, emulator_link?)>
 <!ELEMENT non_mame (#PCDATA)>
-<!ATTLIST game_link emu_id NMTOKEN "" emu_type NMTOKEN "" game_id NMTOKEN "">
+<!ATTLIST game_link emu_id NMTOKEN #REQUIRED>
+<!ATTLIST game_link emu_type NMTOKEN #REQUIRED>
+<!ATTLIST game_link game_id NMTOKEN #REQUIRED>
 
 <!ELEMENT game (emulator_link, game_group_link, name, manufacturer, year, size, audio?, input?, video?, chips?, driver?, snaps?, roms?)>
-<!ATTLIST game emu_id NMTOKEN "" emu_type NMTOKEN "" game_id NMTOKEN "">
+<!ATTLIST game emu_id NMTOKEN #REQUIRED>
+<!ATTLIST game emu_type NMTOKEN #REQUIRED>
+<!ATTLIST game game_id NMTOKEN #REQUIRED>
 <!ELEMENT game_contents (title, game_group_links)>
 <!ELEMENT mame_games (title, game_links)>
 <!ELEMENT game_group_links (game_group_link+)>
 <!ELEMENT game_group_link (name, manufacturer, year, non_mame)>
-<!ATTLIST game_group_link file_id NMTOKEN "" grp_id NMTOKEN "">
+<!ATTLIST game_group_link file_id NMTOKEN #REQUIRED>
+<!ATTLIST game_group_link grp_id NMTOKEN #REQUIRED>
 <!ELEMENT roms (rom+)>
 <!ELEMENT rom (name, size, crc, mame, rombuild)>
 <!ELEMENT snaps (snap+)>
 <!ELEMENT snap (#PCDATA)>
-<!ATTLIST snap width NMTOKEN "" height NMTOKEN "">
+<!ATTLIST snap width NMTOKEN #REQUIRED>
+<!ATTLIST snap height NMTOKEN #REQUIRED>
 <!ELEMENT audio (channels?)>
 <!ELEMENT channels (#PCDATA)>
 <!ELEMENT input (players, control?, buttons?, coins?, service?, tilt?)>
@@ -147,7 +161,8 @@
 <!ELEMENT color (#PCDATA)>
 
 <!ELEMENT library (name, version, date, homepage, author_link+, emulates, comment, emulator_links?, tool_links?, files?, library_relatives?)>
-<!ATTLIST library id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST library id NMTOKEN #REQUIRED>
+<!ATTLIST library type NMTOKEN #REQUIRED>
 
 <!ELEMENT library_relatives (library_predecessors?, library_descendants?)>
 <!ELEMENT library_predecessors (library_link+)>
@@ -158,7 +173,8 @@
 <!ELEMENT tool_contents (title, comment, tool_links?)>
 
 <!ELEMENT tool (name, version, date, homepage, author_link+, comment, emulator_links?, library_links?, files?, tool_relatives?)>
-<!ATTLIST tool id NMTOKEN "" type NMTOKEN "">
+<!ATTLIST tool id NMTOKEN #REQUIRED>
+<!ATTLIST tool type NMTOKEN #REQUIRED>
 
 <!ELEMENT tool_relatives (tool_predecessors?, tool_descendants?)>
 <!ELEMENT tool_predecessors (tool_link+)>
