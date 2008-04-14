@@ -1,0 +1,15 @@
+clrmamepro (
+	name DiscreteSIM
+	description "DiscreteSIM v1.0"
+	category "Discrete Logic Simulator"
+	version 20080414
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name pong
+	description "Pong"
+	year 1972
+	manufacturer "Atari"
+)
+

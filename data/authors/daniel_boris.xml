@@ -2,11 +2,14 @@
 <!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
 <author id="daniel_boris">
 	<name>Daniel Boris</name>
+	<email>danlb_2000@yahoo.com</email>
 	<email>dboris@comcast.net</email>
 	<emulator_links>
 		<emulator_link id="cloakanddagulator" type="single">&emulator_cloakanddagulator;</emulator_link>
+		<emulator_link id="discretesim" type="single">&emulator_discretesim;</emulator_link>
 	</emulator_links>
 	<contribution_links>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>
+		<emulator_link id="dice" type="multi">&emulator_dice;</emulator_link>
 	</contribution_links>
 </author>

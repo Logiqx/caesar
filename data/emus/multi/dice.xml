@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="dice" type="multi" dat="DICE_v0.2">
+	<name>DICE (Discrete Integrated Circuit Emulator)</name>
+	<version>0.2</version>
+	<date>10/02/2008</date>
+
+	<homepage>http://adamulation.blogspot.com/</homepage>
+	<homepage>http://sourceforge.net/projects/dice/</homepage>
+	<author_link id="adam__b">&author_adam__b;</author_link>
+
+	<contributors>
+		<contributor>
+			<author_link id="daniel_boris">&author_daniel_boris;</author_link>
+			<comment>Gotcha driver</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Pong (Atari)</emulates>
+	<comment>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.</comment>
+	<status>Active</status>
+
+	<tool_links>
+		<tool_link id="mingw" type="compilers">&tool_mingw;</tool_link>
+		<tool_link id="sdl" type="gfx_libs">&tool_sdl;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Mouse</controller>
+	</controllers>
+
+	<features>
+		<sound>Yes</sound>
+		<source>Yes</source>
+		<screendump>No</screendump>
+		<hiscoresave>No</hiscoresave>
+		<savegame>No</savegame>
+		<recordinput>No</recordinput>
+		<dips>No</dips>
+		<cheat>No</cheat>
+		<autoframeskip>No</autoframeskip>
+		<throttle>No</throttle>
+	</features>
+
+	<files>
+		<file name="dice.0.2.zip">Emulator</file>
+		<file name="dice.src.0.2.zip">Source</file>
+	</files>
+</emulator>

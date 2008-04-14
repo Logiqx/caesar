@@ -11,6 +11,7 @@
 	<comment>Port of GNU C/C++ compiler for Windows</comment>
 
 	<emulator_links>
+		<emulator_link id="dice" type="multi">&emulator_dice;</emulator_link>
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
 		<emulator_link id="gxp" type="sound">&emulator_gxp;</emulator_link>
 		<emulator_link id="mame" type="multi">&emulator_mame;</emulator_link>

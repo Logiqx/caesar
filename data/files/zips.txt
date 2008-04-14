@@ -170,6 +170,8 @@ emus/multi/daphne	daphne-0.99.7-src.tar.gz	3499980
 emus/multi/daphne	daphne-0.99.7-win32.zip	2743630
 emus/multi/daphne	daphne-1.0beta-win32.zip	3638025
 emus/multi/daphne	ms-ocx.zip	874028
+emus/multi/dice	dice.0.2.zip	284013
+emus/multi/dice	dice.src.0.2.zip	59489
 emus/multi/domino	domino010.zip	104135
 emus/multi/dsp	dsp_03_s.zip	212659
 emus/multi/dsp	dsp_03wip6_b.zip	389784
@@ -466,6 +468,8 @@ emus/single/combatschool	edc01 - w.zip	140006
 emus/single/crazy_climber	cc6.zip	188486
 emus/single/crazykongemu	ckemu03.zip	55448
 emus/single/diamondrun	diam-022.zip	166356
+emus/single/discretesim	DiscreteSimBin.zip	28398
+emus/single/discretesim	DiscreteSimSrc.zip	48391
 emus/single/docastle	docast20.zip	43130
 emus/single/dorun	dorun12.zip	40090
 emus/single/dowild	dowild12.zip	40155

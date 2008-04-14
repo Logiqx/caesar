@@ -11,6 +11,7 @@
 	<comment>Simple DirectMedia Layer is a cross-platform multimedia library designed to provide fast access to the graphics framebuffer and audio device. It is used by MPEG playback software, emulators, and many popular games, including the award winning Linux port of "Civilization: Call To Power." Simple DirectMedia Layer supports Linux, Win32, BeOS, MacOS, Solaris, IRIX, and FreeBSD.</comment>
 
 	<emulator_links>
+		<emulator_link id="dice" type="multi">&emulator_dice;</emulator_link>
 		<emulator_link id="dsp" type="multi">&emulator_dsp;</emulator_link>
 		<emulator_link id="gngeo" type="linux">&emulator_gngeo;</emulator_link>
 		<emulator_link id="mikie" type="single">&emulator_mikie;</emulator_link>

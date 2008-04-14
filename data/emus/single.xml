@@ -23,6 +23,7 @@
 		<emulator_link id="crazy_climber" type="single">&emulator_crazy_climber;</emulator_link>
 		<emulator_link id="crazykongemu" type="single">&emulator_crazykongemu;</emulator_link>
 		<emulator_link id="diamondrun" type="single">&emulator_diamondrun;</emulator_link>
+		<emulator_link id="discretesim" type="single">&emulator_discretesim;</emulator_link>
 		<emulator_link id="dtmnt" type="single">&emulator_dtmnt;</emulator_link>
 		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
 		<emulator_link id="finalpengo" type="single">&emulator_finalpengo;</emulator_link>

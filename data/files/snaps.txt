@@ -243,6 +243,7 @@ emus/multi	cage_1.png	6815	301	346
 emus/multi	callus_1.png	15136	384	224
 emus/multi	callus95patch_1.png	9737	390	287
 emus/multi	cinelator95_1.png	2091	406	255
+emus/multi	dice_1.PNG	6702	380	277
 emus/multi	emudx_1.png	35575	640	480
 emus/multi	emulaser_1.png	16723	352	392
 emus/multi	emulaser_2.png	17171	352	392
@@ -757,6 +758,9 @@ emus/multi/crystal_system_emulator	evosocc_2.png	84267	320	240
 emus/multi/crystal_system_emulator	evosocc_3.png	60328	320	240
 emus/multi/crystal_system_emulator	evosocc_4.png	102768	320	240
 emus/multi/crystal_system_emulator	evosocc_5.png	103607	320	240
+emus/multi/dice	gotchaa_1.PNG	1761	800	600
+emus/multi/dice	pong_1.PNG	1219	800	600
+emus/multi/dice	rebound_1.PNG	790	800	600
 emus/multi/emudx	dkongjp_1.jpg	52703	376	383
 emus/multi/emudx	dkongjp_2.jpg	45760	376	383
 emus/multi/emudx	dkongjp_3.jpg	14247	376	383
@@ -17645,6 +17649,7 @@ emus/single	amoad_8.png	5451	640	480
 emus/single	annoid_1.png	5162	288	302
 emus/single	annoid_2.png	3661	538	308
 emus/single	asteroids_1.png	5430	640	480
+emus/single	discretesim_1.png	27464	776	399
 emus/single	radikal_bikers_emulator_1.png	5938	366	152
 emus/single	side_1.png	3116	232	302
 emus/single	wingorf_1.png	26352	368	475

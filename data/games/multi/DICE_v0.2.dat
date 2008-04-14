@@ -1,0 +1,29 @@
+clrmamepro (
+	name DICE
+	description "DICE v0.2"
+	category "Discrete Integrated Circuit Emulator"
+	version 20080414
+	author "Logiqx, http://www.logiqx.com/"
+)
+
+game (
+	name pong
+	description "Pong"
+	year 1972
+	manufacturer "Atari"
+)
+
+game (
+	name rebound
+	description "Rebound"
+	year 1973
+	manufacturer "Atari"
+)
+
+game (
+	name gotchaa
+	description "Gotcha"
+	year 1973
+	manufacturer "Atari"
+)
+

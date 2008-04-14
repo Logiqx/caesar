@@ -15,6 +15,7 @@
 	</library_links>
 
 	<emulator_links>
+		<emulator_link id="discretesim" type="single">&emulator_discretesim;</emulator_link>
 		<emulator_link id="domino" type="multi">&emulator_domino;</emulator_link>
 		<emulator_link id="invadersaver" type="multi">&emulator_invadersaver;</emulator_link>
 		<emulator_link id="milliemu" type="single">&emulator_milliemu;</emulator_link>
