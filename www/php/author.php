@@ -41,13 +41,13 @@
     				function decrypt(inSt, key)
     				{
    					shift = 0;
-					for (i=0; i<key.length; i++)
+					for (i = 0; i < key.length; i++)
 					{
 						shift = shift + key.charCodeAt(i);
 					}
 
     					outSt = '';
-    					for (i=0; i<inSt.length; i++)
+    					for (i = 0; i < inSt.length; i++)
 					{
         					thisChar = inSt.charCodeAt(i);
 						if (thisChar >= ENC_MIN && thisChar <= ENC_MAX)
@@ -74,7 +74,7 @@
 	</head>
 	<body>
 		<?php
-			// Encryption function
+			// Encryption function for e-mail addresses
 
 			function encrypt($inSt, $key)
 			{
@@ -92,29 +92,34 @@
 				for ($i = 0; $i < strlen($inSt); $i++)
 				{
 					$thisChar = ord($inSt[$i]);
+
 					if ($thisChar >= $ENC_MIN and $thisChar <= $ENC_MAX)
 					{
-						// Cope with negative modulus (bug in PHP)
+						// Encode the character
 						$tmp = ($thisChar - $ENC_MIN - $shift) % $ENC_MOD;
 
+						// Cope with negative modulus (bug in PHP)
 						while ($tmp < 0)
 						{
 							$tmp += $ENC_MOD;
 						}
 
+						// Cope with characters that need an extra backslash
 						$tmp = chr($tmp + $ENC_MIN);
 
 						if ($tmp == '\\' or $tmp == '"')
 						{
-							$outSt = $outSt . '\\';
+							$tmp = '\\' . $tmp;
 						}
 
+						// Add the encoded character to the string
             					$outSt = $outSt . $tmp;
 					}
 					else
 					{
 						$outSt += $thisChar;
 					}
+
 					$shift = $shift + $thisChar;
 				}
 
