@@ -31,9 +31,96 @@
 
 			include ('../resources/head.php');
 		?>
+
+		<script type="text/javascript">
+			<!--
+				ENC_MIN = 0x20;
+				ENC_MAX = 0x7a;
+				ENC_MOD = (ENC_MAX - ENC_MIN + 1);
+				
+    				function decrypt(inSt, key)
+    				{
+   					shift = 0;
+					for (i=0; i<key.length; i++)
+					{
+						shift = shift + key.charCodeAt(i);
+					}
+
+    					outSt = '';
+    					for (i=0; i<inSt.length; i++)
+					{
+        					thisChar = inSt.charCodeAt(i);
+						if (thisChar >= ENC_MIN && thisChar <= ENC_MAX)
+						{
+							thisChar = (thisChar - ENC_MIN + shift) % ENC_MOD + ENC_MIN;
+						}
+        					outSt += String.fromCharCode(thisChar);
+        					shift = shift + thisChar;
+					}
+
+					return outSt;
+				}
+
+				function display_link(p1, p2, p3, p4)
+				{
+					p2 = decrypt(p2, p1);
+					p3 = decrypt(p3, p2);
+					p4 = decrypt(p4, p3);
+					document.write('<a href=\"' + p2 + p3 + '@' + p4 + '\">');
+					document.write(p3 + '@' + p4 + '</a>'); 
+				}
+			//-->
+		</script>
 	</head>
 	<body>
 		<?php
+			// Encryption function
+
+			function encrypt($inSt, $key)
+			{
+				$ENC_MIN = 0x20;
+				$ENC_MAX = 0x7a;
+				$ENC_MOD = ($ENC_MAX - $ENC_MIN + 1);
+
+    				$shift = 0;
+				for ($i = 0; $i < strlen($key); $i++)
+				{
+        				$shift = $shift + ord($key[$i]);
+				}
+
+    				$outSt = '';
+				for ($i = 0; $i < strlen($inSt); $i++)
+				{
+					$thisChar = ord($inSt[$i]);
+					if ($thisChar >= $ENC_MIN and $thisChar <= $ENC_MAX)
+					{
+						// Cope with negative modulus (bug in PHP)
+						$tmp = ($thisChar - $ENC_MIN - $shift) % $ENC_MOD;
+
+						while ($tmp < 0)
+						{
+							$tmp += $ENC_MOD;
+						}
+
+						$tmp = chr($tmp + $ENC_MIN);
+
+						if ($tmp == '\\' or $tmp == '"')
+						{
+							$outSt = $outSt . '\\';
+						}
+
+            					$outSt = $outSt . $tmp;
+					}
+					else
+					{
+						$outSt += $thisChar;
+					}
+					$shift = $shift + $thisChar;
+				}
+
+				return $outSt;
+			}
+
 			// The main page content is a 3 column table (left column is the menu, right one is the information)
 
 			echo '<!-- CAESAR pages are basically a table with one row and three columns -->' . LF . LF;
@@ -84,11 +171,19 @@
 				{
 					while ($email = mysql_fetch_assoc ($emails))
 					{
+						$id = $_GET ['id'];
+						$mailto = 'mailto:';
+						$username = substr($email ['email'], 0, strpos($email ['email'], '@'));
+						$hostname = substr($email ['email'], strpos($email ['email'], '@')+1);
+
+						$hostname = encrypt($hostname, $username);
+						$username = encrypt($username, $mailto);
+						$mailto = encrypt($mailto, $id);
+
 						echo INDENT . TAB . TAB . TAB . '<script type="text/javascript">' . LF;
 						echo INDENT . TAB . TAB . TAB . TAB . '<!--' . LF;
-						echo INDENT . TAB . TAB . TAB . TAB . TAB . 'write_email("';
-						echo substr($email ['email'], 0, strpos($email ['email'], '@')) . '", "';
-						echo substr($email ['email'], strpos($email ['email'], '@')+1) . '");' . LF;
+						echo INDENT . TAB . TAB . TAB . TAB . TAB . 'display_link("';
+						echo $id . '", "' . $mailto . '", "' . $username . '", "' . $hostname . '");' . LF;
 						echo INDENT . TAB . TAB . TAB . TAB . '-->' . LF;
 						echo INDENT . TAB . TAB . TAB . '</script>' . LF;
 						echo INDENT . TAB . TAB . TAB . '<br/>' . LF;

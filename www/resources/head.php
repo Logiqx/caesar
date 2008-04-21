@@ -7,14 +7,3 @@
 		echo TAB . TAB . '<link rel="icon" href="' . $www_root . 'resources/favicon.ico" />' . LF;
 		echo TAB . TAB . '<link rel="shortcut icon" href="' . $www_root . 'resources/favicon.ico" />' . LF;
 ?>
-
-		<script type="text/javascript">
-			<!--
-				function write_email(name, domain, descr)
-				{
-					descr = descr == void 0 ? name + "@" + domain : descr;
-					document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
-					document.write(descr + '</a>'); 
-				}
-			//-->
-		</script>
