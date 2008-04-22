@@ -33,8 +33,8 @@
 
 			// Define the encryption ranges for PHP
 
-			$ENC_MIN = 0x20;
-			$ENC_MAX = 0x7a;
+			$ENC_MIN = 0x21;
+			$ENC_MAX = 0x7e;
 			$ENC_MOD = ($ENC_MAX - $ENC_MIN + 1);
 
 			// Define the encryption ranges for Javascript
