@@ -30,16 +30,33 @@
 			// Include standard <head> metadata
 
 			include ('../resources/head.php');
+
+			// Define the encryption ranges for PHP
+
+			$ENC_MIN = 0x20;
+			$ENC_MAX = 0x7a;
+			$ENC_MOD = ($ENC_MAX - $ENC_MIN + 1);
+
+			// Define the encryption ranges for Javascript
+
+			echo LF;
+			echo TAB . TAB . '<script type="text/javascript">' . LF;
+			echo TAB . TAB . TAB . '<!--' . LF;
+			echo TAB . TAB . TAB . TAB . 'id = "'  . $_GET ['id'] . '";' . LF . LF;
+			echo TAB . TAB . TAB . TAB . 'ENC_MIN = '  . $ENC_MIN . ';' . LF;
+			echo TAB . TAB . TAB . TAB . 'ENC_MAX = '  . $ENC_MAX . ';' . LF;
+			echo TAB . TAB . TAB . TAB . 'ENC_MOD = '  . $ENC_MOD . ';' . LF;
+			echo TAB . TAB . TAB . '-->' . LF;
+			echo TAB . TAB . '</script>' . LF;
+			echo TAB . TAB . '<br/>' . LF;
 		?>
 
 		<script type="text/javascript">
 			<!--
-				ENC_MIN = 0x20;
-				ENC_MAX = 0x7a;
-				ENC_MOD = (ENC_MAX - ENC_MIN + 1);
-				
-    				function decrypt(inSt, key)
-    				{
+    				function decrypt(inSt)
+				{
+					key = id;
+
    					shift = 0;
 					for (i = 0; i < key.length; i++)
 					{
@@ -61,13 +78,11 @@
 					return outSt;
 				}
 
-				function display_link(p1, p2, p3, p4)
+				function encrypted_href(scheme, hostname)
 				{
-					p2 = decrypt(p2, p1);
-					p3 = decrypt(p3, p2);
-					p4 = decrypt(p4, p3);
-					document.write('<a href=\"' + p2 + p3 + '@' + p4 + '\">');
-					document.write(p3 + '@' + p4 + '</a>'); 
+					scheme = decrypt(scheme);
+					hostname = decrypt(hostname);
+					document.write('<a href=\"' + scheme + hostname + '\">' + hostname + '</a>');
 				}
 			//-->
 		</script>
@@ -76,11 +91,13 @@
 		<?php
 			// Encryption function for e-mail addresses
 
-			function encrypt($inSt, $key)
+			function encrypt($inSt)
 			{
-				$ENC_MIN = 0x20;
-				$ENC_MAX = 0x7a;
-				$ENC_MOD = ($ENC_MAX - $ENC_MIN + 1);
+				global $ENC_MIN;
+				global $ENC_MAX;
+				global $ENC_MOD;
+
+				$key = 	$_GET ['id'];
 
     				$shift = 0;
 				for ($i = 0; $i < strlen($key); $i++)
@@ -176,19 +193,12 @@
 				{
 					while ($email = mysql_fetch_assoc ($emails))
 					{
-						$id = $_GET ['id'];
-						$mailto = 'mailto:';
-						$username = substr($email ['email'], 0, strpos($email ['email'], '@'));
-						$hostname = substr($email ['email'], strpos($email ['email'], '@')+1);
-
-						$hostname = encrypt($hostname, $username);
-						$username = encrypt($username, $mailto);
-						$mailto = encrypt($mailto, $id);
+						$scheme = encrypt('mailto:');
+						$hostname = encrypt($email ['email']);
 
 						echo INDENT . TAB . TAB . TAB . '<script type="text/javascript">' . LF;
 						echo INDENT . TAB . TAB . TAB . TAB . '<!--' . LF;
-						echo INDENT . TAB . TAB . TAB . TAB . TAB . 'display_link("';
-						echo $id . '", "' . $mailto . '", "' . $username . '", "' . $hostname . '");' . LF;
+						echo INDENT . TAB . TAB . TAB . TAB . TAB . 'encrypted_href("'  . $scheme . '", "' . $hostname . '");' . LF;
 						echo INDENT . TAB . TAB . TAB . TAB . '-->' . LF;
 						echo INDENT . TAB . TAB . TAB . '</script>' . LF;
 						echo INDENT . TAB . TAB . TAB . '<br/>' . LF;
