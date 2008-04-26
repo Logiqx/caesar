@@ -31,6 +31,10 @@
 
 			include ('../resources/head.php');
 
+			// Include PHP function for creation of text images
+
+			include ('../resources/text_image.php');
+
 			// Define the encryption ranges for PHP
 
 			$ENC_MIN = 0x21;
@@ -48,7 +52,6 @@
 			echo TAB . TAB . TAB . TAB . 'ENC_MOD = '  . $ENC_MOD . ';' . LF;
 			echo TAB . TAB . TAB . '-->' . LF;
 			echo TAB . TAB . '</script>' . LF;
-			echo TAB . TAB . '<br/>' . LF;
 		?>
 
 		<script type="text/javascript">
@@ -78,11 +81,11 @@
 					return outSt;
 				}
 
-				function encrypted_href(scheme, hostname)
+				function encrypted_href(image, scheme, hostname)
 				{
 					scheme = decrypt(scheme);
 					hostname = decrypt(hostname);
-					document.write('<a href=\"' + scheme + hostname + '\">' + hostname + '</a>');
+					document.write('<a href=\"' + scheme + hostname + '\"><img src=\"' + image + '\"/></a>');
 				}
 			//-->
 		</script>
@@ -191,17 +194,28 @@
 
 				if (mysql_num_rows ($emails) != 0)
 				{
-					while ($email = mysql_fetch_assoc ($emails))
-					{
-						$scheme = encrypt('mailto:');
-						$hostname = encrypt($email ['email']);
+					if (stripos($_SERVER["HTTP_REFERER"], "caesar") != False)
+					{	
+						while ($email = mysql_fetch_assoc ($emails))
+						{
+							$scheme = encrypt('mailto:');
+							$hostname = encrypt($email ['email']);
+							$image = text_image($email ['email']);
 
-						echo INDENT . TAB . TAB . TAB . '<script type="text/javascript">' . LF;
-						echo INDENT . TAB . TAB . TAB . TAB . '<!--' . LF;
-						echo INDENT . TAB . TAB . TAB . TAB . TAB . 'encrypted_href("'  . $scheme . '", "' . $hostname . '");' . LF;
-						echo INDENT . TAB . TAB . TAB . TAB . '-->' . LF;
-						echo INDENT . TAB . TAB . TAB . '</script>' . LF;
-						echo INDENT . TAB . TAB . TAB . '<br/>' . LF;
+							echo INDENT . TAB . TAB . TAB . '<script type="text/javascript">' . LF;
+							echo INDENT . TAB . TAB . TAB . TAB . '<!--' . LF;
+							echo INDENT . TAB . TAB . TAB . TAB . TAB . 'encrypted_href("' . $image . '", "' . $scheme . '", "' . $hostname . '");' . LF;
+							echo INDENT . TAB . TAB . TAB . TAB . '-->' . LF;
+							echo INDENT . TAB . TAB . TAB . '</script>' . LF;
+							echo INDENT . TAB . TAB . TAB . '<noscript>' . LF;
+							echo INDENT . TAB . TAB . TAB . '<img src="' . $image . '"/>' . LF;
+							echo INDENT . TAB . TAB . TAB . '</noscript>' . LF;
+							echo INDENT . TAB . TAB . TAB . '<br/>' . LF;
+						}
+					}
+					else
+					{
+						echo "-withheld-";
 					}
 				}
 				else
