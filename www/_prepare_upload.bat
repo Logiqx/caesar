@@ -1,5 +1,7 @@
 @ECHO OFF
 
+CALL _filelist.py
+
 IF NOT EXIST %CAESAR%\www\upload MKDIR %CAESAR%\www\upload
 IF NOT EXIST %CAESAR%\www\upload\all.zip GOTO MAKE_ZIP
 
