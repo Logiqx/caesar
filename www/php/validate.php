@@ -13,6 +13,10 @@
 			// Include standard <head> metadata
 
 			include ('../resources/head.php');
+
+			// Include PHP function for creation of text images
+
+			include ('../resources/text_image.php');
 		?>
 	</head>
 	<body>
@@ -29,11 +33,13 @@
 			{
 				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
 
-				echo INDENT . '<p><b>' . $comment . '</b></p>';
+				$count = mysql_num_rows ($result);
 
-				if (mysql_num_rows ($result) != 0)
+				echo INDENT . '<p><b>' . $comment . ' (' . $count . ')</b></p>' . LF . LF;
+
+				if ($count != 0)
 				{
-					echo INDENT . '<table class="details">';
+					echo INDENT . '<table class="details">' . LF;
 
 					$class = 'odd';
 
@@ -43,17 +49,15 @@
 
 						for ($i = 0; $i < $num_cols; $i++)
 						{
-							echo INDENT . TAB . TAB . '<td>';
-							echo INDENT . TAB . TAB . TAB . $row [$i];
-							echo INDENT . TAB . TAB . '</td>';
+							echo INDENT . TAB . TAB . '<td>' . $row [$i] . '</td>' . LF;
 						}
 
-						echo INDENT . TAB . '</tr>';
+						echo INDENT . TAB . '</tr>' . LF;
 
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
 
-					echo INDENT . '</table>';
+					echo INDENT . '</table>' . LF . LF;
 				}
 				else
 				{
@@ -131,6 +135,59 @@
 					";
 
 				run_query($query, "author_tool_link without an tool_author_link", 2);
+
+				// Custom validation for e-mail image cache
+
+				$query="
+					SELECT email
+					FROM author_email
+					";
+
+				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+
+				echo INDENT . '<p><b>' . 'missing cache images' . '</b></p>' . LF . LF;
+
+				$missing = 0;
+
+				if (mysql_num_rows ($result) != 0)
+				{
+					$class = 'odd';
+
+					while ($row = mysql_fetch_assoc ($result))
+					{
+						$image = text_image($row ['email']);
+
+						if (!is_readable($image))
+						{
+							if ($missing == 0)
+							{
+								echo INDENT . '<table class="details">' . LF;
+							}
+
+							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
+
+							echo INDENT . TAB . TAB . '<td>' . $row ['email'] . '</td>' . LF;
+							echo INDENT . TAB . TAB . '<td>' . $image . '</td>' . LF;
+
+							echo INDENT . TAB . '</tr>' . LF;
+
+							$class = ($class == 'even') ? 'odd' : 'even';
+
+							$missing++;
+						}
+					}
+				}
+
+				if ($missing > 0)
+				{
+					echo INDENT . '</table>' . LF . LF;
+				}
+				else
+				{
+					echo INDENT . '<p>None</p>' . LF . LF;
+				}
+
+				mysql_free_result ($result);
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='emus')
