@@ -6,7 +6,7 @@
 .	robots.txt	0
 .	_archive_bit_clear.bat	133
 .	_filelist.py	1087
-.	_filelist_compare.py	2333
+.	_filelist_compare.py	2373
 .	_prepare_upload.bat	603
 .\cgi-bin	filelist	7212
 .\cgi-bin	filelist.c	3712
@@ -25112,6 +25112,7 @@
 .\txt\tools\snd_libs	seal.txt	2101
 .\txt\tools\snd_libs	wavmix.txt	320
 .\txt\tools\zip_libs	zlib.txt	1735
+.\upload	all.zip	191886
 .\upload	_upload.bat	173
 .\upload\CVS	Entries	48
 .\upload\CVS	Repository	36

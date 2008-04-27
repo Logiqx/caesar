@@ -76,8 +76,9 @@ if unneededFiles:
 	fn = '_filelist_tidy.sh'
 	f = open(fn, 'w')
 	for file in unneededFiles:
-		f.write('rm "%s"%s' % (file, os.linesep))
-	f.write('rm -f "%s"%s' % (fn, os.linesep))
+		f.write('rm "%s"' % file + os.linesep)
+	f.write('rm -f "%s"' % fn + os.linesep)
+	f.write('_filelist_compare.py' + os.linesep)
 	f.close()
 	os.chmod(fn, os.stat(fn)[0] | stat.S_IXUSR | stat.S_IXGRP | stat.S_IXOTH)
 	print
