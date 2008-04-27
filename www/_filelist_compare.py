@@ -3,34 +3,52 @@
 import os, stat, platform
 
 def read_filelist(node, altNode):
+	'''read_filelist(node, altNode)
+
+	Read a filelist into a dictionary object'''
+
 	dict = {}
+
 	fn = '_filelist_' + node + '.txt'
 	altFn = '_filelist_' + altNode + '.txt'
+
 	f = open(fn, "r")
 	st = f.readline()
 	while (st):
-		parts = st.rstrip().split('\t')
-		if parts[1] != fn and parts[1] != altFn:
+		# Strip whitespace from the end of the line and ensure that seperator is used
+		parts = st.rstrip().replace('/', os.sep).replace('\\', os.sep).split('\t')
+
+		# Ignore the file if it is for the other alternative node
+		if parts[1] != altFn:
 			dict[os.path.join(parts[0], parts[1])] = parts[2]
+
+		# Read the next line
 		st = f.readline()
 	f.close()
+
 	return dict
 
+
+# Generate the filelist
 cmd = '_filelist.py'
 print 'Running %s...' % cmd
 os.system(cmd)
 print
 
+# Determine the filenames
 laptopNode = 'inspiron'
 serverNode = platform.node().lower().split('.')[0]
 
+# Load the filelists into memory
 laptopFiles = read_filelist(laptopNode, serverNode)
 serverFiles = read_filelist(serverNode, laptopNode)
 
+# Initialise reports
 incorrectFiles = []
 missingFiles = []
 unneededFiles = []
 
+# Check that all laptop files are present on the server
 laptopKeys = laptopFiles.keys()
 laptopKeys.sort()
 for file in laptopKeys:
@@ -45,6 +63,7 @@ for file in laptopKeys:
 if incorrectFiles or missingFiles:
 	print
 
+# Check that all server files are present on the laptop
 serverKeys = serverFiles.keys()
 serverKeys.sort()
 for file in serverKeys:
@@ -52,6 +71,7 @@ for file in serverKeys:
 		print "Unneeded: %s (%s bytes)" % (file, serverFiles[file])
 		unneededFiles.append(file)
 
+# If there are any unneeded files then build a shell script to remove them
 if unneededFiles:
 	fn = '_filelist_tidy.sh'
 	f = open(fn, 'w')
@@ -64,5 +84,6 @@ if unneededFiles:
 	print 'Run %s to remove all unneeded files.' % fn
 	print
 
+# Report the totals
 print "Totals: incorrect = %d, missing = %d, unneeded = %d" % (len(incorrectFiles), len(missingFiles), len(unneededFiles))
 
