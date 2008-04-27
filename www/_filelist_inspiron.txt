@@ -1,4 +1,5 @@
 .	.htaccess	4508
+.	._filelist.py.swp	12288
 .	error.php	1918
 .	favicon.ico	1406
 .	index.php	1355
@@ -6,10 +7,9 @@
 .	robots.txt	0
 .	_archive_bit_clear.bat	133
 .	_check_for_absolute_links.sh	54
-.	_filelist.py	675
+.	_filelist.py	702
 .	_filelist_compare.py	1746
 .	_filelist_compare.sh	1097
-.	_filelist_inspiron.txt	0
 .	_filelist_pc.bat	289
 .	_filelist_pc.txt	1065061
 .	_filelist_ztnet.sh	261
@@ -25119,7 +25119,7 @@
 ./txt/tools/snd_libs	seal.txt	2101
 ./txt/tools/snd_libs	wavmix.txt	320
 ./txt/tools/zip_libs	zlib.txt	1735
-./upload	all.zip	200022
+./upload	all.zip	199315
 ./upload	_upload.bat	173
 ./upload/CVS	Entries	48
 ./upload/CVS	Repository	36
