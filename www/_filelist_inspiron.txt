@@ -8,11 +8,6 @@
 .	_check_for_absolute_links.sh	54
 .	_filelist.py	702
 .	_filelist_compare.py	1746
-.	_filelist_compare.sh	1097
-.	_filelist_pc.bat	289
-.	_filelist_pc.txt	1065061
-.	_filelist_ztnet.sh	261
-.	_filelist_ztnet.txt	0
 .	_prepare_upload.bat	603
 ./cgi-bin	filelist	7212
 ./cgi-bin	filelist.c	3712
@@ -21,7 +16,7 @@
 ./cgi-bin/CVS	Entries	201
 ./cgi-bin/CVS	Repository	37
 ./cgi-bin/CVS	Root	25
-./CVS	Entries	978
+./CVS	Entries	706
 ./CVS	Repository	29
 ./CVS	Root	25
 ./images	_filelist_pc.bat	334
@@ -25118,7 +25113,7 @@
 ./txt/tools/snd_libs	seal.txt	2101
 ./txt/tools/snd_libs	wavmix.txt	320
 ./txt/tools/zip_libs	zlib.txt	1735
-./upload	all.zip	199315
+./upload	all.zip	199323
 ./upload	_upload.bat	173
 ./upload/CVS	Entries	48
 ./upload/CVS	Repository	36
