@@ -1,5 +1,4 @@
 .	.htaccess	4508
-.	._filelist.py.swp	12288
 .	error.php	1918
 .	favicon.ico	1406
 .	index.php	1355
