@@ -17,7 +17,7 @@ ignoreDirs = \
 # Use the machine name (node) as part of the filename
 node = platform.node().lower().split('.')[0]
 fn = '_filelist_' + node + '.txt'
-f = open(fn, "w")
+f = open(fn, "wb")
 
 # The os.walk() function makes this a very simple activity!
 for root, dirs, files in os.walk('.', topdown = True):
