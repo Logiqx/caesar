@@ -22,7 +22,7 @@
 				'ABCDEFGHIJKLMNOPQRSTUVWXYZ' .
 				'1234567890' .
 				'!@#$%^&*()\'"\\/;.,`~<>[]{}-+_-=';
-		$box = ImageTTFBBox($size, 0, $font, $test_chars);
+		$box = imagettfbbox($size, 0, $font, $test_chars);
 		return $box[3];
 	}
 
@@ -48,7 +48,7 @@
 		}
 
 		// convert
-		if (strlen($hex) == 6)
+		if (strlen($hex) != 6)
 		{
 			$rgb['red'] = 0;
 			$rgb['green'] = 0;
@@ -72,9 +72,9 @@
 	function text_image($text)
 	{
 		$font_file = '../resources/lettera32.ttf';
-		$font_size = 18;
+		$font_size = 16;
 		$font_color = '#000000';
-		$background_color = '#ffffff';
+		$background_color = '#dddddd';
 		$transparent_background = true;
 
 		$cache_folder = '../cache';
@@ -86,32 +86,32 @@
 		$cache_filename = $cache_folder . '/' . $hash . $extension;
 
 		// If the image file does not exist, create it
-		if (function_exists('ImageCreate') and !is_readable($cache_filename))
+		if (function_exists('imagecreate') and !is_readable($cache_filename))
 		{
 
 			// create image
 			$background_rgb = hex_to_rgb($background_color);
 			$font_rgb = hex_to_rgb($font_color);
 			$dip = get_dip($font_file, $font_size);
-			$box = ImageTTFBBox($font_size, 0, $font_file, $text);
-			$image = ImageCreate(abs($box[2] - $box[0]), abs($box[5] - $dip));
+			$box = imagettfbbox($font_size, 0, $font_file, $text);
+			$image = imagecreate(abs($box[2] - $box[0]), abs($box[5] - $dip));
 
 			// allocate colors and draw text
-			$background_color = ImageColorAllocate($image,$background_rgb['red'],
+			$background_color = imagecolorallocate($image, $background_rgb['red'],
 				$background_rgb['green'], $background_rgb['blue']);
-			$font_color = ImageColorAllocate($image, $font_rgb['red'],
+			$font_color = imagecolorallocate($image, $font_rgb['red'],
 				$font_rgb['green'], $font_rgb['blue']);
-			ImageTTFText($image, $font_size, 0, -$box[0], abs($box[5] - $box[3]) - $box[1],
+			imagettftext($image, $font_size, 0, -$box[0], abs($box[5] - $box[3]) - $box[1],
 				$font_color, $font_file, $text);
 	
 			// set transparency
 			if ($transparent_background)
-				ImageColorTransparent($image, $background_color);
+				imagecolortransparent($image, $background_color);
 	
 			// save copy of image for cache
-			ImagePNG($image, $cache_filename);
+			imagepng($image, $cache_filename);
 	
-			ImageDestroy($image);
+			imagedestroy($image);
 		}
 	
 		return $cache_filename;
