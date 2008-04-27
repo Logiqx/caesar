@@ -2,7 +2,6 @@
 <!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
 <author id="digital_eclipse">
 	<name>Digital Eclipse</name>
-	<email></email>
 	<contribution_links>
 		<emulator_link id="williams_digital_arcade" type="mac">&emulator_williams_digital_arcade;</emulator_link>
 		<emulator_link id="williams_arcade_classics" type="commercial">&emulator_williams_arcade_classics;</emulator_link>
