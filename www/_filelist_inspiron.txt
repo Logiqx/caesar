@@ -25,9 +25,6 @@
 ./CVS	Entries	978
 ./CVS	Repository	29
 ./CVS	Root	25
-./CVS	_filelist.py,t	0
-./CVS	_filelist_compare.py,t	0
-./CVS	_filelist_inspiron.txt,t	0
 ./images	_filelist_pc.bat	334
 ./images	_filelist_pc.txt	199886
 ./images/cabinets	005.png	28922
@@ -25122,6 +25119,7 @@
 ./txt/tools/snd_libs	seal.txt	2101
 ./txt/tools/snd_libs	wavmix.txt	320
 ./txt/tools/zip_libs	zlib.txt	1735
+./upload	all.zip	200022
 ./upload	_upload.bat	173
 ./upload/CVS	Entries	48
 ./upload/CVS	Repository	36
