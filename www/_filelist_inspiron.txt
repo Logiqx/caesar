@@ -25113,7 +25113,6 @@
 ./txt/tools/snd_libs	seal.txt	2101
 ./txt/tools/snd_libs	wavmix.txt	320
 ./txt/tools/zip_libs	zlib.txt	1735
-./upload	all.zip	199323
 ./upload	_upload.bat	173
 ./upload/CVS	Entries	48
 ./upload/CVS	Repository	36
