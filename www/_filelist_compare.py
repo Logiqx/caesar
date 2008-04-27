@@ -77,7 +77,7 @@ if unneededFiles:
 	f = open(fn, 'w')
 	for file in unneededFiles:
 		f.write('rm "%s"%s' % (file, os.linesep))
-	f.write('rm "%s"%s' % (fn, os.linesep))
+	f.write('rm -f "%s"%s' % (fn, os.linesep))
 	f.close()
 	os.chmod(fn, os.stat(fn)[0] | stat.S_IXUSR | stat.S_IXGRP | stat.S_IXOTH)
 	print
