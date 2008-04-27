@@ -208,7 +208,7 @@
 							echo INDENT . TAB . TAB . TAB . TAB . '-->' . LF;
 							echo INDENT . TAB . TAB . TAB . '</script>' . LF;
 							echo INDENT . TAB . TAB . TAB . '<noscript>' . LF;
-							echo INDENT . TAB . TAB . TAB . '<img src="' . $image . '"/>' . LF;
+							echo INDENT . TAB . TAB . TAB . TAB . '<img src="' . $image . '"/>' . LF;
 							echo INDENT . TAB . TAB . TAB . '</noscript>' . LF;
 							echo INDENT . TAB . TAB . TAB . '<br/>' . LF;
 						}
