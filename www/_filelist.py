@@ -7,11 +7,8 @@ import os, platform
 ignoreDirs = \
 [
 	'./cache',
-	'./news',
-	'./cgi-bin/newspro',
 	'./cutenews',
 	'./team/download',
-	'./team/pi'
 ]
 
 # Use the machine name (node) as part of the filename
