@@ -6,7 +6,6 @@ import os, platform
 
 ignoreDirs = \
 [
-	'./cache',
 	'./cutenews',
 	'./team/download',
 ]
