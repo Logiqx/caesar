@@ -1,5 +1,5 @@
 1941,1941,m
-1942,1942,m
+1942,1942a,m
 1943,1943,m
 1943kai,1943kai,m
 19xx,19xx,m
@@ -567,7 +567,7 @@ s1945jn,s1945jn,m
 s1945p,s1945p,m
 sf,sf,m
 sfa,sfa,m
-sfa2,sfa2,m
+sfa2,sfa2u,m
 sfa3,sfa3u,m
 sfex,sfexa,m
 sfex2,sfex2,m
@@ -811,7 +811,7 @@ narc,narc,m
 nbahangt,nbahangt,m
 nspirit,nspirit,m
 nspiritj,nspiritj,m
-offroadc,offroadc,m
+offroadc,offrodc1,m
 openice,openice,m
 opwolf3,opwolf3,m
 pacland,pacland,m
@@ -933,7 +933,7 @@ arknoid2,arknoid2,m
 bermudat,bermudat,m
 blktiger,blktiger,m
 chasehqj,chasehqj,m
-cupsoc,cupsoc,m
+cupsoc,cupsocs2,m
 cybrcomm,cybrcomm,m
 cybrcycc,cybrcycc,m
 danceyes,danceyes,m
@@ -953,7 +953,7 @@ galaga,galaga,m
 gemini,gemini,m
 getstar,getstar,m
 gwar,gwar,m
-heatbrl,heatbrl,m
+heatbrl,heatbrl2,m
 hharry,hharry,m
 hotchase,hotchase,m
 iganinju,iganinju,m
@@ -1452,4 +1452,3 @@ g_jim2,g_jim2,n
 g_ma96,g_ma96,n
 g_scob,g_scob,n
 g_ootw,g_ootw,n
-

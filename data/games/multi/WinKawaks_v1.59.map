@@ -80,7 +80,7 @@ sfau,sfau,m
 sfzj,sfzj,m
 sfzjr1,sfzjr1,m
 sfzjr2,sfzjr2,m
-sfa2,sfa2,m
+sfa2,sfa2u,m
 sfz3jr2,sfz3jr2,m
 ringdest,ringdest,m
 spf2xj,spf2xj,m
@@ -397,7 +397,6 @@ fightfva,fightfva,m
 kof96h,kof96h,m
 kof97pls,kof97pls,m
 kof98k,kof98k,m
-roboarma,roboarma,m
 tophunta,tophunta,m
 kof2001h,kof2001h,m
 samsho3a,samsho3a,m
@@ -574,3 +573,4 @@ xmcotaj,xmcotaj,m
 kof2003h,kof2003h,n
 mslug5h,mslug5h,m
 rbff1a,rbff1a,m
+roboarma,roboarma,n

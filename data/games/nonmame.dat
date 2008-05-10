@@ -1294,82 +1294,61 @@ game (
 	rom ( name 271-v2c.bin merge 271-v2c.bin size 8388608 crc 5382c7d1 sha1 1bf999705eda80ba1e7b0d6bdd010d9bfb18bd76 )
 )
 
-// FBA games
-
-game (
-	name gpilotsh
-	description "Ghost Pilots (set 2)"
-	year 1991
-	manufacturer "SNK"
-	cloneof gpilots
-	romof gpilots
-	rom ( name 020-hp1.bin size 524288 crc 7cdb01ce sha1 32cae2ddf5e26fb7e8a09132e600220db82df3b8 )
-	rom ( name 020-p2.bin merge 020-p2.bin size 131072 crc edcb22ac sha1 505d2db38ae999b7d436e8f2ff56b81796d62b54 )
-	rom ( name 020-s1.bin merge 020-s1.bin size 131072 crc a6d83d53 sha1 9a8c092f89521cc0b27a385aa72e29cbaca926c5 )
-	rom ( name 020-c1.bin merge 020-c1.bin size 1048576 crc bd6fe78e sha1 50b704862cd79d64fa488e621b079f6e413c33bc )
-	rom ( name 020-c2.bin merge 020-c2.bin size 1048576 crc 5f4a925c sha1 71c5ef8141234daaa7025427a6c65e79766973a5 )
-	rom ( name 020-c3.bin merge 020-c3.bin size 1048576 crc d1e42fd0 sha1 f0d476aebbdc2ce008f5f0783be86d295b24aa44 )
-	rom ( name 020-c4.bin merge 020-c4.bin size 1048576 crc edde439b sha1 79be7b10ecdab54c2f77062b8f5fda0e299fa982 )
-	rom ( name 020-m1.bin merge 020-m1.bin size 131072 crc 48409377 sha1 0e212d2c76856a90b2c2fdff675239525972ac43 )
-	rom ( name 020-v11.bin merge 020-v11.bin size 1048576 crc 1b526c8b sha1 2801868d2badcf8aaf5d490e010e4049d81d7bc1 )
-	rom ( name 020-v12.bin merge 020-v12.bin size 524288 crc 4a9e6f03 sha1 d3ac11f333b03d8a318921bdaefb14598e289a14 )
-	rom ( name 020-v21.bin merge 020-v21.bin size 524288 crc 7abf113d sha1 5b2a0e70f2eaf4638b44702dacd4cb17838fb1d5 )
-	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
-	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
-	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
-	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
-	rom ( name neo-po.bin merge neo-po.bin size 131072 crc 16d0c132 sha1 4e4a440cae46f3889d20234aebd7f8d5f522e22c )
-	rom ( name neo-epo.bin merge neo-epo.bin size 131072 crc d27a71f1 sha1 1b3b22092f30c4d1b2c15f04d1670eb1e9fbea07 )
-	rom ( name neodebug.bin merge neodebug.bin size 131072 crc 698ebb7d sha1 081c49aa8cc7dad5939833dc1b18338321ea0a07 )
-	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
-	rom ( name uni-bios.rom merge uni-bios.rom size 131072 crc 2d50996a sha1 5241a4fb0c63b1a23fd1da8efa9c9a9bd3b4279c )
-	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
-	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
-	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
-	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
-	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
-)
-
-game (
-	name samshoh
-	description "Samurai Shodown - Samurai Spirits (set 2)"
-	year 1993
-	manufacturer "SNK"
-	cloneof samsho
-	romof samsho
-	rom ( name 045-p1.bin merge 045-p1.bin size 1048576 crc dfe51bf0 sha1 2243af3770a516ae698b69bcd9daf53632d9128d )
-	rom ( name 045-p2.bin size 524288 crc 38ee9ba9 sha1 48190699a6be83cb6257365ae81f93fdd23abe09 )
-	rom ( name 045-s1.bin merge 045-s1.bin size 131072 crc 9142a4d3 sha1 54088e99fcfd75fd0f94852890a56350066a05a3 )
-	rom ( name 045-c1.bin merge 045-c1.bin size 2097152 crc 2e5873a4 sha1 65c74c1e2d34390666bbb630df7d1f4c9570c3db )
-	rom ( name 045-c2.bin merge 045-c2.bin size 2097152 crc 04febb10 sha1 16a8cbf0fd9468e81bf9eab6dbe7a8e3623a843e )
-	rom ( name 045-c3.bin merge 045-c3.bin size 2097152 crc f3dabd1e sha1 c80e52df42be9f8b2e89b467b11ab140a480cee8 )
-	rom ( name 045-c4.bin merge 045-c4.bin size 2097152 crc 935c62f0 sha1 0053d40085fac14096b683f4341f65e543b71dc1 )
-	rom ( name 045-c5.bin size 524288 crc a2bb8284 sha1 aa118e3b8c062daa219b36758b9a3814c08c69dc )
-	rom ( name 045-c6.bin size 524288 crc 4fa71252 sha1 afe374a9d1f2d955a59efe7b6196b89e021b164c )
-	rom ( name 045-m1.bin merge 045-m1.bin size 131072 crc 95170640 sha1 125c502db0693e8d11cef619b090081c14a9a300 )
-	rom ( name 045-v1.bin merge 045-v1.bin size 2097152 crc 37f78a9b sha1 6279b497d12fa90b49ab5ac3aae20fb302ec8b81 )
-	rom ( name 045-v2.bin merge 045-v2.bin size 2097152 crc 568b20cf sha1 61af858685472a1fad608e230cccc2b108509ddb )
-	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
-	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
-	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
-	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
-	rom ( name neo-po.bin merge neo-po.bin size 131072 crc 16d0c132 sha1 4e4a440cae46f3889d20234aebd7f8d5f522e22c )
-	rom ( name neo-epo.bin merge neo-epo.bin size 131072 crc d27a71f1 sha1 1b3b22092f30c4d1b2c15f04d1670eb1e9fbea07 )
-	rom ( name neodebug.bin merge neodebug.bin size 131072 crc 698ebb7d sha1 081c49aa8cc7dad5939833dc1b18338321ea0a07 )
-	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
-	rom ( name uni-bios.rom merge uni-bios.rom size 131072 crc 2d50996a sha1 5241a4fb0c63b1a23fd1da8efa9c9a9bd3b4279c )
-	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
-	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
-	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
-	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 )
-	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 )
-	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc )
-)
-
 ###############################################################################
 # Nebula
 ################################################################################
+
+game (
+	name roboarma
+	sourcefile neodrvr.c
+	cloneof roboarmy
+	romof roboarmy
+	description "Robo Army (set 2)"
+	year 1991
+	manufacturer "SNK"
+	biosset ( name euro description "Europe MVS (Ver. 2)" default yes )
+	biosset ( name euro-s1 description "Europe MVS (Ver. 1)" )
+	biosset ( name us description "US MVS (Ver. 2?)" )
+	biosset ( name us-e description "US MVS (Ver. 1)" )
+	biosset ( name asia description "Asia MVS (Ver. 3)" )
+	biosset ( name japan description "Japan MVS (Ver. 3)" )
+	biosset ( name japan-s2 description "Japan MVS (Ver. 2)" )
+	biosset ( name japan-s1 description "Japan MVS (Ver. 1)" )
+	rom ( name sp-s2.sp1 merge sp-s2.sp1 bios euro size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 region user1 offs 0 )
+	rom ( name sp-s.sp1 merge sp-s.sp1 bios euro-s1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd region user1 offs 0 )
+	rom ( name usa_2slt.bin merge usa_2slt.bin bios us size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb region user1 offs 0 )
+	rom ( name sp-e.sp1 merge sp-e.sp1 bios us-e size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 region user1 offs 0 )
+	rom ( name asia-s3.rom merge asia-s3.rom bios asia size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 region user1 offs 0 )
+	rom ( name vs-bios.rom merge vs-bios.rom bios japan size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 region user1 offs 0 )
+	rom ( name sp-j2.rom merge sp-j2.rom bios japan-s2 size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 region user1 offs 0 )
+	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 bios japan-s1 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d region user1 offs 0 )
+	rom ( name 032-p1h.bin size 524288 crc 27c773cb sha1 597ca73f142b1129cc7780540bb9cfacd47bc6ce region cpu1 offs 0 )
+	rom ( name 032-s1.bin merge 032-s1.bin size 131072 crc ac0daa1b sha1 93bae4697dc403fce19422752a514326ccf66a91 region gfx1 offs 0 )
+	rom ( name sfix.sfx merge sfix.sfx size 131072 crc 354029fc sha1 4ae4bf23b4c2acff875775d4cbff5583893ce2a1 region gfx2 offs 0 )
+	rom ( name 000-lo.lo merge 000-lo.lo size 65536 crc e09e253c sha1 2b1c719531dac9bb503f22644e6e4236b91e7cfc region gfx4 offs 0 )
+	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 97cf998b sha1 977387a7c76ef9b21d0b01fa69830e949a9a9626 region user2 offs 0 )
+	rom ( name 032-m1h.bin size 131072 crc 35ec952d sha1 8aed30e26d7e2c70dbce5de752df416091066f7b region cpu2 flags baddump offs 0 )
+	rom ( name 032-v1.bin merge 032-v1.bin size 1048576 crc 63791533 sha1 4479e9308cdc906b9e03b985303f4ebedd00512f region sound1 offs 0 )
+	rom ( name 032-v2.bin merge 032-v2.bin size 1048576 crc eb95de70 sha1 b34885201116d2b3bbdee15ec7b5961cf5c069e1 region sound1 offs 100000 )
+	rom ( name 032-c1.bin merge 032-c1.bin size 1048576 crc 97984c6c sha1 deea59c0892f05dc7db98cb57b3eb83688dc57f0 region gfx3 flags dispose offs 0 )
+	rom ( name 032-c2.bin merge 032-c2.bin size 1048576 crc 65773122 sha1 2c0162a8e971e5e57933e4ae16040bf824ffdefe region gfx3 flags dispose offs 1 )
+	rom ( name 032-c3.bin merge 032-c3.bin size 524288 crc 40adfccd sha1 b11f866dd70ba0ed9123424508355cb948b19bdc region gfx3 flags dispose offs 200000 )
+	rom ( name 032-c4.bin merge 032-c4.bin size 524288 crc 462571de sha1 5c3d610d492f91564423873b3b434dcda700373f region gfx3 flags dispose offs 200001 )
+	chip ( type cpu name "68000" clock 12000000 )
+	chip ( type cpu name "Z80" clock 4000000 )
+	chip ( type audio name "YM2610" clock 8000000 )
+	display ( type raster rotate 0 width 320 height 224 refresh 59.185606 )
+	sound ( channels 2 )
+	input ( players 2 buttons 4 coins 2 )
+	control ( type joy8way )
+	dipswitch ( name "Test Switch" entry "Off" default "Off" entry "On" )
+	dipswitch ( name "Coin Chutes?" entry "1?" entry "2?" default "2?" )
+	dipswitch ( name "Autofire (in some games)" entry "Off" default "Off" entry "On" )
+	dipswitch ( name "COMM Setting" entry "Off" default "Off" entry "1" entry "2" entry "3" entry "4" )
+	dipswitch ( name "Free Play" entry "Off" default "Off" entry "On" )
+	dipswitch ( name "Freeze" entry "Off" default "Off" entry "On" )
+	driver ( status good emulation good color good sound good graphic good savestate unsupported palettesize 0 )
+)
 
 game (
 	name martmasc

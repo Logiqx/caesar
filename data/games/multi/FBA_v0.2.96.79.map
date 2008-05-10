@@ -16,9 +16,9 @@ gtmra,gtmra,m
 gtmr,gtmr,m
 1941j,1941j,m
 1941,1941,m
-1942,1942,m
-1942a,1942a,m
-1942b,1942b,m
+1942,1942a,m
+1942a,1942b,m
+1942b,1942,m
 1944j,1944j,m
 1944,1944,m
 1945kiii,1945kiii,m
@@ -334,7 +334,7 @@ gensitou,gensitou,m
 getstarb,getstarb,m
 gtstarba,gtstarba,m
 gpilots,gpilots,m
-gpilotsh,gpilotsh,n
+gpilotsh,gpilotsh,m
 ghostlop,ghostlop,m
 ghoulsu,ghoulsu,m
 ghouls,ghouls,m
@@ -726,7 +726,7 @@ ryukyu,ryukyu,m
 srdmissn,srdmissn,m
 samuraia,samuraia,m
 samsho,samsho,m
-samshoh,samshoh,n
+samshoh,samshoh,m
 samsho2,samsho2,m
 samsho3,samsho3,m
 samsho3a,samsho3a,m
@@ -819,7 +819,7 @@ sfar2,sfar2,m
 sfau,sfau,m
 sfar1,sfar1,m
 sfa,sfa,m
-sfa2,sfa2,m
+sfa2,sfa2u,m
 sfa3b,sfa3b,m
 sfa3ur1,sfa3ur1,m
 sfa3,sfa3,m
@@ -1165,4 +1165,3 @@ zzyzzyxx,zzyzzyxx,m
 zzyzzyx2,zzyzzyx2,m
 neogeo,neogeo,m
 pgm,pgm,m
-
