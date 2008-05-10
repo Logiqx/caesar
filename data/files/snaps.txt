@@ -1516,7 +1516,7 @@ emus/multi/finalburnalpha	socbrawl_2.png	33944	304	224
 emus/multi/finalburnalpha	solomon_1.png	22092	256	224
 emus/multi/finalburnalpha	solomon_2.png	21672	256	224
 emus/multi/finalburnalpha	solomonj_1.png	23005	256	224
-emus/multi/finalburnalpha	sonicbom_1.png	30889	224	320
+emus/multi/finalburnalpha	sonicbom_1.png	31331	224	320
 emus/multi/finalburnalpha	sonicbom_2.png	20180	224	320
 emus/multi/finalburnalpha	sonicwi2_1.png	19251	304	224
 emus/multi/finalburnalpha	sonicwi2_2.png	48675	304	224
