@@ -435,7 +435,7 @@
 
 					mysql_free_result ($result);
 
-					// Snaps
+					// Snaps (firstly check for ones specific to this clone, then check for ones specific to the parent)
 
 					$query = "SELECT *
 						FROM	snap
@@ -447,6 +447,22 @@
 						ORDER BY name";
 
 					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+
+					if (mysql_num_rows ($result) == 0 and $row ['cloneof'] != "")
+					{
+						mysql_free_result ($result);
+
+						$query = "SELECT *
+							FROM	snap
+							WHERE	path='emus/" . $emulator ['emulator_contents_id'] . "/" . $emulator ['emulator_id'] . "' and
+								name like '" . $row ['cloneof'] . "_%' and
+								LEFT(name, " . (strlen($row ['cloneof']) + 1) . ") = '" . $row ['cloneof'] . "_' and
+								LENGTH(name)>=" . (strlen($row ['cloneof']) + 6) . " and
+								LENGTH(name)<=" . (strlen($row ['cloneof']) + 7) . "
+							ORDER BY name";
+
+						$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					}
 
 					if (mysql_num_rows ($result) != 0)
 					{
