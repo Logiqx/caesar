@@ -7,7 +7,7 @@
 /* --- Version information --- */
 
 #define FBA_VERSION "v1.0"
-#define FBA_DATE "20 APril 2007"
+#define FBA_DATE "20 April 2007"
 
 
 /* --- The standard includes --- */
