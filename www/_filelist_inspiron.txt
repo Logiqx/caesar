@@ -284,7 +284,7 @@
 .\cgi-bin\newspro\CVS	Entries	1027
 .\cgi-bin\newspro\CVS	Repository	45
 .\cgi-bin\newspro\CVS	Root	25
-.\CVS	Entries	641
+.\CVS	Entries	657
 .\CVS	Repository	29
 .\CVS	Root	25
 .\images	_filelist_pc.bat	334
@@ -25470,6 +25470,7 @@
 .\txt\tools\snd_libs	seal.txt	2101
 .\txt\tools\snd_libs	wavmix.txt	320
 .\txt\tools\zip_libs	zlib.txt	1735
+.\upload	all.zip	253950
 .\upload	_upload.bat	173
 .\upload\CVS	Entries	48
 .\upload\CVS	Repository	36
