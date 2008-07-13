@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="mame" type="multi" dat="MAME_v0.125">
+<emulator id="mame" type="multi" dat="MAME_v0.126">
 	<name>MAME (Multiple Arcade Machine Emulator)</name>
 	<version>0.126</version>
 	<date>06/06/2008</date>
@@ -12,10 +12,10 @@
 		<contributor>
 			<author_link id="aaron_giles">&author_aaron_giles;</author_link>
 			<comment>Current maintainer. Long term contributor and looks after Mac Port. Also created MAMEW when MAME was just DOS based.</comment>
+		</contributor>
 		<contributor>
 			<author_link id="mike_balfour">&author_mike_balfour;</author_link>
 			<comment>Long term contributor of drivers</comment>
-		</contributor>
 		</contributor>
 		<contributor>
 			<author_link id="chris_moore">&author_chris_moore;</author_link>

@@ -50,7 +50,7 @@
 	</features>
 
 	<files>
-		<file name="fba_029685_unicode.zip">Emulator (Unicode)</file>
+		<file name="fba_unicode_029685.zip">Emulator (Unicode)</file>
 		<file name="fba_src_029685.zip">Source</file>
 		<file name="mingw-cygwin-libs.zip">Cygwin Libraries (needed when compiling)</file>
 		<file name="francais.flt">French language pack</file>
