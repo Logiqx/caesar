@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="finalburnalpha" type="multi" dat="FBA_v0.2.96.82">
+<emulator id="finalburnalpha" type="multi" dat="FBA_v0.2.96.85">
 	<name>Final Burn Alpha</name>
-	<version>0.2.96.82</version>
-	<date>07/05/2008</date>
+	<version>0.2.96.85</version>
+	<date>20/06/2008</date>
 
 	<homepage>http://fba.emuunlim.com</homepage>
 	<homepage>http://www.barryharris.me.uk/</homepage>
@@ -50,12 +50,23 @@
 	</features>
 
 	<files>
-		<file name="fba_029682_unicode.zip">Emulator (Unicode)</file>
-		<file name="fba_029682_non_unicode.zip">Emulator (Non-Unicode - i.e. Windows 9x)</file>
-		<file name="fba_src_029682.zip">Source</file>
+		<file name="fba_029685_unicode.zip">Emulator (Unicode)</file>
+		<file name="fba_src_029685.zip">Source</file>
 		<file name="mingw-cygwin-libs.zip">Cygwin Libraries (needed when compiling)</file>
 		<file name="francais.flt">French language pack</file>
 		<file name="Brazilian_Portugese.flt">Brazilian language pack</file>
+		<file name="fba_previews.zip">Previews pack</file>
+		<file name="fba_previews_update_029666.zip">Previews pack (update for 0.2.96.66)</file>
+		<file name="fba_previews_update_029667.zip">Previews pack (update for 0.2.96.67)</file>
+		<file name="fba_previews_update_029668.zip">Previews pack (update for 0.2.96.68)</file>
+		<file name="fba_previews_update_029671.zip">Previews pack (update for 0.2.96.71)</file>
+		<file name="fba_previews_dat.zip">Previews pack - CMPro datafile</file>
+		<file name="fba_titles.zip">Titles pack</file>
+		<file name="fba_titles_update_029666.zip">Titles pack (update for 0.2.96.66)</file>
+		<file name="fba_titles_update_029667.zip">Titles pack (update for 0.2.96.67)</file>
+		<file name="fba_titles_update_029668.zip">Titles pack (update for 0.2.96.68)</file>
+		<file name="fba_titles_update_029671.zip">Titles pack (update for 0.2.96.71)</file>
+		<file name="fba_titles_dat.zip">Titles pack - CMPro datafile</file>
 	</files>
 
 	<relatives>

@@ -1,1 +1,39 @@
+game (
+	name csclubjr
+	description "Capcom Sports Club (970722 Japan, Rent version)"
+	year 1997
+	manufacturer "Capcom"
+	cloneof csclub
+	romof csclub
+	rom ( name cscj.03 size 524288 crc ec4ddaa2 sha1 f84af8bd01cc994ecd6ac24e829e2bd33817d862 )
+	rom ( name cscj.04 size 524288 crc 60c632bb sha1 0d42c33aa476d2cc4efcdad78667353b88225966 )
+	rom ( name cscj.05 size 524288 crc ad042003 sha1 1e167c88f3b0617c38c9f43bdc816045ac0296e0 )
+	rom ( name cscj.06 size 524288 crc 169e4d40 sha1 6540d89df5e76189d32b696be7626087fe26e33b )
+	rom ( name csc.07 merge csc.07 size 524288 crc 01b05caa sha1 5b84487da68e6b6f2889c76bf9e070e25941988c )
+	rom ( name csc.73 size 524288 crc 335f07c3 )
+	rom ( name csc.74 size 524288 crc ab215357 )
+	rom ( name csc.75 size 524288 crc a2367381 )
+	rom ( name csc.76 size 524288 crc 728aac1f )
+	rom ( name csc.63 size 524288 crc 3711b8ca )
+	rom ( name csc.64 size 524288 crc 828a06d8 )
+	rom ( name csc.65 size 524288 crc 86ee4569 )
+	rom ( name csc.66 size 524288 crc c24f577f )
+	rom ( name csc.83 size 524288 crc 0750d12a )
+	rom ( name csc.84 size 524288 crc 90a92f39 )
+	rom ( name csc.85 size 524288 crc d08ab012 )
+	rom ( name csc.86 size 524288 crc 41652583 )
+	rom ( name csc.93 size 524288 crc a756c7f7 )
+	rom ( name csc.94 size 524288 crc fb7ccc73 )
+	rom ( name csc.95 size 524288 crc 4d014297 )
+	rom ( name csc.96 size 524288 crc 6754b1ef )
+	rom ( name csc.01 merge csc.01 size 131072 crc ee162111 sha1 ce8d4bd32bb10ee8b0274ba6fcef05a583b39d48 )
+	rom ( name csc.51 size 524288 crc 5a52afd5 )
+	rom ( name csc.52 size 524288 crc 1408a811 )
+	rom ( name csc.53 size 524288 crc 4fb9f57c )
+	rom ( name csc.54 size 524288 crc 9a8f40ec )
+	rom ( name csc.55 size 524288 crc 91529a91 )
+	rom ( name csc.56 size 524288 crc 9a345334 )
+	rom ( name csc.57 size 524288 crc aedc27f2 )
+	rom ( name csc.58 size 524288 crc 2300b7b3 )
+)
 
