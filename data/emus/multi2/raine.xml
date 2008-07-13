@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="raine" type="multi2" dat="dummy">
 	<name>RAINE</name>
-	<version>0.43.4</version>
-	<date>15/08/2006</date>
+	<version>0.50.14</version>
+	<date>26/06/2008</date>
 
 	<homepage>http://www.rainemu.com/</homepage>
 	<homepage>http://sourceforge.net/projects/raine/</homepage>
@@ -83,7 +83,7 @@
 	</features>
 
 	<files>
-		<file name="rained-0.43.2-1.zip">Emulator</file>
+		<file name="rained-0.50.14.zip">Emulator</file>
 		<file name="raineicons.zip">Icons</file>
 		<file name="rainefonts.zip">Fonts</file>
 		<file name="rainedocs.zip">Documents</file>
