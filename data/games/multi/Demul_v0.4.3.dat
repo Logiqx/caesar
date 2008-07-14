@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Demul</name>
+		<description>Demul v0.4.3</description>
+		<category>Naomi (based on Sega Dreamcast hardware)</category>
+		<version>20080714</version>
+		<date>2008-07-14</date>
+		<author>Logiqx</author>
+		<homepage>Logiqx Home Page</homepage>
+		<url>http://www.logiqx.com/</url>
+		<comment>Please report any data file issues at http://forum.logiqx.com/</comment>
+		<clrmamepro forcenodump="ignore"/>
+	</header>
+	<game isbios="yes" name="naomi">
+		<description>Naomi Bios</description>
+		<year>1998</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+	</game>
+	<game name="csmash" romof="naomi">
+		<description>Cosmic Smash (JPN, USA, EXP, KOR, AUS) (rev. A)</description>
+		<year>2001</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23428a.22" size="4194304" crc="d628dbce" sha1="91ec1296ead572a64c37f8ac2c1a96742f19d50b"/>
+		<rom name="mpr23420.1" size="8388608" crc="9d5991f2" sha1="c75871db314b01935d1daaacf1a762e73e5fd411"/>
+		<rom name="mpr23421.2" size="8388608" crc="6c351db3" sha1="cdd601321a38fc34152517abdc473b73a4c6f630"/>
+		<rom name="mpr23422.3" size="8388608" crc="a1d4bd29" sha1="6c446fd1819f55412351f15cf57b769c0c56c1db"/>
+		<rom name="mpr23423.4" size="8388608" crc="08cbf373" sha1="0d9a593f5cc5d632d85d7253c135eef2e8e01598"/>
+		<rom name="mpr23424.5" size="8388608" crc="f4404000" sha1="e49d941e47e63bb7f3fddc3c3d2c1653611914ee"/>
+		<rom name="mpr23425.6" size="8388608" crc="47f51da2" sha1="af5ecd460114caed3a00157ffd3a2df0fbf348c0"/>
+		<rom name="mpr23426.7" size="8388608" crc="7f91b13f" sha1="2d534f77291ebfedc011bf0e803a1b9243fb477f"/>
+		<rom name="mpr23427.8" size="8388608" crc="5851d525" sha1="1cb1073542d75a3bcc0d363ed31d49bcaf1fd494"/>
+	</game>
+	<game name="vs2_2k" romof="naomi">
+		<description>Virtua Striker 2 Ver. 2000 (JPN, USA, EXP, KOR, AUS) - set 1</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21929c.22" size="4194304" crc="b5e609f4" sha1="92b98bad94268a80f6e4506b812d01c0a7850161"/>
+		<rom name="mpr21914.u1" size="8388608" crc="f91ef69b" sha1="4ed23091efad7ddf1878a0bfcdcbba3cf151af84"/>
+		<rom name="mpr21915.u2" size="8388608" crc="40128a67" sha1="9d191c4ec33465f29bbc09491dde62f354a9ab15"/>
+		<rom name="mpr21916.u3" size="8388608" crc="19708b3c" sha1="7d1ef995ce870ffcb68f420a571efb084f5bfcf2"/>
+		<rom name="mpr21917.u4" size="8388608" crc="b082379b" sha1="42f585279da1de7e613e42b76e1b81986c48e6ea"/>
+		<rom name="mpr21918.u5" size="8388608" crc="a3bc1a47" sha1="0e5043ab6e118feb59f68c84c095cf5b1dba7d09"/>
+		<rom name="mpr21919.u6" size="8388608" crc="b1dfada7" sha1="b4c906bc96b615975f6319a1fdbd5b990e7e4124"/>
+		<rom name="mpr21920.u7" size="8388608" crc="1c189e28" sha1="93400de2cb803357fa17ae7e1a5297177f9bcfa1"/>
+		<rom name="mpr21921.u8" size="8388608" crc="55bcb652" sha1="4de2e7e584dd4999dc8e405837a18a904dfee0bf"/>
+		<rom name="mpr21922.u9" size="8388608" crc="2ecda3ff" sha1="54afc77a01470662d580f5676b4e8dc4d04f63f8"/>
+		<rom name="mpr21923.u10" size="8388608" crc="a5cd42ad" sha1="59f62e995d45311b1592434d1ffa42c261fa8ba1"/>
+		<rom name="mpr21924.u11" size="8388608" crc="cc1a4ed9" sha1="0e3aaeaa55f1d145fb4877b6d187a3ee78cf214e"/>
+		<rom name="mpr21925.u12" size="8388608" crc="9452c5fb" sha1="5a04f96d83cca6248f513de0c6240fc671bcadf9"/>
+		<rom name="mpr21926.u13" size="8388608" crc="d6346491" sha1="830971cbc14cab022a09ad4c6e11ee49c550e308"/>
+		<rom name="mpr21927.u14" size="8388608" crc="a1901e1e" sha1="2281f91ac696cc14886bcdf4b0685ce2f5bb8117"/>
+		<rom name="mpr21928.u15" size="4194304" crc="d127d9a5" sha1="78c95357344ea15469b84fa8b1332e76521892cd"/>
+	</game>
+	<game name="vs2_2ka" romof="naomi">
+		<description>Virtua Striker 2 Ver. 2000 (JPN, USA, EXP, KOR, AUS) - set 2</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="u22" size="4194304" crc="831af08a" sha1="af4c74623be823fd061765cede354c6a9722fd10"/>
+		<rom name="mpr21914.u1" size="8388608" crc="f91ef69b" sha1="4ed23091efad7ddf1878a0bfcdcbba3cf151af84"/>
+		<rom name="mpr21915.u2" size="8388608" crc="40128a67" sha1="9d191c4ec33465f29bbc09491dde62f354a9ab15"/>
+		<rom name="mpr21916.u3" size="8388608" crc="19708b3c" sha1="7d1ef995ce870ffcb68f420a571efb084f5bfcf2"/>
+		<rom name="mpr21917.u4" size="8388608" crc="b082379b" sha1="42f585279da1de7e613e42b76e1b81986c48e6ea"/>
+		<rom name="mpr21918.u5" size="8388608" crc="a3bc1a47" sha1="0e5043ab6e118feb59f68c84c095cf5b1dba7d09"/>
+		<rom name="mpr21919.u6" size="8388608" crc="b1dfada7" sha1="b4c906bc96b615975f6319a1fdbd5b990e7e4124"/>
+		<rom name="mpr21920.u7" size="8388608" crc="1c189e28" sha1="93400de2cb803357fa17ae7e1a5297177f9bcfa1"/>
+		<rom name="mpr21921.u8" size="8388608" crc="55bcb652" sha1="4de2e7e584dd4999dc8e405837a18a904dfee0bf"/>
+		<rom name="mpr21922.u9" size="8388608" crc="2ecda3ff" sha1="54afc77a01470662d580f5676b4e8dc4d04f63f8"/>
+		<rom name="mpr21923.u10" size="8388608" crc="a5cd42ad" sha1="59f62e995d45311b1592434d1ffa42c261fa8ba1"/>
+		<rom name="mpr21924.u11" size="8388608" crc="cc1a4ed9" sha1="0e3aaeaa55f1d145fb4877b6d187a3ee78cf214e"/>
+		<rom name="mpr21925.u12" size="8388608" crc="9452c5fb" sha1="5a04f96d83cca6248f513de0c6240fc671bcadf9"/>
+		<rom name="mpr21926.u13" size="8388608" crc="d6346491" sha1="830971cbc14cab022a09ad4c6e11ee49c550e308"/>
+		<rom name="mpr21927.u14" size="8388608" crc="a1901e1e" sha1="2281f91ac696cc14886bcdf4b0685ce2f5bb8117"/>
+		<rom name="mpr21928.u15" size="4194304" crc="d127d9a5" sha1="78c95357344ea15469b84fa8b1332e76521892cd"/>
+	</game>
+	<game name="smarinef" romof="naomi">
+		<description>Sega Marine Fishing</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr-22221.ic22" size="4194304" crc="9d984375" sha1="fe1185d70b4bc1529e3579fd6b2b678c7d548400"/>
+		<rom name="mpr-22208.ic1" size="8388608" crc="6a1e418c" sha1="7092c6a34ac0c2c6fb2b4b78415d08ef473785d9"/>
+		<rom name="mpr-22209.ic2" size="8388608" crc="ecf5be54" sha1="d7c264da4e232ce6f9b05c9920394f8027fa4a1d"/>
+		<rom name="mpr-22212.ic5" size="8388608" crc="8305f462" sha1="7993231fa71f509b3b7fec691b5a6139947a01e7"/>
+		<rom name="mpr-22213.ic6" size="8388608" crc="0912eaea" sha1="e4cb1262f3b53d3c619900767cfa192115a53d4b"/>
+		<rom name="mpr-22214.ic7" size="8388608" crc="661526b6" sha1="490321a893f706eaea49c6c35c01af6ae45adf01"/>
+		<rom name="mpr-22215.ic8" size="8388608" crc="a80714fa" sha1="b32dde5cc79a9ae9f7f34064c2382115e9303070"/>
+		<rom name="mpr-22216.ic9" size="8388608" crc="cf3d1049" sha1="a390304256dfac623b6fe1b205d918ce3eb67723"/>
+		<rom name="mpr-22217.ic10" size="8388608" crc="48c92fd6" sha1="26b17a8d0130512807cf533a60c10c6d1e769de0"/>
+		<rom name="mpr-22218.ic11" size="8388608" crc="f9ca31b8" sha1="ea3d0f38ca1a46c896c06f038a6362ad3c9f90b2"/>
+		<rom name="mpr-22219.ic12" size="8388608" crc="b3b45811" sha1="045e7236b814f848d4c9767618ddcd4344d880ec"/>
+	</game>
+	<game name="cspike" romof="naomi">
+		<description>Gun Spike (JPN) / Cannon Spike (USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Psikyo / Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23210.22" size="4194304" crc="a15c54b5" sha1="5c7872244d3d648e4c04751f120d0e9d47239921"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+	</game>
+	<game name="capsnk" romof="naomi">
+		<description>Capcom Vs. SNK Millennium Fight 2000 (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23511a.ic22" size="4194304" crc="fe00650f" sha1="ca8e9e9178ed2b6598bdea83be1bf0dd7aa509f9"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+	</game>
+	<game name="derbyoc" romof="naomi">
+		<description>Derby Owners Club (JPN, USA, EXP, KOR, AUS)</description>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22099b.22" size="4194304" crc="5e708879" sha1="fada4f4bf29fc8f77f354167f8db4f904610fe1a"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+	</game>
+	<game name="dybb99" romof="naomi">
+		<description>Dynamite Baseball '99 (JPN) / World Series '99 (USA, EXP, KOR, AUS)</description>
+		<year>1998</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22141b.22" size="2097152" crc="6d0e0785" sha1="aa19e7bac4c266771d1e65cffa534a49d7566f51"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+	</game>
+	<game name="gram2000" romof="naomi">
+		<description>Giant Gram 2000 (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23377.22" size="4194304" crc="4ca3149c" sha1="9d25fc659658b416202b033754669be2f3abcdbe"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+	<game name="ggram2" romof="naomi">
+		<description>Giant Gram (JPN, USA, EXP, KOR, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21820.22" size="2097152" crc="0a198278" sha1="0df5fc8b56ddafc66d92cb3923b851a5717b551d"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+	</game>
+	<game name="hmgeo" romof="naomi">
+		<description>Heavy Metal Geomatrix (JPN, USA, EUR, ASI, AUS)</description>
+		<year>2001</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23716a.22" size="4194304" crc="c5cb0d3b" sha1="20de8f5ee183e996ccde77b10564a302939662db"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+	</game>
+	<game name="gwing2" romof="naomi">
+		<description>Giga Wing 2 (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Takumi / Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22270.22" size="2097152" crc="876b3c97" sha1="eb171d4a0521c3bea42b4aae3607faec63e10581"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+	</game>
+	<game name="suchie3" romof="naomi">
+		<description>Idol Janshi Suchie-Pai 3 (JPN)</description>
+		<year>1999</year>
+		<manufacturer>Jaleco</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21979.22" size="2097152" crc="335c9e25" sha1="476790fdd99a8c13336e795b4a39b071ed86a97c"/>
+		<rom name="mpr-21980.ic1" size="8388608" crc="2b5f958a" sha1="609585dda27c5e111378a92f04fa03ae11d42540"/>
+		<rom name="mpr-21981.ic2" size="8388608" crc="b4fff4ee" sha1="333fb5a662775662881154b654233f207782a8aa"/>
+		<rom name="mpr-21982.ic3" size="8388608" crc="923ee0ff" sha1="4f92cc1abfd948a1ed15fdca11251aba96bdc022"/>
+		<rom name="mpr-21983.ic4" size="8388608" crc="dd659ab1" sha1="96d9825fc5cf72a9ef83f10e480fd8925b1d6762"/>
+		<rom name="mpr-21984.ic5" size="8388608" crc="b34de0c7" sha1="dbb7a6a19af2571441b5ecbddddae6891809ffcf"/>
+		<rom name="mpr-21985.ic6" size="8388608" crc="f1516e0a" sha1="246d287df592cd69df689dc10e8647a9dbf804b7"/>
+		<rom name="mpr-21986.ic7" size="8388608" crc="2779c418" sha1="8d1a89ddf0c68f1eaf6eb0dafadf9b614492fff1"/>
+		<rom name="mpr-21987.ic8" size="8388608" crc="6aaaacdd" sha1="f5e67c88db8bce8f2f4cab73a5d0a24ba57c812b"/>
+		<rom name="mpr-21988.ic9" size="8388608" crc="ed61b155" sha1="679124f0f7c7bc4791025cff274d903cf5bcae70"/>
+		<rom name="mpr-21989.ic10" size="8388608" crc="ae8562cf" sha1="e31986e53159729434a7952e8c4ed2adf8dd8e9d"/>
+		<rom name="mpr-21990.ic11" size="8388608" crc="57fd9fdd" sha1="62b3bc4a2828751459557b63d900ca6d46792e24"/>
+		<rom name="mpr-21991.ic12" size="8388608" crc="d82f834a" sha1="06902713bdf6f68182749916cacc9ae6528dc355"/>
+		<rom name="mpr-21992.ic13" size="8388608" crc="599a2fb8" sha1="2a0007064ad2ee1e1a0fda1d5676df4ff19a9f2f"/>
+		<rom name="mpr-21993.ic14" size="4194304" crc="fb28cf0a" sha1="d51b1d4514a93074d1f77bd1bc5995739604cf56"/>
+	</game>
+	<game name="toyfight" romof="naomi">
+		<description>Toy Fighter</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr-22035.ic22" size="4194304" crc="dbc76493" sha1="a9772bdb62610a39adf2b9f397781bcddda3e635"/>
+		<rom name="mpr-22025.ic1" size="8388608" crc="30237202" sha1="e229a7671b3a34b26a461716bd7b437da100e1c8"/>
+		<rom name="mpr-22026.ic2" size="8388608" crc="f28e71ff" sha1="019425fcf234beca2b586de5235cf9f171563533"/>
+		<rom name="mpr-22027.ic3" size="8388608" crc="1a84632d" sha1="f3880f21399c6713c48c710c06d0344a0a28f026"/>
+		<rom name="mpr-22028.ic4" size="8388608" crc="2b34ccba" sha1="76c39ea19c3be1d9a9ce9e67035be7543b71ff26"/>
+		<rom name="mpr-22029.ic5" size="8388608" crc="8162953a" sha1="15c9e10080a5f2e70c31b9b89a256050a1aed4e9"/>
+		<rom name="mpr-22030.ic6" size="8388608" crc="5bf5fed6" sha1="6c8eedb177aa49aee9a8b090f2e5f96644416c6c"/>
+		<rom name="mpr-22031.ic7" size="8388608" crc="ee7c40cc" sha1="b9d92ef5bae0e932ec8769a30ebd841a263d3e2a"/>
+		<rom name="mpr-22032.ic8" size="8388608" crc="3c48c9ba" sha1="00be199b23040f8e81db2ec489ba98cbf615652c"/>
+		<rom name="mpr-22033.ic9" size="8388608" crc="5fe5586e" sha1="3ff41ae1f81469597684faadd88e62b5e0634352"/>
+		<rom name="mpr-22034.ic10" size="8388608" crc="3aa5ce5e" sha1="f00a906235e4522d6fc2ac771324114346875314"/>
+	</game>
+	<game name="pjustice" romof="naomi">
+		<description>Moero Justice Gakuen (JPN) / Project Justice (USA, EXP, KOR, AUS) </description>
+		<year>2000</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23548a.22" size="4194304" crc="f4ccf1ec" sha1="97485b2a4b9452ffeea2501f42d20d718410e716"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+	<game name="pstone" romof="naomi">
+		<description>Power Stone (JPN, USA, EUR, ASI, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21597.22" size="2097152" crc="62c7acc0" sha1="bb61641a7f3650757132cde379447bdc9bd91c78"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+	</game>
+	<game name="pstone2" romof="naomi">
+		<description>Power Stone 2 (JPN, USA, EUR, ASI, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23127.22" size="4194304" crc="185761d6" sha1="8c91b594dd59313d249c9da7b39dee21d3c9082e"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+	</game>
+	<game name="otrigger" romof="naomi">
+		<description>OutTrigger (JPN, USA, EXP, KOR, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22163.22" size="4194304" crc="3bdafb6a" sha1="c4c5a4ba94d85c4353df22d70bb08be67e9c22c3"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+	</game>
+	<game name="samba" romof="naomi">
+		<description>Samba De Amigo (JPN)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22966b.ic22" size="4194304" crc="893116b8" sha1="35cb4f40690ff21af5ab7cc5adbc53228d6fb0b3"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+	</game>
+	<game name="slasho" romof="naomi">
+		<description>Slashout (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr23341.22" size="4194304" crc="477fa123" sha1="d2474766dcd0b0e5fe317a858534829eb1c26789"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+	</game>
+	<game name="spawn" romof="naomi">
+		<description>Spawn (JPN, USA, EUR, ASI, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22977b.22" size="4194304" crc="814ff5d1" sha1="5a0a9e55878927f98750000eb7d9391cbecfe21d"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+	</game>
+	<game name="virnba" romof="naomi">
+		<description>Virtua NBA (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22949.22" size="4194304" crc="fd91447e" sha1="0759d6517aeb684d0cb809c1ae1350615cc0aecc"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+	<game name="vtennis" romof="naomi">
+		<description>Power Smash (JPN) / Virtua Tennis (USA, EXP, KOR, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22927.22" size="4194304" crc="89781723" sha1="cf644aa66abcec6964d77485a0292f11ba80dd0d"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+	</game>
+	<game name="zombrvn" romof="naomi">
+		<description>Zombie Revenge (JPN, USA, EXP, KOR, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21707.22" size="2097152" crc="4daa11e9" sha1="2dc219a5e0d0b41cce6d07631baff0495c479e13"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+	</game>
+	<game name="doa2" romof="naomi">
+		<description>Dead or Alive 2 (JPN, USA, EXP, KOR, AUS)</description>
+		<year>1999</year>
+		<manufacturer>Tecmo</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr22121.22" size="4194304" crc="30f93b5e" sha1="0e33383e7ab9a721dab4708b063598f2e9c9f2e7"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+	<game name="doa2m" romof="naomi">
+		<description>Dead or Alive 2 Millennium (JPN, USA, EXP, KOR, AUS)</description>
+		<year>2000</year>
+		<manufacturer>Tecmo</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="doa2verm.22" size="4194304" crc="94b16f08" sha1="225cd3e5dd5f21facf0a1d5e66fa17db8497573d"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+	<game name="dybbnao" romof="naomi">
+		<description>Dynamite Baseball NAOMI (JPN)</description>
+		<year>1998</year>
+		<manufacturer>Sega</manufacturer>
+		<rom name="epr-21578a.bin" merge="epr-21578a.bin" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-22851.bin" merge="epr-22851.bin" size="2097152" crc="62483677" sha1="3e3bcacf5f972c376b569f45307ee7fd0b5031b7"/>
+		<rom name="epr-21578d.bin" merge="epr-21578d.bin" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21576g.bin" merge="epr-21576g.bin" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21577e.bin" merge="epr-21577e.bin" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21578e.bin" merge="epr-21578e.bin" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="dcnaodev.bios" merge="dcnaodev.bios" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="epr-21577d.bin" merge="epr-21577d.bin" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21330.bin" merge="epr-21330.bin" size="2097152" crc="9e3bfa1b" sha1="b539d38c767b0551b8e7956c1ff795de8bbe2fbc"/>
+		<rom name="epr-21331.bin" merge="epr-21331.bin" size="2097152" crc="065f8500" sha1="49a3881e8d76f952ef5e887200d77b4a415d47fe"/>
+		<rom name="epr21575.22" size="2097152" crc="ba61e248" sha1="3cce5d8b307038515d7da7ec567bfa2e3aafc274"/>
+		<rom name="ic1" size="8388608" status="nodump"/>
+		<rom name="ic2" size="8388608" status="nodump"/>
+		<rom name="ic3" size="8388608" status="nodump"/>
+		<rom name="ic4" size="8388608" status="nodump"/>
+		<rom name="ic5" size="8388608" status="nodump"/>
+		<rom name="ic6" size="8388608" status="nodump"/>
+		<rom name="ic7" size="8388608" status="nodump"/>
+		<rom name="ic8" size="8388608" status="nodump"/>
+		<rom name="ic9" size="8388608" status="nodump"/>
+		<rom name="ic10" size="8388608" status="nodump"/>
+		<rom name="ic11" size="8388608" status="nodump"/>
+		<rom name="ic12" size="8388608" status="nodump"/>
+		<rom name="ic13" size="8388608" status="nodump"/>
+		<rom name="ic14" size="8388608" status="nodump"/>
+		<rom name="ic15" size="8388608" status="nodump"/>
+		<rom name="ic16" size="8388608" status="nodump"/>
+		<rom name="ic17" size="8388608" status="nodump"/>
+		<rom name="ic18" size="8388608" status="nodump"/>
+		<rom name="ic19" size="8388608" status="nodump"/>
+		<rom name="ic20" size="8388608" status="nodump"/>
+		<rom name="ic21" size="8388608" status="nodump"/>
+	</game>
+</datafile>

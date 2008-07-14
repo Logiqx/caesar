@@ -1333,6 +1333,44 @@ game (
 )
 
 ###############################################################################
+# Demul
+################################################################################
+
+game (
+	name vs2_2k2
+	description "Virtua Striker 2 Ver. 2000 (JPN, USA, EXP, KOR, AUS) - set 1"
+	year 1999
+	manufacturer "Sega"
+	romof naomi
+	rom ( name epr-21578a.bin merge epr-21578a.bin size 2097152 crc 6c9aad83 sha1 555918de76d8dbee2a97d8a95297ef694b3e803f )
+	rom ( name epr-22851.bin merge epr-22851.bin size 2097152 crc 62483677 sha1 3e3bcacf5f972c376b569f45307ee7fd0b5031b7 )
+	rom ( name epr-21578d.bin merge epr-21578d.bin size 2097152 crc dfd5f42a sha1 614a0db4743a5e5a206190d6786ade24325afbfd )
+	rom ( name epr-21576g.bin merge epr-21576g.bin size 2097152 crc d2a1c6bf sha1 6d27d71aec4dfba98f66316ae74a1426d567698a )
+	rom ( name epr-21577e.bin merge epr-21577e.bin size 2097152 crc cf36e97b sha1 b085305982e7572e58b03a9d35f17ae319c3bbc6 )
+	rom ( name epr-21578e.bin merge epr-21578e.bin size 2097152 crc 087f09a3 sha1 0418eb2cf9766f0b1b874a4e92528779e22c0a4a )
+	rom ( name dcnaodev.bios merge dcnaodev.bios size 524288 crc 7a50fab9 sha1 ef79f448e0bf735d1264ad4f051d24178822110f )
+	rom ( name epr-21577d.bin merge epr-21577d.bin size 2097152 crc 60ddcbbe sha1 58b15096d269d6df617ca1810b66b47deb184958 )
+	rom ( name epr-21330.bin merge epr-21330.bin size 2097152 crc 9e3bfa1b sha1 b539d38c767b0551b8e7956c1ff795de8bbe2fbc )
+	rom ( name epr-21331.bin merge epr-21331.bin size 2097152 crc 065f8500 sha1 49a3881e8d76f952ef5e887200d77b4a415d47fe )
+	rom ( name epr21929c.22 size 4194304 crc b5e609f4 sha1 92b98bad94268a80f6e4506b812d01c0a7850161 )
+	rom ( name mpr21914.u1 size 8388608 crc f91ef69b sha1 4ed23091efad7ddf1878a0bfcdcbba3cf151af84 )
+	rom ( name mpr21915.u2 size 8388608 crc 40128a67 sha1 9d191c4ec33465f29bbc09491dde62f354a9ab15 )
+	rom ( name mpr21916.u3 size 8388608 crc 19708b3c sha1 7d1ef995ce870ffcb68f420a571efb084f5bfcf2 )
+	rom ( name mpr21917.u4 size 8388608 crc b082379b sha1 42f585279da1de7e613e42b76e1b81986c48e6ea )
+	rom ( name mpr21918.u5 size 8388608 crc a3bc1a47 sha1 0e5043ab6e118feb59f68c84c095cf5b1dba7d09 )
+	rom ( name mpr21919.u6 size 8388608 crc b1dfada7 sha1 b4c906bc96b615975f6319a1fdbd5b990e7e4124 )
+	rom ( name mpr21920.u7 size 8388608 crc 1c189e28 sha1 93400de2cb803357fa17ae7e1a5297177f9bcfa1 )
+	rom ( name mpr21921.u8 size 8388608 crc 55bcb652 sha1 4de2e7e584dd4999dc8e405837a18a904dfee0bf )
+	rom ( name mpr21922.u9 size 8388608 crc 2ecda3ff sha1 54afc77a01470662d580f5676b4e8dc4d04f63f8 )
+	rom ( name mpr21923.u10 size 8388608 crc a5cd42ad sha1 59f62e995d45311b1592434d1ffa42c261fa8ba1 )
+	rom ( name mpr21924.u11 size 8388608 crc cc1a4ed9 sha1 0e3aaeaa55f1d145fb4877b6d187a3ee78cf214e )
+	rom ( name mpr21925.u12 size 8388608 crc 9452c5fb sha1 5a04f96d83cca6248f513de0c6240fc671bcadf9 )
+	rom ( name mpr21926.u13 size 8388608 crc d6346491 sha1 830971cbc14cab022a09ad4c6e11ee49c550e308 )
+	rom ( name mpr21927.u14 size 8388608 crc a1901e1e sha1 2281f91ac696cc14886bcdf4b0685ce2f5bb8117 )
+	rom ( name mpr21928.u15 size 4194304 crc d127d9a5 sha1 78c95357344ea15469b84fa8b1332e76521892cd )
+)
+
+###############################################################################
 # Nebula
 ################################################################################
 

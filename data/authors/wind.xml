@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE author SYSTEM "../../dtd/caesar.dtd">
+<author id="wind">
+	<name>Wind</name>
+	<emulator_links>
+		<emulator_link id="demul" type="multi">&emulator_demul;</emulator_link>
+	</emulator_links>
+</author>

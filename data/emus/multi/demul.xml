@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
+<emulator id="demul" type="multi" dat="Demul_v0.4.3">
+	<name>Demul</name>
+	<version>0.4.3</version>
+	<date>08/07/2008</date>
+
+	<homepage>http://demul.emulation64.com/</homepage>
+	<author_link id="wind">&author_wind;</author_link>
+	<contributors>
+		<contributor>
+			<author_link id="cah4e3">&author_cah4e3;</author_link>
+			<comment>Co-coder</comment>
+		</contributor>
+		<contributor>
+			<author_link id="ajx16384">&author_ajx16384;</author_link>
+			<comment>Co-coder</comment>
+		</contributor>
+	</contributors>
+
+	<emulates>Sega's NAOMI (New Arcade Operation Machine Idea) GD-ROM hardware.</emulates>
+	<comment>Not all games have been dumped yet but a promising emulator that already supports a few games!</comment>
+	<status>Active</status>
+
+	<tool_links>
+		<tool_link id="msvc" type="compilers">&tool_msvc;</tool_link>
+	</tool_links>
+
+	<platform>Windows</platform>
+
+	<controllers>
+		<controller>Keyboard</controller>
+		<controller>Joystick</controller>
+	</controllers>
+
+	<features>
+		<sound>yes</sound>
+		<source>No</source>
+		<screendump>Yes</screendump>
+		<hiscoresave>Yes</hiscoresave>
+		<savegame>Yes</savegame>
+		<recordinput>No</recordinput>
+		<dips>Yes</dips>
+		<cheat>No</cheat>
+		<autoframeskip>Yes</autoframeskip>
+		<throttle>Yes</throttle>
+	</features>
+
+	<files>
+		<file name="Demul_v.0.4.3.rar">Emulator</file>
+	</files>
+</emulator>

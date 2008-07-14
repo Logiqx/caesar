@@ -23,6 +23,7 @@
 		<emulator_link id="combatschool" type="single">&emulator_combatschool;</emulator_link>
 		<emulator_link id="crystal_system_emulator" type="multi">&emulator_crystal_system_emulator;</emulator_link>
 		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
+		<emulator_link id="demul" type="multi">&emulator_demul;</emulator_link>
 		<emulator_link id="finalburn" type="multi">&emulator_finalburn;</emulator_link>
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
 		<emulator_link id="gekko" type="single">&emulator_gekko;</emulator_link>
