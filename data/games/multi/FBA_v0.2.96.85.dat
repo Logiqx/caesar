@@ -5,8 +5,8 @@
 		<name>FBA</name>
 		<description>FBA v0.2.96.85</description>
 		<category>Emulator for MC68000/Z80 based arcade games</category>
-		<version>20080630</version>
-		<date>2008-06-30</date>
+		<version>20080714</version>
+		<date>2008-07-14</date>
 		<author>Logiqx</author>
 		<homepage>Logiqx Home Page</homepage>
 		<url>http://www.logiqx.com/</url>
@@ -3703,31 +3703,31 @@
 		<rom name="cscj.05" size="524288" crc="ad042003" sha1="1e167c88f3b0617c38c9f43bdc816045ac0296e0"/>
 		<rom name="cscj.06" size="524288" crc="169e4d40" sha1="6540d89df5e76189d32b696be7626087fe26e33b"/>
 		<rom name="csc.07" merge="csc.07" size="524288" crc="01b05caa" sha1="5b84487da68e6b6f2889c76bf9e070e25941988c"/>
-		<rom name="csc.73" size="524288" crc="335f07c3"/>
-		<rom name="csc.74" size="524288" crc="ab215357"/>
-		<rom name="csc.75" size="524288" crc="a2367381"/>
-		<rom name="csc.76" size="524288" crc="728aac1f"/>
-		<rom name="csc.63" size="524288" crc="3711b8ca"/>
-		<rom name="csc.64" size="524288" crc="828a06d8"/>
-		<rom name="csc.65" size="524288" crc="86ee4569"/>
-		<rom name="csc.66" size="524288" crc="c24f577f"/>
-		<rom name="csc.83" size="524288" crc="0750d12a"/>
-		<rom name="csc.84" size="524288" crc="90a92f39"/>
-		<rom name="csc.85" size="524288" crc="d08ab012"/>
-		<rom name="csc.86" size="524288" crc="41652583"/>
-		<rom name="csc.93" size="524288" crc="a756c7f7"/>
-		<rom name="csc.94" size="524288" crc="fb7ccc73"/>
-		<rom name="csc.95" size="524288" crc="4d014297"/>
-		<rom name="csc.96" size="524288" crc="6754b1ef"/>
+		<rom name="csc.73" size="524288" crc="335f07c3" sha1="44e0385120e2c81fd1072e19b7e3ff05d42be226"/>
+		<rom name="csc.74" size="524288" crc="ab215357" sha1="c2600b5ba62a570f8a32de9c06f93ea8ae6cd854"/>
+		<rom name="csc.75" size="524288" crc="a2367381" sha1="49d562be42c10cdf4e55e3b76c388f0b0121a967"/>
+		<rom name="csc.76" size="524288" crc="728aac1f" sha1="2d04e8803f41af2372fc342fcd8a076c14338198"/>
+		<rom name="csc.63" size="524288" crc="3711b8ca" sha1="ff7ba4f73d227212377327f4fcbe8f555ac4b9c9"/>
+		<rom name="csc.64" size="524288" crc="828a06d8" sha1="ce1d147f1d747fcd90d93f7dcca0cdd24c85a971"/>
+		<rom name="csc.65" size="524288" crc="86ee4569" sha1="725d82a1669f6f78fb4ef8756ceac8b444dcbd43"/>
+		<rom name="csc.66" size="524288" crc="c24f577f" sha1="d3b97091e1f0171e087feb9d497c94a48872cd21"/>
+		<rom name="csc.83" size="524288" crc="0750d12a" sha1="4c36cba88c58bdbfed923f56a6d489f42a4d0f6e"/>
+		<rom name="csc.84" size="524288" crc="90a92f39" sha1="75bef2440147bac417b48d61ff64b71ed5b9eb67"/>
+		<rom name="csc.85" size="524288" crc="d08ab012" sha1="7f2e71b6bd85c6a3efbd417977261c21f3d6cb7c"/>
+		<rom name="csc.86" size="524288" crc="41652583" sha1="7132647dc9a29ce98866f489140703c5ed3d6051"/>
+		<rom name="csc.93" size="524288" crc="a756c7f7" sha1="d0f44f8ded12291d5c79282eac45d088cb365b09"/>
+		<rom name="csc.94" size="524288" crc="fb7ccc73" sha1="763e6fe1baf73341747c74d89df9443561fca4fa"/>
+		<rom name="csc.95" size="524288" crc="4d014297" sha1="df172a3723793b9955ff1f65e76fe5c20fc37b89"/>
+		<rom name="csc.96" size="524288" crc="6754b1ef" sha1="ab5d62056b19999ccecd0eeec7b7c5869ca8fea8"/>
 		<rom name="csc.01" merge="csc.01" size="131072" crc="ee162111" sha1="ce8d4bd32bb10ee8b0274ba6fcef05a583b39d48"/>
-		<rom name="csc.51" size="524288" crc="5a52afd5"/>
-		<rom name="csc.52" size="524288" crc="1408a811"/>
-		<rom name="csc.53" size="524288" crc="4fb9f57c"/>
-		<rom name="csc.54" size="524288" crc="9a8f40ec"/>
-		<rom name="csc.55" size="524288" crc="91529a91"/>
-		<rom name="csc.56" size="524288" crc="9a345334"/>
-		<rom name="csc.57" size="524288" crc="aedc27f2"/>
-		<rom name="csc.58" size="524288" crc="2300b7b3"/>
+		<rom name="csc.51" size="524288" crc="5a52afd5" sha1="ab873ec556933b75be82ba249357cceb01a7a0bd"/>
+		<rom name="csc.52" size="524288" crc="1408a811" sha1="1d31e3cd505245b5ff4d3c55d5fa7017c0f1e168"/>
+		<rom name="csc.53" size="524288" crc="4fb9f57c" sha1="093e8e3a03b62783a84fe4ae239e9eb46cbfd71e"/>
+		<rom name="csc.54" size="524288" crc="9a8f40ec" sha1="c8db1ecfd6b08e9c83ae53a1d25c1387ab95535c"/>
+		<rom name="csc.55" size="524288" crc="91529a91" sha1="183569100ae98e17688e0e25932850e73a41eb88"/>
+		<rom name="csc.56" size="524288" crc="9a345334" sha1="330291400a73215c9797457507a86c90ba415247"/>
+		<rom name="csc.57" size="524288" crc="aedc27f2" sha1="55137f0f22c4823558e6a8ba76011695579a4f1f"/>
+		<rom name="csc.58" size="524288" crc="2300b7b3" sha1="f5ecbb45c24f7de1c1aa435870695551d4e343ca"/>
 	</game>
 	<game name="cworld2j">
 		<description>Capcom World 2 (920611 Japan)</description>
