@@ -3,10 +3,10 @@
 <datafile>
 	<header>
 		<name>FBA</name>
-		<description>FBA v0.2.96.94</description>
+		<description>FBA v0.2.96.95</description>
 		<category>Emulator for MC68000/Z80 based arcade games</category>
-		<version>20080830</version>
-		<date>2008-08-30</date>
+		<version>20080901</version>
+		<date>2008-09-01</date>
 		<author>Logiqx</author>
 		<homepage>Logiqx Home Page</homepage>
 		<url>http://www.logiqx.com/</url>
@@ -947,6 +947,7 @@
 		<rom name="10288" size="32768" crc="d3ce551a" sha1="0ff2170d9ef89058273025dd8d5e1021094adef1"/>
 		<rom name="10292" size="32768" crc="cef289a3" sha1="7ab817b6348c168f79be325fb3cc2cca14ee0f8e"/>
 		<rom name="10284" size="32768" crc="8ff09116" sha1="8b99b6d2499897cfbd037a7e7cf5bc53bce8a63a"/>
+		<rom name="317-0018.key" size="8192" crc="fee04be8" sha1="c58d78299ef4cede517be823a8a8a90e46c6ba0d"/>
 	</game>
 	<game name="aerofgt">
 		<description>Aero Fighters</description>
@@ -1247,6 +1248,7 @@
 		<rom name="7751.bin" merge="7751.bin" size="1024" crc="6a9534fc" sha1="67ad94674db5c2aab75785668f610f6f4eccd158"/>
 		<rom name="10435.1" merge="10435.1" size="32768" crc="ad89f6e3" sha1="812a132142065b0fe13b5f0ac534b6d8830ba102"/>
 		<rom name="10436.2" merge="10436.2" size="32768" crc="96c76613" sha1="fe3e4e649fd2cb2453eec0c92015bd54b3b9a1b5"/>
+		<rom name="317-0021.key" size="8192" crc="85be8eac" sha1="3857bf43b3b0ab60c04223e2393d99504a730d73"/>
 	</game>
 	<game name="alexkidd">
 		<description>Alex Kidd: The Lost Stars (set 2, unprotected)</description>
@@ -1410,6 +1412,7 @@
 		<rom name="10706" size="32768" crc="aa114acc" sha1="81a2b3586ae90bc7fc55b82478ffe182ac49983e"/>
 		<rom name="10707" size="32768" crc="800c1d82" sha1="aac4123bd35f87da09264649f4cf8326b2ba3cb8"/>
 		<rom name="10708" size="32768" crc="5921ef52" sha1="eff9978361692e6e60a9c6caf5740dd6182cfe4a"/>
+		<rom name="317-0033.key" size="8192" crc="49e882e5" sha1="29d87af8fc775b22a9a546c112f8f5e7f700ac1a"/>
 	</game>
 	<game name="aliensy2" cloneof="aliensyn" romof="aliensyn">
 		<description>Alien Syndrome (set 2, System 16A, FD1089A 317-0033)</description>
@@ -1437,6 +1440,7 @@
 		<rom name="10706" size="32768" crc="aa114acc" sha1="81a2b3586ae90bc7fc55b82478ffe182ac49983e"/>
 		<rom name="10707" size="32768" crc="800c1d82" sha1="aac4123bd35f87da09264649f4cf8326b2ba3cb8"/>
 		<rom name="10708" size="32768" crc="5921ef52" sha1="eff9978361692e6e60a9c6caf5740dd6182cfe4a"/>
+		<rom name="317-0033.key" size="8192" crc="49e882e5" sha1="29d87af8fc775b22a9a546c112f8f5e7f700ac1a"/>
 	</game>
 	<game name="aliensy3" cloneof="aliensyn" romof="aliensyn">
 		<description>Alien Syndrome (set 3, System 16B, FD1089A 317-0033)</description>
@@ -1463,6 +1467,7 @@
 		<rom name="epr10724.a8" merge="epr10724.a8" size="32768" crc="f971a817" sha1="502c95638e4fd5f87e5fc837cb44b39a5d62f4e4"/>
 		<rom name="epr10725.a9" merge="epr10725.a9" size="32768" crc="6a50e08f" sha1="d34b2ccadb8b07d5ad99cab5c5b5b79642c65574"/>
 		<rom name="epr10726.a10" merge="epr10726.a10" size="32768" crc="d50b7736" sha1="b1f8e3b0cf2ffee5382098100cfabe21b383cd51"/>
+		<rom name="317-0033.key" size="8192" crc="49e882e5" sha1="29d87af8fc775b22a9a546c112f8f5e7f700ac1a"/>
 	</game>
 	<game name="aliensyn">
 		<description>Alien Syndrome (set 4, System 16B, unprotected)</description>
@@ -1516,6 +1521,7 @@
 		<rom name="10706" size="32768" crc="aa114acc" sha1="81a2b3586ae90bc7fc55b82478ffe182ac49983e"/>
 		<rom name="10707" size="32768" crc="800c1d82" sha1="aac4123bd35f87da09264649f4cf8326b2ba3cb8"/>
 		<rom name="10708" size="32768" crc="5921ef52" sha1="eff9978361692e6e60a9c6caf5740dd6182cfe4a"/>
+		<rom name="317-0037.key" size="8192" crc="49e882e5" sha1="29d87af8fc775b22a9a546c112f8f5e7f700ac1a"/>
 	</game>
 	<game name="avspa" cloneof="avsp" romof="avsp">
 		<description>Alien vs Predator (940520 Asia)</description>
@@ -2374,6 +2380,7 @@
 		<rom name="mpr13464.b13" merge="mpr13464.b13" size="131072" crc="551df422" sha1="cf4cd2b66335853c7c6cce949e79c05e93a39666"/>
 		<rom name="epr13448.a10" merge="epr13448.a10" size="32768" crc="b5183fb9" sha1="c8372b57fa486256d49dc5851d6b17c92de593fb"/>
 		<rom name="mpr13449.a11" merge="mpr13449.a11" size="131072" crc="d3d9aaf9" sha1="0fb3a8cb11033accceb3a43a691fb424cf8b9619"/>
+		<rom name="317-0167.key" size="8192" crc="bc2d1792" sha1="e66d2582eb74ae35f27715fcc9df3e77aba67509"/>
 	</game>
 	<game name="aurail1" cloneof="aurail" romof="aurail">
 		<description>Aurail (set 2, World, FD1089B 317-0168)</description>
@@ -2407,6 +2414,7 @@
 		<rom name="mpr13464.b13" merge="mpr13464.b13" size="131072" crc="551df422" sha1="cf4cd2b66335853c7c6cce949e79c05e93a39666"/>
 		<rom name="epr13448.a10" merge="epr13448.a10" size="32768" crc="b5183fb9" sha1="c8372b57fa486256d49dc5851d6b17c92de593fb"/>
 		<rom name="mpr13449.a11" merge="mpr13449.a11" size="131072" crc="d3d9aaf9" sha1="0fb3a8cb11033accceb3a43a691fb424cf8b9619"/>
+		<rom name="317-0168.key" size="8192" crc="bc2d1792" sha1="e66d2582eb74ae35f27715fcc9df3e77aba67509"/>
 	</game>
 	<game name="aurail">
 		<description>Aurail (set 3, US, unprotected)</description>
@@ -5990,6 +5998,7 @@
 		<rom name="10762.b3" size="65536" crc="464b5f78" sha1="b730964a54e6a63fa5b7cc2cbf9ec0ab650626d5"/>
 		<rom name="10765.b7" size="65536" crc="0a73a057" sha1="7f31124c67541a245e069e5b6aac59935d99a9a9"/>
 		<rom name="10775.a7" size="32768" crc="4cbd55a8" sha1="8af2c52ab61338c8a9f1a74a05470dd3d5e0c42f"/>
+		<rom name="317-0028.key" size="8192" crc="9a5307b2" sha1="2fcc576ed95b96ff6ea71252c3fab33b8b3fc1f5"/>
 	</game>
 	<game name="desertbr">
 		<description>Desert Breaker (FD1094 317-0196) [Incomplete Sound]</description>
@@ -7057,6 +7066,7 @@
 		<rom name="epr10474.a8" size="32768" crc="419a656e" sha1="aa734ae835761badeb069f99acc5fded2a19b3a3"/>
 		<rom name="epr10475.a9" size="32768" crc="17d55e85" sha1="0c414bafecbfaa82679cc155f15f5255c186358d"/>
 		<rom name="epr10476.a10" size="32768" crc="a6be0956" sha1="fc4d6e25e0b46679f94fddbb1850fb0b02f8d84b"/>
+		<rom name="317-0022.key" size="8192" crc="4eedc66d" sha1="50588fa13bf25a2d1322579cdc9937450543c978"/>
 	</game>
 	<game name="dduxbl" cloneof="ddux" romof="ddux">
 		<description>Dynamite Dux (bootleg) [Bootleg]</description>
@@ -7527,6 +7537,7 @@
 		<rom name="epr-7681.rom" size="32768" crc="bc0c4d12" sha1="3de71bde4c23e3c31984f20fc4bc7e221354c56f"/>
 		<rom name="epr-7680.rom" size="32768" crc="627b3c8c" sha1="806fe7dce619ad19c09178061be4607d2beba14d"/>
 		<rom name="epr-6844.ic123" size="8192" crc="e3ec7bd6" sha1="feec0fe664e16fac0fde61cf64b401b9b0575323"/>
+		<rom name="317-0013a.key" size="8192" crc="295e6737" sha1="2eff36f1f24db1154cf970d4c9fd481ae4f9a57c"/>
 	</game>
 	<game name="enduror1" cloneof="enduror" romof="enduror">
 		<description>Enduro Racer (YM2203, FD1089B 317-0013A)</description>
@@ -7581,6 +7592,7 @@
 		<rom name="epr-7762.ic5" size="32768" crc="bc0c4d12" sha1="3de71bde4c23e3c31984f20fc4bc7e221354c56f"/>
 		<rom name="epr-7763.ic6" size="32768" crc="627b3c8c" sha1="806fe7dce619ad19c09178061be4607d2beba14d"/>
 		<rom name="epr-6844.ic123" merge="epr-6844.ic123" size="8192" crc="e3ec7bd6" sha1="feec0fe664e16fac0fde61cf64b401b9b0575323"/>
+		<rom name="317-0013a.key" merge="317-0013a.key" size="8192" crc="295e6737" sha1="2eff36f1f24db1154cf970d4c9fd481ae4f9a57c"/>
 	</game>
 	<game name="enforce">
 		<description>Enforce (Japan)</description>
@@ -12054,6 +12066,17 @@
 		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="97cf998b" sha1="977387a7c76ef9b21d0b01fa69830e949a9a9626"/>
 		<rom name="sfix.sfx" merge="sfix.sfx" size="131072" crc="354029fc" sha1="4ae4bf23b4c2acff875775d4cbff5583893ce2a1"/>
 		<rom name="000-lo.lo" merge="000-lo.lo" size="65536" crc="e09e253c" sha1="2b1c719531dac9bb503f22644e6e4236b91e7cfc"/>
+	</game>
+	<game name="lvgirl94">
+		<description>Las Vegas Girl (Girl '94)</description>
+		<year>1994</year>
+		<manufacturer>Comad</manufacturer>
+		<rom name="rom4" size="65536" crc="c4fb449e" sha1="dd1c567ba2cf951267dd622e2e9af265e742f246"/>
+		<rom name="rom5" size="65536" crc="5d446a1a" sha1="2d7ea25e5b86e7cf4eb7f10daa1eaaaed6830a53"/>
+		<rom name="rom1" size="32768" crc="223ccce5" sha1="3aa25ca914960b929dc853d07a958ed874e42fee"/>
+		<rom name="rom6" size="262144" crc="eeeb94ba" sha1="9da09312c090ef2d40f596247d9a7decf3724e54"/>
+		<rom name="rom2" size="131072" crc="c7551e81" sha1="520de3074fa6a71fef10d5a76cba5580fd1cbbae"/>
+		<rom name="rom3" size="131072" crc="e348ff5e" sha1="6d2755d9b31366f4c2ddd296790234deb8f821c8"/>
 	</game>
 	<game name="lghostu" cloneof="lghost" romof="lghost">
 		<description>Laser Ghost (set 1, US, 317-0165) [Incomplete Sound]</description>
@@ -21943,6 +21966,7 @@
 		<rom name="b3.rom" size="65536" crc="b9de3aeb" sha1="2f7a55a8377e831338a884f8962d6ab2757e8c9b"/>
 		<rom name="b7.rom" size="65536" crc="0a73a057" sha1="7f31124c67541a245e069e5b6aac59935d99a9a9"/>
 		<rom name="epr10759.12" size="32768" crc="d7f9649f" sha1="ce4abe7dd7e33da048569d7817063345fab75ea7"/>
+		<rom name="317-0027.key" size="8192" crc="9a5307b2" sha1="2fcc576ed95b96ff6ea71252c3fab33b8b3fc1f5"/>
 	</game>
 	<game name="sdib" cloneof="sdi" romof="sdi">
 		<description>SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028)</description>
@@ -21964,6 +21988,7 @@
 		<rom name="10762.b3" size="65536" crc="464b5f78" sha1="b730964a54e6a63fa5b7cc2cbf9ec0ab650626d5"/>
 		<rom name="10765.b7" size="65536" crc="0a73a057" sha1="7f31124c67541a245e069e5b6aac59935d99a9a9"/>
 		<rom name="10775.a7" size="32768" crc="4cbd55a8" sha1="8af2c52ab61338c8a9f1a74a05470dd3d5e0c42f"/>
+		<rom name="317-0028.key" size="8192" crc="9a5307b2" sha1="2fcc576ed95b96ff6ea71252c3fab33b8b3fc1f5"/>
 	</game>
 	<game name="searchey">
 		<description>Search Eye</description>
@@ -26662,6 +26687,7 @@
 		<rom name="epr12229.2" size="32768" crc="b7aa015c" sha1="0ef023f73722e27180c271b207a5097220f40b5e"/>
 		<rom name="epr12230.4" size="32768" crc="d0f61fd4" sha1="e6f29459d7395122f26957f56e38926aebd9004c"/>
 		<rom name="epr12231.5" size="32768" crc="780bdc57" sha1="8c859043bba389292604385b88c743728180f9a9"/>
+		<rom name="317-5021.key" merge="317-5021.key" size="8192" crc="4a3422e4" sha1="69a32a6987ff2481f6d6cbbe399269a2461b8bad"/>
 	</game>
 	<game name="sjryuko">
 		<description>Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021)</description>
@@ -26687,6 +26713,7 @@
 		<rom name="epr12246.a9" size="32768" crc="f1242582" sha1="f5734b31b449f3f09a0cacc712059644eedee006"/>
 		<rom name="epr12247.a10" size="32768" crc="ef8a64c6" sha1="525e0d968c72c6dd73df69b55b8626495d154649"/>
 		<rom name="epr12248.a11" size="32768" crc="d1eabdab" sha1="f255a66e082353768e8d2bb574e883a4a45f7670"/>
+		<rom name="317-5021.key" size="8192" crc="4a3422e4" sha1="69a32a6987ff2481f6d6cbbe399269a2461b8bad"/>
 	</game>
 	<game name="sunaq">
 		<description>SunA Quiz 6000 Academy (940620-6)</description>
@@ -26908,6 +26935,7 @@
 		<rom name="epr-10644.67" merge="epr-10644.67" size="32768" crc="b41d541d" sha1="28bbfa5edaa4a5901c74074354ba6f14d8f42ff6"/>
 		<rom name="epr-10645.68" merge="epr-10645.68" size="32768" crc="a60dabff" sha1="bbef0fb0d7837cc7efc866226bfa2bd7fab06459"/>
 		<rom name="epr-10646.69" merge="epr-10646.69" size="32768" crc="473cc411" sha1="04ca2d047eb59581cd5d76e0ac6eca8b19eef497"/>
+		<rom name="317-0034.key" size="8192" crc="263ca773" sha1="8e80d69d61cf54fd02b0ca59dd397fa60c713f3d"/>
 	</game>
 	<game name="shangon3" cloneof="shangon" romof="shangon">
 		<description>Super Hang-On (sitdown/upright, FD1089B 317-0034)</description>
@@ -26944,6 +26972,7 @@
 		<rom name="epr-10644.67" merge="epr-10644.67" size="32768" crc="b41d541d" sha1="28bbfa5edaa4a5901c74074354ba6f14d8f42ff6"/>
 		<rom name="epr-10645.68" merge="epr-10645.68" size="32768" crc="a60dabff" sha1="bbef0fb0d7837cc7efc866226bfa2bd7fab06459"/>
 		<rom name="epr-10646.69" merge="epr-10646.69" size="32768" crc="473cc411" sha1="04ca2d047eb59581cd5d76e0ac6eca8b19eef497"/>
+		<rom name="317-0034.key" size="8192" crc="263ca773" sha1="8e80d69d61cf54fd02b0ca59dd397fa60c713f3d"/>
 	</game>
 	<game name="shangon">
 		<description>Super Hang-On (sitdown/upright, unprotected)</description>
@@ -30916,6 +30945,46 @@
 		<rom name="sfix.sfx" merge="sfix.sfx" size="131072" crc="354029fc" sha1="4ae4bf23b4c2acff875775d4cbff5583893ce2a1"/>
 		<rom name="000-lo.lo" merge="000-lo.lo" size="65536" crc="e09e253c" sha1="2b1c719531dac9bb503f22644e6e4236b91e7cfc"/>
 	</game>
+	<game name="3wonderh" cloneof="3wonders" romof="3wonders">
+		<description>Three Wonders (bootleg) [Bootleg]</description>
+		<year>1991</year>
+		<manufacturer>Capcom</manufacturer>
+		<rom name="22.bin" size="131072" crc="e6071884"/>
+		<rom name="26.bin" size="131072" crc="a28447b7"/>
+		<rom name="23.bin" size="131072" crc="fd3d6509"/>
+		<rom name="27.bin" size="131072" crc="999cba3d"/>
+		<rom name="rt_28a.9f" merge="rt_28a.9f" size="131072" crc="054137c8" sha1="e4c406e0a32198323a5931093fbaa6836510b8ad"/>
+		<rom name="rt_33a.9h" merge="rt_33a.9h" size="131072" crc="7264cb1b" sha1="b367acb9f6579569321ecaa98a14e29dd775b9db"/>
+		<rom name="rte_29a.10f" merge="rte_29a.10f" size="131072" crc="cddaa919" sha1="0c98e95ad5033d2c5ade7651243e7ccdb4e35463"/>
+		<rom name="rte_34a.10h" merge="rte_34a.10h" size="131072" crc="ed52e7e5" sha1="352433ae484967d26376141e3a8a0f968b98fde6"/>
+		<rom name="16.bin" size="262144" crc="c997bca2"/>
+		<rom name="6.bin" size="262144" crc="3eea321a"/>
+		<rom name="18.bin" size="262144" crc="98acdfd4"/>
+		<rom name="8.bin" size="262144" crc="dc9ca6f9"/>
+		<rom name="12.bin" size="262144" crc="0d8a6007"/>
+		<rom name="2.bin" size="262144" crc="d75563b9"/>
+		<rom name="14.bin" size="262144" crc="84369a28"/>
+		<rom name="4.bin" size="262144" crc="d4831578"/>
+		<rom name="17.bin" size="262144" crc="040edff5"/>
+		<rom name="7.bin" size="262144" crc="c7c0468c"/>
+		<rom name="19.bin" size="262144" crc="9fef114f"/>
+		<rom name="9.bin" size="262144" crc="48cbfba5"/>
+		<rom name="13.bin" size="262144" crc="8fc3d7d1"/>
+		<rom name="3.bin" size="262144" crc="c65e9a86"/>
+		<rom name="15.bin" size="262144" crc="f239341a"/>
+		<rom name="5.bin" size="262144" crc="947ac944"/>
+		<rom name="rt_9.12b" merge="rt_9.12b" size="65536" crc="abfca165" sha1="428069d3bdc45775854cd0e8abe447f134fe5492"/>
+		<rom name="rt_18.11c" merge="rt_18.11c" size="131072" crc="26b211ab" sha1="0ea03fdd9edff41eacfc52aa9e0421c10968356b"/>
+		<rom name="rt_19.12c" merge="rt_19.12c" size="131072" crc="dbe64ad0" sha1="09f2ad522fe75d7bcca094b8c6696c3733b539d5"/>
+		<rom name="buf1" merge="buf1" size="279" crc="eb122de7" sha1="b26b5bfe258e3e184f069719f9fd008d6b8f6b9b"/>
+		<rom name="ioa1" merge="ioa1" size="279" crc="59c7ee3b" sha1="fbb887c5b4f5cb8df77cec710eaac2985bc482a6"/>
+		<rom name="prg1" merge="prg1" size="279" crc="f1129744" sha1="a5300f301c1a08a7da768f0773fa0fe3f683b237"/>
+		<rom name="rom1" merge="rom1" size="279" crc="41dc73b9" sha1="7d4c9f1693c821fbf84e32dd6ef62ddf14967845"/>
+		<rom name="sou1" merge="sou1" size="279" crc="84f4b2fe" sha1="dcc9e86cc36316fe42eace02d6df75d08bc8bb6d"/>
+		<rom name="rt24b.1a" merge="rt24b.1a" size="279" crc="54b85159" sha1="c6f4fb5d747a215f4f50e4f2258e35d3f9bdbb2e"/>
+		<rom name="iob1.11e" merge="iob1.11e" size="279" crc="3abc0700" sha1="973043aa46ec6d5d1db20dc9d5937005a0f9f6ae"/>
+		<rom name="ioc1.ic1" merge="ioc1.ic1" size="279" crc="0d182081" sha1="475b3d417785da4bc512cce2b274bb00d4cc6792"/>
+	</game>
 	<game name="3wonders">
 		<description>Three Wonders (wonder 3 910520 etc)</description>
 		<year>1991</year>
@@ -31184,6 +31253,7 @@
 		<rom name="epr10546.12" size="32768" crc="1ebee5cc" sha1="5e24ee25e770068a1292e657307cf53f6a8ae1c9"/>
 		<rom name="7751.bin" size="1024" crc="6a9534fc" sha1="67ad94674db5c2aab75785668f610f6f4eccd158"/>
 		<rom name="epr10547.1" size="32768" crc="d24ffc4b" sha1="3b250e1f026664f7a37f65d1c1a07381e88f11e8"/>
+		<rom name="317-0024.key" size="8192" crc="ee42ec18" sha1="cb65dd681f38ce20440ddcb01a935c2c8eecc77f"/>
 	</game>
 	<game name="timescan">
 		<description>Time Scanner (set 2, System 16B)</description>
@@ -34552,6 +34622,17 @@
 		<rom name="o15-13.rom" merge="o15-13.rom" size="32768" crc="e7b72383" sha1="ea1f6f33a86d14d58bd396fd46081462f00177d5"/>
 		<rom name="tp015_14.bpr" merge="tp015_14.bpr" size="32" crc="bc88cced" sha1="5055362710c0f58823c05fb4c0e0eec638b91e3d"/>
 		<rom name="tp015_15.bpr" merge="tp015_15.bpr" size="32" crc="a1e17492" sha1="9ddec4c97f2d541f69f3c32c47aaa21fd9699ae2"/>
+	</game>
+	<game name="zerozone">
+		<description>Zero Zone</description>
+		<year>1993</year>
+		<manufacturer>Comad</manufacturer>
+		<rom name="zz-4.rom" size="65536" crc="83718b9b" sha1="b3fc6da5816142b9c92a7b8615eb5bcb2c78ea46"/>
+		<rom name="zz-5.rom" size="65536" crc="18557f41" sha1="6ef908732b7775c1ea2b33f799635075db5756de"/>
+		<rom name="zz-1.rom" size="32768" crc="223ccce5" sha1="3aa25ca914960b929dc853d07a958ed874e42fee"/>
+		<rom name="zz-6.rom" size="524288" crc="c8b906b9" sha1="1775d69df6397d6772b20c65751d44556d76c033"/>
+		<rom name="zz-2.rom" size="131072" crc="c7551e81" sha1="520de3074fa6a71fef10d5a76cba5580fd1cbbae"/>
+		<rom name="zz-3.rom" size="131072" crc="e348ff5e" sha1="6d2755d9b31366f4c2ddd296790234deb8f821c8"/>
 	</game>
 	<game name="drgw2c" cloneof="drgw2" romof="drgw2">
 		<description>Zhong Guo Long II (V100C, China)</description>

@@ -1337,6 +1337,50 @@ game (
 ################################################################################
 
 game (
+	name 3wonderh
+	description "Three Wonders (bootleg) [Bootleg]"
+	year 1991
+	manufacturer "Capcom"
+	cloneof 3wonders
+	romof 3wonders
+	rom ( name 22.bin size 131072 crc e6071884 )
+	rom ( name 26.bin size 131072 crc a28447b7 )
+	rom ( name 23.bin size 131072 crc fd3d6509 )
+	rom ( name 27.bin size 131072 crc 999cba3d )
+	rom ( name rt_28a.9f merge rt_28a.9f size 131072 crc 054137c8 sha1 e4c406e0a32198323a5931093fbaa6836510b8ad )
+	rom ( name rt_33a.9h merge rt_33a.9h size 131072 crc 7264cb1b sha1 b367acb9f6579569321ecaa98a14e29dd775b9db )
+	rom ( name rte_29a.10f merge rte_29a.10f size 131072 crc cddaa919 sha1 0c98e95ad5033d2c5ade7651243e7ccdb4e35463 )
+	rom ( name rte_34a.10h merge rte_34a.10h size 131072 crc ed52e7e5 sha1 352433ae484967d26376141e3a8a0f968b98fde6 )
+	rom ( name 16.bin size 262144 crc c997bca2 )
+	rom ( name 6.bin size 262144 crc 3eea321a )
+	rom ( name 18.bin size 262144 crc 98acdfd4 )
+	rom ( name 8.bin size 262144 crc dc9ca6f9 )
+	rom ( name 12.bin size 262144 crc 0d8a6007 )
+	rom ( name 2.bin size 262144 crc d75563b9 )
+	rom ( name 14.bin size 262144 crc 84369a28 )
+	rom ( name 4.bin size 262144 crc d4831578 )
+	rom ( name 17.bin size 262144 crc 040edff5 )
+	rom ( name 7.bin size 262144 crc c7c0468c )
+	rom ( name 19.bin size 262144 crc 9fef114f )
+	rom ( name 9.bin size 262144 crc 48cbfba5 )
+	rom ( name 13.bin size 262144 crc 8fc3d7d1 )
+	rom ( name 3.bin size 262144 crc c65e9a86 )
+	rom ( name 15.bin size 262144 crc f239341a )
+	rom ( name 5.bin size 262144 crc 947ac944 )
+	rom ( name rt_9.12b merge rt_9.12b size 65536 crc abfca165 sha1 428069d3bdc45775854cd0e8abe447f134fe5492 )
+	rom ( name rt_18.11c merge rt_18.11c size 131072 crc 26b211ab sha1 0ea03fdd9edff41eacfc52aa9e0421c10968356b )
+	rom ( name rt_19.12c merge rt_19.12c size 131072 crc dbe64ad0 sha1 09f2ad522fe75d7bcca094b8c6696c3733b539d5 )
+	rom ( name buf1 merge buf1 size 279 crc eb122de7 sha1 b26b5bfe258e3e184f069719f9fd008d6b8f6b9b )
+	rom ( name ioa1 merge ioa1 size 279 crc 59c7ee3b sha1 fbb887c5b4f5cb8df77cec710eaac2985bc482a6 )
+	rom ( name prg1 merge prg1 size 279 crc f1129744 sha1 a5300f301c1a08a7da768f0773fa0fe3f683b237 )
+	rom ( name rom1 merge rom1 size 279 crc 41dc73b9 sha1 7d4c9f1693c821fbf84e32dd6ef62ddf14967845 )
+	rom ( name sou1 merge sou1 size 279 crc 84f4b2fe sha1 dcc9e86cc36316fe42eace02d6df75d08bc8bb6d )
+	rom ( name rt24b.1a merge rt24b.1a size 279 crc 54b85159 sha1 c6f4fb5d747a215f4f50e4f2258e35d3f9bdbb2e )
+	rom ( name iob1.11e merge iob1.11e size 279 crc 3abc0700 sha1 973043aa46ec6d5d1db20dc9d5937005a0f9f6ae )
+	rom ( name ioc1.ic1 merge ioc1.ic1 size 279 crc 0d182081 sha1 475b3d417785da4bc512cce2b274bb00d4cc6792 )
+)
+
+game (
 	name 1944d
 	description "1944 - the loop master (000620 USA Phoenix Edition) [Bootleg]"
 	year 2000
