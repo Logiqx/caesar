@@ -3,10 +3,10 @@
 <datafile>
 	<header>
 		<name>RAINE</name>
-		<description>RAINE v0.50.14</description>
+		<description>RAINE v0.50.15</description>
 		<category>Multi Game Arcade Emulator</category>
-		<version>20080630</version>
-		<date>2008-06-30</date>
+		<version>20080823</version>
+		<date>2008-08-23</date>
 		<author>Logiqx</author>
 		<homepage>Logiqx Home Page</homepage>
 		<url>http://www.logiqx.com/</url>
@@ -10389,8 +10389,8 @@
 		<description>The New Zealand Story (bootleg)</description>
 		<year>1988</year>
 		<manufacturer>Bootleg</manufacturer>
-		<rom name="b53-24.1" size="131072" crc="d66824c6" sha1="fd381ac0dc52ce670c3fde320ea60a209e288a52"/>
-		<rom name="b53-25.3" size="65536" crc="d6ac4e71" sha1="f3e71624a8a5e4e4c8a6aa01711ed26bdd5abf5a"/>
+		<rom name="nzsb5324.bin" size="131072" crc="d66824c6" sha1="fd381ac0dc52ce670c3fde320ea60a209e288a52"/>
+		<rom name="nzsb5325.bin" size="65536" crc="d6ac4e71" sha1="f3e71624a8a5e4e4c8a6aa01711ed26bdd5abf5a"/>
 		<rom name="nzsb5326.bin" size="65536" crc="cfd5649c" sha1="4f6afccd535d39b41661dc3ccd17af125bfac015"/>
 		<rom name="b53-08.8" merge="b53-08.8" size="131072" crc="c3519c2a" sha1="30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743"/>
 		<rom name="b53-07.7" merge="b53-07.7" size="131072" crc="2bf199e8" sha1="4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370"/>
@@ -10400,6 +10400,8 @@
 		<rom name="b53-01.1" merge="b53-01.1" size="131072" crc="9800c54d" sha1="761647177d621ac2cdd8b009876eed35809f3c92"/>
 		<rom name="b53-04.4" merge="b53-04.4" size="131072" crc="59d2aef6" sha1="b657b7603c3eb5f169000d38497ebb93f26f7832"/>
 		<rom name="b53-03.3" merge="b53-03.3" size="131072" crc="74acfb9b" sha1="90b544ed7ede7565660bdd13c94c15c54423cda9"/>
+		<rom name="b53-10.32" merge="b53-10.32" size="131072" crc="a73745c6" sha1="73eb38e75e08312d752332f988dc655084b4a86d"/>
+		<rom name="b53-11.38" merge="b53-11.38" size="65536" crc="9784d443" sha1="bc3647aac9974031dbe4898417fbaa99841f9548"/>
 		<archive name="the_nz_story_bootleg"/>
 		<archive name="tnzsb"/>
 	</game>

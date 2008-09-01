@@ -99,8 +99,7 @@ emus/linux/m1_linux	m1078a6-lnx.tar.bz2	2228243
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raine_0.50.14_i386.deb	1801244
-emus/linux/raine_linux	raines-0.50.14.tar.bz2	1997612
+emus/linux/raine_linux	raine_0.50.16_i386.deb	1816060
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -297,7 +296,7 @@ emus/multi/raine32	galdxg.dx2	1258178
 emus/multi/raine32	galdxm.dx2	1405671
 emus/multi/raine32	mspacmang.dx2	1458301
 emus/multi/raine32	pacmang.dx2	2104347
-emus/multi/raine32	rainew-0.50.14.zip	1976616
+emus/multi/raine32	rainew-0.50.16.zip	1988349
 emus/multi/replay	repd004.zip	1131826
 emus/multi/replay	replay.zip	18706
 emus/multi/replayplus	rpbd100.zip	899528
