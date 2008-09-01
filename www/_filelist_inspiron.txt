@@ -303,14 +303,14 @@
 .\cutenews\data	CAESAR.tpl	1983
 .\cutenews\data	cat.num.php	1
 .\cutenews\data	category.db.php	60
-.\cutenews\data	comments.txt	434
+.\cutenews\data	comments.txt	14
 .\cutenews\data	config.php	1327
 .\cutenews\data	Default.tpl	2184
 .\cutenews\data	flood.db.php	0
 .\cutenews\data	Headlines.tpl	1632
 .\cutenews\data	index.html	117
 .\cutenews\data	ipban.db.php	0
-.\cutenews\data	news.txt	11198
+.\cutenews\data	news.txt	275
 .\cutenews\data	postponed_news.txt	0
 .\cutenews\data	rss.tpl	564
 .\cutenews\data	rss_config.php	189
@@ -318,6 +318,8 @@
 .\cutenews\data	users.db.php	416
 .\cutenews\data\archives	1199213761.comments.arch	406
 .\cutenews\data\archives	1199213761.news.arch	10256
+.\cutenews\data\archives	1216071272.comments.arch	434
+.\cutenews\data\archives	1216071272.news.arch	11198
 .\cutenews\data\archives	index.htm	117
 .\cutenews\data\archives\CVS	Entries	158
 .\cutenews\data\archives\CVS	Repository	35
@@ -6189,6 +6191,7 @@
 .\news	arc0-2005.txt	13109
 .\news	arc0-2006.txt	1070
 .\news	arc0-2007.txt	2920
+.\news	arc0-2008.txt	3223
 .\news	arc1-2001.txt	29885
 .\news	arc1-2002.txt	95848
 .\news	arc1-2003.txt	81031
@@ -6196,6 +6199,7 @@
 .\news	arc1-2005.txt	5151
 .\news	arc1-2006.txt	1027
 .\news	arc1-2007.txt	2130
+.\news	arc1-2008.txt	2399
 .\news	arc10-2001.txt	37314
 .\news	arc10-2002.txt	71810
 .\news	arc10-2003.txt	634
@@ -6216,6 +6220,7 @@
 .\news	arc2-2004.txt	74155
 .\news	arc2-2005.txt	6787
 .\news	arc2-2006.txt	2734
+.\news	arc2-2008.txt	4560
 .\news	arc3-2001.txt	27233
 .\news	arc3-2002.txt	89579
 .\news	arc3-2003.txt	59508
@@ -6223,6 +6228,7 @@
 .\news	arc3-2005.txt	6127
 .\news	arc3-2006.txt	1837
 .\news	arc3-2007.txt	555
+.\news	arc3-2008.txt	3042
 .\news	arc4-2001.txt	23171
 .\news	arc4-2002.txt	97674
 .\news	arc4-2003.txt	80392
@@ -6230,12 +6236,14 @@
 .\news	arc4-2005.txt	3381
 .\news	arc4-2006.txt	1258
 .\news	arc4-2007.txt	2163
+.\news	arc4-2008.txt	3022
 .\news	arc5-2001.txt	27383
 .\news	arc5-2002.txt	72968
 .\news	arc5-2003.txt	48885
 .\news	arc5-2004.txt	6950
 .\news	arc5-2005.txt	2030
 .\news	arc5-2007.txt	2692
+.\news	arc5-2008.txt	1672
 .\news	arc6-2001.txt	50036
 .\news	arc6-2002.txt	93842
 .\news	arc6-2003.txt	29847
@@ -24217,9 +24225,10 @@
 .\txt	libs.tag	0
 .\txt	misc.tag	0
 .\txt	tools.tag	0
-.\txt\authors	aaron_giles.txt	404
+.\txt\authors	aaron_giles.txt	399
 .\txt\authors	abyss.txt	77
 .\txt\authors	adam__b.txt	122
+.\txt\authors	ajax16384.txt	83
 .\txt\authors	alessandro_scotti.txt	381
 .\txt\authors	alex_pasadyn.txt	143
 .\txt\authors	allard_van_der_bas.txt	425
@@ -24254,6 +24263,7 @@
 .\txt\authors	brian_peek.txt	276
 .\txt\authors	brian_stern.txt	139
 .\txt\authors	bruno_vedder.txt	412
+.\txt\authors	cah4e3.txt	74
 .\txt\authors	callus95patch.txt	159
 .\txt\authors	carlos_a_lozano.txt	160
 .\txt\authors	carlos_hasan.txt	123
@@ -24522,6 +24532,7 @@
 .\txt\authors	ville_laitinen.txt	256
 .\txt\authors	viva_nonno.txt	86
 .\txt\authors	warren_mills.txt	200
+.\txt\authors	wind.txt	63
 .\txt\authors	xmame_ps2.txt	86
 .\txt\authors	xraves.txt	74
 .\txt\authors	yoshi.txt	116
@@ -24542,7 +24553,7 @@
 .\txt\emus	linux.txt	1348
 .\txt\emus	linux2.txt	242
 .\txt\emus	mac.txt	1192
-.\txt\emus	multi.txt	4840
+.\txt\emus	multi.txt	4885
 .\txt\emus	multi2.txt	844
 .\txt\emus	n64.txt	196
 .\txt\emus	nonmame.txt	985
@@ -24553,8 +24564,8 @@
 .\txt\emus	psion.txt	137
 .\txt\emus	psx.txt	984
 .\txt\emus	qnx.txt	170
-.\txt\emus	recent.txt	1060
-.\txt\emus	recommended.txt	1386
+.\txt\emus	recent.txt	1106
+.\txt\emus	recommended.txt	1437
 .\txt\emus	saturn.txt	280
 .\txt\emus	screensavers.txt	270
 .\txt\emus	shockwave.txt	233
@@ -24698,6 +24709,7 @@
 .\txt\emus\multi	cps3_emulator.txt	663
 .\txt\emus\multi	crystal_system_emulator.txt	754
 .\txt\emus\multi	daphne.txt	989
+.\txt\emus\multi	demul.txt	682
 .\txt\emus\multi	dice.txt	797
 .\txt\emus\multi	domino.txt	562
 .\txt\emus\multi	dsp.txt	635
@@ -24723,7 +24735,7 @@
 .\txt\emus\multi	laser.txt	1072
 .\txt\emus\multi	m72.txt	611
 .\txt\emus\multi	magex.txt	1286
-.\txt\emus\multi	mame.txt	3674
+.\txt\emus\multi	mame.txt	3555
 .\txt\emus\multi	mapefer3.txt	689
 .\txt\emus\multi	mge.txt	585
 .\txt\emus\multi	mimic.txt	625
@@ -24970,8 +24982,8 @@
 .\txt\emus\xbox	tecmo_arcade_classics_xbox.txt	761
 .\txt\files	images.txt	199886
 .\txt\files	snaps.txt	807746
-.\txt\files	zips.txt	31299
-.\txt\games	nonmame.dat	252221
+.\txt\files	zips.txt	31342
+.\txt\games	nonmame.dat	255636
 .\txt\games\amiga	ArcEm_v0.3.dat	2318
 .\txt\games\amiga	ArcEm_v0.3.txt	163
 .\txt\games\amiga	ASIE_v5-2001.dat	4030
@@ -25130,6 +25142,8 @@
 .\txt\games\multi	Crystal_System_Emulator_v1.1.txt	100
 .\txt\games\multi	Daphne_v0.99.7.dat	56170
 .\txt\games\multi	Daphne_v0.99.7.txt	2139
+.\txt\games\multi	Demul_v0.4.3.dat	78970
+.\txt\games\multi	Demul_v0.4.3.txt	858
 .\txt\games\multi	DICE_v0.2.dat	197
 .\txt\games\multi	DICE_v0.2.txt	84
 .\txt\games\multi	DSP_v0.3_wip_6.dat	8716
@@ -25140,7 +25154,7 @@
 .\txt\games\multi	EmuDX_v1.0.txt	158
 .\txt\games\multi	EMU_v2.3.dat	11152
 .\txt\games\multi	EMU_v2.3.txt	358
-.\txt\games\multi	FBA_v0.2.96.85.dat	3189389
+.\txt\games\multi	FBA_v0.2.96.85.dat	3190301
 .\txt\games\multi	FBA_v0.2.96.85.txt	45414
 .\txt\games\multi	Final_Burn_v0.518.dat	162703
 .\txt\games\multi	Final_Burn_v0.518.txt	1968
@@ -25178,7 +25192,7 @@
 .\txt\games\multi	M72_v0.33b.txt	363
 .\txt\games\multi	MageX_v0.8a.dat	55234
 .\txt\games\multi	MageX_v0.8a.txt	1018
-.\txt\games\multi	MAME_v0.126.dat	32232179
+.\txt\games\multi	MAME_v0.127.dat	32597636
 .\txt\games\multi	Mapefer3_v0.8b.dat	3714
 .\txt\games\multi	Mapefer3_v0.8b.txt	62
 .\txt\games\multi	MGE_v0.471.dat	4890
@@ -25632,7 +25646,7 @@
 .\txt\tools\compilers	lccwin32.txt	265
 .\txt\tools\compilers	mingw.txt	927
 .\txt\tools\compilers	ms.txt	290
-.\txt\tools\compilers	msvc.txt	1960
+.\txt\tools\compilers	msvc.txt	1991
 .\txt\tools\compilers	real_basic.txt	295
 .\txt\tools\compilers	vb.txt	532
 .\txt\tools\compilers	watcom.txt	1043
@@ -25655,7 +25669,7 @@
 .\upload\CVS	Repository	36
 .\upload\CVS	Root	25
 .\zips	_filelist_pc.bat	329
-.\zips	_filelist_pc.txt	31299
+.\zips	_filelist_pc.txt	31342
 .\zips\emus\amiga\amame	Amame.lha	333436
 .\zips\emus\amiga\arcem	arcem03.lha	28020
 .\zips\emus\amiga\asie	ASIE31.lha	124579
@@ -25828,6 +25842,7 @@
 .\zips\emus\multi\daphne	daphne-0.99.7-win32.zip	2743630
 .\zips\emus\multi\daphne	daphne-1.0beta-win32.zip	3638025
 .\zips\emus\multi\daphne	ms-ocx.zip	874028
+.\zips\emus\multi\demul	Demul_v.0.4.3.rar	346205
 .\zips\emus\multi\dice	dice.0.2.zip	284013
 .\zips\emus\multi\dice	dice.src.0.2.zip	59489
 .\zips\emus\multi\domino	domino010.zip	104135
