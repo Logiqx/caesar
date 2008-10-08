@@ -5,8 +5,9 @@
 	<version>0.50.14</version>
 	<date>26/06/2008</date>
 
-	<homepage>http://www.rainemu.com/</homepage>
+	<homepage>http://rainemu.swishparty.co.uk/</homepage>
 	<homepage>http://sourceforge.net/projects/raine/</homepage>
+	<homepage status="bad">http://www.rainemu.com/linux/</homepage>
 	<author_link id="antiriad">&author_antiriad;</author_link>
 
 	<contributors>

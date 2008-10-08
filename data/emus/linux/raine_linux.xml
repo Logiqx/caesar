@@ -5,7 +5,9 @@
 	<version>0.50.16</version>
 	<date>31/08/2008</date>
 
-	<homepage>http://www.rainemu.com/linux/</homepage>
+	<homepage>http://rainemu.swishparty.co.uk/</homepage>
+	<homepage>http://sourceforge.net/projects/raine/</homepage>
+	<homepage status="bad">http://www.rainemu.com/linux/</homepage>
 	<author_link id="tux">&author_tux;</author_link>
 
 	<emulates>Mainly 68000+68020 Taito, Jaleco and Capcom games</emulates>
