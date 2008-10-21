@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="finalburnalpha" type="multi" dat="FBA_v0.2.96.95">
+<emulator id="finalburnalpha" type="multi" dat="FBA_v0.2.96.98">
 	<name>Final Burn Alpha</name>
 	<version>0.2.96.95</version>
 	<date>30/08/2008</date>

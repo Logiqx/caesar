@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="aae" type="multi" dat="AAE_Beta_1_Update_5">
+<emulator id="aae" type="multi" dat="AAE_Alpha_Build_87">
 	<name>AAE (Another Arcade Emulator)</name>
-	<version>Beta 1 Update 5</version>
-	<date>18/11/2007</date>
+	<version>Alpha Build 87</version>
+	<date>28/09/2008</date>
 
 	<homepage>http://pages.suddenlink.net/aae/</homepage>
 	<author_link id="tim_aae">&author_tim_aae;</author_link>
 
 	<emulates>Classic vector games</emulates>
-	<comment>AAE is a primarily vector based arcade system emulator/simulator written using C and OpenGL. It strives to recreate the experience of playing the games as they were in the arcade, and requires the original game ROMS in order to run. In some cases copies of the original sound files and artwork are required to complete the emulation experience. It provides for simulation options that are not available in MAME, and offers several features that are not available in MAME due to their arcade preservation charter, such as advanced hardware based drawing and motion blur.</comment>
+	<comment>AAE is a vector based arcade system emulator/simulator written using C and OpenGL. It strives to recreate the experience of playing the games as they were in the arcade, and requires the original game ROMS in order to run. In some cases copies of the original sound files and artwork are required to complete the emulation experience. It provides for simulation options that are not available in MAME, and offers several features that are not available in MAME due to their arcade preservation charter, such as advanced hardware based drawing and motion blur.</comment>
 	<status>Active</status>
 
 	<cpu_links>
@@ -44,8 +44,6 @@
 	</features>
 
 	<files>
-		<file name="aae.zip">AAE Beta1 Binary</file>
-		<file name="aaeup4.zip">AAE Beta1 Update #4</file>
-		<file name="aaeup5.zip">AAE Beta1 Update #5</file>
+		<file name="aae092808.zip">AAE Binary and Samples</file>
 	</files>
 </emulator>

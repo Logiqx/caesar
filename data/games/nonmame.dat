@@ -1337,6 +1337,58 @@ game (
 ################################################################################
 
 game (
+	name tnzsjn
+	description "The NewZealand Story (Japan, newer)"
+	year 1988
+	manufacturer "Taito Corporation"
+	cloneof tnzs
+	romof tnzs
+	rom ( name b53-24.1 merge b53-24.1 size 131072 crc d66824c6 sha1 fd381ac0dc52ce670c3fde320ea60a209e288a52 )
+	rom ( name b53-27.u3 size 65536 crc b3415fc3 sha1 a12b1788509e2ac2b05a083f432eecdce00769f6 )
+	rom ( name b53-26.34 merge b53-26.34 size 65536 crc cfd5649c sha1 4f6afccd535d39b41661dc3ccd17af125bfac015 )
+	rom ( name b53-16.8 merge b53-16.8 size 131072 crc c3519c2a sha1 30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743 )
+	rom ( name b53-17.7 merge b53-17.7 size 131072 crc 2bf199e8 sha1 4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370 )
+	rom ( name b53-18.6 merge b53-18.6 size 131072 crc 92f35ed9 sha1 5fdd8d6ddbb7be9887af3c8dea9ad3b58c4e86f9 )
+	rom ( name b53-19.5 merge b53-19.5 size 131072 crc edbb9581 sha1 539396a01ca0b69455f000d446759b232530b542 )
+	rom ( name b53-22.4 merge b53-22.4 size 131072 crc 59d2aef6 sha1 b657b7603c3eb5f169000d38497ebb93f26f7832 )
+	rom ( name b53-23.3 merge b53-23.3 size 131072 crc 74acfb9b sha1 90b544ed7ede7565660bdd13c94c15c54423cda9 )
+	rom ( name b53-20.2 merge b53-20.2 size 131072 crc 095d0dc0 sha1 ced2937d0594fa00ae344a4e3a3cba23772dc160 )
+	rom ( name b53-21.1 merge b53-21.1 size 131072 crc 9800c54d sha1 761647177d621ac2cdd8b009876eed35809f3c92 )
+)
+
+game (
+	name ddragob2
+	description "Double Dragon (bootleg) [Bootleg]"
+	year 1987
+	manufacturer "bootleg"
+	cloneof ddragon
+	romof ddragon
+	rom ( name 4.bin size 32768 crc 668dfa19 sha1 9b2ff1b66eeba0989e4ed850b7df1f5719ba5572 )
+	rom ( name 5.bin size 32768 crc 5779705e )
+	rom ( name 6.bin size 32768 crc 3bdea613 )
+	rom ( name 7.bin size 32768 crc 728f87b9 )
+	rom ( name 63701.bin merge 63701.bin size 16384 crc f5232d03 sha1 e2a194e38633592fd6587690b3cb2669d93985c7 )
+	rom ( name 3.bin size 32768 crc 9efa95bb )
+	rom ( name 8.bin size 32768 crc 7a8b8db4 )
+	rom ( name 11.bin size 65536 crc 574face3 )
+	rom ( name 12.bin size 65536 crc 40507a76 )
+	rom ( name 13.bin size 65536 crc c8b91e17 sha1 0ce6f6ef68ecc7309a2923f7e756d5e2bf5c7a4a )
+	rom ( name 14.bin size 65536 crc cb4f231b )
+	rom ( name 15.bin size 65536 crc a0a0c261 )
+	rom ( name 16.bin size 65536 crc 6ba152f6 )
+	rom ( name 17.bin size 65536 crc 3220a0b6 )
+	rom ( name 18.bin size 65536 crc 65c7517d )
+	rom ( name 9.bin size 65536 crc 7c435887 )
+	rom ( name 10.bin size 65536 crc c6640aed )
+	rom ( name 19.bin size 65536 crc 22d65df2 sha1 2f286a24ea7af438b39126a4ed0c515745981416 )
+	rom ( name 20.bin size 65536 crc 5fb42e7c )
+	rom ( name 1.bin size 65536 crc 34755de3 )
+	rom ( name 2.bin size 65536 crc 904de6f8 )
+	rom ( name 21j-k-0 merge 21j-k-0 size 256 crc fdb130a9 sha1 4c4f214229b9fab2b5d69c745ec5428787b89e1f )
+	rom ( name 21j-l-0 merge 21j-l-0 size 512 crc 46339529 sha1 64f4c42a826d67b7cbaa8a23a45ebc4eb6248891 )
+)
+
+game (
 	name 3wonderh
 	description "Three Wonders (bootleg) [Bootleg]"
 	year 1991

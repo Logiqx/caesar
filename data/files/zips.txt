@@ -143,9 +143,7 @@ emus/mac/williams_digital_arcade	stargatepatch.sit.hqx	551008
 emus/mac/williams_digital_arcade	stargatepatch2.sit.hqx	42352
 emus/mac/yiear	yakf.cpt.Hqx	91675
 emus/mac/yiear	YieAr.sit	446868
-emus/multi/aae	aae.zip	55901228
-emus/multi/aae	aaeup4.zip	14133121
-emus/multi/aae	aaeup5.zip	1959518
+emus/multi/aae	aae092808.zip	55790862
 emus/multi/ace	ace18src.zip	416316
 emus/multi/ace	ace19.zip	222252
 emus/multi/ace	sgemf.zip	332
