@@ -1,0 +1,56 @@
+<h2>29 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.81</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Barry added a couple of new games to FBA plus he made some fixes to existing drivers. Also one nice feature is implemented in this version: double click to go fullscreen.<br /><br />Be sure to get your own copy of FBA from <a href="http://www.barryharris.me.uk/">Barry's blog</a>.</td>
+  </tr>
+</table><h2>19 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.80</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>A big update to Sega's games sound and a bunch of other drivers which use similar sound cores. CPS-1 graphics emulation has been also corrected.<br /><br />Get FBA from <a href="http://www.barryharris.me.uk/">Barry's blog</a> and be sure to update your roms to MAME v0.123u4.</td>
+  </tr>
+</table><h2>11 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.79</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Kaillera support removed from FBA and a couple of fixes to drivers.<br /><br />Get it from <a href="http://www.barryharris.me.uk/">Barry's blog</a>.</td>
+  </tr>
+</table><h2>11 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.78</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>FBA now supports some Mega Drive games, though it's still possible to use it as arcade-only emulator. Lots of fixes and new drivers added to the emulator.<br /><br />Check the changelog and download the latest version from <a href="http://www.barryharris.me.uk/article_view.php?id=88">Barry's blog</a>.</td>
+  </tr>
+</table><h2>06 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Raine v0.50.12</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>New bug fix release. According to changelog, Tux has fixed cave driver problems, 8bpp desktop problem and possible crashes when reseting a game.<br /><br />Download the latest version from the <a href="http://rainemu.com/">official site</a>.</td>
+  </tr>
+</table><h2>05 Apr 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.77</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Another update from <a href="http://www.barryharris.me.uk/">Barry Harris</a>. Taito Z driver has been added, so a bunch of new games are playable now. Some changes have been made to older drivers too and roms have been updated to MAME v0.124u1.</td>
+  </tr>
+</table>
+

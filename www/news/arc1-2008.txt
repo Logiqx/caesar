@@ -1,0 +1,38 @@
+<h2>25 Feb 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.74</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>A quick update to the last version. Includes CPS3 fixes and Metal Slug 5 fix.<br /><br />Grab from <a href="http://www.barryharris.me.uk/">Barry Harris' blog</a>.</td>
+  </tr>
+</table><h2>21 Feb 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.73</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Barry Harris has released an updated version of FBA. Some new drivers were added, some fixes were made. You can read the full changelog and download emulator from <a href="http://www.barryharris.me.uk/">Barry's blog</a>.<br /><br />P.S. And don't forget to update your roms.</td>
+  </tr>
+</table><h2>11 Feb 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>DICE v0.2</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Adam B. has released new version of his awesome discrete games emulator. Now the emulator supports three games instead of one (Pong, Atari Rebound and Atari Gotcha). Also some optimizations were made to the emulator, so Pong runs 30% than before. Full screen and mouse support included.<br /><br /><a href="http://adamulation.blogspot.com/">Be sure to try it</a>.</td>
+  </tr>
+</table><h2>05 Feb 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.123</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>It took eight intermediate releases to get to this version. During January more than 100 bugs were fixed in MAME source (thanks to Aaron Giles for his generous proposal to donate money to MAME Dumping Project for every fixed bug and all those people who did the fixing).<br /><br />You should definitely try this version, because today is MAME's eleventh anniversary. Get your copy at <a href="http://mamedev.org/">MAMEDev</a> and be sure to say your 'thank you' to the MAME Team and all those numerous contributors who have helped to develop project over all those years.</td>
+  </tr>
+</table>
+

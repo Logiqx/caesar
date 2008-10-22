@@ -1,0 +1,56 @@
+<h2>26 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Raine v0.50.7</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>New unstable version of Raine released yesterday. No new games added, just some fixes to scanlines and scaling.<br /><br />You can get the emulator from <a href="http://rainemu.com/">official site</a>.</td>
+  </tr>
+</table><h2>11 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>M1 v0.7.8a6</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>This version adds an experimental Sega Genesis (Sega Mega Drive) driver GEMS, so some games can automatically play music and sounds.<br /><br />Get yourself a copy of M1 straight from <a href="http://rbelmont.mameworld.info/?page_id=223">Arbee's blog</a>.</td>
+  </tr>
+</table><h2>07 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>DICE v0.1</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Remember DiscreteSIM? Now there is new Pong emulator called DICE (Discrete Integrated Circuit Emulator)! It's an early build, so there may be some bugs in it as Adam B., author of the emu writes in his <a href="http://adamulation.blogspot.com/">blog</a>. Also it's faster than DiscreteSIM (20-25 FPS on 2.2 GHz Athlon XP), so it might be possible to play at 100% speed with 3-4 GHz PC.<br /><br />Also author hopes to add other games in the future, so stay tuned.</td>
+  </tr>
+</table><h2>03 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>SEGA Model 2 Emulator v0.6</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>ElSemi finally made a release of his Model 2 emulator which is great, because it's the only way to play such games as Daytona USA at a reasonable speed.<br /><br />You can get the latest version from the <a href="http://www.speksnk.org/foro/viewtopic.php?f=50&t=68078">forums</a> (you need to register there) or wait for ElSemi to update <a href="http://nebula.emulatronia.com/">his site</a>.</td>
+  </tr>
+</table><h2>02 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>M1 v0.7.8a5</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Arbee released another update to M1, arcade music and sound emulator. Some fixes to different sound cores and an addition of Namco NA-1/NA-2 games. Be sure to get a copy from the <a href="http://rbelmont.mameworld.info/?page_id=223">official M1 page</a>.</td>
+  </tr>
+</table><h2>01 Jan 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Happy New Year!</strong><br/><small>Posted by <a href="/info/about.shtml">logiqx</a></small></th>
+  </tr>
+  <tr>
+    <td>I hope you all have a prosperous 2008.<br /><br />I wonder what will be achieved in the emulation world? :)</td>
+  </tr>
+</table>
+

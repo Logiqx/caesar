@@ -1,0 +1,29 @@
+<h2>07 Jun 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.84</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>One more update to FBA which consists mostly of fixes to CPS-1/2 and some other drivers. Also it supports a couple of new games and clones.<br /><br />Download FBA from <a href="http://www.barryharris.me.uk/article_view.php?id=101">Barry's blog</a>.</td>
+  </tr>
+</table><h2>04 Jun 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>SEGA Model 2 Emulator v0.7a</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>A quick fix to network code which wasn't working in previous version and better video and sound sync in Daytona USA.<br /><br />Download it at <a href="http://nebula.emulatronia.com/">ElSemi's site</a>.</td>
+  </tr>
+</table><h2>04 Jun 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>SEGA Model 2 Emulator v0.7</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Better late than never.<br /><br />Yesterday ElSemi released an update to Model 2 emulator. It includes some great fixes to Daytona USA, one new game (Wave Runner) and many fixes to graphics such as switching to vertex and pixel shaders. Also network support is added (no play over Internet, but fine on LAN).<br /><br />Be sure to try this <a href="http://nebula.emulatronia.com/">emulator</a>, if you haven't before.</td>
+  </tr>
+</table>
+

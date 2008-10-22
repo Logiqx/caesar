@@ -1,0 +1,38 @@
+<h2>28 May 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Raine v0.50.13</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>According to Tux, this release should be more stable than the previous one. This update mostly consists of bug fixes, but a new console was also added to the pack. With it it's now possible to create scripts and run them from cheats menu.<br /><br />For more information on the release and download links check <a href="http://rainemu.com/">official Raine site</a>. By the way, NeoRaine was updated too.</td>
+  </tr>
+</table><h2>22 May 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.83, ZiNc news and World Rally emulated</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>A big Taito update. Several new games added and some drivers fixed. Take a look at <a href="http://www.barryharris.me.uk/article_view.php?id=97">Barry's WIP</a> if you're interested at how games look like in FBA. And don't forget to update your roms.<br /><br />You can get the latest (unicode-only this time) build from <a href="http://www.barryharris.me.uk/">Barry's blog</a>.<br /><br />In other news, there will be no new ZiNc since MAME Plus Plus is still alive.<br /><br />Also if you have not been following emulation news, <a href="http://www.manuelabadia.com/blog/PermaLink,guid,51ac1b35-5246-4e8c-9ee6-41334480a54e.aspx">World Rally</a> is emulated. The roms are available free of charge at <a href="http://www.gaelco.es/english/pages/hablando/frhablan.htm">Gaelco's website</a>, so you just have to try it MAME.</td>
+  </tr>
+</table><h2>08 May 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>FBA v0.2.96.82</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>It feels like Barry Harris is the only person who works on FBA. He has updated CPS-1/CPS-2 drivers and included new driver for Taito F-2 hardware. All roms were updated to match MAME v0.125, so be sure to update them.<br /><br />As always you can get FBA from <a href="http://www.barryharris.me.uk/">Barry's blog</a>.</td>
+  </tr>
+</table><h2>05 May 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME v0.125</strong><br/><small>Posted by <a href="/info/about.shtml">neoforma</a></small></th>
+  </tr>
+  <tr>
+    <td>Another big update for MAME. Many fixes to PSX-based games from smf, lots of CPS-1 improvements from Nicola Salmoria, Corrado Tomaselli and Charles MacDonald, many fixes from Aaron Giles to various drivers and core and many other submissions from the whole MAME team. Also lots of clones and new games are added.<br /><br />Get the latest stable MAME release from <a href="http://mamedev.org">official site</a>.</td>
+  </tr>
+</table>
+
