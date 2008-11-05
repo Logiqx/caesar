@@ -8,6 +8,7 @@
 		<emulator_link id="cps3_emulator" type="multi">&emulator_cps3_emulator;</emulator_link>
 		<emulator_link id="demul" type="multi">&emulator_demul;</emulator_link>
 		<emulator_link id="dice" type="multi">&emulator_dice;</emulator_link>
+		<emulator_link id="dsp" type="multi">&emulator_dsp;</emulator_link>
 		<emulator_link id="jemu2" type="java">&emulator_jemu2;</emulator_link>
 		<emulator_link id="daphne" type="multi">&emulator_daphne;</emulator_link>
 		<emulator_link id="finalburnalpha" type="multi">&emulator_finalburnalpha;</emulator_link>
