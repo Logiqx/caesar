@@ -144,6 +144,7 @@ emus/mac/williams_digital_arcade	stargatepatch2.sit.hqx	42352
 emus/mac/yiear	yakf.cpt.Hqx	91675
 emus/mac/yiear	YieAr.sit	446868
 emus/multi/aae	aae092808.zip	55790862
+emus/multi/aae	aaeu1.zip	280401
 emus/multi/ace	ace18src.zip	416316
 emus/multi/ace	ace19.zip	222252
 emus/multi/ace	sgemf.zip	332
@@ -171,10 +172,9 @@ emus/multi/demul	Demul_v.0.4.3.rar	346205
 emus/multi/dice	dice.0.2.zip	284013
 emus/multi/dice	dice.src.0.2.zip	59489
 emus/multi/domino	domino010.zip	104135
-emus/multi/dsp	dsp_03_s.zip	212659
-emus/multi/dsp	dsp_03wip6_b.zip	389784
-emus/multi/dsp	dsp_dll.zip	84698
-emus/multi/dsp	zipmaster.zip	1793315
+emus/multi/dsp	dsp_09_b.zip	614364
+emus/multi/dsp	dsp_09_s.zip	534975
+emus/multi/dsp	dsp_dll.zip	122826
 emus/multi/emu	emu23.zip	176059
 emus/multi/emudx	dkongg.zip	3498328
 emus/multi/emudx	dkongm.zip	4629390

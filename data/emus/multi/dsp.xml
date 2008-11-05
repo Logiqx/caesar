@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="dsp" type="multi" dat="DSP_v0.3_wip_6">
+<emulator id="dsp" type="multi" dat="DSP_v0.9">
 	<name>DSP</name>
-	<version>0.3 wip 6</version>
-	<date>21/11/2004</date>
+	<version>0.9</version>
+	<date>12/10/2008</date>
 
 	<homepage>http://leniad.cjb.net/</homepage>
 	<author_link id="leniad">&author_leniad;</author_link>
@@ -38,9 +38,8 @@
 	</features>
 
 	<files>
-		<file name="dsp_03wip6_b.zip">Emulator</file>
+		<file name="dsp_09_b.zip">Emulator</file>
 		<file name="dsp_dll.zip">SDL DLL</file>
-		<file name="dsp_03_s.zip">Source</file>
-		<file name="zipmaster.zip">ZipMaster Source (needed to compile DSP)</file>
+		<file name="dsp_09_s.zip">Source</file>
 	</files>
 </emulator>
