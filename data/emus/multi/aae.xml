@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="aae" type="multi" dat="AAE_Alpha_Build_87">
 	<name>AAE (Another Arcade Emulator)</name>
-	<version>Alpha Build 87</version>
-	<date>28/09/2008</date>
+	<version>Alpha Build 87 update 1</version>
+	<date>27/10/2008</date>
 
 	<homepage>http://pages.suddenlink.net/aae/</homepage>
 	<author_link id="tim_aae">&author_tim_aae;</author_link>
@@ -45,5 +45,6 @@
 
 	<files>
 		<file name="aae092808.zip">AAE Binary and Samples</file>
+		<file name="aaeu1.zip">AAE Binary - update 1</file>
 	</files>
 </emulator>
