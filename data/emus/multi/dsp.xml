@@ -8,8 +8,8 @@
 	<homepage>http://leniad.cjb.net/</homepage>
 	<author_link id="leniad">&author_leniad;</author_link>
 
-	<emulates>A few Z80 based arcade games</emulates>
-	<comment>Written in Delphi. Also emulates the ZX Spectrum 48k/128k/+3 and NES.</comment>
+	<emulates>Classic 8-bit arcade games</emulates>
+	<comment>Written in Delphi. Also emulates some 8-bit home computers and consoles.</comment>
 	<status>Active</status>
 
 	<tool_links>
