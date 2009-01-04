@@ -1,0 +1,11 @@
+<h2>14 Jul 2008</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>Demul v0.4.3</strong><br/><small>Posted by <a href="/info/about.shtml">logiqx</a></small></th>
+  </tr>
+  <tr>
+    <td>I have only just stumbled across Demul which emulates Sega's NAOMI (New Arcade Operation Machine Idea) GD-ROM hardware.<br /><br />I have added a <a href="http://caesar.logiqx.com/php/emulator.php?id=demul">new page</a> to CAESAR for it.</td>
+  </tr>
+</table>
+
