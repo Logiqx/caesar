@@ -94,7 +94,7 @@ CREATE TABLE tmp_game_chip
 	game_name	VARCHAR(20) NOT NULL,
 	type		VARCHAR(10) NOT NULL,
 	soundonly	CHAR(3) NULL,
-	chip_name	VARCHAR(20) NOT NULL,
+	chip_name	VARCHAR(40) NOT NULL,
 	clock		INT UNSIGNED NULL,
 	INDEX		(dat, game_name, type, chip_name)
 );
