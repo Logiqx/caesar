@@ -182,41 +182,6 @@ game (
 )
 
 game (
-	name kof2002b
-	description "The King of Fighters 2002 (bootleg) (non-MAME)"
-	year 2002
-	manufacturer "bootleg"
-	cloneof kof2002
-	romof kof2002
-	rom ( name 265-p1.bin merge 265-p1.bin size 1048576 crc 9ede7323 sha1 ad9d45498777fda9fa58e75781f48e09aee705a6 )
-	rom ( name 265-p2b.bin size 4194304 crc 6dbee4df sha1 9a9646c81b233b44213c624b898c19f83e9a07f8 )
-	rom ( name 265-c1b.bin size 8388608 crc f25d3d66 sha1 eb1da3e171c126d91e851ce141840709a2f62f8a )
-	rom ( name 265-c2b.bin size 8388608 crc e3e66f1d sha1 af93e9e134816353d6187a53959c6e418b83ad8d )
-	rom ( name 265-c3b.bin size 8388608 crc 8732fa30 sha1 81c482b375c04bcfbbc69e3e2a2e9ab567c9bb78 )
-	rom ( name 265-c4b.bin size 8388608 crc 0989fd40 sha1 355d6b2c528319e41ce89952c5cf5bcc47cd6de0 )
-	rom ( name 265-c5b.bin size 8388608 crc 60635cd2 sha1 0cf2c54e003edfcdbed64e0570e6b800e7ed3c1b )
-	rom ( name 265-c6b.bin size 8388608 crc bd736824 sha1 d897fc8248ace145fef57d8aa393eaebc4a1ccc4 )
-	rom ( name 265-c7b.bin size 8388608 crc 2da8d8cf sha1 ab8aa88b8e1baba88e5fc01d0f3cb55503b6c81a )
-	rom ( name 265-c8b.bin size 8388608 crc 2048404a sha1 d6d0f049ffc196334825328e0472b04e04bf6695 )
-	rom ( name sfix.sfix merge sfix.sfix size 131072 crc c2ea0cfd sha1 fd4a618cdcdbf849374f0a50dd8efe9dbab706c3 )
-	rom ( name sp-s2.sp1 merge sp-s2.sp1 size 131072 crc 9036d879 sha1 4f5ed7105b7128794654ce82b51723e16e389543 )
-	rom ( name sp-s.sp1 merge sp-s.sp1 size 131072 crc c7f2fa45 sha1 09576ff20b4d6b365e78e6a5698ea450262697cd )
-	rom ( name usa_2slt.bin merge usa_2slt.bin size 131072 crc e72943de sha1 5c6bba07d2ec8ac95776aa3511109f5e1e2e92eb )
-	rom ( name sp-e.sp1 merge sp-e.sp1 size 131072 crc 2723a5b5 sha1 5dbff7531cf04886cde3ef022fb5ca687573dcb8 )
-	rom ( name asia-s3.rom merge asia-s3.rom size 131072 crc 91b64be3 sha1 720a3e20d26818632aedf2c2fd16c54f213543e1 )
-	rom ( name vs-bios.rom merge vs-bios.rom size 131072 crc f0e8f27d sha1 ecf01eda815909f1facec62abf3594eaa8d11075 )
-	rom ( name sp-j2.rom merge sp-j2.rom size 131072 crc acede59c sha1 b6f97acd282fd7e94d9426078a90f059b5e9dd91 )
-	rom ( name sp1.jipan.1024 merge sp1.jipan.1024 size 131072 crc 9fb0abe4 sha1 18a987ce2229df79a8cf6a84f968f0e42ce4e59d )
-	rom ( name sm1.sm1 merge sm1.sm1 size 131072 crc 94416d67 sha1 42f9d7ddd6c0931fd64226a60dc73602b2819dcf )
-	rom ( name 000-lo.lo merge 000-lo.lo size 131072 crc 5a86cff2 sha1 5992277debadeb64d1c1c64b0a92d9293eaf7e4a )
-	rom ( name 265-s1b.bin size 131072 crc 2255f5bf sha1 8a82b3e9717df30b580b9d0bac0b403f8102a002 )
-	rom ( name 265-m1.bin merge 265-m1.bin size 131072 crc 85aaa632 sha1 744fba4ca3bc3a5873838af886efb97a8a316104 )
-	rom ( name 265-m1_decrypted.bin size 131072 crc 1c661a4b sha1 4e5aa862a0a182a806d538996ddc68d9f2dffaf7 )
-	rom ( name 265-v1.bin merge 265-v1.bin size 8388608 crc 15e8f3f5 sha1 7c9e6426b9fa6db0158baa17a6485ffce057d889 )
-	rom ( name 265-v2.bin merge 265-v2.bin size 8388608 crc da41d6f9 sha1 a43021f1e58947dcbe3c8ca5283b20b649f0409d )
-)
-
-game (
 	name kofse2k4
 	description "The King of Fighters Special Edition 2004 (non-MAME)"
 	year 2004
@@ -294,20 +259,5 @@ game (
 	year 1999
 	manufacturer "KiWi of StarLighT"
 	rom ( name neo-geo.rom size 131072 crc 015e77bf sha1 db8021399b432d992826d4aef00ede6609911c44 )
-)
-
-game (
-	name uni-bios
-	description "UNIVERSE BIOS (v1.0 to v2.3, non-MAME)"
-	year 2006
-	manufacturer "CPS2Shock"
-	rom ( name uni-bios.rom size 131072 crc 601720ae sha1 1b8a72c720cdb5ee3f1d735bbcf447b09204b8d9 )
-	rom ( name uni-bios.22 size 131072 crc 2d50996a sha1 5241a4fb0c63b1a23fd1da8efa9c9a9bd3b4279c )
-	rom ( name uni-bios.21 size 131072 crc 8dabf76b sha1 c23732c4491d966cf0373c65c83c7a4e88f0082c )
-	rom ( name uni-bios.20 size 131072 crc 0c12c2ad sha1 37bcd4d30f3892078b46841d895a6eff16dc921e )
-	rom ( name uni-bios.13 size 131072 crc b24b44a0 sha1 eca8851d30557b97c309a0d9f4a9d20e5b14af4e )
-	rom ( name uni-bios.12 size 131072 crc 4fa698e9 sha1 682e13ec1c42beaa2d04473967840c88fd52c75a )
-	rom ( name uni-bios.11 size 131072 crc 5dda0d84 sha1 4153d533c02926a2577e49c32657214781ff29b7 )
-	rom ( name uni-bios.10 size 131072 crc 0ce453a0 sha1 3b4c0cd26c176fc6b26c3a2f95143dd478f6abf9 )
 )
 
