@@ -2240,7 +2240,7 @@ game (
 )
 
 ###############################################################################
-# Sega Model 2 - Nebula Model 2 & Virtua
+# Sega Model 2 - M1
 ################################################################################
 
 game (
@@ -2259,72 +2259,48 @@ game (
 	rom ( name usasnd2.bin size 131072 crc f1876b74 sha1 2f500a3a5948375807d5855c3a1cfa808315cad9 )
 )
 
-game (
-	name daytntus
-	description "Daytona USA Turbo [Model 2]"
-	year 1993
-	manufacturer "Sega"
-	cloneof daytona
-	romof daytona
-	rom ( name turbo_a size 131072 crc aec6857a sha1 e29261de4344c99d82c9e494467605593cc776d8 )
-	rom ( name turbo_b size 131072 crc cb657edc sha1 90b8f673a4ef88e7c1f6012b80823d3e756f9743 )
-	rom ( name 16528.mpr merge 16528.mpr size 2097152 crc 9ce591f6 sha1 e22fc8a70b533f7a6191f5952c581fb8f9627906 )
-	rom ( name 16529.mpr merge 16529.mpr size 2097152 crc f7095eaf sha1 da3c922f950dd730ea348eae12aa1cb69cee9a58 )
-	rom ( name 16808.mpr merge 16808.mpr size 2097152 crc 44f1f5a0 sha1 343866a6e2187a8ebc17f6727080f9f2f9ac9200 )
-	rom ( name 16809.mpr merge 16809.mpr size 2097152 crc 37a2dd12 sha1 8192d8698d6bd52ee11cc28917aff5840c447627 )
-	rom ( name epr-16724a.6 size 524288 crc 469f10fd sha1 7fad3b8d03960e5e1f7a6cb36509238977e00fcc )
-	rom ( name epr-16725a.7 size 524288 crc ba0df8db sha1 d0c5581c56500b5266cab8e8151db24fcbdea0d7 )
-	rom ( name mpr-16537.28 merge mpr-16537.28 size 2097152 crc 36b7c35a sha1 b32fd1d3fc8983fb5f2a7b236b665a8c9b52769f )
-	rom ( name mpr-16536.29 merge mpr-16536.29 size 2097152 crc 6d6afed9 sha1 2018468d7d849854b3d0cfbcd217317e2fc93555 )
-	rom ( name mpr-16523.16 merge mpr-16523.16 size 2097152 crc 2f484d42 sha1 0b83a3fc92b7d913a14cfb01d688c63555c17c41 )
-	rom ( name mpr-16518.20 merge mpr-16518.20 size 2097152 crc df683bf7 sha1 16afe5029591f3536b5b75d9cf50a34d0ea72c3d )
-	rom ( name mpr-16524.17 merge mpr-16524.17 size 2097152 crc 34658bd7 sha1 71b47626ffe5b26d1140afe1b830a9a2be86c88f )
-	rom ( name mpr-16519.21 merge mpr-16519.21 size 2097152 crc facd1c81 sha1 dac8c281a5e9a6c4b60197e6676f3727264ee420 )
-	rom ( name mpr-16525.18 merge mpr-16525.18 size 2097152 crc fb517521 sha1 33f5f37ea2e09fc73eed5388b46fdf1fa9e285e6 )
-	rom ( name mpr-16520.22 merge mpr-16520.22 size 2097152 crc d66bd9bd sha1 660171674484375a27595630e5e2d2ad76a06d1a )
-	rom ( name mpr-16772.19 merge mpr-16772.19 size 2097152 crc 770ed912 sha1 1789f35dd403f73f8be18495a0fe4ad1e6841417 )
-	rom ( name mpr-16771.23 merge mpr-16771.23 size 2097152 crc a2205124 sha1 257a3675e4ef6adbf61285a5daa5954223c28cb2 )
-	rom ( name mpr-16522.25 merge mpr-16522.25 size 2097152 crc 55d39a57 sha1 abf7b0fc0f111f90da42463d600db9fa32e95efe )
-	rom ( name mpr-16521.24 merge mpr-16521.24 size 2097152 crc af1934fb sha1 a6a21a23cd34d0de6d3e6a5c3c2687f905d0dc2a )
-	rom ( name mpr-16770.27 merge mpr-16770.27 size 2097152 crc f9fa7bfb sha1 8aa933b74d4e05dc49987238705e50b00e5dae73 )
-	rom ( name mpr-16769.26 merge mpr-16769.26 size 2097152 crc e57429e9 sha1 8c712ab09e61ef510741a55f29b3c4e497471372 )
-	rom ( name 16720.epr merge 16720.epr size 131072 crc 8e73cffd sha1 9933ccc0757e8c86e0adb938d1c89210b26841ea )
-	rom ( name 16721.epr merge 16721.epr size 131072 crc 1bb3b7b7 sha1 ee2fd1480e535fc37e9932e6fe4e31344559fc87 )
-	rom ( name 16491.mpr merge 16491.mpr size 2097152 crc 89920903 sha1 06d1d55470ae99f8de0f8c88c694f34c4eb13668 )
-	rom ( name 16492.mpr merge 16492.mpr size 2097152 crc 459e701b sha1 2054f69cecad677eb00c6a3051f5b5d90885e19b )
-	rom ( name 16493.mpr merge 16493.mpr size 2097152 crc 9990db15 sha1 ea9a8b45a07dccaae62be7cf095532ce7596a70c )
-	rom ( name 16494.mpr merge 16494.mpr size 2097152 crc 600e1d6c sha1 d4e246fc57a16ff562bbcbccf6a739b706f58696 )
-)
+###############################################################################
+# Sega Model 2 - Virtua
+################################################################################
 
 game (
-	name srallyp
-	description "Sega Rally Pro Drivin' [Model 2A CRX]"
-	year 1995
+	name zerogunx
+	description "Zero Gunner (Rev ?) [Model 2B CRX]"
+	year 1997
 	manufacturer "Sega"
-	cloneof srallyc
-	romof srallyc
-	rom ( name ic12.bin size 524288 crc 926632ab )
-	rom ( name ic13.bin size 524288 crc c93b33f1 )
-	rom ( name mpr-17746.bin merge mpr-17746.bin size 2097152 crc 8fe311f4 sha1 f4ada8e5c906fc384bed1b96f09cdf313f89e825 )
-	rom ( name mpr-17747.bin merge mpr-17747.bin size 2097152 crc 543593fd sha1 5ba63a77e9fc70569af21d50b3171bc8ff4522b8 )
-	rom ( name mpr-17744.bin merge mpr-17744.bin size 2097152 crc 71fed098 sha1 1d187cad375121a45348d640edd3cc7dce658d28 )
-	rom ( name mpr-17745.bin merge mpr-17745.bin size 2097152 crc 8ecca705 sha1 ed2b3298aad6f4e52dc672a0168183e457564b43 )
-	rom ( name mpr-17884.bin merge mpr-17884.bin size 2097152 crc 4cfc95e1 sha1 81d927b8c4f9d0c4c5e29d676b30f30f83751fdc )
-	rom ( name mpr-17885.bin merge mpr-17885.bin size 2097152 crc a08d2467 sha1 9449ac8f8f9ce8d8e536b05a91e46841fed7f2d0 )
-	rom ( name mpr-17755.bin merge mpr-17755.bin size 2097152 crc 2a6e7da4 sha1 e60803ae951489fe47d66731d15c32249ca547b4 )
-	rom ( name mpr-17754.bin merge mpr-17754.bin size 2097152 crc 81a84f67 sha1 c0a9b690523a529e4015e9af10dc3fb2a1726f08 )
-	rom ( name mpr-17748.bin merge mpr-17748.bin size 2097152 crc 3148a2b2 sha1 283cc49bfb6c6381a7ead9273fd097dca5b981b6 )
-	rom ( name mpr-17750.bin merge mpr-17750.bin size 2097152 crc 232aec29 sha1 4d470e71df61298282c356814e2d151fda323fb6 )
-	rom ( name mpr-17749.bin merge mpr-17749.bin size 2097152 crc 0838d184 sha1 704175c8b29e4c989afcb7be42e7e0e096740eaf )
-	rom ( name mpr-17751.bin merge mpr-17751.bin size 2097152 crc ed87ac62 sha1 601542149d33ca52a47536b4b0af47bf1fd87eb2 )
-	rom ( name mpr-17753.bin merge mpr-17753.bin size 2097152 crc 6db0eb36 sha1 dd5fd3c9592360d3e95623ac2491e6faabe9dbcb )
-	rom ( name mpr-17752.bin merge mpr-17752.bin size 2097152 crc d6aa86ce sha1 1d342f87d1af1e5438d1ae818b1b14268e765897 )
-	rom ( name epr-17890.30 merge epr-17890.30 size 262144 crc 5bac3fa1 sha1 3635333d36463b6fab25560ed918e05138f964dc )
-	rom ( name mpr-17756.31 merge mpr-17756.31 size 2097152 crc 7725f111 sha1 1f1ee3f19a6bcf57bc5a1c7dd64ee83f8b81f084 )
-	rom ( name mpr-17757.32 merge mpr-17757.32 size 2097152 crc 1616e649 sha1 1d3a0e441d150ada0535a9d50e2f69dd4b99c584 )
-	rom ( name mpr-17886.36 merge mpr-17886.36 size 2097152 crc 54a72923 sha1 103c4838b27378c834c08d29d6fb6ba95e7f9d03 )
-	rom ( name mpr-17887.37 merge mpr-17887.37 size 2097152 crc 38c31fdd sha1 a85f05160b060d9d4a431aaa73cfc03f24214fb9 )
+	cloneof zerogun
+	romof zerogun
+	rebuildto "Model 2B CRX"
+	rom ( name mp19324.19 merge mp19324.19 size 4194304 crc 0d6bf454 )
+	rom ( name mp19326.22 merge mp19326.22 size 4194304 crc b976da02 )
+	rom ( name mp19327.23 merge mp19327.23 size 4194304 crc 6a75634c )
+	rom ( name mp19331.34 merge mp19331.34 size 4194304 crc 2f866947 )
+	rom ( name mp19332.35 merge mp19332.35 size 4194304 crc 733ae92b )
+	rom ( name mp20294.9 merge mp20294.9 size 4194304 crc a0bd1474 )
+	rom ( name mp20295.10 merge mp20295.10 size 4194304 crc c548cced )
+	rom ( name mp20296.11 merge mp20296.11 size 4194304 crc 072d8a5e )
+	rom ( name mp20297.12 merge mp20297.12 size 4194304 crc ba6a825b )
+	rom ( name mp20298.17 merge mp20298.17 size 4194304 crc 8ab782fc )
+	rom ( name mp20299.21 merge mp20299.21 size 4194304 crc 90e20cdb )
+	rom ( name mp20300.25 merge mp20300.25 size 2097152 crc 6f042792 )
+	rom ( name mp20301.27 merge mp20301.27 size 2097152 crc 52010fb2 )
+	rom ( name mp20303.32 merge mp20303.32 size 2097152 crc c040973f )
+	rom ( name mp20304.33 merge mp20304.33 size 2097152 crc 6decfe83 )
+	rom ( name ep18604.13 merge ep18604.13 size 131072 crc 704fdfcf )
+	rom ( name ep18605.14 merge ep18605.14 size 131072 crc 7dddf81f )
+	rom ( name ep20302.31 merge ep20302.31 size 524288 crc 44ff50d2 )
+	rom ( name ep20288 size 524288 crc 162305d5 )
+	rom ( name ep20289 size 524288 crc b5acb940 )
+	rom ( name mp19312.5 merge mp19312.5 size 4194304 crc b87d4aee )
+	rom ( name mp19313.6 merge mp19313.6 size 4194304 crc 873fbf83 )
+	rom ( name mp19314.7 merge mp19314.7 size 4194304 crc a8d963fb )
+	rom ( name mp19315.8 merge mp19315.8 size 4194304 crc 90ae5682 )
+	rom ( name mp19323.18 merge mp19323.18 size 4194304 crc 453d3f4a )
 )
+
+###############################################################################
+# Sega Model 2 - Nebula Model 2
+################################################################################
 
 game (
 	name stccb
@@ -2361,39 +2337,175 @@ game (
 	rom ( name mp19265.60 merge mp19265.60 size 2097152 crc 7d98700a )
 )
 
+###############################################################################
+# Sega Model 2 - Sega Model 2 Emulator
+################################################################################
+
 game (
-	name zerogunx
-	description "Zero Gunner (Rev ?) [Model 2B CRX]"
+	name daytonagtx
+	description "Daytona USA : GTX 2004 Edition"
+	year 2003
+	manufacturer "Hack"
+	cloneof daytona
+	romof daytona
+	rom ( name opr-14742a.45 merge opr-14742a.45 size 131072 crc 90c6b117 sha1 f46429fffcee17d056f56d5fe035a33f1fd6c27e )
+	rom ( name opr-14743a.46 merge opr-14743a.46 size 131072 crc ae7f446b sha1 5b9f1fc47caf21e061e930c0d72804e4ec8c7bca )
+	rom ( name opr-14744.58 merge opr-14744.58 size 131072 crc 730ea9e0 sha1 651f1db4089a400d073b19ada299b4b08b08f372 )
+	rom ( name opr-14745.59 merge opr-14745.59 size 131072 crc 4c934d96 sha1 e3349ece0e47f684d61ad11bfea4a90602287350 )
+	rom ( name opr-14746.62 merge opr-14746.62 size 131072 crc 2a266cbd sha1 34e047a93459406c22acf4c25089d1a4955f94ca )
+	rom ( name opr-14747.63 merge opr-14747.63 size 131072 crc a4ad5e19 sha1 7d7ec300eeb9a8de1590011e37108688c092f329 )
+	rom ( name mpr-16310.15 merge mpr-16310.15 size 524288 crc c078a780 sha1 0ad5b49774172743e2708b7ca4c061acfe10957a )
+	rom ( name mpr-16311.16 merge mpr-16311.16 size 524288 crc 452a492b sha1 88c2f6c2dbfd0c1b39a7bf15c74455fb68c7274e )
+	rom ( name mpr-16312.14 merge mpr-16312.14 size 524288 crc a25fef5b sha1 c6a37856b97f5bc4996cb6b66209f47af392cc38 )
+	rom ( name gtx.12 size 131072 crc 08283a6f sha1 643110a3ea5fb6092c469b6b49a396084e985a7a )
+	rom ( name gtx.13 size 131072 crc f9b356ae sha1 ad635540d64e05c7246c9de6439a4e3b3d1cdf08 )
+	rom ( name 16528.mpr size 2097152 crc 9ce591f6 sha1 e22fc8a70b533f7a6191f5952c581fb8f9627906 )
+	rom ( name 16529.mpr size 2097152 crc f7095eaf sha1 da3c922f950dd730ea348eae12aa1cb69cee9a58 )
+	rom ( name 16808.mpr size 2097152 crc 44f1f5a0 sha1 343866a6e2187a8ebc17f6727080f9f2f9ac9200 )
+	rom ( name 16809.mpr size 2097152 crc 37a2dd12 sha1 8192d8698d6bd52ee11cc28917aff5840c447627 )
+	rom ( name 16724a.epr size 524288 crc 469f10fd sha1 7fad3b8d03960e5e1f7a6cb36509238977e00fcc )
+	rom ( name 16725a.epr size 524288 crc ba0df8db sha1 d0c5581c56500b5266cab8e8151db24fcbdea0d7 )
+	rom ( name bank0.bin size 524288 crc c1971f23 sha1 3db88552ff2166f6eb2a9200e8609b52c1266274 )
+	rom ( name bank1.bin size 524288 crc 21b603b4 sha1 3f8f83fbf2ce5055fa85075c95da617fe2a8738a )
+	rom ( name mpr-16537.28 merge mpr-16537.28 size 2097152 crc 36b7c35a sha1 b32fd1d3fc8983fb5f2a7b236b665a8c9b52769f )
+	rom ( name mpr-16536.29 merge mpr-16536.29 size 2097152 crc 6d6afed9 sha1 2018468d7d849854b3d0cfbcd217317e2fc93555 )
+	rom ( name mpr-16523.16 merge mpr-16523.16 size 2097152 crc 2f484d42 sha1 0b83a3fc92b7d913a14cfb01d688c63555c17c41 )
+	rom ( name mpr-16518.20 merge mpr-16518.20 size 2097152 crc df683bf7 sha1 16afe5029591f3536b5b75d9cf50a34d0ea72c3d )
+	rom ( name mpr-16524.17 merge mpr-16524.17 size 2097152 crc 34658bd7 sha1 71b47626ffe5b26d1140afe1b830a9a2be86c88f )
+	rom ( name mpr-16519.21 merge mpr-16519.21 size 2097152 crc facd1c81 sha1 dac8c281a5e9a6c4b60197e6676f3727264ee420 )
+	rom ( name mpr-16525.18 merge mpr-16525.18 size 2097152 crc fb517521 sha1 33f5f37ea2e09fc73eed5388b46fdf1fa9e285e6 )
+	rom ( name mpr-16520.22 merge mpr-16520.22 size 2097152 crc d66bd9bd sha1 660171674484375a27595630e5e2d2ad76a06d1a )
+	rom ( name mpr-16772.19 merge mpr-16772.19 size 2097152 crc 770ed912 sha1 1789f35dd403f73f8be18495a0fe4ad1e6841417 )
+	rom ( name mpr-16771.23 merge mpr-16771.23 size 2097152 crc a2205124 sha1 257a3675e4ef6adbf61285a5daa5954223c28cb2 )
+	rom ( name mpr-16522.25 merge mpr-16522.25 size 2097152 crc 55d39a57 sha1 abf7b0fc0f111f90da42463d600db9fa32e95efe )
+	rom ( name mpr-16521.24 merge mpr-16521.24 size 2097152 crc af1934fb sha1 a6a21a23cd34d0de6d3e6a5c3c2687f905d0dc2a )
+	rom ( name mpr-16770.27 merge mpr-16770.27 size 2097152 crc f9fa7bfb sha1 8aa933b74d4e05dc49987238705e50b00e5dae73 )
+	rom ( name mpr-16769.26 merge mpr-16769.26 size 2097152 crc e57429e9 sha1 8c712ab09e61ef510741a55f29b3c4e497471372 )
+	rom ( name 16720.epr size 131072 crc 8e73cffd sha1 9933ccc0757e8c86e0adb938d1c89210b26841ea )
+	rom ( name 16721.epr size 131072 crc 1bb3b7b7 sha1 ee2fd1480e535fc37e9932e6fe4e31344559fc87 )
+	rom ( name 16491.mpr size 2097152 crc 89920903 sha1 06d1d55470ae99f8de0f8c88c694f34c4eb13668 )
+	rom ( name 16492.mpr size 2097152 crc 459e701b sha1 2054f69cecad677eb00c6a3051f5b5d90885e19b )
+	rom ( name 16493.mpr size 2097152 crc 9990db15 sha1 ea9a8b45a07dccaae62be7cf095532ce7596a70c )
+	rom ( name 16494.mpr size 2097152 crc 600e1d6c sha1 d4e246fc57a16ff562bbcbccf6a739b706f58696 )
+)
+
+game (
+	name daytntus
+	description "Daytona USA Turbo"
+	year 1993
+	manufacturer "Sega"
+	cloneof daytona
+	romof daytona
+	rom ( name opr-14742a.45 merge opr-14742a.45 size 131072 crc 90c6b117 sha1 f46429fffcee17d056f56d5fe035a33f1fd6c27e )
+	rom ( name opr-14743a.46 merge opr-14743a.46 size 131072 crc ae7f446b sha1 5b9f1fc47caf21e061e930c0d72804e4ec8c7bca )
+	rom ( name opr-14744.58 merge opr-14744.58 size 131072 crc 730ea9e0 sha1 651f1db4089a400d073b19ada299b4b08b08f372 )
+	rom ( name opr-14745.59 merge opr-14745.59 size 131072 crc 4c934d96 sha1 e3349ece0e47f684d61ad11bfea4a90602287350 )
+	rom ( name opr-14746.62 merge opr-14746.62 size 131072 crc 2a266cbd sha1 34e047a93459406c22acf4c25089d1a4955f94ca )
+	rom ( name opr-14747.63 merge opr-14747.63 size 131072 crc a4ad5e19 sha1 7d7ec300eeb9a8de1590011e37108688c092f329 )
+	rom ( name mpr-16310.15 merge mpr-16310.15 size 524288 crc c078a780 sha1 0ad5b49774172743e2708b7ca4c061acfe10957a )
+	rom ( name mpr-16311.16 merge mpr-16311.16 size 524288 crc 452a492b sha1 88c2f6c2dbfd0c1b39a7bf15c74455fb68c7274e )
+	rom ( name mpr-16312.14 merge mpr-16312.14 size 524288 crc a25fef5b sha1 c6a37856b97f5bc4996cb6b66209f47af392cc38 )
+	rom ( name turbo_a size 131072 crc aec6857a sha1 e29261de4344c99d82c9e494467605593cc776d8 )
+	rom ( name turbo_b size 131072 crc cb657edc sha1 90b8f673a4ef88e7c1f6012b80823d3e756f9743 )
+	rom ( name mpr-16528.10 merge mpr-16528.10 size 2097152 crc 9ce591f6 sha1 e22fc8a70b533f7a6191f5952c581fb8f9627906 )
+	rom ( name mpr-16529.11 merge mpr-16529.11 size 2097152 crc f7095eaf sha1 da3c922f950dd730ea348eae12aa1cb69cee9a58 )
+	rom ( name mpr-16808.8 merge mpr-16808.8 size 2097152 crc 44f1f5a0 sha1 343866a6e2187a8ebc17f6727080f9f2f9ac9200 )
+	rom ( name mpr-16809.9 merge mpr-16809.9 size 2097152 crc 37a2dd12 sha1 8192d8698d6bd52ee11cc28917aff5840c447627 )
+	rom ( name epr-16724a.6 merge epr-16724a.6 size 524288 crc 469f10fd sha1 7fad3b8d03960e5e1f7a6cb36509238977e00fcc )
+	rom ( name epr-16725a.7 merge epr-16725a.7 size 524288 crc ba0df8db sha1 d0c5581c56500b5266cab8e8151db24fcbdea0d7 )
+	rom ( name mpr-16537.28 merge mpr-16537.28 size 2097152 crc 36b7c35a sha1 b32fd1d3fc8983fb5f2a7b236b665a8c9b52769f )
+	rom ( name mpr-16536.29 merge mpr-16536.29 size 2097152 crc 6d6afed9 sha1 2018468d7d849854b3d0cfbcd217317e2fc93555 )
+	rom ( name mpr-16523.16 merge mpr-16523.16 size 2097152 crc 2f484d42 sha1 0b83a3fc92b7d913a14cfb01d688c63555c17c41 )
+	rom ( name mpr-16518.20 merge mpr-16518.20 size 2097152 crc df683bf7 sha1 16afe5029591f3536b5b75d9cf50a34d0ea72c3d )
+	rom ( name mpr-16524.17 merge mpr-16524.17 size 2097152 crc 34658bd7 sha1 71b47626ffe5b26d1140afe1b830a9a2be86c88f )
+	rom ( name mpr-16519.21 merge mpr-16519.21 size 2097152 crc facd1c81 sha1 dac8c281a5e9a6c4b60197e6676f3727264ee420 )
+	rom ( name mpr-16525.18 merge mpr-16525.18 size 2097152 crc fb517521 sha1 33f5f37ea2e09fc73eed5388b46fdf1fa9e285e6 )
+	rom ( name mpr-16520.22 merge mpr-16520.22 size 2097152 crc d66bd9bd sha1 660171674484375a27595630e5e2d2ad76a06d1a )
+	rom ( name mpr-16772.19 merge mpr-16772.19 size 2097152 crc 770ed912 sha1 1789f35dd403f73f8be18495a0fe4ad1e6841417 )
+	rom ( name mpr-16771.23 merge mpr-16771.23 size 2097152 crc a2205124 sha1 257a3675e4ef6adbf61285a5daa5954223c28cb2 )
+	rom ( name mpr-16522.25 merge mpr-16522.25 size 2097152 crc 55d39a57 sha1 abf7b0fc0f111f90da42463d600db9fa32e95efe )
+	rom ( name mpr-16521.24 merge mpr-16521.24 size 2097152 crc af1934fb sha1 a6a21a23cd34d0de6d3e6a5c3c2687f905d0dc2a )
+	rom ( name mpr-16770.27 merge mpr-16770.27 size 2097152 crc f9fa7bfb sha1 8aa933b74d4e05dc49987238705e50b00e5dae73 )
+	rom ( name mpr-16769.26 merge mpr-16769.26 size 2097152 crc e57429e9 sha1 8c712ab09e61ef510741a55f29b3c4e497471372 )
+	rom ( name epr-16720.7 merge epr-16720.7 size 131072 crc 8e73cffd sha1 9933ccc0757e8c86e0adb938d1c89210b26841ea )
+	rom ( name epr-16721.8 merge epr-16721.8 size 131072 crc 1bb3b7b7 sha1 ee2fd1480e535fc37e9932e6fe4e31344559fc87 )
+	rom ( name mpr-16491.32 merge mpr-16491.32 size 2097152 crc 89920903 sha1 06d1d55470ae99f8de0f8c88c694f34c4eb13668 )
+	rom ( name mpr-16492.33 merge mpr-16492.33 size 2097152 crc 459e701b sha1 2054f69cecad677eb00c6a3051f5b5d90885e19b )
+	rom ( name mpr-16493.4 merge mpr-16493.4 size 2097152 crc 9990db15 sha1 ea9a8b45a07dccaae62be7cf095532ce7596a70c )
+	rom ( name mpr-16494.5 merge mpr-16494.5 size 2097152 crc 600e1d6c sha1 d4e246fc57a16ff562bbcbccf6a739b706f58696 )
+)
+
+game (
+	name segawski
+	description "Sega Water Ski"
 	year 1997
 	manufacturer "Sega"
-	cloneof zerogun
-	romof zerogun
-	rebuildto "Model 2B CRX"
-	rom ( name mp19324.19 merge mp19324.19 size 4194304 crc 0d6bf454 )
-	rom ( name mp19326.22 merge mp19326.22 size 4194304 crc b976da02 )
-	rom ( name mp19327.23 merge mp19327.23 size 4194304 crc 6a75634c )
-	rom ( name mp19331.34 merge mp19331.34 size 4194304 crc 2f866947 )
-	rom ( name mp19332.35 merge mp19332.35 size 4194304 crc 733ae92b )
-	rom ( name mp20294.9 merge mp20294.9 size 4194304 crc a0bd1474 )
-	rom ( name mp20295.10 merge mp20295.10 size 4194304 crc c548cced )
-	rom ( name mp20296.11 merge mp20296.11 size 4194304 crc 072d8a5e )
-	rom ( name mp20297.12 merge mp20297.12 size 4194304 crc ba6a825b )
-	rom ( name mp20298.17 merge mp20298.17 size 4194304 crc 8ab782fc )
-	rom ( name mp20299.21 merge mp20299.21 size 4194304 crc 90e20cdb )
-	rom ( name mp20300.25 merge mp20300.25 size 2097152 crc 6f042792 )
-	rom ( name mp20301.27 merge mp20301.27 size 2097152 crc 52010fb2 )
-	rom ( name mp20303.32 merge mp20303.32 size 2097152 crc c040973f )
-	rom ( name mp20304.33 merge mp20304.33 size 2097152 crc 6decfe83 )
-	rom ( name ep18604.13 merge ep18604.13 size 131072 crc 704fdfcf )
-	rom ( name ep18605.14 merge ep18605.14 size 131072 crc 7dddf81f )
-	rom ( name ep20302.31 merge ep20302.31 size 524288 crc 44ff50d2 )
-	rom ( name ep20288 size 524288 crc 162305d5 )
-	rom ( name ep20289 size 524288 crc b5acb940 )
-	rom ( name mp19312.5 merge mp19312.5 size 4194304 crc b87d4aee )
-	rom ( name mp19313.6 merge mp19313.6 size 4194304 crc 873fbf83 )
-	rom ( name mp19314.7 merge mp19314.7 size 4194304 crc a8d963fb )
-	rom ( name mp19315.8 merge mp19315.8 size 4194304 crc 90ae5682 )
-	rom ( name mp19323.18 merge mp19323.18 size 4194304 crc 453d3f4a )
+	rom ( name epr-19963a.15 size 524288 crc 89c9cb0d sha1 7f1f600222447effb28cf2d56193ea9f45fd0646 )
+	rom ( name epr-19964a.16 size 524288 crc c382cefe sha1 c0ccee4eb19d9626dee0f77f08060f1d9708b39d )
+	rom ( name mpr-19980.11 size 4194304 crc 709804f2 sha1 6633eeb2bc0ddd5eb5994cb7cc39ed4ab2094a7e )
+	rom ( name mpr-19981.12 size 4194304 crc a1e8ec09 sha1 53abaf71e85f874d28a79c8775b1f0ac919fbe22 )
+	rom ( name mpr-19982.9 size 4194304 crc 41c398bb sha1 e6652111a494165c93d5e9dc7d1c3df46f1a8961 )
+	rom ( name mpr-19983.10 size 4194304 crc e210dea2 sha1 a32010648046738f64cbc7e1a074b9443bbde865 )
+	rom ( name mpr-19984.7 size 4194304 crc 14b967d1 sha1 8e0fd13f5838218224ce162a55558b75dcda4cbf )
+	rom ( name mpr-19985.8 size 4194304 crc 57827677 sha1 0d764ec9e136e4d027aefb10e9f025aa2e081573 )
+	rom ( name epr-19961.5 size 524288 crc cc34ecaf sha1 8e540a429826d40acef5a34a0b6b1b89e059961b )
+	rom ( name epr-19962.6 size 524288 crc e8a30e5e sha1 2d7290186aaca28f3aaf6656b090e1cbe509aa48 )
+	rom ( name mpr-19986.29 size 4194304 crc 4b8e26f8 sha1 859e3788c75599295a8b57ed7852f2cbb6a2a738 )
+	rom ( name mpr-19987.30 size 4194304 crc 8d5b9d38 sha1 35f41c474af3754152aecefe81e912120823e0ff )
+	rom ( name mpr-19972.17 size 4194304 crc 493c0f8f sha1 c68f662d53fbcec3d2dbd9ebdfd37cbf1ff46408 )
+	rom ( name mpr-19973.21 size 4194304 crc 01b6f8e1 sha1 be1f1017ff5f43218de2d99090e4e7db64f7a483 )
+	rom ( name mpr-19974.18 size 4194304 crc 2bd947d3 sha1 7f16e668db5a4673cd909bdfa1b9dc665827b392 )
+	rom ( name mpr-19975.22 size 4194304 crc 07e6b699 sha1 35bbea4cd42ab39f976cd2ec964c32d5d3982c4a )
+	rom ( name mpr-19976.19 size 4194304 crc f9496566 sha1 e6dee764301c0ed34e5134a5232898bb42563c20 )
+	rom ( name mpr-19977.23 size 4194304 crc b3dbf54b sha1 d61448394b7b2036e27bdbf7a062d63f076db9da )
+	rom ( name mpr-19978.20 size 4194304 crc c80f4ed7 sha1 e7ea6dfb57ab1fe924a80c244b8acfe4aad2b76d )
+	rom ( name mpr-19979.24 size 4194304 crc 1c0db4d2 sha1 65a81f4503c6b9c26650befd183db821545c53e2 )
+	rom ( name mpr-19969.27 size 4194304 crc c0c33d39 sha1 f61a6266556d5687cd03031065baa2dd73112666 )
+	rom ( name mpr-19968.25 size 4194304 crc b8d2f04f sha1 f0f4d2dd06cdf745ed07fe428eaa3e3ad030bff6 )
+	rom ( name mpr-19971.28 size 4194304 crc c8708096 sha1 c27e0a90dc1183b0cf7f32e324afa6c126f61d37 )
+	rom ( name mpr-19970.26 size 4194304 crc c59d8d36 sha1 24232390f0cac5ffbb17a0093a602363c686fbf8 )
+	rom ( name epr-19967.31 size 524288 crc 99c7817f sha1 a1c76f0e9da32b49e8d15cc31542c9619b9a265b )
+	rom ( name mpr-19988.32 size 4194304 crc 303732fb sha1 63efbd9f67b38fddeeed25de660514867e03486a )
+	rom ( name mpr-19989.34 size 4194304 crc 8074a4b3 sha1 98dc1d122ffb9b5c52994dea2b5d8c4f004a5f8e )
+)
+
+game (
+	name srallyp
+	description "Sega Rally Pro Drivin'"
+	year 1995
+	manufacturer "Sega"
+	cloneof srallyc
+	romof srallyc
+	rom ( name opr-14742a.45 merge opr-14742a.45 size 131072 crc 90c6b117 sha1 f46429fffcee17d056f56d5fe035a33f1fd6c27e )
+	rom ( name opr-14743a.46 merge opr-14743a.46 size 131072 crc ae7f446b sha1 5b9f1fc47caf21e061e930c0d72804e4ec8c7bca )
+	rom ( name opr-14744.58 merge opr-14744.58 size 131072 crc 730ea9e0 sha1 651f1db4089a400d073b19ada299b4b08b08f372 )
+	rom ( name opr-14745.59 merge opr-14745.59 size 131072 crc 4c934d96 sha1 e3349ece0e47f684d61ad11bfea4a90602287350 )
+	rom ( name opr-14746.62 merge opr-14746.62 size 131072 crc 2a266cbd sha1 34e047a93459406c22acf4c25089d1a4955f94ca )
+	rom ( name opr-14747.63 merge opr-14747.63 size 131072 crc a4ad5e19 sha1 7d7ec300eeb9a8de1590011e37108688c092f329 )
+	rom ( name mpr-16310.15 merge mpr-16310.15 size 524288 crc c078a780 sha1 0ad5b49774172743e2708b7ca4c061acfe10957a )
+	rom ( name mpr-16311.16 merge mpr-16311.16 size 524288 crc 452a492b sha1 88c2f6c2dbfd0c1b39a7bf15c74455fb68c7274e )
+	rom ( name mpr-16312.14 merge mpr-16312.14 size 524288 crc a25fef5b sha1 c6a37856b97f5bc4996cb6b66209f47af392cc38 )
+	rom ( name ic12.bin size 524288 crc 926632ab sha1 7a37813f3d59b8e6e68220aa3120460b1ce5b33d )
+	rom ( name ic13.bin size 524288 crc c93b33f1 sha1 8477a05e44c1c9ee5e99eaa9d31cd9905ebf8c26 )
+	rom ( name mpr-17746.10 merge mpr-17746.10 size 2097152 crc 8fe311f4 sha1 f4ada8e5c906fc384bed1b96f09cdf313f89e825 )
+	rom ( name mpr-17747.11 merge mpr-17747.11 size 2097152 crc 543593fd sha1 5ba63a77e9fc70569af21d50b3171bc8ff4522b8 )
+	rom ( name mpr-17744.8 merge mpr-17744.8 size 2097152 crc 71fed098 sha1 1d187cad375121a45348d640edd3cc7dce658d28 )
+	rom ( name mpr-17745.9 merge mpr-17745.9 size 2097152 crc 8ecca705 sha1 ed2b3298aad6f4e52dc672a0168183e457564b43 )
+	rom ( name mpr-17884.6 merge mpr-17884.6 size 2097152 crc 4cfc95e1 sha1 81d927b8c4f9d0c4c5e29d676b30f30f83751fdc )
+	rom ( name mpr-17885.7 merge mpr-17885.7 size 2097152 crc a08d2467 sha1 9449ac8f8f9ce8d8e536b05a91e46841fed7f2d0 )
+	rom ( name mpr-17755.28 merge mpr-17755.28 size 2097152 crc 2a6e7da4 sha1 e60803ae951489fe47d66731d15c32249ca547b4 )
+	rom ( name mpr-17754.29 merge mpr-17754.29 size 2097152 crc 81a84f67 sha1 c0a9b690523a529e4015e9af10dc3fb2a1726f08 )
+	rom ( name mpr-17748.16 merge mpr-17748.16 size 2097152 crc 3148a2b2 sha1 283cc49bfb6c6381a7ead9273fd097dca5b981b6 )
+	rom ( name mpr-17750.20 merge mpr-17750.20 size 2097152 crc 232aec29 sha1 4d470e71df61298282c356814e2d151fda323fb6 )
+	rom ( name mpr-17749.17 merge mpr-17749.17 size 2097152 crc 0838d184 sha1 704175c8b29e4c989afcb7be42e7e0e096740eaf )
+	rom ( name mpr-17751.21 merge mpr-17751.21 size 2097152 crc ed87ac62 sha1 601542149d33ca52a47536b4b0af47bf1fd87eb2 )
+	rom ( name mpr-17753.25 merge mpr-17753.25 size 2097152 crc 6db0eb36 sha1 dd5fd3c9592360d3e95623ac2491e6faabe9dbcb )
+	rom ( name mpr-17752.24 merge mpr-17752.24 size 2097152 crc d6aa86ce sha1 1d342f87d1af1e5438d1ae818b1b14268e765897 )
+	rom ( name epr-17890.30 merge epr-17890.30 size 262144 crc 5bac3fa1 sha1 3635333d36463b6fab25560ed918e05138f964dc )
+	rom ( name mpr-17756.31 merge mpr-17756.31 size 2097152 crc 7725f111 sha1 1f1ee3f19a6bcf57bc5a1c7dd64ee83f8b81f084 )
+	rom ( name mpr-17757.32 merge mpr-17757.32 size 2097152 crc 1616e649 sha1 1d3a0e441d150ada0535a9d50e2f69dd4b99c584 )
+	rom ( name mpr-17886.36 merge mpr-17886.36 size 2097152 crc 54a72923 sha1 103c4838b27378c834c08d29d6fb6ba95e7f9d03 )
+	rom ( name mpr-17887.37 merge mpr-17887.37 size 2097152 crc 38c31fdd sha1 a85f05160b060d9d4a431aaa73cfc03f24214fb9 )
 )
 
 ################################################################################
