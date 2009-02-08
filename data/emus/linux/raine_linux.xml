@@ -2,8 +2,8 @@
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
 <emulator id="raine_linux" type="linux" dat="dummy">
 	<name>RAINE for Linux</name>
-	<version>0.50.16</version>
-	<date>31/08/2008</date>
+	<version>0.51.0</version>
+	<date>06/02/2009</date>
 
 	<homepage>http://rainemu.swishparty.co.uk/</homepage>
 	<homepage>http://sourceforge.net/projects/raine/</homepage>
@@ -52,7 +52,8 @@
 	</features>
 
 	<files>
-		<file name="raine_0.50.16_i386.deb">Binary (Debian)</file>
+		<file name="raine_0.51.0_i386.deb">Binary (Debian)</file>
+		<file name="raines-0.51.0-fixed.tar.bz2">Source</file>
 	</files>
 
 	<relatives>
