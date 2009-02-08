@@ -99,7 +99,8 @@ emus/linux/m1_linux	m1078a6-lnx.tar.bz2	2228243
 emus/linux/modeler_linux	Modeler093a.tar.bz2	1349737
 emus/linux/oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 emus/linux/pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-emus/linux/raine_linux	raine_0.50.16_i386.deb	1816060
+emus/linux/raine_linux	raine_0.51.0_i386.deb	1853314
+emus/linux/raine_linux	raines-0.51.0-fixed.tar.bz2	2036774
 emus/linux/replayplus_linux	rpbl100.zip	610712
 emus/linux/sega_c2_linux	c2emu_bin.tar.gz	163952
 emus/linux/sega_c2_linux	c2emu_src.tar.gz	786217
@@ -193,14 +194,14 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029701.zip	2737453
+emus/multi/finalburnalpha	fba_029702.zip	2835283
 emus/multi/finalburnalpha	fba_previews.zip	12573616
 emus/multi/finalburnalpha	fba_previews_dat.zip	5653
 emus/multi/finalburnalpha	fba_previews_update_029666.zip	96247
 emus/multi/finalburnalpha	fba_previews_update_029667.zip	301434
 emus/multi/finalburnalpha	fba_previews_update_029668.zip	73673
 emus/multi/finalburnalpha	fba_previews_update_029671.zip	218551
-emus/multi/finalburnalpha	fba_src_029701.zip	3317204
+emus/multi/finalburnalpha	fba_src_029702.zip	3139706
 emus/multi/finalburnalpha	fba_titles.zip	9039809
 emus/multi/finalburnalpha	fba_titles_dat.zip	6568
 emus/multi/finalburnalpha	fba_titles_update_029666.zip	97230
@@ -294,7 +295,7 @@ emus/multi/raine32	galdxg.dx2	1258178
 emus/multi/raine32	galdxm.dx2	1405671
 emus/multi/raine32	mspacmang.dx2	1458301
 emus/multi/raine32	pacmang.dx2	2104347
-emus/multi/raine32	rainew-0.50.16.zip	1988349
+emus/multi/raine32	rainew-0.51.0.zip	2024048
 emus/multi/replay	repd004.zip	1131826
 emus/multi/replay	replay.zip	18706
 emus/multi/replayplus	rpbd100.zip	899528
@@ -322,7 +323,7 @@ emus/multi/sage	sagesrc.zip	92638
 emus/multi/sega_system_24_emulator	s24emu-src.zip	46768
 emus/multi/sega_system_24_emulator	s24emu-win.zip	116641
 emus/multi/sega_system_c2	c2emu-091500-dos.zip	481534
-emus/multi/segamodel2emulator	m2emulator08a.zip	1633940
+emus/multi/segamodel2emulator	m2emulator09.zip	1672086
 emus/multi/shark	shark31f.zip	240853
 emus/multi/sideway	sideway.zip	203827
 emus/multi/siemu	siemu-1.03.tar.gz	215066
