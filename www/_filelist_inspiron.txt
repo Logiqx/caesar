@@ -303,14 +303,14 @@
 .\cutenews\data	CAESAR.tpl	1983
 .\cutenews\data	cat.num.php	1
 .\cutenews\data	category.db.php	60
-.\cutenews\data	comments.txt	0
+.\cutenews\data	comments.txt	15
 .\cutenews\data	config.php	1327
 .\cutenews\data	Default.tpl	2184
 .\cutenews\data	flood.db.php	0
 .\cutenews\data	Headlines.tpl	1632
 .\cutenews\data	index.html	117
 .\cutenews\data	ipban.db.php	0
-.\cutenews\data	news.txt	0
+.\cutenews\data	news.txt	279
 .\cutenews\data	postponed_news.txt	0
 .\cutenews\data	rss.tpl	564
 .\cutenews\data	rss_config.php	189
@@ -24986,7 +24986,7 @@
 .\txt\files	images.txt	199886
 .\txt\files	snaps.txt	807746
 .\txt\files	zips.txt	31263
-.\txt\games	nonmame.dat	342724
+.\txt\games	nonmame.dat	330854
 .\txt\games\amiga	ArcEm_v0.3.dat	2318
 .\txt\games\amiga	ArcEm_v0.3.txt	163
 .\txt\games\amiga	ASIE_v5-2001.dat	4030
@@ -25086,7 +25086,7 @@
 .\txt\games\linux	centsim_v0.2.dat	1161
 .\txt\games\linux	centsim_v0.2.txt	70
 .\txt\games\linux	M1_v0.7.8a6.dat	723963
-.\txt\games\linux	M1_v0.7.8a6.txt	46300
+.\txt\games\linux	M1_v0.7.8a6.txt	46297
 .\txt\games\linux	vecsim_v0.8.dat	9680
 .\txt\games\linux	vecsim_v0.8.txt	315
 .\txt\games\linux	Xcade_v0.85.dat	24141
@@ -25128,7 +25128,7 @@
 .\txt\games\multi	CAGE_v1.07.dat	32085
 .\txt\games\multi	CAGE_v1.07.txt	834
 .\txt\games\multi	Calice_v0.6.6.dat	737218
-.\txt\games\multi	Calice_v0.6.6.txt	11564
+.\txt\games\multi	Calice_v0.6.6.txt	11565
 .\txt\games\multi	Callus95_v0.42_patch_2.4.dat	223707
 .\txt\games\multi	Callus95_v0.42_patch_2.4.txt	3708
 .\txt\games\multi	Callus_v0.42.dat	142094
@@ -25157,8 +25157,8 @@
 .\txt\games\multi	EmuDX_v1.0.txt	158
 .\txt\games\multi	EMU_v2.3.dat	11152
 .\txt\games\multi	EMU_v2.3.txt	358
-.\txt\games\multi	FBA_v0.2.97.02.dat	4170904
-.\txt\games\multi	FBA_v0.2.97.02.txt	61001
+.\txt\games\multi	FBA_v0.2.97.04.dat	4260519
+.\txt\games\multi	FBA_v0.2.97.04.txt	62935
 .\txt\games\multi	Final_Burn_v0.518.dat	162703
 .\txt\games\multi	Final_Burn_v0.518.txt	1969
 .\txt\games\multi	GalEmu_v40.9.dat	39448
@@ -25195,7 +25195,7 @@
 .\txt\games\multi	M72_v0.33b.txt	363
 .\txt\games\multi	MageX_v0.8a.dat	55234
 .\txt\games\multi	MageX_v0.8a.txt	1018
-.\txt\games\multi	MAME_v0.129.dat	34212815
+.\txt\games\multi	MAME_v0.130.dat	37144979
 .\txt\games\multi	Mapefer3_v0.8b.dat	3714
 .\txt\games\multi	Mapefer3_v0.8b.txt	62
 .\txt\games\multi	MGE_v0.471.dat	4890
@@ -25213,9 +25213,9 @@
 .\txt\games\multi	Nebula_Model_2_v0.9b.dat	72043
 .\txt\games\multi	Nebula_Model_2_v0.9b.txt	946
 .\txt\games\multi	Nebula_v2.25b.dat	1085990
-.\txt\games\multi	Nebula_v2.25b.txt	15672
+.\txt\games\multi	Nebula_v2.25b.txt	15676
 .\txt\games\multi	NeoRAGEx_v0.6b.dat	239414
-.\txt\games\multi	NeoRAGEx_v0.6b.txt	4319
+.\txt\games\multi	NeoRAGEx_v0.6b.txt	4320
 .\txt\games\multi	OldSpark_C++_20071006.dat	25924
 .\txt\games\multi	OldSpark_C++_20071006.txt	660
 .\txt\games\multi	Pac_Saver_v1.00a.dat	440
@@ -25231,7 +25231,7 @@
 .\txt\games\multi	RAGE_v0.9.dat	43590
 .\txt\games\multi	RAGE_v0.9.txt	607
 .\txt\games\multi	RAINE_v0.51.0.dat	1597087
-.\txt\games\multi	RAINE_v0.51.0.txt	26232
+.\txt\games\multi	RAINE_v0.51.0.txt	26231
 .\txt\games\multi	Replay+_v1.00.dat	22606
 .\txt\games\multi	Replay+_v1.00.txt	521
 .\txt\games\multi	Replay_v0.04.dat	224071
@@ -25255,7 +25255,7 @@
 .\txt\games\multi	Sega_System_C2_Emulator_v0.2b.dat	12204
 .\txt\games\multi	Sega_System_C2_Emulator_v0.2b.txt	857
 .\txt\games\multi	Shark_v3.1f.dat	36264
-.\txt\games\multi	Shark_v3.1f.txt	729
+.\txt\games\multi	Shark_v3.1f.txt	730
 .\txt\games\multi	Sideway_v0.22a.dat	14564
 .\txt\games\multi	Sideway_v0.22a.txt	769
 .\txt\games\multi	SIEmu_v1.03.dat	1729
@@ -25297,7 +25297,7 @@
 .\txt\games\multi	Viva_Nonno_v22.0.3.dat	21144
 .\txt\games\multi	Viva_Nonno_v22.0.3.txt	220
 .\txt\games\multi	WinKawaks_v1.60.dat	1339437
-.\txt\games\multi	WinKawaks_v1.60.txt	20713
+.\txt\games\multi	WinKawaks_v1.60.txt	20721
 .\txt\games\multi	Winvader_v1.0.dat	5828
 .\txt\games\multi	Winvader_v1.0.txt	316
 .\txt\games\multi	xDragon_v0.30.dat	12974
@@ -25537,7 +25537,7 @@
 .\txt\games\single	TMNT_v0.7_beta.dat	1798
 .\txt\games\single	TMNT_v0.7_beta.txt	30
 .\txt\games\single	TNZS-EMU_v2.10b.dat	5171
-.\txt\games\single	TNZS-EMU_v2.10b.txt	103
+.\txt\games\single	TNZS-EMU_v2.10b.txt	104
 .\txt\games\single	Toki.dat	2508
 .\txt\games\single	Toki.txt	21
 .\txt\games\single	Tutankam_Emulator_v0.02b.dat	2408
@@ -25567,7 +25567,7 @@
 .\txt\games\sound	GXP_v0.1.dat	5040
 .\txt\games\sound	GXP_v0.1.txt	274
 .\txt\games\sound	Hoot_20011002.dat	110563
-.\txt\games\sound	Hoot_20011002.txt	8412
+.\txt\games\sound	Hoot_20011002.txt	8411
 .\txt\games\sound	MMSnd_v0.36b10.dat	43591
 .\txt\games\sound	MMSnd_v0.36b10.txt	3696
 .\txt\games\sound	Nebula_Jukebox_v2.9.dat	144754
@@ -25581,7 +25581,7 @@
 .\txt\games\sound	System_16_Sound_Player.dat	2357
 .\txt\games\sound	System_16_Sound_Player.txt	392
 .\txt\games\sound	tROMbone_v0.11.dat	30306
-.\txt\games\sound	tROMbone_v0.11.txt	3517
+.\txt\games\sound	tROMbone_v0.11.txt	3516
 .\txt\games\wince	aEmu_v1.1.dat	9307
 .\txt\games\wince	aEmu_v1.1.txt	584
 .\txt\games\wince	Arcade_PocketPak.dat	3680
@@ -25869,14 +25869,14 @@
 .\zips\emus\multi\finalburn	burn_0517.zip	327423
 .\zips\emus\multi\finalburn	fbn_0518.zip	173540
 .\zips\emus\multi\finalburnalpha	Brazilian_Portugese.flt	34083
-.\zips\emus\multi\finalburnalpha	fba_029702.zip	2835283
+.\zips\emus\multi\finalburnalpha	fba_029704.zip	2956474
 .\zips\emus\multi\finalburnalpha	fba_previews.zip	12573616
 .\zips\emus\multi\finalburnalpha	fba_previews_dat.zip	5653
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029666.zip	96247
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029667.zip	301434
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029668.zip	73673
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029671.zip	218551
-.\zips\emus\multi\finalburnalpha	fba_src_029702.zip	3139706
+.\zips\emus\multi\finalburnalpha	fba_src_029704.zip	3226772
 .\zips\emus\multi\finalburnalpha	fba_titles.zip	9039809
 .\zips\emus\multi\finalburnalpha	fba_titles_dat.zip	6568
 .\zips\emus\multi\finalburnalpha	fba_titles_update_029666.zip	97230
