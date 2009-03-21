@@ -161,7 +161,7 @@ breakrev,breakrev,m
 bstars,bstars,m
 bstars2,bstars2,m
 burningf,burningf,m
-burningh,burningh,m
+burningh,burningfh,m
 crsword,crsword,m
 ctomaday,ctomaday,m
 cyberlip,cyberlip,m
@@ -385,17 +385,17 @@ kof97a,kof97a,m
 kof98,kof98,m
 kof99,kof99,m
 kotmh,kotmh,m
-pbobblna,pbobblna,m
+pbobblna,pbobblena,m
 sf2uk,sf2uk,m
 sfar1,sfar1,m
 wh1ha,wh1ha,m
 aof2a,aof2a,m
 fatfursa,fatfursa,m
-fightfva,fightfva,m
+fightfva,fightfeva,m
 kof96h,kof96h,m
 kof97pls,kof97pls,m
 kof98k,kof98k,m
-tophunta,tophunta,m
+tophunta,tophuntra,m
 kof2001h,kof2001h,m
 2020bba,2020bba,m
 ddtodjr1,ddtodjr1,m
@@ -467,8 +467,8 @@ mslug5nd,mslug5nd,n
 pnyaa,pnyaa,m
 rbff2k,rbff2k,m
 samsh5nd,samsh5nd,n
-samsh5sh,samsh5sh,m
-samsh5sn,samsh5sn,m
+samsh5sh,samsh5sph,m
+samsh5sn,samsh5spn,m
 samsh5sp,samsh5sp,m
 samsho5,samsho5,m
 samsho5b,samsho5b,m
@@ -503,7 +503,7 @@ gwinga,gwinga,m
 hsf2,hsf2,m
 hsf2j,hsf2j,m
 jyangoku,jyangoku,m
-lastbldh,lastbldh,m
+lastbldh,lastbladh,m
 megamn2a,megamn2a,m
 mpangu,mpangu,m
 msh,msh,m
@@ -563,7 +563,7 @@ nitdbl,nitdbl,m
 nwarr,nwarr,m
 rmancp2j,rmancp2j,m
 sfa3,sfa3,m
-socbrala,socbrala,m
+socbrala,socbrawla,m
 wh1,wh1,m
 wh2j,wh2j,m
 xmcotaj,xmcotaj,m
@@ -588,4 +588,3 @@ samshoh,samshoh,m
 sf2rb3,sf2rb3,m
 sfa2,sfa2,m
 wofhfh,wofhfh,m
-

@@ -80,9 +80,9 @@ arkangc,arkangc,m
 arkangc2,arkangc2,m
 arkatayt,arkatayt,m
 arktayt2,arktayt2,m
-batridj,batrider,m
-batridk,batridrk,m
-batridja,batridra,m
+batridj,batridj,m
+batridk,batridk,m
+batridja,batridja,m
 armwara,armwara,m
 armwarr1,armwarr1,m
 armwar,armwar,m
@@ -108,8 +108,8 @@ bstars,bstars,m
 batsugun,batsugun,m
 batsugna,batsugna,m
 batugnsp,batugnsp,m
-bkraidj,bbakraid,m
-bkraiduj,bbakradu,m
+bkraidj,bkraidj,m
+bkraiduj,bkraiduj,m
 batcira,batcira,m
 batcir,batcir,m
 batcirj,batcirj,m
@@ -146,7 +146,7 @@ brix,brix,m
 bullet,bullet,m
 bullfgt,bullfgt,m
 burningf,burningf,m
-burningh,burningh,m
+burningh,burningfh,m
 buzzard,buzzard,m
 dino,dino,m
 dinou,dinou,m
@@ -298,7 +298,7 @@ fatfursp,fatfursp,m
 fatfursa,fatfursa,m
 feversos,feversos,m
 fightfev,fightfev,m
-fightfva,fightfva,m
+fightfva,fightfeva,m
 fswords,fswords,m
 finalbj,finalbj,m
 finalbu,finalbu,m
@@ -616,7 +616,7 @@ nprinces,nprinces,m
 nprincsb,nprincsb,m
 nprincso,nprincso,m
 nprincsu,nprincsu,m
-nobb,noboranb,m
+nobb,nobb,m
 ohmygod,ohmygod,m
 opwolfb,opwolfb,m
 ragnagrd,ragnagrd,m
@@ -697,7 +697,7 @@ pulstar,pulstar,m
 pzloop2j,pzloop2j,m
 pzloop2,pzloop2,m
 pbobblen,pbobblen,m
-pbobblna,pbobblna,m
+pbobblna,pbobblena,m
 pbobbl2n,pbobbl2n,m
 pzlbowl,pzlbowl,m
 puzzledp,puzzledp,m
@@ -774,8 +774,8 @@ samsho5b,samsho5b,m
 samsho5,samsho5,m
 samsho5h,samsho5h,m
 samsh5sp,samsh5sp,m
-samsh5sh,samsh5sh,m
-samsh5sn,samsh5sn,m
+samsh5sh,samsh5sph,m
+samsh5sn,samsh5spn,m
 wofa,wofa,m
 ssanchan,ssanchan,m
 slammast,slammast,m
@@ -829,7 +829,7 @@ snowbroc,snowbroc,m
 snowbro2,snowbro2,m
 snowbro3,snowbro3,m
 socbrawl,socbrawl,m
-socbrala,socbrala,m
+socbrala,socbrawla,m
 solomonj,solomonj,m
 solomon,solomon,m
 sonofphx,sonofphx,m
@@ -1066,7 +1066,7 @@ kf2k3pl,kf2k3pl,m
 kf2k3upl,kf2k3upl,m
 kof2k4se,kof2k4se,m
 lastblad,lastblad,m
-lastbldh,lastbldh,m
+lastbldh,lastbladh,m
 lastbld2,lastbld2,m
 lastsold,lastsold,m
 tnzs,tnzs,m
@@ -1089,7 +1089,7 @@ tigerh,tigerh,m
 timesca1,timesca1,m
 timescan,timescan,m
 tophuntr,tophuntr,m
-tophunta,tophunta,m
+tophunta,tophuntra,m
 tpgolf,tpgolf,m
 toppyrap,toppyrap,m
 toryumon,toryumon,m
@@ -1569,19 +1569,19 @@ aponow,aponow,m
 aquarium,aquarium,m
 armorca2,armorca2,m
 armorcar,armorcar,m
-armwar1d,armwar1d,n
+armwar1d,armwar1d,m
 atlantis,atlantis,m
 atlants2,atlants2,m
 azurian,azurian,m
 bagman,bagman,m
 bagmanmc,bagmanmc,m
 batman2,batman2,m
-batrid,batrid,n
-batridc,batridc,n
-batridu,batridu,n
+batrid,batrid,m
+batridc,batridc,m
+batridu,batridu,m
 bestri,bestri,m
 billiard,billiard,m
-bkraidu,bkraidu,n
+bkraidu,bkraidu,m
 blkhole,blkhole,m
 blueprnj,blueprnj,m
 blueprnt,blueprnt,m
@@ -1605,7 +1605,7 @@ darkseaj,darkseaj,m
 darkseal,darkseal,m
 devilfsg,devilfsg,m
 devilfsh,devilfsh,m
-dimahoud,dimahoud,n
+dimahoud,dimahoud,m
 dingo,dingo,m
 dkongjr,dkongjr,m
 dkongjrm,dkongjrm,m
@@ -1665,7 +1665,7 @@ luctoday,luctoday,m
 mariner,mariner,m
 mars,mars,m
 minefld,minefld,m
-mmatrixd,mmatrixd,n
+mmatrixd,mmatrixd,m
 moonal2,moonal2,m
 moonal2b,moonal2b,m
 moonaln,moonaln,m
@@ -1751,4 +1751,3 @@ warofbug,warofbug,m
 zerotime,zerotime,m
 zigzag,zigzag,m
 zigzag2,zigzag2,m
-
