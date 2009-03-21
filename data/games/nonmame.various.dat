@@ -3,6 +3,66 @@
 ################################################################################
 
 game (
+	name kov2p205
+	description "Knights of Valour 2 Plus - Nine Dragons (VM205XX)"
+	year 2002
+	manufacturer "IGS"
+	rom ( name u8-27322.rom size 4194304 crc 3a2cc0de )
+	rom ( name t1200.rom size 8388608 crc d7e26609 sha1 bdad810f82fcf1d50a8791bdc495374ec5a309c6 )
+	rom ( name a1200.rom size 8388608 crc ceeb81d8 sha1 5476729443fc1bc9593ae10fbf7cbc5d7290b017 )
+	rom ( name a1201.rom_p size 8388608 crc 21063ca7 sha1 cf561b44902425a920d5cbea5bf65dd9530b2289 )
+	rom ( name a1202.rom size 8388608 crc 4bb92fae sha1 f0b6d72ed425de1c69dc8f8d5795ea760a4a59b0 )
+	rom ( name a1203.rom size 8388608 crc e73cb627 sha1 4c6e48b845a5d1e8f9899010fbf273d54c2b8899 )
+	rom ( name a1204.rom_p size 2097152 crc 14b4b5bb sha1 d7db5740eec971f2782fb2885ee3af8f2a796550 )
+	rom ( name b1200.rom size 8388608 crc bed7d994 sha1 019dfba8154256d64cd249eb0fa4c451edce34b8 )
+	rom ( name b1201.rom size 8388608 crc f251eb57 sha1 56a5fc14ab7822f83379cecb26638e5bb266349a )
+	rom ( name m1200.rom size 8388608 crc b0d88720 sha1 44ab137e3f8e15b7cb5697ffbd9b1143d8210c4f )
+	rom ( name kov2p.asic size 16384 crc e0d7679f sha1 e1c2d127eba4ddbeb8ad173c55b90ac1467e1ca8 )
+	rom ( name v200-16.rom size 2097152 crc 16a0c11f sha1 ce449cef76ebd5657d49b57951e2eb0f132e203e )
+	rom ( name pgm_p01s.rom size 131072 crc e42b166e sha1 2a9df9ec746b14b74fae48b1a438da14973702ea )
+	rom ( name pgm_t01s.rom size 2097152 crc 1a7123a0 sha1 cc567f577bfbf45427b54d6695b11b74f2578af3 )
+	rom ( name pgm_m01s.rom size 2097152 crc 45ae7159 sha1 d3ed3ff3464557fd0df6b069b2e431528b0ebfa8 )
+)
+
+game (
+	name mspuzzlen
+	description "Miss Puzzle (Nudes)"
+	year 1994
+	manufacturer "Min Corp."
+	rom ( name u1.rom size 131072 flags nodump )
+	rom ( name u2.rom size 131072 flags nodump )
+	rom ( name u210.rom size 262144 crc 8826b018 )
+	rom ( name u512.bin size 262144 crc 505ee3c2 sha1 a719958c34d9c54445ad207bca1f49df3aff938b )
+	rom ( name u511.bin size 262144 crc 3d6b6c78 sha1 3016423102b4d47c0f1296471cf1670258acc856 )
+	rom ( name u421.rom size 524288 crc 3c567c55 )
+	rom ( name u425.rom size 524288 flags nodump )
+	rom ( name u420.rom size 524288 crc f52ab7fd )
+	rom ( name u426.rom size 524288 crc c28b2743 )
+)
+
+game (
+	name wofch
+	description "Tenchi wo Kurau II - Sekiheki no Tatakai (921031 CPS Changer)"
+	year 1992
+	manufacturer "Capcom"
+	rom ( name tk2(ch).23 size 524288 crc 4e0b8dee sha1 d2fb716d62b7a259f46bbc74c1976a18d56696ea )
+	rom ( name tk2(ch).22 size 524288 crc d0937a8d sha1 01d7be446e2e3ef8ca767f59c178240dfd52dd93 )
+	rom ( name tk2_gfx1.rom size 524288 crc 0d9cb9bf sha1 cc7140e9a01a14b252cb1090bcea32b0de461928 )
+	rom ( name tk2_gfx3.rom size 524288 crc 45227027 sha1 b21afc593f0d4d8909dfa621d659cbb40507d1b2 )
+	rom ( name tk2_gfx2.rom size 524288 crc c5ca2460 sha1 cbe14867f7b94b638ca80db7c8e0c60881183469 )
+	rom ( name tk2_gfx4.rom size 524288 crc e349551c sha1 1d977bdf256accf750ad9930ec4a0a19bbf86964 )
+	rom ( name tk205.bin size 524288 crc e4a44d53 sha1 b747679f4d63e5e62d9fd81b3120fba0401fadfb )
+	rom ( name tk206.bin size 524288 crc 58066ba8 sha1 c93af968e21094d020e4b2002e0c6fc0d746af0b )
+	rom ( name tk2(ch).06 size 524288 crc cc9006c9 sha1 cfcbec3a67052268a7739538aa28a6391fe5400e )
+	rom ( name tk208.bin size 524288 crc d4a19a02 sha1 ff396b1d33d9b4842140f2c6d085fe05748e3244 )
+	rom ( name tk2_qa.rom size 131072 crc c9183a0d sha1 d8b1d41c572f08581f8ab9eb878de77d6ea8615d )
+	rom ( name tk2_q1.rom size 524288 crc 611268cf sha1 83ab059f2110fb25fdcff928d56b790fc1f5c975 )
+	rom ( name tk2_q2.rom size 524288 crc 20f55ca9 sha1 90134e9a9c4749bb65c728b66ea4dac1fd4d88a4 )
+	rom ( name tk2_q3.rom size 524288 crc bfcf6f52 sha1 2a85ff3fc89b4cbabd20779ec12da2e116333c7c )
+	rom ( name tk2_q4.rom size 524288 crc 36642e88 sha1 8ab25b19e2b67215a5cb1f3aa81b9d26009cfeb8 )
+)
+
+game (
 	name dinoeh
 	description "Cadillacs and Dinosaurs (hack) [Hack]"
 	year 1993
@@ -454,7 +514,7 @@ game (
 )
 
 ###############################################################################
-# Nebula
+# Nebula + FBA
 ################################################################################
 
 game (
