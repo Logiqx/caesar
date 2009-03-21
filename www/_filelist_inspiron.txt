@@ -24666,7 +24666,7 @@
 .\txt\emus\linux	modeler_linux.txt	697
 .\txt\emus\linux	oldsparkcpplinux.txt	609
 .\txt\emus\linux	pacifi3d_linux.txt	1139
-.\txt\emus\linux	raine_linux.txt	1133
+.\txt\emus\linux	raine_linux.txt	1193
 .\txt\emus\linux	replayplus_linux.txt	940
 .\txt\emus\linux	sega_c2_linux.txt	799
 .\txt\emus\linux	side_linux.txt	943
@@ -24758,7 +24758,7 @@
 .\txt\emus\multi	phoenix.txt	543
 .\txt\emus\multi	pie.txt	905
 .\txt\emus\multi	rage.txt	745
-.\txt\emus\multi	raine32.txt	1596
+.\txt\emus\multi	raine32.txt	1593
 .\txt\emus\multi	replay.txt	918
 .\txt\emus\multi	replayplus.txt	1074
 .\txt\emus\multi	retrocade.txt	3191
@@ -24767,7 +24767,7 @@
 .\txt\emus\multi	rockulator_orig.txt	1178
 .\txt\emus\multi	s11emu.txt	866
 .\txt\emus\multi	sage.txt	581
-.\txt\emus\multi	segamodel2emulator.txt	823
+.\txt\emus\multi	segamodel2emulator.txt	821
 .\txt\emus\multi	sega_system_24_emulator.txt	930
 .\txt\emus\multi	sega_system_c2.txt	1131
 .\txt\emus\multi	shark.txt	867
@@ -24985,8 +24985,8 @@
 .\txt\emus\xbox	tecmo_arcade_classics_xbox.txt	761
 .\txt\files	images.txt	199886
 .\txt\files	snaps.txt	807746
-.\txt\files	zips.txt	31206
-.\txt\games	nonmame.dat	319814
+.\txt\files	zips.txt	31263
+.\txt\games	nonmame.dat	342724
 .\txt\games\amiga	ArcEm_v0.3.dat	2318
 .\txt\games\amiga	ArcEm_v0.3.txt	163
 .\txt\games\amiga	ASIE_v5-2001.dat	4030
@@ -25157,8 +25157,8 @@
 .\txt\games\multi	EmuDX_v1.0.txt	158
 .\txt\games\multi	EMU_v2.3.dat	11152
 .\txt\games\multi	EMU_v2.3.txt	358
-.\txt\games\multi	FBA_v0.2.97.01.dat	3879053
-.\txt\games\multi	FBA_v0.2.97.01.txt	53973
+.\txt\games\multi	FBA_v0.2.97.02.dat	4170904
+.\txt\games\multi	FBA_v0.2.97.02.txt	61001
 .\txt\games\multi	Final_Burn_v0.518.dat	162703
 .\txt\games\multi	Final_Burn_v0.518.txt	1969
 .\txt\games\multi	GalEmu_v40.9.dat	39448
@@ -25230,8 +25230,8 @@
 .\txt\games\multi	PIE_v1.12.txt	90
 .\txt\games\multi	RAGE_v0.9.dat	43590
 .\txt\games\multi	RAGE_v0.9.txt	607
-.\txt\games\multi	RAINE_v0.50.15.dat	1110421
-.\txt\games\multi	RAINE_v0.50.15.txt	20174
+.\txt\games\multi	RAINE_v0.51.0.dat	1597087
+.\txt\games\multi	RAINE_v0.51.0.txt	26232
 .\txt\games\multi	Replay+_v1.00.dat	22606
 .\txt\games\multi	Replay+_v1.00.txt	521
 .\txt\games\multi	Replay_v0.04.dat	224071
@@ -25248,8 +25248,8 @@
 .\txt\games\multi	S11Emu_v0.2.txt	263
 .\txt\games\multi	SAGE_v1.16.dat	32098
 .\txt\games\multi	SAGE_v1.16.txt	855
-.\txt\games\multi	SEGA_Model_2_Emulator_v0.7.dat	154381
-.\txt\games\multi	SEGA_Model_2_Emulator_v0.7.txt	1954
+.\txt\games\multi	SEGA_Model_2_Emulator_v0.9.dat	212692
+.\txt\games\multi	SEGA_Model_2_Emulator_v0.9.txt	2453
 .\txt\games\multi	Sega_System_24_Emulator_20030208.dat	5927
 .\txt\games\multi	Sega_System_24_Emulator_20030208.txt	304
 .\txt\games\multi	Sega_System_C2_Emulator_v0.2b.dat	12204
@@ -25672,7 +25672,7 @@
 .\upload\CVS	Repository	36
 .\upload\CVS	Root	25
 .\zips	_filelist_pc.bat	329
-.\zips	_filelist_pc.txt	31206
+.\zips	_filelist_pc.txt	31263
 .\zips\emus\amiga\amame	Amame.lha	333436
 .\zips\emus\amiga\arcem	arcem03.lha	28020
 .\zips\emus\amiga\asie	ASIE31.lha	124579
@@ -25774,7 +25774,8 @@
 .\zips\emus\linux\modeler_linux	Modeler093a.tar.bz2	1349737
 .\zips\emus\linux\oldsparkcpplinux	OldSpark-C++20070812Linux-bin.zip	120940
 .\zips\emus\linux\pacifi3d_linux	pacifi3d0.3-linux-i386.tgz	103162
-.\zips\emus\linux\raine_linux	raine_0.50.16_i386.deb	1816060
+.\zips\emus\linux\raine_linux	raines-0.51.0-fixed.tar.bz2	2036774
+.\zips\emus\linux\raine_linux	raine_0.51.0_i386.deb	1853314
 .\zips\emus\linux\replayplus_linux	rpbl100.zip	610712
 .\zips\emus\linux\sega_c2_linux	c2emu_bin.tar.gz	163952
 .\zips\emus\linux\sega_c2_linux	c2emu_src.tar.gz	786217
@@ -25868,14 +25869,14 @@
 .\zips\emus\multi\finalburn	burn_0517.zip	327423
 .\zips\emus\multi\finalburn	fbn_0518.zip	173540
 .\zips\emus\multi\finalburnalpha	Brazilian_Portugese.flt	34083
-.\zips\emus\multi\finalburnalpha	fba_029701.zip	2737453
+.\zips\emus\multi\finalburnalpha	fba_029702.zip	2835283
 .\zips\emus\multi\finalburnalpha	fba_previews.zip	12573616
 .\zips\emus\multi\finalburnalpha	fba_previews_dat.zip	5653
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029666.zip	96247
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029667.zip	301434
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029668.zip	73673
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029671.zip	218551
-.\zips\emus\multi\finalburnalpha	fba_src_029701.zip	3317204
+.\zips\emus\multi\finalburnalpha	fba_src_029702.zip	3139706
 .\zips\emus\multi\finalburnalpha	fba_titles.zip	9039809
 .\zips\emus\multi\finalburnalpha	fba_titles_dat.zip	6568
 .\zips\emus\multi\finalburnalpha	fba_titles_update_029666.zip	97230
@@ -25969,7 +25970,7 @@
 .\zips\emus\multi\raine32	galdxm.dx2	1405671
 .\zips\emus\multi\raine32	mspacmang.dx2	1458301
 .\zips\emus\multi\raine32	pacmang.dx2	2104347
-.\zips\emus\multi\raine32	rainew-0.50.16.zip	1988349
+.\zips\emus\multi\raine32	rainew-0.51.0.zip	2024048
 .\zips\emus\multi\replay	repd004.zip	1131826
 .\zips\emus\multi\replay	replay.zip	18706
 .\zips\emus\multi\replayplus	rpbd100.zip	899528
@@ -25994,7 +25995,7 @@
 .\zips\emus\multi\s11emu	s11op02.zip	71253
 .\zips\emus\multi\sage	sage1_16.zip	387210
 .\zips\emus\multi\sage	sagesrc.zip	92638
-.\zips\emus\multi\segamodel2emulator	m2emulator08a.zip	1633940
+.\zips\emus\multi\segamodel2emulator	m2emulator09.zip	1672086
 .\zips\emus\multi\sega_system_24_emulator	s24emu-src.zip	46768
 .\zips\emus\multi\sega_system_24_emulator	s24emu-win.zip	116641
 .\zips\emus\multi\sega_system_c2	c2emu-091500-dos.zip	481534
