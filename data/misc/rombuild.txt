@@ -342,6 +342,8 @@ Calice_v0.6.6	breakrev	brev_c6.rom	2097152	23c65644
 Calice_v0.6.6	gururin	gurin_m1.rom	65536	833cdf1b
 Calice_v0.6.6	mahretsu	maj_m1.rom	65536	37965a73
 Calice_v0.6.6	mahretsu	maj_s1.rom	65536	b0d16529
+Calice_v0.6.6	cyberlip	cybl_m1.rom	65536	47980d3a
+Calice_v0.6.6	maglord	magl_m1.rom	65536	91ee1f73
 Callus_v0.42	1941j	4109.bin	131072	be1b6bc2
 Callus_v0.42	1941j	4113.bin	131072	2e06d0ec
 Callus_v0.42	1941j	4124.bin	131072	5aa43cee
@@ -473,6 +475,7 @@ Kung_Fu_Master_v0.0000001a	kungfub	kf11	16384	85591db2
 Kung_Fu_Master_v0.0000001a	kungfub	kf10	16384	dc675003
 M1_v0.7.8a6	gururin	067-m1.bin	65536	833cdf1b
 M1_v0.7.8a6	mahretsu	004-m1.bin	65536	37965a73
+M1_v0.7.8a6	cyberlip	010-m1.bin	65536	47980d3a
 M72_v0.33b	nspirit	nin-b0.rom	131072	fe629815
 M72_v0.33b	nspirit	nin-b1.rom	131072	667966af
 M72_v0.33b	nspirit	nin-b2.rom	131072	3e922f9b
@@ -507,13 +510,19 @@ Nebula_v2.25b	breakrev	245-c6.bin	2097152	23c65644
 Nebula_v2.25b	gururin	067-m1.bin	65536	833cdf1b
 Nebula_v2.25b	mahretsu	004-m1.bin	65536	37965a73
 Nebula_v2.25b	mahretsu	004-s1.bin	65536	b0d16529
+Nebula_v2.25b	cyberlip	010-m1.bin	65536	47980d3a
+Nebula_v2.25b	maglord	005-m1.bin	65536	91ee1f73
 Nebula_Jukebox_v2.9	von2	srom2.u23	2097152	89f21281
 Nebula_Jukebox_v2.9	von2	srom4.u25	2097152	b7c1bebf
 Nebula_Jukebox_v2.9	sonicwi2	075-v2.bin	524288	6d0a728e
 Nebula_Jukebox_v2.9	gururin	067-m1.bin	65536	833cdf1b
 Nebula_Jukebox_v2.9	mahretsu	004-m1.bin	65536	37965a73
+Nebula_Jukebox_v2.9	cyberlip	010-m1.bin	65536	47980d3a
+Nebula_Jukebox_v2.9	maglord	005-m1.bin	65536	91ee1f73
 NeoJukeBox_v2.7	gururin	067_m1.rom	65536	833cdf1b
 NeoJukeBox_v2.7	mahretsu	004_m1.rom	65536	37965a73
+NeoJukeBox_v2.7	cyberlip	010_m1.rom	65536	47980d3a
+NeoJukeBox_v2.7	maglord	005_m1.rom	65536	91ee1f73
 NeoRAGEx_v0.6b	sengoku2	n138001c.1f8	524288	6650bc9a
 NeoRAGEx_v0.6b	sengoku2	n138001c.1fc	524288	c6358d62
 NeoRAGEx_v0.6b	sengoku2	n138001a.1f8	524288	e6e9d82f
@@ -1372,6 +1381,8 @@ NeoRAGEx_v0.6b	breakrev	brev_c6.rom	2097152	23c65644
 NeoRAGEx_v0.6b	gururin	gurin_m1.rom	65536	833cdf1b
 NeoRAGEx_v0.6b	mahretsu	maj_m1.rom	65536	37965a73
 NeoRAGEx_v0.6b	mahretsu	maj_s1.rom	65536	b0d16529
+NeoRAGEx_v0.6b	cyberlip	cybl_m1.rom	65536	47980d3a
+NeoRAGEx_v0.6b	maglord	magl_m1.rom	65536	91ee1f73
 Pac_Saver_v1.00a	pacman	pacman.rom	24576	98f58bfc
 Pac_Saver_v1.00a	mspacman	mspacman.rom	40960	b1062fe0
 Pac-X_v0.2	pacmanjp	prg1	2048	f36e88ab
@@ -1499,6 +1510,7 @@ RCPS	turfmast	turfm_c2.rom	4194304	596cc256
 RCPS	wjammers	windj_p1.rom	524288	e81e7a31
 RCPS	wjammers	windj_v4.rom	524288	3740edde
 RCPS	sonicwi2	afig2_v2.rom	524288	6d0a728e
+RCPS	maglord	magl_m1.rom	65536	91ee1f73
 Replay_v0.04	sonson	ss7.v12	16384	32b14b8e
 Replay_v0.04	sonson	ss8.v12	16384	9f59014e
 Replay_v0.04	sonson	ss9.v12	16384	517fa26d

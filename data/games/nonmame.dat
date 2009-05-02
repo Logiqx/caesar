@@ -1741,28 +1741,6 @@ game (
 ################################################################################
 
 game (
-	name kov2p205
-	description "Knights of Valour 2 Plus - Nine Dragons (VM205XX)"
-	year 2002
-	manufacturer "IGS"
-	rom ( name u8-27322.rom size 4194304 crc 3a2cc0de )
-	rom ( name t1200.rom size 8388608 crc d7e26609 sha1 bdad810f82fcf1d50a8791bdc495374ec5a309c6 )
-	rom ( name a1200.rom size 8388608 crc ceeb81d8 sha1 5476729443fc1bc9593ae10fbf7cbc5d7290b017 )
-	rom ( name a1201.rom_p size 8388608 crc 21063ca7 sha1 cf561b44902425a920d5cbea5bf65dd9530b2289 )
-	rom ( name a1202.rom size 8388608 crc 4bb92fae sha1 f0b6d72ed425de1c69dc8f8d5795ea760a4a59b0 )
-	rom ( name a1203.rom size 8388608 crc e73cb627 sha1 4c6e48b845a5d1e8f9899010fbf273d54c2b8899 )
-	rom ( name a1204.rom_p size 2097152 crc 14b4b5bb sha1 d7db5740eec971f2782fb2885ee3af8f2a796550 )
-	rom ( name b1200.rom size 8388608 crc bed7d994 sha1 019dfba8154256d64cd249eb0fa4c451edce34b8 )
-	rom ( name b1201.rom size 8388608 crc f251eb57 sha1 56a5fc14ab7822f83379cecb26638e5bb266349a )
-	rom ( name m1200.rom size 8388608 crc b0d88720 sha1 44ab137e3f8e15b7cb5697ffbd9b1143d8210c4f )
-	rom ( name kov2p.asic size 16384 crc e0d7679f sha1 e1c2d127eba4ddbeb8ad173c55b90ac1467e1ca8 )
-	rom ( name v200-16.rom size 2097152 crc 16a0c11f sha1 ce449cef76ebd5657d49b57951e2eb0f132e203e )
-	rom ( name pgm_p01s.rom size 131072 crc e42b166e sha1 2a9df9ec746b14b74fae48b1a438da14973702ea )
-	rom ( name pgm_t01s.rom size 2097152 crc 1a7123a0 sha1 cc567f577bfbf45427b54d6695b11b74f2578af3 )
-	rom ( name pgm_m01s.rom size 2097152 crc 45ae7159 sha1 d3ed3ff3464557fd0df6b069b2e431528b0ebfa8 )
-)
-
-game (
 	name mspuzzlen
 	description "Miss Puzzle (Nudes)"
 	year 1994
@@ -2249,35 +2227,6 @@ game (
 	dipswitch ( name "Free Play" entry "Off" default "Off" entry "On" )
 	dipswitch ( name "Freeze" entry "Off" default "Off" entry "On" )
 	driver ( status good emulation good color good sound good graphic good savestate unsupported palettesize 0 )
-)
-
-###############################################################################
-# Nebula + FBA
-################################################################################
-
-game (
-	name martmasc
-	description "Martial Masters (China)"
-	year 2001
-	manufacturer "IGS"
-	cloneof martmast
-	romof martmast
-	rom ( name pgm_bios.rom merge pgm_bios.rom size 131072 crc e42b166e sha1 2a9df9ec746b14b74fae48b1a438da14973702ea )
-	rom ( name v104_32m.u9 merge v104_32m.u9 size 4194304 crc cfd9dff4 sha1 328eaf6ac49a73265ee4e0f992b1b1312f49877b )
-	rom ( name v102_16m.u10 merge v102_16m.u10 size 2097152 crc 18b745e6 sha1 7bcb58dd3a2d6072f492cf0dd7181cb061c1f49d )
-	rom ( name mmaster.rom size 16384 crc b3e25b7d sha1 6147d7ee2e11636521df1bb96ed5da8ad21b2a57 )
-	rom ( name pgm_m01s.rom merge pgm_m01s.rom size 2097152 crc 45ae7159 sha1 d3ed3ff3464557fd0df6b069b2e431528b0ebfa8 )
-	rom ( name m1000.u5 merge m1000.u5 size 8388608 crc ed407ae8 sha1 a6e9c09b39c13e8fb7fbc89fa9f823cbeb66e901 )
-	rom ( name m1001.u7 merge m1001.u7 size 4194304 crc 662d2d48 sha1 2fcc3099d9c04456cae3b13035fb28eaf709e7d8 )
-	rom ( name pgm_t01s.rom merge pgm_t01s.rom size 2097152 crc 1a7123a0 sha1 cc567f577bfbf45427b54d6695b11b74f2578af3 )
-	rom ( name t1000.u3 merge t1000.u3 size 8388608 crc bbf879b5 sha1 bd9a6aea34ad4001e89e62ff4b7a2292eb833c00 )
-	rom ( name b1000.u9 merge b1000.u9 size 8388608 crc c5961f6f sha1 a68060b10edbd084cbde79d2ed1c9084777beb10 )
-	rom ( name b1001.u11 merge b1001.u11 size 8388608 crc 0b7e1c06 sha1 545e15e0087f8621d593fecd8b4013f7ca311686 )
-	rom ( name a1000.u3 merge a1000.u3 size 8388608 crc 43577ac8 sha1 6eea8b455985d5bac74dcc9943cdc3c0902de6cc )
-	rom ( name a1001.u4 merge a1001.u4 size 8388608 crc fe7a476f sha1 a8c7f1f0dd3e53141aed6d927eb88a3ceebb81e4 )
-	rom ( name a1002.u6 merge a1002.u6 size 8388608 crc 62e33d38 sha1 96163d583e25073594f8413ce263e56b66bd69a1 )
-	rom ( name a1003.u8 merge a1003.u8 size 8388608 crc b2c4945a sha1 7b18287a2db56db3651cfd4deb607af53522fefd )
-	rom ( name a1004.u10 merge a1004.u10 size 4194304 crc 9fd3f5fd sha1 057531f91062be51589c6cf8f4170089b9be6380 )
 )
 
 ###############################################################################
