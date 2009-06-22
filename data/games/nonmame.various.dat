@@ -498,8 +498,8 @@ game (
 // CRC information from http://www.ionpool.net/arcade/atari/roms.html
 
 game (
-	name aliensa
-	description "Aliens"
+	name alienst
+	description "Aliens (Tempest Prototype)"
 	year 1981
 	manufacturer "Atari"
 	cloneof tempest

@@ -194,14 +194,14 @@ emus/multi/finalburn	burn_0517.zip	327423
 emus/multi/finalburn	burner_0517.zip	118607
 emus/multi/finalburn	fbn_0518.zip	173540
 emus/multi/finalburnalpha	Brazilian_Portugese.flt	34083
-emus/multi/finalburnalpha	fba_029704.zip	2956474
+emus/multi/finalburnalpha	fba_029705.zip	2709340
 emus/multi/finalburnalpha	fba_previews.zip	12573616
 emus/multi/finalburnalpha	fba_previews_dat.zip	5653
 emus/multi/finalburnalpha	fba_previews_update_029666.zip	96247
 emus/multi/finalburnalpha	fba_previews_update_029667.zip	301434
 emus/multi/finalburnalpha	fba_previews_update_029668.zip	73673
 emus/multi/finalburnalpha	fba_previews_update_029671.zip	218551
-emus/multi/finalburnalpha	fba_src_029704.zip	3226772
+emus/multi/finalburnalpha	fba_src_029705.zip	3395718
 emus/multi/finalburnalpha	fba_titles.zip	9039809
 emus/multi/finalburnalpha	fba_titles_dat.zip	6568
 emus/multi/finalburnalpha	fba_titles_update_029666.zip	97230
