@@ -24986,7 +24986,7 @@
 .\txt\files	images.txt	199886
 .\txt\files	snaps.txt	807746
 .\txt\files	zips.txt	31263
-.\txt\games	nonmame.dat	330854
+.\txt\games	nonmame.dat	326840
 .\txt\games\amiga	ArcEm_v0.3.dat	2318
 .\txt\games\amiga	ArcEm_v0.3.txt	163
 .\txt\games\amiga	ASIE_v5-2001.dat	4030
@@ -25026,7 +25026,7 @@
 .\txt\games\commercial	QBert_Classic_Mode.dat	82
 .\txt\games\commercial	QBert_Classic_Mode.txt	35
 .\txt\games\commercial	Taito_Legends.dat	2906
-.\txt\games\commercial	Taito_Legends.txt	1058
+.\txt\games\commercial	Taito_Legends.txt	1059
 .\txt\games\commercial	Ultracade_-_Capcom_Classics_1.dat	797
 .\txt\games\commercial	Ultracade_-_Capcom_Classics_1.txt	387
 .\txt\games\commercial	Ultracade_-_Capcom_Classics_2.dat	797
@@ -25040,7 +25040,7 @@
 .\txt\games\commercial	Ultracade_-_Taito_Classics_1.dat	927
 .\txt\games\commercial	Ultracade_-_Taito_Classics_1.txt	388
 .\txt\games\commercial	Ultracade_-_Taito_Classics_2.dat	915
-.\txt\games\commercial	Ultracade_-_Taito_Classics_2.txt	385
+.\txt\games\commercial	Ultracade_-_Taito_Classics_2.txt	386
 .\txt\games\commercial	Ultracade_-_Toaplan_Classics_1.dat	697
 .\txt\games\commercial	Ultracade_-_Toaplan_Classics_1.txt	317
 .\txt\games\commercial	Williams_Arcade_Classics.dat	598
@@ -25086,7 +25086,7 @@
 .\txt\games\linux	centsim_v0.2.dat	1161
 .\txt\games\linux	centsim_v0.2.txt	70
 .\txt\games\linux	M1_v0.7.8a6.dat	723963
-.\txt\games\linux	M1_v0.7.8a6.txt	46297
+.\txt\games\linux	M1_v0.7.8a6.txt	46300
 .\txt\games\linux	vecsim_v0.8.dat	9680
 .\txt\games\linux	vecsim_v0.8.txt	315
 .\txt\games\linux	Xcade_v0.85.dat	24141
@@ -25157,8 +25157,8 @@
 .\txt\games\multi	EmuDX_v1.0.txt	158
 .\txt\games\multi	EMU_v2.3.dat	11152
 .\txt\games\multi	EMU_v2.3.txt	358
-.\txt\games\multi	FBA_v0.2.97.04.dat	4260519
-.\txt\games\multi	FBA_v0.2.97.04.txt	62935
+.\txt\games\multi	FBA_v0.2.97.05.dat	4773094
+.\txt\games\multi	FBA_v0.2.97.05.txt	64091
 .\txt\games\multi	Final_Burn_v0.518.dat	162703
 .\txt\games\multi	Final_Burn_v0.518.txt	1969
 .\txt\games\multi	GalEmu_v40.9.dat	39448
@@ -25195,7 +25195,7 @@
 .\txt\games\multi	M72_v0.33b.txt	363
 .\txt\games\multi	MageX_v0.8a.dat	55234
 .\txt\games\multi	MageX_v0.8a.txt	1018
-.\txt\games\multi	MAME_v0.130.dat	37144979
+.\txt\games\multi	MAME_v0.131.dat	37712188
 .\txt\games\multi	Mapefer3_v0.8b.dat	3714
 .\txt\games\multi	Mapefer3_v0.8b.txt	62
 .\txt\games\multi	MGE_v0.471.dat	4890
@@ -25231,7 +25231,7 @@
 .\txt\games\multi	RAGE_v0.9.dat	43590
 .\txt\games\multi	RAGE_v0.9.txt	607
 .\txt\games\multi	RAINE_v0.51.0.dat	1597087
-.\txt\games\multi	RAINE_v0.51.0.txt	26231
+.\txt\games\multi	RAINE_v0.51.0.txt	26237
 .\txt\games\multi	Replay+_v1.00.dat	22606
 .\txt\games\multi	Replay+_v1.00.txt	521
 .\txt\games\multi	Replay_v0.04.dat	224071
@@ -25275,7 +25275,7 @@
 .\txt\games\multi	System_16_v0.82a.dat	97280
 .\txt\games\multi	System_16_v0.82a.txt	1207
 .\txt\games\multi	System_8_v0.61b.dat	2918
-.\txt\games\multi	System_8_v0.61b.txt	76
+.\txt\games\multi	System_8_v0.61b.txt	77
 .\txt\games\multi	The_Arcade_Machine.dat	1811
 .\txt\games\multi	The_Arcade_Machine.txt	75
 .\txt\games\multi	Tickle_Rebound_Edition.dat	38551
@@ -25307,7 +25307,7 @@
 .\txt\games\multi	YAAME_v0.3.dat	25889
 .\txt\games\multi	YAAME_v0.3.txt	684
 .\txt\games\multi	ZEM_v0.001.dat	4081
-.\txt\games\multi	ZEM_v0.001.txt	96
+.\txt\games\multi	ZEM_v0.001.txt	97
 .\txt\games\multi	ZiNc_v1.1.dat	94461
 .\txt\games\multi	Zinc_v1.1.txt	2145
 .\txt\games\multi2	Sparcade_v2.25_-_v2.33b.dat	5261
@@ -25389,7 +25389,7 @@
 .\txt\games\single	Centipede_Emulator_v0.2.dat	902
 .\txt\games\single	Centipede_Emulator_v0.2.txt	46
 .\txt\games\single	ChopSuey_v0.3333.dat	1714
-.\txt\games\single	ChopSuey_v0.3333.txt	37
+.\txt\games\single	ChopSuey_v0.3333.txt	39
 .\txt\games\single	City_Connection_Emulator_v2.4.dat	1690
 .\txt\games\single	City_Connection_Emulator_v2.4.txt	50
 .\txt\games\single	Cloak_and_Dag-ulator_v0.60.dat	2102
@@ -25567,9 +25567,9 @@
 .\txt\games\sound	GXP_v0.1.dat	5040
 .\txt\games\sound	GXP_v0.1.txt	274
 .\txt\games\sound	Hoot_20011002.dat	110563
-.\txt\games\sound	Hoot_20011002.txt	8411
+.\txt\games\sound	Hoot_20011002.txt	8413
 .\txt\games\sound	MMSnd_v0.36b10.dat	43591
-.\txt\games\sound	MMSnd_v0.36b10.txt	3696
+.\txt\games\sound	MMSnd_v0.36b10.txt	3698
 .\txt\games\sound	Nebula_Jukebox_v2.9.dat	144754
 .\txt\games\sound	Nebula_Jukebox_v2.9.txt	9671
 .\txt\games\sound	NeoJukeBox_v2.7.dat	101212
@@ -25634,7 +25634,7 @@
 .\txt\misc	history.txt	13625046
 .\txt\misc	mameinfo.txt	13119412
 .\txt\misc	manufacturers.txt	824
-.\txt\misc	rombuild.txt	87644
+.\txt\misc	rombuild.txt	88250
 .\txt\tools	assemblers.txt	180
 .\txt\tools	compilers.txt	588
 .\txt\tools	gfx_libs.txt	395
@@ -25869,14 +25869,14 @@
 .\zips\emus\multi\finalburn	burn_0517.zip	327423
 .\zips\emus\multi\finalburn	fbn_0518.zip	173540
 .\zips\emus\multi\finalburnalpha	Brazilian_Portugese.flt	34083
-.\zips\emus\multi\finalburnalpha	fba_029704.zip	2956474
+.\zips\emus\multi\finalburnalpha	fba_029705.zip	2709340
 .\zips\emus\multi\finalburnalpha	fba_previews.zip	12573616
 .\zips\emus\multi\finalburnalpha	fba_previews_dat.zip	5653
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029666.zip	96247
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029667.zip	301434
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029668.zip	73673
 .\zips\emus\multi\finalburnalpha	fba_previews_update_029671.zip	218551
-.\zips\emus\multi\finalburnalpha	fba_src_029704.zip	3226772
+.\zips\emus\multi\finalburnalpha	fba_src_029705.zip	3395718
 .\zips\emus\multi\finalburnalpha	fba_titles.zip	9039809
 .\zips\emus\multi\finalburnalpha	fba_titles_dat.zip	6568
 .\zips\emus\multi\finalburnalpha	fba_titles_update_029666.zip	97230
