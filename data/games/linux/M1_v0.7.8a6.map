@@ -523,7 +523,6 @@ shippumd,shippumd,m
 matchit2,matchit2,m
 shocktro,shocktro,m
 shocktr2,shocktr2,m
-shtngmst,shtngmstu,m
 shufshot,sshot139,m
 sidepckt,sidepckt,m
 silentd,silentd,m
@@ -1411,7 +1410,7 @@ swcourt,swcourt,m
 sws2000,sws2000,m
 tazmania,tazmania,m
 tdragon2,tdragon2,m
-terabrst,terabrst,m
+terabrst,terabrsta,m
 timetunl,timetunl,m
 tinklpit,tinklpit,m
 tinstar,tinstar,m
@@ -1452,3 +1451,4 @@ g_jim2,g_jim2,n
 g_ma96,g_ma96,n
 g_scob,g_scob,n
 g_ootw,g_ootw,n
+shtngmst,shtngmst,m

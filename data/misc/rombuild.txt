@@ -344,6 +344,7 @@ Calice_v0.6.6	mahretsu	maj_m1.rom	65536	37965a73
 Calice_v0.6.6	mahretsu	maj_s1.rom	65536	b0d16529
 Calice_v0.6.6	cyberlip	cybl_m1.rom	65536	47980d3a
 Calice_v0.6.6	maglord	magl_m1.rom	65536	91ee1f73
+Calice_v0.6.6	minasan	027-m1.bin	131072	add5a226
 Callus_v0.42	1941j	4109.bin	131072	be1b6bc2
 Callus_v0.42	1941j	4113.bin	131072	2e06d0ec
 Callus_v0.42	1941j	4124.bin	131072	5aa43cee
@@ -466,6 +467,7 @@ Juno_First_v1.23	rtype	cpu-01.bin	65536	b28d1a60
 Juno_First_v1.23	rtype	cpu-11.bin	65536	bb182f1a
 Juno_First_v1.23	rtype	cpu-21.bin	65536	5b41f5f3
 Juno_First_v1.23	rtype	cpu-31.bin	65536	2bec510a
+WinKawaks_v1.60	minasan	027-m1.bin	131072	add5a226
 KEM_v1.1	dotron	loc-cpu4	16384	0477e9a2
 Kung_Fu_Master_v0.0000001a	kungfub	kf9	16384	05fcce8b
 Kung_Fu_Master_v0.0000001a	kungfub	kf14	16384	1df11d81
@@ -476,6 +478,7 @@ Kung_Fu_Master_v0.0000001a	kungfub	kf10	16384	dc675003
 M1_v0.7.8a6	gururin	067-m1.bin	65536	833cdf1b
 M1_v0.7.8a6	mahretsu	004-m1.bin	65536	37965a73
 M1_v0.7.8a6	cyberlip	010-m1.bin	65536	47980d3a
+M1_v0.7.8a6	minasan	027-m1.bin	131072	add5a226
 M72_v0.33b	nspirit	nin-b0.rom	131072	fe629815
 M72_v0.33b	nspirit	nin-b1.rom	131072	667966af
 M72_v0.33b	nspirit	nin-b2.rom	131072	3e922f9b
@@ -512,6 +515,7 @@ Nebula_v2.25b	mahretsu	004-m1.bin	65536	37965a73
 Nebula_v2.25b	mahretsu	004-s1.bin	65536	b0d16529
 Nebula_v2.25b	cyberlip	010-m1.bin	65536	47980d3a
 Nebula_v2.25b	maglord	005-m1.bin	65536	91ee1f73
+Nebula_v2.25b	minasan	027-m1.bin	131072	add5a226
 Nebula_Jukebox_v2.9	von2	srom2.u23	2097152	89f21281
 Nebula_Jukebox_v2.9	von2	srom4.u25	2097152	b7c1bebf
 Nebula_Jukebox_v2.9	sonicwi2	075-v2.bin	524288	6d0a728e
@@ -519,10 +523,12 @@ Nebula_Jukebox_v2.9	gururin	067-m1.bin	65536	833cdf1b
 Nebula_Jukebox_v2.9	mahretsu	004-m1.bin	65536	37965a73
 Nebula_Jukebox_v2.9	cyberlip	010-m1.bin	65536	47980d3a
 Nebula_Jukebox_v2.9	maglord	005-m1.bin	65536	91ee1f73
+Nebula_Jukebox_v2.9	minasan	027-m1.bin	131072	add5a226
 NeoJukeBox_v2.7	gururin	067_m1.rom	65536	833cdf1b
 NeoJukeBox_v2.7	mahretsu	004_m1.rom	65536	37965a73
 NeoJukeBox_v2.7	cyberlip	010_m1.rom	65536	47980d3a
 NeoJukeBox_v2.7	maglord	005_m1.rom	65536	91ee1f73
+NeoJukeBox_v2.7	minasan	027_m1.rom	131072	add5a226
 NeoRAGEx_v0.6b	sengoku2	n138001c.1f8	524288	6650bc9a
 NeoRAGEx_v0.6b	sengoku2	n138001c.1fc	524288	c6358d62
 NeoRAGEx_v0.6b	sengoku2	n138001a.1f8	524288	e6e9d82f
@@ -1449,6 +1455,7 @@ RAGE_v0.9	rtypeus	cpu-21.bin	65536	5b41f5f3
 RAGE_v0.9	rtypeus	cpu-31.bin	65536	2bec510a
 RAGE_v0.9	rtypejp	db_d3.bin	65536	b28d1a60
 RAGE_v0.9	rtypejp	db_a3.bin	65536	2bec510a
+RAINE_v0.51.0	hachamf	hmf_04.rom	524288	05a624e3
 RCPS	aof3	aof3_c1.rom	4194304	f6c74731
 RCPS	aof3	aof3_c2.rom	4194304	f587f149
 RCPS	aof3	aof3_c3.rom	4194304	7749f5e6

@@ -4402,38 +4402,6 @@ game (
 )
 
 game (
-	name cobra
-	description "Cobra Command (Dedicated)"
-	year 1984
-	manufacturer "Data East (USA)"
-	rom ( name au03-2 size 8192 crc 8f0a8fba sha1 8e11d2bd665a5ca6b3bb11aa2b707458c1534327 )
-	rom ( name au02-2 size 8192 crc 7db11acf sha1 1eebae0741f5735bc8966f3c31a9c07dac2e3916 )
-	rom ( name au01-2 size 8192 crc 523dd8f6 sha1 47bd4c9b2272e9a710e6e97f2505075df68101ed )
-	rom ( name au00-2 size 8192 crc 6c0f1f16 sha1 ed05d3eaa24e84b1dfb4e1eb5f69b23e4a1494ba )
-	rom ( name au0c size 8192 crc d00a2762 sha1 84d4329b39b9fd30682b7efa5cb2744934c5ee5c )
-	rom ( name au0b size 8192 crc 92247877 sha1 f9bb0c20212ab13caabfb5beb9b6afc807bc9555 )
-	rom ( name au0a size 8192 crc 6aaedcf3 sha1 52dc913eecf8a159784d500217cffd7a6d8eb45c )
-	rom ( name au09 size 8192 crc 74e93394 sha1 7a1470cf2008b1bef8d950939b758707297b3655 )
-	rom ( name au08 size 8192 crc 63158274 sha1 c728e8ba0a11ea67cf508877ad74a3aab9ef26fc )
-	rom ( name au07 size 8192 crc d4bf12a5 sha1 e172f69ae02ac2670b70af0cfcf3887dd99c2761 )
-)
-
-game (
-	name roadblaster
-	description "Road Blaster"
-	year 1985
-	manufacturer "Data East (USA)"
-	rom ( name 01.bin size 8192 crc e4733c49 sha1 357f46a80273f8a365d16cddf5e2caaeeacaf4ad )
-	rom ( name 00.bin size 8192 crc 084d6ae2 sha1 f49eb2d53bad5af88a12535ba628c9decce690ff )
-	rom ( name 08.bin size 8192 crc 4608b516 sha1 44af4be84a0b807ea0813ce86376a4b6fd927e5a )
-	rom ( name 07.bin size 8192 crc da2c84d9 sha1 3452b0e2a45fa771e226c3a3668afbf3ceb0ec11 )
-	rom ( name 06.bin size 8192 crc d1ff5ffb sha1 29df207e225e3b0477d5566d256198310d6ae526 )
-	rom ( name 05.bin size 8192 crc 4608b516 sha1 44af4be84a0b807ea0813ce86376a4b6fd927e5a )
-	rom ( name 04.bin size 8192 crc da2c84d9 sha1 3452b0e2a45fa771e226c3a3668afbf3ceb0ec11 )
-	rom ( name 03.bin size 8192 crc d1ff5ffb sha1 29df207e225e3b0477d5566d256198310d6ae526 )
-)
-
-game (
 	name cobraconv
 	description "Cobra Command (Conversion)"
 	year 1984
@@ -4588,14 +4556,6 @@ game (
 	rom ( name tq_u33_mod.bin size 32768 crc 7be981df sha1 d7d90ae2e9aea730d9cb88cc5b0518a992214a10 )
 	rom ( name tq_u1.bin size 8192 crc e8e7f566 sha1 df7b83ef465c65446c8418bc6007447693b75021 )
 	rom ( name tq_cop.bin size 1024 crc 6748e6b3 sha1 5d7d1ecb57c1501ef6a2d9691eecc9970586606b )
-)
-
-game (
-	name timetrav
-	description "Time Traveler"
-	year 1991
-	manufacturer "Sega (USA)"
-	rom ( name tt061891.bin size 262144 crc a3d44219 sha1 7c5003b6d3df1e472db45abd725e7d3d43f0dfb4 )
 )
 
 ################################################################################
