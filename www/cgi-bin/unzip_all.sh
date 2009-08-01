@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-WWW=/home2/lac/www/caesar
+WWW=/home/lac/www/caesar
 
 cd $WWW
 unzip -o upload/all.zip
