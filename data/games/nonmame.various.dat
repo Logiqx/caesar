@@ -3,22 +3,6 @@
 ################################################################################
 
 game (
-	name mspuzzlen
-	description "Miss Puzzle (Nudes)"
-	year 1994
-	manufacturer "Min Corp."
-	rom ( name u1.rom size 131072 flags nodump )
-	rom ( name u2.rom size 131072 flags nodump )
-	rom ( name u210.rom size 262144 crc 8826b018 )
-	rom ( name u512.bin size 262144 crc 505ee3c2 sha1 a719958c34d9c54445ad207bca1f49df3aff938b )
-	rom ( name u511.bin size 262144 crc 3d6b6c78 sha1 3016423102b4d47c0f1296471cf1670258acc856 )
-	rom ( name u421.rom size 524288 crc 3c567c55 )
-	rom ( name u425.rom size 524288 flags nodump )
-	rom ( name u420.rom size 524288 crc f52ab7fd )
-	rom ( name u426.rom size 524288 crc c28b2743 )
-)
-
-game (
 	name wofch
 	description "Tenchi wo Kurau II - Sekiheki no Tatakai (921031 CPS Changer)"
 	year 1992

@@ -1709,6 +1709,8 @@ TNZS-EMU_v2.10b	tnzs_new	nz15	65536	fbeda025
 TNZS-EMU_v2.10b	tnzs_new	nz16	65536	665c76f1
 TNZS-EMU_v2.10b	tnzs_new	nz19	65536	af3e83d5
 TNZS-EMU_v2.10b	tnzs_new	nz1	65536	d87fabab
+tROMbone_v0.11	shogwarr	fb002.u44	524288	05d7c2a9
+tROMbone_v0.11	shogwarr	fb003.u45	524288	405722e9
 VAntAGE_v1.12	pisces	pisces.1j	4096	2dba9e0e
 VAntAGE_v1.12	pisces	pisces.1k	4096	cdc5aa26
 VAntAGE_v1.12	pisces	pisces.1j	4096	2dba9e0e

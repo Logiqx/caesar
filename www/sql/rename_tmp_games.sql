@@ -195,7 +195,7 @@ WHERE	tmp_game_rom.dat=rombuild.dat AND
 	tmp_game_rom.size=rombuild.rom_size AND
 	tmp_game_rom.crc=rombuild.rom_crc;
 
---- Populate x_multiscreen
+-- Populate x_multiscreen
 
 UPDATE	tmp_game
 SET	x_multiscreen_ind = 1
@@ -209,7 +209,7 @@ WHERE	EXISTS
 		HAVING	COUNT(*) > 1
 	);
 
---- Rename temporary tables
+-- Rename temporary tables
 
 DROP TABLE IF EXISTS game;
 RENAME TABLE tmp_game TO game;

@@ -1,4 +1,4 @@
-asteroid,asteroi2,m
+asteroid,asteroid2,m
 astdelux,astdelux,m
 defender,defender,m
 stargate,stargate,m
@@ -12,14 +12,14 @@ pacman,pacman,m
 mspacman,mspacmab,m
 timeplt,timeplt,m
 vanguard,vanguard,m
-frogger,frogseg2,m
+frogger,froggers2,m
 mpatrol,mpatrolw,m
 phoenix,phoenixt,m
 pleiads,pleiadce,m
 dkong,dkong,m
 dkongjr,dkongjr,m
 mario,marioo,m
-scramble,scrambls,m
+scramble,scrambles,m
 theend,theends,m
 centi,centiped,m
 invaders,invaders,m
@@ -28,5 +28,5 @@ ladybug,ladybug,m
 crush,crush2,m
 carnival,carnival,m
 galaxian,galaxian,m
-galmidw,galmidw,m
+galmidw,galaxianm,m
 galnamco,galap4,m

@@ -7,8 +7,8 @@ wonder3,wonder3,m
 avsp,avspu,m
 avspj,avspj,m
 captcomm,captcomm,m
-captcomj,captcomj,m
-captcomu,captcomu,m
+captcomj,captcommj,m
+captcomu,captcommu,m
 cawing,cawing,m
 cawingj,cawingj,m
 cworld2j,cworld2j,m
@@ -26,7 +26,7 @@ dwj,dynwarj,m
 ffight,ffight,m
 ffightj,ffightj,m
 ffightu,ffightua,m
-forgottn,forgottu,m
+forgottn,forgottnu,m
 lostwrld,lostwrld,m
 ghouls,ghouls,m
 knights,knights,m
@@ -51,8 +51,8 @@ pang3,pang3,m
 pang3j,pang3j,m
 pnickj,pnickj,m
 punisher,punisher,m
-punishrj,punishrj,m
-punishru,punishru,m
+punishrj,punisherj,m
+punishru,punisheru,m
 qad,qad,m
 qadj,qadj,m
 qndream,qndream,m
@@ -83,7 +83,7 @@ slammast,slammast,m
 mbomberj,mbomberj,m
 mbombrd,mbombrd,m
 mbombrdj,mbombrdj,m
-slammasu,slammasu,m
+slammasu,slammastu,m
 ssf2,ssf2u,m
 ssf2j,ssf2j,m
 ssf2jr1,ssf2jr1,m
@@ -137,7 +137,7 @@ jgakuen,jgakuen,m
 kikaioh,kikaioh,m
 mercsj,mercsj,m
 mercsu,mercsu,m
-rvschool,rvschola,m
+rvschool,rvschoola,m
 sfex,sfexa,m
 sfex2,sfex2j,m
 sfex2p,sfex2pj,m
@@ -153,7 +153,7 @@ avspe,avsp,m
 cscluba,cscluba,m
 csclubj,csclubj,m
 fpointbl,fpointbl,m
-goldnaxe,goldnax2,m
+goldnaxe,goldnaxe2,m
 shdancer,shdancer,m
 shinobi,shinobi3,m
 ssf2tb,ssf2tb,m
@@ -164,7 +164,7 @@ wb3bl,wb3bbl,m
 3countb,3countb,m
 alexkidd,alexkidd,m
 alpham2,alpham2,m
-altbeast,altbeas4,m
+altbeast,altbeast4,m
 androdun,androdun,m
 aodk,aodk,m
 aof,aof,m
@@ -280,7 +280,7 @@ sengoku,sengoku,m
 sengoku2,sengoku2,m
 sfa3,sfa3u,m
 sfa3jr1,sfa3ur1,m
-sharrier,sharrir1,m
+sharrier,sharrier1,m
 shocktr2,shocktr2,m
 shocktrj,shocktra,m
 shocktro,shocktro,m
