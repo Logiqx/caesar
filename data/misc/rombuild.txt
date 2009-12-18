@@ -345,6 +345,8 @@ Calice_v0.6.6	mahretsu	maj_s1.rom	65536	b0d16529
 Calice_v0.6.6	cyberlip	cybl_m1.rom	65536	47980d3a
 Calice_v0.6.6	maglord	magl_m1.rom	65536	91ee1f73
 Calice_v0.6.6	minasan	027-m1.bin	131072	add5a226
+Calice_v0.6.6	androdun	adun_v1.rom	524288	577c85b3
+Calice_v0.6.6	androdun	adun_v2.rom	524288	e14551c4
 Callus_v0.42	1941j	4109.bin	131072	be1b6bc2
 Callus_v0.42	1941j	4113.bin	131072	2e06d0ec
 Callus_v0.42	1941j	4124.bin	131072	5aa43cee
@@ -429,6 +431,8 @@ HiVE_v1.04	sxevious	4h-4f	512	c21a65ff
 HiVE_v1.04	skykid	skysnd.bin	512	19e2d4b9
 HiVE_v1.04	pacland	pl-snd	512	d3aff2df
 Hoot_20011002	gaiapols	123e13.9c	524288	0bc4056c
+Hoot_20011002	androdun	adun_v1.rom	524288	577c85b3
+Hoot_20011002	androdun	adun_v2.rom	524288	e14551c4
 Invader_Saver_v2.00a	invaders	invaders.rom	8192	b64ca815
 Invader_Saver_v2.00a	invdelux	invdelux.rom	18432	e3e1683e
 Invader_Saver_v2.00a	lrescue	lrescue.rom	20480	46f5b924
@@ -479,6 +483,8 @@ M1_v0.7.8a6	gururin	067-m1.bin	65536	833cdf1b
 M1_v0.7.8a6	mahretsu	004-m1.bin	65536	37965a73
 M1_v0.7.8a6	cyberlip	010-m1.bin	65536	47980d3a
 M1_v0.7.8a6	minasan	027-m1.bin	131072	add5a226
+M1_v0.7.8a6	androdun	049-v1.bin	524288	577c85b3
+M1_v0.7.8a6	androdun	049-v2.bin	524288	e14551c4
 M72_v0.33b	nspirit	nin-b0.rom	131072	fe629815
 M72_v0.33b	nspirit	nin-b1.rom	131072	667966af
 M72_v0.33b	nspirit	nin-b2.rom	131072	3e922f9b
@@ -516,6 +522,8 @@ Nebula_v2.25b	mahretsu	004-s1.bin	65536	b0d16529
 Nebula_v2.25b	cyberlip	010-m1.bin	65536	47980d3a
 Nebula_v2.25b	maglord	005-m1.bin	65536	91ee1f73
 Nebula_v2.25b	minasan	027-m1.bin	131072	add5a226
+Nebula_v2.25b	androdun	049-v1.bin	524288	577c85b3
+Nebula_v2.25b	androdun	049-v2.bin	524288	e14551c4
 Nebula_Jukebox_v2.9	von2	srom2.u23	2097152	89f21281
 Nebula_Jukebox_v2.9	von2	srom4.u25	2097152	b7c1bebf
 Nebula_Jukebox_v2.9	sonicwi2	075-v2.bin	524288	6d0a728e
@@ -524,11 +532,15 @@ Nebula_Jukebox_v2.9	mahretsu	004-m1.bin	65536	37965a73
 Nebula_Jukebox_v2.9	cyberlip	010-m1.bin	65536	47980d3a
 Nebula_Jukebox_v2.9	maglord	005-m1.bin	65536	91ee1f73
 Nebula_Jukebox_v2.9	minasan	027-m1.bin	131072	add5a226
+Nebula_Jukebox_v2.9	androdun	049-v1.bin	524288	577c85b3
+Nebula_Jukebox_v2.9	androdun	049-v2.bin	524288	e14551c4
 NeoJukeBox_v2.7	gururin	067_m1.rom	65536	833cdf1b
 NeoJukeBox_v2.7	mahretsu	004_m1.rom	65536	37965a73
 NeoJukeBox_v2.7	cyberlip	010_m1.rom	65536	47980d3a
 NeoJukeBox_v2.7	maglord	005_m1.rom	65536	91ee1f73
 NeoJukeBox_v2.7	minasan	027_m1.rom	131072	add5a226
+NeoJukeBox_v2.7	androdun	049_v1.rom	524288	577c85b3
+NeoJukeBox_v2.7	androdun	049_v2.rom	524288	e14551c4
 NeoRAGEx_v0.6b	sengoku2	n138001c.1f8	524288	6650bc9a
 NeoRAGEx_v0.6b	sengoku2	n138001c.1fc	524288	c6358d62
 NeoRAGEx_v0.6b	sengoku2	n138001a.1f8	524288	e6e9d82f
@@ -661,6 +673,8 @@ NeoRAGEx_v0.6b	androdun	n138001a.53c	524288	fcbcb305
 NeoRAGEx_v0.6b	androdun	n138001a.63c	524288	b1c640f5
 NeoRAGEx_v0.6b	androdun	n138001c.53c	524288	fcbcb305
 NeoRAGEx_v0.6b	androdun	n138001c.63c	524288	b1c640f5
+NeoRAGEx_v0.6b	androdun	n138001a.1f8	524288	577c85b3
+NeoRAGEx_v0.6b	androdun	n138001a.1fc	524288	e14551c4
 NeoRAGEx_v0.6b	bstars	n138001a.038	524288	68ce5b06
 NeoRAGEx_v0.6b	bstars	n138001a.538	524288	c55a7229
 NeoRAGEx_v0.6b	bstars	n138001a.53c	524288	a0074bd9
@@ -1711,11 +1725,15 @@ TNZS-EMU_v2.10b	tnzs_new	nz19	65536	af3e83d5
 TNZS-EMU_v2.10b	tnzs_new	nz1	65536	d87fabab
 tROMbone_v0.11	shogwarr	fb002.u44	524288	05d7c2a9
 tROMbone_v0.11	shogwarr	fb003.u45	524288	405722e9
+tROMbone_v0.11	shogwarr	fb002.u44	524288	05d7c2a9
+tROMbone_v0.11	shogwarr	fb003.u45	524288	405722e9
 VAntAGE_v1.12	pisces	pisces.1j	4096	2dba9e0e
 VAntAGE_v1.12	pisces	pisces.1k	4096	cdc5aa26
 VAntAGE_v1.12	pisces	pisces.1j	4096	2dba9e0e
 VAntAGE_v1.12	pisces	pisces.1k	4096	cdc5aa26
 VBEmu_Screen_Saver_v1.01a	lrescue	lrescue.rom	20480	46f5b924
+WinKawaks_v1.60	androdun	049-v1.bin	524288	577c85b3
+WinKawaks_v1.60	androdun	049-v2.bin	524288	e14551c4
 Xcade_v0.85	pisces	pisces.1j	4096	2dba9e0e
 Xcade_v0.85	pisces	pisces.1k	4096	cdc5aa26
 Xcade_v0.85	pisces	pisces.1j	4096	2dba9e0e
