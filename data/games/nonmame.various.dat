@@ -224,34 +224,6 @@ game (
 )
 
 game (
-	name sf2m13
-	description "Street Fighter II' - champion edition (bootleg, M13) [Bootleg]"
-	year 1992
-	manufacturer "Capcom"
-	cloneof sf2ce
-	romof sf2ce
-	rom ( name 222-040.13 size 524288 crc ec6f5cb3 sha1 24b3fc88a08a721985b053120997090bc394bc8e )
-	rom ( name 196-040.13 size 524288 crc 0e9ac52b sha1 2c5faf7d8b598f2110f389aefa1a02e2281382ee )
-	rom ( name 221-010.13 size 131072 crc 8226c11c sha1 9588bd64e338901394805aca8a234f880674dc60 )
-	rom ( name 195-010.13 size 131072 crc 924c6ce2 sha1 676a912652bd75da5087f0c7eae047b7681a993c )
-	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
-	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
-	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
-	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
-	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
-	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
-	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
-	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
-	rom ( name s2t_10.bin size 524288 crc 3c042686 sha1 307e1ca8ad0b11f3265b7e5467ba4c90f90ec97f )
-	rom ( name s2t_11.bin size 524288 crc 8b7e7183 sha1 c8eaedfbddbf0b83311d2dbb9e19a1efef0dffa9 )
-	rom ( name s2t_12.bin size 524288 crc 293c888c sha1 5992ea9aa90fdd8b9dacca9d2a1fdaf25ac2cb65 )
-	rom ( name s2t_13.bin size 524288 crc 842b35a4 sha1 35864a140a0c8d76501e69b2e01bc4ad76f27909 )
-	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
-	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
-	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
-)
-
-game (
 	name sf2m8
 	description "Street Fighter II' - champion edition (bootleg, M8) [Bootleg]"
 	year 1992
@@ -262,6 +234,118 @@ game (
 	rom ( name k4-196 size 524288 crc 95ea597e sha1 5eb82feaa1de5611a96888e4670744bbb7d90393 )
 	rom ( name u221.epr size 131072 crc d8276822 sha1 8fe5205f21a0243f66582c03ca54d6b079cbd000 )
 	rom ( name u195.epr size 131072 crc 924c6ce2 sha1 676a912652bd75da5087f0c7eae047b7681a993c )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2m9
+	description "Street Fighter II' - champion edition (bootleg, M9) [Bootleg]"
+	year 1992
+	manufacturer "Capcom"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name sf3a-1.040 size 524288 crc 9e6d058a sha1 8c9adca7b65dc929c325c0a62304d24dc0902c08 )
+	rom ( name sf3a-3.040 size 524288 crc 518d8404 sha1 635d8ac07126caf3c623d1f28aad38c5bc4c4bae )
+	rom ( name sf3a-2 size 131072 crc fca4fc1e sha1 2b05d67443af099f95ef50f5e25d7a74b957e7a5 )
+	rom ( name sf3a-4 size 131072 crc cfdd6f54 sha1 2aa3f5a7b36930185382c64712cc0cfceb6f1ab3 )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2m10
+	description "Street Fighter II' - champion edition (bootleg, M10) [Bootleg]"
+	year 1992
+	manufacturer "Capcom"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name sfu9-1.040 size 524288 crc 95306baf sha1 471d1578607ae1090aa46cb111a8c2745d1fd47b )
+	rom ( name sfu9-3.040 size 524288 crc 21024d5f sha1 986b3910ce749f4ad42e1f86537a8fc3f0f3f867 )
+	rom ( name sfu9-2.020 size 262144 crc 0b3fe5dd sha1 9b66cb867da61595f53d1c9e6b48c6bb7e06e1e0 )
+	rom ( name sfu9-4.020 size 262144 crc dbee7b18 sha1 e56af12fc9d30e92d37e688ff621ea09abb94b53 )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2m11
+	description "Street Fighter II' - champion edition (bootleg, M11) [Bootleg]"
+	year 1992
+	manufacturer "Capcom"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name sfu7-1.040 size 524288 crc 866a9b31 sha1 92f89084293b69a9d5cd8d282ffaaca0739f1b03 )
+	rom ( name sfu7-3.040 size 524288 crc f3a45593 sha1 0ba0d05f904ac17cd34c0a7c9dd0a20759ff4e78 )
+	rom ( name sfu7-2.010 size 131072 crc d1707134 sha1 5bfdf7bc57bdb85183647ebb175346070dd102ee )
+	rom ( name sfu7-4.010 size 131072 crc cd1d5666 sha1 8befd2c324eb29bdad6fc8fb2554cdfaf9808f9b )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s92_10.bin merge s92_10.bin size 524288 crc 960687d5 sha1 2868c31121b1c7564e9767b9a19cdbf655c7ed1d )
+	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
+	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
+	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2m12
+	description "Street Fighter II' - champion edition (bootleg, M12) [Bootleg]"
+	year 1992
+	manufacturer "Capcom"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name sfu8-1.040 size 524288 crc 10ec67fe sha1 9eb30a0f64bf29028f89f9af74cb9d840ed197e2 )
+	rom ( name sfu8-3.040 size 524288 crc 92eb3a1c sha1 0ee294c8b82b100f98da697562f9644b71cabcdd )
+	rom ( name sfu8-2.010 size 131072 crc 1073b7b6 sha1 81ca1eab65ceac69520584bb23a684ccb9d92f89 )
+	rom ( name sfu8-4.010 size 131072 crc 924c6ce2 sha1 676a912652bd75da5087f0c7eae047b7681a993c )
 	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
 	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
 	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
@@ -302,6 +386,34 @@ game (
 	rom ( name s92_11.bin merge s92_11.bin size 524288 crc 978ecd18 sha1 648a59706b93c84b4206a968ecbdc3e834c476f6 )
 	rom ( name s92_12.bin merge s92_12.bin size 524288 crc d6ec9a0a sha1 ed6143f8737013b6ef1684e37c05e037e7a80dae )
 	rom ( name s92_13.bin merge s92_13.bin size 524288 crc ed2c67f6 sha1 0083c0ffaf6fe7659ff0cf822be4346cd6e61329 )
+	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
+	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
+	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
+)
+
+game (
+	name sf2m13
+	description "Street Fighter II' - champion edition (bootleg, M13) [Bootleg]"
+	year 1992
+	manufacturer "Capcom"
+	cloneof sf2ce
+	romof sf2ce
+	rom ( name 222-040.13 size 524288 crc ec6f5cb3 sha1 24b3fc88a08a721985b053120997090bc394bc8e )
+	rom ( name 196-040.13 size 524288 crc 0e9ac52b sha1 2c5faf7d8b598f2110f389aefa1a02e2281382ee )
+	rom ( name 221-010.13 size 131072 crc 8226c11c sha1 9588bd64e338901394805aca8a234f880674dc60 )
+	rom ( name 195-010.13 size 131072 crc 924c6ce2 sha1 676a912652bd75da5087f0c7eae047b7681a993c )
+	rom ( name s92_01.bin merge s92_01.bin size 524288 crc 03b0d852 sha1 f370f25c96ad2b94f8c53d6b7139100285a25bef )
+	rom ( name s92_02.bin merge s92_02.bin size 524288 crc 840289ec sha1 2fb42a242f60ba7e74009b5a90eb26e035ba1e82 )
+	rom ( name s92_03.bin merge s92_03.bin size 524288 crc cdb5f027 sha1 4c7d944fef200fdfcaf57758b901b5511188ed2e )
+	rom ( name s92_04.bin merge s92_04.bin size 524288 crc e2799472 sha1 27d3796429338d82a8de246a0ea06dd487a87768 )
+	rom ( name s92_05.bin merge s92_05.bin size 524288 crc ba8a2761 sha1 4b696d66c51611e43522bed752654314e76d33b6 )
+	rom ( name s92_06.bin merge s92_06.bin size 524288 crc e584bfb5 sha1 ebdf1f5e2638eed3a65dda82b1ed9151a355f4c9 )
+	rom ( name s92_07.bin merge s92_07.bin size 524288 crc 21e3f87d sha1 4a4961bb68c3a1ce15f9d393d9c03ecb2466cc29 )
+	rom ( name s92_08.bin merge s92_08.bin size 524288 crc befc47df sha1 520390420da3a0271ba90b0a933e65143265e5cf )
+	rom ( name s2t_10.bin size 524288 crc 3c042686 sha1 307e1ca8ad0b11f3265b7e5467ba4c90f90ec97f )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 sha1 c8eaedfbddbf0b83311d2dbb9e19a1efef0dffa9 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c sha1 5992ea9aa90fdd8b9dacca9d2a1fdaf25ac2cb65 )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 sha1 35864a140a0c8d76501e69b2e01bc4ad76f27909 )
 	rom ( name s92_09.bin merge s92_09.bin size 65536 crc 08f6b60e sha1 8258fcaca4ac419312531eec67079b97f471179c )
 	rom ( name s92_18.bin merge s92_18.bin size 131072 crc 7f162009 sha1 346bf42992b4c36c593e21901e22c87ae4a7d86d )
 	rom ( name s92_19.bin merge s92_19.bin size 131072 crc beade53f sha1 277c397dc12752719ec6b47d2224750bd1c07f79 )
