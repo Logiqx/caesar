@@ -53,7 +53,7 @@ alibaba,alibaba,m
 astormj,astormj,m
 astormu,astormu,m
 astorm3,astorm3,m
-aliensy1,aliensyn1,m
+aliensy1,aliensynjo,m
 aliensy2,aliensyn2,m
 aliensy3,aliensyn3,m
 aliensyn,aliensyn,m
@@ -104,7 +104,7 @@ bakubrkr,bakubrkr,m
 bangbead,bangbead,m
 bankp,bankp,m
 bstars2,bstars2,m
-bstars,bstars,m
+bstars,bstarsh,m
 batsugun,batsugun,m
 batsugna,batsuguna,m
 batugnsp,batsugunsp,m
@@ -248,7 +248,7 @@ ddtoda,ddtoda,m
 ddtodr1,ddtodr1,m
 ddtodjr2,ddtodjr2,m
 ddtodur1,ddtodur1,m
-ddtodh,ddtodh,m
+ddtodh,ddtodhr1,m
 ddtodjr1,ddtodjr1,m
 ddtodu,ddtodu,m
 ddtod,ddtod,m
@@ -696,7 +696,7 @@ pulstar,pulstar,m
 pzloop2j,pzloop2j,m
 pzloop2,pzloop2,m
 pbobblen,pbobblen,m
-pbobblena,pbobblena,m
+pbobblena,pbobblenb,m
 pbobbl2n,pbobbl2n,m
 pzlbowl,pzlbowl,m
 puzzledp,puzzledp,m
@@ -1035,7 +1035,7 @@ kof95,kof95,m
 kof96,kof96,m
 kof96h,kof96h,m
 kof97,kof97,m
-kof97a,kof97a,m
+kof97a,kof97h,m
 kof97pls,kof97pls,m
 kof98k,kof98k,m
 kof98n,kof98n,m
@@ -1088,7 +1088,6 @@ tigerh,tigerh,m
 timesca1,timescan1,m
 timescan,timescan,m
 tophuntr,tophuntr,m
-tophuntra,tophuntra,m
 tpgolf,tpgolf,m
 toppyrap,toppyrap,m
 toryumon,toryumon,m
@@ -1917,8 +1916,9 @@ thunderx,thunderx,m
 typhoon,typhoon,m
 ultraman,ultraman,m
 xmen,xmen,m
-xmen2p,xmen2p,m
+xmen2p,xmen2pa,m
 xmen2pj,xmen2pj,m
 xmen6p,xmen6p,m
 xmen6pu,xmen6pu,m
 xmenj,xmenj,m
+tophuntra,tophuntrh,m
