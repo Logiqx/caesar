@@ -745,7 +745,7 @@ burnforc,burnforc,m
 chqflag,chqflag,m
 circusc,circusc,m
 cninja,cninja,m
-combasc,combasc,m
+combasc,combatsc,m
 cosmccop,cosmccop,m
 cosmognj,cosmogngj,m
 crusnusa,crusnusa,m
@@ -1168,7 +1168,7 @@ goldcue,goldcue,n
 gradius4,gradius4,m
 gticlub,gticluba,m
 hook_408,hook_408,n
-hsf2,hsf2,m
+hsf2,hsf2a,m
 id4,id4,n
 jplstw22,jplstw22,n
 kncljoe,kncljoe,m
@@ -1403,7 +1403,7 @@ souledgb,souledge1,m
 spacegun,spacegun,m
 spaceskr,spaceskr,m
 spy,spy,m
-sscope,sscope,m
+sscope,sscopea,m
 streetsm,streetsm,m
 sttng_x7,sttng_x7,n
 swcourt,swcourt,m
