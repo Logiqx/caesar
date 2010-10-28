@@ -9,7 +9,7 @@ pgearr1,pgearr1,m
 avspu,avspu,m
 avsp,avsp,m
 avspj,avspj,m
-captcomm,captcomm,m
+captcomm,captcommr1,m
 captcomj,captcommj,m
 captcomu,captcommu,m
 cawing,cawing,m
@@ -59,7 +59,7 @@ punishru,punisheru,m
 qad,qad,m
 qadj,qadj,m
 qndream,qndream,m
-qtono2,qtono2,m
+qtono2,qtono2j,m
 sf2eb,sf2eb,m
 sf2ua,sf2ua,m
 sf2ub,sf2ub,m
@@ -73,8 +73,8 @@ sf2ceub,sf2ceub,m
 sf2cej,sf2cej,m
 sf2rb,sf2rb,m
 sf2red,sf2red,m
-sf2t,sf2t,m
-sf2tj,sf2tj,m
+sf2t,sf2hfu,m
+sf2tj,sf2hfj,m
 sf2v004,sf2v004,m
 sfau,sfau,m
 sfzj,sfzj,m
@@ -193,7 +193,7 @@ kof94,kof94,m
 kof95,kof95,m
 kof96,kof96,m
 kof97,kof97,m
-kof98n,kof98n,m
+kof98n,kof98h,m
 kof99a,kof99a,m
 kof99p,kof99p,m
 kotm,kotm,m
@@ -257,7 +257,7 @@ sfa,sfa,m
 shocktr2,shocktr2,m
 shocktra,shocktra,m
 shocktro,shocktro,m
-socbrawl,socbrawl,m
+socbrawl,socbrawlh,m
 sonicwi2,sonicwi2,m
 sonicwi3,sonicwi3,m
 spf2t,spf2t,m
@@ -304,7 +304,7 @@ kof2000,kof2000,m
 kof2knd,kof2knd,n
 kof2000n,kof2000n,m
 kof99nd,kof99nd,n
-kof99n,kof99n,m
+kof99n,kof99k,m
 nitd,nitd,m
 nitdn,nitdn,n
 preisle2,preisle2,m
@@ -380,7 +380,7 @@ cthd2003,cthd2003,m
 ddsom,ddsom,m
 ddsoma,ddsoma,m
 ddsomj,ddsomj,m
-ffightj1,ffightj1,m
+ffightj1,ffightj2,m
 kof97a,kof97h,m
 kof98,kof98,m
 kof99,kof99,m
@@ -535,7 +535,7 @@ sfz3a,sfz3a,m
 sfza,sfza,m
 sfzb,sfzb,m
 sfzbr1,sfzbr1,m
-sfzh,sfzh,m
+sfzh,sfzhr1,m
 sgemfh,sgemfh,m
 ssf2tbj,ssf2tbj,m
 ssf2tbr1,ssf2tbr1,m
@@ -544,7 +544,7 @@ uecology,uecology,m
 vhunt2,vhunt2,m
 vhuntjr1,vhuntjr1,m
 vsavh,vsavh,m
-xmcotah,xmcotahr1,m
+xmcotah,xmcotah,m
 xmvsf,xmvsf,m
 xmvsfa,xmvsfa,m
 xmvsfar1,xmvsfar1,m
@@ -562,7 +562,7 @@ nitdbl,nitdbl,m
 nwarr,nwarr,m
 rmancp2j,rmancp2j,m
 sfa3,sfa3,m
-socbrala,socbrawla,m
+socbrala,socbrawl,m
 wh1,wh1,m
 wh2j,wh2j,m
 xmcotaj,xmcotaj1,m
@@ -575,7 +575,7 @@ armwaru1,armwaru1,m
 csclub,csclub,m
 ddtodj,ddtodj,m
 dynwaru,dynwaru,m
-ffightj2,ffightj2,m
+ffightj2,ffightj1,m
 gpilotsh,gpilotsh,m
 gwingb,gigawingb,m
 kof95h,kof95h,m
@@ -586,5 +586,5 @@ samsho3h,samsho3h,m
 samshoh,samshoh,m
 sf2rb3,sf2rb3,m
 sfa2,sfa2,m
-wofhfh,wofhfh,m
+wofhfh,wofhfb,m
 tophunta,tophuntrh,m

@@ -102,7 +102,7 @@ gunsmokeu,gunsmokeu,m
 gigawinga,gigawinga,m
 gigawingb,gigawingb,m
 gigawingj,gigawingj,m
-gyrodinec,gyrodinec,m
+gyrodinec,gyrodine,m
 hedpanicf,hedpanicf,m
 hellfire1,hellfire1,m
 hellfire2,hellfire2,m
@@ -490,7 +490,7 @@ xmen2pe,xmen2pe,m
 1942a,1942a,m
 1942b,1942b,m
 1942w,1942w,m
-1943,1943,m
+1943,1943u,m
 1943j,1943j,m
 1943kai,1943kai,m
 1944,1944,m
@@ -550,8 +550,8 @@ aliensu,aliensu,m
 aliensyn,aliensyn,m
 alpham2,alpham2,m
 altbeast,altbeast,m
-ambush,ambush,m
-ambusht,ambusht,m
+ambush,ambushj,m
+ambusht,ambush,m
 ambushv,ambushv,m
 amidar,amidar,m
 amidarb,amidarb,m
@@ -694,7 +694,7 @@ cameltrya,cameltrya,m
 cameltryj,cameltryj,m
 cameltryua,cameltryau,m
 cannonbp,cannonbp,m
-captcomm,captcomm,m
+captcomm,captcommr1,m
 catacomb,catacomb,m
 catt,catt,m
 cavelon,cavelon,m
@@ -711,7 +711,7 @@ chewing,chewing,m
 chikij,chikij,m
 chokchok,chokchok,m
 choko,choko,m
-ckong,ckong,m
+ckong,ckongpt2,m
 ckongg,ckongg,m
 ckongs,ckongs,m
 cltchitr,cltchitr,m
@@ -893,7 +893,7 @@ eswatu,eswatu,m
 euroch92,euroch92,m
 exctleag,exctleag,m
 exedexes,exedexes,m
-exerizrb,exerizrb,m
+exerizrb,exerizerb,m
 exodus,exodus,m
 explbrkr,explbrkr,m
 explorer,explorer,m
@@ -919,8 +919,8 @@ fbfrenzy,fbfrenzy,m
 feversos,feversos,m
 ffight,ffight,m
 ffightj,ffightj,m
-ffightj1,ffightj1,m
-ffightj2,ffightj2,m
+ffightj1,ffightj2,m
+ffightj2,ffightj1,m
 ffightu,ffightu,m
 ffightua,ffightua,m
 ffightub,ffightub,m
@@ -1047,7 +1047,7 @@ gunsmoke,gunsmoke,m
 gururin,gururin,m
 guwange,guwange,m
 gwingjd,gwingjd,m
-gyrodine,gyrodine,m
+gyrodine,gyrodinet,m
 gyruss,gyruss,m
 gyrussce,gyrussce,m
 hangly,hangly,m
@@ -1109,7 +1109,7 @@ jumping,jumping,m
 jumpkids,jumpkids,m
 jumppop,jumppop,m
 jumpshot,jumpshot,m
-jumpshtp,jumpshtp,m
+jumpshtp,jumpshotp,m
 jyangoku,jyangoku,m
 k2k3pcbd,k2k3pcbd,n
 kabukikl,kabukikl,m
@@ -1170,11 +1170,11 @@ kof97,kof97,m
 kof97pls,kof97pls,m
 kof98,kof98,m
 kof98k,kof98k,m
-kof98n,kof98n,m
+kof98n,kof98h,m
 kof99,kof99,m
 kof99a,kof99a,m
 kof99e,kof99e,m
-kof99n,kof99n,m
+kof99n,kof99k,m
 kof99nd,kof99nd,n
 kof99p,kof99p,m
 kog,kog,m
@@ -1341,7 +1341,7 @@ ms5pcb,ms5pcb,m
 ms5pcbnd,ms5pcbnd,n
 ms5plus,ms5plus,m
 msbingo,msbingo,m
-mschamp,mschamp,m
+mschamp,mschamps,m
 msh,msh,m
 msha,msha,m
 mshb,mshb,m
@@ -1580,7 +1580,7 @@ qcrayon,qcrayon,m
 qcrayon2,qcrayon2,m
 qjinsei,qjinsei,m
 qndream,qndream,m
-qtono2,qtono2,m
+qtono2,qtono2j,m
 qtorimon,qtorimon,m
 quartet,quartet,m
 quarth,quarth,m
@@ -1618,7 +1618,7 @@ rchase,rchase,m
 rckman2j,rockman2j,m
 redearth,redearth,m
 redeartn,redeartn,m
-redufo,redufo,m
+redufo,redufob,m
 regulus,regulus,m
 reguluso,reguluso,m
 regulusu,regulusu,m
@@ -1744,8 +1744,8 @@ sf2rb,sf2rb,m
 sf2rb2,sf2rb2,m
 sf2rb3,sf2rb3,m
 sf2red,sf2red,m
-sf2t,sf2t,m
-sf2tj,sf2tj,m
+sf2t,sf2hfu,m
+sf2tj,sf2hfj,m
 sf2tlona,sf2tlona,n
 sf2tlonb,sf2tlonb,n
 sf2ua,sf2ua,m
@@ -1804,7 +1804,7 @@ sfza,sfza,m
 sfzb,sfzb,m
 sfzbr1,sfzbr1,m
 sfzch,sfzch,n
-sfzh,sfzh,m
+sfzh,sfzhr1,m
 sfzj,sfzj,m
 sfzjr1,sfzjr1,m
 sfzjr2,sfzjr2,m
@@ -1846,9 +1846,9 @@ skyraidr,skyraidr,m
 skywolf,skywolf,m
 skywolf2,skywolf2,m
 slammast,slammast,m
-slapbtjp,slapbtjp,m
-slapbtuk,slapbtuk,m
-slapfgtr,slapfgtr,m
+slapbtjp,slapfighb1,m
+slapbtuk,slapfighb2,m
+slapfgtr,slapfighb3,m
 slapfigh,slapfigh,m
 smbomb,smbomb,m
 smbombr1,smbombr1,m
@@ -1866,8 +1866,8 @@ sngkace,sngkace,m
 sngoku3n,sngoku3n,n
 snowbro2,snowbro2,m
 snowbros,snowbros,m
-socbrawl,socbrawl,m
-socbrawla,socbrawla,m
+socbrawl,socbrawlh,m
+socbrawla,socbrawl,m
 solfigtr,solfigtr,m
 solomon,solomon,m
 solomonj,solomonj,m
@@ -2138,7 +2138,7 @@ wof3js,wof3js,n
 wofa,wofa,m
 wofah,wofah,n
 wofch,wofch,n
-wofhfh,wofhfh,m
+wofhfh,wofhfb,m
 wofj,wofj,m
 wofjh,wofjh,n
 wofu,wofu,m
@@ -2152,7 +2152,7 @@ wwfwfest,wwfwfest,m
 xmcota,xmcota,m
 xmcotaa,xmcotaa,m
 xmcotad,xmcotad,m
-xmcotah,xmcotahr1,m
+xmcotah,xmcotah,m
 xmcotaj,xmcotaj1,m
 xmcotaj1,xmcotaj2,m
 xmcotaj2,xmcotaj3,m

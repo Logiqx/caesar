@@ -6,7 +6,7 @@
 wonder3,wonder3,m
 avsp,avspu,m
 avspj,avspj,m
-captcomm,captcomm,m
+captcomm,captcommr1,m
 captcomj,captcommj,m
 captcomu,captcommu,m
 cawing,cawing,m
@@ -56,7 +56,7 @@ punishru,punisheru,m
 qad,qad,m
 qadj,qadj,m
 qndream,qndream,m
-qtono2,qtono2,m
+qtono2,qtono2j,m
 sf2,sf2eb,m
 sf2a,sf2ua,m
 sf2b,sf2ub,m
@@ -71,8 +71,8 @@ sf2ceb,sf2ceub,m
 sf2cej,sf2cej,m
 sf2rb,sf2rb,m
 sf2red,sf2red,m
-sf2t,sf2t,m
-sf2tj,sf2tj,m
+sf2t,sf2hfu,m
+sf2tj,sf2hfj,m
 sfa,sfau,m
 sfzj,sfzj,m
 sfzjr1,sfzjr1,m
@@ -117,7 +117,7 @@ pgear,pgear,m
 pgearr1,pgearr1,m
 sfaer1,sfa,m
 sfz2,sfz2j,m
-sfzh,sfzh,m
+sfzh,sfzhr1,m
 smbomber,smbombr1,m
 ssf2a,ssf2ar1,m
 ssf2tu,ssf2tur1,m
@@ -217,7 +217,7 @@ kof94,kof94,m
 kof95,kof95h,m
 kof96,kof96,m
 kof97,kof97,m
-kof98,kof98n,m
+kof98,kof98h,m
 kof99p,kof99p,m
 kotm,kotm,m
 kotm2,kotm2,m
@@ -284,7 +284,7 @@ sharrier,sharrier1,m
 shocktr2,shocktr2,m
 shocktrj,shocktra,m
 shocktro,shocktro,m
-socbrawl,socbrawl,m
+socbrawl,socbrawlh,m
 sonicwi2,sonicwi2,m
 sonicwi3,sonicwi3,m
 spinmast,spinmast,m

@@ -39,7 +39,7 @@ sfz3jr2,sfz3jr2,m
 xmcotajr,xmcotajr,m
 sfz2j,sfz2j,m
 armwaru,armwaru,m
-captcomm,captcomm,m
+captcomm,captcommr1,m
 dino,dino,m
 ffight,ffight,m
 ghouls,ghouls,m
@@ -97,8 +97,8 @@ sf2ceub,sf2ceub,m
 sf2rb,sf2rb,m
 sf2rb2,sf2rb2,m
 sf2red,sf2red,m
-sf2t,sf2t,m
-sf2tj,sf2tj,m
+sf2t,sf2hfu,m
+sf2tj,sf2hfj,m
 sf2v004,sf2v004,m
 mbomberj,mbomberj,m
 mbombrd,mbombrd,m
@@ -183,7 +183,7 @@ kof95,kof95h,m
 kof95a,kof95,m
 kof96,kof96,m
 kof97,kof97,m
-kof98n,kof98n,m
+kof98n,kof98h,m
 kof99a,kof99a,m
 kof99p,kof99p,m
 kotm,kotm,m
@@ -249,7 +249,7 @@ sfa,sfa,m
 shocktr2,shocktr2,m
 shocktra,shocktra,m
 shocktro,shocktro,m
-socbrawl,socbrawl,m
+socbrawl,socbrawlh,m
 sonicwi2,sonicwi2,m
 sonicwi3,sonicwi3,m
 spinmast,spinmast,m
@@ -331,7 +331,7 @@ buckyua,buckyua,m
 cybotsu,cybotsu,m
 dstlk,dstlk,m
 kof99e,kof99e,m
-kof99n,kof99n,m
+kof99n,kof99k,m
 mvscar1,mvscar1,m
 mvscjr1,mvscjr1,m
 pfghtj,pfghtj,m
@@ -353,7 +353,7 @@ cworld2j,cworld2j,m
 sf2koryu,sf2koryu,m
 qad,qad,m
 qadj,qadj,m
-qtono2,qtono2,m
+qtono2,qtono2j,m
 kov,kov,m
 kov115,kov115,m
 kovplus,kovplus,m
@@ -419,7 +419,7 @@ cawingu,cawingu,m
 cybots,cybots,m
 ddtodj,ddtodjr1,m
 dragwld2,drgw2,m
-ffightj1,ffightj1,m
+ffightj1,ffightj2,m
 ghostlop,ghostlop,m
 kof2002,kof2002,m
 kof2k2nd,kof2k2nd,n
