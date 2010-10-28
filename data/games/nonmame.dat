@@ -2355,7 +2355,7 @@ game (
 // CRC information from http://www.ionpool.net/arcade/atari/roms.html
 
 game (
-	name vortex
+	name atarivortex
 	description "Vortex"
 	year 1981
 	manufacturer "Atari"
@@ -4401,52 +4401,6 @@ game (
 	rom ( name badlands.a14 size 8192 crc 82cb4614 )
 	rom ( name badlands.c4 size 32 crc 6757be8d )
 	rom ( name badlands.c8 size 8192 crc 590209fe )
-)
-
-; an06 is not used by Daphne.
-
-game (
-	name bega
-	description "Bega's Battle (revision 3)"
-	year 1983
-	manufacturer "Data East USA"
-	rom ( name an00-3 size 8192 crc 124a3a36 )
-	rom ( name an01 size 8192 crc 15f8921d )
-	rom ( name an02-3 size 8192 crc 98ce4ca0 )
-	rom ( name an03-3 size 8192 crc 79438d80 )
-	rom ( name an04-3 size 8192 crc 935b2b0a )
-	rom ( name an05-3 size 8192 crc c917a283 )
-	rom ( name an06 size 8192 crc cbbcd730 )
-	rom ( name an07 size 8192 crc 6b8ad735 )
-	rom ( name an08 size 8192 crc b5518391 )
-	rom ( name an09 size 8192 crc b7375fd7 )
-	rom ( name an0a size 8192 crc e429305d )
-	rom ( name an0b size 8192 crc 09e4b780 )
-	rom ( name an0c size 8192 crc 0c127207 )
-)
-
-; an06 is not used by Daphne.
-
-game (
-	name begarev1
-	description "Bega's Battle (revision 1)"
-	year 1983
-	manufacturer "Data East USA"
-	cloneof bega
-	romof bega
-	rom ( name an00 size 8192 crc 184297f3 )
-	rom ( name an01 merge an01 size 8192 crc 15f8921d )
-	rom ( name an02 size 8192 crc 84d13c20 )
-	rom ( name an03 size 8192 crc d2d85cdf )
-	rom ( name an04 size 8192 crc 670966fe )
-	rom ( name an05 size 8192 crc 91a05549 )
-	rom ( name an06 merge an06 size 8192 crc cbbcd730 )
-	rom ( name an07 merge an07 size 8192 crc 6b8ad735 )
-	rom ( name an08 merge an08 size 8192 crc b5518391 )
-	rom ( name an09 merge an09 size 8192 crc b7375fd7 )
-	rom ( name an0a merge an0a size 8192 crc e429305d )
-	rom ( name an0b merge an0b size 8192 crc 09e4b780 )
-	rom ( name an0c merge an0c size 8192 crc 0c127207 )
 )
 
 game (

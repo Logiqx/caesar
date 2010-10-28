@@ -19,13 +19,13 @@ ssf2t,ssf2t,m
 ssf2ta,ssf2ta,m
 ssf2tur1,ssf2tur1,m
 xmcotau,xmcotau,m
-xmcotaj,xmcotaj1,m
+xmcotaj,xmcotaj2,m
 xmvsfur1,xmvsfur1,m
 avspj,avspj,m
 ddsomjr1,ddsomjr1,m
 sfzjr2,sfzjr2,m
 vampja,vampja,m
-xmcotaj1,xmcotaj2,m
+xmcotaj1,xmcotaj3,m
 ddsomu,ddsomu,m
 ddsomur1,ddsomur1,m
 19xxh,19xxh,m
@@ -87,7 +87,7 @@ mtwins,mtwins,m
 chikij,chikij,m
 nemo,nemo,m
 nemoj,nemoj,m
-pang3,pang3,m
+pang3,pang3n,m
 punishrj,punisherj,m
 punishru,punisheru,m
 sf2accp2,sf2accp2,m
@@ -423,10 +423,10 @@ ffightj1,ffightj1,m
 ghostlop,ghostlop,m
 kof2002,kof2002,m
 kof2k2nd,kof2k2nd,n
-kov2,kov2,m
+kov2,kov2100,m
 kov2106,kov2106,m
 kov2nd,kov2p,m
-kovj,kovj,m
+kovj,kov100,m
 kovplusa,kovplusa,m
 matrim,matrim,m
 matrimbl,matrimbl,m
@@ -439,7 +439,7 @@ mslug4,mslug4,m
 mslug4nd,mslug4nd,n
 mswordr1,mswordr1,m
 ncombata,ncombath,m
-photoy2k,photoy2k,m
+photoy2k,photoy2k104,m
 progear,progear,m
 progearj,progearj,m
 pzloop2j,pzloop2j,m
@@ -464,8 +464,8 @@ willow,willow,m
 xmvsfu,xmvsfu,m
 zintrkcd,zintrkcd,n
 dinou,dinou,m
-killbld,killbld,m
-klbld109,killbldt,m
+killbld,killbld104,m
+klbld109,killbld,m
 kovsh,kovsh,m
 martmasc,martmastc,m
 martmast,martmast,m
