@@ -66,7 +66,7 @@ sf2ub,sf2ub,m
 sf2ue,sf2ue,m
 sf2ui,sf2ui,m
 sf2j,sf2j,m
-sf2ce,sf2ce,m
+sf2ce,sf2ceea,m
 sf2accp2,sf2accp2,m
 sf2ceua,sf2ceua,m
 sf2ceub,sf2ceub,m
@@ -119,7 +119,7 @@ sfz2j,sfz2j,m
 sfzch,sfzch,n
 dynwarj,dynwarj,m
 armwaru,armwaru,m
-forgottn,forgottnu,m
+forgottn,forgottnua,m
 lostwrld,lostwrld,m
 sfz2alj,sfz2alj,m
 csclubj,csclubj,m
@@ -194,7 +194,7 @@ kof95,kof95,m
 kof96,kof96,m
 kof97,kof97,m
 kof98n,kof98h,m
-kof99a,kof99a,m
+kof99a,kof99,m
 kof99p,kof99p,m
 kotm,kotm,m
 kotm2,kotm2,m
@@ -250,12 +250,12 @@ samsho3,samsho3,m
 samsho4,samsho4,m
 savagere,savagere,m
 sdodgeb,sdodgeb,m
-sengokh,sengokh,m
+sengokh,sengokuh,m
 sengoku,sengoku,m
 sengoku2,sengoku2,m
 sfa,sfa,m
 shocktr2,shocktr2,m
-shocktra,shocktra,m
+shocktra,shocktroa,m
 shocktro,shocktro,m
 socbrawl,socbrawlh,m
 sonicwi2,sonicwi2,m
@@ -282,7 +282,7 @@ vsav,vsav,m
 wakuwak7,wakuwak7,m
 wh1h,wh1h,m
 wh2,wh2,m
-wh2jh,wh2jh,m
+wh2jh,wh2j,m
 whp,whp,m
 wjammers,wjammers,m
 zedblade,zedblade,m
@@ -348,7 +348,7 @@ sf2yyc,sf2yyc,m
 sfz2al,sfz2al,m
 vhunt2r1,vhunt2r1,m
 vliner,vliner,m
-xmcotaa,xmcotaa,m
+xmcotaa,xmcotaar1,m
 zupapa,zupapa,m
 zupapan,zupapan,n
 1944,1944,m
@@ -383,14 +383,14 @@ ddsomj,ddsomj,m
 ffightj1,ffightj2,m
 kof97a,kof97h,m
 kof98,kof98,m
-kof99,kof99,m
+kof99,kof99h,m
 kotmh,kotmh,m
 pbobblna,pbobblenb,m
 sf2uk,sf2uk,m
 sfar1,sfar1,m
 wh1ha,wh1ha,m
 aof2a,aof2a,m
-fatfursa,fatfursa,m
+fatfursa,fatfurspa,m
 fightfva,fightfeva,m
 kof96h,kof96h,m
 kof97pls,kof97pls,m
@@ -574,7 +574,7 @@ roboarma,roboarma,n
 armwaru1,armwaru1,m
 csclub,csclub,m
 ddtodj,ddtodj,m
-dynwaru,dynwaru,m
+dynwaru,dynwara,m
 ffightj2,ffightj1,m
 gpilotsh,gpilotsh,m
 gwingb,gigawingb,m
@@ -586,5 +586,5 @@ samsho3h,samsho3h,m
 samshoh,samshoh,m
 sf2rb3,sf2rb3,m
 sfa2,sfa2,m
-wofhfh,wofhfb,m
+wofhfh,wofhfh,m
 tophunta,tophuntrh,m
