@@ -117,7 +117,7 @@
 <a name="newsitem1017270271,68672,"></a><h2>Wednesday 27 March</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Another index!</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 11:04PM [GMT]</small>  </th></tr>  <tr><td> Okay, after adding manufacturers and years I've added one more:<br><br><a href="http://caesar.logiqx.com/html/indices/misc/nonmame_t.shtml">Non-MAME games</a><br><br>Use this to find out what games are at least partially emulated and by what.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 11:04PM [GMT]</small>  </th></tr>  <tr><td> Okay, after adding manufacturers and years I've added one more:<br><br>Non-MAME games<br><br>Use this to find out what games are at least partially emulated and by what.  </td></tr>  </table></p>
 <a name="newsitem1017258228,52930,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Un rayo de sol, oh oh oh...</strong><br/> 
@@ -281,7 +281,7 @@
 <a name="newsitem1016699287,31956,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Another BIG Enhancement</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 8:28AM [GMT]</small>  </th></tr>  <tr><td> Seems I'm on a roll at the moment!<br><br>I've added a year index (in between the game and manufacturer indices). <br><br>I've also added all MAME artwork to the game pages (e.g. <a href="http://caesar.logiqx.com/html/games/outrun.shtml#outrun">Out Run</a>). Hope you like it!  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">Logiqx</a> at at 8:28AM [GMT]</small>  </th></tr>  <tr><td> Seems I'm on a roll at the moment!<br><br>I've added a year index (in between the game and manufacturer indices). <br><br>I've also added all MAME artwork to the game pages (e.g. Out Run). Hope you like it!  </td></tr>  </table></p>
 <a name="newsitem1016645249,24200,"></a><h2>Wednesday 20 March</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Spring has come</strong><br/> 
@@ -541,7 +541,7 @@
 <a name="newsitem1015636009,86673,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Capcom does it with <i>style</i></strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:06AM [GMT]</small>  </th></tr>  <tr><td> These are truly cool news! The very own <a href="http://www.capcom.com/">Capcom</a> has released an emulator for the oldie goldie shoot-em-up <a href="http://caesar.logiqx.com/html/games/vulgus.shtml">Vulgus</a>. The emulator is for any Windows (I just tried on my 2000) and for PDA's too, all in a single installation. And the best is that it's <b>FREE</b>! Yes, you've heard well, that's right and it's free. Download it from the <a href="http://www.capcom.com/vulgus.xpml">Capcom's Vulgus emulator page</a> (1mb).<br>(Note: you run it thru a simple menu, keep going until you see Vulgus, the rest will say "not installed". And be sure to check the help file!)  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 1:06AM [GMT]</small>  </th></tr>  <tr><td> These are truly cool news! The very own <a href="http://www.capcom.com/">Capcom</a> has released an emulator for the oldie goldie shoot-em-up Vulgus. The emulator is for any Windows (I just tried on my 2000) and for PDA's too, all in a single installation. And the best is that it's <b>FREE</b>! Yes, you've heard well, that's right and it's free. Download it from the <a href="http://www.capcom.com/vulgus.xpml">Capcom's Vulgus emulator page</a> (1mb).<br>(Note: you run it thru a simple menu, keep going until you see Vulgus, the rest will say "not installed". And be sure to check the help file!)  </td></tr>  </table></p>
 <a name="newsitem1015617491,69887,"></a><h2>Friday 8 March</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Arcade Flyers for our pleasure</strong><br/> 

@@ -313,7 +313,7 @@
 <a name="newsitem1049741428,54246,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Here comes another one</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:50PM [BST]</small>  </th></tr>  <tr><td> Bruno (maker of the classic <a href="http://caesar.logiqx.com/html/emus/linux/bpe.shtml" target=_blank>Phoenix Emulator</a> for Linux) is working in an arcade emulator done in Java called <a href="http://bcz.emu-france.com/" target=_blank>Old Spark</a>. It is specialized in Z80 hardware, and some games are working already, but no release for now. Let's hope it evolves nicely. A beta preview is available for downloading.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:50PM [BST]</small>  </th></tr>  <tr><td> Bruno (maker of the classic Phoenix Emulator for Linux) is working in an arcade emulator done in Java called <a href="http://bcz.emu-france.com/" target=_blank>Old Spark</a>. It is specialized in Z80 hardware, and some games are working already, but no release for now. Let's hope it evolves nicely. A beta preview is available for downloading.  </td></tr>  </table></p>
 <a name="newsitem1049720759,57243,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Teh Report</strong><br/> 

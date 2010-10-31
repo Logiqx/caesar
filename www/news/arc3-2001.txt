@@ -207,7 +207,7 @@ Norbert Kehrer has made game 34 for the Java Arcade Emulator. Tempest is one of 
 
 <tr><td>
 <br>
-Did you ever wonder how far Virtua got with the emulation of Virtua Fighter, Virtua Racer, Manx TT and Daytona USA? Well, I have added snapshots to the <a href="/html/emus/multi/virtua.shtml">Virtua</a> page of CAESAR now. Go and take a look if you're interested. 
+Did you ever wonder how far Virtua got with the emulation of Virtua Fighter, Virtua Racer, Manx TT and Daytona USA? Well, I have added snapshots to the Virtua page of CAESAR now. Go and take a look if you're interested. 
 </td></tr>
 
 </table><br>
@@ -237,7 +237,7 @@ MAMEBoyX, a special unsupported version of MAMEBoy with many requested games ena
 
 <tr><td>
 <br>
-Mike Beaver has released <a href="/html/emus/multi/mimic.shtml">Mimic v1.06</a>. This release fixes a control related bug in v1.05 and also adds Moon Cresta. 
+Mike Beaver has released Mimic v1.06. This release fixes a control related bug in v1.05 and also adds Moon Cresta. 
 </td></tr>
 
 </table><br>
@@ -268,7 +268,7 @@ The <a href="http://mimic.arcadeheaven.com/">Mimic</a> home page has been update
 
 <tr><td>
 <br>
-Boris (author of <a href="/html/emus/wince/aemu.shtml">aEmu</a>) is now playing with pinball tables for Visual PinMAME. In addition to the ones he has done there are several others available and all can be found at <a href="http://www.hippie.net/vp/downloads.htm">http://www.hippie.net/vp/downloads.htm</a>. To quote Boris:<br>
+Boris (author of aEmu) is now playing with pinball tables for Visual PinMAME. In addition to the ones he has done there are several others available and all can be found at <a href="http://www.hippie.net/vp/downloads.htm">http://www.hippie.net/vp/downloads.htm</a>. To quote Boris:<br>
 <br>
 For now there is Twilight Zone, High Speed, Monster Bash, Gorgar and The Addams Family. More to come ! (Indy 500, Terminator 2, Attack From Mars, Star Treck Next Generation, EarthShaker, F14 Tomcat,... for the next coming)<br>
 <br>
@@ -466,7 +466,7 @@ An updated version of XMAME is available at the <a href="http://x.mame.net/">XMA
 
 <tr><td>
 <br>
-Updated CAESAR to use the new information in <a href="/html/emus/multi/mame.shtml">MAME beta 14</a>. Over 600 pages have changed as a result. Also added <a href="/html/emus/multi/mimic.shtml">Mimic v1.05</a> and <a href="/html/emus/multi/nebula.shtml">Nebula v1.1</a>. 
+Updated CAESAR to use the new information in MAME beta 14. Over 600 pages have changed as a result. Also added Mimic v1.05 and Nebula v1.1. 
 </td></tr>
 
 </table><br>
@@ -585,7 +585,7 @@ Sadly, Dave has now called it a day and ceased work on <a href="http://www.final
 
 <tr><td>
 <br>
-CAESAR is back up to date again after my time away. There were quite a few updates but the most notable were the addition of <a href="/html/emus/multi/nebula.shtml">Nebula</a> (the new CPS-2 emulator) and <a href="/html/emus/multi/pinmame.shtml">PinMAME</a> the successor of WPCmame. 
+CAESAR is back up to date again after my time away. There were quite a few updates but the most notable were the addition of Nebula (the new CPS-2 emulator) and PinMAME the successor of WPCmame. 
 </td></tr>
 
 </table><br>

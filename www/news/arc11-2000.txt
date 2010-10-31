@@ -10,7 +10,7 @@
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/single/u64emu.shtml">U64Emu</a> (the Killer Instinct Emulator) was released yesterday. 
+A new version of U64Emu (the Killer Instinct Emulator) was released yesterday. 
 </td></tr>
 
 </table><br>
@@ -44,11 +44,11 @@ Quite a big update: I went through all the PC emus and examined the EXEs to see 
 <br>
 A few MAME variants have been updated over the past few days:<br>
 <br>
-<a href="/html/emus/multi2/pacmame.shtml">PacMAME</a> v0.37 b10<br>
-<a href="/html/emus/multi2/nmame32.shtml">NMAME32</a> v0.37 b10<br>
-<a href="/html/emus/multi2/mame32j.shtml">MAME32J</a> v0.37 b10<br>
-<a href="/html/emus/wince/mamece3.shtml">MAMECE3</a> 8.1<br>
-<a href="/html/emus/multi2/apmame.shtml">APMAME</a> v0.37 b10 
+PacMAME v0.37 b10<br>
+NMAME32 v0.37 b10<br>
+MAME32J v0.37 b10<br>
+MAMECE3 8.1<br>
+APMAME v0.37 b10 
 </td></tr>
 
 </table><br>
@@ -63,7 +63,7 @@ A few MAME variants have been updated over the past few days:<br>
 
 <tr><td>
 <br>
-There were a couple of new <a href="/html/emus/multi/laser.shtml">Laser</a> releases for Christmas. Amongst the changes is the addition of Space Chaser. 
+There were a couple of new Laser releases for Christmas. Amongst the changes is the addition of Space Chaser. 
 </td></tr>
 
 </table><br>
@@ -110,8 +110,8 @@ More <a href="http://www.mame.net/wip0012.html">MAME WIP</a> to read over at the
 <br>
 Added a couple more sound emus to CAESAR:<br>
 <br>
-<a href="/html/emus/sound/mmsnd.shtml">MMSND</a> by Hiro-Shi<br>
-<a href="/html/emus/sound/trombone.shtml">tROMbone</a> by Mutewitness 
+MMSND by Hiro-Shi<br>
+tROMbone by Mutewitness 
 </td></tr>
 
 </table><br>
@@ -218,7 +218,7 @@ I have replaced the XSLT engine used for CAESAR (it does the XML to HTML convers
 
 <tr><td>
 <br>
-Well, with Stargladiator being made public and so many sites distributing the leaked beta of <a href="/html/emus/multi/impact.shtml">Impact</a> I have now added this version into CAESAR. 
+Well, with Stargladiator being made public and so many sites distributing the leaked beta of Impact I have now added this version into CAESAR. 
 </td></tr>
 
 </table><br>
@@ -233,7 +233,7 @@ Well, with Stargladiator being made public and so many sites distributing the le
 
 <tr><td>
 <br>
-<a href="/html/emus/single/u64emu.shtml">U64Emu</a> v1.17 has been released. 
+U64Emu v1.17 has been released. 
 </td></tr>
 
 </table><br>
@@ -248,7 +248,7 @@ Well, with Stargladiator being made public and so many sites distributing the le
 
 <tr><td>
 <br>
-Mark Hazelwood (author of <a href="/html/emus/single/wingorf.shtml">WinGorf</a>) let me know of another emulator he released earlier this year called <a href="/html/emus/multi/winvader.shtml">Winvader</a>. Also updated the homepage for his <a href="/html/emus/multi/multiple_invaders.shtml">Multiple Invaders</a> emulator. 
+Mark Hazelwood (author of WinGorf) let me know of another emulator he released earlier this year called Winvader. Also updated the homepage for his Multiple Invaders emulator. 
 </td></tr>
 
 </table><br>
@@ -357,7 +357,7 @@ I've released a load of stuff at <a href="http://www.logiqx.com/">http://www.log
 
 <tr><td>
 <br>
-RCP mentioned on the <a href="http://www.emuhq.com/truereality/trwin/index.htm">TRWin</a> website that he is looking at putting net play into <a href="/html/emus/single/u64emu.shtml">U64Emu</a>. 
+RCP mentioned on the <a href="http://www.emuhq.com/truereality/trwin/index.htm">TRWin</a> website that he is looking at putting net play into U64Emu. 
 </td></tr>
 
 </table><br>
@@ -372,7 +372,7 @@ RCP mentioned on the <a href="http://www.emuhq.com/truereality/trwin/index.htm">
 
 <tr><td>
 <br>
-<a href="/html/emus/mac2/geomame.shtml">GeoMAME</a> the Neo-Geo only port of MAME for the Macintosh has received it's first update for a few betas (now caught up with v0.37 b10) 
+GeoMAME the Neo-Geo only port of MAME for the Macintosh has received it's first update for a few betas (now caught up with v0.37 b10) 
 </td></tr>
 
 </table><br>
@@ -526,7 +526,7 @@ I've received most of the emus that CAESAR is missing and added them to the <a h
 
 <tr><td>
 <br>
-A new version of <a href="/html/tools/compilers/lccwin32.shtml">LCC-Win32</a> was released today. 
+A new version of LCC-Win32 was released today. 
 </td></tr>
 
 </table><br>
@@ -542,7 +542,7 @@ A new version of <a href="/html/tools/compilers/lccwin32.shtml">LCC-Win32</a> wa
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/laser.shtml">Laser</a> has had Clowns and Lupin III added to it. Dats for CMPro/ROMCenter are available from my <a href="http://www.logiqx.com/">homepage</a>. 
+Laser has had Clowns and Lupin III added to it. Dats for CMPro/ROMCenter are available from my <a href="http://www.logiqx.com/">homepage</a>. 
 </td></tr>
 
 </table><br>
@@ -557,7 +557,7 @@ A new version of <a href="/html/tools/compilers/lccwin32.shtml">LCC-Win32</a> wa
 
 <tr><td>
 <br>
-<a href="/html/emus/multi2/advancemame.shtml">AdvanceMAME</a> has been brought up to date with the main version (v0.37 b10). 
+AdvanceMAME has been brought up to date with the main version (v0.37 b10). 
 </td></tr>
 
 </table><br>
@@ -587,7 +587,7 @@ Another <a href="http://www.mame.net/wip0012.html">MAME WIP</a> update from Grid
 
 <tr><td>
 <br>
-<a href="/html/emus/mac/macmame.shtml">MacMAME</a> has been updated to v0.37 b10 
+MacMAME has been updated to v0.37 b10 
 </td></tr>
 
 </table><br>
@@ -605,13 +605,13 @@ Another <a href="http://www.mame.net/wip0012.html">MAME WIP</a> update from Grid
 <br>
 Added some extra emus that Idoru found for me:<br>
 <br>
-<a href="/html/emus/single/bombjack_pc.shtml">Bombjack</a> by Jakob Frandsen<br>
+Bombjack by Jakob Frandsen<br>
 <br>
-<a href="/html/emus/single/centipede_emulator.shtml">Centipede</a> and <a href="/html/emus/single/millipede_emulator.shtml">Millipede</a> by Ivan Mackintosh<br>
+Centipede and Millipede by Ivan Mackintosh<br>
 <br>
-<a href="/html/emus/single/moon_cresta.shtml">Moon  Cresta</a> by Martin Scragg<br>
+Moon  Cresta by Martin Scragg<br>
 <br>
-<a href="/html/emus/single/crazy_climber.shtml">Crazy Climber</a> by Nicola Salmoria 
+Crazy Climber by Nicola Salmoria 
 </td></tr>
 
 </table><br>
@@ -626,7 +626,7 @@ Added some extra emus that Idoru found for me:<br>
 
 <tr><td>
 <br>
-New versions of <a href="/html/emus/multi2/mame32.shtml">MAME32</a> and <a href="/html/emus/multi2/pacmame32.shtml">PacMAME32</a> have been released. Both are up to date with the MAME v0.37 b10. 
+New versions of MAME32 and PacMAME32 have been released. Both are up to date with the MAME v0.37 b10. 
 </td></tr>
 
 </table><br>
@@ -657,7 +657,7 @@ Gridle has listed the last few days of MAME development on the <a href="http://w
 
 <tr><td>
 <br>
-Richard has supplied some additional information for his emulator <a href="/html/emus/single/tnzsemu.shtml">TNZS-EMU (The NewZealand Story Emulator)</a> and his z80 core <a href="/html/libs/cpu/raze.shtml">RAZE (Multi Asm Z80 Engine)</a> which amongst other things is used by Impact. 
+Richard has supplied some additional information for his emulator TNZS-EMU (The NewZealand Story Emulator) and his z80 core RAZE (Multi Asm Z80 Engine) which amongst other things is used by Impact. 
 </td></tr>
 
 </table><br>
@@ -672,7 +672,7 @@ Richard has supplied some additional information for his emulator <a href="/html
 
 <tr><td>
 <br>
-There are new releases of <a href="/html/emus/multi2/mame32j.shtml">MAME32J</a> and <a href="/html/emus/multi2/nmame32.shtml">NMAME32</a> to match MAME v0.37 b10. 
+There are new releases of MAME32J and NMAME32 to match MAME v0.37 b10. 
 </td></tr>
 
 </table><br>
@@ -748,15 +748,15 @@ Okay, the problem has gone away for some people but not all users of Netscape. A
 
 <tr><td>
 <br>
-Updated the <a href="/html/emus/single/annoid.shtml">Annoid</a> page with information provided by <a href="/html/authors/brian_peek.shtml">Brian Peek<a> (the author) - there is a version 1.1 which basically contains the latest contact information</li><br>
+Updated the Annoid page with information provided by Brian Peek (the author) - there is a version 1.1 which basically contains the latest contact information</li><br>
 <br>
 Removed the Pong page as it was neither an emulation or simulation.<br>
 <br>
-Updated the <a href="/html/libs/cpu/genital68k.shtml">Genital 68K</a> page with yesterday's release (v0.12).<br>
+Updated the Genital 68K page with yesterday's release (v0.12).<br>
 <br>
-Added another 68K core called <a href="/html/libs/cpu/musashi.shtml">Musashi</a> (the C 68K core used by MAME ).<br>
+Added another 68K core called Musashi (the C 68K core used by MAME ).<br>
 <br>
-<a href="/html/emus/multi2/mame32af.shtml">Unofficial MAME32 with AutoFire</a> v0.37 beta 10 has been released 
+Unofficial MAME32 with AutoFire v0.37 beta 10 has been released 
 </td></tr>
 
 </table><br>

@@ -13,7 +13,7 @@
 <a name="newsitem991167154,17127,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>More JEmu Games</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:12PM [BST]</small>  </th></tr>  <tr><td> Jaydy has added 3 more games to his <a href="http://caesar.logiqx.com/html/emus/java/jemu.shtml">JEmu</a>.<br><br>+ drivers for Lizard Wizard, Pacman Plus and Space Invaders added.<br>+ scanlines added at larges display versions (which you can turn off as well as the anti-aliasing filter).<br>+ controls are now a bit more convenient (cursorkeys)<br>+ numerous bugfixes in the z80 core and i8080 emulation is now added.<br>  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:12PM [BST]</small>  </th></tr>  <tr><td> Jaydy has added 3 more games to his JEmu.<br><br>+ drivers for Lizard Wizard, Pacman Plus and Space Invaders added.<br>+ scanlines added at larges display versions (which you can turn off as well as the anti-aliasing filter).<br>+ controls are now a bit more convenient (cursorkeys)<br>+ numerous bugfixes in the z80 core and i8080 emulation is now added.<br>  </td></tr>  </table></p>
 <a name="newsitem991090609,64375,"></a><h2>Monday 28 May</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Calice v0.3.0</strong><br/> 
@@ -29,7 +29,7 @@
 <a name="newsitem990887914,6312,"></a><h2>Saturday 26 May</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Site Update</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:38PM [BST]</small>  </th></tr>  <tr><td> I've updated the site to MAME v0.37b15. <a href="http://caesar.logiqx.com/html/emus/multi/mame.shtml">MAMEW</a> is now considered the prime port.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:38PM [BST]</small>  </th></tr>  <tr><td> I've updated the site to MAME v0.37b15. MAMEW is now considered the prime port.  </td></tr>  </table></p>
 <a name="newsitem990887823,52419,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>New Site Address</strong><br/> 
@@ -113,11 +113,11 @@
 <a name="newsitem990044741,11139,"></a><h2>Wednesday 16 May</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Mac Users</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:25PM [BST]</small>  </th></tr>  <tr><td> If anyone with a Mac is willing to work out which ROMs are needed for <a href="/html/emus/mac/yiear.shtml">Yie Ar Kung Fu</a> and <a href="/html/emus/mac/macmoon.shtml">MacMoon</a> I would find it most useful. If you think you can help out then please drop me an e-mail and I will explain what needs doing.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:25PM [BST]</small>  </th></tr>  <tr><td> If anyone with a Mac is willing to work out which ROMs are needed for Yie Ar Kung Fu and MacMoon I would find it most useful. If you think you can help out then please drop me an e-mail and I will explain what needs doing.  </td></tr>  </table></p>
 <a name="newsitem990044596,62977,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>New Emulators</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:23PM [BST]</small>  </th></tr>  <tr><td> Added several new emulators to CAESAR:<br><br><a href="/html/emus/single/ace.shtml">ACE</a> (Final Fight Emulator for the PC)<br><a href="/html/emus/single/thenewzealandstory.shtml">The New Zealand Story</a> (PC)<br><a href="/html/emus/multi/domino.shtml">Domino</a> (Pacman for PC)<br><a href="/html/emus/mac/modeler_mac.shtml">Modeler</a> (Sega System 32 for the Mac)<br><a href="/html/emus/mac/macmoon.shtml">MacMoon</a> (classics for the Mac)<br><a href="/html/emus/mac/yiear.shtml">Yie Ar Kung Fu</a> (Mac)<br><a href="/html/emus/java/jemu.shtml">JEmu</a> (Pacman and Ms Pacman in Java)<br><a href="/html/emus/linux/xpinmame.shtml">XPinMAME</a> (PinMAME for Linux)  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 9:23PM [BST]</small>  </th></tr>  <tr><td> Added several new emulators to CAESAR:<br><br>ACE (Final Fight Emulator for the PC)<br>The New Zealand Story (PC)<br>Domino (Pacman for PC)<br>Modeler (Sega System 32 for the Mac)<br>MacMoon (classics for the Mac)<br>Yie Ar Kung Fu (Mac)<br>JEmu (Pacman and Ms Pacman in Java)<br>XPinMAME (PinMAME for Linux)  </td></tr>  </table></p>
 <a name="newsitem989883217,58572,"></a><h2>Tuesday 15 May</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Modeler/MacOS</strong><br/> 
@@ -145,7 +145,7 @@
 <a name="newsitem989683569,55120,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Some Updates...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 5:06PM [BST]</small>  </th></tr>  <tr><td> Added snapshots for <a href="/html/emus/multi/hive.shtml">HiVE</a> (thanks to Leslaw) and found a newer version of <a href="/html/emus/sound/mmsnd.shtml">MMSND</a> (v0.36 b10).  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 5:06PM [BST]</small>  </th></tr>  <tr><td> Added snapshots for HiVE (thanks to Leslaw) and found a newer version of MMSND (v0.36 b10).  </td></tr>  </table></p>
 <a name="newsitem989673415,35393,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Mimic WIP</strong><br/> 
@@ -169,7 +169,7 @@
 <a name="newsitem989348216,78367,"></a><h2>Tuesday 8 May</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Genital v0.35</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:56PM [BST]</small>  </th></tr>  <tr><td> Bart has updated his 68K core and released <a href="/html/libs/cpu/genital68k.shtml">Genital v0.35</a>. This is only really of interest to emulator programmers rather than game players.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 7:56PM [BST]</small>  </th></tr>  <tr><td> Bart has updated his 68K core and released Genital v0.35. This is only really of interest to emulator programmers rather than game players.  </td></tr>  </table></p>
 <a name="newsitem989348143,965,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>I'm Back!</strong><br/> 

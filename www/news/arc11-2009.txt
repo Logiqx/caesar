@@ -5,7 +5,7 @@
     <th><strong>MAME 0.135 and FBA 0.2.97.07</strong><br/><small>Posted by <a href="/info/about.shtml">logiqx</a></small></th>
   </tr>
   <tr>
-    <td>I have updated CAESAR for <a href="http://caesar.logiqx.com/php/emulator.php?id=mame">MAME 0.135</a> and <a href="http://caesar.logiqx.com/php/emulator.php?id=finalburnalpha">FBA 0.2.97.07</a></td>
+    <td>I have updated CAESAR for MAME 0.135 and FBA 0.2.97.07</td>
   </tr>
 </table>
 

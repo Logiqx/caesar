@@ -25,7 +25,7 @@ After yesterday's release of X-Men Vs Street Fighter, all three CPS2MAME variant
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/wpcmame.shtml">WPCMAME</a> has now been replaced by <a href="http://pinmame.emuviews.com/">PINMAME</a>. If you are a pinball fan than it may be worth a look. 
+WPCMAME has now been replaced by <a href="http://pinmame.emuviews.com/">PINMAME</a>. If you are a pinball fan than it may be worth a look. 
 </td></tr>
 
 </table><br>
@@ -495,7 +495,7 @@ The <a href="http://www.mame.net/wip">MAME WIP</a> page had another update. 12th
 
 <tr><td>
 <br>
-Various MAME variants have been released. <a href="/html/emus/mac/macmame.shtml">MacMAME v0.37b13</a>, <a href="/html/emus/mac2/cpsmame.shtml">CPSMAME (Mac PPC)</a>, <a href="/html/emus/multi2/neomame.shtml">NeoMAME v0.37b13</a>, <a href="/html/emus/multi2/fixmame.shtml">FixMAME v0.37b13</a>, <a href="/html/emus/multi2/cps2mame.shtml">CPS2MAME</a>, <a href="/html/emus/multi2/mamelang32.shtml">MAMELang32v0.37b13 (also moved home)</a>, <a href="/html/emus/multi2/stretchmame32.shtml">StretchMAME32 v0.37b13</a>. All updated in CAESAR. 
+Various MAME variants have been released. MacMAME v0.37b13, CPSMAME (Mac PPC), NeoMAME v0.37b13, FixMAME v0.37b13, CPS2MAME, MAMELang32v0.37b13 (also moved home), StretchMAME32 v0.37b13. All updated in CAESAR. 
 </td></tr>
 
 </table><br>
@@ -510,7 +510,7 @@ Various MAME variants have been released. <a href="/html/emus/mac/macmame.shtml"
 
 <tr><td>
 <br>
-I've finally found <a href="/html/emus/multi/wpcmame.shtml">WPCMame</a> again. It has moved to <a href="http://wpcmame.emuviews.com">JoseQ's Emuviews</a>. 
+I've finally found WPCMame again. It has moved to <a href="http://wpcmame.emuviews.com">JoseQ's Emuviews</a>. 
 </td></tr>
 
 </table><br>
@@ -572,7 +572,7 @@ Three days worth of <a href="http://www.mame.net/wip">WIP</a> over at the offici
 
 <tr><td>
 <br>
-All up to date again, <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.111</a>, <a href="/html/emus/multi2/kaillera.shtml">Kaillera v0.41</a>, <a href="/html/emus/multi/calice.shtml">Calice v0.1.4</a>, <a href="/html/emus/dreamcast/dreampac.shtml">DreamPac (Dreamcast)</a> and other MAME variants like StretchMAME and the CPS2 versions. Also added screenshots for <a href="/html/emus/wince/aemu.shtml">AEmu</a> (thanks Boris). 
+All up to date again, Final Burn v0.111, Kaillera v0.41, Calice v0.1.4, DreamPac (Dreamcast) and other MAME variants like StretchMAME and the CPS2 versions. Also added screenshots for AEmu (thanks Boris). 
 </td></tr>
 
 </table><br>
@@ -771,7 +771,7 @@ Matt Ownby has been making good progress with Daphne. Take a look at this <a hre
 
 <tr><td>
 <br>
-Another version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been released but this time there is a Windows version too (only runs in 8bpp windowed mode at the moment). 
+Another version of Calice has been released but this time there is a Windows version too (only runs in 8bpp windowed mode at the moment). 
 </td></tr>
 
 </table><br>

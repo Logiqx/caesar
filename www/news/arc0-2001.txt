@@ -57,7 +57,7 @@ The <a href="http://www.mame.net/wip0101.html">MAME</a> and <a href="http://www.
 
 <tr><td>
 <br>
-Several <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> releases over the past few days. CAESAR now contains details and executable for v0.087. 
+Several Final Burn releases over the past few days. CAESAR now contains details and executable for v0.087. 
 </td></tr>
 
 </table><br>
@@ -72,7 +72,7 @@ Several <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> releases over 
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/calice.shtml">Calice</a> received an update yesterday that added text based driver support. This means that it is now possible for people to add new CPS-1 games without needing a new version of the executable. 
+Calice received an update yesterday that added text based driver support. This means that it is now possible for people to add new CPS-1 games without needing a new version of the executable. 
 </td></tr>
 
 </table><br>
@@ -135,7 +135,7 @@ The <a href="http://www.impactemu.com">Modeler</a> page has been updated to say 
 
 <tr><td>
 <br>
-Updated CAESAR for <a href="/html/emus/multi/calice.shtml">Calice v0.0.3a</a>, <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.083</a>, <a href="/html/emus/multi/wpcmame.shtml">WPCmame v0.37b8 ver 6</a>, <a href="/html/emus/sound/qplayer.shtml">QPlayer v1.4.1</a> and <a href="/html/emus/mac/macmame.shtml">MacMAME v0.37 b11a</a>. 
+Updated CAESAR for Calice v0.0.3a, Final Burn v0.083, WPCmame v0.37b8 ver 6, QPlayer v1.4.1 and MacMAME v0.37 b11a. 
 </td></tr>
 
 </table><br>
@@ -181,7 +181,7 @@ The <a href="http://www.mame.net/wip0101.html">MAME WIP<a> page shows lots of ne
 
 <tr><td>
 <br>
-David Raingeard (author of <a href="/html/emus/beos/besnowbros.shtml">BeSnowBros</a>) has released a new CPS-1 emulator for DOS called <a href="http://diesel.planet-d.net/BeGameboy/capcom.html">Calice</a>. It's currently at version 0.0.3a and supports Final Fight, Strider and Willow. 
+David Raingeard (author of BeSnowBros) has released a new CPS-1 emulator for DOS called <a href="http://diesel.planet-d.net/BeGameboy/capcom.html">Calice</a>. It's currently at version 0.0.3a and supports Final Fight, Strider and Willow. 
 </td></tr>
 
 </table><br>
@@ -243,7 +243,7 @@ A new version of <a href="http://wildsau.idv.uni-linz.ac.at/mfx/upx.html">UPX</a
 
 <tr><td>
 <br>
-Added updates for <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.079</a>, <a href="/html/emus/multi2/advancemame.shtml">AdvanceMAME v0.37 b11</a> and <a href="/html/emus/wince/mamece_10x.shtml">MAMECE-10x</a> 
+Added updates for Final Burn v0.079, AdvanceMAME v0.37 b11 and MAMECE-10x 
 </td></tr>
 
 </table><br>
@@ -320,7 +320,7 @@ Okay, it's only a small thing but games called 'The ....' are now listed in CAES
 
 <tr><td>
 <br>
-Some of you may have wondered what the game called Road Runner is in <a href="/html/emus/multi/sideway.shtml">Sideway</a>. Well it turns out that it is actually in MAME and called Desert Gun. Don't ask me why the names differ (apart from there being a Road Runner like character in Desert Gun). The ROMs match up so that's the end of it! 
+Some of you may have wondered what the game called Road Runner is in Sideway. Well it turns out that it is actually in MAME and called Desert Gun. Don't ask me why the names differ (apart from there being a Road Runner like character in Desert Gun). The ROMs match up so that's the end of it! 
 </td></tr>
 
 </table><br>
@@ -350,7 +350,7 @@ Please, please, please do not bug Dave asking when he'll add your favorite CPS-2
 
 <tr><td>
 <br>
-Various MAME ports have been updated to include the latest core: <a href="/html/emus/multi2/mame32.shtml">MAME32</a> (Windows), <a href="/html/emus/multi2/neomame.shtml">NeoMAME</a> (Neo-Geo only version for DOS) and <a href="/html/emus/linux/xmame.shtml">X-MAME</a> (Linux). 
+Various MAME ports have been updated to include the latest core: MAME32 (Windows), NeoMAME (Neo-Geo only version for DOS) and X-MAME (Linux). 
 </td></tr>
 
 </table><br>
@@ -396,7 +396,7 @@ Dave has released <a href="http://www.finalburn.com">Final Burn</a> v0.77. This 
 
 <tr><td>
 <br>
-Another version of <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> has been released, adding support for Street Fighter Alpha and Hotrod. 
+Another version of Final Burn has been released, adding support for Street Fighter Alpha and Hotrod. 
 </td></tr>
 
 </table><br>
@@ -411,7 +411,7 @@ Another version of <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> has
 
 <tr><td>
 <br>
-<a href="/html/emus/sound/qplayer.shtml">QPlayer</a> received an updated that fixes the playback tempo. 
+QPlayer received an updated that fixes the playback tempo. 
 </td></tr>
 
 </table><br>
@@ -427,7 +427,7 @@ Another version of <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> has
 
 <tr><td>
 <br>
-Did a rebuild of CAESAR for the new <a href="/html/emus/multi/mame.shtml">MAME</a> release and 650 pages have been updated/created as a result! Significantly, the 1999 Neo-Geo games have been enabled and thus no longer 'non-MAME' and around 30 <a href="/html/emus/multi/raine.shtml">RAINE</a> games are now in MAME also. 
+Did a rebuild of CAESAR for the new MAME release and 650 pages have been updated/created as a result! Significantly, the 1999 Neo-Geo games have been enabled and thus no longer 'non-MAME' and around 30 RAINE games are now in MAME also. 
 </td></tr>
 
 </table><br>
@@ -442,13 +442,13 @@ Did a rebuild of CAESAR for the new <a href="/html/emus/multi/mame.shtml">MAME</
 
 <tr><td>
 <br>
-<a href="/html/libs/cpu/genital68k.shtml">Genital68K</a> (68000 CPU core) page has been updated to the version released a few days ago.<br>
+Genital68K (68000 CPU core) page has been updated to the version released a few days ago.<br>
 <br>
-<a href="/html/emus/multi2/mame32af.shtml">Unofficial MAME 32 with autofire</a> has been updated to v0.37 b11.<br>
+Unofficial MAME 32 with autofire has been updated to v0.37 b11.<br>
 <br>
-<a href="/html/emus/multi2/mame32ss.shtml">MAME32 screen saver</a> has been updated to v0.37 b11.<br>
+MAME32 screen saver has been updated to v0.37 b11.<br>
 <br>
-Found where <a href="/html/authors/neill_corlett.shtml">Neill Corlett's</a> pages live for <a href="/html/libs/cpu/starscream.shtml">Starscream</a> and <a href="/html/emus/multi/mge.shtml">MGE</a>. 
+Found where Neill Corlett's pages live for Starscream and MGE. 
 </td></tr>
 
 </table><br>
@@ -493,7 +493,7 @@ Roman has released a small bugfix version of <a href="http://www.mameworld.net/c
 
 <tr><td>
 <br>
-Lawrence Gold has taken over as maintainer of <a href="/html/emus/linux/xmame.shtml">X-MAME</a>. He has released v0.37 b10.1 and I think beta 11 could be on it's way in the near future too. 
+Lawrence Gold has taken over as maintainer of X-MAME. He has released v0.37 b10.1 and I think beta 11 could be on it's way in the near future too. 
 </td></tr>
 
 </table><br>
@@ -508,9 +508,9 @@ Lawrence Gold has taken over as maintainer of <a href="/html/emus/linux/xmame.sh
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> received a minor update the other day. Now in CAESAR.<br>
+Final Burn received a minor update the other day. Now in CAESAR.<br>
 <br>
-<a href="/html/emus/multi2/mamelang32pacmame.shtml">MAMELang32</a> also had an update (v0.37 b10.3) recently. 
+MAMELang32 also had an update (v0.37 b10.3) recently. 
 </td></tr>
 
 </table><br>
@@ -620,7 +620,7 @@ The <a href="http://www.mame.net/wip0101.html">MAME WIP</a> page has been update
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/multi/impact.shtml">Impact</a> has been released. Version 432756 is the last beta that was produced after the 'leaked' version. 
+A new version of Impact has been released. Version 432756 is the last beta that was produced after the 'leaked' version. 
 </td></tr>
 
 </table><br>
@@ -651,7 +651,7 @@ The <a href="http://games.lasers.org/">LaserMAME<a/> site has been updated with 
 
 <tr><td>
 <br>
-Added a <a href="/html/emus/psion.shtml">Psion</a> section to CAESAR for <a href="/html/emus/psion/emame.shtml">Emame</a> 
+Added a Psion section to CAESAR for Emame 
 </td></tr>
 
 </table><br>
@@ -666,7 +666,7 @@ Added a <a href="/html/emus/psion.shtml">Psion</a> section to CAESAR for <a href
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> had another update yesterday. The main addition was the ability to select the region (anf therefore switch between Alpha/Zero). 
+Final Burn had another update yesterday. The main addition was the ability to select the region (anf therefore switch between Alpha/Zero). 
 </td></tr>
 
 </table><br>
@@ -681,7 +681,7 @@ Added a <a href="/html/emus/psion.shtml">Psion</a> section to CAESAR for <a href
 
 <tr><td>
 <br>
-Added <a href="/html/emus/multi2/mkmame.shtml">MKMAME</a> (the Mortal Combat only version of MAME) to CAESAR. 
+Added MKMAME (the Mortal Combat only version of MAME) to CAESAR. 
 </td></tr>
 
 </table><br>
@@ -696,7 +696,7 @@ Added <a href="/html/emus/multi2/mkmame.shtml">MKMAME</a> (the Mortal Combat onl
 
 <tr><td>
 <br>
-Updated the versions of 'make' and 'binary utils' on the <a href="/html/tools/compilers/djgpp.shtml">DJGPP</a> page. You'll need these newer versions if you wish to try compiling recent versions of RAINE. 
+Updated the versions of 'make' and 'binary utils' on the DJGPP page. You'll need these newer versions if you wish to try compiling recent versions of RAINE. 
 </td></tr>
 
 </table><br>
@@ -758,7 +758,7 @@ Mike has posted the news that he has a Sega System E board and will draw up a sc
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/multi/modeler3d.shtml">Modeler</a> has been released, adding support for Virtua Fighter, Virtua Racing and Star Wars. However, it hasn't got polygon support yet so the games themselves aren't playable. 
+A new version of Modeler has been released, adding support for Virtua Fighter, Virtua Racing and Star Wars. However, it hasn't got polygon support yet so the games themselves aren't playable. 
 </td></tr>
 
 </table><br>
@@ -788,7 +788,7 @@ It came out yesterday but is now online here. More sprite fixes.
 
 <tr><td>
 <br>
-<a href="/html/libs/cpu/genital68k.shtml">Genital</a> v0.20 has been released. See the <a href="http://trzy.overclocked.org/gen68k/">homepage</a> for full details. 
+Genital v0.20 has been released. See the <a href="http://trzy.overclocked.org/gen68k/">homepage</a> for full details. 
 </td></tr>
 
 </table><br>
@@ -895,7 +895,7 @@ The first arcade emulator for the Psion range has been released. <a href="http:/
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> v0.065 has been released, removing the QSound and sprite problems. 
+Final Burn v0.065 has been released, removing the QSound and sprite problems. 
 </td></tr>
 
 </table><br>
@@ -911,7 +911,7 @@ The first arcade emulator for the Psion range has been released. <a href="http:/
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> has added support for Street Fighter Zero and a few other Street Fighter variants (to help him during CPS2 development). Street Fighter Zero is the first CPS2 game to be emulated. 
+Final Burn has added support for Street Fighter Zero and a few other Street Fighter variants (to help him during CPS2 development). Street Fighter Zero is the first CPS2 game to be emulated. 
 </td></tr>
 
 </table><br>
@@ -926,7 +926,7 @@ The first arcade emulator for the Psion range has been released. <a href="http:/
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/sound/qplayer.shtml">QPlayer</a> was released a couple of days ago. QPlayer can play the sounds of CPS2 games. 
+A new version of QPlayer was released a couple of days ago. QPlayer can play the sounds of CPS2 games. 
 </td></tr>
 
 </table><br>
@@ -941,7 +941,7 @@ A new version of <a href="/html/emus/sound/qplayer.shtml">QPlayer</a> was releas
 
 <tr><td>
 <br>
-<a href="/html/libs/cpu/raze.shtml">RAZE</a> (Z80 CPU core) by Richard Mitton has been updated to v1.05. 
+RAZE (Z80 CPU core) by Richard Mitton has been updated to v1.05. 
 </td></tr>
 
 </table><br>

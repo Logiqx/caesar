@@ -195,7 +195,7 @@ The <a href="http://www.mame.net/wip">MAME WIP</a> page has been updated again b
 
 <tr><td>
 <br>
-<a href="/html/emus/psion/emame.shtml">EMAME</a> (MAME for the Psion EPOC32) has been updated to version 1.1. This version adds sound and many new games. 
+EMAME (MAME for the Psion EPOC32) has been updated to version 1.1. This version adds sound and many new games. 
 </td></tr>
 
 </table><br>
@@ -210,7 +210,7 @@ The <a href="http://www.mame.net/wip">MAME WIP</a> page has been updated again b
 
 <tr><td>
 <br>
-Updated CAESAR for the recent <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.103</a> release and the many MAME variants that have been released following MAME v0.37b12. 
+Updated CAESAR for the recent Final Burn v0.103 release and the many MAME variants that have been released following MAME v0.37b12. 
 </td></tr>
 
 </table><br>
@@ -426,7 +426,7 @@ Three versions of <a href="http://www.finalburn.com">Final Burn</a> have been re
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/modeler.shtml">Modeler v0.1.1</a> has been released, adding Virtua Racing and Virtua Fighter from the Model 1 version of Modeler (v0.0.6). Arabian Fight has also been added. Up to date in CAESAR (with snapshots). 
+Modeler v0.1.1 has been released, adding Virtua Racing and Virtua Fighter from the Model 1 version of Modeler (v0.0.6). Arabian Fight has also been added. Up to date in CAESAR (with snapshots). 
 </td></tr>
 
 </table><br>
@@ -472,7 +472,7 @@ Updated CAESAR for MAME v0.37b12. Around 1400 pages have been added or changed!
 
 <tr><td>
 <br>
-Another update for the recent releases: <a href="/html/emus/multi/modeler.shtml">Modeler v0.1.0a</a>, <a href="/html/emus/multi/calice.shtml">Calice v0.1.0</a>, <a href="/html/emus/multi/finalburn.shtml">Final Burn v0.097</a>, <a href="/html/emus/multi/impact.shtml">Glide Renderer for Impact</a>, <a href="/html/libs/cpu/genital68k.shtml">Genital68K v0.22</a> and <a href="/html/emus/linux/xmame.shtml">XMAME v0.37b11.2</a>. <a href="/html/authors/barry_rodewald.shtml">Barry Rodewald</a> has now moved to EmuUnlim now as well. 
+Another update for the recent releases: Modeler v0.1.0a, Calice v0.1.0, Final Burn v0.097, Glide Renderer for Impact, Genital68K v0.22 and XMAME v0.37b11.2. Barry Rodewald has now moved to EmuUnlim now as well. 
 </td></tr>
 
 </table><br>
@@ -595,7 +595,7 @@ The <a href="http://www.mame.net/wip">MAME WIP</a> page has been upadted to show
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/raine.shtml">RAINE v0.30a</a> has been rleased for DOS and Linux. Updated details are now in CAESAR. 
+RAINE v0.30a has been rleased for DOS and Linux. Updated details are now in CAESAR. 
 </td></tr>
 
 </table><br>
@@ -626,7 +626,7 @@ Geez, I just looked at the CPS-2 message board and the world has gone mad whilst
 
 <tr><td>
 <br>
-Caught up with the recent updates of <a href="/html/emus/multi/vantage.shtml">VAntAGE v1.1</a> and <a href="/html/emus/multi/calice.shtml">Calice v0.0.8</a>. There was also a new version of <a href="/html/libs/cpu/musashi.shtml">Musashi</a> (v3.3.1), the 68000/68020 core used by MAME. Lastly, I updated some of the home page links that have changed recently. 
+Caught up with the recent updates of VAntAGE v1.1 and Calice v0.0.8. There was also a new version of Musashi (v3.3.1), the 68000/68020 core used by MAME. Lastly, I updated some of the home page links that have changed recently. 
 </td></tr>
 
 </table><br>
@@ -673,7 +673,7 @@ The <a href="http://mimic.arcadeheaven.com">Mimic</a> home page has a small WIP 
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been released, adding another 4 games and sound support too. 
+A new version of Calice has been released, adding another 4 games and sound support too. 
 </td></tr>
 
 </table><br>
@@ -736,7 +736,7 @@ Bothe the <a href="http://www.rainemu.com/html/wip.html">RAINE</a> and <a href="
 
 <tr><td>
 <br>
-A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been released, adding support for another 9 CPS-1 games. 
+A new version of Calice has been released, adding support for another 9 CPS-1 games. 
 </td></tr>
 
 </table><br>
@@ -751,7 +751,7 @@ A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been rel
 
 <tr><td>
 <br>
-<a href="/html/emus/multi/finalburn.shtml">Final Burn</a> had another update, adding support for a second version of X-Men. 
+Final Burn had another update, adding support for a second version of X-Men. 
 </td></tr>
 
 </table><br>
@@ -766,7 +766,7 @@ A new version of <a href="/html/emus/multi/calice.shtml">Calice</a> has been rel
 
 <tr><td>
 <br>
-<a href="/html/emus/multi2/emuplus.shtml">EMU+</a> got it's first update since MAME changed it's memory handler in v0.37b8. Check it out for extra features added to MAME. 
+EMU+ got it's first update since MAME changed it's memory handler in v0.37b8. Check it out for extra features added to MAME. 
 </td></tr>
 
 </table><br>
@@ -828,7 +828,7 @@ The <a href="http://www.mame.net/wip">MAME WIP</a> page has added some news main
 
 <tr><td>
 <br>
-Wow, almost 600 pages updated tonight! <a href="/html/emus/multi/raine.shtml">RAINE</a>, <a href="/html/emus/multi/raine32.shtml">RAINE32</a> and <a href="/html/emus/linux/raine_linux.shtml">RAINE for Linux</a> had a big release yesterday. Also released were <a href="/html/emus/multi/laser.shtml">Laser v0.16 (special)</a> and <a href="/html/emus/multi/calice.shtml">Calice v0.0.6</a>. Several releases of <a href="/html/emus/multi/finalburn.shtml">Final Burn</a> have passed by in the last few days and I'm sure there'll be more where they came from! Also updated have been <a href="/html/emus/wince/mameboy.shtml">MAMEBoy</a> and <a href="/html/emus/wince/mamecepod.shtml">MAMECePod</a> had updates. <a href="/html/emus/multi2/vsyncmame.shtml">VSyncMAME</a> has moved to MAMEWorld and <a href="/html/emus/single/wingorf.shtml">WinGorf</a> has moved to EmuUnlim. 
+Wow, almost 600 pages updated tonight! RAINE, RAINE32 and RAINE for Linux had a big release yesterday. Also released were Laser v0.16 (special) and Calice v0.0.6. Several releases of Final Burn have passed by in the last few days and I'm sure there'll be more where they came from! Also updated have been MAMEBoy and MAMECePod had updates. VSyncMAME has moved to MAMEWorld and WinGorf has moved to EmuUnlim. 
 </td></tr>
 
 </table><br>

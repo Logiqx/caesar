@@ -8,7 +8,7 @@
 <a name="newsitem1098717368,71247,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>The same as usual...</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:16PM [BST]</small>  </th></tr>  <tr><td> Another release of MAME so another update to the CAESAR database and I also updated the ZiNc information whilst I was at it. Three emulators have lost their 'Non-MAME' status in CAESAR now; <a href="http://caesar.logiqx.com/html/emus/multi/nebulam2.shtml">Nebula Model 2</a>, <a href="http://caesar.logiqx.com/html/emus/multi/virtua.shtml">Virtua</a> and <a href="http://caesar.logiqx.com/html/emus/multi/zinc.shtml">Zinc</a>. That's all for now!  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 3:16PM [BST]</small>  </th></tr>  <tr><td> Another release of MAME so another update to the CAESAR database and I also updated the ZiNc information whilst I was at it. Three emulators have lost their 'Non-MAME' status in CAESAR now; Nebula Model 2, Virtua and Zinc. That's all for now!  </td></tr>  </table></p>
 <a name="newsitem1098620163,26763,"></a><h2>Sunday 24 October</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Metallic</strong><br/> 

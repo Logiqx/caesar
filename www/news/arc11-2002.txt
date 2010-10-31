@@ -121,7 +121,7 @@
 <a name="newsitem1040670527,14051,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Woot? Hoot!</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:08PM [GMT]</small>  </th></tr>  <tr><td> After more than a year, Logiqx finally added <a href="http://caesar.logiqx.com/html/emus/sound/hoot.shtml" target=_blank>Hoot</a> to CAESAR, in the Sound Emus section. And after 2 days, I am posting that <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> also added in his site updated datafiles for it, and for latest RAINE too.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 7:08PM [GMT]</small>  </th></tr>  <tr><td> After more than a year, Logiqx finally added Hoot to CAESAR, in the Sound Emus section. And after 2 days, I am posting that <a href="http://www.logiqx.com/" target=_blank>Logiqx</a> also added in his site updated datafiles for it, and for latest RAINE too.  </td></tr>  </table></p>
 <a name="newsitem1040666000,95532,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Whooping Wipping</strong><br/> 
@@ -133,7 +133,7 @@
 <a name="newsitem1040590804,88244,"></a><h2>Sunday 22 December</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>A refreshing change</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:00PM [GMT]</small>  </th></tr>  <tr><td> Logiqx has been doing a massive update here at CAESAR. Among all the changed things, now <a href="http://bcz.emu-france.com/" target=_blank>Bruno Vedder</a> has listed <a href="http://caesar.logiqx.com/html/authors/bruno_vedder.shtml" target=_blank>two emulators</a>. The new one is <a href="http://caesar.logiqx.com/html/emus/single/mikie.shtml" target=_blank>Konami's Mikie</a> for Windows/SDL.  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 9:00PM [GMT]</small>  </th></tr>  <tr><td> Logiqx has been doing a massive update here at CAESAR. Among all the changed things, now <a href="http://bcz.emu-france.com/" target=_blank>Bruno Vedder</a> has listed two emulators. The new one is Konami's Mikie for Windows/SDL.  </td></tr>  </table></p>
 <a name="newsitem1040585672,40284,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Cursus Honorum? Of coursus!</strong><br/> 
@@ -249,7 +249,7 @@
 <a name="newsitem1039990575,22432,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Unknown changelog</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:16PM [GMT]</small>  </th></tr>  <tr><td> Marat Fayzullin's <a href="http://fms.komkon.org/EMUL8/" target=_blank>6502 Emulation Package</a> has seen an update today. This very popular CPU core is used in <a href="http://caesar.logiqx.com/html/libs/cpu/m6502.shtml" target=_blank>many arcade emulators</a>. Actually more than listed in our page ;)  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 10:16PM [GMT]</small>  </th></tr>  <tr><td> Marat Fayzullin's <a href="http://fms.komkon.org/EMUL8/" target=_blank>6502 Emulation Package</a> has seen an update today. This very popular CPU core is used in many arcade emulators. Actually more than listed in our page ;)  </td></tr>  </table></p>
 <a name="newsitem1039875578,46667,"></a><h2>Saturday 14 December</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>First one to spot the error wins a free game</strong><br/> 
@@ -477,7 +477,7 @@
 <a name="newsitem1039013615,43210,"></a>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>More emulation for palm devices</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:53PM [GMT]</small>  </th></tr>  <tr><td> Jeff Mitchell, author of <a href="http://caesar.logiqx.com/html/emus/linux/xcade_unix.shtml" target=_blank>Xcade for Unix<a> and its DOS port five years ago, has released at his CodeJedi page <a href="http://www.codejedi.com/" target=_blank>XCade 1.1 for Palm OS</a>, claiming to be the first arcade emulator for this platform. According to the website, it only runs in the latest Palm OS devices like Palm Tungsten T and the Sony NX series. For now it runs Space Invaders, Pacman and MS. Pacman, and Donkey Kong and Donkey Kong Jr., plus games in similar hardware. Right now I am unsure if the emu is shareware or the registration is optional, or even if it's crippled in any way. Thanks to Stiletto for covering this emu I totally missed!  </td></tr>  </table></p>
+<small>Posted by <a href="/info/about.shtml">pi</a> at at 2:53PM [GMT]</small>  </th></tr>  <tr><td> Jeff Mitchell, author of Xcade for Unix<a> and its DOS port five years ago, has released at his CodeJedi page <a href="http://www.codejedi.com/" target=_blank>XCade 1.1 for Palm OS, claiming to be the first arcade emulator for this platform. According to the website, it only runs in the latest Palm OS devices like Palm Tungsten T and the Sony NX series. For now it runs Space Invaders, Pacman and MS. Pacman, and Donkey Kong and Donkey Kong Jr., plus games in similar hardware. Right now I am unsure if the emu is shareware or the registration is optional, or even if it's crippled in any way. Thanks to Stiletto for covering this emu I totally missed!  </td></tr>  </table></p>
 <a name="newsitem1038954647,64867,"></a><h2>Tuesday 3 December</h2>
 <p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
   <tr><th><strong>Playing the game name</strong><br/> 
