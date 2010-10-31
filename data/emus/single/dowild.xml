@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="dowild" type="single" dat="Mr._Do!'s_Wild_Ride_Beta_1.2">
+<emulator id="dowild" type="single" dat="Mr._Do!_s_Wild_Ride_Beta_1.2">
 	<name>Mr. Do!'s Wild Ride Emulator</name>
 	<version>Beta 1.2</version>
 	<date>13/10/1996</date>

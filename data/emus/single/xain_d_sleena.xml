@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="xain_d_sleena" type="single" dat="Xain'D_Sleena_v1.0">
+<emulator id="xain_d_sleena" type="single" dat="Xain_D_Sleena_v1.0">
 	<name>Xain'D Sleena Emulator</name>
 	<version>1.0</version>
 	<date>05/04/1998</date>

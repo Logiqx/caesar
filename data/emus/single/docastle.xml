@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="docastle" type="single" dat="Mr._Do!'s_Castle_v2.0">
+<emulator id="docastle" type="single" dat="Mr._Do!_s_Castle_v2.0">
 	<name>Mr. Do!'s Castle Emulator</name>
 	<version>2.0</version>
 	<date>25/12/1996</date>

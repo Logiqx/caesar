@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE emulator SYSTEM "../../../dtd/caesar.dtd">
-<emulator id="sse" type="single" dat="Sil's_Single_Emulator_v2.0">
+<emulator id="sse" type="single" dat="Sil_s_Single_Emulator_v2.0">
 	<name>Sil's Single Emulator (S.S.E.)</name>
 	<version>v2.0</version>
 	<date>30/11/1998</date>
