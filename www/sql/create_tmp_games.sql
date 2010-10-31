@@ -14,7 +14,7 @@ CREATE TABLE tmp_game
 	sampleof	VARCHAR(20) NULL,
 	description	VARCHAR(120) NOT NULL,
 	year		VARCHAR(10) NULL, -- NOT NULL IN LISTXML
-	manufacturer	VARCHAR(60) NULL, -- NOT NULL IN LISTXML
+	manufacturer	VARCHAR(80) NULL, -- NOT NULL IN LISTXML
 	history		TEXT NULL,
 	rebuildto	VARCHAR(20) NULL,
 	board		VARCHAR(40) NULL,
