@@ -1,0 +1,8 @@
+game (
+	name spainpa
+	description "SpainDumps Dump of Puzzle & Action - Bad?"
+	rom ( name pa_1.bin size 262144 crc 2df4d58a )
+	rom ( name pa_2.bin size 262144 crc 1feebeb3 )
+	rom ( name pa_3.bin size 262144 crc 54c3afcf )
+	rom ( name pa_4.bin size 262144 crc 5bab3b24 )
+)

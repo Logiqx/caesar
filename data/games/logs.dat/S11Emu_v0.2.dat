@@ -1,0 +1,7 @@
+game (
+	name tk2b
+	description "Tekken 2 (JP) Ver. B"
+	rom ( name eeprom size 2048 crc bb7ed6f9 )
+	rom ( name wavebh size 2097152 crc 344c0c89 )
+	rom ( name wavebl size 2097152 crc 4b8c5195 )
+)

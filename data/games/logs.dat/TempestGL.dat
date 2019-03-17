@@ -1,0 +1,52 @@
+game (
+	name aliensa
+	description "Aliens"
+	rom ( name aliens_r3.bin size 2048 crc 6cabcd08 )
+	rom ( name aliens_r1.bin size 2048 crc 555c3070 )
+	rom ( name aliens_p1.bin size 2048 crc 7c10adbd )
+	rom ( name aliens_n3.bin size 2048 crc 5c8fd38b )
+	rom ( name aliens_n1.bin size 2048 crc bd98c5f3 )
+	rom ( name aliens_l1.bin size 2048 crc cd246ac2 )
+	rom ( name aliens_k1.bin size 2048 crc 0ac96e87 )
+	rom ( name aliens_j1.bin size 2048 crc 5487d531 )
+	rom ( name aliens_d1.bin size 2048 crc 337e21f6 )
+	rom ( name aliens_f1.bin size 2048 crc 4d2aabb0 )
+	rom ( name aliens_e1.bin size 2048 crc 337e21f6 )
+	rom ( name aliens_h1.bin size 2048 crc a503f54a )
+)
+
+game (
+	name tempestm
+	description "Tempest (Multi-game)"
+	rom ( name menu_d1.bin size 2048 crc 8a6633fb )
+	rom ( name menu_f1.bin size 2048 crc 12f62746 )
+	rom ( name menu_e1.bin size 2048 crc 2eedfdf6 )
+	rom ( name menu_r1.bin size 2048 crc 1d8f194a )
+)
+
+game (
+	name vectorb
+	description "Vector Breakout"
+	rom ( name vb_r1.bin size 2048 crc 1ae2dd53 )
+	rom ( name vb_h1.bin size 2048 crc cd58fc11 )
+	rom ( name vb_d1.bin size 2048 crc 6fd3efe5 )
+	rom ( name vb_e1.bin size 2048 crc 9974b9a5 )
+	rom ( name vb_f1.bin size 2048 crc 44d611d8 )
+)
+
+game (
+	name vortex
+	description "Vortex"
+	rom ( name e1.bin size 2048 crc 11861be3 )
+	rom ( name f1.bin size 2048 crc 1d251111 )
+	rom ( name h1.bin size 2048 crc 937a9859 )
+	rom ( name j1.bin size 2048 crc 79481246 )
+	rom ( name k1.bin size 2048 crc 390f872a )
+	rom ( name lm1.bin size 2048 crc 515760dd )
+	rom ( name mn1.bin size 2048 crc c6c41c68 )
+	rom ( name n3.bin size 2048 crc 29c6a1cb )
+	rom ( name p1.bin size 2048 crc 3c2ff130 )
+	rom ( name r1.bin size 2048 crc 67cafbb1 )
+	rom ( name r3.bin size 2048 crc 7fbe5e21 )
+	rom ( name d1.bin size 2048 crc 3aff3417 )
+)

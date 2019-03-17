@@ -1,0 +1,8 @@
+game (
+	name csled
+	description "Cyber Sled"
+	rom ( name mpru.3j size 524288 crc cc5a2e83 )
+	rom ( name mprl.1j size 524288 crc f7ee8b48 )
+	rom ( name spru.6c size 524288 crc 28dd707b )
+	rom ( name sprl.4c size 524288 crc 437029de )
+)

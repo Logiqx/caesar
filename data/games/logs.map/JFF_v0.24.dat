@@ -1,0 +1,5 @@
+game (
+	name rdaction
+	description "Rad Action (American version of Ninja Kid 2)"
+	rom ( name nk2_06.rom size 65536 crc 7bfe6c9e )
+)

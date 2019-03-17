@@ -1,0 +1,36 @@
+game (
+	name blkdrgnb
+	description "Black Dragon (bootleg)"
+	rom ( name j1-5e size 32768 crc 97e84412 )
+	rom ( name j13-8b size 65536 crc 663d5afa )
+)
+
+game (
+	name galaga
+	description "Galaga (Namco)"
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+	rom ( name 2n.bin size 256 crc a547d33b )
+	rom ( name 5c.bin size 256 crc 8bd565f6 )
+)
+
+game (
+	name sicv
+	description "Space Invaders (CV Version)"
+	rom ( name cv01_1.bin size 1024 crc aac24f34 )
+	rom ( name cv02_2.bin size 1024 crc 2bdf83a0 )
+)
+
+game (
+	name sisv
+	description "Space Invaders (SV Version)"
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+	rom ( name invaders.g size 2048 crc 6bfaca4a )
+	rom ( name tv04.m1 size 2048 crc cd2c67f6 )
+)
+
+game (
+	name sisv2
+	description "Space Invaders (SV Version 2)"
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+)

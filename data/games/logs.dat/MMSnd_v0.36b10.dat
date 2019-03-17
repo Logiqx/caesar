@@ -1,0 +1,70 @@
+game (
+	name ab1
+	description "After Burner [sound only]"
+	rom ( name ab_pcm.dat size 393216 crc d7f3957d )
+)
+
+game (
+	name charon
+	description "Charon [sound only]"
+	rom ( name s_pro size 32768 crc 8aa61955 )
+	rom ( name s0 size 131072 crc 82a24191 )
+	rom ( name s1 size 131072 crc e033bccf )
+)
+
+game (
+	name dumpmtmt
+	description "Dump Matsumoto [sound only]"
+	rom ( name epr-0007.bin size 32768 crc e923f80d )
+	rom ( name epr-0008.bin size 32768 crc 4c439750 )
+	rom ( name epr-0009.bin size 32768 crc 285cdf9d )
+	rom ( name epr-0010.bin size 32768 crc 0563c86a )
+	rom ( name epr-0011.bin size 32768 crc a7d6c394 )
+)
+
+game (
+	name gardia
+	description "Gardia [sound only]"
+	rom ( name epr10243.120 size 32768 crc 726a3fdb )
+)
+
+game (
+	name pitfall
+	description "Pitfall II [sound only]"
+	rom ( name 6462 size 8192 crc 2a17492d )
+)
+
+game (
+	name pwrdrift
+	description "Power Drift [sound only]"
+	rom ( name 11754 size 524288 crc cad59f39 )
+)
+
+game (
+	name rhero
+	description "Racing Hero [sound only]"
+	rom ( name bank0.rom size 65536 crc 7e87d0e4 )
+	rom ( name bank1.rom size 65536 crc 70b45b61 )
+	rom ( name bank2.rom size 65536 crc 7796d746 )
+	rom ( name bank3.rom size 65536 crc 4742bea6 )
+	rom ( name bank4.rom size 65536 crc 32939a5b )
+	rom ( name rhero.com size 46425 crc cfa22fa7 )
+)
+
+game (
+	name shinobi
+	description "Shinobi [sound only]"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)
+
+game (
+	name spidrman
+	description "Spiderman [sound only]"
+	rom ( name mpr14282.bin size 524288 crc 876721f3 )
+)
+
+game (
+	name thunderb
+	description "Thunder Blade (Japan) [sound only]"
+	rom ( name epr11319.bin size 131072 crc 4a053070 )
+)

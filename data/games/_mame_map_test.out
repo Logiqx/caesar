@@ -1,0 +1,1195 @@
+===============================================================================
+MAMEDiff v2.31 (13 April 2009) - using DatLib v2.36 (13 April 2009)
+Written by Logiqx (http://www.logiqx.com/)
+===============================================================================
+Processing multi/MAME_v0.133.dat:
+  Loading the file into memory (first 8.0KB)...
+  Identified the file as being 'MAME ListXML' format.
+  Loading the file into memory (34.51MB)...
+  Calling the 'MAME ListXML' pre-parser/tokenizer...
+  Storing the tokenized dat within the actual dat structure...
+Processing complete!
+
+Loaded 8123 games (1730 parents, 3908 clones, 2485 others) and 45 resources.
+
+Processing multi/MAME_v0.134.dat:
+  Loading the file into memory (first 8.0KB)...
+  Identified the file as being 'MAME ListXML' format.
+  Loading the file into memory (34.99MB)...
+  Calling the 'MAME ListXML' pre-parser/tokenizer...
+  Storing the tokenized dat within the actual dat structure...
+Processing complete!
+
+Loaded 8241 games (1753 parents, 3975 clones, 2513 others) and 45 resources.
+
+Report has been written to mamediff.log and game names to mamediff.out
+===============================================================================
+MapFix v1.0 (15 February 2005) - using DatLib v2.0 (13 February 2005)
+Written by Logiqx (http://www.logiqx.com)
+===============================================================================
+amiga/ASIE_v5-2001.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+arm/RCPS.map:
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+beos/BeBombJack_v0.80.map:
+  Changed bombjac2,bombjac2,m to bombjac2,bombjack2,m
+beos/BeSnowBros_v0.80.map:
+  Changed snowbroa,snowbroa,m to snowbroa,snowbrosa,m
+commercial/Arcades_Greatest_Hits_-_The_Atari_Collection_2_(PC).map:
+  Changed roadblst,roadbls2,m to roadblst,roadblst2,m
+  Changed vindictr,vindict4,m to vindictr,vindictr4,m
+commercial/Atari_Arcade_Hits_1.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+commercial/Atari_Arcade_Hits_2.map:
+  Changed ccastles,ccastle3,m to ccastles,ccastles3,m
+commercial/Namco_History_Vol_2.map:
+  Changed todruaga,todruago,m to todruaga,todruagao,m
+commercial/Namco_History_Vol_3.map:
+  Changed digdug,digdugb,m to digdug,digdug1,m
+commercial/Ultracade_-_Taito_Classics_1.map:
+  Changed bublbobl,bublbob1,m to bublbobl,bublbobl1,m
+commercial/Ultracade_-_Taito_Classics_2.map:
+  Changed extrmatn,extrmatu,m to extrmatn,extrmatnu,m
+dreamcast/Namco_Museum.map:
+  Changed digdug,digdugb,m to digdug,digdug1,m
+java/CottAGE_v0.12.map:
+  Changed jspectr2,jspectr2,m to jspectr2,jspecter2,m
+  Changed bombjac2,bombjac2,m to bombjac2,bombjack2,m
+  Changed dkngjnrj,dkngjnrj,m to dkngjnrj,dkongjnrj,m
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+  Changed dotriku2,dotriku2,m to dotriku2,dotrikun2,m
+  Changed galaxiaj,galaxiaj,m to galaxiaj,galaxiana,m
+  Changed gunsmoka,gunsmoka,m to gunsmoka,gunsmokeua,m
+  Changed gunsmokj,gunsmokj,m to gunsmokj,gunsmokej,m
+  Changed invrvnga,invrvnga,m to invrvnga,invrvngea,m
+  Changed rocnropk,rocnropk,m to rocnropk,rocnropek,m
+  Changed gunsmoku,gunsmoku,m to gunsmoku,gunsmokeu,m
+java/JAE.map:
+  Changed frogseg2,frogseg2,m to frogseg2,froggers2,m
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+java/New_Asteroids.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+java/OldSpark_v0.3.map:
+  Changed mooncrsu,mooncrsu,m to mooncrsu,mooncrstu,m
+  Changed scorpnmc,scorpnmc,m to scorpnmc,scorpionmc,m
+java/PotatoMulti_200511112.map:
+  Changed bombjac2,bombjac2,m to bombjac2,bombjack2,m
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+  Changed dkngjnrj,dkngjnrj,m to dkngjnrj,dkongjnrj,m
+  Changed gunsmoka,gunsmoka,m to gunsmoka,gunsmokeua,m
+  Changed gunsmokj,gunsmokj,m to gunsmokj,gunsmokej,m
+  Changed gunsmoku,gunsmoku,m to gunsmoku,gunsmokeu,m
+  Changed ldrun3jp,ldrun3jp,m to ldrun3jp,ldrun3j,m
+linux/M1_v0.7.8a6.map:
+  Changed bublbobl,bublbob1,m to bublbobl,bublbobl1,m
+  Changed cuebrick,cuebrckj,m to cuebrick,cuebrickj,m
+  Changed ddragon3,ddrago3b,m to ddragon3,ddragon3b,m
+  Changed fghthist,fghthstu,m to fghthist,fghthistu,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed hiimpact,hiimpac4,m to hiimpact,hiimpact4,m
+  Changed techromn,techromu,m to techromn,techromnu,m
+  Changed lgtnfght,lgtnfghu,m to lgtnfght,lgtnfghtu,m
+  Changed locklodu,locklodu,m to locklodu,lockloadu,m
+  Changed mtlchamp,mtlchmp1,m to mtlchamp,mtlchamp1,m
+  Changed metamrph,metamrpu,m to metamrph,metamrphu,m
+  Changed nightstr,nghtstru,m to nightstr,nightstru,m
+  Changed outrun,outrun2,m to outrun,outrunra,m
+  Changed orunners,orunneru,m to orunners,orunnersu,m
+  Changed pitfight,pitfigh4,m to pitfight,pitfight4,m
+  Changed psyforce,psyforcj,m to psyforce,psyforcej,m
+  Changed pbobble2,pbobbl2o,m to pbobble2,pbobble2o,m
+  Changed racinfrc,racinfru,m to racinfrc,racinfrcu,m
+  Changed rvschool,rvschola,m to rvschool,rvschoola,m
+  Changed shufshot,sshot139,m to shufshot,shufshot139,m
+  Changed sharrier,sharrir1,m to sharrier,sharrier1,m
+  Changed splatter,splattej,m to splatter,splatterj,m
+  Changed strider2,stridr2a,m to strider2,strider2a,m
+  Changed thnderxa,thnderxa,m to thnderxa,thunderxa,m
+  Changed triothep,triothej,m to triothep,triothepj,m
+  Changed wizdfire,wizdfiru,m to wizdfire,wizdfireu,m
+  Changed wwfsstar,wwfsstau,m to wwfsstar,wwfsstaru,m
+  Changed alexkidd,alexkid1,m to alexkidd,alexkidd1,m
+  Changed arknid2u,arknid2u,m to arknid2u,arknoid2u,m
+  Changed cosmognj,cosmognj,m to cosmognj,cosmogngj,m
+  Changed crusnwld,crusnw23,m to crusnwld,crusnwld23,m
+  Changed dbreed72,dbreed72,m to dbreed72,dbreedm72,m
+  Changed fantzon1,fantzon1,m to fantzon1,fantzone1,m
+  Changed gaiapols,gaiapolj,m to gaiapols,gaiapolsj,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed imgfight,imgfigho,m to imgfight,imgfighto,m
+  Changed lifefrcj,lifefrcj,m to lifefrcj,lifefrcej,m
+  Changed offroadc,offrodc1,m to offroadc,offroadc1,m
+  Changed pacmanij,pacmanij,m to pacmanij,pacmaniaj,m
+  Changed turtship,turtshik,m to turtship,turtshipk,m
+  Changed twotigrc,twotigrc,m to twotigrc,twotigerc,m
+  Changed welltris,welltrij,m to welltris,welltrisj,m
+  Changed soccerss,soccersj,m to soccerss,soccerssja,m
+  Changed vstriker,vstrikro,m to vstriker,vstrikero,m
+  Changed arknid2j,arknid2j,m to arknid2j,arknoid2j,m
+  Changed darksel2,darksel2,m to darksel2,darkseal2,m
+  Changed marvlanj,marvlanj,m to marvlanj,marvlandj,m
+  Changed ridgerac,ridgerab,m to ridgerac,ridgeracb,m
+  Changed stridrua,stridrua,m to stridrua,striderua,m
+  Changed terracra,terracra,m to terracra,terracren,m
+  Changed terracrb,terracrb,m to terracrb,terracrea,m
+  Changed windheat,windheau,m to windheat,windheatu,m
+  Changed aliensy2,aliensy2,m to aliensy2,aliensyn2,m
+  Changed vsnetscr,vsnetscu,m to vsnetscr,vsnetscru,m
+  Changed thunderh,thundrhu,m to thunderh,thunderhu,m
+  Changed tshingen,tshingna,m to tshingen,tshingena,m
+  Changed aceattaa,aceattaa,m to aceattaa,aceattaca,m
+  Changed buggyb1,buggybjr,m to buggyb1,buggyboyjr,m
+  Changed cyberb2p,cyberb2p,m to cyberb2p,cyberbal2p,m
+  Changed extrmatn,extrmatu,m to extrmatn,extrmatnu,m
+  Changed majtitle,majtitlj,m to majtitle,majtitlej,m
+  Changed souledgb,souledgb,m to souledgb,souledge1,m
+linux/vecsim_v0.8.map:
+  Changed gravitar,gravitr2,m to gravitar,gravitar2,m
+  Changed asteroids,asteroi2,m to asteroids,asteroid2,m
+linux/Xcade_v0.85.map:
+  Changed mooncresta,mooncrsg,m to mooncresta,mooncrstg,m
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+mac/Atari_Vector_Simulator_v2.1.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+mac/CentiMu_v1.0d6.map:
+  Changed centipd2,centipd2,m to centipd2,centiped2,m
+mac/FrogCow_v1.0.map:
+  Changed frogseg1,frogseg1,m to frogseg1,froggers1,m
+mac/MacSloMo_v0.67.map:
+  Changed centipd2,centipd2,m to centipd2,centiped2,m
+mac/T3em_v1.00.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+mac/Vectorama_v1.0.2.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed gravitr2,gravitr2,m to gravitr2,gravitar2,m
+multi/AAE_Alpha_Build_87.map:
+  Changed astdelu1,astdelu1,m to astdelu1,astdelux1,m
+  Changed astdelu2,astdelu2,m to astdelu2,astdelux2,m
+  Changed asteroi1,asteroi1,m to asteroi1,asteroid1,m
+  Changed asteroib,asteroib,m to asteroib,asteroidb,m
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed spacfura,spacfura,m to spacfura,spacfurya,m
+  Changed gravitr2,gravitr2,m to gravitr2,gravitar2,m
+  Changed spacfurb,spacfurb,m to spacfurb,spacfuryb,m
+  Changed starwar1,starwar1,m to starwar1,starwars1,m
+multi/Arcade_Emulator_v0.7.map:
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+  Changed mooncrst,mooncrsg,m to mooncrst,mooncrstg,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+multi/AstDxGL_v0.9.map:
+  Changed astdelu1,astdelu2,m to astdelu1,astdelux2,m
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed asteroi1,asteroi1,m to asteroi1,asteroid1,m
+multi/CAGE_v1.07.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed superpac,superpcm,m to superpac,superpacm,m
+multi/Calice_v0.6.6.map:
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+  Changed rvschool,rvschola,m to rvschool,rvschoola,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed altbeast,altbeas4,m to altbeast,altbeast4,m
+  Changed sharrier,sharrir1,m to sharrier,sharrier1,m
+multi/Callus95_v0.42_patch_2.4.map:
+  Changed 3wonders,3wonderu,m to 3wonders,3wondersu,m
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+multi/Callus_v0.42.map:
+  Changed 3wonders,3wonderu,m to 3wonders,3wondersu,m
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed punishj,punishrj,m to punishj,punisherj,m
+multi/ClassicEmu_v0.01.map:
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+multi/Daphne_v0.99.7.map:
+  Changed cliffalt,cliffhga,m to cliffalt,cliffhgra,m
+multi/DSP_v0.9.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed terracre,terracra,m to terracre,terracren,m
+multi/EmuDX_v1.0.map:
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+multi/EMU_v2.3.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed gravitr2,gravitr2,m to gravitr2,gravitar2,m
+multi/FBA_v0.2.97.06.map:
+  Changed 99lstwra,99lstwra,m to 99lstwra,99lstwara,m
+  Changed 99lstwrk,99lstwrk,m to 99lstwrk,99lstwark,m
+  Changed aceattaa,aceattaa,m to aceattaa,aceattaca,m
+  Changed alexkid1,alexkid1,m to alexkid1,alexkidd1,m
+  Changed aliensy1,aliensy1,m to aliensy1,aliensyn1,m
+  Changed aliensy2,aliensy2,m to aliensy2,aliensyn2,m
+  Changed aliensy3,aliensy3,m to aliensy3,aliensyn3,m
+  Changed aliensy5,aliensy5,m to aliensy5,aliensyn5,m
+  Changed altbeas2,altbeas2,m to altbeas2,altbeast2,m
+  Changed altbeas4,altbeas4,m to altbeas4,altbeast4,m
+  Changed altbeas5,altbeas5,m to altbeas5,altbeast5,m
+  Changed aquajckj,aquajckj,m to aquajckj,aquajackj,m
+  Changed batsugna,batsugna,m to batsugna,batsuguna,m
+  Changed batugnsp,batugnsp,m to batugnsp,batsugunsp,m
+  Changed bgareghk,bgareghk,m to bgareghk,bgareggahk,m
+  Changed bgaregnv,bgaregnv,m to bgaregnv,bgaregganv,m
+  Changed bgaregcn,bgaregcn,m to bgaregcn,bgareggacn,m
+  Changed bgaregt2,bgaregt2,m to bgaregt2,bgareggat2,m
+  Changed bayrout1,bayrout1,m to bayrout1,bayroute1,m
+  Changed bayroutj,bayroutj,m to bayroutj,bayroutej,m
+  Changed bombjac2,bombjac2,m to bombjac2,bombjack2,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed cltchtrj,cltchtrj,m to cltchtrj,cltchitrj,m
+  Changed contcrcu,contcrcu,m to contcrcu,contcircu,m
+  Changed contcrua,contcrua,m to contcrua,contcircua,m
+  Changed ddonpchj,ddonpchj,m to ddonpchj,ddonpachj,m
+  Changed donpacjp,donpacjp,m to donpacjp,donpachij,m
+  Changed donpachk,donpachk,m to donpachk,donpachihk,m
+  Changed donpackr,donpackr,m to donpackr,donpachikr,m
+  Changed dotriku2,dotriku2,m to dotriku2,dotrikun2,m
+  Changed ddrago3b,ddrago3b,m to ddrago3b,ddragon3b,m
+  Changed ddrago3j,ddrago3j,m to ddrago3j,ddragon3j,m
+  Changed ecofghta,ecofghta,m to ecofghta,ecofghtra,m
+  Changed ecofgtu1,ecofgtu1,m to ecofgtu1,ecofghtru1,m
+  Changed ecofghtu,ecofghtu,m to ecofghtu,ecofghtru,m
+  Changed espradeo,espradeo,m to espradeo,espradejo,m
+  Changed fntsia2a,fntsia2a,m to fntsia2a,fantsia2a,m
+  Changed fantzon1,fantzon1,m to fantzon1,fantzone1,m
+  Changed flashgla,flashgla,m to flashgla,flashgala,m
+  Changed forgottu,forgottu,m to forgottu,forgottnu,m
+  Changed funkbeeb,funkbeeb,m to funkbeeb,funkybeeb,m
+  Changed gwinga,gwinga,m to gwinga,gigawinga,m
+  Changed gwingj,gwingj,m to gwingj,gigawingj,m
+  Changed goldnax1,goldnax1,m to goldnax1,goldnaxe1,m
+  Changed goldnax2,goldnax2,m to goldnax2,goldnaxe2,m
+  Changed goldnax3,goldnax3,m to goldnax3,goldnaxe3,m
+  Changed goldnaxj,goldnaxj,m to goldnaxj,goldnaxej,m
+  Changed goldnaxu,goldnaxu,m to goldnaxu,goldnaxeu,m
+  Changed powerinj,powerinj,m to powerinj,powerinsj,m
+  Changed grindsta,grindsta,m to grindsta,grindstma,m
+  Changed gunsmokj,gunsmokj,m to gunsmokj,gunsmokej,m
+  Changed gunsmoku,gunsmoku,m to gunsmoku,gunsmokeu,m
+  Changed gunsmoka,gunsmoka,m to gunsmoka,gunsmokeua,m
+  Changed gyrodinc,gyrodinc,m to gyrodinc,gyrodinec,m
+  Changed hellfir1,hellfir1,m to hellfir1,hellfire1,m
+  Changed hellfir2,hellfir2,m to hellfir2,hellfire2,m
+  Changed hyperpcb,hyperpcb,m to hyperpcb,hyperpacb,m
+  Changed altbeaj3,altbeaj3,m to altbeaj3,altbeastj3,m
+  Changed altbeasj,altbeasj,m to altbeasj,altbeastj,m
+  Changed karatblj,karatblj,m to karatblj,karatblzj,m
+  Changed karatblu,karatblu,m to karatblu,karatblzu,m
+  Changed ledstrm2,ledstrm2,m to ledstrm2,ledstorm2,m
+  Changed shangnle,shangnle,m to shangnle,shangonle,m
+  Changed mgcrystj,mgcrystj,m to mgcrystj,mgcrystlj,m
+  Changed mgcrysto,mgcrysto,m to mgcrysto,mgcrystlo,m
+  Changed megamn2a,megamn2a,m to megamn2a,megaman2a,m
+  Changed myststno,myststno,m to myststno,myststono,m
+  Changed nghtstru,nghtstru,m to nghtstru,nightstru,m
+  Changed orld105k,orld105k,m to orld105k,orlegend105k,m
+  Changed orld111c,orld111c,m to orld111c,orlegend111c,m
+  Changed orlegnde,orlegnde,m to orlegnde,orlegende,m
+  Changed orlegndc,orlegndc,m to orlegndc,orlegendc,m
+  Changed outrun1,outrun1,m to outrun1,outrundx,m
+  Changed outrun2,outrun2,m to outrun2,outrunra,m
+  Changed pshot16a,pshot16a,m to pshot16a,passsht16a,m
+  Changed powerina,powerina,m to powerina,powerinsa,m
+  Changed powerinb,powerinb,m to powerinb,powerinsb,m
+  Changed prehislu,prehislu,m to prehislu,prehisleu,m
+  Changed sailormo,sailormo,m to sailormo,sailormno,m
+  Changed rastsag1,rastsag1,m to rastsag1,rastsaga1,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+  Changed shdance1,shdance1,m to shdance1,shdancer1,m
+  Changed shdancej,shdancej,m to shdancej,shdancerj,m
+  Changed shadfrcj,shadfrcjv2,m to shadfrcj,shadfrcejv2,m
+  Changed skylance,skylance,m to skylance,skylancre,m
+  Changed snowbroj,snowbroj,m to snowbroj,snowbrosj,m
+  Changed snowbroa,snowbroa,m to snowbroa,snowbrosa,m
+  Changed snowbrob,snowbrob,m to snowbrob,snowbrosb,m
+  Changed snowbroc,snowbroc,m to snowbroc,snowbrosc,m
+  Changed snowbro3,snowbro3,m to snowbro3,snowbros3,m
+  Changed sstrikra,sstrikra,m to sstrikra,sstrikera,m
+  Changed sharrir1,sharrir1,m to sharrir1,sharrier1,m
+  Changed spinlbrj,spinlbrj,m to spinlbrj,spinlbrkj,m
+  Changed spinlbru,spinlbru,m to spinlbru,spinlbrku,m
+  Changed stratvob,stratvob,m to stratvob,stratvoxb,m
+  Changed stridrua,stridrua,m to stridrua,striderua,m
+  Changed berlwalt,berlwalt,m to berlwalt,berlwallt,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed 3wonderu,3wonderu,m to 3wonderu,3wondersu,m
+  Changed thndrbd1,thndrbd1,m to thndrbd1,thndrbld1,m
+  Changed timesca1,timesca1,m to timesca1,timescan1,m
+  Changed wrestwa1,wrestwa1,m to wrestwa1,wrestwar1,m
+  Changed wrestwa2,wrestwa2,m to wrestwa2,wrestwar2,m
+  Changed wwfwfstj,wwfwfstj,m to wwfwfstj,wwfwfestj,m
+  Changed wwfwfstb,wwfwfstb,m to wwfwfstb,wwfwfestb,m
+  Changed wwfwfsta,wwfwfsta,m to wwfwfsta,wwfwfesta,m
+  Changed zerowng2,zerowng2,m to zerowng2,zerowing2,m
+  Changed zzyzzyx2,zzyzzyx2,m to zzyzzyx2,zzyzzyxx2,m
+  Changed ctribb2,ctribb2,m to ctribb2,ctribeb2,m
+  Changed plegendj,plegendj,m to plegendj,plegendsj,m
+  Changed pwrins2j,pwrins2j,m to pwrins2j,pwrinst2j,m
+  Changed ryukenda,ryukenda,m to ryukenda,ryukendna,m
+  Changed commandb,commandb,m to commandb,commandob,m
+  Changed commandj,commandj,m to commandj,commandoj,m
+  Changed commandu,commandu,m to commandu,commandou,m
+  Changed hedpanif,hedpanif,m to hedpanif,hedpanicf,m
+  Changed mchampda,mchampda,m to mchampda,mchampdxa,m
+  Changed multchmk,multchmk,m to multchmk,multchmpk,m
+  Changed nghtstrj,nghtstrj,m to nghtstrj,nightstrj,m
+  Changed sfjp,sfjp,m to sfjp,sfj,m
+  Changed silkwrm2,silkwrm2,m to silkwrm2,silkworm2,m
+  Changed snowbrod,snowbrod,m to snowbrod,snowbrosd,m
+  Changed 3wonderh,3wonderh,m to 3wonderh,3wondersh,m
+  Changed ddragn2u,ddragn2u,m to ddragn2u,ddragon2u,m
+  Changed ddragnba,ddragnba,m to ddragnba,ddragonba,m
+  Changed ddragnw1,ddragnw1,m to ddragnw1,ddragonw1,m
+  Changed ddragob2,ddragob2,m to ddragob2,ddragonb2,m
+  Changed ddragoua,ddragoua,m to ddragoua,ddragonua,m
+  Changed kuniokub,kuniokub,m to kuniokub,kuniokunb,m
+  Changed makaimuc,makaimuc,m to makaimuc,makaimurc,m
+  Changed makaimug,makaimug,m to makaimug,makaimurg,m
+  Changed sercharj,sercharj,m to sercharj,searcharj,m
+  Changed sercharu,sercharu,m to sercharu,searcharu,m
+  Changed streets1,streets1,m to streets1,streetsm1,m
+  Changed streetsj,streetsj,m to streetsj,streetsmj,m
+  Changed streetsw,streetsw,m to streetsw,streetsmw,m
+  Changed avenger2,avenger2,m to avenger2,avengers2,m
+  Changed funybubc,funybubc,m to funybubc,funybublc,m
+  Changed gwingb,gwingb,m to gwingb,gigawingb,m
+  Changed lwingsjp,lwingsjp,m to lwingsjp,lwingsj,m
+  Changed sctionza,sctionza,m to sctionza,sectionza,m
+  Changed blckout2,blckout2,m to blckout2,blockout2,m
+  Changed blckoutj,blckoutj,m to blckoutj,blockoutj,m
+  Changed ddrago3p,ddrago3p,m to ddrago3p,ddragon3p,m
+  Changed taotaida,taotaida,m to taotaida,taotaidoa,m
+  Changed armorca2,armorca2,m to armorca2,armorcar2,m
+  Changed atlants2,atlants2,m to atlants2,atlantis2,m
+  Changed blueprnj,blueprnj,m to blueprnj,blueprntj,m
+  Changed checkmaj,checkmaj,m to checkmaj,checkmanj,m
+  Changed dambust,dambust,m to dambust,dambustruk,m
+  Changed darksea1,darksea1,m to darksea1,darkseal1,m
+  Changed darkseaj,darkseaj,m to darkseaj,darksealj,m
+  Changed froggrmc,froggrmc,m to froggrmc,froggermc,m
+  Changed frogseg1,frogseg1,m to frogseg1,froggers1,m
+  Changed frogseg2,frogseg2,m to frogseg2,froggers2,m
+  Changed galaxiaj,galaxiaj,m to galaxiaj,galaxiana,m
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed galmidwo,galmidwo,m to galmidwo,galaxianmo,m
+  Changed galtaito,galtaito,m to galtaito,galaxiant,m
+  Changed gatedom1,gatedom1,m to gatedom1,gatedoom1,m
+  Changed kingbalj,kingbalj,m to kingbalj,kingballj,m
+  Changed losttmbh,losttmbh,m to losttmbh,losttombh,m
+  Changed mooncrsa,mooncrsa,m to mooncrsa,mooncrsto,m
+  Changed mooncrsg,mooncrsg,m to mooncrsg,mooncrstg,m
+  Changed mooncrsu,mooncrsu,m to mooncrsu,mooncrstu,m
+  Changed mrkougr2,mrkougr2,m to mrkougr2,mrkougar2,m
+  Changed mshutlj2,mshutlj2,m to mshutlj2,mshuttlej2,m
+  Changed mshuttlj,mshuttlj,m to mshuttlj,mshuttlej,m
+  Changed scorpnmc,scorpnmc,m to scorpnmc,scorpionmc,m
+  Changed scrambls,scrambls,m to scrambls,scrambles,m
+  Changed scrpiona,scrpiona,m to scrpiona,scorpiona,m
+  Changed scrpionb,scrpionb,m to scrpionb,scorpionb,m
+  Changed tigerodb,tigerodb,m to tigerodb,tigeroadb,m
+  Changed cclmbr2a,cclmbr2a,m to cclmbr2a,cclimbr2a,m
+  Changed dblpoind,dblpoind,m to dblpoind,dblpointd,m
+  Changed martmasc,martmasc,m to martmasc,martmastc,m
+  Changed mspuzzlg,mspuzzlg,m to mspuzzlg,mspuzzleg,m
+  Changed buccanra,buccanra,m to buccanra,buccanrsa,m
+  Changed crshrac2,crshrac2,m to crshrac2,crshrace2,m
+  Changed kikcubib,kikcubib,m to kikcubib,kikcubicb,m
+  Changed vigilntj,vigilntj,m to vigilntj,vigilantj,m
+  Changed vigilntu,vigilntu,m to vigilntu,vigilantu,m
+  Changed bubbobr1,bubbobr1,m to bubbobr1,bublboblr1,m
+  Changed bublbob1,bublbob1,m to bublbob1,bublbobl1,m
+  Changed bublbobr,bublbobr,m to bublbobr,bublboblr,m
+  Changed crimfgt2,crimfgt2,m to crimfgt2,crimfght2,m
+  Changed crimfgtj,crimfgtj,m to crimfgtj,crimfghtj,m
+  Changed devstor2,devstor2,m to devstor2,devstors2,m
+  Changed devstor3,devstor3,m to devstor3,devstors3,m
+  Changed gbustera,gbustera,m to gbustera,gbustersa,m
+  Changed grdius3a,grdius3a,m to grdius3a,gradius3a,m
+  Changed grdius3e,grdius3e,m to grdius3e,gradius3e,m
+  Changed kangaroa,kangaroa,m to kangaroa,kangarooa,m
+  Changed kangarob,kangarob,m to kangarob,kangaroob,m
+  Changed mainev2p,mainev2p,m to mainev2p,mainevt2p,m
+  Changed parodisj,parodisj,m to parodisj,parodiusj,m
+  Changed simp2pa,simp2pa,m to simp2pa,simpsons2pa,m
+  Changed simps2pa,simps2pa,m to simps2pa,simpsons2p2,m
+  Changed simps2pj,simps2pj,m to simps2pj,simpsons2pj,m
+  Changed simps4pa,simps4pa,m to simps4pa,simpsons4pa,m
+  Changed simpsn2p,simpsn2p,m to simpsn2p,simpsons2p,m
+  Changed thnderxa,thnderxa,m to thnderxa,thunderxa,m
+  Changed thnderxb,thnderxb,m to thnderxb,thunderxb,m
+  Changed thnderxj,thnderxj,m to thnderxj,thunderxj,m
+multi/Final_Burn_v0.518.map:
+  Changed outrun,outrun2,m to outrun,outrunra,m
+  Changed thbladej,thndrbd1,m to thbladej,thndrbld1,m
+  Changed altbeast,altbeas2,m to altbeast,altbeast2,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+multi/GalEmu_v40.9.map:
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed mooncrsg,mooncrsg,m to mooncrsg,mooncrstg,m
+  Changed galaxb,galaxiaj,m to galaxb,galaxiana,m
+multi/HiVE_v1.04.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed digdug,digduga1,m to digdug,digdugat1,m
+  Changed frogsega,frogseg1,m to frogsega,froggers1,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed mooncrsg,mooncrsg,m to mooncrsg,mooncrstg,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+  Changed superpac,superpcm,m to superpac,superpacm,m
+  Changed todruaga,todruago,m to todruaga,todruagao,m
+multi/Impact_Full_List.map:
+  Changed psychic force,psyforcj,m to psychic force,psyforcej,m
+  Changed rvschool,rvschola,m to rvschool,rvschoola,m
+multi/InvEmu_v2.0.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/INVMZ_v0.05.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/JAS-SYS1_b1.2.map:
+  Changed galaga8j,galag88j,m to galaga8j,galaga88j,m
+  Changed pacmanij,pacmanij,m to pacmanij,pacmaniaj,m
+multi/JAS_v1.01.map:
+  Changed superpac,superpcm,m to superpac,superpacm,m
+multi/JFF_v0.24.map:
+  Changed airbust,airbustj,m to airbust,airbustrj,m
+  Changed ninjak2a,ninjak2a,m to ninjak2a,ninjakd2a,m
+  Changed nova2001,nov2001u,m to nova2001,nova2001u,m
+multi/Juno_First_v1.23.map:
+  Changed crystalc,ccastle3,m to crystalc,ccastles3,m
+  Changed rocnrope,rocnropk,m to rocnrope,rocnropek,m
+  Changed tutankhm,tutankst,m to tutankhm,tutankhms,m
+multi/KEM_v1.1.map:
+  Changed 2tigers,twotigrc,m to 2tigers,twotigerc,m
+multi/Laser_v0.20a.map:
+  Changed galxwart,galxwart,m to galxwart,galxwarst,m
+  Changed ozmawar2,ozmawar2,m to ozmawar2,ozmawars2,m
+  Changed galxwar2,galxwar2,m to galxwar2,galxwars2,m
+  Changed helifira,helifira,m to helifira,helifirea,m
+  Changed jspectr2,jspectr2,m to jspectr2,jspecter2,m
+  Changed schasrcv,schasrcv,m to schasrcv,schasercv,m
+  Changed spacefev,spacefev,m to spacefev,spacefevo,m
+  Changed sstrngr2,sstrngr2,m to sstrngr2,sstrangr2,m
+multi/M-ulator_v0.14.map:
+  Changed digdug,digduga1,m to digdug,digdugat1,m
+  Changed digdugnm,digdugb,m to digdugnm,digdug1,m
+multi/M72_v0.33b.map:
+  Changed dbreed,dbreed72,m to dbreed,dbreedm72,m
+  Changed imgfight,imgfigho,m to imgfight,imgfighto,m
+multi/MageX_v0.8a.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+multi/Mimic_v2.11.map:
+  Changed bombjack,bombjac2,m to bombjack,bombjack2,m
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed thbladej,thndrbd1,m to thbladej,thndrbld1,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+multi/Mjolnir_v0.3.1.map:
+  Changed raveracj,raveraja,m to raveracj,raveracja,m
+  Changed ridgerac,ridgerab,m to ridgerac,ridgeracb,m
+  Changed ridgeraj,ridgeraj,m to ridgeraj,ridgeracj,m
+  Changed ridger2a,ridger2a,m to ridger2a,ridgera2j,m
+  Changed ridger2b,ridger2b,m to ridger2b,ridgera2ja,m
+  Changed timecrsa,timecrsa,m to timecrsa,timecrisa,m
+multi/Modeler_v0.9.3a.map:
+  Changed harddunk,harddunj,m to harddunk,harddunkj,m
+  Changed orunners,orunneru,m to orunners,orunnersu,m
+multi/Multiple_Invaders_v2.0.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/Nebula_Model_2_v0.9b.map:
+  Changed lastbrxa,lastbrnj,m to lastbrxa,lastbrnxj,m
+  Changed vstriker,vstrikro,m to vstriker,vstrikero,m
+  Changed dynmcopb,dynmcopb,m to dynmcopb,dynamcopb,m
+multi/Nebula_v2.25b.map:
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+  Changed 3wonderu,3wonderu,m to 3wonderu,3wondersu,m
+  Changed orlegnde,orlegnde,m to orlegnde,orlegende,m
+  Changed orlegndc,orlegndc,m to orlegndc,orlegendc,m
+  Changed gwingj,gwingj,m to gwingj,gigawingj,m
+  Changed stridrua,stridrua,m to stridrua,striderua,m
+  Changed martmasc,martmasc,m to martmasc,martmastc,m
+multi/PASMulator_v0.22.map:
+  Changed bombjack,bombjac2,m to bombjack,bombjack2,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed mooncrsb,mooncrsg,m to mooncrsb,mooncrstg,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+multi/PCSloMo_v0.24_Final.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed centiped1,centipd2,m to centiped1,centiped2,m
+multi/RAGE_v0.9.map:
+  Changed dbreed,dbreed72,m to dbreed,dbreedm72,m
+  Changed gunforce,gunforcu,m to gunforce,gunforceu,m
+  Changed gunjp,gunsmokj,m to gunjp,gunsmokej,m
+  Changed gunsmoke,gunsmoku,m to gunsmoke,gunsmokeu,m
+  Changed imgfight,imgfigho,m to imgfight,imgfighto,m
+multi/RAINE_v0.51.0.map:
+  Changed 64streej,64streej,m to 64streej,64streetj,m
+  Changed aquajckj,aquajckj,m to aquajckj,aquajackj,m
+  Changed arknid2j,arknid2j,m to arknid2j,arknoid2j,m
+  Changed arknid2u,arknid2u,m to arknid2u,arknoid2u,m
+  Changed bublbobl,bublbob1,m to bublbobl,bublbobl1,m
+  Changed bublbobr,bublbobr,m to bublbobr,bublboblr,m
+  Changed bubsymph,bubsymph,m to bubsymph,bubsymphj,m
+  Changed drius2do,drius2do,m to drius2do,darius2do,m
+  Changed demonwl1,demonwl1,m to demonwl1,demonwld1,m
+  Changed ddrago3b,ddrago3b,m to ddrago3b,ddragon3b,m
+  Changed espradeo,espradeo,m to espradeo,espradejo,m
+  Changed extrmatn,extrmatu,m to extrmatn,extrmatnu,m
+  Changed pbobble2,pbobbl2o,m to pbobble2,pbobble2o,m
+  Changed puchicar,puchicrj,m to puchicar,puchicarj,m
+  Changed pbobbl2x,pbobbl2x,m to pbobbl2x,pbobble2x,m
+  Changed rodlndjb,rodlndjb,m to rodlndjb,rodlandjb,m
+  Changed snowbrob,snowbrob,m to snowbrob,snowbrosb,m
+  Changed snowbroa,snowbroa,m to snowbroa,snowbrosa,m
+  Changed snowbroj,snowbroj,m to snowbroj,snowbrosj,m
+  Changed prmtmfgo,prmtmfgo,m to prmtmfgo,prmtmfgto,m
+  Changed wwfwfsta,wwfwfsta,m to wwfwfsta,wwfwfesta,m
+  Changed wwfsstar,wwfsstau,m to wwfsstar,wwfsstaru,m
+  Changed ddonpchj,ddonpchj,m to ddonpchj,ddonpachj,m
+  Changed galpanic,galpania,m to galpanic,galpanica,m
+  Changed bubsympu,bubsympu,m to bubsympu,bubsymphu,m
+  Changed 3wonderu,3wonderu,m to 3wonderu,3wondersu,m
+  Changed donpachj,donpacjp,m to donpachj,donpachij,m
+  Changed silkwrm2,silkwrm2,m to silkwrm2,silkworm2,m
+  Changed bubbobr1,bubbobr1,m to bubbobr1,bublboblr1,m
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed rayforcj,rayforcj,m to rayforcj,rayforcej,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+  Changed psyforce,psyforcj,m to psyforce,psyforcej,m
+  Changed bgaregc,bgaregcn,m to bgaregc,bgareggacn,m
+  Changed donpachk,donpackr,m to donpachk,donpachikr,m
+  Changed sailormo,sailormo,m to sailormo,sailormno,m
+  Changed blkhearj,blkhearj,m to blkhearj,blkheartj,m
+  Changed bgaregh,bgaregnv,m to bgaregh,bgaregganv,m
+  Changed hyperpcb,hyperpcb,m to hyperpcb,hyperpacb,m
+  Changed tdragon2,tdragn2a,m to tdragon2,tdragon2a,m
+  Changed ddragon3,ddrago3b,m to ddragon3,ddragon3b,m
+  Changed tshingen,tshingna,m to tshingen,tshingena,m
+  Changed stridrua,stridrua,m to stridrua,striderua,m
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+  Changed mchampdx,mchampda,m to mchampdx,mchampdxa,m
+  Changed multchmp,multchmk,m to multchmp,multchmpk,m
+  Changed fixeighb,fixeighb,m to fixeighb,fixeightb,m
+  Changed contcrcu,contcrcu,m to contcrcu,contcircu,m
+  Changed nightstr,nghtstru,m to nightstr,nightstru,m
+  Changed 3wonderh,3wonderh,m to 3wonderh,3wondersh,m
+  Changed ecofghta,ecofghta,m to ecofghta,ecofghtra,m
+  Changed ecofghtu,ecofghtu,m to ecofghtu,ecofghtru,m
+  Changed ecofgtu1,ecofgtu1,m to ecofgtu1,ecofghtru1,m
+  Changed gwinga,gwinga,m to gwinga,gigawinga,m
+  Changed gwingb,gwingb,m to gwingb,gigawingb,m
+  Changed gwingj,gwingj,m to gwingj,gigawingj,m
+  Changed megamn2a,megamn2a,m to megamn2a,megaman2a,m
+multi/Replay+_v1.00.map:
+  Changed superpac,superpcm,m to superpac,superpacm,m
+multi/Replay_v0.04.map:
+  Changed bombjack,bombjac2,m to bombjack,bombjack2,m
+  Changed bublbobl,bublbob1,m to bublbobl,bublbobl1,m
+  Changed ccastles,ccastle3,m to ccastles,ccastles3,m
+  Changed ccjap,cclimbrj,m to ccjap,cclimberj,m
+  Changed digdugat,digduga1,m to digdugat,digdugat1,m
+  Changed digdugnm,digdugb,m to digdugnm,digdug1,m
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+  Changed docastle,docastl2,m to docastle,docastle2,m
+  Changed elevatob,elevatob,m to elevatob,elevatorb,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed frogsega,frogseg2,m to frogsega,froggers2,m
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed junglek,junglkj2,m to junglek,junglekj2,m
+  Changed kangaroo,kangaroa,m to kangaroo,kangarooa,m
+  Changed mooncrsb,mooncrsg,m to mooncrsb,mooncrstg,m
+  Changed mystston,myststno,m to mystston,myststono,m
+  Changed naughtyb,naughtyc,m to naughtyb,naughtybc,m
+  Changed qbertjp,qbertjp,m to qbertjp,qbertj,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+  Changed superpac,superpcm,m to superpac,superpacm,m
+  Changed tutankhm,tutankst,m to tutankhm,tutankhms,m
+  Changed warpwarp,warpwarr,m to warpwarp,warpwarpr,m
+multi/Retrocade_v1.2_b2.map:
+  Changed asteroi2,asteroi2,m to asteroi2,asteroid2,m
+  Changed blstroid,blstroi2,m to blstroid,blstroid2,m
+  Changed ccastles,ccastle3,m to ccastles,ccastles3,m
+  Changed digdug,digduga1,m to digdug,digdugat1,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed gravitar,gravitr2,m to gravitar,gravitar2,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+  Changed oldsin,sinista1,m to oldsin,sinistar1,m
+  Changed snowbros,snowbroa,m to snowbros,snowbrosa,m
+  Changed starwars,starwar1,m to starwars,starwars1,m
+  Changed tutankst,tutankst,m to tutankst,tutankhms,m
+  Changed twotiger,twotigrc,m to twotiger,twotigerc,m
+multi/Retrovaders_v1.02.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed spacefev,spacefev,m to spacefev,spacefevo,m
+multi/Rockulator++_v0.98a.map:
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed mcrestab,mooncrsg,m to mcrestab,mooncrstg,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+  Changed tutankhm,tutankst,m to tutankhm,tutankhms,m
+multi/S11Emu_v0.2.map:
+  Changed souledge,souledgc,m to souledge,souledge1j,m
+multi/SAGE_v1.16.map:
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed mooncrst,mooncrsg,m to mooncrst,mooncrstg,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+multi/SEGA_Model_2_Emulator_v0.9.map:
+  Changed dayton93,dayton93,m to dayton93,daytona93,m
+  Changed dyndek2b,dyndek2b,m to dyndek2b,dyndeka2b,m
+  Changed dynmcopb,dynmcopb,m to dynmcopb,dynamcopb,m
+  Changed dynmcopc,dynmcopc,m to dynmcopc,dynamcopc,m
+  Changed lastbrnj,lastbrnj,m to lastbrnj,lastbrnxj,m
+  Changed topskatu,topskatu,m to topskatu,topskatru,m
+  Changed vstrikro,vstrikro,m to vstrikro,vstrikero,m
+multi/Sega_System_C2_Emulator_v0.2b.map:
+  Changed stkclmns,stkclmnj,m to stkclmns,stkclmnsj,m
+multi/Shark_v3.1f.map:
+  Changed demonsworld,demonwl1,m to demonsworld,demonwld1,m
+  Changed twincobrausa,twincobu,m to twincobrausa,twincobru,m
+multi/Sideway_v0.22a.map:
+  Changed galaxwa,galxwart,m to galaxwa,galxwarst,m
+multi/Small_Space_Invaders_v1.2.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/Space_Invader_Emulator_v1.00.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/SPADERS_v0.76.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+multi/Sparcade_v2.33b.map:
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+  Changed gradius2,grdius2b,m to gradius2,gradius2b,m
+  Changed lforcejp,lifefrcj,m to lforcejp,lifefrcej,m
+  Changed mooncres,mooncrsg,m to mooncres,mooncrstg,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+multi/System_16_v0.82a.map:
+  Changed altbeast,altbeas4,m to altbeast,altbeast4,m
+  Changed fantzone,fantzon1,m to fantzone,fantzone1,m
+  Changed harrier,sharrir1,m to harrier,sharrier1,m
+  Changed outrun,outrun2,m to outrun,outrunra,m
+  Changed shdancrj,shdancej,m to shdancrj,shdancerj,m
+multi/VAntAGE_v1.12.map:
+  Changed dkjrjp,dkngjnrj,m to dkjrjp,dkongjnrj,m
+  Changed dkongjp,dkongjp,m to dkongjp,dkongj,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed schasrcv,schasrcv,m to schasrcv,schasercv,m
+multi/Vector_Dream_v2.3.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+multi/Viva_Nonno_v22.0.3.map:
+  Changed rr1,ridgeraj,m to rr1,ridgeracj,m
+  Changed rrs1,ridger2b,m to rrs1,ridgera2ja,m
+  Changed rrs1b,ridger2a,m to rrs1b,ridgera2j,m
+  Changed rv1,raveraja,m to rv1,raveracja,m
+multi/WinKawaks_v1.60.map:
+  Changed captcomj,captcomj,m to captcomj,captcommj,m
+  Changed captcomu,captcomu,m to captcomu,captcommu,m
+  Changed punishrj,punishrj,m to punishrj,punisherj,m
+  Changed punishru,punishru,m to punishru,punisheru,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed 3wonderu,3wonderu,m to 3wonderu,3wondersu,m
+  Changed slammasu,slammasu,m to slammasu,slammastu,m
+  Changed gwingj,gwingj,m to gwingj,gigawingj,m
+  Changed stridrua,stridrua,m to stridrua,striderua,m
+  Changed ecofghta,ecofghta,m to ecofghta,ecofghtra,m
+  Changed ecofgtu1,ecofgtu1,m to ecofgtu1,ecofghtru1,m
+  Changed gwinga,gwinga,m to gwinga,gigawinga,m
+  Changed megamn2a,megamn2a,m to megamn2a,megaman2a,m
+  Changed ecofghtu,ecofghtu,m to ecofghtu,ecofghtru,m
+  Changed 3wonderh,3wonderh,m to 3wonderh,3wondersh,m
+  Changed gwingb,gwingb,m to gwingb,gigawingb,m
+multi/YAAME_v0.3.map:
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+multi/Zinc_v1.1.map:
+  Changed dunkmnic,dunkmnic,m to dunkmnic,dunkmniaj,m
+  Changed psyforcj,psyforcj,m to psyforcj,psyforcej,m
+  Changed psyfrcex,psyfrcex,m to psyfrcex,psyforcex,m
+  Changed raystorj,raystorj,m to raystorj,raystormj,m
+  Changed rvschola,rvschola,m to rvschola,rvschoola,m
+  Changed souledga,souledgb,m to souledga,souledge1,m
+  Changed souledgb,souledgc,m to souledgb,souledge1j,m
+  Changed strider2,stridr2a,m to strider2,strider2a,m
+  Changed techromn,techromu,m to techromn,techromnu,m
+multi2/Sparcade_v2.25_-_v2.33b.map:
+  Changed tutankhm,tutankst,m to tutankhm,tutankhms,m
+n64/Namco_Museum_64.map:
+  Changed digdug,digdugb,m to digdug,digdug1,m
+palmos/XcadePalm152.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+  Changed mooncresta,mooncrsg,m to mooncresta,mooncrstg,m
+psx/Arcades_Greatest_Hits_PSX_-_The_Atari_Collection_1.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+psx/Arcades_Greatest_Hits_PSX_-_The_Atari_Collection_2.map:
+  Changed ccastles,ccastle3,m to ccastles,ccastles3,m
+psx/Namco_Museum_Vol_3.map:
+  Changed todruaga,todruago,m to todruaga,todruagao,m
+  Changed digdug,digdugb,m to digdug,digdug1,m
+psx/The_Galaxian_Project_v1.04.map:
+  Changed galmidw,galmidw,m to galmidw,galaxianm,m
+psx/The_Space_Invaders_Project_v1.08.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+saturn/Arcades_Greatest_Hits_-_The_Atari_Collection_1.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+single/AMOAD_I_-_XXII.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed bombjack,bombjac2,m to bombjack,bombjack2,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed galaxian,galmidw,m to galaxian,galaxianm,m
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+single/Ast3DX_v1.0.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+single/AstDX_v2.0.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+single/AsteroidsGL.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed asteroi1,asteroi1,m to asteroi1,asteroid1,m
+single/Asteroids_Emulator_v3.02.map:
+  Changed asteroid,asteroi2,m to asteroid,asteroid2,m
+  Changed asteroi1,asteroi1,m to asteroi1,asteroid1,m
+single/Bombjack_PC_v1.1.map:
+  Changed bombjack,bombjac2,m to bombjack,bombjack2,m
+single/JAS-Super_Pacman_v1.01.map:
+  Changed superpac,superpcm,m to superpac,superpacm,m
+single/Moon_Cresta_Emulator.map:
+  Changed mooncrst,mooncrsg,m to mooncrst,mooncrstg,m
+single/Mr._Do!'s_Castle_v2.0.map:
+  Changed docastle,docastl2,m to docastle,docastle2,m
+single/Naughty_Boy_Emulator_Beta_1.05.map:
+  Changed naughtyb,naughtyc,m to naughtyb,naughtybc,m
+single/Qbert_Emulation_Project_v0.0000001_Beta.map:
+  Changed qbertjp,qbertjp,m to qbertjp,qbertj,m
+single/Sil's_Single_Emulator_v2.0.map:
+  Changed digdug,digdugb,m to digdug,digdug1,m
+  Changed frogger,frogseg2,m to frogger,froggers2,m
+  Changed scramble,scrambls,m to scramble,scrambles,m
+single/TinyEmu.map:
+  Changed frogseg2,frogseg2,m to frogseg2,froggers2,m
+single/Tutankam_Emulator_v0.02b.map:
+  Changed tutankhm,tutankst,m to tutankhm,tutankhms,m
+sound/CPSE_v0.02.map:
+  Changed gwingj,gwingj,m to gwingj,gigawingj,m
+sound/FM-EMU_v0.1.map:
+  Changed alexkidd,alexkid1,m to alexkidd,alexkidd1,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed outrun,outrun2,m to outrun,outrunra,m
+sound/GXP_v0.1.map:
+  Changed soccerss,soccersj,m to soccerss,soccerssja,m
+sound/Hoot_20011002.map:
+  Changed alexkidd,alexkid1,m to alexkidd,alexkidd1,m
+  Changed battleg,bgaregcn,m to battleg,bgareggacn,m
+  Changed cosmognj,cosmognj,m to cosmognj,cosmogngj,m
+  Changed cuebrick,cuebrckj,m to cuebrick,cuebrickj,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed lgtnfght,lgtnfghu,m to lgtnfght,lgtnfghtu,m
+  Changed lifefrcj,lifefrcj,m to lifefrcj,lifefrcej,m
+  Changed marvland,marvlanj,m to marvland,marvlandj,m
+  Changed nightstr,nghtstru,m to nightstr,nightstru,m
+  Changed outrun,outrun2,m to outrun,outrunra,m
+  Changed sharrier,sharrir1,m to sharrier,sharrier1,m
+  Changed splatter,splattej,m to splatter,splatterj,m
+  Changed thnderxj,thnderxj,m to thnderxj,thunderxj,m
+  Changed thunderx,thnderxa,m to thunderx,thunderxa,m
+  Changed ales,lwingsjp,m to ales,lwingsj,m
+  Changed fantzojm,fantzon1,m to fantzojm,fantzone1,m
+  Changed gaiapols,gaiapolj,m to gaiapols,gaiapolsj,m
+  Changed outrunrs,orunneru,m to outrunrs,orunnersu,m
+  Changed soccerss,soccersj,m to soccerss,soccerssja,m
+sound/MMSnd_v0.36b10.map:
+  Changed alexkidd,alexkid1,m to alexkidd,alexkidd1,m
+  Changed fntzonej,fantzon1,m to fntzonej,fantzone1,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed harrier,sharrir1,m to harrier,sharrier1,m
+  Changed outrun,outrun2,m to outrun,outrunra,m
+  Changed nightstr,nghtstru,m to nightstr,nightstru,m
+  Changed thunderb,thndrbd1,m to thunderb,thndrbld1,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed psyforce,psyforcj,m to psyforce,psyforcej,m
+sound/Nebula_Jukebox_v2.9.map:
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+  Changed vstriker,vstrikro,m to vstriker,vstrikero,m
+  Changed sr2j,stridr2a,m to sr2j,strider2a,m
+  Changed kikaioh,techromu,m to kikaioh,techromnu,m
+sound/QPlayer_v1.4.3.map:
+  Changed strider2,stridr2a,m to strider2,strider2a,m
+sound/System_16_Sound_Player.map:
+  Changed altbeas2,altbeas4,m to altbeas2,altbeast4,m
+  Changed goldnaxe,goldnax2,m to goldnaxe,goldnaxe2,m
+  Changed aliensya,aliensy2,m to aliensya,aliensyn2,m
+sound/tROMbone_v0.11.map:
+  Changed pitfight,pitfigh4,m to pitfight,pitfight4,m
+  Changed berlwall,berlwalt,m to berlwall,berlwallt,m
+  Changed battleg,bgaregcn,m to battleg,bgareggacn,m
+  Changed airbustr,airbustj,m to airbustr,airbustrj,m
+  Changed forgottn,forgottu,m to forgottn,forgottnu,m
+wince/aEmu_v1.1.map:
+  Changed galxwars,galxwart,m to galxwars,galxwarst,m
+wince/Arcade_PocketPak.map:
+  Changed digdug,digdugb,m to digdug,digdug1,m
+
+Game renames (100% guaranteed):
+
+  3wonderh -> 3wondersh
+  3wonderu -> 3wondersu
+  64streej -> 64streetj
+  99lstwra -> 99lstwara
+  99lstwrk -> 99lstwark
+  aceattaa -> aceattaca
+  airbustj -> airbustrj
+  alexkid1 -> alexkidd1
+  aliensy1 -> aliensyn1
+  aliensy2 -> aliensyn2
+  aliensy3 -> aliensyn3
+  aliensy5 -> aliensyn5
+  altbeaj3 -> altbeastj3
+  altbeas2 -> altbeast2
+  altbeas4 -> altbeast4
+  altbeas5 -> altbeast5
+  altbeasj -> altbeastj
+  aquajckj -> aquajackj
+  arknid2j -> arknoid2j
+  arknid2u -> arknoid2u
+  armorca2 -> armorcar2
+  astdelu1 -> astdelux1
+  astdelu2 -> astdelux2
+  asteroi1 -> asteroid1
+  asteroi2 -> asteroid2
+  asteroib -> asteroidb
+  atlants2 -> atlantis2
+  avenger2 -> avengers2
+  batsugna -> batsuguna
+  batugnsp -> batsugunsp
+  bayrout1 -> bayroute1
+  bayroutj -> bayroutej
+  berlwalt -> berlwallt
+  bgaregcn -> bgareggacn
+  bgareghk -> bgareggahk
+  bgaregnv -> bgaregganv
+  bgaregt2 -> bgareggat2
+  blckout2 -> blockout2
+  blckoutj -> blockoutj
+  blkhearj -> blkheartj
+  blstroi2 -> blstroid2
+  blueprnj -> blueprntj
+  bombjac2 -> bombjack2
+  bubbobr1 -> bublboblr1
+  bublbob1 -> bublbobl1
+  bublbobr -> bublboblr
+  bubsymph -> bubsymphj
+  bubsympu -> bubsymphu
+  buccanra -> buccanrsa
+  buggybjr -> buggyboyjr
+  captcomj -> captcommj
+  captcomu -> captcommu
+  ccastle3 -> ccastles3
+  cclimbrj -> cclimberj
+  cclmbr2a -> cclimbr2a
+  centipd2 -> centiped2
+  checkmaj -> checkmanj
+  cliffhga -> cliffhgra
+  cltchtrj -> cltchitrj
+  commandb -> commandob
+  commandj -> commandoj
+  commandu -> commandou
+  contcrcu -> contcircu
+  contcrua -> contcircua
+  cosmognj -> cosmogngj
+  crimfgt2 -> crimfght2
+  crimfgtj -> crimfghtj
+  crshrac2 -> crshrace2
+  crusnw23 -> crusnwld23
+  ctribb2 -> ctribeb2
+  cuebrckj -> cuebrickj
+  cyberb2p -> cyberbal2p
+  dambust -> dambustruk
+  darksea1 -> darkseal1
+  darkseaj -> darksealj
+  darksel2 -> darkseal2
+  dayton93 -> daytona93
+  dblpoind -> dblpointd
+  dbreed72 -> dbreedm72
+  ddonpchj -> ddonpachj
+  ddragn2u -> ddragon2u
+  ddragnba -> ddragonba
+  ddragnw1 -> ddragonw1
+  ddrago3b -> ddragon3b
+  ddrago3j -> ddragon3j
+  ddrago3p -> ddragon3p
+  ddragob2 -> ddragonb2
+  ddragoua -> ddragonua
+  demonwl1 -> demonwld1
+  devstor2 -> devstors2
+  devstor3 -> devstors3
+  digduga1 -> digdugat1
+  digdugb -> digdug1
+  dkngjnrj -> dkongjnrj
+  dkongjp -> dkongj
+  docastl2 -> docastle2
+  donpachk -> donpachihk
+  donpacjp -> donpachij
+  donpackr -> donpachikr
+  dotriku2 -> dotrikun2
+  drius2do -> darius2do
+  dunkmnic -> dunkmniaj
+  dyndek2b -> dyndeka2b
+  dynmcopb -> dynamcopb
+  dynmcopc -> dynamcopc
+  ecofghta -> ecofghtra
+  ecofghtu -> ecofghtru
+  ecofgtu1 -> ecofghtru1
+  elevatob -> elevatorb
+  espradeo -> espradejo
+  extrmatu -> extrmatnu
+  fantzon1 -> fantzone1
+  fghthstu -> fghthistu
+  fixeighb -> fixeightb
+  flashgla -> flashgala
+  fntsia2a -> fantsia2a
+  forgottu -> forgottnu
+  froggrmc -> froggermc
+  frogseg1 -> froggers1
+  frogseg2 -> froggers2
+  funkbeeb -> funkybeeb
+  funybubc -> funybublc
+  gaiapolj -> gaiapolsj
+  galag88j -> galaga88j
+  galaxiaj -> galaxiana
+  galmidw -> galaxianm
+  galmidwo -> galaxianmo
+  galpania -> galpanica
+  galtaito -> galaxiant
+  galxwar2 -> galxwars2
+  galxwart -> galxwarst
+  gatedom1 -> gatedoom1
+  gbustera -> gbustersa
+  goldnax1 -> goldnaxe1
+  goldnax2 -> goldnaxe2
+  goldnax3 -> goldnaxe3
+  goldnaxj -> goldnaxej
+  goldnaxu -> goldnaxeu
+  gravitr2 -> gravitar2
+  grdius2b -> gradius2b
+  grdius3a -> gradius3a
+  grdius3e -> gradius3e
+  grindsta -> grindstma
+  gunforcu -> gunforceu
+  gunsmoka -> gunsmokeua
+  gunsmokj -> gunsmokej
+  gunsmoku -> gunsmokeu
+  gwinga -> gigawinga
+  gwingb -> gigawingb
+  gwingj -> gigawingj
+  gyrodinc -> gyrodinec
+  harddunj -> harddunkj
+  hedpanif -> hedpanicf
+  helifira -> helifirea
+  hellfir1 -> hellfire1
+  hellfir2 -> hellfire2
+  hiimpac4 -> hiimpact4
+  hyperpcb -> hyperpacb
+  imgfigho -> imgfighto
+  invrvnga -> invrvngea
+  jspectr2 -> jspecter2
+  junglkj2 -> junglekj2
+  kangaroa -> kangarooa
+  kangarob -> kangaroob
+  karatblj -> karatblzj
+  karatblu -> karatblzu
+  kikcubib -> kikcubicb
+  kingbalj -> kingballj
+  kuniokub -> kuniokunb
+  lastbrnj -> lastbrnxj
+  ldrun3jp -> ldrun3j
+  ledstrm2 -> ledstorm2
+  lgtnfghu -> lgtnfghtu
+  lifefrcj -> lifefrcej
+  locklodu -> lockloadu
+  losttmbh -> losttombh
+  lwingsjp -> lwingsj
+  mainev2p -> mainevt2p
+  majtitlj -> majtitlej
+  makaimuc -> makaimurc
+  makaimug -> makaimurg
+  martmasc -> martmastc
+  marvlanj -> marvlandj
+  mchampda -> mchampdxa
+  megamn2a -> megaman2a
+  metamrpu -> metamrphu
+  mgcrystj -> mgcrystlj
+  mgcrysto -> mgcrystlo
+  mooncrsa -> mooncrsto
+  mooncrsg -> mooncrstg
+  mooncrsu -> mooncrstu
+  mrkougr2 -> mrkougar2
+  mshutlj2 -> mshuttlej2
+  mshuttlj -> mshuttlej
+  mspuzzlg -> mspuzzleg
+  mtlchmp1 -> mtlchamp1
+  multchmk -> multchmpk
+  myststno -> myststono
+  naughtyc -> naughtybc
+  nghtstrj -> nightstrj
+  nghtstru -> nightstru
+  ninjak2a -> ninjakd2a
+  nov2001u -> nova2001u
+  offrodc1 -> offroadc1
+  orld105k -> orlegend105k
+  orld111c -> orlegend111c
+  orlegndc -> orlegendc
+  orlegnde -> orlegende
+  orunneru -> orunnersu
+  outrun1 -> outrundx
+  outrun2 -> outrunra
+  ozmawar2 -> ozmawars2
+  pacmanij -> pacmaniaj
+  parodisj -> parodiusj
+  pbobbl2o -> pbobble2o
+  pbobbl2x -> pbobble2x
+  pitfigh4 -> pitfight4
+  plegendj -> plegendsj
+  powerina -> powerinsa
+  powerinb -> powerinsb
+  powerinj -> powerinsj
+  prehislu -> prehisleu
+  prmtmfgo -> prmtmfgto
+  pshot16a -> passsht16a
+  psyforcj -> psyforcej
+  psyfrcex -> psyforcex
+  puchicrj -> puchicarj
+  punishrj -> punisherj
+  punishru -> punisheru
+  pwrins2j -> pwrinst2j
+  qbertjp -> qbertj
+  racinfru -> racinfrcu
+  rastsag1 -> rastsaga1
+  raveraja -> raveracja
+  rayforcj -> rayforcej
+  raystorj -> raystormj
+  ridger2a -> ridgera2j
+  ridger2b -> ridgera2ja
+  ridgerab -> ridgeracb
+  ridgeraj -> ridgeracj
+  roadbls2 -> roadblst2
+  rocnropk -> rocnropek
+  rodlndjb -> rodlandjb
+  rvschola -> rvschoola
+  ryukenda -> ryukendna
+  sailormo -> sailormno
+  schasrcv -> schasercv
+  scorpnmc -> scorpionmc
+  scrambls -> scrambles
+  scrpiona -> scorpiona
+  scrpionb -> scorpionb
+  sctionza -> sectionza
+  sercharj -> searcharj
+  sercharu -> searcharu
+  sfjp -> sfj
+  shadfrcjv2 -> shadfrcejv2
+  shangnle -> shangonle
+  sharrir1 -> sharrier1
+  shdance1 -> shdancer1
+  shdancej -> shdancerj
+  silkwrm2 -> silkworm2
+  simp2pa -> simpsons2pa
+  simps2pa -> simpsons2p2
+  simps2pj -> simpsons2pj
+  simps4pa -> simpsons4pa
+  simpsn2p -> simpsons2p
+  sinista1 -> sinistar1
+  skylance -> skylancre
+  slammasu -> slammastu
+  snowbro3 -> snowbros3
+  snowbroa -> snowbrosa
+  snowbrob -> snowbrosb
+  snowbroc -> snowbrosc
+  snowbrod -> snowbrosd
+  snowbroj -> snowbrosj
+  soccersj -> soccerssja
+  souledgb -> souledge1
+  souledgc -> souledge1j
+  spacefev -> spacefevo
+  spacfura -> spacfurya
+  spacfurb -> spacfuryb
+  spinlbrj -> spinlbrkj
+  spinlbru -> spinlbrku
+  splattej -> splatterj
+  sshot139 -> shufshot139
+  sstrikra -> sstrikera
+  sstrngr2 -> sstrangr2
+  starwar1 -> starwars1
+  stkclmnj -> stkclmnsj
+  stratvob -> stratvoxb
+  streets1 -> streetsm1
+  streetsj -> streetsmj
+  streetsw -> streetsmw
+  stridr2a -> strider2a
+  stridrua -> striderua
+  superpcm -> superpacm
+  taotaida -> taotaidoa
+  tdragn2a -> tdragon2a
+  techromu -> techromnu
+  terracra -> terracren
+  terracrb -> terracrea
+  thnderxa -> thunderxa
+  thnderxb -> thunderxb
+  thnderxj -> thunderxj
+  thndrbd1 -> thndrbld1
+  thundrhu -> thunderhu
+  tigerodb -> tigeroadb
+  timecrsa -> timecrisa
+  timesca1 -> timescan1
+  todruago -> todruagao
+  topskatu -> topskatru
+  triothej -> triothepj
+  tshingna -> tshingena
+  turtshik -> turtshipk
+  tutankst -> tutankhms
+  twincobu -> twincobru
+  twotigrc -> twotigerc
+  vigilntj -> vigilantj
+  vigilntu -> vigilantu
+  vindict4 -> vindictr4
+  vsnetscu -> vsnetscru
+  vstrikro -> vstrikero
+  warpwarr -> warpwarpr
+  welltrij -> welltrisj
+  windheau -> windheatu
+  wizdfiru -> wizdfireu
+  wrestwa1 -> wrestwar1
+  wrestwa2 -> wrestwar2
+  wwfsstau -> wwfsstaru
+  wwfwfsta -> wwfwfesta
+  wwfwfstb -> wwfwfestb
+  wwfwfstj -> wwfwfestj
+  zerowng2 -> zerowing2
+  zzyzzyx2 -> zzyzzyxx2
+
+If you are happy with the fixes that will be applied, run 'mapfix -m'.
+
+You can always edit mamediff.out and run 'mapfix -m -t' to tweak the behaviour.
+
+Do NOT be tempted to edit the maps by hand. MapFix will remove your changes!

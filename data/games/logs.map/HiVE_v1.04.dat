@@ -1,0 +1,36 @@
+game (
+	name galaga
+	description "Galaga (Midway)"
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+)
+
+game (
+	name galnamco
+	description "Galaxian (Namco, modified)"
+	rom ( name galaxian.1k size 2048 crc 7e3f56a2 )
+	rom ( name galaxian.1h size 2048 crc 39fb43a4 )
+)
+
+game (
+	name metrocrs
+	description "Metro Cross"
+	rom ( name sk1-mcu.bin size 4096 crc 6ef08fb3 )
+)
+
+game (
+	name nrallyx
+	description "New Rally X"
+	rom ( name nrallyx.spr size 256 crc b75c4e87 )
+)
+
+game (
+	name pacland
+	description "Pac Land"
+	rom ( name pl1-mcu.bin size 4096 crc 6ef08fb3 )
+)
+
+game (
+	name pacnpal
+	description "Pac N Pal"
+	rom ( name papi3.cpu size 256 crc 83c31a98 )
+)

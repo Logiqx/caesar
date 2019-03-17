@@ -1,0 +1,158 @@
+game (
+	name badlandh
+	description "Badlands (Hitachi)"
+	rom ( name bl_hit_7a.bin size 8192 crc a135e444 )
+	rom ( name bl_hit_6a.bin size 8192 crc 4c287f37 )
+	rom ( name bl_hit_9c.bin size 8192 crc 44c3441e )
+	rom ( name bl_hit_4f.bin size 32 crc 0226f881 )
+)
+
+game (
+	name badlands
+	description "Badlands (Pioneer)"
+	rom ( name badlands.a13 size 8192 crc a44776d6 )
+	rom ( name badlands.a14 size 8192 crc 82cb4614 )
+	rom ( name badlands.c8 size 8192 crc 590209fe )
+	rom ( name badlands.c4 size 32 crc 6757be8d )
+)
+
+game (
+	name cobraconv
+	description "Cobra Command (Conversion)"
+	rom ( name bd00 size 8192 crc 8d9ad777 )
+	rom ( name bd01 size 8192 crc 1b4db507 )
+	rom ( name bd02 size 8192 crc 3d802707 )
+	rom ( name bd03 size 8192 crc f1b9df77 )
+	rom ( name bd06 size 8192 crc b1340125 )
+	rom ( name bd05 size 8192 crc 98412178 )
+	rom ( name bd04 size 8192 crc 33013cc2 )
+	rom ( name vd0-c.bpr size 32 crc 02c27aa0 )
+	rom ( name vd0-t.bpr size 32 crc 78449942 )
+	rom ( name lp4-2.pld size 554 crc 4bc65ab0 )
+)
+
+game (
+	name cputest
+	description "CPU Test"
+	rom ( name savage.com size 14080 crc c8d0edf6 )
+	rom ( name zexall.com size 8704 crc ecf70fd6 )
+)
+
+game (
+	name dle11
+	description "Dragon's Lair (US enhancement 1.1 L)"
+	rom ( name dle11u1l.bin size 8192 crc 9e65b33d )
+	rom ( name dle11u2l.bin size 8192 crc f16fa36f )
+	rom ( name dle11u3l.bin size 8192 crc b8d07a16 )
+	rom ( name dle11u4l.bin size 8192 crc 20fc79b7 )
+	rom ( name readme11.txt size 22338 crc 4bf84551 )
+)
+
+game (
+	name dle20
+	description "Dragon's Lair (US enhancement 2.0)"
+	rom ( name dle20_u1.bin size 8192 crc 0aca15b4 )
+	rom ( name dle20_u2.bin size 8192 crc 1cea7622 )
+	rom ( name dle20_u3.bin size 8192 crc 21a7e7ca )
+	rom ( name dle20_u4.bin size 8192 crc 4ae26073 )
+	rom ( name readme20.txt size 20553 crc 51c50010 )
+)
+
+game (
+	name dle21
+	description "Dragon's Lair (US enhancement 2.1)"
+	rom ( name dle21_u1.bin size 8192 crc 4f8af481 )
+	rom ( name dle21_u2.bin size 8192 crc 5fca04c5 )
+	rom ( name dle21_u3.bin size 8192 crc c14f36b3 )
+	rom ( name readme21.txt size 21024 crc a68f0d21 )
+)
+
+game (
+	name lair2
+	description "Dragon's Lair II (Rev v3.19)"
+	rom ( name dl2_319.bin size 65536 crc e9453a1b )
+)
+
+game (
+	name lair2_211
+	description "Dragon's Lair II (Rev v2.11)"
+	rom ( name dl2_211.bin size 65536 crc 9f2660a3 )
+)
+
+game (
+	name lair2_300
+	description "Dragon's Lair II (Rev v3.00)"
+	rom ( name dl2_300.bin size 65536 crc dec4f2e3 )
+)
+
+game (
+	name lair2_314
+	description "Dragon's Lair II (Rev v3.14)"
+	rom ( name dl2_314.bin size 65536 crc af92b612 )
+)
+
+game (
+	name lair2_315
+	description "Dragon's Lair II (Rev v3.15)"
+	rom ( name dl2_315.bin size 65536 crc 13ec0600 )
+)
+
+game (
+	name lair2_316e
+	description "Dragon's Lair II (Rev v3.16, Europe)"
+	rom ( name dl2_316e.bin size 65536 crc d68f1b13 )
+)
+
+game (
+	name lair2_317
+	description "Dragon's Lair II (Rev v3.17)"
+	rom ( name dl2_317.bin size 65536 crc e9453a1b )
+)
+
+game (
+	name lair2_318
+	description "Dragon's Lair II (Rev v3.18)"
+	rom ( name dl2_318.bin size 65536 crc 64706492 )
+)
+
+game (
+	name lair2_319e
+	description "Dragon's Lair II (Rev v3.19, Europe)"
+	rom ( name dl2_319e.bin size 65536 crc cc23ad9f )
+)
+
+game (
+	name lair2_319es
+	description "Dragon's Lair II (Rev v3.19, Spanish)"
+	rom ( name dl2_319es.bin size 65536 crc 4b9a811d )
+)
+
+game (
+	name mach3
+	description "M.A.C.H. 3"
+	rom ( name m3target.bin size 971776 crc a2a9f8e5 )
+)
+
+game (
+	name multicputest
+	description "Multi-CPU Test"
+	rom ( name prog1.bin size 113 crc aefca341 )
+	rom ( name prog2.bin size 113 crc 0c6c8ce9 )
+)
+
+game (
+	name sae
+	description "Space Ace (Enhanced)"
+	rom ( name sae10_u1.bin size 8192 crc cbc5e425 )
+	rom ( name sae10_u2.bin size 8192 crc 71a26f47 )
+	rom ( name sae10_u3.bin size 8192 crc bac5cdd8 )
+	rom ( name sae10_u4.bin size 8192 crc e18380f9 )
+	rom ( name sae10_u5.bin size 8192 crc 8a536cb0 )
+	rom ( name readme.txt size 16931 crc ca4e20e6 )
+)
+
+game (
+	name tqhack
+	description "Thayer's Quest (Swearing)"
+	rom ( name tq_u33_mod.bin size 32768 crc 7be981df )
+)

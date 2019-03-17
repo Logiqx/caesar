@@ -1,0 +1,6 @@
+game (
+	name stccb
+	description "Sega Touring Car Championship (Rev B) [Model 2C CRX]"
+	rom ( name sega-tc.u15 size 524288 crc efdfb625 )
+	rom ( name sega-tc.u16 size 524288 crc 61a357d9 )
+)

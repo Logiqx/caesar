@@ -1,0 +1,5 @@
+game (
+	name luc2day
+	description "Lucky Today"
+	rom ( name galaxian.clr size 32 crc c3ac9467 )
+)

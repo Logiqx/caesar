@@ -1,0 +1,25 @@
+game (
+	name dwj
+	description "Dynasty Wars (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name sf2cej
+	description "Street Fighter II C.E. (Japan)"
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+	rom ( name sf2cej.22 size 524288 crc 6628f6a6 )
+	rom ( name sf2cej.23 size 524288 crc 7c463f94 )
+)
+
+game (
+	name sf2rb
+	description "Street Fighter II Rainbow Edition"
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name wonder3
+	description "Wonder 3 ((Three Wonders) 91/05/20 - Japan)"
+	rom ( name rt23.bin size 65536 crc 7d5a77a7 )
+)

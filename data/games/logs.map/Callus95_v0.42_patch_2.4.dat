@@ -1,0 +1,187 @@
+game (
+	name area88
+	description "Area 88 (Japan)"
+	rom ( name unsquad.32 size 524288 crc ae1d7fb0 )
+	rom ( name unsquad.01 size 524288 crc 5965ca8d )
+	rom ( name unsquad.05 size 524288 crc bf4575d8 )
+	rom ( name unsquad.03 size 524288 crc ac6db17d )
+	rom ( name unsquad.07 size 524288 crc a02945f4 )
+)
+
+game (
+	name chikij
+	description "Chiki Chiki Boys (Japan)"
+	rom ( name ch_32.rom size 524288 crc 9b70bd41 )
+	rom ( name ch_gfx1.rom size 524288 crc f33ca9d4 )
+	rom ( name ch_gfx5.rom size 524288 crc 4ec75f15 )
+	rom ( name ch_gfx3.rom size 524288 crc 0ba2047f )
+	rom ( name ch_gfx7.rom size 524288 crc d85d00d6 )
+)
+
+game (
+	name dwj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name ffightj
+	description "Final Fight (Japan)"
+	rom ( name ff32-32m.bin size 524288 crc c747696e )
+)
+
+game (
+	name ghoulsj
+	description "Dai Makai-Mura (Japan)"
+	rom ( name ghl17.bin size 524288 crc 3ea1b0f2 )
+	rom ( name ghl6.bin size 524288 crc 4ba90b59 )
+	rom ( name ghl5.bin size 524288 crc 0ba9c0b0 )
+	rom ( name ghl8.bin size 524288 crc 4bdee9de )
+	rom ( name ghl7.bin size 524288 crc 5d760ab9 )
+)
+
+game (
+	name knightsj
+	description "Knights of the Round (Japan)"
+	rom ( name krj30.bin size 131072 crc ad3d1a8e )
+	rom ( name krj37.bin size 131072 crc e694a491 )
+	rom ( name krj31.bin size 131072 crc 85596094 )
+	rom ( name krj38.bin size 131072 crc 9198bf8f )
+)
+
+game (
+	name kodb
+	description "The King of Dragons (bootleg)"
+	rom ( name kod01.rom size 524288 crc 5f74bf78 )
+	rom ( name kod10.rom size 524288 crc 9ef36604 )
+	rom ( name kod02.rom size 524288 crc e45b8701 )
+	rom ( name kod11.rom size 524288 crc 113358f3 )
+	rom ( name kod03.rom size 524288 crc 5e5303bf )
+	rom ( name kod12.rom size 524288 crc 402b9b4f )
+	rom ( name kod04.rom size 524288 crc a7750322 )
+	rom ( name kod13.rom size 524288 crc 38853c44 )
+	rom ( name kd18.bin size 131072 crc 4c63181d )
+	rom ( name kd19.bin size 131072 crc 92941b80 )
+)
+
+game (
+	name mercsj
+	description "Senjo no Ookami II (Japan)"
+	rom ( name so2_32.rom size 524288 crc 2eb5cf0c )
+	rom ( name so2_gfx2.rom size 524288 crc 597c2875 )
+	rom ( name so2_gfx6.rom size 524288 crc aa6102af )
+	rom ( name so2_gfx4.rom size 524288 crc 912a9ca0 )
+	rom ( name so2_gfx8.rom size 524288 crc 839e6869 )
+)
+
+game (
+	name mswordj
+	description "Magic Sword (Japan)"
+	rom ( name ms_32.rom size 524288 crc 2475ddfc )
+	rom ( name ms_gfx1.rom size 524288 crc 0d2bbe00 )
+	rom ( name ms_gfx5.rom size 524288 crc c00fe7e2 )
+	rom ( name ms_gfx3.rom size 524288 crc 3a1a5bf4 )
+	rom ( name ms_gfx7.rom size 524288 crc 4ccacac5 )
+)
+
+game (
+	name nemoj
+	description "Nemo (Japan)"
+	rom ( name nm_32.rom size 524288 crc d6d1add3 )
+	rom ( name nm_gfx1.rom size 524288 crc 9e878024 )
+	rom ( name nm_gfx5.rom size 524288 crc 487b8747 )
+	rom ( name nm_gfx3.rom size 524288 crc bb01e6b6 )
+	rom ( name nm_gfx7.rom size 524288 crc 203dc8c6 )
+	rom ( name nm_09.rom size 65536 crc 0f4b0581 )
+)
+
+game (
+	name sf2ceb
+	description "Street Fighter II' - Champion Edition (US rev B)"
+	rom ( name s92-21b size 524288 crc b383cb1c )
+)
+
+game (
+	name sf2cej
+	description "Street Fighter II' - Champion Edition (Japan)"
+	rom ( name sf2cej.23 size 524288 crc 7c463f94 )
+	rom ( name sf2cej.22 size 524288 crc 6628f6a6 )
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name sf2rb
+	description "Street Fighter II' - Champion Edition (Rainbow)"
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name sf2t
+	description "Street Fighter II' - Hyper Fighting (US)"
+	rom ( name sf2t.11 size 524288 crc 293c888c )
+	rom ( name sf2t.10 size 524288 crc 3c042686 )
+	rom ( name sf2t.13 size 524288 crc 842b35a4 )
+	rom ( name sf2t.12 size 524288 crc 8b7e7183 )
+)
+
+game (
+	name striderj
+	description "Strider Hiryu (Japan set 1)"
+	rom ( name strider.09 size 65536 crc 2ed403bc )
+)
+
+game (
+	name stridrja
+	description "Strider Hiryu (Japan set 2)"
+	rom ( name strider.32 size 524288 crc 9b3cfc08 )
+	rom ( name strider.02 size 524288 crc 7705aa46 )
+	rom ( name strider.01 size 524288 crc b7d04e8b )
+	rom ( name strider.06 size 524288 crc 4eee9aea )
+	rom ( name strider.05 size 524288 crc 005f000b )
+	rom ( name strider.04 size 524288 crc 5b18b722 )
+	rom ( name strider.03 size 524288 crc 6b4713b4 )
+	rom ( name strider.08 size 524288 crc 2d7f21e4 )
+	rom ( name strider.07 size 524288 crc b9441519 )
+)
+
+game (
+	name varthj
+	description "Varth - Operation Thunderstorm (Japan)"
+	rom ( name va_gfx1.rom size 524288 crc 0b1ace37 )
+	rom ( name va_gfx5.rom size 524288 crc b1fb726e )
+	rom ( name va_gfx3.rom size 524288 crc 44dfe706 )
+	rom ( name va_gfx7.rom size 524288 crc 4c6588cd )
+)
+
+game (
+	name varthu
+	description "Varth - Operation Thunderstorm (US)"
+	rom ( name vae_28a.rom size 131072 crc 7a0e0d25 )
+	rom ( name vae_33a.rom size 131072 crc f2365922 )
+	rom ( name vae_29a.rom size 131072 crc 5e2cd2c3 )
+	rom ( name vae_34a.rom size 131072 crc 3d9bdf83 )
+)
+
+game (
+	name willowj
+	description "Willow (Japan, Japanese)"
+	rom ( name wl_32.rom size 524288 crc dfd9f643 )
+	rom ( name wl_gfx1.rom size 524288 crc c6f2abce )
+	rom ( name wl_gfx5.rom size 524288 crc afa74b73 )
+	rom ( name wl_gfx3.rom size 524288 crc 4aa4c6d3 )
+	rom ( name wl_gfx7.rom size 524288 crc 12a0dc0b )
+)
+
+game (
+	name wonder3
+	description "Wonder 3 (Japan)"
+	rom ( name 3wonders.01 size 524288 crc 902489d0 )
+	rom ( name 3wonders.02 size 524288 crc e9a034f4 )
+	rom ( name 3wonders.05 size 524288 crc 86aef804 )
+	rom ( name 3wonders.06 size 524288 crc 13cb0e7c )
+	rom ( name 3wonders.03 size 524288 crc e35ce720 )
+	rom ( name 3wonders.04 size 524288 crc df0eea8b )
+	rom ( name 3wonders.07 size 524288 crc 4f057110 )
+	rom ( name 3wonders.08 size 524288 crc 1f055014 )
+	rom ( name rt23.bin size 65536 crc 7d5a77a7 )
+)

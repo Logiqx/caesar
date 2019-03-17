@@ -1,0 +1,5 @@
+game (
+	name shinobi
+	description "Shinobi (set 1)"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)

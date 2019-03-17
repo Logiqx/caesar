@@ -1,0 +1,827 @@
+game (
+	name 2020bb
+	description "2020 Super Baseball (set 1)"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n046001b.538 size 524288 crc 0b054a38 )
+	rom ( name n046001b.638 size 524288 crc b2a86447 )
+)
+
+game (
+	name 3countb
+	description "3 Count Bout / Fire Suplex"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n106001a.038 size 524288 crc 10dbe66a )
+	rom ( name n106001a.03c size 524288 crc 6d5bfb61 )
+	rom ( name n106001a.4f8 size 131072 crc 3377cda3 )
+)
+
+game (
+	name alpham2
+	description "Alpha Mission II / ASO II - Last Guardian"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n082001a.038 size 524288 crc 4400b34c )
+	rom ( name n082001a.03c size 524288 crc b0366875 )
+	rom ( name n082001a.278 size 524288 crc 45f5e914 )
+	rom ( name n082001a.27c size 524288 crc 07524063 )
+	rom ( name n082001a.478 size 65536 crc 0449acf5 )
+	rom ( name n082001b.278 size 524288 crc c3178623 )
+	rom ( name n082001b.27c size 524288 crc 65bca6b7 )
+	rom ( name n082001c.278 size 524288 crc 27cd2250 )
+	rom ( name n082001c.27c size 524288 crc 43025293 )
+	rom ( name n082001d.278 size 524288 crc ae0a679a )
+	rom ( name n082001d.27c size 524288 crc 6a2e400d )
+)
+
+game (
+	name androdun
+	description "Andro Dunos"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n138001a.4f8 size 131072 crc 1a009f8c )
+	rom ( name n138001b.538 size 524288 crc 806ab937 )
+	rom ( name n138001b.53c size 524288 crc e7e1a2be )
+	rom ( name n138001b.638 size 524288 crc 33bee10f )
+	rom ( name n138001b.63c size 524288 crc 70f0d263 )
+	rom ( name n138001d.538 size 524288 crc 806ab937 )
+	rom ( name n138001d.53c size 524288 crc e7e1a2be )
+	rom ( name n138001d.638 size 524288 crc 33bee10f )
+	rom ( name n138001d.63c size 524288 crc 70f0d263 )
+)
+
+game (
+	name aodk
+	description "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name aof
+	description "Art of Fighting / Ryuuko no Ken"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n102001a.4f8 size 131072 crc 981345f8 )
+)
+
+game (
+	name aof2
+	description "Art of Fighting 2 / Ryuuko no Ken 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name aof3
+	description "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name bakatono
+	description "Bakatonosama Mahjong Manyuki"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name bjourney
+	description "Blue's Journey / Raguy"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name bj-m1.rom size 65536 crc a9e30496 )
+)
+
+game (
+	name blazstar
+	description "Blazing Star"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name breakers
+	description "Breakers"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name breakrev
+	description "Breakers Revenge"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name bstars
+	description "Baseball Stars Professional"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n138001a.478 size 65536 crc 79a8f4c2 )
+)
+
+game (
+	name bstars2
+	description "Baseball Stars 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name star2_m1.rom size 65536 crc b2611c03 )
+)
+
+game (
+	name burningf
+	description "Burning Fight (set 1)"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name crsword
+	description "Crossed Swords"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n046001a.4f8 size 65536 crc 66633e5e )
+)
+
+game (
+	name cyberlip
+	description "Cyber-Lip"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name doubledr
+	description "Double Dragon (Neo Geo)"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name eightman
+	description "Eight Man"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name fatfursp
+	description "Fatal Fury Special / Garou Densetsu Special"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n058001a.4f8 size 131072 crc a8603979 )
+)
+
+game (
+	name fatfury2
+	description "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name fatfury3
+	description "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name fbfrenzy
+	description "Football Frenzy"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name fightfev
+	description "Fight Fever / Crystal Legacy"
+	rom ( name ff_s1.rom size 131072 crc 70727a1e )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ff_v2.rom size 1048576 crc 64470036 )
+)
+
+game (
+	name flipshot
+	description "Battle Flip Shot"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name galaxyfg
+	description "Galaxy Fight - Universal Warriors"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name goalx3
+	description "Goal! Goal! Goal!"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name goal!_m1.rom size 65536 crc dd945773 )
+)
+
+game (
+	name gowcaizr
+	description "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name gpilots
+	description "Ghost Pilots"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name gururin
+	description "Gururin"
+	rom ( name gurin_s1.rom size 131072 crc 4f0cbd58 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name irrmaze
+	description "The Irritating Maze / Ultra Denryu Iraira Bou"
+	rom ( name im_p1.rom size 2097152 crc 6d536c6e )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name janshin
+	description "Jyanshin Densetsu - Quest of Jongmaster"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name jans-m1.rom size 65536 crc e191f955 )
+)
+
+game (
+	name joyjoy
+	description "Puzzled / Joy Joy Kid"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n022001a.478 size 65536 crc 058683ec )
+)
+
+game (
+	name kabukikl
+	description "Kabuki Klash - Far East of Eden / Tengai Makyou Shinden - Far East of Eden"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name karnovr
+	description "Karnov's Revenge / Fighter's History Dynamite"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kizuna
+	description "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kof94
+	description "The King of Fighters '94"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kof95
+	description "The King of Fighters '95"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name kof95_v1.rom size 4194304 crc 21469561 )
+	rom ( name kof95_c1.rom size 4194304 crc 33bf8657 )
+	rom ( name kof95_c2.rom size 4194304 crc f21908a4 )
+	rom ( name kof95_c3.rom size 4194304 crc 0cee1ddb )
+	rom ( name kof95_c4.rom size 4194304 crc 729db15d )
+)
+
+game (
+	name kof96
+	description "The King of Fighters '96"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kof97
+	description "The King of Fighters '97"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kof98
+	description "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name kotm
+	description "King of the Monsters"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n058001a.4f8 size 131072 crc 0296abcb )
+)
+
+game (
+	name kotm2
+	description "King of the Monsters 2 - The Next Thing"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name kotm2_c3.rom size 2097152 crc 40156dca )
+	rom ( name kotm2_c4.rom size 2097152 crc b0d44111 )
+)
+
+game (
+	name lastblad
+	description "The Last Blade / Bakumatsu Roman - Gekkano Kenshi"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name lb_v4.rom size 2097152 crc 13583c4b )
+)
+
+game (
+	name lastbld2
+	description "The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekkano Kenshi"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name lbowling
+	description "League Bowling"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n050001a.478 size 65536 crc 535ec016 )
+)
+
+game (
+	name legendos
+	description "Legend of Success Joe / Ashitano Joe Densetsu"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name joe_m1.rom size 65536 crc 909d4ed9 )
+)
+
+game (
+	name lresort
+	description "Last Resort"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name magdrop2
+	description "Magical Drop II"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name magdrop3
+	description "Magical Drop III"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name maglord
+	description "Magician Lord (set 1)"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name mahretsu
+	description "Mahjong Kyoretsuden"
+	rom ( name maj_s1.rom size 65536 crc b0d16529 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name marukodq
+	description "Chibi Marukochan Deluxe Quiz"
+	rom ( name maru-s1.rom size 32768 crc 3b52a219 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name maru-c1.rom size 4194304 crc 4bd5e70f )
+	rom ( name maru-c2.rom size 4194304 crc 67dbe24d )
+)
+
+game (
+	name miexchng
+	description "Money Puzzle Exchanger / Money Idol Exchanger"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name minasan
+	description "Minnasanno Okagesamadesu"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name mslug
+	description "Metal Slug - Super Vehicle-001"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name mslug2
+	description "Metal Slug 2 - Super Vehicle-001/II"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name mslugx
+	description "Metal Slug X - Super Vehicle-001"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name mutnat
+	description "Mutation Nation"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name nam1975
+	description "NAM-1975"
+	rom ( name nam_s1.rom size 65536 crc 8ded55a5 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name nam_m1.rom size 65536 crc cd088502 )
+)
+
+game (
+	name ncombat
+	description "Ninja Combat"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ncommand
+	description "Ninja Commando"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name neobombe
+	description "Neo Bomberman"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name neocup98
+	description "Neo-Geo Cup '98 - The Road to the Victory"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name nc98_c1.rom size 8388608 crc d2c40ec7 )
+)
+
+game (
+	name neodrift
+	description "Neo Drift Out - New Technology"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name neogeo
+	description "Neo Geo BIOS"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name neomrdo
+	description "Neo Mr. Do!"
+	rom ( name neomd-s1.rom size 65536 crc 6c4b09c4 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ninjamas
+	description "Ninja Master's - haoh-ninpo-cho"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name overtop
+	description "Over Top"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name panicbom
+	description "Panic Bomber"
+	rom ( name panic_p1.rom size 262144 crc 0b21130d )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name pbobbl2n
+	description "Puzzle Bobble 2 / Bust-A-Move Again"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name pbobble
+	description "Puzzle Bobble / Bust-A-Move"
+	rom ( name puzzb_p1.rom size 262144 crc 7c3c34e1 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name puzzb_m1.rom size 65536 crc 129e6054 )
+)
+
+game (
+	name popbounc
+	description "Pop 'n Bounce / Gapporin"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name pspikes2
+	description "Power Spikes II"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name pulstar
+	description "Pulstar"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name puzzldpr
+	description "Puzzle De Pon R"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name puzzledp
+	description "Puzzle De Pon"
+	rom ( name pdpon_s1.rom size 65536 crc 4a421612 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name quizdai2
+	description "Quiz Meintantei Neo Geo - Quiz Daisousa Sen Part 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name quizdais
+	description "Quiz Daisousa Sen - The Last Count Down"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name quizkof
+	description "Quiz King of Fighters"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name qkof-c2.rom size 2097152 crc c78c49da )
+)
+
+game (
+	name ragnagrd
+	description "Operation Ragnagard / Shin-Oh-Ken"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name rbff1
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name rbff2
+	description "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name rb2_v3.rom size 4194304 crc df77b7fa )
+	rom ( name rb2_v4.rom size 4194304 crc 33a356ee )
+)
+
+game (
+	name rbffspec
+	description "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ridhero
+	description "Riding Hero"
+	rom ( name n046001a.378 size 65536 crc 197d1a28 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n046001a.478 size 65536 crc f7196558 )
+)
+
+game (
+	name roboarmy
+	description "Robo Army"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name rarmy_m1.rom size 131072 crc 98edc671 )
+)
+
+game (
+	name samsho
+	description "Samurai Shodown / Samurai Spirits"
+	rom ( name samsh_p1.rom size 524288 crc 80aa6c97 )
+	rom ( name samsh_p2.rom size 524288 crc 71768728 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name samsho2
+	description "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name samsho3
+	description "Samurai Shodown III / Samurai Spirits - Zankurou Musouken"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name samsho4
+	description "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name savagere
+	description "Savage Reign / Fu'un Mokushiroku - kakutou sousei"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name dodge_v1.rom size 2097152 crc 8b53e945 )
+	rom ( name dodge_v2.rom size 2097152 crc af37ebf8 )
+)
+
+game (
+	name sengoku
+	description "Sengoku / Sengoku Denshou (set 1)"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name sengoku2
+	description "Sengoku 2 / Sengoku Denshou 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name shocktr2
+	description "Shock Troopers - 2nd Squad"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name shocktro
+	description "Shock Troopers"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name socbrawl
+	description "Soccer Brawl"
+	rom ( name sbrl_s1.rom size 65536 crc 2db38c3b )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name sbrl_m1.rom size 65536 crc 2f38d5d3 )
+)
+
+game (
+	name sonicwi2
+	description "Aero Fighters 2 / Sonic Wings 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name sonicwi3
+	description "Aero Fighters 3 / Sonic Wings 3"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name sonw3_v2.rom size 1048576 crc 32187ccd )
+)
+
+game (
+	name spinmast
+	description "Spinmaster / Miracle Adventure"
+	rom ( name spnm_p2.rom size 524288 crc 43763ad2 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ssideki
+	description "Super Sidekicks / Tokuten Ou"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ssideki2
+	description "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ssideki3
+	description "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name ssideki4
+	description "The Ultimate 11 / Tokuten Ou - Honoo no Libero"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name stakwin
+	description "Stakes Winner / Stakes Winner - GI kinzen seihae no michi"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name stakwin2
+	description "Stakes Winner 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name strhoop
+	description "Street Hoop / Street Slam / Dunk Dream"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name shoop_m1.rom size 65536 crc 1a5f08db )
+	rom ( name shoop_v2.rom size 524288 crc b19884f8 )
+)
+
+game (
+	name superspy
+	description "The Super Spy"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name n138001a.478 size 65536 crc 64455806 )
+)
+
+game (
+	name tophuntr
+	description "Top Hunter - Roddy & Cathy"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name tpgolf
+	description "Top Player's Golf"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name topg_m1.rom size 65536 crc 7851d0d9 )
+	rom ( name topg_c3.rom size 524288 crc b09f1612 )
+	rom ( name topg_c4.rom size 524288 crc 150ea7a1 )
+)
+
+game (
+	name trally
+	description "Thrash Rally"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name turfmast
+	description "Neo Turf Masters / Big Tournament Golf"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name twinspri
+	description "Twinkle Star Sprites"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name tws96
+	description "Tecmo World Soccer '96"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name tecmo_m1.rom size 65536 crc 860ba8c7 )
+)
+
+game (
+	name viewpoin
+	description "Viewpoint"
+	rom ( name viewp_s1.rom size 65536 crc 6d0f146a )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name viewp_m1.rom size 65536 crc d57bd7af )
+)
+
+game (
+	name wakuwak7
+	description "Waku Waku 7"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name wh1
+	description "World Heroes"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name wh2
+	description "World Heroes 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name wh2j
+	description "World Heroes 2 Jet"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name whp
+	description "World Heroes Perfect"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name wjammers
+	description "Windjammers / Flying Power Disc"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)
+
+game (
+	name zedblade
+	description "Zed Blade / Operation Ragnarok"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+)

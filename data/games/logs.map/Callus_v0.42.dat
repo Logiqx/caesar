@@ -1,0 +1,104 @@
+game (
+	name dwj
+	description "Dynasty Wars (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name gngj
+	description "Daimakaimura"
+	rom ( name ghl17.bin size 524288 crc 3ea1b0f2 )
+	rom ( name ghl5.bin size 524288 crc 0ba9c0b0 )
+	rom ( name ghl6.bin size 524288 crc 4ba90b59 )
+	rom ( name ghl7.bin size 524288 crc 5d760ab9 )
+	rom ( name ghl8.bin size 524288 crc 4bdee9de )
+)
+
+game (
+	name knightsj
+	description "Knights of the Round (91/11/27 - Japan)"
+	rom ( name krj30.bin size 131072 crc ad3d1a8e )
+	rom ( name krj31.bin size 131072 crc 85596094 )
+	rom ( name krj37.bin size 131072 crc e694a491 )
+	rom ( name krj38.bin size 131072 crc 9198bf8f )
+)
+
+game (
+	name mswordj
+	description "Magic Sword (Japan)"
+	rom ( name ms_32.rom size 524288 crc 2475ddfc )
+	rom ( name ms_gfx1.rom size 524288 crc 0d2bbe00 )
+	rom ( name ms_gfx3.rom size 524288 crc 3a1a5bf4 )
+	rom ( name ms_gfx5.rom size 524288 crc c00fe7e2 )
+	rom ( name ms_gfx7.rom size 524288 crc 4ccacac5 )
+)
+
+game (
+	name nemoj
+	description "Nemo (90/11/20 - Japan)"
+	rom ( name nm23.bin size 65536 crc 0f4b0581 )
+)
+
+game (
+	name sf2ce
+	description "Street Fighter II C.E."
+	rom ( name sf2.10 size 524288 crc 3c042686 )
+	rom ( name sf2.11 size 524288 crc 293c888c )
+	rom ( name sf2.12 size 524288 crc 8b7e7183 )
+	rom ( name sf2.13 size 524288 crc 842b35a4 )
+)
+
+game (
+	name sf2cej
+	description "Street Fighter II C.E. (Japan)"
+	rom ( name sf2.10 size 524288 crc 3c042686 )
+	rom ( name sf2.11 size 524288 crc 293c888c )
+	rom ( name sf2.12 size 524288 crc 8b7e7183 )
+	rom ( name sf2.13 size 524288 crc 842b35a4 )
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+	rom ( name sf2cej.22 size 524288 crc 6628f6a6 )
+	rom ( name sf2cej.23 size 524288 crc 7c463f94 )
+)
+
+game (
+	name sf2ceq
+	description "Street Fighter II C.E. (Big Bird)"
+	rom ( name sf2.10 size 524288 crc 3c042686 )
+	rom ( name sf2.11 size 524288 crc 293c888c )
+	rom ( name sf2.12 size 524288 crc 8b7e7183 )
+	rom ( name sf2.13 size 524288 crc 842b35a4 )
+	rom ( name ssf-q8.bin size 524288 crc 6f5a088c )
+	rom ( name ssf-q7.bin size 524288 crc cdd14313 )
+	rom ( name ssf-q6.bin size 524288 crc 4e79c951 )
+	rom ( name ssf-q5.bin size 524288 crc 4770e7b7 )
+	rom ( name ssf-q4.bin size 524288 crc 9d9ebe32 )
+	rom ( name ssf-q3.bin size 524288 crc 695cc2ca )
+	rom ( name ssf-q2.bin size 524288 crc 8c66ae26 )
+	rom ( name ssf-q1.bin size 524288 crc a6f9da5c )
+	rom ( name ssfj01.bin size 131072 crc eb247e8c )
+)
+
+game (
+	name sf2rb
+	description "Street Fighter II Rainbow Edition"
+	rom ( name sf2.10 size 524288 crc 3c042686 )
+	rom ( name sf2.11 size 524288 crc 293c888c )
+	rom ( name sf2.12 size 524288 crc 8b7e7183 )
+	rom ( name sf2.13 size 524288 crc 842b35a4 )
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name sf2t
+	description "Street Fighter II Turbo"
+	rom ( name sf2.10 size 524288 crc 3c042686 )
+	rom ( name sf2.11 size 524288 crc 293c888c )
+	rom ( name sf2.12 size 524288 crc 8b7e7183 )
+	rom ( name sf2.13 size 524288 crc 842b35a4 )
+)
+
+game (
+	name wonder3
+	description "Wonder 3 ((Three Wonders) 91/05/20 - Japan)"
+	rom ( name rt23.bin size 65536 crc 7d5a77a7 )
+)

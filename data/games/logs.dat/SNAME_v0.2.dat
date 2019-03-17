@@ -1,0 +1,23 @@
+game (
+	name monaco
+	description "Monaco GP"
+	rom ( name pr125 size 512 crc 7a66ed4c )
+	rom ( name pr126 size 512 crc 5d7a8f12 )
+	rom ( name pr127 size 512 crc 8ffdc2f0 )
+	rom ( name pr128 size 512 crc dde29dea )
+	rom ( name pr129 size 512 crc 7b18af26 )
+	rom ( name pr130 size 512 crc 9ef1913b )
+	rom ( name pr131 size 512 crc ff31eb01 )
+	rom ( name pr132 size 512 crc 6b8ad9bc )
+	rom ( name pr133 size 512 crc d50641d9 )
+	rom ( name pr134 size 512 crc 8ebd50bb )
+	rom ( name pr135 size 512 crc 986eda32 )
+	rom ( name pr136 size 512 crc ecc5d1a2 )
+	rom ( name pr137 size 512 crc ddd9004e )
+	rom ( name pr138 size 512 crc 058e53cf )
+	rom ( name pr139 size 512 crc e8ba0794 )
+	rom ( name pr140 size 512 crc 48e9971b )
+	rom ( name pr141 size 512 crc 99934236 )
+	rom ( name prm38 size 32 crc 82dd0a0f )
+	rom ( name prm39 size 32 crc 6acfa0da )
+)

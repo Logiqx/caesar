@@ -1,0 +1,45 @@
+game (
+	name bosco
+	description "Bosconian"
+	rom ( name bosco.spr size 256 crc ee8ca3a8 )
+)
+
+game (
+	name destderb
+	description "Demolition Derby"
+	rom ( name dd_ssio.a7 size 4096 crc c95cf31e )
+	rom ( name dd_ssio.a8 size 4096 crc 12aaa48e )
+)
+
+game (
+	name galaga
+	description "Galaga"
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+	rom ( name 2n.bin size 256 crc a547d33b )
+)
+
+game (
+	name mooncrst
+	description "Moon Cresta"
+	rom ( name mca size 2048 crc 4e79ff6b )
+	rom ( name mcb size 2048 crc 528da705 )
+	rom ( name mcc size 2048 crc e0edccbd )
+	rom ( name mcd size 2048 crc 5a4b17ea )
+)
+
+game (
+	name scobra
+	description "Super Cobra"
+	rom ( name scobra5c.bin size 2048 crc d4346959 )
+	rom ( name scobra5d.bin size 2048 crc cc025d95 )
+	rom ( name scobra5e.bin size 2048 crc 1628c53f )
+)
+
+game (
+	name temptube
+	description "Tempest Tubes"
+	rom ( name 136002.116 size 2048 crc 7356896c )
+	rom ( name 136002.117 size 2048 crc 55952119 )
+	rom ( name 136002.122 size 2048 crc 796a9918 )
+)

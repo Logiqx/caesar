@@ -1,0 +1,223 @@
+game (
+	name androdun
+	description "Andro Dunos"
+	rom ( name 049-m1.bin size 131072 crc 1a009f8c )
+)
+
+game (
+	name crsword
+	description "Crossed Swords"
+	rom ( name 037-m1.bin size 131072 crc 9c384263 )
+)
+
+game (
+	name cyberlip
+	description "Cyber-Lip"
+	rom ( name 010-m1.bin size 65536 crc 47980d3a )
+)
+
+game (
+	name dynwarj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name gururin
+	description "Gururin"
+	rom ( name 067-m1.bin size 131072 crc e777a234 )
+)
+
+game (
+	name hsf2j
+	description "Hyper Street Fighter II (Japan 031222)"
+	rom ( name hs2j.07 size 524288 crc 09fe85b4 )
+)
+
+game (
+	name irrmaze
+	description "The Irritating Maze"
+	rom ( name 236-p1.bin size 2097152 crc 6d536c6e )
+)
+
+game (
+	name kf2k3pcb
+	description "The King of Fighters 2003 (dedicated PCB)"
+	rom ( name sp-s2.sp1 size 131072 crc 9036d879 )
+)
+
+game (
+	name knightsj
+	description "Knights of the Round (Japan 911127)"
+	rom ( name krj30.bin size 131072 crc ad3d1a8e )
+	rom ( name krj37.bin size 131072 crc e694a491 )
+	rom ( name krj31.bin size 131072 crc 85596094 )
+	rom ( name krj38.bin size 131072 crc 9198bf8f )
+)
+
+game (
+	name kof2k3nd
+	description "The King of Fighters 2003 (decrypted C)"
+	rom ( name 271-m1c.bin size 524288 crc f5515629 )
+)
+
+game (
+	name legendos
+	description "Legend of Success Joe"
+	rom ( name 029-m1.bin size 131072 crc 8ed64977 )
+)
+
+game (
+	name maglord
+	description "Magician Lord"
+	rom ( name 005-p1.bin size 524288 crc bd0a492d )
+)
+
+game (
+	name maglordh
+	description "Magician Lord (alternate set)"
+	rom ( name 005-p1h.bin size 524288 crc 599043c5 )
+)
+
+game (
+	name mahretsu
+	description "Mahjong Kyoretsuden"
+	rom ( name 004-s1.bin size 131072 crc 4e310702 )
+)
+
+game (
+	name minasan
+	description "Minasan no Okagesama desu!"
+	rom ( name 027-m1.bin size 131072 crc add5a226 )
+)
+
+game (
+	name ms5pcb
+	description "Metal Slug 5 (dedicated PCB)"
+	rom ( name sp-s2.sp1 size 131072 crc 9036d879 )
+	rom ( name 268-p1.bin size 4194304 crc d0466792 )
+	rom ( name 268-p2.bin size 4194304 crc fbf6b61e )
+)
+
+game (
+	name mslug5nd
+	description "Metal Slug 5 (decrypted C)"
+	rom ( name 268-m1.bin size 524288 crc 4a5a6e0e )
+)
+
+game (
+	name neocup98
+	description "Neo-Geo Cup '98: The Road to the Victory (Misses rasters)"
+	rom ( name 244-c1.bin size 8388608 crc d2c40ec7 )
+)
+
+game (
+	name roboarma
+	description "Robo Army (alternate set)"
+	rom ( name 000-lo.lo size 65536 crc 5a86cff2 )
+	rom ( name sfix.sfix size 131072 crc c2ea0cfd )
+)
+
+game (
+	name samsh5nd
+	description "Samurai Shodown V (decrypted C)"
+	rom ( name 270-m1.bin size 524288 crc 49c9901a )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball"
+	rom ( name 208-v1.bin size 2097152 crc 8b53e945 )
+	rom ( name 208-v2.bin size 2097152 crc af37ebf8 )
+)
+
+game (
+	name sengoku3
+	description "Sengoku 3"
+	rom ( name 261-m1.bin size 131072 crc 36ed9cdd )
+)
+
+game (
+	name sf2ceub
+	description "Street Fighter II' - Champion Edition (US 920513)"
+	rom ( name s92-21b size 524288 crc b383cb1c )
+)
+
+game (
+	name sf2hf
+	description "Street Fighter II' - Hyper Fighting (World 921209)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name sf2t
+	description "Street Fighter II' - Hyper Fighting (US 921209)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name ss5shnd
+	description "Samurai Shodown V Special (decrypted C)"
+	rom ( name 272-m1.bin size 524288 crc adeebf40 )
+)
+
+game (
+	name strhoop
+	description "Street Hoop"
+	rom ( name 079-v2.bin size 524288 crc b19884f8 )
+)
+
+game (
+	name striderj
+	description "Strider Hiryu (Japan set 1)"
+	rom ( name strider.09 size 65536 crc 2ed403bc )
+)
+
+game (
+	name svcnd
+	description "SNK Vs. CAPCOM (decrypted C)"
+	rom ( name 269-m1.bin size 524288 crc f6819d00 )
+)
+
+game (
+	name svcpcb
+	description "SNK Vs. CAPCOM (dedicated PCB)"
+	rom ( name sp-s2.sp1 size 131072 crc 9036d879 )
+)
+
+game (
+	name svcpcba
+	description "SNK Vs. CAPCOM (dedicated PCB set 2)"
+	rom ( name sp-s2.sp1 size 131072 crc 9036d879 )
+)
+
+game (
+	name tophunta
+	description "Top Hunter: Roddy & Cathy (set 2)"
+	rom ( name 046-s1.bin size 131072 crc 14b01d7b )
+)
+
+game (
+	name wh2j
+	description "World Heroes 2 Jet"
+	rom ( name 064-c13.bin size 4194304 crc 771a6365 )
+	rom ( name 064-c24.bin size 4194304 crc e7863a05 )
+	rom ( name 064-c57.bin size 4194304 crc 64594ed4 )
+	rom ( name 064-c68.bin size 4194304 crc 6e385398 )
+)
+
+game (
+	name willowj
+	description "Willow (Japan, Japanese)"
+	rom ( name wl_gfx5.rom size 524288 crc afa74b73 )
+	rom ( name wl_gfx7.rom size 524288 crc 12a0dc0b )
+	rom ( name wl_gfx1.rom size 524288 crc c6f2abce )
+	rom ( name wl_gfx3.rom size 524288 crc 4aa4c6d3 )
+	rom ( name wl_32.rom size 524288 crc dfd9f643 )
+)

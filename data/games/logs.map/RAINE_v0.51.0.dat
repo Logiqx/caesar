@@ -1,0 +1,261 @@
+game (
+	name arkatour
+	description "Arkanoid Tournamant"
+	rom ( name 07.bpr size 512 crc 0af8b289 )
+	rom ( name 08.bpr size 512 crc abb002fb )
+	rom ( name 09.bpr size 512 crc a7c6c277 )
+)
+
+game (
+	name boblbobl
+	description "Bobble Bobble"
+	rom ( name 68705.bin size 2048 crc 78caa635 )
+)
+
+game (
+	name bubbobr1
+	description "Bubble Bobble (US)"
+	rom ( name 68705.bin size 2048 crc 78caa635 )
+)
+
+game (
+	name bublbobl
+	description "Bubble Bobble"
+	rom ( name 68705.bin size 2048 crc 78caa635 )
+)
+
+game (
+	name bublbobr
+	description "Bubble Bobble (US mode select)"
+	rom ( name 68705.bin size 2048 crc 78caa635 )
+)
+
+game (
+	name cabalbl
+	description "Cabal (bootleg)"
+	rom ( name tad-1.5e size 524288 crc 8324a7fe )
+	rom ( name tad-2.7s size 524288 crc 13ca7ae1 )
+	rom ( name 5-6s size 16384 crc 6a76955a )
+)
+
+game (
+	name camltrua
+	description "Camel Try (Alternate)"
+	rom ( name c38-03.bin size 131072 crc 59fa59a7 )
+)
+
+game (
+	name ctribe
+	description "Combatribes"
+	rom ( name ct_mr8.rom size 262144 crc 9963a6be )
+)
+
+game (
+	name ddragon3
+	description "Double Dragon 3"
+	rom ( name 30a14 size 262144 crc f42fe016 )
+	rom ( name 30a15 size 131072 crc ad50e92c )
+)
+
+game (
+	name dynwarj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name fixeighb
+	description "Fix Eight Bootleg"
+	rom ( name tp-026-2 size 262144 crc 85063f1f )
+)
+
+game (
+	name galpanic
+	description "Gals Panic"
+	rom ( name pm112.6 size 131072 crc 7b972b58 )
+	rom ( name pm111.5 size 131072 crc 4eb7298d )
+)
+
+game (
+	name grindstm
+	description "Grind Stormer"
+	rom ( name tp022_2.w30 size 262144 crc 043271b3 )
+)
+
+game (
+	name hedpanic
+	description "Head Panic (Korea?)"
+	rom ( name esd2 size 262144 crc 8cccc691 )
+	rom ( name esd1 size 262144 crc d8574925 )
+	rom ( name esd3 size 524288 crc c668d443 )
+	rom ( name esd4 size 524288 crc 5692fe92 )
+)
+
+game (
+	name hsf2j
+	description "Hyper Street Fighter 2: The Anniversary Edition (Japan 031222)"
+	rom ( name hs2j.07 size 524288 crc 09fe85b4 )
+)
+
+game (
+	name kikikai
+	description "Kiki Kai Kai"
+	rom ( name knightb.uc size 2048 crc 3cc2bbe4 )
+)
+
+game (
+	name knightsj
+	description "Knights of the Round (Japan 911127)"
+	rom ( name krj30.bin size 131072 crc ad3d1a8e )
+	rom ( name krj37.bin size 131072 crc e694a491 )
+	rom ( name krj31.bin size 131072 crc 85596094 )
+	rom ( name krj38.bin size 131072 crc 9198bf8f )
+)
+
+game (
+	name mchampdx
+	description "Multi Champ Deluxe"
+	rom ( name esd3.su06 size 524288 crc 2c0c8813 )
+	rom ( name esd4.su10 size 524288 crc 14c4a30d )
+)
+
+game (
+	name opwolf
+	description "Operation Wolf"
+	rom ( name opwlfb.09 size 32768 crc ab27a3dd )
+)
+
+game (
+	name progerjd
+	description "Progear no Arashi (Japan 010117 Phoenix Edition) (bootleg)"
+	rom ( name pgajd.03 size 524288 crc 4fef676c )
+	rom ( name pgajd.04 size 524288 crc a069bd3b )
+)
+
+game (
+	name rainbow
+	description "Rainbow Islands"
+	rom ( name jb1_f89 size 65536 crc 0810d327 )
+)
+
+game (
+	name rainbowa
+	description "Rainbow Islands (alternate)"
+	rom ( name jb1_f89 size 65536 crc 0810d327 )
+)
+
+game (
+	name rainbowe
+	description "Rainbow Islands (extra)"
+	rom ( name jb1_f89 size 65536 crc 0810d327 )
+)
+
+game (
+	name rdaction
+	description "Rad Action"
+	rom ( name nk2_06.bin size 65536 crc 7bfe6c9e )
+)
+
+game (
+	name ryukendn
+	description "Ninja Ryukenden"
+	rom ( name ryukendn.9a size 65536 crc c821e200 )
+	rom ( name ryukendn.9b size 65536 crc 6a6233b3 )
+)
+
+game (
+	name salmndr2
+	description "Salamander 2"
+	rom ( name 300-a01.34k size 32768 crc aeeb5148 )
+)
+
+game (
+	name sboblbob
+	description "Super Bobble Bobble"
+	rom ( name 68705.bin size 2048 crc 78caa635 )
+)
+
+game (
+	name sf2ceub
+	description "Street Fighter II' - Champion Edition (US 920513)"
+	rom ( name s92-21b size 524288 crc b383cb1c )
+)
+
+game (
+	name sf2hf
+	description "Street Fighter II' - Hyper Fighting (World 921209)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name sf2t
+	description "Street Fighter II' - Hyper Fighting (US 921209)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name striderj
+	description "Strider Hiryu (Japan set 1)"
+	rom ( name strider.09 size 65536 crc 2ed403bc )
+)
+
+game (
+	name tdragonb
+	description "Thunder Dragon (bootleg)"
+	rom ( name thund.2 size 524288 crc ecfea43e )
+)
+
+game (
+	name tnzs2
+	description "The New Zealand Story (extra)"
+	rom ( name b53-10.32 size 131072 crc a73745c6 )
+	rom ( name b53-11.38 size 65536 crc 9784d443 )
+)
+
+game (
+	name tnzsb
+	description "The New Zealand Story (bootleg)"
+	rom ( name b53-10.32 size 131072 crc a73745c6 )
+	rom ( name b53-11.38 size 65536 crc 9784d443 )
+)
+
+game (
+	name truxton2
+	description "Tatsujin 2"
+	rom ( name tp024_1.bin size 524288 crc f5cfe6ee )
+)
+
+game (
+	name vfive
+	description "V Five"
+	rom ( name tp022_2.w30 size 262144 crc 043271b3 )
+)
+
+game (
+	name whoopee
+	description "Whoopee"
+	rom ( name hd647180.025 size 32768 crc 101c0358 )
+)
+
+game (
+	name willowj
+	description "Willow (Japan, Japanese)"
+	rom ( name wl_32.rom size 524288 crc dfd9f643 )
+	rom ( name wl_gfx5.rom size 524288 crc afa74b73 )
+	rom ( name wl_gfx7.rom size 524288 crc 12a0dc0b )
+	rom ( name wl_gfx1.rom size 524288 crc c6f2abce )
+	rom ( name wl_gfx3.rom size 524288 crc 4aa4c6d3 )
+)
+
+game (
+	name wintbob
+	description "Winter Bobble"
+	rom ( name wb03.bin size 65536 crc df56e168 )
+	rom ( name wb01.bin size 65536 crc 05722f17 )
+)

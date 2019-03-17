@@ -1,0 +1,5 @@
+game (
+	name vs2_2k
+	description "Virtua Striker 2 Ver. 2000 (JPN, USA, EXP, KOR, AUS) - set 1"
+	rom ( name epr21929c.22 size 4194304 crc b5e609f4 )
+)

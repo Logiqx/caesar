@@ -1,0 +1,27 @@
+game (
+	name galaga
+	description "Galaga (Namco)"
+	rom ( name 2n.bin size 256 crc a547d33b )
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 5c.bin size 256 crc 8bd565f6 )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+)
+
+game (
+	name galaga84
+	description "Galaga '84"
+	rom ( name gal84_u2 size 4096 crc 4d832a30 )
+	rom ( name 2n.bin size 256 crc a547d33b )
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 5c.bin size 256 crc 8bd565f6 )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+)
+
+game (
+	name galagads
+	description "Galaga (fast shoot)"
+	rom ( name 2n.bin size 256 crc a547d33b )
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 5c.bin size 256 crc 8bd565f6 )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+)

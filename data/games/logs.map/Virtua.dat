@@ -1,0 +1,117 @@
+game (
+	name daytona
+	description "Daytona USA"
+	rom ( name us16524.bin size 2097152 crc 7cf05b76 )
+	rom ( name us16772.bin size 2097152 crc f1e40699 )
+)
+
+game (
+	name doa
+	description "Dead Or Alive"
+	rom ( name mpr19318 size 2097152 crc 45de67f7 )
+	rom ( name mpr19319 size 2097152 crc c4e6e31b )
+	rom ( name mpr19316 size 2097152 crc 3c374a88 )
+	rom ( name mpr19317 size 2097152 crc 76e89dbe )
+	rom ( name mpr19314 size 2097152 crc 96d4a8d4 )
+	rom ( name mpr19315 size 2097152 crc 58b78a81 )
+	rom ( name mpr19320 size 2097152 crc 38833c36 )
+	rom ( name mpr19321 size 2097152 crc c3e9ed39 )
+	rom ( name mpr19322 size 2097152 crc a08091c9 )
+	rom ( name mpr19325 size 2097152 crc 47b440a6 )
+	rom ( name mpr19323 size 2097152 crc c330a9ae )
+	rom ( name mpr19326 size 2097152 crc 7ce02f70 )
+	rom ( name mpr19324 size 2097152 crc ff372ead )
+	rom ( name mpr19327 size 2097152 crc cfc44db1 )
+)
+
+game (
+	name gunblade
+	description "Gun Blade NY"
+	rom ( name 18974 size 2097152 crc b820c2e9 )
+	rom ( name 18975 size 2097152 crc ff8594a1 )
+	rom ( name 18976 size 524288 crc e39d5d53 )
+	rom ( name 18977 size 524288 crc 49581bde )
+	rom ( name 18984 size 524288 crc 71d74775 )
+	rom ( name 18985 size 524288 crc 68109072 )
+	rom ( name 18980 size 2097152 crc ab9e8f56 )
+	rom ( name 18981 size 2097152 crc 656f9155 )
+	rom ( name 18982 size 2097152 crc 12f57dec )
+	rom ( name 18983 size 2097152 crc aa78d949 )
+	rom ( name 18978 size 2097152 crc 2342f14d )
+	rom ( name 18979 size 2097152 crc 125d56d4 )
+)
+
+game (
+	name manxtt
+	description "Manx TT Superbike"
+	rom ( name 18747.bin size 2097152 crc f2ecac6f )
+	rom ( name 18748.bin size 2097152 crc 7815d634 )
+	rom ( name 18759.bin size 2097152 crc 89d7927d )
+	rom ( name 18756.bin size 2097152 crc e1678c59 )
+	rom ( name 18755.bin size 2097152 crc fd1fa53c )
+	rom ( name 18826.bin size 262144 crc ed9fe4c1 )
+	rom ( name 18827.bin size 2097152 crc 58d78ca1 )
+	rom ( name 18766.bin size 2097152 crc 10f3c932 )
+	rom ( name 18643.bin size 131072 crc b5e048ec )
+)
+
+game (
+	name vcop2
+	description "Virtua Cop 2"
+	rom ( name 18522.bin size 2097152 crc 74bcbac4 )
+	rom ( name 18510.bin size 2097152 crc 083f5186 )
+)
+
+game (
+	name vf2_1
+	description "Virtua Fighter 2 (revision 2.1)"
+	rom ( name mpr17571 size 2097152 crc d22dc8ca )
+)
+
+game (
+	name vf2a
+	description "Virtua Fighter 2"
+	rom ( name mpr17571 size 2097152 crc d22dc8ca )
+)
+
+game (
+	name vf2b
+	description "Virtua Fighter 2 (revision B)"
+	rom ( name mpr17571 size 2097152 crc d22dc8ca )
+)
+
+game (
+	name zerogunb
+	description "Zero Gunner Board B?"
+	rom ( name 20296 size 2097152 crc 66e95582 )
+	rom ( name 20297 size 2097152 crc bff696bc )
+	rom ( name 20294 size 2097152 crc 2b9d45dc )
+	rom ( name 20295 size 2097152 crc 274d1f1f )
+	rom ( name 20300 size 2097152 crc f1dd6188 )
+	rom ( name 20298 size 2097152 crc 6708a9e5 )
+	rom ( name 20299 size 2097152 crc 3fc754e5 )
+)
+
+game (
+	name zerogunr
+	description "Zero Gunner Board A?"
+	rom ( name 20296 size 2097152 crc 66e95582 )
+	rom ( name 20297 size 2097152 crc bff696bc )
+	rom ( name 20294 size 2097152 crc 2b9d45dc )
+	rom ( name 20295 size 2097152 crc 274d1f1f )
+	rom ( name 20300 size 2097152 crc f1dd6188 )
+	rom ( name 20298 size 2097152 crc 6708a9e5 )
+	rom ( name 20299 size 2097152 crc 3fc754e5 )
+)
+
+game (
+	name zerogunx
+	description "Zero Gunner Board Unknown"
+	rom ( name 20296 size 2097152 crc 66e95582 )
+	rom ( name 20297 size 2097152 crc bff696bc )
+	rom ( name 20294 size 2097152 crc 2b9d45dc )
+	rom ( name 20295 size 2097152 crc 274d1f1f )
+	rom ( name 20300 size 2097152 crc f1dd6188 )
+	rom ( name 20298 size 2097152 crc 6708a9e5 )
+	rom ( name 20299 size 2097152 crc 3fc754e5 )
+)

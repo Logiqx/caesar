@@ -1,0 +1,7 @@
+game (
+	name drgninja
+	description "Dragonninja (Japan)"
+	rom ( name drgninja.25 size 32768 crc 6791bc20 )
+	rom ( name drgninja.09 size 65536 crc 6901e628 )
+	rom ( name drgninja.08 size 65536 crc 3c87463e )
+)

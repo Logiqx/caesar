@@ -1,0 +1,6 @@
+game (
+	name galnamco
+	description "Galaxian (Namco, modified)"
+	rom ( name galnamco.1h size 2048 crc 39fb43a4 )
+	rom ( name galnamco.1k size 2048 crc 7e3f56a2 )
+)

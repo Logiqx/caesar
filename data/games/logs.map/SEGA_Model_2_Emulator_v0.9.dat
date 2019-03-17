@@ -1,0 +1,68 @@
+game (
+	name dayton93
+	description "Daytona USA Deluxe '93"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name daytona
+	description "Daytona USA (Japan, Revision A)"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name daytonam
+	description "Daytona USA (Japan, To The MAXX)"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name daytonas
+	description "Daytona USA (With Saturn Adverts)"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name desert
+	description "Desert Tank"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name manxtt
+	description "Manx TT Superbike"
+	rom ( name epr-18826.30 size 262144 crc ed9fe4c1 )
+	rom ( name mpr-18827.31 size 2097152 crc 58d78ca1 )
+)
+
+game (
+	name skytargt
+	description "Sky Target"
+	rom ( name opr-14742a.45 size 131072 crc 90c6b117 )
+	rom ( name opr-14743a.46 size 131072 crc ae7f446b )
+	rom ( name opr-14744.58 size 131072 crc 730ea9e0 )
+	rom ( name opr-14745.59 size 131072 crc 4c934d96 )
+	rom ( name opr-14746.62 size 131072 crc 2a266cbd )
+	rom ( name opr-14747.63 size 131072 crc a4ad5e19 )
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)
+
+game (
+	name vcop
+	description "Virtua Cop (Revision B)"
+	rom ( name mpr-16310.15 size 524288 crc c078a780 )
+	rom ( name mpr-16311.16 size 524288 crc 452a492b )
+	rom ( name mpr-16312.14 size 524288 crc a25fef5b )
+)

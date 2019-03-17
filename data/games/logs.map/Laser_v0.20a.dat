@@ -1,0 +1,33 @@
+game (
+	name moonbase
+	description "Moon Base"
+	rom ( name pv.01 size 2048 crc 7288a511 )
+	rom ( name pv.02 size 2048 crc 097dd8d5 )
+)
+
+game (
+	name sfeverbw
+	description "Space Fever (black and white)"
+	rom ( name ss3.ic2 size 1024 crc 95c2c1ee )
+)
+
+game (
+	name sicv
+	description "Space Invaders (CV Version)"
+	rom ( name cv01_1.bin size 1024 crc aac24f34 )
+	rom ( name cv02_2.bin size 1024 crc 2bdf83a0 )
+)
+
+game (
+	name sisv
+	description "Space Invaders (SV Version)"
+	rom ( name invaders.g size 2048 crc 6bfaca4a )
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+	rom ( name tv04.m1 size 2048 crc cd2c67f6 )
+)
+
+game (
+	name sisv2
+	description "Space Invaders (SV Version 2)"
+	rom ( name invaders.f size 2048 crc 0ccead96 )
+)

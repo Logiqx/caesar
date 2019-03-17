@@ -1,0 +1,6 @@
+game (
+	name anteater
+	description "Anteater"
+	rom ( name ra6-5f2 size 2048 crc 1e2824b1 )
+	rom ( name ra6-5h2 size 2048 crc 784319b3 )
+)

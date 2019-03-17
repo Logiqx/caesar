@@ -1,0 +1,11 @@
+game (
+	name pacland
+	description "PacLand (Midway)"
+	rom ( name pl1-mcu.bin size 4096 crc 6ef08fb3 )
+)
+
+game (
+	name paclandn
+	description "PacLand (Namco)"
+	rom ( name pl1-mcu.bin size 4096 crc 6ef08fb3 )
+)

@@ -1,0 +1,468 @@
+game (
+	name 3countb
+	description "3 Count Bout / Fire Suplex [sound only]"
+	rom ( name 043-m1.bin size 131072 crc 3377cda3 )
+)
+
+game (
+	name androdun
+	description "Andro Dunos [sound only]"
+	rom ( name 049-m1.bin size 131072 crc 1a009f8c )
+)
+
+game (
+	name aof
+	description "Art of Fighting / Ryuuko no Ken [sound only]"
+	rom ( name 044-m1.bin size 131072 crc 981345f8 )
+)
+
+game (
+	name bstars
+	description "Baseball Stars Professional [sound only]"
+	rom ( name 002-m1.bin size 131072 crc 753a2a08 )
+)
+
+game (
+	name bstars2
+	description "Baseball Stars 2 [sound only]"
+	rom ( name 041-m1.bin size 131072 crc 790b15eb )
+)
+
+game (
+	name crsword
+	description "Crossed Swords [sound only]"
+	rom ( name 037-m1.bin size 131072 crc 9c384263 )
+)
+
+game (
+	name danceyes
+	description "Dancing Eyes (DC1/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name dunkmnia
+	description "Dunk Mania (DM2/VER.C) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name emeralda
+	description "Emeraldia [sound only]"
+	rom ( name c69.bin size 16384 crc 349134d9 )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai [sound only]"
+	rom ( name 033-m1.bin size 131072 crc a8603979 )
+)
+
+game (
+	name fightfev
+	description "Fight Fever (set 1) [sound only]"
+	rom ( name 060-v2.bin size 1048576 crc 64470036 )
+)
+
+game (
+	name finalapr
+	description "Final Lap R (Japan Rev. C) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name gslgr94u
+	description "Great Sluggers '94 [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name gslugrsj
+	description "Great Sluggers (Japan) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name gururin
+	description "Gururin [sound only]"
+	rom ( name 067-m1.bin size 65536 crc 833cdf1b )
+)
+
+game (
+	name hs_l4
+	description "High Speed (L-4) (pinball) [sound only]"
+	rom ( name hs_u26.l4 size 8192 crc 38b73830 )
+	rom ( name hs_u27.l4 size 32768 crc 24c6f7f0 )
+)
+
+game (
+	name id4
+	description "ID4: Independence Day (pinball) [sound only]"
+	rom ( name id4sdu17.400 size 524288 crc 89ffeca3 )
+)
+
+game (
+	name jockeygp
+	description "Jockey Grand Prix [sound only]"
+	rom ( name jgp-m1_decrypted.bin size 524288 crc 1cab4de2 )
+)
+
+game (
+	name joyjoy
+	description "Puzzled / Joy Joy Kid [sound only]"
+	rom ( name 021-m1.bin size 131072 crc ba5e0946 )
+)
+
+game (
+	name knckhead
+	description "Knuckle Heads [sound only]"
+	rom ( name c69.bin size 16384 crc 349134d9 )
+)
+
+game (
+	name kof2000
+	description "The King of Fighters 2000 [sound only]"
+	rom ( name 257-m1_decrypted.bin size 262144 crc d404db70 )
+)
+
+game (
+	name kof2001
+	description "The King of Fighters 2001 (set 1) [sound only]"
+	rom ( name 265-262_decrypted-m1.bin size 131072 crc 2fb0a8a5 )
+)
+
+game (
+	name kof2002
+	description "The King of Fighters 2002 [sound only]"
+	rom ( name 265-m1_decrypted.bin size 131072 crc 1c661a4b )
+)
+
+game (
+	name kof2003
+	description "The King of Fighters 2003 (World / US, MVS) [sound only]"
+	rom ( name 271-m1_decrypted.bin size 524288 crc 0e86af8f )
+)
+
+game (
+	name kotm
+	description "King of the Monsters (set 1) [sound only]"
+	rom ( name 016-m1.bin size 131072 crc 0296abcb )
+)
+
+game (
+	name lbowling
+	description "League Bowling [sound only]"
+	rom ( name 019-m1.bin size 131072 crc 589d7f25 )
+)
+
+game (
+	name legendos
+	description "Legend of Success Joe / Ashitano Joe Densetsu [sound only]"
+	rom ( name 029-m1.bin size 131072 crc 8ed64977 )
+)
+
+game (
+	name machbrkr
+	description "Mach Breakers - Numan Athletics 2 (Japan) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name maglord
+	description "Magician Lord (set 1) [sound only]"
+	rom ( name 005-m1.bin size 131072 crc b5253c6a )
+)
+
+game (
+	name matrim
+	description "Matrimelee / Shin Gouketsuji Ichizoku Toukon [sound only]"
+	rom ( name 266-m1_decrypted.bin size 131072 crc d2f3742d )
+)
+
+game (
+	name mk3
+	description "Mortal Kombat 3 (rev 2.1) [sound only]"
+	rom ( name umk3-u2.bin size 1048576 crc 3838cfe5 )
+)
+
+game (
+	name mslug4
+	description "Metal Slug 4 [sound only]"
+	rom ( name 263-m1_decrypted.bin size 131072 crc ef5db532 )
+)
+
+game (
+	name mslug5
+	description "Metal Slug 5 [sound only]"
+	rom ( name 268-m1_decrypted.bin size 65536 crc 3c0655a7 )
+)
+
+game (
+	name mutnat
+	description "Mutation Nation [sound only]"
+	rom ( name 014-m1.bin size 131072 crc 2a97e84d )
+)
+
+game (
+	name myangel3
+	description "Kosodate Quiz My Angel 3 (KQT1/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name nam1975
+	description "NAM-1975 [sound only]"
+	rom ( name 001-m1.bin size 131072 crc 9e63843f )
+)
+
+game (
+	name nebulray
+	description "Nebulas Ray (World) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name nrallyx
+	description "New Rally X [sound only]"
+	rom ( name nrallyx.spr size 256 crc b75c4e87 )
+)
+
+game (
+	name numanath
+	description "Numan Athletics [sound only]"
+	rom ( name c69.bin size 16384 crc 349134d9 )
+)
+
+game (
+	name outfxies
+	description "Outfoxies [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name pnyaa
+	description "Pochi and Nyaa [sound only]"
+	rom ( name 267-m1_decrypted.bin size 524288 crc d58eaa8e )
+)
+
+game (
+	name pocketrc
+	description "Pocket Racer (PKR1/VER.B) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name primglex
+	description "Prime Goal EX (PG1/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name ptblank
+	description "Point Blank [sound only]"
+	rom ( name gn1-spr0.bin size 131072 crc 6836ba38 )
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name ptblnk2a
+	description "Point Blank 2 (GNB3/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name quiztou
+	description "Nettou! Gekitou! Quiztou!! (Japan) [sound only]"
+	rom ( name c69.bin size 16384 crc 349134d9 )
+)
+
+game (
+	name raiden2
+	description "Raiden 2 (set 1, US Fabtek) [sound only]"
+	rom ( name voi1 size 524288 crc f340457b )
+	rom ( name voi2 size 524288 crc d321ff54 )
+)
+
+game (
+	name rbff2
+	description "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 1) [sound only]"
+	rom ( name 240-v3.bin size 4194304 crc df77b7fa )
+	rom ( name 240-v4.bin size 4194304 crc 33a356ee )
+)
+
+game (
+	name rdft
+	description "Raiden Fighters (Japan set 1) [sound only]"
+	rom ( name rdft.nv size 2097664 crc 00000000 )
+)
+
+game (
+	name rfjet
+	description "Raiden Fighters Jet [sound only]"
+	rom ( name rfjet.nv size 2097664 crc 00000000 )
+)
+
+game (
+	name ridhero
+	description "Riding Hero (set 1) [sound only]"
+	rom ( name 006-m1.bin size 131072 crc f0b6425d )
+)
+
+game (
+	name roboarmy
+	description "Robo Army (set 1) [sound only]"
+	rom ( name 032-m1.bin size 131072 crc 98edc671 )
+)
+
+game (
+	name rotd
+	description "Rage of the Dragons [sound only]"
+	rom ( name 264-m1_decrypted.bin size 131072 crc c5d36af9 )
+)
+
+game (
+	name samsh5sp
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (set 1, uncensored) [sound only]"
+	rom ( name 272-m1_decrypted.bin size 524288 crc 203d744e )
+)
+
+game (
+	name samsho5
+	description "Samurai Shodown V / Samurai Spirits Zero (set 1) [sound only]"
+	rom ( name 270-m1_decrypted.bin size 262144 crc e94a5e2b )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu [sound only]"
+	rom ( name 208-v1.bin size 2097152 crc 8b53e945 )
+	rom ( name 208-v2.bin size 2097152 crc af37ebf8 )
+)
+
+game (
+	name sengoku3
+	description "Sengoku 3 [sound only]"
+	rom ( name 261-m1.bin size 131072 crc 36ed9cdd )
+)
+
+game (
+	name socbrawl
+	description "Soccer Brawl (set 1) [sound only]"
+	rom ( name 031-m1.bin size 131072 crc 3aa4e9e1 )
+)
+
+game (
+	name sonicwi2
+	description "Aero Fighters 2 / Sonic Wings 2 [sound only]"
+	rom ( name 075-v2.bin size 524288 crc 6d0a728e )
+)
+
+game (
+	name souledgb
+	description "Soul Edge (SO3/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name souledge
+	description "Soul Edge Ver. II (SO4/VER.C) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name spacejam
+	description "Space Jam (pinball) [sound only]"
+	rom ( name spcjam.u21 size 524288 crc 14cb71cb )
+	rom ( name spcjam.u36 size 524288 crc 7f61143c )
+)
+
+game (
+	name speedrcr
+	description "Speed Racer [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name starswep
+	description "Star Sweep (STP1/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name strhoop
+	description "Street Hoop / Street Slam / Dunk Dream [sound only]"
+	rom ( name 079-v2.bin size 524288 crc b19884f8 )
+)
+
+game (
+	name superspy
+	description "The Super Spy [sound only]"
+	rom ( name 011-m1.bin size 131072 crc 6f737b5a )
+)
+
+game (
+	name svcpcb
+	description "SNK vs. CAPCOM SVC CHAOS (JAMMA PCB) [sound only]"
+	rom ( name 269-m1_decrypted.bin size 524288 crc 7b7bf462 )
+)
+
+game (
+	name sws95
+	description "Super World Stadium '95 (Japan) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name tekken
+	description "Tekken (TE4/VER.C) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name tekken2
+	description "Tekken 2 Ver.B (TES3/VER.B) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+	rom ( name tes1wave.8k size 4194304 crc af5eadb1 )
+)
+
+game (
+	name tpgolf
+	description "Top Player's Golf [sound only]"
+	rom ( name 003-m1.bin size 65536 crc 7851d0d9 )
+)
+
+game (
+	name vf2
+	description "Virtua Fighter 2 (ver 2.1) [sound only]"
+	rom ( name mpr-17571.36 size 2097152 crc d22dc8ca )
+)
+
+game (
+	name vf3
+	description "Virtua Fighter 3 [sound only]"
+	rom ( name epr-19231.21 size 131072 crc f2ae2558 )
+)
+
+game (
+	name viprp1j
+	description "Viper Phase 1 (Japan, New Version) [sound only]"
+	rom ( name viprp1.nv size 2097664 crc 00000000 )
+)
+
+game (
+	name vshoot
+	description "J-League Soccer V-Shoot [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)
+
+game (
+	name vsnetscr
+	description "Versus Net Soccer (ver EAD) [sound only]"
+	rom ( name 627a23.7r size 4194304 crc 0917d7de )
+)
+
+game (
+	name xevi3dg
+	description "Xevious 3D/G (XV31/VER.A) [sound only]"
+	rom ( name pr1data.8k size 524288 crc 2e5767a4 )
+)

@@ -1,0 +1,14 @@
+game (
+	name tazmania
+	description "Tazz-Mania"
+	rom ( name tazmania.1 size 2048 crc 6ecc84a2 )
+	rom ( name tazmania.2 size 2048 crc e27b09f6 )
+	rom ( name tazmania.3 size 2048 crc 954868f3 )
+	rom ( name tazmania.4 size 2048 crc 238520e6 )
+	rom ( name tazmania.5 size 2048 crc 0527e513 )
+	rom ( name tazmania.6 size 2048 crc af2b92d8 )
+	rom ( name tazmania.7 size 2048 crc bbdc41d3 )
+	rom ( name tazmania.8 size 2048 crc eb35f49c )
+	rom ( name tazmania.a size 4096 crc 38f326f8 )
+	rom ( name tazmania.b size 4096 crc 2a22a9dc )
+)

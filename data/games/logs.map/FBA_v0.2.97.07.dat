@@ -1,0 +1,3065 @@
+game (
+	name 2020bb
+	description "2020 Super Baseball (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name 2020bba
+	description "2020 Super Baseball (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name 2020bbh
+	description "2020 Super Baseball (set 3)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name 3countb
+	description "3 Count Bout / Fire Suplex"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name 4play
+	description "4 player input test [Demo, 4 player  input test cartridge]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name alpham2
+	description "Alpha Mission II / ASO II - Last Guardian"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name androdun
+	description "Andro Dunos"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aodk
+	description "Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aof
+	description "Art of Fighting / Ryuuko no Ken"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aof2
+	description "Art of Fighting 2 / Ryuuko no Ken 2 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aof2a
+	description "Art of Fighting 2 / Ryuuko no Ken 2 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aof3
+	description "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name aof3k
+	description "Art of Fighting 3 - The Path of the Warrior (Korean release)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bakatono
+	description "Bakatonosama Mahjong Manyuki"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bangbead
+	description "Bang Bead"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bangbedp
+	description "Bang Bead (Prototype?) [Prototype]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name beast
+	description "Shadow of the Beast (Neo Geo demo) [Demo]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name bjourney
+	description "Blue's Journey / Raguy"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bktigrb2
+	description "Black Tiger (bootleg set 2)"
+	rom ( name bd.5k size 4096 crc ac7d14f1 )
+)
+
+game (
+	name blazstar
+	description "Blazing Star"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bngbeadn
+	description "Bang Bead (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name breakers
+	description "Breakers"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name breakrev
+	description "Breakers Revenge"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bstars
+	description "Baseball Stars Professional (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bstars2
+	description "Baseball Stars 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name bstarsh
+	description "Baseball Stars Professional (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name burningf
+	description "Burning Fight (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name burningfh
+	description "Burning Fight (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name cnbe
+	description "Codename - Blut Engel (2006-01-19) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name columnsn
+	description "Columns (Neo Geo) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name crsword
+	description "Crossed Swords"
+	rom ( name 037-m1.bin size 131072 crc 9c384263 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ct2k3sa
+	description "Crouching Tiger Hidden Dragon 2003 Super Plus alternate (The King of Fighters 2001 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ct2k3sp
+	description "Crouching Tiger Hidden Dragon 2003 Super Plus (The King of Fighters 2001 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name cthd2003
+	description "Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ctomaday
+	description "Captain Tomaday"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name cyberlip
+	description "Cyber-Lip"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name diggerma
+	description "Digger Man [Homebrew]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name doubledr
+	description "Double Dragon (Neo-Geo)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name dynwarj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name eightman
+	description "Eight Man"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fatfursa
+	description "Fatal Fury Special / Garou Densetsu Special (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fatfursp
+	description "Fatal Fury Special / Garou Densetsu Special (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fatfury2
+	description "Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fatfury3
+	description "Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fbfrenzy
+	description "Football Frenzy"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fightfev
+	description "Fight Fever (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name fightfeva
+	description "Fight Fever (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name flipshot
+	description "Battle Flip Shot"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name forgottn
+	description "Forgotten Worlds (World)"
+	rom ( name lw_26.10e size 131072 crc 57bcd032 )
+	rom ( name lw_25.10c size 131072 crc bac91554 )
+	rom ( name lw_28.11e size 131072 crc a805ad30 )
+	rom ( name lw_27.11c size 131072 crc 103c1bd2 )
+)
+
+game (
+	name fr2ch
+	description "Idol Mahjong - final romance 2 (CD to MVS Conversion) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name fswords
+	description "Fighters Swords (Korean release of Samurai Shodown III)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name galaxyfg
+	description "Galaxy Fight - Universal Warriors"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ganryu
+	description "Ganryu / Musashi Ganryuki"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ganryun
+	description "Ganryu / Musashi Ganryuki (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name garou
+	description "Garou - Mark of the Wolves (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name garoubl
+	description "Garou - Mark of the Wolves (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name garoun
+	description "Garou - Mark of the Wolves (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name garouo
+	description "Garou - Mark of the Wolves (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name garoup
+	description "Garou - Mark of the Wolves (prototype) [Prototype]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ghostb
+	description "The Real Ghostbusters (US 2 Players)"
+	rom ( name id8751h.mcu size 4096 crc 00000000 )
+)
+
+game (
+	name ghostb3
+	description "The Real Ghostbusters (US 3 Players)"
+	rom ( name id8751h.mcu size 4096 crc 00000000 )
+)
+
+game (
+	name ghostlop
+	description "Ghostlop (prototype) [Prototype]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name goalx3
+	description "Goal! Goal! Goal!"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name gondo
+	description "Gondomania (US)"
+	rom ( name id8751h.mcu size 4096 crc 00000000 )
+)
+
+game (
+	name gowcaizr
+	description "Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name gpilots
+	description "Ghost Pilots (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name gpilotsh
+	description "Ghost Pilots (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name gururin
+	description "Gururin"
+	rom ( name 067-m1.bin size 131072 crc e777a234 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name hsf2j
+	description "Hyper Street Fighter 2: The Anniversary Edition (031222 Japan)"
+	rom ( name hs2j.07 size 524288 crc 09fe85b4 )
+)
+
+game (
+	name hwchamp
+	description "Heavyweight Champ"
+	rom ( name obj3-o.bin size 131072 crc 52fa3a49 )
+)
+
+game (
+	name irrmaze
+	description "The Irritating Maze / Ultra Denryu Iraira Bou"
+	rom ( name 236-p1.bin size 2097152 crc 6d536c6e )
+)
+
+game (
+	name janshin
+	description "Jyanshin Densetsu - Quest of Jongmaster"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name jckygpnd
+	description "Jockey Grand Prix (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name jockeygp
+	description "Jockey Grand Prix"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name jojo
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Japan 990108) [Hack]"
+	rom ( name 10 size 8388608 crc bc612872 )
+	rom ( name 20 size 8388608 crc 0e1daddf )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name jojoa
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Japan 981202) [Hack]"
+	rom ( name 10 size 8388608 crc e40dc123 )
+	rom ( name 20 size 8388608 crc 0571e37c )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name jojoan
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Asia 981202, NO CD)"
+	rom ( name 10 size 8388608 crc e40dc123 )
+	rom ( name 20 size 8388608 crc 0571e37c )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name jojoba
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913) [Hack]"
+	rom ( name 10 size 8388608 crc 6e2490f6 )
+	rom ( name 20 size 8388608 crc 1293892b )
+	rom ( name 30 size 8388608 crc d25c5005 )
+	rom ( name 31 size 8388608 crc 51bb3dba )
+	rom ( name 40 size 8388608 crc 94dc26d4 )
+	rom ( name 41 size 8388608 crc 1c53ee62 )
+	rom ( name 50 size 8388608 crc 36e416ed )
+	rom ( name 51 size 8388608 crc eedf19ca )
+)
+
+game (
+	name jojoban
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913, NO CD)"
+	rom ( name 10 size 8388608 crc 6e2490f6 )
+	rom ( name 20 size 8388608 crc 1293892b )
+	rom ( name 30 size 8388608 crc d25c5005 )
+	rom ( name 31 size 8388608 crc 51bb3dba )
+	rom ( name 40 size 8388608 crc 94dc26d4 )
+	rom ( name 41 size 8388608 crc 1c53ee62 )
+	rom ( name 50 size 8388608 crc 36e416ed )
+	rom ( name 51 size 8388608 crc eedf19ca )
+)
+
+game (
+	name jojobane
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Euro 990913, NO CD)"
+	rom ( name 10 size 8388608 crc 6e2490f6 )
+	rom ( name 20 size 8388608 crc 1293892b )
+	rom ( name 30 size 8388608 crc d25c5005 )
+	rom ( name 31 size 8388608 crc 51bb3dba )
+	rom ( name 40 size 8388608 crc 94dc26d4 )
+	rom ( name 41 size 8388608 crc 1c53ee62 )
+	rom ( name 50 size 8388608 crc 36e416ed )
+	rom ( name 51 size 8388608 crc eedf19ca )
+)
+
+game (
+	name jojon
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Asia 990108, NO CD)"
+	rom ( name 10 size 8388608 crc bc612872 )
+	rom ( name 20 size 8388608 crc 0e1daddf )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name joyjoy
+	description "Puzzled / Joy Joy Kid"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kabukikl
+	description "Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name karnovr
+	description "Karnov's Revenge / Fighter's History Dynamite"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf10thep
+	description "The King of Fighters 10th Anniversary Extra Plus (The King of Fighters 2002 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k2mp
+	description "The King of Fighters 2002 Magic Plus (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k2mp2
+	description "The King of Fighters 2002 Magic Plus II (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k2pla
+	description "The King of Fighters 2002 Plus (bootleg set 2) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k2pls
+	description "The King of Fighters 2002 Plus (bootleg set 1) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k3bl
+	description "The King of Fighters 2003 (bootleg set 1) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k3bla
+	description "The King of Fighters 2003 (bootleg set 2) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k3pl
+	description "The King of Fighters 2004 Plus / Hero (The King of Fighters 2003 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k3upl
+	description "The King of Fighters 2004 Ultra Plus (The King of Fighters 2003 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kf2k5uni
+	description "The King of Fighters 10th Anniversary 2005 Unique (The King of Fighters 2002 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name killbldt
+	description "The Killing Blade (V109, China) [Imperfect Protection Emulation]"
+	rom ( name kb.u9 size 2097152 crc 43da77d7 )
+	rom ( name kb.ram size 16384 crc 6994c507 )
+)
+
+game (
+	name kizuna
+	description "Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name knightsj
+	description "Knights of the Round (911127 Japan)"
+	rom ( name krj30.bin size 131072 crc ad3d1a8e )
+	rom ( name krj37.bin size 131072 crc e694a491 )
+	rom ( name krj31.bin size 131072 crc 85596094 )
+	rom ( name krj38.bin size 131072 crc 9198bf8f )
+)
+
+game (
+	name kof10th
+	description "The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2000
+	description "The King of Fighters 2000"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2000n
+	description "The King of Fighters 2000 (not encrypted)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2001
+	description "The King of Fighters 2001 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2001h
+	description "The King of Fighters 2001 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2002
+	description "The King of Fighters 2002"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2002b
+	description "The King of Fighters 2002 (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2003
+	description "The King of Fighters 2003 (World / US, MVS)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2003h
+	description "The King of Fighters 2003 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2k1nd
+	description "The King of Fighters 2001 (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name kof2k2nd
+	description "The King of Fighters 2002 (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name kof2k3nd
+	description "The King of Fighters 2003 (decrypted C) [Hack]"
+	rom ( name 271-m1c.bin size 524288 crc f5515629 )
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name kof2k4se
+	description "The King of Fighters Special Edition 2004 (The King of Fighters 2002 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof2knd
+	description "The King of Fighters 2000 (non encrypted P, decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name kof94
+	description "The King of Fighters '94"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof95
+	description "The King of Fighters '95 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof95h
+	description "The King of Fighters '95 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof96
+	description "The King of Fighters '96 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof96h
+	description "The King of Fighters '96 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof97
+	description "The King of Fighters '97 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof97h
+	description "The King of Fighters '97 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof97pls
+	description "The King of Fighters '97 Plus (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof98
+	description "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof98k
+	description "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof98n
+	description "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (not encrypted)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof99
+	description "The King of Fighters '99 - Millennium Battle (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof99a
+	description "The King of Fighters '99 - Millennium Battle (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof99e
+	description "The King of Fighters '99 - Millennium Battle (earlier)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof99n
+	description "The King of Fighters '99 - Millennium Battle (not encrypted)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kof99nd
+	description "The King of Fighters '99 - Millennium Battle (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name kof99p
+	description "The King of Fighters '99 - Millennium Battle (prototype) [Prototype]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kog
+	description "King of Gladiator (The King of Fighters '97 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kotm
+	description "King of the Monsters (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kotm2
+	description "King of the Monsters 2 - The Next Thing"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kotmh
+	description "King of the Monsters (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name kovsh
+	description "Knights of Valour Superheroes"
+	rom ( name b0602.rom size 4194304 crc c3e0b454 )
+)
+
+game (
+	name lans2004
+	description "Lansquenet 2004 (Shock Troopers - 2nd Squad bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lastblad
+	description "Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lastbladh
+	description "Last Blade / Bakumatsu Roman - Gekka no Kenshi, The (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lastbld2
+	description "Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi, The"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lastsold
+	description "The Last Soldier (Korean release of The Last Blade)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lbowling
+	description "League Bowling"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name legendos
+	description "Legend of Success Joe / Ashitano Joe Densetsu"
+	rom ( name 029-m1.bin size 131072 crc 8ed64977 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name lresort
+	description "Last Resort"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ltorb1
+	description "Jonas Indiana and the Lost Temple of RA (20050717) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name magdrop2
+	description "Magical Drop II"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name magdrop3
+	description "Magical Drop III"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name maglord
+	description "Magician Lord (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name maglordh
+	description "Magician Lord (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mahretsu
+	description "Mahjong Kyoretsuden"
+	rom ( name 004-s1.bin size 131072 crc 4e310702 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name marukodq
+	description "Chibi Marukochan Deluxe Quiz"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name matrim
+	description "Matrimelee / Shin Gouketsuji Ichizoku Toukon"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name matrimbl
+	description "Matrimelee / Shin Gouketsuji Ichizoku Toukon (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name matrimnd
+	description "Matrimelee / Shin Gouketsuji Ichizoku Toukon (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name mercsj
+	description "Senjo no Ookami II (Ookami 2 900302 Japan)"
+	rom ( name iob1.12c size 279 crc 3abc0700 )
+)
+
+game (
+	name miexchng
+	description "Money Puzzle Exchanger / Money Idol Exchanger"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name minasan
+	description "Minnasanno Okagesamadesu"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mosyougi
+	description "Syougi No Tatsujin - Master of Syougi"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ms4plus
+	description "Metal Slug 4 Plus (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ms5pcb
+	description "Metal Slug 5 (JAMMA PCB)"
+	rom ( name 268-p1.bin size 4194304 crc d0466792 )
+	rom ( name 268-p2.bin size 4194304 crc fbf6b61e )
+)
+
+game (
+	name ms5pcbnd
+	description "Metal Slug 5 (JAMMA PCB, decrypted C) [Hack]"
+	rom ( name 268-m1.bin size 524288 crc 4a5a6e0e )
+)
+
+game (
+	name ms5plus
+	description "Metal Slug 5 Plus (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug
+	description "Metal Slug - Super Vehicle-001"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug2
+	description "Metal Slug 2 - Super Vehicle-001/II"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug3
+	description "Metal Slug 3"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug3b6
+	description "Metal Slug 6 (Metal Slug 3 bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug3h
+	description "Metal Slug 3 (not encrypted)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug3hd
+	description "Metal Slug 3 (not encrypted, decrpyted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name mslug4
+	description "Metal Slug 4 (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug4h
+	description "Metal Slug 4 (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug4nd
+	description "Metal Slug 4 (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name mslug5
+	description "Metal Slug 5"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug5h
+	description "Metal Slug 5 (AES Cart)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mslug5nd
+	description "Metal Slug 5 (decrypted C) [Hack]"
+	rom ( name 268-m1.bin size 524288 crc 4a5a6e0e )
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name mslugx
+	description "Metal Slug X - Super Vehicle-001"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mutnat
+	description "Mutation Nation"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name mvsc
+	description "Marvel vs Capcom - clash of super heroes (980123 Euro)"
+	rom ( name mvce.03a size 524288 crc 824e4a90 )
+	rom ( name mvce.04a size 524288 crc cac02153 )
+	rom ( name mvc.05a size 524288 crc 2d8c8e86 )
+	rom ( name mvc.06a size 524288 crc 8528e1f5 )
+)
+
+game (
+	name nam1975
+	description "NAM-1975"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ncombat
+	description "Ninja Combat (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ncombath
+	description "Ninja Combat (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ncommand
+	description "Ninja Commando"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name neo2500
+	description "Neo 2500 Demo [Demo]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name neobombe
+	description "Neo Bomberman"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name neocup98
+	description "Neo-Geo Cup '98 - The Road to the Victory"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name neodemo
+	description "Chaos Demo (Neo Geo) [Demo]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name neodrift
+	description "Neo Drift Out - New Technology"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name neomrdo
+	description "Neo Mr. Do!"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name neonopon
+	description "Neo No Panepon (beta) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name neopong
+	description "Neo Pong [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name ngem2k
+	description "NGEM2K (beta 2006-01-18) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name ngfrog
+	description "Frog Feast (Neo Geo) [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name ninjamas
+	description "Ninja Master's - haoh-ninpo-cho"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name nitd
+	description "Nightmare in the Dark"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name nitdbl
+	description "Nightmare in the Dark (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name nitdn
+	description "Nightmare in the Dark (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name olds
+	description "Oriental Legend Super (V101, Korea) [Imperfect Protection Emulation]"
+	rom ( name ram_dump size 262144 crc 619cc52d )
+)
+
+game (
+	name olds100
+	description "Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super (V100) [Imperfect Protection Emulation]"
+	rom ( name ram_dump size 262144 crc 619cc52d )
+)
+
+game (
+	name olds100a
+	description "Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super (V100 alt) [Imperfect Protection Emulation]"
+	rom ( name protection_data.u6 size 65536 crc 00000000 )
+	rom ( name ram_dump size 262144 crc 619cc52d )
+)
+
+game (
+	name overtop
+	description "Over Top"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name panicbom
+	description "Panic Bomber"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pbobbl2n
+	description "Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pbobblen
+	description "Puzzle Bobble / Bust-A-Move (Neo-Geo) (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pbobblenb
+	description "Puzzle Bobble / Bust-A-Move (Neo-Geo) (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pgoal
+	description "Pleasure Goal / Futsal - 5 on 5 Mini Soccer"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pnyaa
+	description "Pochi and Nyaa"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pnyaand
+	description "Pochi and Nyaa (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name poknight
+	description "Poker Night [Homebrew]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name popbounc
+	description "Pop 'n Bounce / Gapporin"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name preisl2n
+	description "Prehistoric Isle 2 (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name preisle2
+	description "Prehistoric Isle 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name progerjd
+	description "Progear No Arashi (010117 Japan Phoenix Edition) [Bootleg]"
+	rom ( name pgajd.03 size 524288 crc 4fef676c )
+	rom ( name pgajd.04 size 524288 crc a069bd3b )
+)
+
+game (
+	name pspikes2
+	description "Power Spikes II"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name pulstar
+	description "Pulstar"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name puzzldpr
+	description "Puzzle De Pon! R!"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name puzzledp
+	description "Puzzle De Pon!"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name quizdai2
+	description "Quiz Meitantei Neo & Geo - Quiz Daisousa Sen part 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name quizdais
+	description "Quiz Daisousa Sen - The Last Count Down"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name quizkof
+	description "Quiz King of Fighters"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ragnagrd
+	description "Ragnagard / Shin-Oh-Ken"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbff1
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbff1a
+	description "Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbff2
+	description "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbff2h
+	description "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbff2k
+	description "Real Bout Fatal Fury 2 - The Newcomers (Korean release)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rbffspec
+	description "Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rchase
+	description "Rail Chase (Japan)"
+	rom ( name ic26.bin size 131072 crc 969fdb3a )
+	rom ( name ic53.bin size 131072 crc 8f4f824e )
+)
+
+game (
+	name redearth
+	description "Red Earth / War-Zard (Euro 961121) [Hack]"
+	rom ( name 10 size 8388608 crc 68188016 )
+	rom ( name 30 size 8388608 crc 074cab4d )
+	rom ( name 31 size 8388608 crc 14e2cad4 )
+	rom ( name 40 size 8388608 crc 72d98890 )
+	rom ( name 41 size 8388608 crc 88ccb33c )
+	rom ( name 50 size 4194304 crc 2f5b44bd )
+)
+
+game (
+	name redeartn
+	description "Red Earth / War-Zard (Euro 961121, NO CD)"
+	rom ( name warzard_euro.29f400.u2 size 524288 crc 02e0f336 )
+	rom ( name 10 size 8388608 crc 68188016 )
+	rom ( name 30 size 8388608 crc 074cab4d )
+	rom ( name 31 size 8388608 crc 14e2cad4 )
+	rom ( name 40 size 8388608 crc 72d98890 )
+	rom ( name 41 size 8388608 crc 88ccb33c )
+	rom ( name 50 size 4194304 crc 2f5b44bd )
+)
+
+game (
+	name renegade
+	description "Renegade (US)"
+	rom ( name mcu size 32768 crc 00000000 )
+)
+
+game (
+	name ridhero
+	description "Riding Hero (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ridheroh
+	description "Riding Hero (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name roboarmy
+	description "Robo Army"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rotd
+	description "Rage of the Dragons"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name rotdnd
+	description "Rage of the Dragons (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name s1945p
+	description "Strikers 1945 Plus"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name s1945pn
+	description "Strikers 1945 Plus (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name samsh5nd
+	description "Samurai Shodown V / Samurai Spirits Zero (decrypted C) [Hack]"
+	rom ( name 270-m1.bin size 524288 crc 49c9901a )
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name samsh5sp
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (set 1, uncensored)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsh5sph
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (set 2, censored)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsh5spn
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (set 3, less censored)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho
+	description "Samurai Shodown / Samurai Spirits (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho2
+	description "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho3
+	description "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho3h
+	description "Samurai Shodown III / Samurai Spirits - Zankurou Musouken (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho4
+	description "Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho5
+	description "Samurai Shodown V / Samurai Spirits Zero (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho5b
+	description "Samurai Shodown V / Samurai Spirits Zero (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samsho5h
+	description "Samurai Shodown V / Samurai Spirits Zero (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name samshoh
+	description "Samurai Shodown / Samurai Spirits (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name savagere
+	description "Savage Reign / Fu'un Mokushiroku - kakutou sousei"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name scinegro
+	description "Special Criminal Investigation (Negro bootleg) [Bootleg]"
+	rom ( name c09-27.31 size 131072 crc cd161dca )
+	rom ( name c09-09.43 size 524288 crc 6a655c00 )
+	rom ( name c09-08.44 size 524288 crc 7ddfc316 )
+	rom ( name c09-11.29 size 524288 crc 6b1a11e1 )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu"
+	rom ( name 208-v1.bin size 2097152 crc 8b53e945 )
+	rom ( name 208-v2.bin size 2097152 crc af37ebf8 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sengokh
+	description "Sengoku / Sengoku Denshou (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sengoku
+	description "Sengoku / Sengoku Denshou (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sengoku2
+	description "Sengoku 2 / Sengoku Denshou 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sengoku3
+	description "Sengoku 3"
+	rom ( name 261-m1.bin size 131072 crc 36ed9cdd )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sf2ceub
+	description "Street Fighter II' - champion edition (street fighter 2' 920513 USA)"
+	rom ( name s92-21b size 524288 crc b383cb1c )
+)
+
+game (
+	name sf2hf
+	description "Street Fighter II' - hyper fighting (street fighter 2' T 921209 ETC)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name sf2t
+	description "Street Fighter II' - hyper fighting (street fighter 2' T 921209 USA)"
+	rom ( name s2t_10.bin size 524288 crc 3c042686 )
+	rom ( name s2t_11.bin size 524288 crc 8b7e7183 )
+	rom ( name s2t_12.bin size 524288 crc 293c888c )
+	rom ( name s2t_13.bin size 524288 crc 842b35a4 )
+)
+
+game (
+	name sfiii
+	description "Street Fighter III: New Generation (USA 970204) [Hack]"
+	rom ( name 10 size 8388608 crc e896dc27 )
+	rom ( name 30 size 8388608 crc 98c2d07c )
+	rom ( name 31 size 8388608 crc 7115a396 )
+	rom ( name 40 size 8388608 crc 839f0972 )
+	rom ( name 41 size 8388608 crc 8a8b252c )
+	rom ( name 50 size 4194304 crc 58933dc2 )
+)
+
+game (
+	name sfiii2
+	description "Street Fighter III 2nd Impact: Giant Attack (USA 970930) [Hack]"
+	rom ( name 10 size 8388608 crc 682b014a )
+	rom ( name 20 size 8388608 crc 38090460 )
+	rom ( name 30 size 8388608 crc 77c197c0 )
+	rom ( name 31 size 8388608 crc 7470a6f2 )
+	rom ( name 40 size 8388608 crc 01a85ced )
+	rom ( name 41 size 8388608 crc fb346d74 )
+	rom ( name 50 size 8388608 crc 32f79449 )
+	rom ( name 51 size 8388608 crc 1102b8eb )
+)
+
+game (
+	name sfiii2j
+	description "Street Fighter III 2nd Impact: Giant Attack (Japan 970930) [Hack]"
+	rom ( name 10 size 8388608 crc 682b014a )
+	rom ( name 20 size 8388608 crc 38090460 )
+	rom ( name 30 size 8388608 crc 77c197c0 )
+	rom ( name 31 size 8388608 crc 7470a6f2 )
+	rom ( name 40 size 8388608 crc 01a85ced )
+	rom ( name 41 size 8388608 crc fb346d74 )
+	rom ( name 50 size 8388608 crc 32f79449 )
+	rom ( name 51 size 8388608 crc 1102b8eb )
+)
+
+game (
+	name sfiii2n
+	description "Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)"
+	rom ( name 10 size 8388608 crc 682b014a )
+	rom ( name 20 size 8388608 crc 38090460 )
+	rom ( name 30 size 8388608 crc 77c197c0 )
+	rom ( name 31 size 8388608 crc 7470a6f2 )
+	rom ( name 40 size 8388608 crc 01a85ced )
+	rom ( name 41 size 8388608 crc fb346d74 )
+	rom ( name 50 size 8388608 crc 32f79449 )
+	rom ( name 51 size 8388608 crc 1102b8eb )
+)
+
+game (
+	name sfiii3
+	description "Street Fighter III 3rd Strike: Fight for the Future (USA 990608) [Hack]"
+	rom ( name 10 size 8388608 crc ba7f76b2 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name sfiii3a
+	description "Street Fighter III 3rd Strike: Fight for the Future (USA 990512) [Hack]"
+	rom ( name 10 size 8388608 crc 77233d39 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name sfiii3an
+	description "Street Fighter III 3rd Strike: Fight for the Future (Japan 990512, NO CD)"
+	rom ( name 10 size 8388608 crc 77233d39 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name sfiii3n
+	description "Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)"
+	rom ( name 10 size 8388608 crc ba7f76b2 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name sfiiij
+	description "Street Fighter III: New Generation (Japan 970204) [Hack]"
+	rom ( name 10 size 8388608 crc e896dc27 )
+	rom ( name 30 size 8388608 crc 98c2d07c )
+	rom ( name 31 size 8388608 crc 7115a396 )
+	rom ( name 40 size 8388608 crc 839f0972 )
+	rom ( name 41 size 8388608 crc 8a8b252c )
+	rom ( name 50 size 4194304 crc 58933dc2 )
+)
+
+game (
+	name sfiiin
+	description "Street Fighter III: New Generation (Asia 970204, NO CD)"
+	rom ( name 10 size 8388608 crc e896dc27 )
+	rom ( name 30 size 8388608 crc 98c2d07c )
+	rom ( name 31 size 8388608 crc 7115a396 )
+	rom ( name 40 size 8388608 crc 839f0972 )
+	rom ( name 41 size 8388608 crc 8a8b252c )
+	rom ( name 50 size 4194304 crc 58933dc2 )
+)
+
+game (
+	name shocktr2
+	description "Shock Troopers - 2nd Squad"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name shocktra
+	description "Shock Troopers (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name shocktro
+	description "Shock Troopers (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name slapfigh
+	description "Slap Fight (set 1) [Protection MCU not emulated]"
+	rom ( name 68705.bin size 2048 crc 00000000 )
+)
+
+game (
+	name sngoku3n
+	description "Sengoku 3 (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name socbrawl
+	description "Soccer Brawl (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name socbrawla
+	description "Soccer Brawl (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sonicwi2
+	description "Aero Fighters 2 / Sonic Wings 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name sonicwi3
+	description "Aero Fighters 3 / Sonic Wings 3"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name spinmast
+	description "Spin Master / Miracle Adventure"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ss5shnd
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (decrypted C) [Hack]"
+	rom ( name 272-m1.bin size 524288 crc adeebf40 )
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name ssideki
+	description "Super Sidekicks / Tokuten Ou"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ssideki2
+	description "Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ssideki3
+	description "Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name ssideki4
+	description "Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero, The"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name stakwin
+	description "Stakes Winner / Stakes Winner - GI kinzen seihae no michi"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name stakwin2
+	description "Stakes Winner 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name strhoop
+	description "Street Hoop / Street Slam / Dunk Dream"
+	rom ( name 079-v2.bin size 524288 crc b19884f8 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name striderua
+	description "Strider (US set 2)"
+	rom ( name st24m1.1a size 279 crc a80d357e )
+)
+
+game (
+	name superspy
+	description "The Super Spy"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name svc
+	description "SNK vs. CAPCOM SVC CHAOS"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name svcboot
+	description "SNK vs. CAPCOM SVC CHAOS (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name svcnd
+	description "SNK vs. CAPCOM SVC CHAOS (decrypted C) [Hack]"
+	rom ( name 269-m1.bin size 524288 crc f6819d00 )
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name svcplus
+	description "SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 1) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name svcplusa
+	description "SNK vs. CAPCOM SVC CHAOS Plus (bootleg set 2) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name svcsplus
+	description "SNK vs. CAPCOM SVC CHAOS Super Plus (bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name syscheck
+	description "Neo System Check (ver 1.0b) [Demo]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name tengai
+	description "Tengai (world)"
+	rom ( name 5-u40.bin size 524288 crc 90088195 )
+	rom ( name 4-u41.bin size 524288 crc 0d53196c )
+)
+
+game (
+	name tophuntr
+	description "Top Hunter - Roddy & Cathy (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name tophuntrh
+	description "Top Hunter - Roddy & Cathy (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name tpgolf
+	description "Top Player's Golf"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name trally
+	description "Thrash Rally"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name tturfu
+	description "Tough Turf (set 1, US, 8751 317-0099)"
+	rom ( name 317-0099.bin size 4096 crc 00000000 )
+)
+
+game (
+	name turfmast
+	description "Neo Turf Masters / Big Tournament Golf"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name twinspri
+	description "Twinkle Star Sprites"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name tws96
+	description "Tecmo World Soccer '96"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name viewpoin
+	description "Viewpoint"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name vliner
+	description "V-Liner (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name vlinero
+	description "V-Liner (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wakuwak7
+	description "Waku Waku 7"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name warzard
+	description "War-Zard / Red Earth (Japan 961121) [Hack]"
+	rom ( name 10 size 8388608 crc 68188016 )
+	rom ( name 30 size 8388608 crc 074cab4d )
+	rom ( name 31 size 8388608 crc 14e2cad4 )
+	rom ( name 40 size 8388608 crc 72d98890 )
+	rom ( name 41 size 8388608 crc 88ccb33c )
+	rom ( name 50 size 4194304 crc 2f5b44bd )
+)
+
+game (
+	name wh1
+	description "World Heroes (set 1)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wh1h
+	description "World Heroes (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wh1ha
+	description "World Heroes (set 3)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wh2
+	description "World Heroes 2"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wh2j
+	description "World Heroes 2 Jet (set 1)"
+	rom ( name 064-c13.bin size 4194304 crc 771a6365 )
+	rom ( name 064-c24.bin size 4194304 crc e7863a05 )
+	rom ( name 064-c57.bin size 4194304 crc 64594ed4 )
+	rom ( name 064-c68.bin size 4194304 crc 6e385398 )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wh2jh
+	description "World Heroes 2 Jet (set 2)"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name whp
+	description "World Heroes Perfect"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name willowj
+	description "Willow (Japan, Japanese)"
+	rom ( name wl_32.rom size 524288 crc dfd9f643 )
+	rom ( name wl_gfx5.rom size 524288 crc afa74b73 )
+	rom ( name wl_gfx7.rom size 524288 crc 12a0dc0b )
+	rom ( name wl_gfx1.rom size 524288 crc c6f2abce )
+	rom ( name wl_gfx3.rom size 524288 crc 4aa4c6d3 )
+)
+
+game (
+	name wjammers
+	description "Windjammers / Flying Power Disc"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name wrestwar
+	description "Wrestle War (set 3, World, 8751 317-0103)"
+	rom ( name 317-0103.bin size 4096 crc 00000000 )
+)
+
+game (
+	name zedblade
+	description "Zed Blade / Operation Ragnarok"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name zintrckb
+	description "Zintrick / Oshidashi Zentrix (hack / bootleg) [Bootleg]"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name zintrkcd
+	description "Zintrick / Oshidashi Zentrix (Neo CD conversion) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)
+
+game (
+	name zupapa
+	description "Zupapa!"
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+)
+
+game (
+	name zupapan
+	description "Zupapa! (decrypted C) [Hack]"
+	rom ( name sp-45.sp1 size 524288 crc 03cc9f6a )
+	rom ( name neo-po.bin size 131072 crc 16d0c132 )
+	rom ( name neo-epo.bin size 131072 crc d27a71f1 )
+	rom ( name neodebug.bin size 131072 crc 698ebb7d )
+	rom ( name sp-1v1_3db8c.bin size 131072 crc 162f0ebe )
+	rom ( name uni-bios_2_3.rom size 131072 crc 27664eb5 )
+	rom ( name uni-bios_2_3o.rom size 131072 crc 601720ae )
+	rom ( name uni-bios_2_2.rom size 131072 crc 2d50996a )
+	rom ( name uni-bios_2_1.rom size 131072 crc 8dabf76b )
+	rom ( name uni-bios_2_0.rom size 131072 crc 0c12c2ad )
+	rom ( name uni-bios_1_3.rom size 131072 crc b24b44a0 )
+	rom ( name uni-bios_1_2.rom size 131072 crc 4fa698e9 )
+	rom ( name uni-bios_1_2o.rom size 131072 crc e19d3ce9 )
+	rom ( name uni-bios_1_1.rom size 131072 crc 5dda0d84 )
+	rom ( name uni-bios_1_0.rom size 131072 crc 0ce453a0 )
+)

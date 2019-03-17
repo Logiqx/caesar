@@ -1,0 +1,11 @@
+game (
+	name eswat
+	description "E-Swat - Cyber Police [sound only]"
+	rom ( name e12617 size 32768 crc 537930cb )
+)
+
+game (
+	name shinobi
+	description "Shinobi [sound only]"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)

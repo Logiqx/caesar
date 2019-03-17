@@ -1,0 +1,6 @@
+game (
+	name titlef
+	description "Title Fight"
+	rom ( name tf-15386.rom size 262144 crc 7ceaf15d )
+	rom ( name tf-15387.rom size 262144 crc aaf3cb03 )
+)

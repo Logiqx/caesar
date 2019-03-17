@@ -1,0 +1,80 @@
+game (
+	name androdun
+	description "Andro Dunos [sound only]"
+	rom ( name adun_m1.rom size 131072 crc 1a009f8c )
+)
+
+game (
+	name aof
+	description "Art of Fighting [sound only]"
+	rom ( name aof_m1.rom size 131072 crc 981345f8 )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury 1 [sound only]"
+	rom ( name ffry_m1.rom size 131072 crc a8603979 )
+)
+
+game (
+	name fight_fever
+	description "Fight Fever [sound only]"
+	rom ( name ff_v2.rom size 1048576 crc 64470036 )
+)
+
+game (
+	name gaiapols
+	description "Gaiapolis [sound only]"
+	rom ( name 123e13.9c size 524288 crc 0bc4056c )
+)
+
+game (
+	name kof95
+	description "The King of Fighters '95 [sound only]"
+	rom ( name kof95_v1.rom size 4194304 crc 21469561 )
+)
+
+game (
+	name lastblad
+	description "Last Blade [sound only]"
+	rom ( name lb_v4.rom size 2097152 crc 13583c4b )
+)
+
+game (
+	name lastrsrt
+	description "Last Resort [sound only]"
+	rom ( name n046001a.1f8 size 524288 crc 0722da38 )
+	rom ( name n046001a.1fc size 524288 crc 670ce3ec )
+	rom ( name n046001b.1f8 size 524288 crc 2e39462b )
+	rom ( name n046001b.1fc size 524288 crc 7944754f )
+)
+
+game (
+	name pacnpal
+	description "Pac and Pal [sound only]"
+	rom ( name papi3.cpu size 256 crc 83c31a98 )
+)
+
+game (
+	name puzzbobb
+	description "Puzzle Bobble [sound only]"
+	rom ( name puzzb_m1.rom size 65536 crc 129e6054 )
+)
+
+game (
+	name shinobi
+	description "Shinobi [sound only]"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)
+
+game (
+	name swings3
+	description "Sonic Wings 3 [sound only]"
+	rom ( name sonw3_v2.rom size 1048576 crc 32187ccd )
+)
+
+game (
+	name viewpoin
+	description "View Point [Byu Point] [sound only]"
+	rom ( name viewp_m1.rom size 65536 crc d57bd7af )
+)

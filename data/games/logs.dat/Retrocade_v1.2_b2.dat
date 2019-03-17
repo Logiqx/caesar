@@ -1,0 +1,13 @@
+game (
+	name bosco
+	description "Bosconian"
+	rom ( name bosco.spr size 256 crc ee8ca3a8 )
+)
+
+game (
+	name galaga
+	description "Galaga"
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+	rom ( name 2n.bin size 256 crc a547d33b )
+)

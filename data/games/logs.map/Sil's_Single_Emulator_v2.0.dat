@@ -1,0 +1,7 @@
+game (
+	name scobra
+	description "Super Cobra (Stern)"
+	rom ( name scobra5c.bin size 2048 crc d4346959 )
+	rom ( name scobra5d.bin size 2048 crc cc025d95 )
+	rom ( name scobra5e.bin size 2048 crc 1628c53f )
+)

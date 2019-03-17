@@ -1,0 +1,176 @@
+game (
+	name dkongex
+	description "Donkey Kong (Foundry)"
+	rom ( name cx_5at_g.bin size 4096 crc 9fa3e5b7 )
+)
+
+game (
+	name dynwarj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name f2demo
+	description "Demo Taito F2"
+	rom ( name lk_obj0.bin size 524288 crc 1bb8aa37 )
+	rom ( name lk_obj1.bin size 524288 crc 75660aac )
+	rom ( name lk_scr.bin size 524288 crc b178fb05 )
+	rom ( name lq09.bin size 131072 crc 809a968b )
+	rom ( name lq11.bin size 131072 crc 7ba3a5cb )
+	rom ( name lq10.bin size 131072 crc 7ee8cdcd )
+	rom ( name lq12.bin size 131072 crc 7ee8cdcd )
+)
+
+game (
+	name f3demo
+	description "F3 Demo by Antiriad"
+	rom ( name code.bin size 6476 crc 08587aea )
+)
+
+game (
+	name froggs
+	description "Frogger enhanced hiscore"
+	rom ( name frogger.ic5 size 4096 crc c4224bc4 )
+	rom ( name frogger.ic6 size 4096 crc 5370ad00 )
+	rom ( name frogger.ic8 size 4096 crc e7d0563d )
+)
+
+game (
+	name hedpanic
+	description "Head Panic (Korea?)"
+	rom ( name esd3 size 524288 crc c668d443 )
+	rom ( name esd4 size 524288 crc 5692fe92 )
+)
+
+game (
+	name hsf2j
+	description "Hyper Street Fighter 2: The Anniversary Edition (Japan 031222)"
+	rom ( name hs2j.07 size 524288 crc 09fe85b4 )
+)
+
+game (
+	name mchampdx
+	description "Multi Champ Deluxe"
+	rom ( name esd3.su06 size 524288 crc 2c0c8813 )
+	rom ( name esd4.su10 size 524288 crc 14c4a30d )
+)
+
+game (
+	name mspac6m
+	description "Ms. Pac-Man 6 maps (hack)"
+	rom ( name 4.cpu size 4096 crc e21c81ff )
+	rom ( name 52.cpu size 4096 crc 48453707 )
+	rom ( name 62.cpu size 4096 crc 2e961bc4 )
+	rom ( name 7.cpu size 2048 crc 2850148a )
+	rom ( name 9.cpu size 2048 crc 6c3c6ebb )
+	rom ( name 8.cpu size 2048 crc 5596b345 )
+)
+
+game (
+	name multi15
+	description "MultiPac 1.5"
+	rom ( name mpexe15.bin size 524288 crc eb181a29 )
+	rom ( name mpgfx15.bin size 131072 crc 012fb9ec )
+	rom ( name pal_7f.bin size 256 crc 40a5c3d9 )
+	rom ( name clut_4a.bin size 1024 crc 562a66de )
+)
+
+game (
+	name namcosil
+	description "Namco Pacman - Vertical tunnel edition!"
+	rom ( name namcosil.6f size 4096 crc c5ec2352 )
+	rom ( name namcosil.6j size 4096 crc 57a07f6e )
+)
+
+game (
+	name pacman25
+	description "25 MAP PAC"
+	rom ( name namcosil.6f size 4096 crc c5ec2352 )
+	rom ( name pacman25.6h size 4096 crc 92cd89b9 )
+	rom ( name pacman25.6j size 4096 crc f7193845 )
+	rom ( name maps1.rom size 4096 crc 19a22304 )
+	rom ( name maps2.rom size 4096 crc 7cdbd912 )
+	rom ( name maps3.rom size 4096 crc c626ea9c )
+	rom ( name maps4.rom size 4096 crc f5ba954d )
+	rom ( name pacman25.5e size 4096 crc 11d47ae1 )
+)
+
+game (
+	name pacman3d
+	description "Pacman 3D"
+	rom ( name pacman3d.6f size 4096 crc 96364259 )
+	rom ( name pacman3d.6j size 4096 crc 959e930e )
+	rom ( name pacman3d.5e size 4096 crc aa203d45 )
+	rom ( name pacman3d.5f size 4096 crc d1830540 )
+)
+
+game (
+	name recordb2
+	description "Record Breaker (Alternate)"
+	rom ( name b56-02.rom size 131072 crc c9566226 )
+	rom ( name b56-03.rom size 131072 crc dafb6836 )
+	rom ( name b56-04.rom size 131072 crc deee08fd )
+	rom ( name b56-06.rom size 131072 crc 51f70ab0 )
+	rom ( name b56-07.rom size 131072 crc 82c2856f )
+	rom ( name b56-08.rom size 131072 crc 0f5383b5 )
+)
+
+game (
+	name ryukendn
+	description "Ninja Ryukenden"
+	rom ( name ryukendn.9a size 65536 crc c821e200 )
+	rom ( name ryukendn.9b size 65536 crc 6a6233b3 )
+)
+
+game (
+	name salmndr2
+	description "Salamander 2"
+	rom ( name 300-a01.34k size 32768 crc aeeb5148 )
+)
+
+game (
+	name sfzch
+	description "Street Fighter Zero (Japan CPS Changer)"
+	rom ( name sfzch23 size 524288 crc 1140743f )
+	rom ( name sfzch21 size 524288 crc 5435225d )
+	rom ( name sfz01 size 524288 crc 0dd53e62 )
+	rom ( name sfz02 size 524288 crc 94c31e3f )
+	rom ( name sfz03 size 524288 crc 9584ac85 )
+	rom ( name sfz04 size 524288 crc b983624c )
+	rom ( name sfz05 size 524288 crc 2b47b645 )
+	rom ( name sfz06 size 524288 crc 74fd9fb1 )
+	rom ( name sfz07 size 524288 crc bb2c734d )
+	rom ( name sfz08 size 524288 crc 454f7868 )
+	rom ( name sfz10 size 524288 crc 2a7d675e )
+	rom ( name sfz11 size 524288 crc e35546c8 )
+	rom ( name sfz12 size 524288 crc f122693a )
+	rom ( name sfz13 size 524288 crc 7cf942c8 )
+	rom ( name sfz14 size 524288 crc 09038c81 )
+	rom ( name sfz15 size 524288 crc 1aa17391 )
+	rom ( name sfz16 size 524288 crc 19a5abd6 )
+	rom ( name sfz17 size 524288 crc 248b3b73 )
+	rom ( name sfz09 size 65536 crc c772628b )
+	rom ( name sfz18 size 131072 crc 61022b2d )
+	rom ( name sfz19 size 131072 crc 3b5886d5 )
+)
+
+game (
+	name truxton2
+	description "Tatsujin 2"
+	rom ( name tp024_1.bin size 524288 crc f5cfe6ee )
+)
+
+game (
+	name wintbob
+	description "Winter Bobble"
+	rom ( name wb03.bin size 65536 crc df56e168 )
+	rom ( name wb01.bin size 65536 crc 05722f17 )
+)
+
+game (
+	name xenrev
+	description "Xen's Revenge (hack - hard!)"
+	rom ( name xenrev.6j size 4096 crc 64a10b6c )
+	rom ( name xenrev.5e size 4096 crc 40e3522d )
+)

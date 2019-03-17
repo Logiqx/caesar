@@ -1,0 +1,6 @@
+game (
+	name demoderb
+	description "Demolition Derby"
+	rom ( name dd_ssio.a7 size 4096 crc c95cf31e )
+	rom ( name dd_ssio.a8 size 4096 crc 12aaa48e )
+)

@@ -1,0 +1,17 @@
+game (
+	name mach3
+	description "M.A.C.H. 3"
+	rom ( name m3target.bin size 971776 crc a2a9f8e5 )
+)
+
+game (
+	name sdqshort
+	description "Super Don Quix-ote (Shorter Scenes)"
+	rom ( name sdq-char.bin size 8192 crc 5fb0e440 )
+)
+
+game (
+	name sdqshortalt
+	description "Super Don Quix-ote (Shorter Scenes, Alternate)"
+	rom ( name sdq-char.bin size 8192 crc 5fb0e440 )
+)

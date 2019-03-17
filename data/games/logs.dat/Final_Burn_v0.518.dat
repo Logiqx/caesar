@@ -1,0 +1,253 @@
+game (
+	name 19xx
+	description "19XX: The War Against Destiny (US 951207)"
+	rom ( name 19xux.03 size 524288 crc 239a08ae )
+	rom ( name 19xux.04 size 524288 crc c13a1072 )
+	rom ( name 19xux.05 size 524288 crc 8c066ec3 )
+	rom ( name 19xux.06 size 524288 crc 4b1caeb9 )
+)
+
+game (
+	name armwar
+	description "Armored Warriors (US 941024)"
+	rom ( name pwgux.03b size 524288 crc 5d41ddde )
+	rom ( name pwgux.04b size 524288 crc 4d0619f3 )
+)
+
+game (
+	name avsp
+	description "Aliens vs. Predator (US 940520)"
+	rom ( name avpux.03d size 524288 crc d5b01046 )
+	rom ( name avpux.04d size 524288 crc 94bd7603 )
+)
+
+game (
+	name batcirj
+	description "Battle Circuit (Japan 970319)"
+	rom ( name btcjx.03 size 524288 crc 01482d08 )
+	rom ( name btcjx.04 size 524288 crc 3d4c976b )
+	rom ( name btcjx.05 size 524288 crc 5bf819e1 )
+	rom ( name btcjx.06 size 524288 crc 5d2fd190 )
+)
+
+game (
+	name csclubj
+	description "Capcom Sports Club (Japan 970722)"
+	rom ( name cscjx.03 size 524288 crc 2de1d45d )
+	rom ( name cscjx.04 size 524288 crc 81b25d76 )
+	rom ( name cscjx.05 size 524288 crc 5adb1c93 )
+	rom ( name cscjx.06 size 524288 crc f5558f79 )
+)
+
+game (
+	name cybotsj
+	description "Cyberbots: Fullmetal Madness (Japan 950420)"
+	rom ( name cybjx.03 size 524288 crc 867c9acd )
+	rom ( name cybjx.04 size 524288 crc 57ed677f )
+)
+
+game (
+	name ddsom
+	description "Dungeons & Dragons: Shadow over Mystara (Euro 960209)"
+	rom ( name dd2ex.03b size 524288 crc e4924c80 )
+	rom ( name dd2ex.04d size 524288 crc 13c8b16f )
+)
+
+game (
+	name ddtod
+	description "Dungeons & Dragons: Tower of Doom (USA 940125)"
+	rom ( name dadux.03b size 524288 crc f59ee70c )
+	rom ( name dadux.04b size 524288 crc 622628ae )
+	rom ( name dadux.05b size 524288 crc 424bd6e3 )
+)
+
+game (
+	name msh
+	description "Marvel Super Heroes (US 951024)"
+	rom ( name mshux.03 size 524288 crc 10bfc357 )
+	rom ( name mshux.04 size 524288 crc 871f0863 )
+)
+
+game (
+	name mvsc
+	description "Marvel Vs. Capcom: Clash of Super Heroes (US 980123)"
+	rom ( name mvcux.03d size 524288 crc 86685cbf )
+	rom ( name mvcux.04d size 524288 crc 438ba92b )
+)
+
+game (
+	name outrun
+	description "Out Run"
+	rom ( name 10371 size 131072 crc 0a1c98de )
+	rom ( name 10373 size 131072 crc 339f8e64 )
+	rom ( name 10375 size 131072 crc 62a472bd )
+	rom ( name 10377 size 131072 crc c86daecb )
+	rom ( name 10372 size 131072 crc 1640ad1f )
+	rom ( name 10374 size 131072 crc 22744340 )
+	rom ( name 10376 size 131072 crc 8337ace7 )
+	rom ( name 10378 size 131072 crc 544068fd )
+)
+
+game (
+	name pwrdrifj
+	description "Power Drift (Jap)"
+	rom ( name pd11754.bin size 524288 crc cad59f39 )
+)
+
+game (
+	name pwrdrift
+	description "Power Drift"
+	rom ( name pd11754.bin size 524288 crc cad59f39 )
+)
+
+game (
+	name qndream
+	description "Quiz Nanairo Dreams: Miracle of the Rainbow Colored Town (Japan 960626)"
+	rom ( name tqzjx.03 size 524288 crc 5804a8f8 )
+)
+
+game (
+	name railchaj
+	description "Rail Chase (Jap)"
+	rom ( name ic26.bin size 131072 crc 969fdb3a )
+)
+
+game (
+	name royalascot2
+	description "Royal Ascot 2"
+	rom ( name ep13965a size 131072 crc 7eacdfb3 )
+	rom ( name ep13694a size 131072 crc 15b86498 )
+	rom ( name epr13967 size 131072 crc 3b92e2b8 )
+	rom ( name epr13966 size 131072 crc eaa644e1 )
+	rom ( name epr13961 size 65536 crc 68038629 )
+	rom ( name epr13962 size 65536 crc 7d7605bc )
+	rom ( name epr13963 size 65536 crc f3376b65 )
+	rom ( name epr13957 size 131072 crc 6d50fb54 )
+	rom ( name epr13958 size 131072 crc 7803a027 )
+	rom ( name epr13959 size 131072 crc db245b22 )
+	rom ( name epr13960 size 131072 crc b974128d )
+	rom ( name ep14221a size 65536 crc 0d429ac4 )
+)
+
+game (
+	name sfa
+	description "Street Fighter Alpha: Warriors' Dreams (US 950627)"
+	rom ( name sfzux.03a size 524288 crc 1a3160ed )
+)
+
+game (
+	name sfa2
+	description "Street Fighter Alpha 2 (US 960306)"
+	rom ( name sz2ux.03 size 524288 crc 6bb6005f )
+	rom ( name sz2ux.04 size 524288 crc 74308a4b )
+)
+
+game (
+	name sfa3
+	description "Street Fighter Alpha 3 (US 980904)"
+	rom ( name sz3ux.03c size 524288 crc 7091276b )
+	rom ( name sz3ux.04c size 524288 crc 83b213b1 )
+)
+
+game (
+	name sfz2aj
+	description "Street Fighter Zero 2 Alpha (Japan 960805)"
+	rom ( name szajx.03a size 524288 crc 6d3aa71e )
+	rom ( name szajx.04a size 524288 crc 006d5cb8 )
+)
+
+game (
+	name sfzch
+	description "Street Fighter Zero (CPS Changer)"
+	rom ( name sfz01 size 524288 crc 0dd53e62 )
+	rom ( name sfz02 size 524288 crc 94c31e3f )
+	rom ( name sfz03 size 524288 crc 9584ac85 )
+	rom ( name sfz04 size 524288 crc b983624c )
+	rom ( name sfz05 size 524288 crc 2b47b645 )
+	rom ( name sfz06 size 524288 crc 74fd9fb1 )
+	rom ( name sfz07 size 524288 crc bb2c734d )
+	rom ( name sfz08 size 524288 crc 454f7868 )
+	rom ( name sfz10 size 524288 crc 2a7d675e )
+	rom ( name sfz11 size 524288 crc e35546c8 )
+	rom ( name sfz12 size 524288 crc f122693a )
+	rom ( name sfz13 size 524288 crc 7cf942c8 )
+	rom ( name sfz14 size 524288 crc 09038c81 )
+	rom ( name sfz15 size 524288 crc 1aa17391 )
+	rom ( name sfz16 size 524288 crc 19a5abd6 )
+	rom ( name sfz17 size 524288 crc 248b3b73 )
+	rom ( name sfzch21 size 524288 crc 5435225d )
+	rom ( name sfzch23 size 524288 crc 1140743f )
+	rom ( name sfz09 size 65536 crc c772628b )
+	rom ( name sfz18 size 131072 crc 61022b2d )
+	rom ( name sfz19 size 131072 crc 3b5886d5 )
+)
+
+game (
+	name slam2e
+	description "Ring of Destruction: Slammasters II (Euro 940902)"
+	rom ( name smbex.03b size 524288 crc 3b1457bd )
+	rom ( name smbex.04b size 524288 crc 6299eb4e )
+	rom ( name smbex.05b size 524288 crc be4a84d1 )
+)
+
+game (
+	name spf2xj
+	description "Super Puzzle Fighter 2 X (Japan 960531)"
+	rom ( name pzfjx.03a size 524288 crc c2e3f231 )
+)
+
+game (
+	name ssf2
+	description "Super Street Fighter 2: The New Challengers (US 930911)"
+	rom ( name ssfux.03a size 524288 crc ec278279 )
+	rom ( name ssfux.04a size 524288 crc 6194d896 )
+	rom ( name ssfux.05 size 524288 crc aa846b9f )
+	rom ( name ssfux.06 size 524288 crc 235268c4 )
+	rom ( name ssfux.07 size 524288 crc e46e033c )
+)
+
+game (
+	name ssf2t
+	description "Super Street Fighter 2 Turbo (World 940223)"
+	rom ( name sfxex.03c size 524288 crc a181b207 )
+	rom ( name sfxex.04a size 524288 crc df28bd00 )
+	rom ( name sfxex.05 size 524288 crc 29b7bda4 )
+	rom ( name sfxex.06a size 524288 crc 6c8719b3 )
+	rom ( name sfxex.07 size 524288 crc dfc3b3cd )
+	rom ( name sfxex.08 size 524288 crc d7436ae9 )
+)
+
+game (
+	name vampj
+	description "Vampire: The Night Warriors (Japan 940705)"
+	rom ( name vamjx.03a size 524288 crc 2549f7bc )
+	rom ( name vamjx.04b size 524288 crc bb5a30a5 )
+)
+
+game (
+	name vsavj
+	description "Vampire Savior: The Lord of Vampire (Japan 970519)"
+	rom ( name vm3jx.03d size 524288 crc a9ab54df )
+	rom ( name vm3jx.04d size 524288 crc 20c4aa2d )
+)
+
+game (
+	name xmcota
+	description "X-Men: Children of the Atom (US 950105)"
+	rom ( name xmnux.03e size 524288 crc 27636ac7 )
+	rom ( name xmnux.04e size 524288 crc 0aed300c )
+)
+
+game (
+	name xmcotaj
+	description "X-Men: Children of the Atom (Japan 941219)"
+	rom ( name xmnjx.03b size 524288 crc 523c9589 )
+	rom ( name xmnjx.04b size 524288 crc 673765ba )
+)
+
+game (
+	name xmvsf
+	description "X-Men Vs. Street Fighter (US 961004)"
+	rom ( name xvsux.03h size 524288 crc 1539c639 )
+	rom ( name xvsux.04h size 524288 crc 68916b3f )
+)

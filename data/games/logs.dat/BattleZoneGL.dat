@@ -1,0 +1,8 @@
+game (
+	name bzonep
+	description "Battle Zone Plus!"
+	rom ( name 036414.01.bin size 2048 crc 55e0b5d5 )
+	rom ( name 036412.01.bin size 2048 crc 3e0931d7 )
+	rom ( name 036408.01.bin size 2048 crc 7513fc40 )
+	rom ( name 036409.01.bin size 2048 crc debaea12 )
+)

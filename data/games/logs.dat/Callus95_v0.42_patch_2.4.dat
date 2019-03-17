@@ -1,0 +1,51 @@
+game (
+	name dwj
+	description "Tenchi wo Kurau (Japan)"
+	rom ( name 14.bin size 131072 crc 18fb232c )
+)
+
+game (
+	name sf2cej
+	description "Street Fighter II' - Champion Edition (Japan)"
+	rom ( name sf2cej.23 size 524288 crc 7c463f94 )
+	rom ( name sf2cej.22 size 524288 crc 6628f6a6 )
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name sf2rb
+	description "Street Fighter II' - Champion Edition (Rainbow)"
+	rom ( name sf2cej.21 size 524288 crc fcb8fe8f )
+)
+
+game (
+	name sfzch
+	description "Street Fighter ZERO/Alpha (Japan CPS Changer)"
+	rom ( name sfzch23 size 524288 crc 1140743f )
+	rom ( name sfzch21 size 524288 crc 5435225d )
+	rom ( name sfz03 size 524288 crc 9584ac85 )
+	rom ( name sfz07 size 524288 crc bb2c734d )
+	rom ( name sfz12 size 524288 crc f122693a )
+	rom ( name sfz16 size 524288 crc 19a5abd6 )
+	rom ( name sfz01 size 524288 crc 0dd53e62 )
+	rom ( name sfz05 size 524288 crc 2b47b645 )
+	rom ( name sfz10 size 524288 crc 2a7d675e )
+	rom ( name sfz14 size 524288 crc 09038c81 )
+	rom ( name sfz04 size 524288 crc b983624c )
+	rom ( name sfz08 size 524288 crc 454f7868 )
+	rom ( name sfz13 size 524288 crc 7cf942c8 )
+	rom ( name sfz17 size 524288 crc 248b3b73 )
+	rom ( name sfz02 size 524288 crc 94c31e3f )
+	rom ( name sfz06 size 524288 crc 74fd9fb1 )
+	rom ( name sfz11 size 524288 crc e35546c8 )
+	rom ( name sfz15 size 524288 crc 1aa17391 )
+	rom ( name sfz09 size 65536 crc c772628b )
+	rom ( name sfz18 size 131072 crc 61022b2d )
+	rom ( name sfz19 size 131072 crc 3b5886d5 )
+)
+
+game (
+	name wonder3
+	description "Wonder 3 (Japan)"
+	rom ( name rt23.bin size 65536 crc 7d5a77a7 )
+)

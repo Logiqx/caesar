@@ -1,0 +1,5 @@
+game (
+	name nam_1975
+	description "NAM-1975"
+	rom ( name nam_s1.rom size 65536 crc 8ded55a5 )
+)

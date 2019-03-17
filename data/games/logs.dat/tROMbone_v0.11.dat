@@ -1,0 +1,13 @@
+game (
+	name sfzch
+	description "Street Fighter ZERO/Alpha (Japan CPS Changer) [sound only]"
+	rom ( name sfz18 size 131072 crc 61022b2d )
+	rom ( name sfz19 size 131072 crc 3b5886d5 )
+)
+
+game (
+	name shogwarr
+	description "Shogun Warriors [sound only]"
+	rom ( name fb002.u44 size 524288 crc 05d7c2a9 )
+	rom ( name fb003.u45 size 524288 crc 405722e9 )
+)

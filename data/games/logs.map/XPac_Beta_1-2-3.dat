@@ -1,0 +1,5 @@
+game (
+	name crush
+	description "Crush Roller (Kural Samno)"
+	rom ( name 82s126.4a size 256 crc 3eb3a8e4 )
+)

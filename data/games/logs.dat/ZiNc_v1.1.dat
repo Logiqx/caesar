@@ -1,0 +1,23 @@
+game (
+	name bldyror2
+	description "Bloody Roar 2 (JAPAN)"
+	rom ( name flash1.024 size 2097152 crc 4866dce3 )
+)
+
+game (
+	name tekken2
+	description "Tekken 2 Ver.B (TES3/VER.B)"
+	rom ( name tes1wave.8k size 4194304 crc af5eadb1 )
+)
+
+game (
+	name tekken2a
+	description "Tekken 2 Ver.B (TES2/VER.B)"
+	rom ( name tes1wave.8k size 4194304 crc af5eadb1 )
+)
+
+game (
+	name tekken2b
+	description "Tekken 2 (TES2/VER.A)"
+	rom ( name tes1wave.8k size 4194304 crc af5eadb1 )
+)

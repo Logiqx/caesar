@@ -1,0 +1,8 @@
+game (
+	name pengopop
+	description "Pengo (set 1) - Popcorn Music"
+	rom ( name pengopop.u8 size 4096 crc b4188213 )
+	rom ( name pengopop.u15 size 4096 crc 3d647033 )
+	rom ( name pengopop.u20 size 4096 crc 963efa33 )
+	rom ( name pengopop.u31 size 4096 crc f622abe9 )
+)

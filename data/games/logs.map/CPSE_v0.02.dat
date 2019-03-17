@@ -1,0 +1,538 @@
+game (
+	name 19xx
+	description "19XX: The War Against Destiny (US 951207) [sound only]"
+	rom ( name 19xux.03 size 524288 crc 239a08ae )
+	rom ( name 19xux.04 size 524288 crc c13a1072 )
+	rom ( name 19xux.05 size 524288 crc 8c066ec3 )
+	rom ( name 19xux.06 size 524288 crc 4b1caeb9 )
+)
+
+game (
+	name 19xxh
+	description "19XX: The War Against Destiny (Hispanic 951218) [sound only]"
+	rom ( name 19xhx.03a size 524288 crc 374ce871 )
+	rom ( name 19xhx.04a size 524288 crc ebd16e33 )
+	rom ( name 19xhx.05a size 524288 crc 0bb5ad27 )
+	rom ( name 19xhx.06a size 524288 crc 3663c8d2 )
+)
+
+game (
+	name armwar
+	description "Armored Warriors (Euro 941011) [sound only]"
+	rom ( name pwgex.03b size 524288 crc 741fc2b0 )
+	rom ( name pwgex.04b size 524288 crc 5bb96a5d )
+)
+
+game (
+	name armwaru
+	description "Armored Warriors (US 941024) [sound only]"
+	rom ( name pwgux.03b size 524288 crc 5d41ddde )
+	rom ( name pwgux.04b size 524288 crc 4d0619f3 )
+)
+
+game (
+	name avsp
+	description "Alien vs. Predator (Euro 940520) [sound only]"
+	rom ( name avpex.03d size 524288 crc 73dd740e )
+	rom ( name avpex.04d size 524288 crc 185f8c43 )
+)
+
+game (
+	name avspj
+	description "Alien vs. Predator (Japan 940520) [sound only]"
+	rom ( name avpjx.03d size 524288 crc 94095fb0 )
+	rom ( name avpjx.04d size 524288 crc a56b00ae )
+)
+
+game (
+	name avspu
+	description "Alien vs. Predator (US 940520) [sound only]"
+	rom ( name avpux.03d size 524288 crc d5b01046 )
+	rom ( name avpux.04d size 524288 crc 94bd7603 )
+)
+
+game (
+	name batcirj
+	description "Battle Circuit (Japan 970319) [sound only]"
+	rom ( name btcjx.03 size 524288 crc 01482d08 )
+	rom ( name btcjx.04 size 524288 crc 3d4c976b )
+	rom ( name btcjx.05 size 524288 crc 5bf819e1 )
+	rom ( name btcjx.06 size 524288 crc 5d2fd190 )
+)
+
+game (
+	name cscluba
+	description "Capcom Sports Club (Asia 970722) [sound only]"
+	rom ( name cscax.03 size 524288 crc 9f95b1e1 )
+	rom ( name cscax.04 size 524288 crc 08e85ab2 )
+	rom ( name cscax.05 size 524288 crc 1b2fae1d )
+	rom ( name cscax.06 size 524288 crc 9e548ba8 )
+)
+
+game (
+	name csclubj
+	description "Capcom Sports Club (Japan 970722) [sound only]"
+	rom ( name cscjx.03 size 524288 crc 2de1d45d )
+	rom ( name cscjx.04 size 524288 crc 81b25d76 )
+	rom ( name cscjx.05 size 524288 crc 5adb1c93 )
+	rom ( name cscjx.06 size 524288 crc f5558f79 )
+)
+
+game (
+	name cybotsj
+	description "Cyberbots: Fullmetal Madness (Japan 950420) [sound only]"
+	rom ( name cybjx.03 size 524288 crc 867c9acd )
+	rom ( name cybjx.04 size 524288 crc 57ed677f )
+)
+
+game (
+	name ddsom
+	description "Dungeons & Dragons: Shadow over Mystara (Euro 960619) [sound only]"
+	rom ( name dd2ex.03b size 524288 crc e4924c80 )
+	rom ( name dd2ex.04d size 524288 crc 13c8b16f )
+)
+
+game (
+	name ddsomjr1
+	description "Dungeons & Dragons: Shadow over Mystara (Japan 960206) [sound only]"
+	rom ( name dd2jx.03b size 524288 crc a63488bb )
+	rom ( name dd2jx.04b size 524288 crc e3ff7985 )
+)
+
+game (
+	name ddsomu
+	description "Dungeons & Dragons: Shadow over Mystara (US 960209) [sound only]"
+	rom ( name dd2ux.03d size 524288 crc 5cecbdb3 )
+	rom ( name dd2ux.04d size 524288 crc 1307a77d )
+)
+
+game (
+	name ddtod
+	description "Dungeons & Dragons: Tower of Doom (Euro 940412) [sound only]"
+	rom ( name dadex.03c size 524288 crc 7b8b9b2c )
+	rom ( name dadex.04c size 524288 crc 370626d3 )
+	rom ( name dadex.05c size 524288 crc 5fd29e95 )
+)
+
+game (
+	name ddtodj
+	description "Dungeons & Dragons: Tower of Doom (Japan 940113) [sound only]"
+	rom ( name dadjx.03a size 524288 crc 4c7334d3 )
+	rom ( name dadjx.04a size 524288 crc cfd15109 )
+	rom ( name dadjx.05a size 524288 crc d23bcd71 )
+)
+
+game (
+	name ddtodu
+	description "Dungeons & Dragons: Tower of Doom (US 940125) [sound only]"
+	rom ( name dadux.03b size 524288 crc f59ee70c )
+	rom ( name dadux.04b size 524288 crc 622628ae )
+	rom ( name dadux.05b size 524288 crc 424bd6e3 )
+)
+
+game (
+	name ddtodur1
+	description "Dungeons & Dragons: Tower of Doom (US 940113) [sound only]"
+	rom ( name dadux.03a size 524288 crc f9ba14b6 )
+	rom ( name dadux.04a size 524288 crc ed85ec29 )
+	rom ( name dadux.05a size 524288 crc dbae3d1b )
+)
+
+game (
+	name dstlk
+	description "Darkstalkers: The Night Warriors (US 940818) [sound only]"
+	rom ( name vamux.03b size 524288 crc 15ff2d3e )
+	rom ( name vamux.04b size 524288 crc 4cf62f1b )
+)
+
+game (
+	name dstlkr1
+	description "Darkstalkers: The Night Warriors (US 940705) [sound only]"
+	rom ( name vamux.03a size 524288 crc db0837f5 )
+	rom ( name vamux.04a size 524288 crc 8a924055 )
+)
+
+game (
+	name ecofghtr
+	description "Eco Fighters (World 931203) [sound only]"
+	rom ( name uecex.03 size 524288 crc e0ff3d51 )
+	rom ( name uecex.04 size 524288 crc b9f998e8 )
+	rom ( name uecex.05 size 524288 crc 12410260 )
+	rom ( name uecex.06 size 524288 crc d5b4b1a2 )
+)
+
+game (
+	name msh
+	description "Marvel Super Heroes (US 951024) [sound only]"
+	rom ( name mshux.03 size 524288 crc 10bfc357 )
+	rom ( name mshux.04 size 524288 crc 871f0863 )
+)
+
+game (
+	name mshh
+	description "Marvel Super Heroes (Hispanic 951117) [sound only]"
+	rom ( name mshhx.03c size 524288 crc 6daf52bb )
+	rom ( name mshhx.04c size 524288 crc 5684655a )
+)
+
+game (
+	name mshj
+	description "Marvel Super Heroes (Japan 951024) [sound only]"
+	rom ( name mshjx.03f size 524288 crc a15f32f2 )
+	rom ( name mshjx.04f size 524288 crc c81be228 )
+)
+
+game (
+	name mshvsf
+	description "Marvel Super Heroes Vs. Street Fighter (US 970625) [sound only]"
+	rom ( name mvsux.03d size 524288 crc 281bcb48 )
+	rom ( name mvsux.04d size 524288 crc a2d68628 )
+)
+
+game (
+	name mshvsfj
+	description "Marvel Super Heroes Vs. Street Fighter (Japan 970707) [sound only]"
+	rom ( name mvsjx.03i size 524288 crc 55170c4c )
+	rom ( name mvsjx.04i size 524288 crc e7883768 )
+)
+
+game (
+	name mshvsfj1
+	description "Marvel Super Heroes Vs. Street Fighter (Japan 970702) [sound only]"
+	rom ( name mvsjx.03h size 524288 crc 6b4201c1 )
+	rom ( name mvsjx.04h size 524288 crc ab1b04cc )
+)
+
+game (
+	name pgear
+	description "Powered Gear: Strategic Variant Armor Equipment (Japan 941024) [sound only]"
+	rom ( name pwgjx.03a size 524288 crc cf0284a9 )
+	rom ( name pwgjx.04a size 524288 crc 99437cf1 )
+)
+
+game (
+	name pgearr1
+	description "Powered Gear: Strategic Variant Armor Equipment (Japan 940916) [sound only]"
+	rom ( name pwgjx.03 size 524288 crc ebd9e371 )
+	rom ( name pwgjx.04 size 524288 crc e05a4756 )
+)
+
+game (
+	name qndream
+	description "Quiz Nanairo Dreams: Nijiirotyou no Kiseki (Japan 960826) [sound only]"
+	rom ( name tqzjx.03a size 524288 crc 5804a8f8 )
+)
+
+game (
+	name ringdest
+	description "Ring of Destruction: Slammasters II (Euro 940902) [sound only]"
+	rom ( name smbex.03b size 524288 crc 3b1457bd )
+	rom ( name smbex.04b size 524288 crc 6299eb4e )
+	rom ( name smbex.05b size 524288 crc be4a84d1 )
+)
+
+game (
+	name sfa
+	description "Street Fighter Alpha: Warriors' Dreams (Euro 950727) [sound only]"
+	rom ( name sfzex.03b size 524288 crc 505a1b4a )
+)
+
+game (
+	name sfa2
+	description "Street Fighter Alpha 2 (US 960306) [sound only]"
+	rom ( name sz2ux.03 size 524288 crc 6bb6005f )
+	rom ( name sz2ux.04 size 524288 crc 74308a4b )
+)
+
+game (
+	name sfa3
+	description "Street Fighter Alpha 3 (US 980904) [sound only]"
+	rom ( name sz3ux.03c size 524288 crc 7091276b )
+	rom ( name sz3ux.04c size 524288 crc 83b213b1 )
+)
+
+game (
+	name sfa3r1
+	description "Street Fighter Alpha 3 (US 980629) [sound only]"
+	rom ( name sz3ux.03 size 524288 crc 42994875 )
+	rom ( name sz3ux.04 size 524288 crc 86ee79e3 )
+)
+
+game (
+	name sfar1
+	description "Street Fighter Alpha: Warriors' Dreams (Euro 950605) [sound only]"
+	rom ( name sfzex.03a size 524288 crc b50d87c7 )
+)
+
+game (
+	name sfau
+	description "Street Fighter Alpha: Warriors' Dreams (US 950627) [sound only]"
+	rom ( name sfzux.03a size 524288 crc 1a3160ed )
+)
+
+game (
+	name sfz2aj
+	description "Street Fighter Zero 2 Alpha (Japan 960805) [sound only]"
+	rom ( name szajx.03a size 524288 crc 6d3aa71e )
+	rom ( name szajx.04a size 524288 crc 006d5cb8 )
+)
+
+game (
+	name sfz2j
+	description "Street Fighter Zero 2 (Japan 960227) [sound only]"
+	rom ( name sz2jx.03a size 524288 crc 6a765c08 )
+	rom ( name sz2jx.04a size 524288 crc 66139273 )
+)
+
+game (
+	name sfz3a
+	description "Street Fighter Zero 3 (Asia 980701) [sound only]"
+	rom ( name sz3ax.03a size 524288 crc f3ad39ac )
+	rom ( name sz3ax.04 size 524288 crc 792527ca )
+)
+
+game (
+	name sfz3j
+	description "Street Fighter Zero 3 (Japan 980727) [sound only]"
+	rom ( name sz3jx.03a size 524288 crc b2f4046d )
+	rom ( name sz3jx.04a size 524288 crc 85c38642 )
+)
+
+game (
+	name sfz3jr1
+	description "Street Fighter Zero 3 (Japan 980629) [sound only]"
+	rom ( name sz3jx.03 size 524288 crc acd88307 )
+	rom ( name sz3jx.04 size 524288 crc 2c15655b )
+)
+
+game (
+	name sfzj
+	description "Street Fighter Zero (Japan 950727) [sound only]"
+	rom ( name sfzjx.03c size 524288 crc d6b17a9b )
+)
+
+game (
+	name sfzjr1
+	description "Street Fighter Zero (Japan 950627) [sound only]"
+	rom ( name sfzjx.03b size 524288 crc b501f03c )
+)
+
+game (
+	name sfzjr2
+	description "Street Fighter Zero (Japan 950605) [sound only]"
+	rom ( name sfzjx.03a size 524288 crc 3cc138b5 )
+)
+
+game (
+	name smbomb
+	description "Super Muscle Bomber: The International Blowout (Japan 940831) [sound only]"
+	rom ( name smbjx.03a size 524288 crc 3600f8d8 )
+	rom ( name smbjx.04a size 524288 crc 6d0f1b81 )
+	rom ( name smbjx.05a size 524288 crc 97f5b4af )
+)
+
+game (
+	name smbombr1
+	description "Super Muscle Bomber: The International Blowout (Japan 940808) [sound only]"
+	rom ( name smbjx.03 size 524288 crc b0b67439 )
+	rom ( name smbjx.04 size 524288 crc a012f690 )
+	rom ( name smbjx.05 size 524288 crc f6e886d0 )
+)
+
+game (
+	name spf2xj
+	description "Super Puzzle Fighter 2 X (Japan 960531) [sound only]"
+	rom ( name pzfjx.03a size 524288 crc c2e3f231 )
+)
+
+game (
+	name ssf2
+	description "Super Street Fighter 2: The New Challengers (US 930911) [sound only]"
+	rom ( name ssfux.03a size 524288 crc ec278279 )
+	rom ( name ssfux.04a size 524288 crc 6194d896 )
+	rom ( name ssfux.05 size 524288 crc aa846b9f )
+	rom ( name ssfux.06 size 524288 crc 235268c4 )
+	rom ( name ssfux.07 size 524288 crc e46e033c )
+)
+
+game (
+	name ssf2j
+	description "Super Street Fighter 2: The New Challengers (Japan 931005) [sound only]"
+	rom ( name ssfjx.03b size 524288 crc 693985dd )
+	rom ( name ssfjx.04a size 524288 crc f866d34a )
+	rom ( name ssfjx.05 size 524288 crc 7282bb56 )
+	rom ( name ssfjx.06b size 524288 crc c597bc4a )
+	rom ( name ssfjx.07 size 524288 crc 2af7cab2 )
+)
+
+game (
+	name ssf2jr1
+	description "Super Street Fighter 2: The New Challengers (Japan 930911) [sound only]"
+	rom ( name ssfjx.03a size 524288 crc c1b1d0c1 )
+	rom ( name ssfjx.04a size 524288 crc f866d34a )
+	rom ( name ssfjx.05 size 524288 crc 7282bb56 )
+	rom ( name ssfjx.06 size 524288 crc cc027506 )
+	rom ( name ssfjx.07 size 524288 crc 2af7cab2 )
+)
+
+game (
+	name ssf2jr2
+	description "Super Street Fighter 2: The New Challengers (Japan 930910) [sound only]"
+	rom ( name ssfjx.03 size 524288 crc c3eca34c )
+	rom ( name ssfjx.04 size 524288 crc 4e1080c2 )
+	rom ( name ssfjx.05 size 524288 crc 7282bb56 )
+	rom ( name ssfjx.06 size 524288 crc cc027506 )
+	rom ( name ssfjx.07 size 524288 crc 2af7cab2 )
+)
+
+game (
+	name ssf2t
+	description "Super Street Fighter 2 Turbo (World 940223) [sound only]"
+	rom ( name sfxex.03c size 524288 crc a181b207 )
+	rom ( name sfxex.04a size 524288 crc df28bd00 )
+	rom ( name sfxex.05 size 524288 crc 29b7bda4 )
+	rom ( name sfxex.06a size 524288 crc 6c8719b3 )
+	rom ( name sfxex.07 size 524288 crc dfc3b3cd )
+	rom ( name sfxex.08 size 524288 crc d7436ae9 )
+)
+
+game (
+	name ssf2ta
+	description "Super Street Fighter 2 Turbo (Asia 940223) [sound only]"
+	rom ( name sfxax.03c size 524288 crc c8a664fa )
+	rom ( name sfxax.04a size 524288 crc 149d6352 )
+	rom ( name sfxax.05 size 524288 crc ac169aa9 )
+	rom ( name sfxax.06a size 524288 crc bb60394c )
+	rom ( name sfxax.07 size 524288 crc e62b1b69 )
+	rom ( name sfxax.08 size 524288 crc 7c5fd202 )
+)
+
+game (
+	name ssf2tb
+	description "Super Street Fighter 2: The Tournament Battle (World 931119) [sound only]"
+	rom ( name ssfex.3tc size 524288 crc 9b2cda8c )
+	rom ( name ssfex.4tc size 524288 crc 62d26dc2 )
+	rom ( name ssfex.5t size 524288 crc 3ae42ff3 )
+	rom ( name ssfex.6tb size 524288 crc f12e7228 )
+	rom ( name ssfex.7t size 524288 crc 4d51f760 )
+)
+
+game (
+	name ssf2tu
+	description "Super Street Fighter 2 Turbo (US 940223) [sound only]"
+	rom ( name sfxux.03c size 524288 crc 441df197 )
+	rom ( name sfxux.04a size 524288 crc 7390df1b )
+	rom ( name sfxux.05 size 524288 crc 1d3310a0 )
+	rom ( name sfxux.06a size 524288 crc 6fc5efa6 )
+	rom ( name sfxux.07 size 524288 crc 88455606 )
+	rom ( name sfxux.08 size 524288 crc fa2396a6 )
+)
+
+game (
+	name ssf2xj
+	description "Super Street Fighter 2 X: Grand Master Challenge (Japan 940223) [sound only]"
+	rom ( name sfxjx.03c size 524288 crc 084e929f )
+	rom ( name sfxjx.04a size 524288 crc 9ea7a7c0 )
+	rom ( name sfxjx.05 size 524288 crc 46184b32 )
+	rom ( name sfxjx.06a size 524288 crc 9877b7a4 )
+	rom ( name sfxjx.07 size 524288 crc eb8c5317 )
+	rom ( name sfxjx.08 size 524288 crc 656a9858 )
+)
+
+game (
+	name vampj
+	description "Vampire: The Night Warriors (Japan 940705) [sound only]"
+	rom ( name vamjx.03a size 524288 crc 2549f7bc )
+	rom ( name vamjx.04b size 524288 crc bb5a30a5 )
+)
+
+game (
+	name vampja
+	description "Vampire: The Night Warriors (Japan 940705 alt) [sound only]"
+	rom ( name vamjx.03a size 524288 crc 2549f7bc )
+	rom ( name vamjx.04a size 524288 crc fe64a5cf )
+)
+
+game (
+	name vampjr1
+	description "Vampire: The Night Warriors (Japan 940630) [sound only]"
+	rom ( name vamjx.03 size 524288 crc f6fe646a )
+	rom ( name vamjx.04 size 524288 crc 566014e5 )
+)
+
+game (
+	name vsav
+	description "Vampire Savior: The Lord of Vampire (US 970519) [sound only]"
+	rom ( name vm3ux.03d size 524288 crc fb135627 )
+	rom ( name vm3ux.04d size 524288 crc cf02f61d )
+)
+
+game (
+	name vsav2
+	description "Vampire Savior 2: The Lord of Vampire (Japan 970913) [sound only]"
+	rom ( name vs2jx.03 size 524288 crc 8f83159a )
+	rom ( name vs2jx.04 size 524288 crc e9822de8 )
+)
+
+game (
+	name vsava
+	description "Vampire Savior: The Lord of Vampire (Asia 970519) [sound only]"
+	rom ( name vm3ax.03d size 524288 crc 3aea7d92 )
+	rom ( name vm3ax.04d size 524288 crc b5697f3a )
+)
+
+game (
+	name vsavj
+	description "Vampire Savior: The Lord of Vampire (Japan 970519) [sound only]"
+	rom ( name vm3jx.03d size 524288 crc a9ab54df )
+	rom ( name vm3jx.04d size 524288 crc 20c4aa2d )
+)
+
+game (
+	name xmcota
+	description "X-Men: Children of the Atom (Euro 950105) [sound only]"
+	rom ( name xmnex.03e size 524288 crc 2f5daa9f )
+	rom ( name xmnex.04e size 524288 crc f0e24605 )
+)
+
+game (
+	name xmcotaj
+	description "X-Men: Children of the Atom (Japan 941219) [sound only]"
+	rom ( name xmnjx.03b size 524288 crc 523c9589 )
+	rom ( name xmnjx.04b size 524288 crc 673765ba )
+)
+
+game (
+	name xmcotaj1
+	description "X-Men: Children of the Atom (Japan 941217) [sound only]"
+	rom ( name xmnjx.03a size 524288 crc 515b9bf9 )
+	rom ( name xmnjx.04a size 524288 crc 5419572b )
+)
+
+game (
+	name xmcotajr
+	description "X-Men: Children of the Atom (Japan 941208 rent version) [sound only]"
+	rom ( name xmnox.03a size 524288 crc c2d26e40 )
+	rom ( name xmnox.04a size 524288 crc 9fb6b396 )
+)
+
+game (
+	name xmcotau
+	description "X-Men: Children of the Atom (US 950105) [sound only]"
+	rom ( name xmnux.03e size 524288 crc 27636ac7 )
+	rom ( name xmnux.04e size 524288 crc 0aed300c )
+)
+
+game (
+	name xmvsf
+	description "X-Men Vs. Street Fighter (Euro 960910) [sound only]"
+	rom ( name xvsex.03d size 524288 crc 3b3e7836 )
+	rom ( name xvsex.04d size 524288 crc 108863ce )
+)
+
+game (
+	name xmvsfu
+	description "X-Men Vs. Street Fighter (US 961004) [sound only]"
+	rom ( name xvsux.03h size 524288 crc 1539c639 )
+	rom ( name xvsux.04h size 524288 crc 68916b3f )
+)

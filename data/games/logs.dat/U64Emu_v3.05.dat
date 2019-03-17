@@ -1,0 +1,11 @@
+game (
+	name ki2_hdd
+	description "Killer Instinct 2 Disk Image (v2.1)"
+	rom ( name ki2.img size 419586061 crc 11a9fc01 )
+)
+
+game (
+	name ki_hdd
+	description "Killer Instinct Disk Image (v1.0)"
+	rom ( name ki.img size 131076621 crc 1dd9d8b2 )
+)

@@ -1,0 +1,5 @@
+game (
+	name galagabl
+	description "Galaga (bootleg)"
+	rom ( name galagabl.1_7 size 4096 crc 035e300c )
+)

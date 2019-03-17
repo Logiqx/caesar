@@ -1,0 +1,114 @@
+game (
+	name jojo
+	description "JoJo's Venture / JoJo no Kimyouna Bouken"
+	rom ( name 29f400.u2 size 524288 crc 02778f60 )
+	rom ( name 10 size 8388608 crc e40dc123 )
+	rom ( name 20 size 8388608 crc 0571e37c )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name jojoalt
+	description "JoJo's Venture / JoJo no Kimyouna Bouken (Alt)"
+	rom ( name 29f400.u2 size 524288 crc 02778f60 )
+	rom ( name 10 size 8388608 crc bc612872 )
+	rom ( name 20 size 8388608 crc 0e1daddf )
+	rom ( name 30 size 8388608 crc 1d99181b )
+	rom ( name 31 size 8388608 crc 6889fbda )
+	rom ( name 40 size 8388608 crc 8069f9de )
+	rom ( name 41 size 8388608 crc 9c426823 )
+	rom ( name 50 size 4194304 crc 1c749cc7 )
+)
+
+game (
+	name jojoba
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan"
+	rom ( name 10 size 8388608 crc 6e2490f6 )
+	rom ( name 20 size 8388608 crc 1293892b )
+	rom ( name 30 size 8388608 crc d25c5005 )
+	rom ( name 31 size 8388608 crc 51bb3dba )
+	rom ( name 40 size 8388608 crc 94dc26d4 )
+	rom ( name 41 size 8388608 crc 1c53ee62 )
+	rom ( name 50 size 8388608 crc 36e416ed )
+	rom ( name 51 size 8388608 crc eedf19ca )
+)
+
+game (
+	name jojobachd
+	description "JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (CHD)"
+	rom ( name 29f400.u2 size 524288 crc 4dab19f5 )
+)
+
+game (
+	name sfiii
+	description "Street Fighter III: New Generation"
+	rom ( name 29f400.u2 size 524288 crc 74205250 )
+	rom ( name 10 size 8388608 crc e896dc27 )
+	rom ( name 30 size 8388608 crc 98c2d07c )
+	rom ( name 31 size 8388608 crc 7115a396 )
+	rom ( name 40 size 8388608 crc 839f0972 )
+	rom ( name 41 size 8388608 crc 8a8b252c )
+	rom ( name 50 size 4194304 crc 58933dc2 )
+)
+
+game (
+	name sfiii2
+	description "Street Fighter III 2nd Impact: Giant Attack"
+	rom ( name 29f400.u2 size 524288 crc faea0a3e )
+	rom ( name 10 size 8388608 crc 682b014a )
+	rom ( name 20 size 8388608 crc 38090460 )
+	rom ( name 30 size 8388608 crc 77c197c0 )
+	rom ( name 31 size 8388608 crc 7470a6f2 )
+	rom ( name 40 size 8388608 crc 01a85ced )
+	rom ( name 41 size 8388608 crc fb346d74 )
+	rom ( name 50 size 8388608 crc 32f79449 )
+	rom ( name 51 size 8388608 crc 1102b8eb )
+)
+
+game (
+	name sfiii3
+	description "Street Fighter III 3rd Strike: Fight for the Future"
+	rom ( name sf33usa.bin size 524288 crc ecc545c1 )
+	rom ( name 10 size 8388608 crc 77233d39 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name sfiii3a
+	description "Street Fighter III 3rd Strike: Fight for the Future (Alt)"
+	rom ( name sf33usa.bin size 524288 crc ecc545c1 )
+	rom ( name 10 size 8388608 crc ba7f76b2 )
+	rom ( name 20 size 8388608 crc 5ca8faba )
+	rom ( name 30 size 8388608 crc b37cf960 )
+	rom ( name 31 size 8388608 crc 450ec982 )
+	rom ( name 40 size 8388608 crc 632c965f )
+	rom ( name 41 size 8388608 crc 7a4c5f33 )
+	rom ( name 50 size 8388608 crc 8562358e )
+	rom ( name 51 size 8388608 crc 7baf234b )
+	rom ( name 60 size 8388608 crc bc9487b7 )
+	rom ( name 61 size 8388608 crc b813a1b1 )
+)
+
+game (
+	name warzard
+	description "Warzard / Red Earth"
+	rom ( name 29f400.u2 size 524288 crc f8e2f0c6 )
+	rom ( name 10 size 8388608 crc 68188016 )
+	rom ( name 30 size 8388608 crc 074cab4d )
+	rom ( name 31 size 8388608 crc 14e2cad4 )
+	rom ( name 40 size 8388608 crc 72d98890 )
+	rom ( name 41 size 8388608 crc 88ccb33c )
+	rom ( name 50 size 4194304 crc 2f5b44bd )
+)

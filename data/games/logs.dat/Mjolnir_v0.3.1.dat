@@ -1,0 +1,11 @@
+game (
+	name alpinerc
+	description "Alpine Racer (Rev. AR2 Ver.C)"
+	rom ( name ar2ver-c.4 size 1048576 crc a57b4e60 )
+)
+
+game (
+	name cybrcomm
+	description "Cyber Commando (Rev. CY1, Japan)"
+	rom ( name cy1eeprm.9e size 8192 crc 4e1d294b )
+)

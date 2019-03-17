@@ -1,0 +1,15 @@
+game (
+	name blkdrgnb
+	description "Black Dragon (bootleg)"
+	rom ( name j1-5e size 32768 crc 97e84412 )
+	rom ( name j13-8b size 65536 crc 663d5afa )
+)
+
+game (
+	name galaga
+	description "Galaga (Namco)"
+	rom ( name 1c.bin size 256 crc b6f585fb )
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+	rom ( name 2n.bin size 256 crc a547d33b )
+	rom ( name 5c.bin size 256 crc 8bd565f6 )
+)

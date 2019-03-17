@@ -1,0 +1,46 @@
+game (
+	name galagabl
+	description "Galaga (bootleg)"
+	rom ( name galagabl.1_5 size 4096 crc 3102fccd )
+	rom ( name galagabl.1_7 size 4096 crc 035e300c )
+	rom ( name galagabl.1_8 size 4096 crc 169a98a4 )
+)
+
+game (
+	name galaganm
+	description "Galaga (Namco)"
+	rom ( name 04m_g01.bin size 4096 crc a3a0f743 )
+	rom ( name 04k_g02.bin size 4096 crc 43bb0d5c )
+	rom ( name 04h_g04.bin size 4096 crc 83874442 )
+	rom ( name 04e_g05.bin size 4096 crc 3102fccd )
+	rom ( name 04d_g06.bin size 4096 crc 8995088d )
+)
+
+game (
+	name galnamco
+	description "Galaxian (Namco, modified)"
+	rom ( name galaxian.1h size 2048 crc 39fb43a4 )
+	rom ( name galaxian.1k size 2048 crc 7e3f56a2 )
+)
+
+game (
+	name pengopop
+	description "Pengo (set 1 not encrypted) - Popcorn Music"
+	rom ( name pengopop.u15 size 4096 crc 3d647033 )
+	rom ( name pengopop.u20 size 4096 crc 963efa33 )
+	rom ( name pengopop.u31 size 4096 crc f622abe9 )
+	rom ( name pengopop.u8 size 4096 crc b4188213 )
+)
+
+game (
+	name penta
+	description "Penta (not encrypted)"
+	rom ( name penta.u14 size 4096 crc 6a85c6a2 )
+	rom ( name penta.u15 size 4096 crc 9073e95a )
+	rom ( name penta.u20 size 4096 crc 963efa33 )
+	rom ( name penta.u21 size 4096 crc 95f354ff )
+	rom ( name penta.u31 size 4096 crc 4828f9fe )
+	rom ( name penta.u32 size 4096 crc e5920728 )
+	rom ( name penta.u7 size 4096 crc 5eb19e50 )
+	rom ( name penta.u8 size 4096 crc d9e65791 )
+)

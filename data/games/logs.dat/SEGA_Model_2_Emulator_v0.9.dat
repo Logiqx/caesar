@@ -1,0 +1,29 @@
+game (
+	name daytonagtx
+	description "Daytona USA : GTX 2004 Edition"
+	rom ( name gtx.12 size 131072 crc 08283a6f )
+	rom ( name gtx.13 size 131072 crc f9b356ae )
+	rom ( name bank0.bin size 524288 crc c1971f23 )
+	rom ( name bank1.bin size 524288 crc 21b603b4 )
+)
+
+game (
+	name daytonat
+	description "Daytona USA Turbo"
+	rom ( name turbo_a size 131072 crc aec6857a )
+	rom ( name turbo_b size 131072 crc cb657edc )
+)
+
+game (
+	name manxtt
+	description "Manx TT Superbike"
+	rom ( name epr-18826.30 size 262144 crc ed9fe4c1 )
+	rom ( name mpr-18827.31 size 2097152 crc 58d78ca1 )
+)
+
+game (
+	name srallyp
+	description "Sega Rally Pro Drivin'"
+	rom ( name ic12.bin size 524288 crc 926632ab )
+	rom ( name ic13.bin size 524288 crc c93b33f1 )
+)

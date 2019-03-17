@@ -1,0 +1,17 @@
+game (
+	name galaga
+	description "Galaga (Midway)"
+	rom ( name 1d.bin size 256 crc 86d92b24 )
+)
+
+game (
+	name nrallyx
+	description "New Rally X"
+	rom ( name nrallyx.spr size 256 crc b75c4e87 )
+)
+
+game (
+	name pacnpal
+	description "Pac N Pal"
+	rom ( name papi3.cpu size 256 crc 83c31a98 )
+)

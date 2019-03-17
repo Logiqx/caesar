@@ -1,0 +1,29 @@
+game (
+	name hwchamp
+	description "Heavyweight Champ"
+	rom ( name obj3-o.bin size 131072 crc 52fa3a49 )
+)
+
+game (
+	name mjleague
+	description "Major League"
+	rom ( name epra7403.08b size 32768 crc d86250cf )
+)
+
+game (
+	name outrun
+	description "Out Run"
+	rom ( name orun_20.bin size 65536 crc c2825654 )
+)
+
+game (
+	name outrunb
+	description "Out Run (Bootleg)"
+	rom ( name orun_20.bin size 65536 crc c2825654 )
+)
+
+game (
+	name shinobi
+	description "Shinobi"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)

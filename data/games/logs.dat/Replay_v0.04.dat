@@ -1,0 +1,32 @@
+game (
+	name galagabl
+	description "Galaga (bootleg)"
+	rom ( name galagabl.1_7 size 4096 crc 035e300c )
+)
+
+game (
+	name mranger
+	description "Moon Ranger"
+	rom ( name mr-a.3l size 4096 crc 217dd431 )
+	rom ( name mr-a.3k size 4096 crc 9f0af7b2 )
+	rom ( name mr-a.3j size 4096 crc 7fe8e2cd )
+)
+
+game (
+	name pengopop
+	description "Pengo (set 1 not encrypted) - Popcorn Music"
+	rom ( name pengopop.u15 size 4096 crc 3d647033 )
+	rom ( name pengopop.u20 size 4096 crc 963efa33 )
+	rom ( name pengopop.u31 size 4096 crc f622abe9 )
+	rom ( name pengopop.u8 size 4096 crc b4188213 )
+)
+
+game (
+	name penta
+	description "Penta (not encrypted)"
+	rom ( name penta.u15 size 4096 crc 9073e95a )
+	rom ( name penta.u20 size 4096 crc 963efa33 )
+	rom ( name penta.u31 size 4096 crc 4828f9fe )
+	rom ( name penta.u7 size 4096 crc 5eb19e50 )
+	rom ( name penta.u8 size 4096 crc d9e65791 )
+)

@@ -1,0 +1,18 @@
+game (
+	name pengopop
+	description "Pengo (set 1) - Popcorn Music"
+	rom ( name pengopop.u8 size 4096 crc b4188213 )
+	rom ( name pengopop.u15 size 4096 crc 3d647033 )
+	rom ( name pengopop.u20 size 4096 crc 963efa33 )
+	rom ( name pengopop.u31 size 4096 crc f622abe9 )
+)
+
+game (
+	name penta
+	description "Penta (not encrypted)"
+	rom ( name penta.u7 size 4096 crc 5eb19e50 )
+	rom ( name penta.u8 size 4096 crc d9e65791 )
+	rom ( name penta.u15 size 4096 crc 9073e95a )
+	rom ( name penta.u20 size 4096 crc 963efa33 )
+	rom ( name penta.u31 size 4096 crc 4828f9fe )
+)

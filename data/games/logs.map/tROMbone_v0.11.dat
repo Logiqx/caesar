@@ -1,0 +1,12 @@
+game (
+	name gtmr
+	description "Great 1000 Miles Rally [sound only]"
+	rom ( name gmmu24.bin size 1048576 crc 380cdc7c )
+)
+
+game (
+	name shogwarr
+	description "Shogun Warriors [sound only]"
+	rom ( name fb002.u44 size 524288 crc 05d7c2a9 )
+	rom ( name fb003.u45 size 524288 crc 405722e9 )
+)

@@ -1,0 +1,6 @@
+game (
+	name robocop
+	description "Robocop"
+	rom ( name roboc_01.rom size 65536 crc 2a9f6e2c )
+	rom ( name roboc_05.rom size 65536 crc ba69bf84 )
+)

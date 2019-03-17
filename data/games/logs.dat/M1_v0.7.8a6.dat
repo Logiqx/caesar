@@ -1,0 +1,1495 @@
+game (
+	name 3countb
+	description "3 Count Bout / Fire Suplex [sound only]"
+	rom ( name 043-m1.bin size 131072 crc 3377cda3 )
+)
+
+game (
+	name afm_113
+	description "Attack From Mars (1.13) (pinball) [sound only]"
+	rom ( name afm_s2.l1 size 1048576 crc 6e39d96e )
+	rom ( name afm_s3.l1 size 1048576 crc 1cbce9b1 )
+	rom ( name afm_s4.l1 size 1048576 crc 5ff7fbb7 )
+)
+
+game (
+	name andretti
+	description "Mario Andretti (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 4ffb15b0 )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name arom1.bin size 524288 crc 918c3270 )
+	rom ( name arom2.bin size 262144 crc 3c61a2f7 )
+)
+
+game (
+	name androdun
+	description "Andro Dunos [sound only]"
+	rom ( name 049-m1.bin size 131072 crc 1a009f8c )
+)
+
+game (
+	name aof
+	description "Art of Fighting / Ryuuko no Ken [sound only]"
+	rom ( name 044-m1.bin size 131072 crc 981345f8 )
+)
+
+game (
+	name apollo13
+	description "Apollo 13 (pinball) [sound only]"
+	rom ( name apollo13.u7 size 65536 crc e58a36b8 )
+	rom ( name apollo13.u17 size 524288 crc 4e863aca )
+	rom ( name apollo13.u21 size 524288 crc 28169e37 )
+	rom ( name apollo13.u36 size 524288 crc cede5e0f )
+)
+
+game (
+	name atlantisp
+	description "Atlantis (pinball) [sound only]"
+	rom ( name u4_snd.rom size 32768 crc 6a48b588 )
+	rom ( name u19_snd.rom size 32768 crc 1387467c )
+	rom ( name u20_snd.rom size 32768 crc d5a6a773 )
+)
+
+game (
+	name barbwire
+	description "Barb Wire (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 7c602a35 )
+	rom ( name drom1.bin size 32768 crc ebde41b0 )
+	rom ( name arom1.bin size 524288 crc 7171bc86 )
+	rom ( name arom2.bin size 262144 crc ce83c6c3 )
+)
+
+game (
+	name batmanf
+	description "Batman Forever (4.0) (pinball) [sound only]"
+	rom ( name bmfu7.bin size 65536 crc 58c0d144 )
+	rom ( name bmfu17.bin size 524288 crc edcd5c10 )
+	rom ( name bmfu21.bin size 524288 crc e41a516d )
+)
+
+game (
+	name baywatch
+	description "Baywatch (pinball) [sound only]"
+	rom ( name bayw.u7 size 65536 crc 90d6d8a8 )
+	rom ( name bayw.u17 size 524288 crc b20fde56 )
+	rom ( name bayw.u21 size 524288 crc b7598881 )
+)
+
+game (
+	name bbnny_l2
+	description "Bugs Bunny Birthday Ball (L-2) (pinball) [sound only]"
+	rom ( name bugs_u4.l2 size 65536 crc 04bc9aa5 )
+	rom ( name bugs_u19.l1 size 65536 crc a2084702 )
+	rom ( name bugs_u20.l1 size 65536 crc 5df734ef )
+)
+
+game (
+	name bcats_l5
+	description "Bad Cats (L-5) (pinball) [sound only]"
+	rom ( name cats_u4.l1 size 32768 crc 18c62813 )
+	rom ( name cats_u19.l1 size 32768 crc f2fea68b )
+	rom ( name cats_u20.l1 size 32768 crc bf4dc35a )
+	rom ( name cats_u21.l1 size 32768 crc 04110d08 )
+	rom ( name cats_u22.l1 size 32768 crc 7e152c78 )
+)
+
+game (
+	name bellring
+	description "Bell Ringer (pinball) [sound only]"
+	rom ( name br_yrom1.bin size 32768 crc d5aab379 )
+	rom ( name br_drom1.bin size 32768 crc 99f38229 )
+)
+
+game (
+	name bguns_l8
+	description "Big Guns (L-8) (pinball) [sound only]"
+	rom ( name gund_u4.l1 size 32768 crc d4a430a3 )
+	rom ( name guns_u19.l1 size 32768 crc ec1a6c23 )
+	rom ( name guns_u21.l1 size 32768 crc 35c6bfe4 )
+	rom ( name guns_u22.l1 size 32768 crc 091a5cb8 )
+)
+
+game (
+	name bighurt
+	description "Big Hurt (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc c58941ed )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name arom1.bin size 524288 crc b3def376 )
+	rom ( name arom2.bin size 262144 crc 59789e66 )
+)
+
+game (
+	name bk2k_l4
+	description "Black Knight 2000 (L-4) (pinball) [sound only]"
+	rom ( name bk2k_u4.l2 size 32768 crc 1d87281b )
+	rom ( name bk2k_u19.l1 size 32768 crc 58e162b2 )
+	rom ( name bk2k_u21.l1 size 32768 crc 08be36ad )
+	rom ( name bk2k_u22.l1 size 32768 crc 9c8becd8 )
+)
+
+game (
+	name bnzai_l3
+	description "Banzai Run (L-3) (pinball) [sound only]"
+	rom ( name banz_u4.l1 size 32768 crc 8fd69c69 )
+	rom ( name banz_u19.l1 size 32768 crc 9104248c )
+	rom ( name banz_u20.l1 size 32768 crc 26b3d15c )
+	rom ( name banz_u21.l1 size 32768 crc cd06716e )
+	rom ( name banz_u22.l1 size 32768 crc e8159033 )
+)
+
+game (
+	name bstars
+	description "Baseball Stars Professional [sound only]"
+	rom ( name 002-m1.bin size 131072 crc 753a2a08 )
+)
+
+game (
+	name bstars2
+	description "Baseball Stars 2 [sound only]"
+	rom ( name 041-m1.bin size 131072 crc 790b15eb )
+)
+
+game (
+	name btmn_103
+	description "Batman (1.03) (pinball) [sound only]"
+	rom ( name batman.u7 size 32768 crc b2e88bf5 )
+	rom ( name batman.u17 size 262144 crc b84914dd )
+	rom ( name batman.u21 size 131072 crc 42dab6ac )
+)
+
+game (
+	name cactjack
+	description "Cactus Jack's (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 4554ed0d )
+	rom ( name drom1.bin size 32768 crc 78c099e1 )
+	rom ( name arom1.bin size 131072 crc c890475f )
+	rom ( name arom2.bin size 131072 crc aba8fd98 )
+)
+
+game (
+	name carhop
+	description "Car Hop (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 831ee812 )
+	rom ( name drom1.bin size 32768 crc 9dec74e7 )
+)
+
+game (
+	name cc_13
+	description "Cactus Canyon (1.3) (pinball) [sound only]"
+	rom ( name sav2_8.rom size 1048576 crc 94928841 )
+	rom ( name sav3_8.rom size 1048576 crc a22b13f0 )
+	rom ( name sav4_8.rom size 1048576 crc fe8324e2 )
+	rom ( name sav5_8.rom size 1048576 crc 1b2a1ff3 )
+	rom ( name sav6_8.rom size 1048576 crc 2cccf10e )
+	rom ( name sav7_8.rom size 1048576 crc 90fb1277 )
+)
+
+game (
+	name ccruise
+	description "Caribbean Cruise (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 6e424e53 )
+	rom ( name drom1.bin size 32768 crc 4480257e )
+)
+
+game (
+	name clas1812
+	description "Class of 1812 (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 4ecf6ecb )
+	rom ( name drom1.bin size 32768 crc 3863a9df )
+	rom ( name arom1.bin size 131072 crc 357b0069 )
+	rom ( name arom2.bin size 131072 crc 5be02ff7 )
+)
+
+game (
+	name congo_21
+	description "Congo (2.1) (pinball) [sound only]"
+	rom ( name cgs2v1_1.rom size 1048576 crc 2b7637ae )
+	rom ( name cgs3v1_0.rom size 1048576 crc 6cfd9fe0 )
+	rom ( name cgs4v1_0.rom size 1048576 crc 2a1980e7 )
+)
+
+game (
+	name corv_21
+	description "Corvette (2.1) (pinball) [sound only]"
+	rom ( name corvsnd2 size 524288 crc 630d20a3 )
+	rom ( name corvsnd3 size 524288 crc 6ace0353 )
+	rom ( name corvsnd4 size 524288 crc 87807278 )
+	rom ( name corvsnd5 size 524288 crc 35f82c21 )
+	rom ( name corvsnd6 size 524288 crc 61e56d90 )
+	rom ( name corvsnd7 size 524288 crc 1417b547 )
+)
+
+game (
+	name cp_16
+	description "The Champion Pub (1.6) (pinball) [sound only]"
+	rom ( name cp_s2.bin size 524288 crc e0b67f6f )
+	rom ( name cp_s3.bin size 1048576 crc 68accf24 )
+	rom ( name cp_s4.bin size 1048576 crc 50d1c920 )
+	rom ( name cp_s5.bin size 1048576 crc 69af347a )
+	rom ( name cp_s6.bin size 1048576 crc 76ca4fed )
+	rom ( name cp_s7.bin size 1048576 crc be619157 )
+)
+
+game (
+	name crsword
+	description "Crossed Swords [sound only]"
+	rom ( name 037-m1.bin size 131072 crc 9c384263 )
+)
+
+game (
+	name cueball
+	description "Cue Ball Wizard (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc c22f5cc5 )
+	rom ( name drom1.bin size 32768 crc 9fd04109 )
+	rom ( name arom1.bin size 262144 crc 476bb11c )
+	rom ( name arom2.bin size 262144 crc 23708ad9 )
+)
+
+game (
+	name cv_14
+	description "Cirqus Voltaire (1.4) (pinball) [sound only]"
+	rom ( name s2v1_0.rom size 524288 crc 79dbb8ee )
+	rom ( name s3v0_4.rom size 1048576 crc 8c6c0c56 )
+	rom ( name s4v0_4.rom size 1048576 crc a9014b78 )
+	rom ( name s5v0_4.rom size 1048576 crc 7e07a2fc )
+	rom ( name s6v0_4.rom size 1048576 crc 36ca43d3 )
+)
+
+game (
+	name cycln_l5
+	description "Cyclone (L-5) (pinball) [sound only]"
+	rom ( name cycl_u4.l5 size 32768 crc d04b663b )
+	rom ( name cycl_u19.l1 size 32768 crc a20f6519 )
+	rom ( name cycl_u21.l1 size 32768 crc d4f69a7c )
+	rom ( name cycl_u22.l1 size 32768 crc 28dc8f13 )
+)
+
+game (
+	name daytonau
+	description "Daytona USA (US version) [sound only]"
+	rom ( name usasnd1.bin size 131072 crc aed68fa6 )
+	rom ( name usasnd2.bin size 131072 crc f1876b74 )
+)
+
+game (
+	name dd_l2
+	description "Dr. Dude (LA-2) (pinball) [sound only]"
+	rom ( name dude_u4.l1 size 65536 crc 3eeef714 )
+	rom ( name dude_u19.l1 size 65536 crc dc7b985b )
+	rom ( name dude_u20.l1 size 65536 crc a83d53dd )
+)
+
+game (
+	name deadweap
+	description "Deadly Weapon (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 93369ed3 )
+	rom ( name drom1.bin size 32768 crc f55dd7ec )
+)
+
+game (
+	name dh_lx2
+	description "Dirty Harry (LX-2) (pinball) [sound only]"
+	rom ( name dh_snd.u2 size 524288 crc dce5339a )
+	rom ( name dh_snd.u3 size 524288 crc 27c30ada )
+	rom ( name dh_snd.u4 size 524288 crc 8bde0089 )
+	rom ( name dh_snd.u5 size 524288 crc bfacfbdb )
+	rom ( name dh_snd.u6 size 524288 crc 793dcfb8 )
+)
+
+game (
+	name diner_l4
+	description "Diner (L-4) (pinball) [sound only]"
+	rom ( name dinr_u4.l1 size 65536 crc 3bd28368 )
+	rom ( name dinr_u19.l1 size 65536 crc 278b9a30 )
+	rom ( name dinr_u20.l1 size 65536 crc 511fb260 )
+)
+
+game (
+	name dm_h5
+	description "Demolition Man (H-5) (pinball) [sound only]"
+	rom ( name dm.2 size 524288 crc 03dae358 )
+	rom ( name dm.3 size 524288 crc 3b924d3f )
+	rom ( name dm.4 size 524288 crc ff8985da )
+	rom ( name dm.5 size 524288 crc 76f09bd0 )
+	rom ( name dm.6 size 524288 crc 2897aca8 )
+	rom ( name dm.7 size 524288 crc 6b1b9137 )
+	rom ( name dm.8 size 524288 crc 5b333818 )
+	rom ( name dm.9 size 524288 crc 4c1a34e8 )
+)
+
+game (
+	name dm_lx4
+	description "Demolition Man (LX-4) (pinball) [sound only]"
+	rom ( name dm_u2_s.l2 size 524288 crc 85fb8bce )
+	rom ( name dm_u3_s.l2 size 524288 crc 2b65a66e )
+	rom ( name dm_u4_s.l2 size 524288 crc 9d6815fe )
+	rom ( name dm_u5_s.l2 size 524288 crc 9f614c27 )
+	rom ( name dm_u6_s.l2 size 524288 crc 3efc2c0e )
+	rom ( name dm_u7_s.l2 size 524288 crc 75066af1 )
+)
+
+game (
+	name drac_l1
+	description "Bram Stoker's Dracula (L-1) (pinball) [sound only]"
+	rom ( name dracsnd.u18 size 524288 crc 372ffb90 )
+	rom ( name dracsnd.u15 size 524288 crc 77b5abe2 )
+	rom ( name dracsnd.u14 size 524288 crc 5137aaf5 )
+)
+
+game (
+	name eatpm_l4
+	description "Elvira and the Party Monsters (LA-4) (pinball) [sound only]"
+	rom ( name elvi_u4.l1 size 32768 crc b5afa4db )
+	rom ( name elvi_u19.l1 size 32768 crc 806bc350 )
+	rom ( name elvi_u20.l1 size 32768 crc 3d92d5fd )
+	rom ( name elvi_u21.l1 size 32768 crc 68d44545 )
+	rom ( name elvi_u22.l1 size 32768 crc e525b4fe )
+)
+
+game (
+	name esha_la3
+	description "Earthshaker (LA-3) (pinball) [sound only]"
+	rom ( name eshk_u4.l1 size 32768 crc 40069f8c )
+	rom ( name eshk_u19.l1 size 32768 crc e5593075 )
+	rom ( name eshk_u21.l1 size 32768 crc feac68e5 )
+	rom ( name eshk_u22.l1 size 32768 crc 44f50fe1 )
+)
+
+game (
+	name f14_l1
+	description "F14 Tomcat (L-1) (pinball) [sound only]"
+	rom ( name f14_u4.l1 size 32768 crc 43ecaabf )
+	rom ( name f14_u19.l1 size 32768 crc d0de4a7c )
+	rom ( name f14_u21.l1 size 32768 crc e412300c )
+	rom ( name f14_u22.l1 size 32768 crc c9dd7496 )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai [sound only]"
+	rom ( name 033-m1.bin size 131072 crc a8603979 )
+)
+
+game (
+	name fightfev
+	description "Fight Fever (set 1) [sound only]"
+	rom ( name 060-v2.bin size 1048576 crc 64470036 )
+)
+
+game (
+	name fire_l3
+	description "Fire! (L-3) (pinball) [sound only]"
+	rom ( name fire_u4.l1 size 32768 crc 0e058918 )
+	rom ( name fire_u21.l2 size 32768 crc 2edde0a4 )
+	rom ( name fire_u22.l2 size 32768 crc 16145c97 )
+)
+
+game (
+	name frankst
+	description "Mary Shelley's Frankenstein (pinball) [sound only]"
+	rom ( name frsnd.u7 size 65536 crc 084f856c )
+	rom ( name frsnd.u17 size 524288 crc 0da904d6 )
+	rom ( name frsnd.u21 size 524288 crc 14d4bc12 )
+	rom ( name frsnd.u36 size 524288 crc 9964d721 )
+)
+
+game (
+	name freddy
+	description "Freddy: A Nightmare on Elm Street (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 4a748665 )
+	rom ( name drom1.bin size 32768 crc d472210c )
+	rom ( name arom1.bin size 524288 crc 6bec0567 )
+	rom ( name arom2.bin size 262144 crc f0e9284d )
+)
+
+game (
+	name fs_lx5
+	description "The Flintstones (LX-5) (pinball) [sound only]"
+	rom ( name fs_u2_s.l1 size 524288 crc aa3da768 )
+	rom ( name fs_u3_s.l1 size 524288 crc e8a0b2d1 )
+	rom ( name fs_u4_s.l1 size 524288 crc a5de69f4 )
+	rom ( name fs_u5_s.l1 size 524288 crc 74b4d495 )
+	rom ( name fs_u6_s.l1 size 524288 crc 3c7f7a04 )
+	rom ( name fs_u7_s.l1 size 524288 crc f32b9271 )
+	rom ( name fs_u8_s.l1 size 524288 crc a7aafa3e )
+	rom ( name fs_u9_s.l1 size 524288 crc 0a6664fb )
+)
+
+game (
+	name ft_l5
+	description "Fish Tales (L-5) (pinball) [sound only]"
+	rom ( name ft_u18.l1 size 524288 crc 48d2760a )
+)
+
+game (
+	name g_acr2
+	description "Aero the Acro-Bat 2 (U) [!] [sound only]"
+	rom ( name g_acr2.bin size 2097152 crc 39eb74eb )
+)
+
+game (
+	name g_acro
+	description "Aero the Acro-Bat (U) [c][!] [sound only]"
+	rom ( name Aero The Acro-Bat (U) [x].md size 1048576 crc a3a7a8b5 )
+)
+
+game (
+	name g_arca
+	description "Arcade Classics (U) [!] [sound only]"
+	rom ( name g_arca.bin size 524288 crc 8aed2090 )
+)
+
+game (
+	name g_clay
+	description "Clay Fighter (U) [!] [sound only]"
+	rom ( name Clay Fighter (U).md size 2097152 crc b12c1bc1 )
+)
+
+game (
+	name g_desd
+	description "Desert Demomlition [sound only]"
+	rom ( name g_desd.bin size 1048576 crc c287343d )
+)
+
+game (
+	name g_ejim
+	description "Earthworm Jim (U) [!] [sound only]"
+	rom ( name Earthworm Jim (U).md size 3145728 crc df3acf59 )
+)
+
+game (
+	name g_jim2
+	description "Earthworm Jim 2 (U) [!] [sound only]"
+	rom ( name g_jim2.bin size 3145728 crc d57f8ba7 )
+)
+
+game (
+	name g_ma96
+	description "Madden NFL 96 (UE) [!] [sound only]"
+	rom ( name g_ma96.bin size 2097152 crc f126918b )
+)
+
+game (
+	name g_ootw
+	description "Out of this World (Beta) [sound only]"
+	rom ( name Out of This World (U).md size 1048576 crc 2da36e01 )
+)
+
+game (
+	name g_scob
+	description "Scooby Doo Mystery (U) [!] [sound only]"
+	rom ( name g_scob.bin size 2097152 crc 7bb9dd9b )
+)
+
+game (
+	name gladiatp
+	description "Gladiators (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc c5b72153 )
+	rom ( name drom1.bin size 32768 crc 60779d60 )
+	rom ( name arom1.bin size 262144 crc 85cbdda7 )
+	rom ( name arom2.bin size 262144 crc da2c1073 )
+)
+
+game (
+	name gldneye
+	description "Goldeneye (pinball) [sound only]"
+	rom ( name bondu7.bin size 65536 crc 7581a349 )
+	rom ( name bondu17.bin size 524288 crc d9c56b9d )
+	rom ( name bondu21.bin size 524288 crc 5be0f205 )
+)
+
+game (
+	name gnr_300
+	description "Guns N Roses (3.00) (pinball) [sound only]"
+	rom ( name gnru7.snd size 65536 crc 3b9de915 )
+	rom ( name gnru17.snd size 524288 crc 3d3219d6 )
+	rom ( name gnru21.snd size 524288 crc d2ca17ab )
+	rom ( name gnru36.snd size 524288 crc 5b32396e )
+	rom ( name gnru37.snd size 524288 crc 4930e1f2 )
+)
+
+game (
+	name godzillp
+	description "Godzilla (pinball) [sound only]"
+	rom ( name gdzu7.100 size 65536 crc a0afe8b7 )
+	rom ( name gdzu17.100 size 524288 crc 6bba69c8 )
+	rom ( name gdzu21.100 size 524288 crc db738958 )
+	rom ( name gdzu36.100 size 524288 crc e3f24234 )
+	rom ( name gdzu37.100 size 524288 crc 2c1acb14 )
+)
+
+game (
+	name goldcue
+	description "Golden Cue (pinball) [sound only]"
+	rom ( name gc_sound.u7 size 65536 crc 8b559e39 )
+	rom ( name gc_sound.u17 size 524288 crc 28c39bae )
+	rom ( name gc_sound.u21 size 524288 crc d3f43a37 )
+	rom ( name gc_sound.u36 size 524288 crc 81f27955 )
+)
+
+game (
+	name grand_l4
+	description "Grand Lizard (L-4) (pinball) [sound only]"
+	rom ( name lzrd_u4.l1 size 32768 crc 4baafc11 )
+	rom ( name lzrd_u21.l1 size 16384 crc 98859d37 )
+	rom ( name lzrd_u22.l1 size 16384 crc 4e782eba )
+)
+
+game (
+	name gs_l4
+	description "Game Show (L-4) (pinball) [sound only]"
+	rom ( name gshw_u4.l2 size 65536 crc e89e0116 )
+	rom ( name gshw_u19.l1 size 65536 crc 8bae0813 )
+	rom ( name gshw_u20.l1 size 65536 crc 75ccbdf7 )
+)
+
+game (
+	name gw_l5
+	description "The Getaway: High Speed II (L-5) (pinball) [sound only]"
+	rom ( name u18snd size 524288 crc 37bbe485 )
+)
+
+game (
+	name hook_408
+	description "Hook (4.08) (pinball) [sound only]"
+	rom ( name hooksnd.u7 size 32768 crc 642f45b3 )
+	rom ( name hook-voi.u17 size 262144 crc 6ea9fcd2 )
+	rom ( name hook-voi.u21 size 262144 crc b5c275e2 )
+)
+
+game (
+	name hs_l4
+	description "High Speed (L-4) (pinball) [sound only]"
+	rom ( name hs_u4.l1 size 32768 crc 0f96e094 )
+	rom ( name hs_u21.l2 size 32768 crc c0580037 )
+	rom ( name hs_u22.l2 size 32768 crc c03be631 )
+	rom ( name hs_u26.l4 size 8192 crc 38b73830 )
+	rom ( name hs_u27.l4 size 32768 crc 24c6f7f0 )
+)
+
+game (
+	name i500_11r
+	description "Indianapolis 500 (1.1R) (pinball) [sound only]"
+	rom ( name su2 size 524288 crc d2f9ab24 )
+	rom ( name su3 size 524288 crc 067f4df6 )
+	rom ( name su4 size 524288 crc 229b96c2 )
+	rom ( name su5 size 524288 crc f0c006a5 )
+	rom ( name su6 size 524288 crc a2b60d31 )
+	rom ( name su7 size 524288 crc 94eea5a4 )
+)
+
+game (
+	name id4
+	description "ID4: Independence Day (pinball) [sound only]"
+	rom ( name id4sndu7.512 size 65536 crc deeaed37 )
+	rom ( name id4sdu17.400 size 524288 crc 89ffeca3 )
+	rom ( name id4sdu21.400 size 524288 crc f384a9ab )
+	rom ( name id4dspa.200 size 524288 crc 2d3fbcc4 )
+)
+
+game (
+	name ij_l7
+	description "Indiana Jones (L-7) (pinball) [sound only]"
+	rom ( name ijsnd_l3.u2 size 524288 crc fbd91a0d )
+	rom ( name ijsnd_l3.u3 size 524288 crc 3f12a996 )
+	rom ( name ijsnd_l3.u4 size 524288 crc 05a92937 )
+	rom ( name ijsnd_l3.u5 size 524288 crc e6fe417c )
+	rom ( name ijsnd_l3.u6 size 524288 crc 975f3e48 )
+	rom ( name ijsnd_l3.u7 size 524288 crc 2d9cd098 )
+	rom ( name ijsnd_l3.u8 size 524288 crc 45e35bd7 )
+)
+
+game (
+	name jb_10r
+	description "Jack*Bot (1.0R) (pinball) [sound only]"
+	rom ( name jbsnd_u2.rom size 524288 crc b116d59f )
+	rom ( name jbsnd_u3.rom size 524288 crc 76ad3aad )
+	rom ( name jbsnd_u4.rom size 524288 crc 038b1309 )
+	rom ( name jbsnd_u5.rom size 524288 crc 0957e2ad )
+	rom ( name jbsnd_u6.rom size 524288 crc 7a1e2c3d )
+)
+
+game (
+	name jd_l7
+	description "Judge Dredd (L-7) (pinball) [sound only]"
+	rom ( name jdsnd_u2.bin size 524288 crc d8f453c6 )
+	rom ( name jdsnd_u3.bin size 524288 crc 0a11f673 )
+	rom ( name jdsnd_u4.bin size 524288 crc 93f6ebc1 )
+	rom ( name jdsnd_u5.bin size 524288 crc c9f28ba6 )
+	rom ( name jdsnd_u6.bin size 524288 crc ef0bf094 )
+	rom ( name jdsnd_u7.bin size 524288 crc aebab88b )
+	rom ( name jdsnd_u8.bin size 524288 crc 77604893 )
+	rom ( name jdsnd_u9.bin size 524288 crc 885b7c70 )
+)
+
+game (
+	name jm_12r
+	description "Johnny Mnemonic (1.2R) (pinball) [sound only]"
+	rom ( name jm_u2_s.1_0 size 524288 crc 4aeeff3d )
+	rom ( name jm_u3_s.1_0 size 524288 crc 9bf7bc43 )
+	rom ( name jm_u4_s.1_0 size 524288 crc 2e044582 )
+	rom ( name jm_u5_s.1_0 size 524288 crc 50cc06a7 )
+	rom ( name jm_u6_s.1_0 size 524288 crc bfc94707 )
+	rom ( name jm_u7_s.1_0 size 524288 crc 9d4d9e9d )
+	rom ( name jm_u8_s.1_0 size 524288 crc fc7af6c0 )
+)
+
+game (
+	name jockeygp
+	description "Jockey Grand Prix [sound only]"
+	rom ( name jgp-m1_decrypted.bin size 524288 crc 1cab4de2 )
+)
+
+game (
+	name joyjoy
+	description "Puzzled / Joy Joy Kid [sound only]"
+	rom ( name 021-m1.bin size 131072 crc ba5e0946 )
+)
+
+game (
+	name jplstw22
+	description "Lost World: Jurassic Park, The (2.02) (pinball) [sound only]"
+	rom ( name jp2_u7.bin size 65536 crc 73b74c96 )
+	rom ( name jp2_u17.bin size 524288 crc 8d6c0dbd )
+	rom ( name jp2_u21.bin size 524288 crc c670a997 )
+	rom ( name jp2dspa.201 size 524288 crc 8fc41ace )
+)
+
+game (
+	name jupk_513
+	description "Jurassic Park (5.13) (pinball) [sound only]"
+	rom ( name jpu7.dat size 65536 crc f3afcf13 )
+	rom ( name jpu17.dat size 524288 crc 38135a23 )
+	rom ( name jpu21.dat size 262144 crc 6ac1554c )
+)
+
+game (
+	name jy_12
+	description "Junk Yard (1.2) (pinball) [sound only]"
+	rom ( name jy_s2.rom size 524288 crc 1a1bc2ca )
+	rom ( name jy_s3.rom size 1048576 crc 0fc36a8e )
+	rom ( name jy_s4.rom size 1048576 crc 0aebcd77 )
+	rom ( name jy_s5.rom size 1048576 crc f18ad10b )
+)
+
+game (
+	name kof2000
+	description "The King of Fighters 2000 [sound only]"
+	rom ( name 257-m1_decrypted.bin size 262144 crc d404db70 )
+)
+
+game (
+	name kof2001
+	description "The King of Fighters 2001 (set 1) [sound only]"
+	rom ( name 265-262_decrypted-m1.bin size 131072 crc 2fb0a8a5 )
+)
+
+game (
+	name kof2002
+	description "The King of Fighters 2002 [sound only]"
+	rom ( name 265-m1_decrypted.bin size 131072 crc 1c661a4b )
+)
+
+game (
+	name kof2003
+	description "The King of Fighters 2003 (World / US, MVS) [sound only]"
+	rom ( name 271-m1_decrypted.bin size 524288 crc 0e86af8f )
+)
+
+game (
+	name kotm
+	description "King of the Monsters (set 1) [sound only]"
+	rom ( name 016-m1.bin size 131072 crc 0296abcb )
+)
+
+game (
+	name lah_112
+	description "Last Action Hero (1.12) (pinball) [sound only]"
+	rom ( name lahsnd.u7 size 65536 crc 0279c45b )
+	rom ( name lahsnd.u17 size 524288 crc d0c15fa6 )
+	rom ( name lahsnd.u21 size 262144 crc 4571dc2e )
+)
+
+game (
+	name lbowling
+	description "League Bowling [sound only]"
+	rom ( name 019-m1.bin size 131072 crc 589d7f25 )
+)
+
+game (
+	name lca
+	description "Lights, Camera, Action (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 20919ebb )
+	rom ( name drom1.bin size 32768 crc a258d72d )
+)
+
+game (
+	name legendos
+	description "Legend of Success Joe / Ashitano Joe Densetsu [sound only]"
+	rom ( name 029-m1.bin size 131072 crc 8ed64977 )
+)
+
+game (
+	name lostspc
+	description "Lost in Space (pinball) [sound only]"
+	rom ( name lisu7.100 size 65536 crc 96e6b3c4 )
+	rom ( name lisu17.100 size 524288 crc 69076939 )
+	rom ( name lisu21.100 size 524288 crc 56eede09 )
+	rom ( name lisu36.100 size 524288 crc 56f2c53b )
+	rom ( name lisu37.100 size 524288 crc f9430c59 )
+)
+
+game (
+	name lw3_208
+	description "Lethal Weapon 3 (2.08) (pinball) [sound only]"
+	rom ( name lw3u7.dat size 32768 crc ba845ac3 )
+	rom ( name lw3u17.dat size 262144 crc e34cf2fc )
+	rom ( name lw3u21.dat size 262144 crc 82bed051 )
+)
+
+game (
+	name maglord
+	description "Magician Lord (set 1) [sound only]"
+	rom ( name 005-m1.bin size 131072 crc b5253c6a )
+)
+
+game (
+	name matrim
+	description "Matrimelee / Shin Gouketsuji Ichizoku Toukon [sound only]"
+	rom ( name 266-m1_decrypted.bin size 131072 crc d2f3742d )
+)
+
+game (
+	name mav_402
+	description "Maverick (Display Rev. 4.02) (pinball) [sound only]"
+	rom ( name mavu7.dat size 65536 crc 427e6ab9 )
+	rom ( name mavu17.dat size 524288 crc cba377b8 )
+	rom ( name mavu21.dat size 524288 crc be0c6a6f )
+)
+
+game (
+	name mb_10
+	description "Monster Bash (1.0) (pinball) [sound only]"
+	rom ( name mb_s2.rom size 524288 crc 9152f559 )
+	rom ( name mb_s3.rom size 1048576 crc c3cd6e81 )
+	rom ( name mb_s4.rom size 1048576 crc 00b88352 )
+	rom ( name mb_s5.rom size 1048576 crc dae16105 )
+	rom ( name mb_s6.rom size 1048576 crc 3975d5da )
+	rom ( name mb_s7.rom size 1048576 crc c242fb78 )
+)
+
+game (
+	name milln_l3
+	description "Millionaire (L-3) (pinball) [sound only]"
+	rom ( name mill_u4.l1 size 32768 crc cf766506 )
+	rom ( name mill_u19.l1 size 32768 crc e073245a )
+	rom ( name mill_u21.l1 size 32768 crc 4cd1ee90 )
+	rom ( name mill_u22.l1 size 32768 crc 73735cfc )
+)
+
+game (
+	name mm_10
+	description "Medieval Madness (1.0) (pinball) [sound only]"
+	rom ( name mm_s2.1_0 size 524288 crc c55c3b71 )
+	rom ( name mm_sav3.rom size 1048576 crc ed1be570 )
+	rom ( name mm_sav4.rom size 1048576 crc 9c89eacf )
+	rom ( name mm_sav5.rom size 1048576 crc 45089e30 )
+	rom ( name mm_sav6.rom size 1048576 crc 439d55f2 )
+)
+
+game (
+	name mousn_l4
+	description "Mousin' Around (LA-4) (pinball) [sound only]"
+	rom ( name mous_u4.l2 size 32768 crc 643add1e )
+	rom ( name mous_u19.l2 size 32768 crc 7b4941f7 )
+	rom ( name mous_u20.l2 size 32768 crc 59b1b0c5 )
+	rom ( name mous_u22.l1 size 32768 crc 00ad198c )
+)
+
+game (
+	name mslug4
+	description "Metal Slug 4 [sound only]"
+	rom ( name 263-m1_decrypted.bin size 131072 crc ef5db532 )
+)
+
+game (
+	name mslug5
+	description "Metal Slug 5 [sound only]"
+	rom ( name 268-m1_decrypted.bin size 65536 crc 3c0655a7 )
+)
+
+game (
+	name mutnat
+	description "Mutation Nation [sound only]"
+	rom ( name 014-m1.bin size 131072 crc 2a97e84d )
+)
+
+game (
+	name nam1975
+	description "NAM-1975 [sound only]"
+	rom ( name 001-m1.bin size 131072 crc 9e63843f )
+)
+
+game (
+	name nbaf_31
+	description "NBA Fastbreak (3.1 - S3.0) (pinball) [sound only]"
+	rom ( name fb-s2.3_0 size 1048576 crc 4594abd3 )
+	rom ( name fb-s3.1_0 size 1048576 crc 033aa54a )
+	rom ( name fb-s4.1_0 size 1048576 crc 6965a7c5 )
+	rom ( name fb-s5.1_0 size 1048576 crc db50b79a )
+	rom ( name fb-s6.1_0 size 1048576 crc f1633371 )
+)
+
+game (
+	name nf_23x
+	description "No Fear: Dangerous Sports (2.3X) (pinball) [sound only]"
+	rom ( name nfu2s size 524288 crc 136caeb9 )
+	rom ( name nfu3s size 524288 crc 983e5578 )
+	rom ( name nfu4s size 524288 crc 9469cd40 )
+	rom ( name nfu5s size 524288 crc e14d4315 )
+	rom ( name nfu6s size 524288 crc 40a58903 )
+	rom ( name nfu7s size 524288 crc 61002bdd )
+)
+
+game (
+	name ngg_13
+	description "No Good Gofers (1.3) (pinball) [sound only]"
+	rom ( name nggsndl1.s2 size 524288 crc 6263866d )
+	rom ( name nggsndl1.s3 size 1048576 crc 6871b20d )
+	rom ( name nggsndl1.s4 size 1048576 crc 86ed8f5a )
+	rom ( name nggsndl1.s5 size 1048576 crc ea2062f0 )
+	rom ( name nggsndl1.s6 size 1048576 crc b1b8b514 )
+)
+
+game (
+	name nrallyx
+	description "New Rally X [sound only]"
+	rom ( name nrallyx.spr size 256 crc b75c4e87 )
+)
+
+game (
+	name opthund
+	description "Operation Thunder (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 169816d1 )
+	rom ( name drom1.bin size 32768 crc db28be69 )
+	rom ( name arom1.bin size 262144 crc 0fbb130a )
+)
+
+game (
+	name pb_l5
+	description "Pinbot (L-5) (pinball) [sound only]"
+	rom ( name pbot_u4.l1 size 32768 crc de5926bd )
+	rom ( name pbot_u19.l1 size 32768 crc 40eb4e9f )
+	rom ( name pbot_u21.l1 size 32768 crc 3eab88d9 )
+	rom ( name pbot_u22.l1 size 32768 crc a2d2c9cb )
+)
+
+game (
+	name pnyaa
+	description "Pochi and Nyaa [sound only]"
+	rom ( name 267-m1_decrypted.bin size 524288 crc d58eaa8e )
+)
+
+game (
+	name polic_l4
+	description "Police Force (LA-4) (pinball) [sound only]"
+	rom ( name pfrc_u4.l2 size 32768 crc 8f431529 )
+	rom ( name pfrc_u19.l1 size 32768 crc abc4caeb )
+	rom ( name pfrc_u21.l1 size 32768 crc 7729afd3 )
+	rom ( name pfrc_u22.l1 size 32768 crc 40f5e6b2 )
+)
+
+game (
+	name pool_l7
+	description "Pool Sharks (L-7) (pinball) [sound only]"
+	rom ( name pool_u4.l2 size 65536 crc 04e95e10 )
+	rom ( name pool_u19.l2 size 65536 crc 0f45d02b )
+	rom ( name pool_u20.l2 size 65536 crc 925f62d6 )
+)
+
+game (
+	name pop_lx5
+	description "Popeye Saves The Earth (LX-5) (pinball) [sound only]"
+	rom ( name popsndl2.u2 size 524288 crc 00590f2d )
+	rom ( name popsndl2.u3 size 524288 crc 87032b27 )
+	rom ( name popsndl2.u4 size 524288 crc b0808aa8 )
+	rom ( name popsndl2.u5 size 524288 crc 3662206b )
+	rom ( name popsndl2.u6 size 524288 crc 84a5f317 )
+	rom ( name popsndl2.u7 size 524288 crc b8fde2c7 )
+)
+
+game (
+	name rab_320
+	description "Rocky and Bullwinkle (3.20) (pinball) [sound only]"
+	rom ( name rab.u7 size 65536 crc b232e630 )
+	rom ( name rab.u17 size 524288 crc 7f2b53b8 )
+	rom ( name rab.u21 size 262144 crc 3de1b375 )
+)
+
+game (
+	name radcl_l1
+	description "Radical (L-1) (pinball) [sound only]"
+	rom ( name rad_u4.l1 size 65536 crc 5aafc09c )
+	rom ( name rad_u19.l1 size 65536 crc 7c005e1f )
+	rom ( name rad_u20.l1 size 32768 crc 05b96292 )
+)
+
+game (
+	name raiden2
+	description "Raiden 2 (set 1, US Fabtek) [sound only]"
+	rom ( name voi1 size 524288 crc f340457b )
+	rom ( name voi2 size 524288 crc d321ff54 )
+)
+
+game (
+	name rbff2
+	description "Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (set 1) [sound only]"
+	rom ( name 240-v3.bin size 4194304 crc df77b7fa )
+	rom ( name 240-v4.bin size 4194304 crc 33a356ee )
+)
+
+game (
+	name rdkng_l4
+	description "Road Kings (L-4) (pinball) [sound only]"
+	rom ( name road_u4.l1 size 32768 crc 4395b48f )
+	rom ( name road_u21.l1 size 32768 crc f34efbf4 )
+	rom ( name road_u22.l1 size 32768 crc a9803804 )
+)
+
+game (
+	name rescu911
+	description "Rescue 911 (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 14f86b56 )
+	rom ( name drom1.bin size 32768 crc 034c6bc3 )
+	rom ( name arom1.bin size 524288 crc f6daa16c )
+	rom ( name arom2.bin size 262144 crc 59374104 )
+)
+
+game (
+	name ridhero
+	description "Riding Hero (set 1) [sound only]"
+	rom ( name 006-m1.bin size 131072 crc f0b6425d )
+)
+
+game (
+	name roboarmy
+	description "Robo Army (set 1) [sound only]"
+	rom ( name 032-m1.bin size 131072 crc 98edc671 )
+)
+
+game (
+	name rollr_e1
+	description "Rollergames (PU-1) (pinball) [sound only]"
+	rom ( name rolr_u4.pe1 size 65536 crc 8c383b24 )
+	rom ( name rolr_u19.pe1 size 65536 crc c6880cff )
+	rom ( name rolr_u20.pe1 size 65536 crc 4220812b )
+)
+
+game (
+	name rollr_l2
+	description "Rollergames (L-2) (pinball) [sound only]"
+	rom ( name rolr_u4.l3 size 65536 crc d366c705 )
+	rom ( name rolr_u19.l3 size 65536 crc 45a89e55 )
+	rom ( name rolr_u20.l3 size 65536 crc 77f89aff )
+)
+
+game (
+	name rotd
+	description "Rage of the Dragons [sound only]"
+	rom ( name 264-m1_decrypted.bin size 131072 crc c5d36af9 )
+)
+
+game (
+	name rs_l6
+	description "Red and Ted's Road Show (L-6) (pinball) [sound only]"
+	rom ( name rs_u2_s.l1 size 524288 crc 5a2db20c )
+	rom ( name rs_u3_s.l1 size 524288 crc 719be036 )
+	rom ( name rs_u4_s.l1 size 524288 crc d452d007 )
+	rom ( name rs_u5_s.l1 size 524288 crc 1faa04c9 )
+	rom ( name rs_u6_s.l1 size 524288 crc eee00add )
+	rom ( name rs_u7_s.l1 size 524288 crc 3a222a54 )
+	rom ( name rs_u8_s.l1 size 524288 crc c70f2210 )
+)
+
+game (
+	name rvrbt_l3
+	description "Riverboat Gambler (L-3) (pinball) [sound only]"
+	rom ( name gamb_u4.l2 size 65536 crc c0cfa9be )
+	rom ( name gamb_u19.l1 size 65536 crc 04a3a8c8 )
+	rom ( name gamb_u20.l1 size 65536 crc a60c734d )
+)
+
+game (
+	name samsh5sp
+	description "Samurai Shodown V Special / Samurai Spirits Zero Special (set 1, uncensored) [sound only]"
+	rom ( name 272-m1_decrypted.bin size 524288 crc 203d744e )
+)
+
+game (
+	name samsho5
+	description "Samurai Shodown V / Samurai Spirits Zero (set 1) [sound only]"
+	rom ( name 270-m1_decrypted.bin size 262144 crc e94a5e2b )
+)
+
+game (
+	name sc_18
+	description "Safe Cracker (1.8) (pinball) [sound only]"
+	rom ( name safsnds2.rom size 1048576 crc 20e14c63 )
+	rom ( name safsnds3.rom size 1048576 crc 99e318e7 )
+	rom ( name safsnds4.rom size 1048576 crc 9c8a23eb )
+)
+
+game (
+	name sdodgeb
+	description "Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu [sound only]"
+	rom ( name 208-v1.bin size 2097152 crc 8b53e945 )
+	rom ( name 208-v2.bin size 2097152 crc af37ebf8 )
+)
+
+game (
+	name sengoku3
+	description "Sengoku 3 [sound only]"
+	rom ( name 261-m1.bin size 131072 crc 36ed9cdd )
+)
+
+game (
+	name sfight2
+	description "Street Fighter 2 (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 9009f461 )
+	rom ( name drom1.bin size 32768 crc f5c13e80 )
+	rom ( name arom1.bin size 262144 crc 8518ff55 )
+	rom ( name arom2.bin size 262144 crc 85a304d9 )
+)
+
+game (
+	name sfzch
+	description "Street Fighter Zero (CPS Changer) [sound only]"
+	rom ( name sfz09 size 65536 crc c772628b )
+	rom ( name sfz18 size 131072 crc 61022b2d )
+	rom ( name sfz19 size 131072 crc 3b5886d5 )
+)
+
+game (
+	name shaqattq
+	description "Shaq Attaq (rev.5) (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc e81e2928 )
+	rom ( name drom1.bin size 32768 crc 16a03261 )
+	rom ( name arom1.bin size 524288 crc 019014ec )
+	rom ( name arom2.bin size 262144 crc cc5f157d )
+)
+
+game (
+	name silvslug
+	description "Silver Slugger (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 20bc9797 )
+	rom ( name drom1.bin size 32768 crc eac3e1cc )
+)
+
+game (
+	name smb
+	description "Super Mario Brothers (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc e1379106 )
+	rom ( name drom1.bin size 32768 crc 6f1d0a3e )
+	rom ( name arom1.bin size 262144 crc e9cef116 )
+	rom ( name arom2.bin size 262144 crc 0acdfd49 )
+)
+
+game (
+	name smbmush
+	description "Super Mario Brothers Mushroom World (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 09712c37 )
+	rom ( name drom1.bin size 32768 crc 6f04a0ac )
+	rom ( name arom1.bin size 262144 crc edce7951 )
+	rom ( name arom2.bin size 262144 crc dd7ea212 )
+)
+
+game (
+	name socbrawl
+	description "Soccer Brawl (set 1) [sound only]"
+	rom ( name 031-m1.bin size 131072 crc 3aa4e9e1 )
+)
+
+game (
+	name sonicwi2
+	description "Aero Fighters 2 / Sonic Wings 2 [sound only]"
+	rom ( name 075-v2.bin size 524288 crc 6d0a728e )
+)
+
+game (
+	name spacejam
+	description "Space Jam (pinball) [sound only]"
+	rom ( name spcjam.u7 size 65536 crc c693d853 )
+	rom ( name spcjam.u17 size 524288 crc ccefe457 )
+	rom ( name spcjam.u21 size 524288 crc 14cb71cb )
+	rom ( name spcjam.u36 size 524288 crc 7f61143c )
+)
+
+game (
+	name spstn_l5
+	description "Space Station (L-5) (pinball) [sound only]"
+	rom ( name sstn_u4.l1 size 32768 crc ad7a0511 )
+	rom ( name sstn_u21.l1 size 32768 crc a2ceccaa )
+	rom ( name sstn_u22.l1 size 32768 crc 2b745994 )
+)
+
+game (
+	name ss_15
+	description "Scared Stiff (1.5) (pinball) [sound only]"
+	rom ( name sssnd_11.s2 size 1048576 crc 1b080a72 )
+	rom ( name sssnd_11.s3 size 1048576 crc c4f2e08a )
+	rom ( name sssnd_11.s4 size 1048576 crc 258b0a27 )
+)
+
+game (
+	name stargatp
+	description "Stargate (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 53123fd4 )
+	rom ( name drom1.bin size 32768 crc 781b2b27 )
+	rom ( name arom1.bin size 524288 crc a0f62605 )
+)
+
+game (
+	name startrp
+	description "Starship Troopers (pinball) [sound only]"
+	rom ( name u7_b130.512 size 65536 crc f1559e4f )
+	rom ( name u17_152a.040 size 524288 crc 8caeccdb )
+	rom ( name u21_0291.040 size 524288 crc 0c5321f6 )
+	rom ( name u36_95a7.040 size 524288 crc c1e4ca6a )
+)
+
+game (
+	name strhoop
+	description "Street Hoop / Street Slam / Dunk Dream [sound only]"
+	rom ( name 079-v2.bin size 524288 crc b19884f8 )
+)
+
+game (
+	name sttng_l7
+	description "Star Trek: The Next Generation (LX-7) (pinball) [sound only]"
+	rom ( name ng_u2_s.l1 size 524288 crc c3bd7bf5 )
+	rom ( name ng_u3_s.l1 size 524288 crc 9456cac7 )
+	rom ( name ng_u4_s.l1 size 524288 crc 179d22a4 )
+	rom ( name ng_u5_s.l1 size 524288 crc 231a3e72 )
+	rom ( name ng_u6_s.l1 size 524288 crc bb21377d )
+	rom ( name ng_u7_s.l1 size 524288 crc d81b39f0 )
+	rom ( name ng_u8_s.l1 size 524288 crc c9fb065e )
+)
+
+game (
+	name sttng_x7
+	description "Star Trek: The Next Generation (LX-7 Special) (pinball) [sound only]"
+	rom ( name ngs_u2.rom size 524288 crc e9fe68fe )
+	rom ( name ngs_u3.rom size 524288 crc 368cfd89 )
+	rom ( name ngs_u4.rom size 524288 crc 8e79a513 )
+	rom ( name ngs_u5.rom size 524288 crc 46049eb0 )
+	rom ( name ngs_u6.rom size 524288 crc e0124da0 )
+	rom ( name ngs_u7.rom size 524288 crc dc1c74d0 )
+	rom ( name ng_u8_s.l1 size 524288 crc c9fb065e )
+)
+
+game (
+	name stwr_103
+	description "Star Wars (1.03) (pinball) [sound only]"
+	rom ( name s-wars.u7 size 32768 crc cefa19d5 )
+	rom ( name s-wars.u17 size 524288 crc 7950a147 )
+	rom ( name s-wars.u21 size 262144 crc 7b08fdf1 )
+)
+
+game (
+	name superspy
+	description "The Super Spy [sound only]"
+	rom ( name 011-m1.bin size 131072 crc 6f737b5a )
+)
+
+game (
+	name surfnsaf
+	description "Surf'n Safari (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc a0480418 )
+	rom ( name drom1.bin size 32768 crc ec8fc963 )
+	rom ( name arom1.bin size 262144 crc 38b569b2 )
+)
+
+game (
+	name svcpcb
+	description "SNK vs. CAPCOM SVC CHAOS (JAMMA PCB) [sound only]"
+	rom ( name 269-m1_decrypted.bin size 524288 crc 7b7bf462 )
+)
+
+game (
+	name swrds_l2
+	description "Swords of Fury (L-2) (pinball) [sound only]"
+	rom ( name swrd_u4.l1 size 32768 crc 272b509c )
+	rom ( name swrd_u19.l1 size 32768 crc a22f84fa )
+	rom ( name swrd_u21.l1 size 32768 crc ee8b0a64 )
+	rom ( name swrd_u22.l1 size 32768 crc 73dcdbb0 )
+)
+
+game (
+	name swtril43
+	description "Star Wars Trilogy (4.03) (pinball) [sound only]"
+	rom ( name sw0219.u7 size 65536 crc cd7c84d9 )
+	rom ( name sw0211.u17 size 524288 crc 6863e7f6 )
+	rom ( name sw0211.u21 size 524288 crc 6be68450 )
+	rom ( name swsedspa.400 size 524288 crc b9bcbf71 )
+)
+
+game (
+	name taf_l5
+	description "The Addams Family (L-5) (pinball) [sound only]"
+	rom ( name tafu18l1.rom size 524288 crc 131ae471 )
+)
+
+game (
+	name tafg_lx3
+	description "The Addams Family Special Collectors Edition Gold (LX-3) (pinball) [sound only]"
+	rom ( name ag_u18_s.l1 size 524288 crc 02e824a9 )
+	rom ( name ag_u15_s.l1 size 262144 crc b8c88c75 )
+)
+
+game (
+	name taxi_l4
+	description "Taxi (Lola) (L-4) (pinball) [sound only]"
+	rom ( name taxi_u4.l1 size 32768 crc 6082ebb5 )
+	rom ( name taxi_u19.l1 size 32768 crc 91c64913 )
+	rom ( name taxi_u21.l1 size 32768 crc 2b20e9ab )
+	rom ( name taxi_u22.l1 size 32768 crc d13055c5 )
+)
+
+game (
+	name teedoffp
+	description "Teed Off (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc c51d98d8 )
+	rom ( name drom1.bin size 32768 crc 3868e77a )
+	rom ( name arom1.bin size 262144 crc 9e442b71 )
+	rom ( name arom2.bin size 262144 crc 3dad9508 )
+)
+
+game (
+	name tekken2
+	description "Tekken 2 Ver.B (TES3/VER.B) [sound only]"
+	rom ( name tes1wave.8k size 4194304 crc af5eadb1 )
+)
+
+game (
+	name tfight
+	description "Title Fight (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 8591d421 )
+	rom ( name drom1.bin size 32768 crc 9514739f )
+)
+
+game (
+	name tftc_303
+	description "Tales From the Crypt (3.03) (pinball) [sound only]"
+	rom ( name sndu7.dat size 65536 crc 7963740e )
+	rom ( name sndu17.dat size 524288 crc 5c5d009a )
+	rom ( name sndu21.dat size 524288 crc a0ae61f7 )
+)
+
+game (
+	name tom_13
+	description "Theatre Of Magic (1.3X) (pinball) [sound only]"
+	rom ( name tm_u2_s.l2 size 524288 crc b128fbba )
+	rom ( name tm_u3_s.l2 size 524288 crc 128c7d3c )
+	rom ( name tm_u4_s.l2 size 524288 crc 3d9b2354 )
+	rom ( name tm_u5_s.l2 size 524288 crc 44247b60 )
+	rom ( name tm_u6_s.l2 size 524288 crc f366bbe5 )
+	rom ( name tm_u7_s.l2 size 524288 crc f98e9e38 )
+)
+
+game (
+	name tomy_400
+	description "Tommy (4.00) (pinball) [sound only]"
+	rom ( name tommysnd.u7 size 65536 crc ab0b4626 )
+	rom ( name tommysnd.u17 size 524288 crc 11bb2aa7 )
+	rom ( name tommysnd.u21 size 524288 crc bb4aeec3 )
+	rom ( name tommysnd.u36 size 524288 crc 208d7aeb )
+	rom ( name tommysnd.u37 size 524288 crc 46180085 )
+)
+
+game (
+	name totan_14
+	description "Tales Of The Arabian Nights (1.4) (pinball) [sound only]"
+	rom ( name ans2v1_1.rom size 1048576 crc 0d023f90 )
+	rom ( name ans3v1_0.rom size 1048576 crc 3f677813 )
+	rom ( name ans4v1_0.rom size 1048576 crc c26dff5f )
+	rom ( name ans5v1_0.rom size 524288 crc 32ca1602 )
+)
+
+game (
+	name tpgolf
+	description "Top Player's Golf [sound only]"
+	rom ( name 003-m1.bin size 65536 crc 7851d0d9 )
+)
+
+game (
+	name trek_201
+	description "Star Trek 25th Anniversary (2.01) (pinball) [sound only]"
+	rom ( name trek.u7 size 32768 crc f137abbb )
+	rom ( name trek.u17 size 262144 crc 531545da )
+	rom ( name trek.u21 size 262144 crc 6107b004 )
+)
+
+game (
+	name trucksp3
+	description "Truck Stop (P-3) (pinball) [sound only]"
+	rom ( name u4sndp1.256 size 32768 crc 120a386f )
+	rom ( name u19sndp1.256 size 32768 crc 5cd43dda )
+	rom ( name u20sndp1.256 size 32768 crc 93ac5c33 )
+)
+
+game (
+	name ts_lx5
+	description "The Shadow (LX-5) (pinball) [sound only]"
+	rom ( name ts_u2_s.l1 size 524288 crc f1486cfb )
+	rom ( name ts_u3_s.l1 size 524288 crc b9e39c3f )
+	rom ( name ts_u4_s.l1 size 524288 crc a1d1ab66 )
+	rom ( name ts_u5_s.l1 size 524288 crc ab8cf435 )
+	rom ( name ts_u6_s.l1 size 524288 crc 63b8d2db )
+	rom ( name ts_u7_s.l1 size 524288 crc 62b5db14 )
+)
+
+game (
+	name tsptr_l3
+	description "Transporter the Rescue (L-3) (pinball) [sound only]"
+	rom ( name tran_u4.l2 size 32768 crc a06ddd61 )
+	rom ( name tran_u19.l2 size 32768 crc 3cfde8b0 )
+	rom ( name tran_u20.l2 size 32768 crc e9890cf1 )
+	rom ( name tran_u21.l2 size 32768 crc b10120ee )
+	rom ( name tran_u22.l2 size 32768 crc 337784b5 )
+)
+
+game (
+	name ttt_10
+	description "Ticket Tac Toe (1.0) (pinball) [sound only]"
+	rom ( name ttt_s2.rom size 1048576 crc faae93eb )
+	rom ( name ttt_s3.rom size 1048576 crc 371ba9b3 )
+)
+
+game (
+	name twst_405
+	description "Twister (4.05) (pinball) [sound only]"
+	rom ( name twstsnd.u7 size 65536 crc 5ccf0798 )
+	rom ( name twstsnd.u17 size 524288 crc 0e35d640 )
+	rom ( name twstsnd.u21 size 524288 crc c3eae590 )
+	rom ( name twstdspa.400 size 524288 crc a6a3d41d )
+)
+
+game (
+	name tz_92
+	description "Twilight Zone (9.2) (pinball) [sound only]"
+	rom ( name tzu18_l2.rom size 524288 crc 66575ec2 )
+	rom ( name tzu15_l2.rom size 524288 crc 389d2442 )
+	rom ( name tzu14_l2.rom size 131072 crc 5a67bd56 )
+)
+
+game (
+	name vegas
+	description "Vegas (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc af1095f1 )
+	rom ( name drom1.bin size 32768 crc 46eb5755 )
+)
+
+game (
+	name vf2
+	description "Virtua Fighter 2 (ver 2.1) [sound only]"
+	rom ( name mpr-17571.36 size 2097152 crc d22dc8ca )
+)
+
+game (
+	name vf3
+	description "Virtua Fighter 3 [sound only]"
+	rom ( name epr-19231.21 size 131072 crc f2ae2558 )
+)
+
+game (
+	name viprsega
+	description "Viper Night Drivin' (pinball) [sound only]"
+	rom ( name vpru7.dat size 65536 crc f21617d7 )
+	rom ( name vpru17.dat size 524288 crc 47b1317c )
+	rom ( name vpru21.dat size 524288 crc 0e0e2dd6 )
+	rom ( name vpru36.dat size 524288 crc 7b482876 )
+	rom ( name vpru37.dat size 524288 crc 0bf23e0e )
+)
+
+game (
+	name vsnetscr
+	description "Versus Net Soccer (ver EAD) [sound only]"
+	rom ( name 627a23.7r size 4194304 crc 0917d7de )
+)
+
+game (
+	name waterwld
+	description "Waterworld (rev.3) (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 6dddce0a )
+	rom ( name drom1.bin size 32768 crc 2a8c5d04 )
+	rom ( name arom1.bin size 524288 crc 3ee37668 )
+	rom ( name arom2.bin size 524288 crc a631bf12 )
+)
+
+game (
+	name wcs_l2
+	description "World Cup Soccer (Lx-2) (pinball) [sound only]"
+	rom ( name wcup_u2.rom size 524288 crc 92252f28 )
+	rom ( name wcup_u3.rom size 524288 crc 83f541ad )
+	rom ( name wcup_u4.rom size 524288 crc 1540c505 )
+	rom ( name wcup_u5.rom size 524288 crc bddad8d4 )
+	rom ( name wcup_u6.rom size 524288 crc 00f46c12 )
+	rom ( name wcup_u7.rom size 524288 crc fff01703 )
+	rom ( name wcup_u8.rom size 524288 crc 670cd382 )
+)
+
+game (
+	name wcsoccer
+	description "World Challenge Soccer (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc 8b2795b0 )
+	rom ( name drom1.bin size 32768 crc 18d5edf3 )
+	rom ( name arom1.bin size 262144 crc ece4eebf )
+	rom ( name arom2.bin size 262144 crc 4e466500 )
+)
+
+game (
+	name wd_12
+	description "Who Dunnit (1.2) (pinball) [sound only]"
+	rom ( name wdu2_10.rom size 524288 crc 2fd534be )
+	rom ( name wdu3_10.rom size 524288 crc be9b312f )
+	rom ( name wdu4_10.rom size 524288 crc 46965682 )
+	rom ( name wdu5_10.rom size 524288 crc 0a787015 )
+	rom ( name wdu6_10.rom size 524288 crc d2e05659 )
+	rom ( name wdu7_10.rom size 524288 crc 36285ca2 )
+)
+
+game (
+	name whirl_l3
+	description "Whirlwind (L-3) (pinball) [sound only]"
+	rom ( name whir_u4.l1 size 32768 crc 29952d84 )
+	rom ( name whir_u19.l1 size 32768 crc c63f6fe9 )
+	rom ( name whir_u20.l1 size 32768 crc 713007af )
+	rom ( name whir_u21.l1 size 32768 crc fa3da322 )
+	rom ( name whir_u22.l1 size 32768 crc fcaf8c4e )
+)
+
+game (
+	name wipeout
+	description "Wipeout (pinball) [sound only]"
+	rom ( name yrom1.bin size 32768 crc f08e6d7f )
+	rom ( name drom1.bin size 32768 crc 98ae6da4 )
+	rom ( name arom1.bin size 262144 crc cccdf23a )
+	rom ( name arom2.bin size 262144 crc d4cc44a1 )
+)
+
+game (
+	name wwfr_106
+	description "WWF Royal Rumble (1.06) (pinball) [sound only]"
+	rom ( name wfsndu7.512 size 65536 crc eb01745c )
+	rom ( name wfsndu17.400 size 524288 crc 7d9c2ca8 )
+	rom ( name wfsndu21.400 size 524288 crc 242dcdcb )
+	rom ( name wfsndu36.400 size 524288 crc 39db8d85 )
+)
+
+game (
+	name xfilepin
+	description "X-Files (pinball) [sound only]"
+	rom ( name xfsndu7.512 size 65536 crc 01d65239 )
+	rom ( name xfsndu17.c40 size 524288 crc 40bfc835 )
+	rom ( name xfsndu21.c40 size 524288 crc b56a5ca6 )
+)

@@ -1,0 +1,104 @@
+game (
+	name altbeast
+	description "Altered Beast"
+	rom ( name ab11671.bin size 32768 crc 2b71343b )
+)
+
+game (
+	name fantzone
+	description "Fantasy Zone"
+	rom ( name epr7535.fz size 32768 crc bc1374fa )
+)
+
+game (
+	name fpointbl
+	description "Flash Point (Bootleg)"
+	rom ( name epr12592.bin size 32768 crc 9a8c11bb )
+)
+
+game (
+	name goldnaxe
+	description "Golden Axe"
+	rom ( name ga12522.bin size 131072 crc b6c35160 )
+	rom ( name ga12523.bin size 131072 crc 8e6128d7 )
+)
+
+game (
+	name hwchamp
+	description "Heavyweight Champ"
+	rom ( name obj3-o.bin size 131072 crc 52fa3a49 )
+)
+
+game (
+	name mjleague
+	description "Major League"
+	rom ( name epra7403.08b size 32768 crc d86250cf )
+)
+
+game (
+	name outrun
+	description "Out Run"
+	rom ( name orun_1.bin size 65536 crc 77377e00 )
+	rom ( name orun_2.bin size 65536 crc 2c0e7277 )
+	rom ( name orun_3.bin size 65536 crc 69ecc975 )
+	rom ( name orun_4.bin size 65536 crc 54761e57 )
+	rom ( name orun_5.bin size 65536 crc b6a8d0e2 )
+	rom ( name orun_6.bin size 65536 crc a00d0676 )
+	rom ( name orun_7.bin size 65536 crc d632d8a2 )
+	rom ( name orun_8.bin size 65536 crc da398368 )
+	rom ( name orun_17.bin size 65536 crc 4f784236 )
+	rom ( name orun_18.bin size 65536 crc 8d459356 )
+	rom ( name orun_19.bin size 65536 crc ee4f7154 )
+	rom ( name orun_20.bin size 65536 crc c2825654 )
+	rom ( name orun_21.bin size 65536 crc e9880aa3 )
+	rom ( name orun_22.bin size 65536 crc ef7d06fe )
+	rom ( name orun_23.bin size 65536 crc dc286dc2 )
+	rom ( name orun_24.bin size 65536 crc 1222af9f )
+)
+
+game (
+	name outrunb
+	description "Out Run (Bootleg)"
+	rom ( name 10185.rom size 32768 crc 22794426 )
+	rom ( name 10187.rom size 32768 crc a10abaa9 )
+	rom ( name 10188.rom size 32768 crc bad30ad9 )
+	rom ( name 10189.rom size 32768 crc 01366b54 )
+	rom ( name 10190.rom size 32768 crc 7cab70e2 )
+	rom ( name 10191.rom size 32768 crc 20a284ab )
+	rom ( name 10192.rom size 32768 crc 770f1270 )
+	rom ( name 10193.rom size 32768 crc bcd10dde )
+	rom ( name 10230.rom size 32768 crc 686f5e50 )
+	rom ( name 10231.rom size 32768 crc 8908bcbf )
+	rom ( name 10232.rom size 32768 crc 776ba1eb )
+	rom ( name 10266.rom size 32768 crc 9f6f1a74 )
+	rom ( name 10267.rom size 32768 crc a85bb823 )
+	rom ( name 10268.rom size 32768 crc 95344b04 )
+	rom ( name 10327a.rom size 65536 crc e28a5baf )
+	rom ( name 10329a.rom size 65536 crc da131c81 )
+	rom ( name 10330a.rom size 65536 crc ba9ec82a )
+	rom ( name 10381b size 65536 crc be8c412b )
+	rom ( name 10380b size 65536 crc 1f6cadad )
+	rom ( name 10382b size 65536 crc c4c3fa1a )
+	rom ( name 10383b size 65536 crc 10a2014a )
+	rom ( name orun_20.bin size 65536 crc c2825654 )
+)
+
+game (
+	name s-hangon
+	description "Super Hang-On (Mixed)"
+	rom ( name s-hangon.04 size 65536 crc 8f8f4af0 )
+	rom ( name s-hangon.05 size 65536 crc 9916c54b )
+	rom ( name s-hangon.08 size 65536 crc 000ad595 )
+	rom ( name s-hangon.09 size 65536 crc 070c8059 )
+	rom ( name s-hangon.26 size 32768 crc 1bbe4fc8 )
+	rom ( name s-hangon.29 size 32768 crc 12ee8716 )
+	rom ( name s-hangon.30 size 65536 crc d95e82fc )
+	rom ( name s-hangon.31 size 32768 crc 155e0cfd )
+	rom ( name s-hangon.32 size 65536 crc 2ee4b4fb )
+)
+
+game (
+	name shinobi
+	description "Shinobi"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)

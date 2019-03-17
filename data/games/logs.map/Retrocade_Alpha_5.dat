@@ -1,0 +1,6 @@
+game (
+	name superg
+	description "Super Galaxians"
+	rom ( name superg.u size 2048 crc e8f3aa67 )
+	rom ( name superg.v size 2048 crc f58283e3 )
+)

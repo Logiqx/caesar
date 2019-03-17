@@ -1,0 +1,410 @@
+game (
+	name 19xx
+	description "19XX: The War Against Destiny (US 951207)"
+	rom ( name 19xux.03 size 524288 crc 239a08ae )
+	rom ( name 19xux.04 size 524288 crc c13a1072 )
+	rom ( name 19xux.05 size 524288 crc 8c066ec3 )
+	rom ( name 19xux.06 size 524288 crc 4b1caeb9 )
+)
+
+game (
+	name aof
+	description "Art of Fighting / Ryuuko no Ken"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name aof_m1.rom size 131072 crc 981345f8 )
+)
+
+game (
+	name aof2
+	description "Art of Fighting 2 / Ryuuko no Ken 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name aof3
+	description "Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name armwar
+	description "Armored Warriors (US 941024)"
+	rom ( name pwgux.03b size 524288 crc 5d41ddde )
+	rom ( name pwgux.04b size 524288 crc 4d0619f3 )
+)
+
+game (
+	name avsp
+	description "Alien vs. Predator (Euro 940520)"
+	rom ( name avpex.03d size 524288 crc 73dd740e )
+	rom ( name avpex.04d size 524288 crc 185f8c43 )
+)
+
+game (
+	name batcirj
+	description "Battle Circuit (Japan 970319)"
+	rom ( name btcjx.03 size 524288 crc 01482d08 )
+	rom ( name btcjx.04 size 524288 crc 3d4c976b )
+	rom ( name btcjx.05 size 524288 crc 5bf819e1 )
+	rom ( name btcjx.06 size 524288 crc 5d2fd190 )
+)
+
+game (
+	name chikij
+	description "Chiki Chiki Boys (Japan)"
+	rom ( name ch_32.rom size 524288 crc 9b70bd41 )
+	rom ( name ch_gfx5.rom size 524288 crc 4ec75f15 )
+	rom ( name ch_gfx7.rom size 524288 crc d85d00d6 )
+	rom ( name ch_gfx1.rom size 524288 crc f33ca9d4 )
+	rom ( name ch_gfx3.rom size 524288 crc 0ba2047f )
+)
+
+game (
+	name csclubj
+	description "Capcom Sports Club (Japan 970722)"
+	rom ( name cscjx.03 size 524288 crc 2de1d45d )
+	rom ( name cscjx.04 size 524288 crc 81b25d76 )
+	rom ( name cscjx.05 size 524288 crc 5adb1c93 )
+	rom ( name cscjx.06 size 524288 crc f5558f79 )
+)
+
+game (
+	name ddtod
+	description "Dungeons & Dragons: Tower of Doom (US 940125)"
+	rom ( name dadux.03b size 524288 crc f59ee70c )
+	rom ( name dadux.04b size 524288 crc 622628ae )
+	rom ( name dadux.05b size 524288 crc 424bd6e3 )
+)
+
+game (
+	name ecofghtr
+	description "Eco Fighters (World 931203)"
+	rom ( name uecex.03 size 524288 crc e0ff3d51 )
+	rom ( name uecex.04 size 524288 crc b9f998e8 )
+	rom ( name uecex.05 size 524288 crc 12410260 )
+	rom ( name uecex.06 size 524288 crc d5b4b1a2 )
+)
+
+game (
+	name fatfury1
+	description "Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name ffry_m1.rom size 131072 crc a8603979 )
+)
+
+game (
+	name ffightj
+	description "Final Fight (Japan)"
+	rom ( name ff32-32m.bin size 524288 crc c747696e )
+)
+
+game (
+	name gpilots
+	description "Ghost Pilots"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name kof94
+	description "The King of Fighters '94"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name kof95
+	description "The King of Fighters '95"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name kof95_v1.rom size 4194304 crc 21469561 )
+	rom ( name kof95_c1.rom size 4194304 crc 33bf8657 )
+	rom ( name kof95_c2.rom size 4194304 crc f21908a4 )
+	rom ( name kof95_c3.rom size 4194304 crc 0cee1ddb )
+	rom ( name kof95_c4.rom size 4194304 crc 729db15d )
+)
+
+game (
+	name kof96
+	description "The King of Fighters '96"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name kof97
+	description "The King of Fighters '97"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name kof98
+	description "The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name maglord
+	description "Magician Lord (set 1)"
+	rom ( name magl_p1.rom size 524288 crc bd0a492d )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name msh
+	description "Marvel Super Heroes (US 951024)"
+	rom ( name mshux.03 size 524288 crc 10bfc357 )
+	rom ( name mshux.04 size 524288 crc 871f0863 )
+)
+
+game (
+	name mslug
+	description "Metal Slug - Super Vehicle-001"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name mslug2
+	description "Metal Slug 2 - Super Vehicle-001/II"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name mutnat
+	description "Mutation Nation"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name nam1975
+	description "NAM-1975"
+	rom ( name nam_s1.rom size 65536 crc 8ded55a5 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name nam_m1.rom size 65536 crc cd088502 )
+)
+
+game (
+	name nemoj
+	description "Nemo (Japan)"
+	rom ( name nm_32.rom size 524288 crc d6d1add3 )
+	rom ( name nm_gfx5.rom size 524288 crc 487b8747 )
+	rom ( name nm_gfx7.rom size 524288 crc 203dc8c6 )
+	rom ( name nm_gfx1.rom size 524288 crc 9e878024 )
+	rom ( name nm_gfx3.rom size 524288 crc bb01e6b6 )
+	rom ( name nm_09.rom size 65536 crc 0f4b0581 )
+)
+
+game (
+	name neodrift
+	description "Neo Drift Out - New Technology"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name pspikes2
+	description "Power Spikes II"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name pulstar
+	description "Pulstar"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name puzzledp
+	description "Puzzle De Pon"
+	rom ( name pdpon_s1.rom size 65536 crc 4a421612 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name samsho
+	description "Samurai Shodown / Samurai Spirits"
+	rom ( name samsh_p1.rom size 524288 crc 80aa6c97 )
+	rom ( name samsh_p2.rom size 524288 crc 71768728 )
+	rom ( name samsh_p3.rom size 524288 crc 38ee9ba9 )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name samsh_c5.rom size 524288 crc a2bb8284 )
+	rom ( name samsh_c6.rom size 524288 crc 4fa71252 )
+)
+
+game (
+	name samsho2
+	description "Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name sfa
+	description "Street Fighter Alpha: Warriors' Dreams (Euro 950727)"
+	rom ( name sfzex.03b size 524288 crc 505a1b4a )
+)
+
+game (
+	name sfa2
+	description "Street Fighter Alpha 2 (US 960306)"
+	rom ( name sz2ux.03 size 524288 crc 6bb6005f )
+	rom ( name sz2ux.04 size 524288 crc 74308a4b )
+)
+
+game (
+	name shinobi
+	description "Shinobi (set 1)"
+	rom ( name shinobi.a7 size 32768 crc 2457a7cf )
+)
+
+game (
+	name shocktro
+	description "Shock Troopers"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name socbrawl
+	description "Soccer Brawl"
+	rom ( name sbrl_s1.rom size 65536 crc 2db38c3b )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name sbrl_m1.rom size 65536 crc 2f38d5d3 )
+)
+
+game (
+	name sonicwi2
+	description "Aero Fighters 2 / Sonic Wings 2"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name spf2xj
+	description "Super Puzzle Fighter 2 X (Japan 960531)"
+	rom ( name pzfjx.03a size 524288 crc c2e3f231 )
+)
+
+game (
+	name ssf2
+	description "Super Street Fighter 2: The New Challengers (US 930911)"
+	rom ( name ssfux.03a size 524288 crc ec278279 )
+	rom ( name ssfux.04a size 524288 crc 6194d896 )
+	rom ( name ssfux.05 size 524288 crc aa846b9f )
+	rom ( name ssfux.06 size 524288 crc 235268c4 )
+	rom ( name ssfux.07 size 524288 crc e46e033c )
+)
+
+game (
+	name ssideki
+	description "Super Sidekicks / Tokuten Ou"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name strhoop
+	description "Street Hoop / Street Slam / Dunk Dream"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name shoop_m1.rom size 65536 crc 1a5f08db )
+	rom ( name shoop_v2.rom size 524288 crc b19884f8 )
+)
+
+game (
+	name striderj
+	description "Strider Hiryu (Japan set 1)"
+	rom ( name strider.09 size 65536 crc 2ed403bc )
+)
+
+game (
+	name tophuntr
+	description "Top Hunter - Roddy & Cathy"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name turfmast
+	description "Neo Turf Masters / Big Tournament Golf"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name vampj
+	description "Vampire: The Night Warriors (Japan 940705)"
+	rom ( name vamjx.03a size 524288 crc 2549f7bc )
+	rom ( name vamjx.04b size 524288 crc bb5a30a5 )
+)
+
+game (
+	name varthj
+	description "Varth - Operation Thunderstorm (Japan)"
+	rom ( name va_gfx5.rom size 524288 crc b1fb726e )
+	rom ( name va_gfx7.rom size 524288 crc 4c6588cd )
+	rom ( name va_gfx1.rom size 524288 crc 0b1ace37 )
+	rom ( name va_gfx3.rom size 524288 crc 44dfe706 )
+)
+
+game (
+	name varthu
+	description "Varth - Operation Thunderstorm (US)"
+	rom ( name vae_28a.rom size 131072 crc 7a0e0d25 )
+	rom ( name vae_33a.rom size 131072 crc f2365922 )
+	rom ( name vae_29a.rom size 131072 crc 5e2cd2c3 )
+	rom ( name vae_34a.rom size 131072 crc 3d9bdf83 )
+)
+
+game (
+	name viewpoin
+	description "Viewpoint"
+	rom ( name viewp_s1.rom size 65536 crc 6d0f146a )
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+	rom ( name viewp_m1.rom size 65536 crc d57bd7af )
+)
+
+game (
+	name wjammers
+	description "Windjammers / Flying Power Disc"
+	rom ( name ng-sfix.rom size 131072 crc 354029fc )
+	rom ( name ng-sm1.rom size 131072 crc 97cf998b )
+)
+
+game (
+	name wonder3
+	description "Wonder 3 (Japan)"
+	rom ( name 3wonders.05 size 524288 crc 86aef804 )
+	rom ( name 3wonders.07 size 524288 crc 4f057110 )
+	rom ( name 3wonders.01 size 524288 crc 902489d0 )
+	rom ( name 3wonders.03 size 524288 crc e35ce720 )
+	rom ( name 3wonders.06 size 524288 crc 13cb0e7c )
+	rom ( name 3wonders.08 size 524288 crc 1f055014 )
+	rom ( name 3wonders.02 size 524288 crc e9a034f4 )
+	rom ( name 3wonders.04 size 524288 crc df0eea8b )
+	rom ( name rt23.bin size 65536 crc 7d5a77a7 )
+)
+
+game (
+	name xmvsf
+	description "X-Men Vs. Street Fighter (US 961004)"
+	rom ( name xvsux.03h size 524288 crc 1539c639 )
+	rom ( name xvsux.04h size 524288 crc 68916b3f )
+)

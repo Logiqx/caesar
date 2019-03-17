@@ -1,0 +1,16 @@
+game (
+	name mcresta
+	description "Moon Cresta (Nichibutsu)"
+	rom ( name mcb size 2048 crc 528da705 )
+	rom ( name mcd size 2048 crc 5a4b17ea )
+	rom ( name mca size 2048 crc 4e79ff6b )
+	rom ( name mcc size 2048 crc e0edccbd )
+)
+
+game (
+	name scobra
+	description "Super Cobra (Stern)"
+	rom ( name scobra5c.bin size 2048 crc d4346959 )
+	rom ( name scobra5d.bin size 2048 crc cc025d95 )
+	rom ( name scobra5e.bin size 2048 crc 1628c53f )
+)
