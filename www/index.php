@@ -33,8 +33,8 @@
 			include("cutenews/show_news.php");
 			//include("cutenews/show_archives.php");
 
-			echo '<p><a title="RSS Feed" href="http://caesar.logiqx.com/cutenews/rss.php">';
-			echo '<img src="http://caesar.logiqx.com/cutenews/skins/images/rss_icon.gif" alt="rss" />';
+			echo '<p><a title="RSS Feed" href="cutenews/rss.php">';
+			echo '<img src="cutenews/skins/images/rss_icon.gif" alt="rss" />';
 			echo '</a></p>';
 
 			// Standard page footer (counter)
