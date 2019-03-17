@@ -1,0 +1,10 @@
+<h2>31 Oct 2010</h2>
+<table class="news">
+  <colgroup><!--Nutscrape--></colgroup>
+  <tr>
+    <th><strong>MAME 0.140</strong><br/><small>Posted by <a href="/info/about.shtml">logiqx</a></small></th>
+  </tr>
+  <tr>
+    <td>It was a busy summer in 2010 so it was unfortunate that I didn't have any time for this website. Anyway, autumn is here so I am going to try to get on top of things again.<br /><br />To get things started I have applied the updates for MAME v0.140.<br /><br />I have also removed the bad local links from archived news pages and fixed the SQL errors for Sil's Single Emulator (S.S.E.), Mr. Do!'s Castle, Mr. Do!'s Wild Ride and Xain'D Sleena Emulators.</td>
+  </tr>
+</table>
