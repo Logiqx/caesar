@@ -38,4 +38,9 @@
 	{
 		$www_root=$www_root . '../';
 	}
+
+	if ($www_root == "")
+	{
+		$www_root = "/";
+	}
 ?>

@@ -6,7 +6,7 @@
 			<tr>
 				<td>
 					<?php
-						echo '<p><a href="/"><img src="' . $www_root . 'resources/caesar_small.png" alt="CAESAR Logo" width="168" height="25"/></a></p>' . LF . LF;
+						echo '<p><a href="' . $www_root . '/"><img src="' . $www_root . 'resources/caesar_small.png" alt="CAESAR Logo" width="168" height="25"/></a></p>' . LF . LF;
 
 						echo INDENT . '<p><small>Catalogue of Arcade Emulation Software - the Absolute Reference</small></p>' . LF . LF;
 
