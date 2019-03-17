@@ -1,0 +1,12 @@
+
+emulator	amame	amiga	dummy	\N	\N	\N	Amiga MAME	0.29-0.35	22/09/2001	Amiga	Emulates far more than anything else!	A special version of MAME V0.29 featuring selected and improved drivers from MAME V0.30-V0.35. Features include frameskip, autoframeskip, no sound(!) and CGFX support (it is only for CGFX cards).	Dormant
+emulator_homepage	amame	http://pro.pc5.org/	\N
+emulator_author_link	amame	heinrich_tillack	\N	author
+
+emulator_features	amame	No	No	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	amame	Keyboard
+emulator_controller	amame	Joystick
+emulator_controller	amame	Mouse
+emulator_relative_link	amame	mame	port_of
+
+emulator_file	amame	Amiga MAME	Amame.lha

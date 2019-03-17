@@ -1,0 +1,14 @@
+
+emulator	fm_emu	sound	FM-EMU_v0.1	\N	\N	\N	FM-Emu (System 16 Sound Emulator)	0.1	07/02/1998	DOS	Sega System 16 Sound	Plays music from various System 16 game ROMs.	Dormant
+emulator_homepage	fm_emu	http://www.system16.com/	bad
+emulator_author_link	fm_emu	thierry_lescott	\N	author
+
+emulator_library_link	fm_emu	maze
+emulator_tool_link	fm_emu	djgpp
+emulator_tool_link	fm_emu	allegro
+emulator_tool_link	fm_emu	seal
+emulator_features	fm_emu	Yes	No	No	No	No	No	No	No	No	No	No	\N	\N
+emulator_controller	fm_emu	Keyboard
+emulator_author_link	fm_emu	li_jih_hwa	System 16 sound hardware emulation	contributor
+
+emulator_file	fm_emu	Player	fmemu01.zip

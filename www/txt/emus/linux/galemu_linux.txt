@@ -1,0 +1,12 @@
+
+emulator	galemu_linux	linux	dummy	\N	\N	\N	GalEmu (Linux)	40 beta 4	15/03/1999	Linux	Runs games that use the Galaxian/Pisces/Moon Cresta Hardware	\N	Dormant
+emulator_homepage	galemu_linux	http://galemu.emuunlim.com/	\N
+emulator_author_link	galemu_linux	barry_rodewald	\N	author
+
+emulator_library_link	galemu_linux	multiz80
+emulator_features	galemu_linux	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	galemu_linux	Keyboard
+emulator_relative_link	galemu_linux	galemu	port_of
+
+emulator_file	galemu_linux	Emulator for Linux (v0.40 beta 4)	GalEMU-0.40b4.tar.gz
+emulator_file	galemu_linux	Samples (shot.sam and backgrnd.sam)	galaxian.zip

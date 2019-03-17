@@ -1,0 +1,4 @@
+game	Jump_Bug_Emulator_v0.50	jumpbug	\N	\N	\N	\N	\N	Jump Bug (Rock-Ola, bootleg set 2)	1981	Rockola	\N	\N	\N	
+game_rom	Jump_Bug_Emulator_v0.50	jumpbug	jb1.prg	\N	\N	16384	b223fca9	471c7ad941b1c25bca287f1480a6f20b72c0f25f	\N	\N	\N	\N	\N	\N	
+game_rom	Jump_Bug_Emulator_v0.50	jumpbug	jb2.prg	\N	\N	10240	1b2eb25f	4800c0876292ce319e4e7fa7205ba5561dff86d4	\N	\N	\N	\N	\N	\N	
+game_rom	Jump_Bug_Emulator_v0.50	jumpbug	jb3.gfx	\N	\N	12288	44240cbe	b6908294031aac42a55abcaa1bb54cd986054b73	\N	\N	\N	\N	\N	\N	

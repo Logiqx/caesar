@@ -1,0 +1,17 @@
+
+emulator	crazy_climber	single	Crazy_Climber_Arcade_Machine_Emulator_v0.6	\N	\N	\N	Crazy Climber Arcade Machine Emulator	0.6	02/02/1997	DOS	Crazy Climber (Nichibutsu)	One of the single emulators Nicola wrote before starting MAME.	Discontinued
+emulator_homepage	crazy_climber	\N	none
+emulator_author_link	crazy_climber	nicola_salmoria	\N	author
+
+emulator_library_link	crazy_climber	z80em
+emulator_tool_link	crazy_climber	allegro
+emulator_tool_link	crazy_climber	djgpp
+emulator_tool_link	crazy_climber	seal
+emulator_features	crazy_climber	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	crazy_climber	Keyboard
+emulator_controller	crazy_climber	Joystick
+emulator_author_link	crazy_climber	lionel_theunissen	Information about the machine hardware (including palette) and ROM encryption scheme	contributor
+
+emulator_author_link	crazy_climber	andy_milne	Information on the sound roms.	contributor
+
+emulator_file	crazy_climber	Emulator	cc6.zip

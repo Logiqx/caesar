@@ -1,0 +1,15 @@
+game	Bally-Midway_Sounds_Good_Emulator_v0.2	spyhunt	\N	\N	\N	\N	\N	Spy Hunter [sound only]	1983	Bally Midway	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	spyhunt	csd_u7a.u7	\N	\N	8192	6e689fe7	38ad2e9f12b9d389fb2568ebcb32c8bd1ac6879e	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	spyhunt	csd_u17b.u17	\N	\N	8192	0d9ddce6	d955c0e67fc78b517cc229601ab4023cc5a644c2	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	spyhunt	csd_u8c.u8	\N	\N	8192	35563cd0	5708d374dd56758194c95118f096ea51bf12bf64	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	spyhunt	csd_u18d.u18	\N	\N	8192	63d3f5b1	5864a7e9b6bc3d2df6891d40965a7a0efbba6837	\N	\N	\N	\N	\N	\N	
+game	Bally-Midway_Sounds_Good_Emulator_v0.2	rampage	\N	\N	\N	\N	\N	Rampage [sound only]	1986	Bally Midway	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	rampage	ramp_u7.snd	\N	\N	32768	cffd7fa5	7c5cecce1d428f847fea37d53eb09c6f62055c6f	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	rampage	ramp_u17.snd	\N	\N	32768	e92c596b	4e2d87398f2e7b637cbad6cb16d832dfa8f8288c	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	rampage	ramp_u8.snd	\N	\N	32768	11f787e4	1fa195bf9169608099d17be5801738a4e17bec3d	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	rampage	ramp_u18.snd	\N	\N	32768	6b8bf5e1	aa8c0260dcd19a795bfc23197cd87348a685d20b	\N	\N	\N	\N	\N	\N	
+game	Bally-Midway_Sounds_Good_Emulator_v0.2	xenophob	\N	\N	\N	\N	\N	Xenophobe [sound only]	1987	Bally Midway	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	xenophob	xeno_snd.u7	\N	\N	65536	77561d15	8c23a9270d54be6380f2d23939b6c6d8c31e334b	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	xenophob	xeno_snd.u17	\N	\N	65536	837a1a71	d7d60ef1fd11e5e84dd1ffb9a077686bd2fb452e	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	xenophob	xeno_snd.u8	\N	\N	65536	6e2915c7	df1f35f6b743afbab0a3a29adce3639a8c9dc66f	\N	\N	\N	\N	\N	\N	
+game_rom	Bally-Midway_Sounds_Good_Emulator_v0.2	xenophob	xeno_snd.u18	\N	\N	65536	12492145	c891e86750e51d3b7b93fc96a9f5173fd7869756	\N	\N	\N	\N	\N	\N	

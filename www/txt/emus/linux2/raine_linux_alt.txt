@@ -1,0 +1,20 @@
+
+emulator	raine_linux_alt	linux2	dummy	\N	\N	\N	RAINE for Linux	20000819	21/09/2000	Linux	Mainly 68000+68020 Taito/Jaleco games	First Linux port of the wonderful RAINE emulator.	Discontinued
+emulator_homepage	raine_linux_alt	http://www.emulinks.de/	bad
+emulator_author_link	raine_linux_alt	ulrich_hecht	\N	author
+
+emulator_library_link	raine_linux_alt	starscream
+emulator_library_link	raine_linux_alt	multiz80
+emulator_tool_link	raine_linux_alt	djgpp
+emulator_tool_link	raine_linux_alt	nasm
+emulator_tool_link	raine_linux_alt	allegro
+emulator_tool_link	raine_linux_alt	seal
+emulator_tool_link	raine_linux_alt	eagle
+emulator_tool_link	raine_linux_alt	zlib
+emulator_features	raine_linux_alt	Yes	No	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	raine_linux_alt	Keyboard
+emulator_controller	raine_linux_alt	Joystick
+emulator_relative_link	raine_linux_alt	raine_linux	alt_version
+
+emulator_file	raine_linux_alt	Emulator	raine_bin.tar.gz
+emulator_file	raine_linux_alt	Source	raine_src.tar.gz

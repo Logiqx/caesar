@@ -1,0 +1,32 @@
+
+emulator	arcadeemu	multi	Arcade_Emulator_v0.7	\N	\N	\N	Arcade Emulator	0.7	14/02/1997	DOS	Mainly games on Galaxian/Pisces/Moon Cresta Hardware	Originally known as the Galaxian Emulator.	Discontinued
+emulator_homepage	arcadeemu	\N	none
+emulator_author_link	arcadeemu	robert_anschuetz	\N	author
+
+emulator_library_link	arcadeemu	z80em
+emulator_tool_link	arcadeemu	djgpp
+emulator_tool_link	arcadeemu	allegro
+emulator_features	arcadeemu	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	arcadeemu	Keyboard
+emulator_controller	arcadeemu	Joystick
+emulator_author_link	arcadeemu	martin_scragg	Help from his Moon Cresta Emulator	contributor
+
+emulator_author_link	arcadeemu	ville_laitinen	Help from his The End Emulator	contributor
+
+emulator_author_link	arcadeemu	john_butler	Frogger position info and color table	contributor
+
+emulator_author_link	arcadeemu	edward_massey	Speed up tips and Donkey Kong framework	contributor
+
+emulator_author_link	arcadeemu	jarek_burczynski	Bagman emulation	contributor
+
+emulator_author_link	arcadeemu	chuck_cochems	Sound input	contributor
+
+emulator_author_link	arcadeemu	richard_aird	Emulator Loader	contributor
+
+emulator_author_link	arcadeemu	richard_davies	Phoenix colour table	contributor
+
+emulator_author_link	arcadeemu	nicola_salmoria	Donkey Kong information and emulator framework	contributor
+
+emulator_author_link	arcadeemu	allard_van_der_bas	Emulator framework	contributor
+
+emulator_file	arcadeemu	Emulator	arcade7.zip

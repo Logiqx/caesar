@@ -1,0 +1,16 @@
+
+emulator	magex	multi	MageX_v0.8a	\N	\N	\N	MageX	0.8a	03/11/1997	Windows	Variety of games from the early 80's	Uses the old MAME samples (.sam format) for some games. Sample names in the MageX v0.8a data file (inside the Older Emus pack from www.logiqx.com) are believed to be correct. They were derived by examining the strings within the emulator executable and by running the emulator itself. Please do not question the data file validity, even if the samples here do not match the data file. They were the best that I could find but do not mean that the data file is incorrect!	Dormant
+emulator_homepage	magex	http://www.greenvillenc.com/home/edward/magex.htm	bad
+emulator_author_link	magex	edward_massey	\N	author
+
+emulator_tool_link	magex	msvc
+emulator_features	magex	Yes	No	No	No	Yes	No	No	No	No	Yes	No	No	No
+emulator_controller	magex	Keyboard
+emulator_controller	magex	Joystick
+emulator_file	magex	Emulator	magex08b.zip
+emulator_file	magex	Samples for Asteroids	asteroid.zip
+emulator_file	magex	Samples for Defender+Stargate	defender+stargate.zip
+emulator_file	magex	Samples for Donkey Kong	dkong.zip
+emulator_file	magex	Samples for Galaxian	galaxian.zip
+emulator_file	magex	Samples for Invaders	invaders.zip
+emulator_file	magex	Samples for Robotron	robotron.zip

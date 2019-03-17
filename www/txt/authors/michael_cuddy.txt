@@ -1,0 +1,13 @@
+
+author	michael_cuddy	Michael (Mike) Cuddy	\N
+author_email	michael_cuddy	mcuddy@fensende.com
+author_homepage	michael_cuddy	http://www.fensende.com/Users/mcuddy/	\N
+author_emulator_link	michael_cuddy	soundsgood	author
+
+author_emulator_link	michael_cuddy	gyruss	author
+
+author_emulator_link	michael_cuddy	kem	author
+
+author_emulator_link	michael_cuddy	timepilot	author
+
+author_emulator_link	michael_cuddy	retrocade	contributor

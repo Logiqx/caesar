@@ -1,0 +1,9 @@
+
+tool	midas	snd_libs	Housemarque Audio System	1.1.2	01/03/1998	MIDAS is a multichannel digital sound and music system, capable of playing an unlimited number of channels of digital sound on all supported platforms. It can play music modules, individual samples, and digital audio streams, in any combination.
+tool_homepage	midas	http://www.s2.org/hmqaudio/	\N
+tool_author_link	midas	jarno_paananen
+tool_author_link	midas	petteri_kangaslampi
+tool_emulator_link	midas	ace
+tool_emulator_link	midas	mameui
+tool_file	midas	MIDAS	midas112.zip
+tool_file	midas	MIDAS Source	midas112-src.zip

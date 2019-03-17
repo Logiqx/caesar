@@ -1,0 +1,9 @@
+
+emulator	t3em	mac	T3em_v1.00	\N	\N	\N	T3em	1.00	06/10/1996	Mac	Taito board type 3 games (Space Invaders etc)	For PPC and 68k based Macs	Dormant
+emulator_homepage	t3em	http://nemoto.tri6.net/	\N
+emulator_author_link	t3em	nemoto_yohei	\N	author
+
+emulator_features	t3em	Yes	No	?	?	No	No	?	No	No	Yes	No	No	No
+emulator_controller	t3em	Keyboard
+emulator_file	t3em	Emulator	t3em.sit.hqx
+emulator_file	t3em	ROMs (and required config files)	invaders.sit.hqx

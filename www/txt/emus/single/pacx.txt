@@ -1,0 +1,11 @@
+
+emulator	pacx	single	Pac-X_v0.2	\N	\N	\N	Pac-X	0.2	14/03/1999	Windows	Pac-Man in first person perspective	Another of the DX type games, Pac-X enables you to play Pac-Man in 3D.	Dormant
+emulator_homepage	pacx	http://pacx.retrogames.com/	bad
+emulator_author_link	pacx	mike_balfour	\N	author
+
+emulator_library_link	pacx	multiz80
+emulator_tool_link	pacx	msvc
+emulator_features	pacx	Yes	Yes (C++)	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	pacx	Keyboard
+emulator_file	pacx	Emulator	pacx02r.zip
+emulator_file	pacx	Source	pacx02s.zip

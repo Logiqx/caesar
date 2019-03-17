@@ -1,0 +1,9 @@
+
+author	brian_peek	Brian Peek	\N
+author_email	brian_peek	brian@ganksoft.com
+author_email	brian_peek	peekb@albany.net
+author_emulator_link	brian_peek	annoid	author
+
+author_emulator_link	brian_peek	dreampac	author
+
+author_emulator_link	brian_peek	retrocade	contributor

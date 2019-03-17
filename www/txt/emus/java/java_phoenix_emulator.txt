@@ -1,0 +1,8 @@
+
+emulator	java_phoenix_emulator	java	Java_Phoenix_Emulator_v0.40	\N	\N	\N	Java Phoenix Emulator	0.40	28/10/1997	Java	Phoenix (Amstar)	Based on the Pleiads Emulator by Richard Davies and uses code from Jasper (Java Spectrum Emulator)	Dormant
+emulator_homepage	java_phoenix_emulator	http://www.dcc.ufmg.br/~muriloq/pleiads	bad
+emulator_author_link	java_phoenix_emulator	murilo_queiroz	\N	author
+
+emulator_features	java_phoenix_emulator	Yes	Yes	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	java_phoenix_emulator	Keyboard
+emulator_file	java_phoenix_emulator	Emulator	jphx040.zip

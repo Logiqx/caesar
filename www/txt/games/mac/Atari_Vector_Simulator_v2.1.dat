@@ -1,0 +1,20 @@
+game	Atari_Vector_Simulator_v2.1	asteroid	\N	\N	\N	\N	\N	Asteroids (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	asteroid	035145.02	\N	\N	2048	0cc75459	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	asteroid	035144.02	\N	\N	2048	096ed35c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	asteroid	035143.02	\N	\N	2048	312caa02	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	asteroid	035127.02	\N	\N	2048	8b71fd9e	\N	\N	\N	\N	\N	\N	\N	
+game	Atari_Vector_Simulator_v2.1	astdelux	\N	\N	\N	\N	\N	Asteroids Deluxe (rev 2)	1980	Atari	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036430.02	\N	\N	2048	a4d7a525	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036431.02	\N	\N	2048	d4004aae	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036432.02	\N	\N	2048	6d720c41	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036433.03	\N	\N	2048	0dcc0be6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036800.02	\N	\N	2048	bb8cabe1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	astdelux	036799.01	\N	\N	2048	7d511572	\N	\N	\N	\N	\N	\N	\N	
+game	Atari_Vector_Simulator_v2.1	llander	\N	\N	\N	\N	\N	Lunar Lander (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034572.02	\N	\N	2048	b8763eea	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034571.02	\N	\N	2048	77da4b2f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034570.01	\N	\N	2048	2724e591	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034569.02	\N	\N	2048	72837a4e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034599.01	\N	\N	2048	355a9371	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034598.01	\N	\N	2048	9c4ffa68	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Atari_Vector_Simulator_v2.1	llander	034597.01	\N	\N	2048	\N	\N	\N	\N	nodump	\N	\N	\N	

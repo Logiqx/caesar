@@ -1,0 +1,4 @@
+
+author	julian_hall	Julian Hall (Jules)	\N
+author_email	julian_hall	jules@earthcorp.com
+author_tool_link	julian_hall	nasm

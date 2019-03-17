@@ -1,0 +1,7 @@
+
+author	scott_williams	Scott Williams	\N
+author_emulator_link	scott_williams	taito_legends	contributor
+
+author_emulator_link	scott_williams	taito_legends_ps2	contributor
+
+author_emulator_link	scott_williams	taito_legends_xbox	contributor

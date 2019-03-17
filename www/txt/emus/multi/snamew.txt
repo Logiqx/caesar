@@ -1,0 +1,16 @@
+
+emulator	snamew	multi	SNAME_v0.2	\N	\N	\N	SNAMEW (Simulation and Non-Arcade Machine Emulator)	0.2	26/06/2001	Windows	Pong and the gambling games taken out of MAME	Based on MAME v0.37 b15. Original version was by Rodimus Prime in Feb 2000.	Dormant
+emulator_homepage	snamew	http://www.geocities.com/dramamini/	\N
+emulator_author_link	snamew	brainkiller	\N	author
+
+emulator_tool_link	snamew	mingw
+emulator_tool_link	snamew	nasm
+emulator_tool_link	snamew	zlib
+emulator_features	snamew	Yes	No	Yes	No	No	Yes	Yes	No	Yes	Yes	\N	\N	Yes
+emulator_controller	snamew	Keyboard
+emulator_controller	snamew	Joystick
+emulator_relative_link	snamew	mame	modification_of
+
+emulator_relative_link	snamew	sname	port
+
+emulator_file	snamew	Emulator	sname02w.zip

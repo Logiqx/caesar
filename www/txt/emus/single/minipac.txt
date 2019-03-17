@@ -1,0 +1,12 @@
+
+emulator	minipac	single	Mini-Pac_v1.0	\N	\N	\N	Mini-Pac	1.0	24/01/99	Windows	PuckMan (Namco)	\N	Dormant
+emulator_homepage	minipac	http://pacx.retrogames.com/	bad
+emulator_author_link	minipac	mike_balfour	\N	author
+
+emulator_library_link	minipac	multiz80
+emulator_tool_link	minipac	msvc
+emulator_features	minipac	Yes	Yes (C++)	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	minipac	Keyboard
+emulator_relative_link	minipac	xpac	successor
+
+emulator_file	minipac	Emulator (Includes Source)	minpac10.zip

@@ -1,0 +1,13 @@
+
+emulator	invemu_linux	linux	dummy	\N	\N	\N	InvEmu (Linux)	2.0	12/02/2002	Linux	Space Invaders (Midway) and other games on similar hardware	Only the source code is available so you will need to compile it yourself (needs Allegro).	Dormant
+emulator_homepage	invemu_linux	http://javanx.host.sk/progs.htm	bad
+emulator_author_link	invemu_linux	javanx	\N	author
+
+emulator_library_link	invemu_linux	z80
+emulator_tool_link	invemu_linux	allegro
+emulator_features	invemu_linux	?	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	invemu_linux	Keyboard
+emulator_controller	invemu_linux	Joystick
+emulator_relative_link	invemu_linux	invemu	port_of
+
+emulator_file	invemu_linux	Emulator Source	invemu.tgz

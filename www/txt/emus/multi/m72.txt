@@ -1,0 +1,14 @@
+
+emulator	m72	multi	M72_v0.33b	\N	\N	\N	M72 Emulator	0.33 beta	10/10/1998	DOS	Irem M72 Games	By the co-author of the System 16 emulator. Faster than MAME and M72 has better sound than RAGE	Dormant
+emulator_homepage	m72	\N	none
+emulator_author_link	m72	li_jih_hwa	\N	author
+
+emulator_library_link	m72	multiz80
+emulator_tool_link	m72	djgpp
+emulator_tool_link	m72	nasm
+emulator_tool_link	m72	allegro
+emulator_tool_link	m72	seal
+emulator_features	m72	Yes	No	Yes	No	Yes	Yes	No	No	No	Yes	No	\N	\N
+emulator_controller	m72	Keyboard
+emulator_controller	m72	Joystick
+emulator_file	m72	Emulator	m72-033b.zip

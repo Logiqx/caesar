@@ -1,0 +1,10 @@
+
+emulator	btishger	single	Btishger_v0.31	\N	\N	\N	Btishger (Ishmair's Black Tiger Emulator)	0.31	17/06/1997	DOS	Black Tiger (Capcom)	It plays Black Tiger almost perfectly. The only problem is the text is hard to read.	Dormant
+emulator_homepage	btishger	\N	none
+emulator_author_link	btishger	ishmair	\N	author
+
+emulator_library_link	btishger	maze
+emulator_features	btishger	Yes	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	btishger	Keyboard
+emulator_controller	btishger	Joystick
+emulator_file	btishger	Emulator	btishger.zip

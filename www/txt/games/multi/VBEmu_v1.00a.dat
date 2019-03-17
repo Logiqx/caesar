@@ -1,0 +1,11 @@
+game	VBEmu_v1.00a	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	VBEmu_v1.00a	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	VBEmu_v1.00a	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	

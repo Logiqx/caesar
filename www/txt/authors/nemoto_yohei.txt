@@ -1,0 +1,6 @@
+
+author	nemoto_yohei	Nemoto Yohei (Root)	\N
+author_email	nemoto_yohei	nemoto@tri6.net
+author_emulator_link	nemoto_yohei	macmoon	author
+
+author_emulator_link	nemoto_yohei	t3em	author

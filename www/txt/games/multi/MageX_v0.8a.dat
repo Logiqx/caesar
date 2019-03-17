@@ -1,0 +1,689 @@
+game	MageX_v0.8a	asteroid	\N	\N	\N	\N	\N	Asteroids (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	MageX_v0.8a	asteroid	035145.02	\N	\N	2048	0cc75459	2af85c9689b878155004da47fedbde5853a18723	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	asteroid	035144.02	\N	\N	2048	096ed35c	064d680ded7f30c543f93ae5ca85f90d550f73e5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	asteroid	035143.02	\N	\N	2048	312caa02	1ce2eac1ab90b972e3f1fc3d250908f26328d6cb	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	asteroid	035127.02	\N	\N	2048	8b71fd9e	8cd5005e531eafa361d6b7e9eed159d164776c70	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	asteroid	explode1.sam	
+game_sample	MageX_v0.8a	asteroid	explode2.sam	
+game_sample	MageX_v0.8a	asteroid	explode3.sam	
+game_sample	MageX_v0.8a	asteroid	thrust.sam	
+game_sample	MageX_v0.8a	asteroid	thumphi.sam	
+game_sample	MageX_v0.8a	asteroid	thumplo.sam	
+game_sample	MageX_v0.8a	asteroid	fire.sam	
+game_sample	MageX_v0.8a	asteroid	lsaucer.sam	
+game_sample	MageX_v0.8a	asteroid	ssaucer.sam	
+game_sample	MageX_v0.8a	asteroid	sfire.sam	
+game_sample	MageX_v0.8a	asteroid	life.sam	
+game	MageX_v0.8a	astdelux	\N	\N	\N	\N	\N	Asteroids Deluxe (rev 2)	1980	Atari	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036430.02	\N	\N	2048	a4d7a525	abe262193ec8e1981be36928e9a89a8ac95cd0ad	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036431.02	\N	\N	2048	d4004aae	aa2099b8fc62a79879efeea70ea1e9ed77e3e6f0	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036432.02	\N	\N	2048	6d720c41	198218cd2f43f8b83e4463b1f3a8aa49da5015e4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036433.03	\N	\N	2048	0dcc0be6	bf10ffb0c4870e777d6b509cbede35db8bb6b0b8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036800.02	\N	\N	2048	bb8cabe1	cebaa1b91b96e8b80f2b2c17c6fd31fa9f156386	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	astdelux	036799.01	\N	\N	2048	7d511572	1956a12bccb5d3a84ce0c1cc10c6ad7f64e30b40	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	astdelux	explode1.sam	
+game_sample	MageX_v0.8a	astdelux	explode2.sam	
+game_sample	MageX_v0.8a	astdelux	explode3.sam	
+game_sample	MageX_v0.8a	astdelux	thrust.sam	
+game_sample	MageX_v0.8a	astdelux	thumphi.sam	
+game_sample	MageX_v0.8a	astdelux	thumplo.sam	
+game_sample	MageX_v0.8a	astdelux	fire.sam	
+game_sample	MageX_v0.8a	astdelux	lsaucer.sam	
+game_sample	MageX_v0.8a	astdelux	ssaucer.sam	
+game_sample	MageX_v0.8a	astdelux	sfire.sam	
+game_sample	MageX_v0.8a	astdelux	life.sam	
+game	MageX_v0.8a	defender	\N	\N	\N	\N	\N	Defender (Red label)	1980	Williams	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.1	\N	\N	2048	c3e52d7e	a57f5278ffe44248fc73f9925d107f4024ad981a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.4	\N	\N	2048	9a72348b	ed6ce796702ff32209ced3cb1ba3837dbafa526f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.2	\N	\N	4096	89b75984	a9481478da38f99efb67f0ecf82d084e14b93b42	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.3	\N	\N	4096	94f51e9b	a24cfc55de56a72758c76fe2a55f1ec6c353b16f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.9	\N	\N	2048	6870e8a5	67ccc194b1753a18af0c85f5e603355549c4f727	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.12	\N	\N	2048	f1f88938	26e48dfeefa0766837b1e762695b9532dbc8bc5e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.8	\N	\N	2048	b649e306	9d7bc3c89e5a53c575946f06702c722b864b1ff0	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.11	\N	\N	2048	9deaf6d9	59b018ba0f3fe6eadfd387dc180ac281460358bc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.7	\N	\N	2048	339e092e	2f89951dbe55d80df43df8dcf497171f73e726d3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.10	\N	\N	2048	a543b167	9292b94b0d74e57e03aada4852ad1997c34122ff	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.6	\N	\N	2048	65f4efd1	a960fd1559ed74b81deba434391e49fc6ec389ca	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	defender	defend.snd	\N	\N	2048	fefd5b48	ceb0d18483f0691978c604db94417e6941ad7ff2	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	defender	00.sam	
+game_sample	MageX_v0.8a	defender	01.sam	
+game_sample	MageX_v0.8a	defender	02.sam	
+game_sample	MageX_v0.8a	defender	03.sam	
+game_sample	MageX_v0.8a	defender	04.sam	
+game_sample	MageX_v0.8a	defender	05.sam	
+game_sample	MageX_v0.8a	defender	06.sam	
+game_sample	MageX_v0.8a	defender	07.sam	
+game_sample	MageX_v0.8a	defender	08.sam	
+game_sample	MageX_v0.8a	defender	09.sam	
+game_sample	MageX_v0.8a	defender	10.sam	
+game_sample	MageX_v0.8a	defender	11.sam	
+game_sample	MageX_v0.8a	defender	12.sam	
+game_sample	MageX_v0.8a	defender	13.sam	
+game_sample	MageX_v0.8a	defender	14.sam	
+game_sample	MageX_v0.8a	defender	15.sam	
+game_sample	MageX_v0.8a	defender	16.sam	
+game_sample	MageX_v0.8a	defender	17.sam	
+game_sample	MageX_v0.8a	defender	18.sam	
+game_sample	MageX_v0.8a	defender	19.sam	
+game_sample	MageX_v0.8a	defender	20.sam	
+game_sample	MageX_v0.8a	defender	21.sam	
+game_sample	MageX_v0.8a	defender	22.sam	
+game_sample	MageX_v0.8a	defender	23.sam	
+game_sample	MageX_v0.8a	defender	24.sam	
+game_sample	MageX_v0.8a	defender	25.sam	
+game_sample	MageX_v0.8a	defender	26.sam	
+game_sample	MageX_v0.8a	defender	27.sam	
+game_sample	MageX_v0.8a	defender	28.sam	
+game_sample	MageX_v0.8a	defender	29.sam	
+game_sample	MageX_v0.8a	defender	30.sam	
+game_sample	MageX_v0.8a	defender	31.sam	
+game_sample	MageX_v0.8a	defender	32.sam	
+game_sample	MageX_v0.8a	defender	33.sam	
+game_sample	MageX_v0.8a	defender	34.sam	
+game_sample	MageX_v0.8a	defender	35.sam	
+game_sample	MageX_v0.8a	defender	36.sam	
+game_sample	MageX_v0.8a	defender	37.sam	
+game_sample	MageX_v0.8a	defender	38.sam	
+game_sample	MageX_v0.8a	defender	39.sam	
+game_sample	MageX_v0.8a	defender	40.sam	
+game_sample	MageX_v0.8a	defender	41.sam	
+game_sample	MageX_v0.8a	defender	42.sam	
+game_sample	MageX_v0.8a	defender	43.sam	
+game_sample	MageX_v0.8a	defender	44.sam	
+game_sample	MageX_v0.8a	defender	45.sam	
+game_sample	MageX_v0.8a	defender	46.sam	
+game_sample	MageX_v0.8a	defender	47.sam	
+game_sample	MageX_v0.8a	defender	48.sam	
+game_sample	MageX_v0.8a	defender	49.sam	
+game_sample	MageX_v0.8a	defender	50.sam	
+game_sample	MageX_v0.8a	defender	51.sam	
+game_sample	MageX_v0.8a	defender	52.sam	
+game_sample	MageX_v0.8a	defender	53.sam	
+game_sample	MageX_v0.8a	defender	54.sam	
+game_sample	MageX_v0.8a	defender	55.sam	
+game_sample	MageX_v0.8a	defender	56.sam	
+game_sample	MageX_v0.8a	defender	57.sam	
+game_sample	MageX_v0.8a	defender	58.sam	
+game_sample	MageX_v0.8a	defender	59.sam	
+game_sample	MageX_v0.8a	defender	60.sam	
+game_sample	MageX_v0.8a	defender	61.sam	
+game_sample	MageX_v0.8a	defender	62.sam	
+game_sample	MageX_v0.8a	defender	63.sam	
+game	MageX_v0.8a	stargate	\N	\N	\N	\N	\N	Stargate	1981	Williams	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	01	\N	\N	4096	88824d18	f003a5a9319c4eb8991fa2aae3f10c72d6b8e81a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	02	\N	\N	4096	afc614c5	087c6da93318e8dc922d3d22e0a2af7b9759701c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	03	\N	\N	4096	15077a9d	7badb4318b208f49d7fa65e915d0aa22a1e37915	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	04	\N	\N	4096	a8b4bf0f	6b4d47c2899fe9f14f9dab5928499f12078c437d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	05	\N	\N	4096	2d306074	54f871983699113e31bb756d4ca885c26c2d66b4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	06	\N	\N	4096	53598dde	54b02d944caf95283c9b6f0160e75ea8c4ccc97b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	07	\N	\N	4096	23606060	a487ffcd4920d1056b87469735f7e1002f6a2e49	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	08	\N	\N	4096	4ec490c7	8726ebaf048db9608dfe365bf434ed5ca9452db7	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	09	\N	\N	4096	88187b64	efacc4a6d4b2af9a236c9d520de6d605c79cc5a8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	10	\N	\N	4096	60b07ff7	ba833f48ddfc1bd04ddb41b1d1c840d66ee7da30	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	11	\N	\N	4096	7d2c5daf	6ca39f493eb8b370154ad46ef01976d352c929e1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	12	\N	\N	4096	a0396670	c46872550e0ca031453c6513f8f0448ecc9b5572	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	stargate	sg.snd	\N	\N	2048	2fcf6c4d	9c4334ac3ff15d94001b22fc367af40f9deb7d57	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	stargate	00.sam	
+game_sample	MageX_v0.8a	stargate	01.sam	
+game_sample	MageX_v0.8a	stargate	02.sam	
+game_sample	MageX_v0.8a	stargate	03.sam	
+game_sample	MageX_v0.8a	stargate	04.sam	
+game_sample	MageX_v0.8a	stargate	05.sam	
+game_sample	MageX_v0.8a	stargate	06.sam	
+game_sample	MageX_v0.8a	stargate	07.sam	
+game_sample	MageX_v0.8a	stargate	08.sam	
+game_sample	MageX_v0.8a	stargate	09.sam	
+game_sample	MageX_v0.8a	stargate	10.sam	
+game_sample	MageX_v0.8a	stargate	11.sam	
+game_sample	MageX_v0.8a	stargate	12.sam	
+game_sample	MageX_v0.8a	stargate	13.sam	
+game_sample	MageX_v0.8a	stargate	14.sam	
+game_sample	MageX_v0.8a	stargate	15.sam	
+game_sample	MageX_v0.8a	stargate	16.sam	
+game_sample	MageX_v0.8a	stargate	17.sam	
+game_sample	MageX_v0.8a	stargate	18.sam	
+game_sample	MageX_v0.8a	stargate	19.sam	
+game_sample	MageX_v0.8a	stargate	20.sam	
+game_sample	MageX_v0.8a	stargate	21.sam	
+game_sample	MageX_v0.8a	stargate	22.sam	
+game_sample	MageX_v0.8a	stargate	23.sam	
+game_sample	MageX_v0.8a	stargate	24.sam	
+game_sample	MageX_v0.8a	stargate	25.sam	
+game_sample	MageX_v0.8a	stargate	26.sam	
+game_sample	MageX_v0.8a	stargate	27.sam	
+game_sample	MageX_v0.8a	stargate	28.sam	
+game_sample	MageX_v0.8a	stargate	29.sam	
+game_sample	MageX_v0.8a	stargate	30.sam	
+game_sample	MageX_v0.8a	stargate	31.sam	
+game_sample	MageX_v0.8a	stargate	32.sam	
+game_sample	MageX_v0.8a	stargate	33.sam	
+game_sample	MageX_v0.8a	stargate	34.sam	
+game_sample	MageX_v0.8a	stargate	35.sam	
+game_sample	MageX_v0.8a	stargate	36.sam	
+game_sample	MageX_v0.8a	stargate	37.sam	
+game_sample	MageX_v0.8a	stargate	38.sam	
+game_sample	MageX_v0.8a	stargate	39.sam	
+game_sample	MageX_v0.8a	stargate	40.sam	
+game_sample	MageX_v0.8a	stargate	41.sam	
+game_sample	MageX_v0.8a	stargate	42.sam	
+game_sample	MageX_v0.8a	stargate	43.sam	
+game_sample	MageX_v0.8a	stargate	44.sam	
+game_sample	MageX_v0.8a	stargate	45.sam	
+game_sample	MageX_v0.8a	stargate	46.sam	
+game_sample	MageX_v0.8a	stargate	47.sam	
+game_sample	MageX_v0.8a	stargate	48.sam	
+game_sample	MageX_v0.8a	stargate	49.sam	
+game_sample	MageX_v0.8a	stargate	50.sam	
+game_sample	MageX_v0.8a	stargate	51.sam	
+game_sample	MageX_v0.8a	stargate	52.sam	
+game_sample	MageX_v0.8a	stargate	53.sam	
+game_sample	MageX_v0.8a	stargate	54.sam	
+game_sample	MageX_v0.8a	stargate	55.sam	
+game_sample	MageX_v0.8a	stargate	56.sam	
+game_sample	MageX_v0.8a	stargate	57.sam	
+game_sample	MageX_v0.8a	stargate	58.sam	
+game_sample	MageX_v0.8a	stargate	59.sam	
+game_sample	MageX_v0.8a	stargate	60.sam	
+game_sample	MageX_v0.8a	stargate	61.sam	
+game_sample	MageX_v0.8a	stargate	62.sam	
+game_sample	MageX_v0.8a	stargate	63.sam	
+game	MageX_v0.8a	robotron	\N	\N	\N	\N	\N	Robotron (Solid Blue label)	1982	Williams	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb1	\N	\N	4096	66c7d3ef	f6d60e26c209c1df2cc01ac07ad5559daa1b7118	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb2	\N	\N	4096	5bc6c614	4d6e82bc29f49100f7751ccfc6a9ff35695b84b3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb3	\N	\N	4096	e99a82be	06a8c8dd0b4726eb7f0bb0e89c8533931d75fc1c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb4	\N	\N	4096	afb1c561	aaf89c19fd8f4e8750717169eb1af476aef38a5e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb5	\N	\N	4096	62691e77	79b4680ce19bd28882ae823f0e7b293af17cbb91	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb6	\N	\N	4096	bd2c853d	f76ec5432a7939b33a27be1c6855e2dbe6d9fdc8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb7	\N	\N	4096	49ac400c	06eae5138254723819a5e93cfd9e9f3285fcddf5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb8	\N	\N	4096	3a96e88c	7ae38a609ed9a6f62ca003cab719740ed7651b7c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sb9	\N	\N	4096	b124367b	fd9d75b866f0ebbb723f84889337e6814496a103	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sba	\N	\N	4096	13797024	d426a50e75dabe936de643c83a548da5e399331c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sbb	\N	\N	4096	7e3c1b87	f8c6cbe3688f256f41a121255fc08f575f6a4b4f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.sbc	\N	\N	4096	645d543e	fad7cea868ebf17347c4bc5193d647bbd8f9517b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	robotron	robotron.snd	\N	\N	4096	c56c1d28	15afefef11bfc3ab78f61ab046701db78d160ec3	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	robotron	00.sam	
+game_sample	MageX_v0.8a	robotron	01.sam	
+game_sample	MageX_v0.8a	robotron	02.sam	
+game_sample	MageX_v0.8a	robotron	03.sam	
+game_sample	MageX_v0.8a	robotron	04.sam	
+game_sample	MageX_v0.8a	robotron	05.sam	
+game_sample	MageX_v0.8a	robotron	06.sam	
+game_sample	MageX_v0.8a	robotron	07.sam	
+game_sample	MageX_v0.8a	robotron	08.sam	
+game_sample	MageX_v0.8a	robotron	09.sam	
+game_sample	MageX_v0.8a	robotron	10.sam	
+game_sample	MageX_v0.8a	robotron	11.sam	
+game_sample	MageX_v0.8a	robotron	12.sam	
+game_sample	MageX_v0.8a	robotron	13.sam	
+game_sample	MageX_v0.8a	robotron	14.sam	
+game_sample	MageX_v0.8a	robotron	15.sam	
+game_sample	MageX_v0.8a	robotron	16.sam	
+game_sample	MageX_v0.8a	robotron	17.sam	
+game_sample	MageX_v0.8a	robotron	18.sam	
+game_sample	MageX_v0.8a	robotron	19.sam	
+game_sample	MageX_v0.8a	robotron	20.sam	
+game_sample	MageX_v0.8a	robotron	21.sam	
+game_sample	MageX_v0.8a	robotron	22.sam	
+game_sample	MageX_v0.8a	robotron	23.sam	
+game_sample	MageX_v0.8a	robotron	24.sam	
+game_sample	MageX_v0.8a	robotron	25.sam	
+game_sample	MageX_v0.8a	robotron	26.sam	
+game_sample	MageX_v0.8a	robotron	27.sam	
+game_sample	MageX_v0.8a	robotron	28.sam	
+game_sample	MageX_v0.8a	robotron	29.sam	
+game_sample	MageX_v0.8a	robotron	30.sam	
+game_sample	MageX_v0.8a	robotron	31.sam	
+game_sample	MageX_v0.8a	robotron	32.sam	
+game_sample	MageX_v0.8a	robotron	33.sam	
+game_sample	MageX_v0.8a	robotron	34.sam	
+game_sample	MageX_v0.8a	robotron	35.sam	
+game_sample	MageX_v0.8a	robotron	36.sam	
+game_sample	MageX_v0.8a	robotron	37.sam	
+game_sample	MageX_v0.8a	robotron	38.sam	
+game_sample	MageX_v0.8a	robotron	39.sam	
+game_sample	MageX_v0.8a	robotron	40.sam	
+game_sample	MageX_v0.8a	robotron	41.sam	
+game_sample	MageX_v0.8a	robotron	42.sam	
+game_sample	MageX_v0.8a	robotron	43.sam	
+game_sample	MageX_v0.8a	robotron	44.sam	
+game_sample	MageX_v0.8a	robotron	45.sam	
+game_sample	MageX_v0.8a	robotron	46.sam	
+game_sample	MageX_v0.8a	robotron	47.sam	
+game_sample	MageX_v0.8a	robotron	48.sam	
+game_sample	MageX_v0.8a	robotron	49.sam	
+game_sample	MageX_v0.8a	robotron	50.sam	
+game_sample	MageX_v0.8a	robotron	51.sam	
+game_sample	MageX_v0.8a	robotron	52.sam	
+game_sample	MageX_v0.8a	robotron	53.sam	
+game_sample	MageX_v0.8a	robotron	54.sam	
+game_sample	MageX_v0.8a	robotron	55.sam	
+game_sample	MageX_v0.8a	robotron	56.sam	
+game_sample	MageX_v0.8a	robotron	57.sam	
+game_sample	MageX_v0.8a	robotron	58.sam	
+game_sample	MageX_v0.8a	robotron	59.sam	
+game_sample	MageX_v0.8a	robotron	60.sam	
+game_sample	MageX_v0.8a	robotron	61.sam	
+game_sample	MageX_v0.8a	robotron	62.sam	
+game_sample	MageX_v0.8a	robotron	63.sam	
+game	MageX_v0.8a	joust	\N	\N	\N	\N	\N	Joust (Solid Red label)	1982	Williams	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr1	\N	\N	4096	fe41b2af	0443e00ae2eb3e66cf805562ee04309487bb0ba4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr2	\N	\N	4096	501c143c	5fda266d43cbbf42eeae1a078b5209d9408ab99f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr3	\N	\N	4096	43f7161d	686da120aa4bd4a41f3d93e8c79ebb343977851a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr4	\N	\N	4096	ab347170	ad50c83fcfa958f2673cae04bd811095f9ee08c0	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr5	\N	\N	4096	c686bb6b	d9cac4c46820e1a451a145864bca7a35cfab7d37	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr6	\N	\N	4096	3d9a6fac	0c81394ae96a2fcfa4c953d38e43f3ef415fe4fc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr7	\N	\N	4096	0a70b3d1	eb78b694aa29f777f3c7e7104e568f865930c0ec	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr8	\N	\N	4096	a7f01504	0ca3211d060befc102bda2e97d163de7fb12a6f6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sr9	\N	\N	4096	978687ad	25e651af3e3be08d6293aab427a0843e9333a629	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.sra	\N	\N	4096	c0c6e52a	f14ff16195027f3e199e79e43741f0849c17fd10	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.srb	\N	\N	4096	ab11bcf9	efb09e92a621d6c4d6cde2f166e8c988c64d81ae	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.src	\N	\N	4096	ea14574b	7572d118b2343646054e558f0bd48e4959d84ce7	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	joust	joust.snd	\N	\N	4096	f1835bdd	af7c066d2949d36b87ea8c425ca7d12f82b5c653	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	joust	00.sam	
+game_sample	MageX_v0.8a	joust	01.sam	
+game_sample	MageX_v0.8a	joust	02.sam	
+game_sample	MageX_v0.8a	joust	03.sam	
+game_sample	MageX_v0.8a	joust	04.sam	
+game_sample	MageX_v0.8a	joust	05.sam	
+game_sample	MageX_v0.8a	joust	06.sam	
+game_sample	MageX_v0.8a	joust	07.sam	
+game_sample	MageX_v0.8a	joust	08.sam	
+game_sample	MageX_v0.8a	joust	09.sam	
+game_sample	MageX_v0.8a	joust	10.sam	
+game_sample	MageX_v0.8a	joust	11.sam	
+game_sample	MageX_v0.8a	joust	12.sam	
+game_sample	MageX_v0.8a	joust	13.sam	
+game_sample	MageX_v0.8a	joust	14.sam	
+game_sample	MageX_v0.8a	joust	15.sam	
+game_sample	MageX_v0.8a	joust	16.sam	
+game_sample	MageX_v0.8a	joust	17.sam	
+game_sample	MageX_v0.8a	joust	18.sam	
+game_sample	MageX_v0.8a	joust	19.sam	
+game_sample	MageX_v0.8a	joust	20.sam	
+game_sample	MageX_v0.8a	joust	21.sam	
+game_sample	MageX_v0.8a	joust	22.sam	
+game_sample	MageX_v0.8a	joust	23.sam	
+game_sample	MageX_v0.8a	joust	24.sam	
+game_sample	MageX_v0.8a	joust	25.sam	
+game_sample	MageX_v0.8a	joust	26.sam	
+game_sample	MageX_v0.8a	joust	27.sam	
+game_sample	MageX_v0.8a	joust	28.sam	
+game_sample	MageX_v0.8a	joust	29.sam	
+game_sample	MageX_v0.8a	joust	30.sam	
+game_sample	MageX_v0.8a	joust	31.sam	
+game_sample	MageX_v0.8a	joust	32.sam	
+game_sample	MageX_v0.8a	joust	33.sam	
+game_sample	MageX_v0.8a	joust	34.sam	
+game_sample	MageX_v0.8a	joust	35.sam	
+game_sample	MageX_v0.8a	joust	36.sam	
+game_sample	MageX_v0.8a	joust	37.sam	
+game_sample	MageX_v0.8a	joust	38.sam	
+game_sample	MageX_v0.8a	joust	39.sam	
+game_sample	MageX_v0.8a	joust	40.sam	
+game_sample	MageX_v0.8a	joust	41.sam	
+game_sample	MageX_v0.8a	joust	42.sam	
+game_sample	MageX_v0.8a	joust	43.sam	
+game_sample	MageX_v0.8a	joust	44.sam	
+game_sample	MageX_v0.8a	joust	45.sam	
+game_sample	MageX_v0.8a	joust	46.sam	
+game_sample	MageX_v0.8a	joust	47.sam	
+game_sample	MageX_v0.8a	joust	48.sam	
+game_sample	MageX_v0.8a	joust	49.sam	
+game_sample	MageX_v0.8a	joust	50.sam	
+game_sample	MageX_v0.8a	joust	51.sam	
+game_sample	MageX_v0.8a	joust	52.sam	
+game_sample	MageX_v0.8a	joust	53.sam	
+game_sample	MageX_v0.8a	joust	54.sam	
+game_sample	MageX_v0.8a	joust	55.sam	
+game_sample	MageX_v0.8a	joust	56.sam	
+game_sample	MageX_v0.8a	joust	57.sam	
+game_sample	MageX_v0.8a	joust	58.sam	
+game_sample	MageX_v0.8a	joust	59.sam	
+game_sample	MageX_v0.8a	joust	60.sam	
+game_sample	MageX_v0.8a	joust	61.sam	
+game_sample	MageX_v0.8a	joust	62.sam	
+game_sample	MageX_v0.8a	joust	63.sam	
+game	MageX_v0.8a	gng	\N	\N	\N	\N	\N	Ghosts'n Goblins (World? set 1)	1985	Capcom	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg3.bin	\N	\N	32768	9e01c65e	a87880d87c64a6d61313c3bc69c8d49511e0f9c3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg4.bin	\N	\N	16384	66606beb	4c640f49be93c7d2b12d4d4c56c56e74099b6c2f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg5.bin	\N	\N	32768	d6397b2b	39aa3cb8c229e60ac0ac410ff61e0c09dba78501	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg2.bin	\N	\N	32768	615f5b6f	7ef9ec5c2072e21c787a6bbf700033f50c759c1d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg1.bin	\N	\N	16384	ecfccf07	0a1518e19a2e0a4cc3dde4b9568202ea911b5ece	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg11.bin	\N	\N	16384	ddd56fa9	f9d77eee5e2738b7e83ba02fcc55dd480391479f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg10.bin	\N	\N	16384	7302529d	8434c994cc55d2586641f3b90b6b15fd65dfb67c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg9.bin	\N	\N	16384	20035bda	bbb1fba0eb19471f66d29526fa8423ccb047bd63	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg8.bin	\N	\N	16384	f12ba271	1c42fa02cb27b35d10c3f7f036005e747f9f6b79	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg7.bin	\N	\N	16384	e525207d	1947f159189b3a53f1251d8653b6e7c65c91fc3c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg6.bin	\N	\N	16384	2d77e9b2	944da1ce29a18bf0fc8deff78bceacba0bf23a07	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg17.bin	\N	\N	16384	93e50a8f	42d367f57bb2fdf60a0445ac1533da99cfeaa617	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg16.bin	\N	\N	16384	06d7e5ca	9e06012bcd82f98fad43de666ef9a75979d940ab	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg15.bin	\N	\N	16384	bc1fe02d	e3a1421d465b87148ffa94f5673b2307f0246afe	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg14.bin	\N	\N	16384	6aaf12f9	207a7407288182a4f3eddaea634c6a6452131182	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg13.bin	\N	\N	16384	e80c3fca	cb641c25bb04b970b2cbeca41adb792bbe142fb5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gng	gg12.bin	\N	\N	16384	7780a925	3f129ca6d695548b659955fe538584bd9ac2ff17	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	galagabl	\N	\N	\N	\N	\N	Gallag	1982	bootleg	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_1	\N	\N	4096	a3a0f743	6907773db7c002ecde5e41853603d53387c5c7cd	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_2	\N	\N	4096	5eda60a7	853d7b974dd04abd7af3a8ba2681dfabce4dce18	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_3	\N	\N	4096	753ce503	481f443aea3ed3504ec2f3a6bfcf3cd47e2f8f81	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_4	\N	\N	4096	83874442	366cb0dbd31b787e64f88d182108b670d03b393e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_5	\N	\N	4096	3102fccd	d29b68d6aab3217fa2106b3507b9273ff3f927bf	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_7	\N	\N	4096	8995088d	d6cb439de0718826d1a0363c9d77de8740b18ecf	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_6	\N	\N	4096	001b70bc	b465eee91e75257b7b049d49c0064ab5fd66c576	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_8	\N	\N	4096	169a98a4	edbeb11076061e744ea88d9899dbdfe0964c7e78	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_a	\N	\N	4096	ad447c80	e697c180178cabd1d32483c5d8889a40633f7857	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galagabl	galagabl.1_9	\N	\N	4096	dd6f1afc	c340ed8c25e0979629a9a1730edc762bd72d0cff	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	gyruss	\N	\N	\N	\N	\N	Gyruss (Centuri)	1983	Konami (Centuri license)	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gya-1.bin	\N	\N	8192	85f8b7c2	5dde696b53efedee671d500feae1d314e95b1c96	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gya-2.bin	\N	\N	8192	1e1a970f	5a2e391489608f7571bbb4f85549a79795e2177e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gya-3.bin	\N	\N	8192	f6dbb33b	19cab8e7f2f2358b6271ab402f132654e8be95d4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-11.bin	\N	\N	8192	f4ae1c17	ae568c96a31d910afe30d2b7eeb9ed1ed07290e3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-12.bin	\N	\N	8192	ba498115	9cd1f42898cc590f39ba7cb3c975b0b3d3062eba	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-13.bin	\N	\N	4096	3f9b5dea	6e807da02c2885b18e8cc2199f12f6be9040bf75	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-5.bin	\N	\N	8192	822bf27e	36d5bea2392a7d3476dd797dc05602705cfa23ef	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-6.bin	\N	\N	8192	27d8329b	564ff945465a23d93a93137ad277298770dfa06a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-10.bin	\N	\N	8192	c949db10	fcb8bcbd2bdd751fecb322a33c8a92fb6f07a7ab	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-9.bin	\N	\N	8192	4f22411a	763bcd039f8c1838a0d7da7d4dadc14a26e25596	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-8.bin	\N	\N	8192	47cd1fbc	8203c4ff0b1cd7b4dbc708e300bfeac1e7366e09	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	gyruss	gy-7.bin	\N	\N	8192	8e8d388c	8f2928d71c02aba977d67575d6e34d69bda2b9d4	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	mrdo	\N	\N	\N	\N	\N	Mr. Do! (Taito)	1982	Universal (Taito license)	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d1	\N	\N	8192	3dcd9359	bfe00450ee8822f437d87514f051ad1be6de9463	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d2	\N	\N	8192	710058d8	168cc179f2266bbf9437445bef9ff7d3358a8e6b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d3	\N	\N	8192	467d12d8	7bb85e6a780de1c0c224229ee571cab39098f78d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d4	\N	\N	8192	fce9afeb	26236a42c1c620975d4480c4315d0c6f112429b6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d9	\N	\N	4096	de4cfe66	c217dcc24305f3b4badfb778a1cf4e57c178d168	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d10	\N	\N	4096	a6c2f38b	7c132771bf385c8ed28d8c8bdfc3dbf0b4aa75e8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d8	\N	\N	4096	dbdc9ffa	93f29fc106283eecbba3fd69cf3c4658aa38ab9f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d7	\N	\N	4096	4b9973db	8766c51a345a5e63446e65614c6f665ab5fbe0d7	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d5	\N	\N	4096	e1218cc5	d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mrdo	d6	\N	\N	4096	b1f68b04	25709cd81c03df51f27cd730fecf86a1daa9e27e	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	pacman	\N	\N	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pacman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	bootleg	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	timeplt	\N	\N	\N	\N	\N	Time Pilot	1982	Konami	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm1	\N	\N	8192	1551f1b9	c72f30988ac00cbe6549b71c3bcb414511e8b997	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm2	\N	\N	8192	58636cb5	ab517efa93ae7be780af55faea82a6e83edd828c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm3	\N	\N	8192	ff4e0d83	ef98a1abb45b22d7498a0aca520f43bbee248b22	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm7	\N	\N	4096	d66da813	408fca4515e8af84211df3e204c8776b2f8adb23	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm6	\N	\N	8192	c2507f40	07221875e3f81d9def67c57a7ccd82d52ce65e01	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm4	\N	\N	8192	7e437c3e	cbe2ccd2cd503af62f009cd5aab73aa7366230b1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	timeplt	tm5	\N	\N	8192	e8ca87b9	5dd30d3fb9fd8cf9e6a8e37e7ea858c7fd038a7e	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	vanguard	\N	\N	\N	\N	\N	Vanguard (SNK)	1981	SNK	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic07.bin	\N	\N	4096	6a29e354	ff953962ebc14a28cfc96f8e269cb1e1c188ed8a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic08.bin	\N	\N	4096	302bba54	1944f229481328a0635fafda65054106f42a532a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic09.bin	\N	\N	4096	424755f6	b4762b40c7ed70d4b90319a1a30983a41a096afb	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic10.bin	\N	\N	4096	54603274	31571a560dbe300417b3ed5b114fa1d9ef742da9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic13.bin	\N	\N	4096	fde157d0	3f705fb6a410004f4f86283694e3694e49701af6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic14.bin	\N	\N	4096	0d5b47d0	922621c23f33fe756cb6baa12e5465c4e64f2dda	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic15.bin	\N	\N	4096	8549b8f8	375bc6f7e15564d5cf7e00c44e2651793c56d6ca	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic16.bin	\N	\N	4096	062e0be2	45aaf315a62f37460e32d3ba99caaacf4c994810	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk5_ic50.bin	\N	\N	2048	e7d4315b	b99e4ea07292a0eabaa6098037c92a5678627cec	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk5_ic51.bin	\N	\N	2048	96e87858	4e9ccb055919c8acf5837e062857647d5363af60	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic51.bin	\N	\N	2048	d2a64006	3f20b59ce1954f65535cd5603ca9271586428e35	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk4_ic52.bin	\N	\N	2048	cc4a0b6f	251b24d60083d516c4ba686d75b41e04d10f7198	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk6_ic07.bin	\N	\N	2048	2b7cbae9	3d44a0232d7c94d8170cc06e90cc30bd57c99202	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk6_ic08.bin	\N	\N	2048	3b7e9d7c	d9033188068b2aaa1502c89cf09f955eded8fa7a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	vanguard	sk6_ic11.bin	\N	\N	2048	c36df041	8b51934229b961180d1edb99be3a4d337d37f66f	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	frogger	\N	\N	\N	\N	\N	Frogger (Sega set 2)	1981	[Konami] (Sega license)	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.ic5	\N	\N	4096	efab0c79	68c99b6cdcb9396bb473739a62ffc009b4bf57d5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.ic6	\N	\N	4096	aeca9c13	cdf560adbd7f2813e86e378da7781cccf7928a44	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.ic7	\N	\N	4096	dd251066	4612e1fe1ab7182a277140b1a1976cc17e0746a5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.ic8	\N	\N	4096	bf293a02	be94e9f5caa74c3de6fd95bd20928f4a9c514227	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.608	\N	\N	2048	e8ab0256	f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.609	\N	\N	2048	7380a48f	75582a94b696062cbdb66a4c5cf0bc0bb94f81ee	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.610	\N	\N	2048	31d7eb27	2e1d34ae4da385fd7cac94707d25eeddf4604e1a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.606	\N	\N	2048	f524ee30	dd768967add61467baa08d5929001f157d6cd911	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	frogger	frogger.607	\N	\N	2048	05f7d883	78831fd287da18928651a8adb7e578d291493eff	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	mpatrol	\N	\N	\N	\N	\N	Moon Patrol (Williams)	1982	Irem (Williams license)	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-a.3m	\N	\N	4096	baa1a1d4	7968a7f221e7f4c9c81ddc8de17f6568e17b9ea8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-a.3l	\N	\N	4096	52459e51	ae685b7848baa1b87a3f2bce97356286171e16d4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-a.3k	\N	\N	4096	9b249fe5	c01e0d572c4c163f3cf4b2aa9f4246427811b78d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-a.3j	\N	\N	4096	fee76972	c3166b027f89f61964ead804d3c2da387454c4c2	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-snd.1a	\N	\N	4096	561d3108	4998c68a9e9a8002251fa8f07aa1082444a9dc80	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-e.3e	\N	\N	4096	f56e01fe	93f582d63b9cd5c6dca207aa57b213c939cdda1d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-e.3f	\N	\N	4096	caaba2d9	7016a26c2d01e3209749598e993cd8ce91f12c88	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-b.3m	\N	\N	4096	707ace5e	93c682e13e74bce29ced3a87bffb29569c114c3b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-b.3n	\N	\N	4096	9b72133a	1393ef92ae1ad58a4b62ca1660c0793d30a8b5e2	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-e.3l	\N	\N	4096	c46a7f72	8bb7c9acaf6833fb6c0575b015991b873a305a84	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-e.3k	\N	\N	4096	c7aa1fb0	14c6c76e1d0db2c0745e5d6d33ea6945fac8e9ee	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mpatrol	mp-e.3h	\N	\N	4096	a0919392	8a090cb8d483a3d67c7360058e3fdd70e151cd62	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	phoenix	\N	\N	\N	\N	\N	Phoenix (Taito)	1980	Taito	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.45	\N	\N	2048	5b8c55a8	839c1ca9766f730ec3accd48db70f6429a9c3362	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.46	\N	\N	2048	dbc942fa	9fe224e6ced407289dfa571468259a021d942b7d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.47	\N	\N	2048	cbbb8839	b7f449374cac111081559e39646f973e7e99fd64	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.48	\N	\N	2048	cb65eff8	63e674d680972d3744d66b943e8546f3b77ee6d4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.49	\N	\N	2048	c8a5d6d6	ef6ade323544e3edd4101609138ecf35e8cb9577	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.50	\N	\N	2048	ac5e9ec1	0402e5241d99759d804291998efd43f37ce99917	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.51	\N	\N	2048	2eab35b4	849bf8273317cc869bdd67e50c68399ee8ece81d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.52	\N	\N	2048	b9915263	f61396077b23364b5b26f62c6923394d23a37eb3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.23	\N	\N	2048	3c7e623f	e7ff5fc371664af44785c079e92eeb2d8530187b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.24	\N	\N	2048	59916d3b	71aec70a8e096ed1f0c2297b3ae7dca1b8ecc38d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.39	\N	\N	2048	53413e8f	d772358505b973b10da840d204afb210c0c746ec	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	phoenix	phoenix.40	\N	\N	2048	0be2ba91	af9243ee23377b632b9b7d0b84d341d06bf22480	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	pleiads	\N	\N	\N	\N	\N	Pleiads (Centuri)	1981	Tehkan (Centuri license)	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.47	\N	\N	2048	711e2ba0	62d9108b9066d3e2b99c712daf2b9412704970cc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.48	\N	\N	2048	93a36943	7cb4a9e8b60e28415df8401373ff4e595eaab7f5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.49	\N	\N	2048	87e700bb	0f352b5461da957c564920fd1da83bc81f41ffb9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.50	\N	\N	2048	5a9beba0	e9cf03c88d8db2a7cf97877a103cfdd1fe3f459e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.51	\N	\N	2048	1d828719	54857a3de9f4c9c5f18b0d46cf428b4171f839e9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.52	\N	\N	2048	f1a8a00d	5c183e3a73fa882ffec3cb9219fb5619e625591a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.53	\N	\N	2048	037b319c	2ff7a7777a63326e2abca2d1881df33a8e3f8561	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.54	\N	\N	2048	ca264c7c	3a6adfaa935a1a11cb62e73b9f43b228b711c2da	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.45	\N	\N	2048	8dbd3785	700cb9eb8ea64be99d843910cebcd29d601ab2e9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.44	\N	\N	2048	0db3e436	cd1825775b0a10df66d2ccc01cb4b6a9a3d2141a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.27	\N	\N	2048	85866607	cd240bd056f761b2f9e2142049434f02cae3e315	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pleiads	pleiades.26	\N	\N	2048	a841d511	8349008ab1d8ef08775b54170c37deb1d391fffc	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	dkong	\N	\N	\N	\N	\N	Donkey Kong (US)	1981	Nintendo of America	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.5e	\N	\N	4096	ba70b88b	d76ebecfea1af098d843ee7e578e480cd658ac1a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.5c	\N	\N	4096	5ec461ec	acb11a8fbdbb3ab46068385fe465f681e3c824bd	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.5b	\N	\N	4096	1c97d324	c7966261f3a1d3296927e0b6ee1c58039fc53c1f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.5a	\N	\N	4096	b9005ac0	3fe3599f6fa7c496f782053ddf7bacb453d197c4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.3h	\N	\N	2048	45a4ed06	144d24464c1f9f01894eb12f846952290e6e32ef	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.3f	\N	\N	2048	4743fe92	6c82b57637c0212a580591397e6a5a1718f19fd2	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.3n	\N	\N	2048	12c8c95d	a57ff5a231c45252a63b354137c920a1379b70a3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.3p	\N	\N	2048	15e9c5e9	976eb1e18c74018193a35aa86cff482ebfc5cc4e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.7c	\N	\N	2048	59f8054d	793dba9bf5a5fe76328acdfb90815c243d2a65f1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.7d	\N	\N	2048	672e4714	92e5d379f4838ac1fa44d448ce7d142dae42102f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.7e	\N	\N	2048	feaa59ee	ecf95db5a20098804fc8bd59232c66e2e0ed3db4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkong	dk.7f	\N	\N	2048	20f2ef7e	3bc482a38bf579033f50082748ee95205b0f673d	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	dkong	effect00.sam	
+game_sample	MageX_v0.8a	dkong	effect01.sam	
+game_sample	MageX_v0.8a	dkong	effect02.sam	
+game_sample	MageX_v0.8a	dkong	effect03.sam	
+game_sample	MageX_v0.8a	dkong	effect04.sam	
+game_sample	MageX_v0.8a	dkong	effect05.sam	
+game_sample	MageX_v0.8a	dkong	tune01.sam	
+game_sample	MageX_v0.8a	dkong	tune02.sam	
+game_sample	MageX_v0.8a	dkong	tune03.sam	
+game_sample	MageX_v0.8a	dkong	tune04.sam	
+game_sample	MageX_v0.8a	dkong	tune05.sam	
+game_sample	MageX_v0.8a	dkong	tune06.sam	
+game_sample	MageX_v0.8a	dkong	tune07.sam	
+game_sample	MageX_v0.8a	dkong	tune08.sam	
+game_sample	MageX_v0.8a	dkong	tune09.sam	
+game_sample	MageX_v0.8a	dkong	tune0b.sam	
+game_sample	MageX_v0.8a	dkong	tune0c.sam	
+game_sample	MageX_v0.8a	dkong	tune0d.sam	
+game_sample	MageX_v0.8a	dkong	tune0e.sam	
+game_sample	MageX_v0.8a	dkong	tune0f.sam	
+game_sample	MageX_v0.8a	dkong	interupt.sam	
+game	MageX_v0.8a	dkongjr	\N	\N	\N	\N	\N	Donkey Kong Junior (US)	1982	Nintendo of America	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.5b	\N	\N	8192	dea28158	08baf84ae6f9b40a2c743fe1d8c158c74a40e95a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.5c	\N	\N	8192	6fb5faf6	ce1cfde71a9e2a8b5896a6301d386f72869a1d2e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.5e	\N	\N	8192	d042b6a8	57ac237d273496b44220b4437118115ef11dbd9f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.3h	\N	\N	4096	715da5f8	f708c3fd374da65cbd9fe2e191152f5d865414a0	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.3n	\N	\N	4096	8d51aca9	64887564b079d98e98aafa53835e398f34fe4e3f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.3p	\N	\N	4096	4ef64ba5	41a7a4005087951f57f62c9751d62a8c495e6bb3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.7c	\N	\N	2048	dc7f4164	07a6242e95b5c3b8dfdcd4b4950f463dba16dd77	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.7d	\N	\N	2048	0ce7dcf6	0654b77526c49f0dfa077ac4f1f69cf5cb2e2f64	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.7e	\N	\N	2048	24d1ff17	696854bf3dc5447d33b4815db357e6ce3834d867	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	dkongjr	dkj.7f	\N	\N	2048	0f8c083f	0b688ae9da296b2447fffa5e135fd6a56ec3e790	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	dkongjr	effect00.sam	
+game_sample	MageX_v0.8a	dkongjr	effect01.sam	
+game_sample	MageX_v0.8a	dkongjr	effect02.sam	
+game_sample	MageX_v0.8a	dkongjr	effect03.sam	
+game_sample	MageX_v0.8a	dkongjr	effect04.sam	
+game_sample	MageX_v0.8a	dkongjr	effect05.sam	
+game_sample	MageX_v0.8a	dkongjr	tune01.sam	
+game_sample	MageX_v0.8a	dkongjr	tune02.sam	
+game_sample	MageX_v0.8a	dkongjr	tune03.sam	
+game_sample	MageX_v0.8a	dkongjr	tune04.sam	
+game_sample	MageX_v0.8a	dkongjr	tune05.sam	
+game_sample	MageX_v0.8a	dkongjr	tune06.sam	
+game_sample	MageX_v0.8a	dkongjr	tune07.sam	
+game_sample	MageX_v0.8a	dkongjr	tune08.sam	
+game_sample	MageX_v0.8a	dkongjr	tune09.sam	
+game_sample	MageX_v0.8a	dkongjr	tune0b.sam	
+game_sample	MageX_v0.8a	dkongjr	tune0c.sam	
+game_sample	MageX_v0.8a	dkongjr	tune0d.sam	
+game_sample	MageX_v0.8a	dkongjr	tune0e.sam	
+game_sample	MageX_v0.8a	dkongjr	tune0f.sam	
+game_sample	MageX_v0.8a	dkongjr	interupt.sam	
+game	MageX_v0.8a	mario	\N	\N	\N	\N	\N	Mario Bros. (US)	1983	Nintendo of America	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7f	\N	\N	8192	c0c6e014	36a04f9ca1c2a583477cb8a6f2ef94e044e08296	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7e	\N	\N	8192	116b3856	e372f846d0e5a2b9b47ebd0330293fcc8a12363f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7d	\N	\N	8192	dcceb6c1	b19804e69ce2c98cf276c6055c3a250316b96b45	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7c	\N	\N	4096	4a63d96b	b09060b2c84ab77cc540a27b8f932cb60ec8d442	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.3f	\N	\N	4096	28b0c42c	46749568aff88a28c3b6a1ac423abd1b90742a4d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.3j	\N	\N	4096	0c8cc04d	15fae47d701dc1ef15c943cee6aa991776ecffdf	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7m	\N	\N	4096	22b7372e	4a1c1e239cb6d483e76f50d7a3b941025963c6a3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7n	\N	\N	4096	4f3a1f47	0747d693b9482f6dd28b0bc484fd1d3e29d35654	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7p	\N	\N	4096	56be6ccd	15a6e16c189d45f72761ebcbe9db5001bdecd659	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7s	\N	\N	4096	56f1d613	9af6844dbaa3615433d0595e9e85e72493e31a54	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7t	\N	\N	4096	641f0008	589fe108c7c11278fd897f2ded8f0498bc149cfd	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	mario	mario.7u	\N	\N	4096	7baf5309	d9194ff7b89a18273d37b47228fc7fb7e2a0ed1f	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	scramble	\N	\N	\N	\N	\N	Scramble (Stern)	1981	[Konami] (Stern license)	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2d	\N	\N	2048	b89207a1	5422df979e82bcc73df49f50515fe76c126c037b	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2e	\N	\N	2048	e9b4b9eb	a8ee9ddfadf5e9accedfaf81da757a88a2e55a0a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2f	\N	\N	2048	a1f14f4c	3eae2b3e4596505a8afb5c5cfb108e823c2c4319	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2h	\N	\N	2048	591bc0d9	170f9e92f0a3bee04407be27210b4fa825367688	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2j	\N	\N	2048	22f11b6b	e426ef6a7444a39a34d59799973b07d11b89f372	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2l	\N	\N	2048	705ffe49	174df3f281068c767344f751daace646360e26d6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2m	\N	\N	2048	ea26c35c	a2f3380982d93a022f46756f974fd16c4cd617de	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	2p	\N	\N	2048	94d8f5e3	f3a9c4d1d91836476fcad87ea0d243dde7171e0a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	5c	\N	\N	2048	bcd297f0	8ed78487d76fd0a917ab7b258937a46e2cd9800c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	5d	\N	\N	2048	de7912da	8558b4eff5d7e63029b325edef9914feda5834c3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	5e	\N	\N	2048	ba2fa933	1f976d8595706730e29f93027e7ab4620075c078	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	5f	\N	\N	2048	5f30311a	d64134089bebd995b3a1a089411e180c8c29f32d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	scramble	5h	\N	\N	2048	516e029e	81b44eb1ce43cebde87f0a41ade2e7eb291af78d	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	theend	\N	\N	\N	\N	\N	The End (Stern)	1980	[Konami] (Stern license)	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic13	\N	\N	2048	90e5ab14	b926801ab1cc1e2787a76ced6c7cffd6fce753d4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic14	\N	\N	2048	950f0a07	bde9f3c6cf060dc6f5b7652287b94e04bed7bcf7	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic15	\N	\N	2048	6786bcf5	7556d3dc51d6a112b6357b8a36df05fd1a4d1cc9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic16	\N	\N	2048	380a0017	3354eb328a32537f722fe8a0949ddcab6cf21eb8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic17	\N	\N	2048	af067b7f	855c6ddf29fbfea004c7143fe29064abf53801ad	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic18	\N	\N	2048	a0411b93	d644968758a1b73d13e09b24d24bfec82276e8f4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic56	\N	\N	2048	3b2c2f70	bcccdacacfc9a3b5f1412dfba6bb0046d283bccc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic55	\N	\N	2048	e0429e50	27678fc3172cbca3ae1eae96e9d8a62561d5ce40	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic30	\N	\N	2048	527fd384	92a384899d5acd2c689f637da16a0e2d11a9d9c6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	theend	ic31	\N	\N	2048	af6d09b6	f3ad51dc88aa58fd39195ead978b039e0b0b585c	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	centi	\N	\N	\N	\N	\N	Centipede (revision 3)	1980	Atari	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.307	\N	\N	2048	5ab0d9de	8ea6e3304202831aabaf31dbd0f970a7b3bfe421	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.308	\N	\N	2048	4c07fd3e	af4fdbf32c23b1864819d620a874e7f205da3cdb	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.309	\N	\N	2048	ff69b424	689fa560d40a384dcbcad7c8095bc12e91875580	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.310	\N	\N	2048	44e40fa4	c557db83876afc8ab52047ab1a3c3bfef34d6351	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.211	\N	\N	2048	880acfb9	6c862352c329776f2f9974a0df9dbe41f9dbc361	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	centi	136001.212	\N	\N	2048	b1397029	974c03d29aeca672fffa4dfc00a06be6a851aacb	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	MageX_v0.8a	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	invaders	0.raw	
+game_sample	MageX_v0.8a	invaders	1.raw	
+game_sample	MageX_v0.8a	invaders	2.raw	
+game_sample	MageX_v0.8a	invaders	3.raw	
+game_sample	MageX_v0.8a	invaders	4.raw	
+game_sample	MageX_v0.8a	invaders	5.raw	
+game_sample	MageX_v0.8a	invaders	6.raw	
+game_sample	MageX_v0.8a	invaders	7.raw	
+game_sample	MageX_v0.8a	invaders	8.raw	
+game	MageX_v0.8a	pengo	\N	\N	\N	\N	\N	Pengo (set 2 not encrypted)	1982	Sega	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u8	\N	\N	4096	3dfeb20e	a387b72501da77bf38b58619d2099083a0463e1f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u7	\N	\N	4096	1db341bd	d1c66bb9cf479e6960dbcd35c820097a81eaa555	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u15	\N	\N	4096	7c2842d5	a8a568da68babd0ccb9f2cee4182fc01c3138494	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u14	\N	\N	4096	6e3c1f2f	2ee821b0f6e0f3cfeae7f5ff25a6e9bd977efce0	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u20	\N	\N	4096	0fdb04b8	ed814d58318c1055e475ff678609d189727bf9b4	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u31	\N	\N	4096	13de47ed	332b484d47c9921ed93432755bb2d7a9d4628939	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.u92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	pengo	pengo.105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	ladybug	\N	\N	\N	\N	\N	Lady Bug	1981	Universal	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb1.cpu	\N	\N	4096	d09e0adb	ddc1f849cbcefb64b70a26c2a4c993f0516af814	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb2.cpu	\N	\N	4096	88bc4a0a	193c9f90b7550020c0923cb158dff7d5faa53bc6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb3.cpu	\N	\N	4096	53e9efce	1960e9cd896b6a65197aefc3f10348103552b598	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb4.cpu	\N	\N	4096	ffc424d7	2a4b9533e61e265bdd38c126add8c26d5bc048d5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb5.cpu	\N	\N	4096	ad6af809	276275d56c725b9d90eeb44c317ceb06bac27ae7	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb6.cpu	\N	\N	4096	cf1acca4	c05de7de4bd05d5c2af6aa752e057a9286f3effc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb9.vid	\N	\N	4096	77b1da1e	58cb82417396a3d96acfc864f091b1a5988f228d	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb10.vid	\N	\N	4096	aa82e00b	83a5b745e58844b6dd7d05dfe9dbb5959aaf5c40	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb8.cpu	\N	\N	4096	8b99910b	0bc812cf872f04eacedb50feed53f1aa8a1f24b9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	ladybug	lb7.cpu	\N	\N	4096	86a5b448	f8585a6fcf921e3e21f112dd2de474cb53cef290	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	crush	\N	\N	\N	\N	\N	Crush Roller (Kural Samno)	1981	Kural Samno Electric	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr4	\N	\N	2048	90b28fa3	ff58d2dfb016397daabe2996bc3a7b63d28a4cca	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr2	\N	\N	2048	25f42e70	66de8203c364fd90e8a2b5749c2e40665b2f5830	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr3	\N	\N	2048	8377b4cb	f828a177f22db9093a00c31e39e16214ce0dc6de	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr1	\N	\N	2048	f276592e	68ebb7d9f70af868d99ec42c26bc55a54ba1f22c	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr5	\N	\N	2048	3d302abe	8ca5cd82d099b55e20f785489158231a1d99a430	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr6	\N	\N	2048	98279cbe	84b5e64bdbc25afab9b6f53e1719640e21a6feba	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr7	\N	\N	2048	d8e76c8c	7c3d7eb07b9256130141f71eba722f7823fd4c32	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cr8	\N	\N	2048	10854e1b	b3b9066d9a43796185c00ae12f7bb2bbf42e3a07	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	crb	\N	\N	2048	d1899f05	dce755511b6262b984a2bca329f454892e486a09	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	crc	\N	\N	2048	e129d76a	c9256795c6d0929ade1f24b372dadc2a2b88d897	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	cra	\N	\N	2048	c7617198	95b204af0345163f93811cc770ee0ca2851a39c1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	crush	crd	\N	\N	2048	d35d1caf	65dd7861e05651485626465dc97215fed58db551	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	carnival	\N	\N	\N	\N	\N	Carnival (upright)	1980	Sega	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu33.bin	\N	\N	1024	9f2736e6	c3fb9197b5e83dc7d5335de2268e0acb30cf8328	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu32.bin	\N	\N	1024	a1f58beb	e027beca7bf3ef5ef67e2195f909332fd194b5dc	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu31.bin	\N	\N	1024	67b17922	46cdfd0371dec61a5440c2111660729c0f0ecdb8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu30.bin	\N	\N	1024	befb09a5	da44b6a869b5eb0705e01fee4478696f6bef9de8	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu29.bin	\N	\N	1024	623fcdad	35890964f5cf799c141002916641089ccec0fcc9	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu28.bin	\N	\N	1024	53040332	ff7a06d93cb890abf0616770774668396d128ba3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu27.bin	\N	\N	1024	f2537467	262b859098f4f7e5e9bf2f83bda833044824226e	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu26.bin	\N	\N	1024	fcc3854e	7adbd6ca6f636dec75fa6eccdf3381686e074bc6	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu8.bin	\N	\N	1024	28be8d69	2d9ac9a53f00fe2282e4317585e6bddadb676c0f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu7.bin	\N	\N	1024	3873ccdb	56be81fdee8947758ba966915c0739e5560a7f94	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu6.bin	\N	\N	1024	d9a96dff	0366acf3418901bfeeda59d4cd51fe8ceaad4577	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu5.bin	\N	\N	1024	d893ca72	564176ab7f3757d51db8eef9fbc4228fa2ce328f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu4.bin	\N	\N	1024	df8c63c5	e8d0632b5cb5bd7f698485531f3edeb13efdc685	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu3.bin	\N	\N	1024	689a73e8	b4134e8d892df7ba3352e4d3f581923decae6e54	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu2.bin	\N	\N	1024	28e7b2b6	57eb5dd0f11da8ff8001e76036264246d6bc27d2	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	carnival	carnu1.bin	\N	\N	1024	4eec7fae	cdc858165136c55b01511805c9d4dc6bc598fe1f	\N	\N	\N	\N	\N	\N	
+game	MageX_v0.8a	galaxian	\N	\N	\N	\N	\N	Galaxian (Namco)	1979	Namco	\N	\N	\N	
+game_rom	MageX_v0.8a	galaxian	1h	\N	\N	2048	39fb43a4	4755609bd974976f04855d51e08ec0d62ab4bc07	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galaxian	1k	\N	\N	2048	7e3f56a2	a9795d8b7388f404f3b0e2c6ce15d713a4c5bafa	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galaxian	7f	\N	\N	4096	b10533fd	ea8653e80000d607cd37a41f2de27ffe6e190f0f	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galaxian	7j	\N	\N	4096	9163454d	683ce43c0e24fd5110b860e424e5de30d59e5223	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galaxian	7l	\N	\N	4096	952c6135	e0989d5dce37ae421c34833d48b09e76d178680d	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	galaxian	shot.sam	
+game	MageX_v0.8a	galmidw	\N	\N	\N	\N	\N	Galaxian (Midway)	1979	[Namco] (Midway license)	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.u	\N	\N	2048	745e2d61	e65f74e35b1bfaccd407e168ea55678ae9b68edf	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.v	\N	\N	2048	9c999a40	02fdcd95d8511e64c0d2b007b874112d53e41045	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.w	\N	\N	2048	b5894925	0046b9ed697a34d088de1aead8bd7cbe526a2396	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.y	\N	\N	2048	6b3ca10b	18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.z	\N	\N	2048	cb24f797	e6bb977ded0654c2c7388aad188059e1e0647908	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.1j	\N	\N	2048	84decf98	2e565cb6057b1816a6b4541e6dfadd3c3762fa36	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galmidw	galaxian.1k	\N	\N	2048	c31ada9e	237ebb48549b34ca59a13cc2706512d957413ec4	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	galmidw	shot.sam	
+game	MageX_v0.8a	galnamco	\N	\N	\N	\N	\N	Galaxian (Namco, modified)	1979	hack	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.u	\N	\N	2048	acfde501	4b72c1ffecaccadc541da2367f3ef70a2a9aed64	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.v	\N	\N	2048	65cf3c77	1c5249815816b395e1e04bf6a7dbb63e40faa0e3	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.w	\N	\N	2048	9eef9ae6	b2282e4edb8911e6aabfa936c3526f90381e1320	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.y	\N	\N	2048	56a5ddd1	1f87f647ebdffba28d5957f195448f6bce17f4d5	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.z	\N	\N	2048	f4bc7262	c4b70e474d49f45cec96f7c250bd77e01e18601a	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.1h	\N	\N	2048	39fb43a4	4755609bd974976f04855d51e08ec0d62ab4bc07	\N	\N	\N	\N	\N	\N	
+game_rom	MageX_v0.8a	galnamco	galaxian.1k	\N	\N	2048	7e3f56a2	a9795d8b7388f404f3b0e2c6ce15d713a4c5bafa	\N	\N	\N	\N	\N	\N	
+game_sample	MageX_v0.8a	galnamco	shot.sam	

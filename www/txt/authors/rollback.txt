@@ -1,0 +1,6 @@
+
+author	rollback	Rollback Segment (Friol)	\N
+author_email	rollback	friol@tiscalinet.it
+author_emulator_link	rollback	ace	author
+
+author_emulator_link	rollback	thenewzealandstory	author

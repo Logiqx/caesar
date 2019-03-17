@@ -1,0 +1,47 @@
+game	TinyEmu	dkong	\N	\N	\N	\N	\N	Donkey Kong (US)	1981	Nintendo of America	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.5e	\N	\N	4096	ba70b88b	d76ebecfea1af098d843ee7e578e480cd658ac1a	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.5c	\N	\N	4096	5ec461ec	acb11a8fbdbb3ab46068385fe465f681e3c824bd	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.5b	\N	\N	4096	1c97d324	c7966261f3a1d3296927e0b6ee1c58039fc53c1f	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.5a	\N	\N	4096	b9005ac0	3fe3599f6fa7c496f782053ddf7bacb453d197c4	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.3n	\N	\N	2048	12c8c95d	a57ff5a231c45252a63b354137c920a1379b70a3	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.3p	\N	\N	2048	15e9c5e9	976eb1e18c74018193a35aa86cff482ebfc5cc4e	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.7c	\N	\N	2048	59f8054d	793dba9bf5a5fe76328acdfb90815c243d2a65f1	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.7d	\N	\N	2048	672e4714	92e5d379f4838ac1fa44d448ce7d142dae42102f	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.7e	\N	\N	2048	feaa59ee	ecf95db5a20098804fc8bd59232c66e2e0ed3db4	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	dkong	dk.7f	\N	\N	2048	20f2ef7e	3bc482a38bf579033f50082748ee95205b0f673d	\N	\N	\N	\N	\N	\N	
+game	TinyEmu	pengo2u	\N	\N	\N	\N	\N	Pengo (set 2 not encrypted)	1982	Sega	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u8	\N	\N	4096	3dfeb20e	a387b72501da77bf38b58619d2099083a0463e1f	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u7	\N	\N	4096	1db341bd	d1c66bb9cf479e6960dbcd35c820097a81eaa555	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u15	\N	\N	4096	7c2842d5	a8a568da68babd0ccb9f2cee4182fc01c3138494	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u14	\N	\N	4096	6e3c1f2f	2ee821b0f6e0f3cfeae7f5ff25a6e9bd977efce0	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u20	\N	\N	4096	0fdb04b8	ed814d58318c1055e475ff678609d189727bf9b4	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	pengo.u31	\N	\N	4096	13de47ed	332b484d47c9921ed93432755bb2d7a9d4628939	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	ic92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	pengo2u	ic105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game	TinyEmu	puckman	\N	\N	\N	\N	\N	PuckMan (Japan set 1)	1980	Namco	\N	\N	\N	
+game_rom	TinyEmu	puckman	namcopac.6e	\N	\N	4096	fee263b3	87117ba5082cd7a615b4ec7c02dd819003fbd669	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	puckman	namcopac.6f	\N	\N	4096	39d1fc83	326dbbf94c6fa2e96613dedb53702f8832b47d59	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	puckman	namcopac.6h	\N	\N	4096	02083b03	7e1945f6eb51f2e51806d0439f975f7a2889b9b8	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	puckman	namcopac.6j	\N	\N	4096	7a36fe55	01b4c38108d9dc4e48da4f8d685248e1e6821377	\N	\N	\N	\N	\N	\N	
+game	TinyEmu	mario	\N	\N	\N	\N	\N	Mario Bros. (US)	1983	Nintendo of America	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7f	\N	\N	8192	c0c6e014	36a04f9ca1c2a583477cb8a6f2ef94e044e08296	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7e	\N	\N	8192	116b3856	e372f846d0e5a2b9b47ebd0330293fcc8a12363f	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7d	\N	\N	8192	dcceb6c1	b19804e69ce2c98cf276c6055c3a250316b96b45	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7c	\N	\N	4096	4a63d96b	b09060b2c84ab77cc540a27b8f932cb60ec8d442	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.3f	\N	\N	4096	28b0c42c	46749568aff88a28c3b6a1ac423abd1b90742a4d	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.3j	\N	\N	4096	0c8cc04d	15fae47d701dc1ef15c943cee6aa991776ecffdf	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7m	\N	\N	4096	22b7372e	4a1c1e239cb6d483e76f50d7a3b941025963c6a3	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7n	\N	\N	4096	4f3a1f47	0747d693b9482f6dd28b0bc484fd1d3e29d35654	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7p	\N	\N	4096	56be6ccd	15a6e16c189d45f72761ebcbe9db5001bdecd659	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7s	\N	\N	4096	56f1d613	9af6844dbaa3615433d0595e9e85e72493e31a54	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7t	\N	\N	4096	641f0008	589fe108c7c11278fd897f2ded8f0498bc149cfd	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	mario	mario.7u	\N	\N	4096	7baf5309	d9194ff7b89a18273d37b47228fc7fb7e2a0ed1f	\N	\N	\N	\N	\N	\N	
+game	TinyEmu	frogseg2	\N	\N	\N	\N	\N	Frogger (Sega set 2)	1981	[Konami] (Sega license)	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.ic5	\N	\N	4096	efab0c79	68c99b6cdcb9396bb473739a62ffc009b4bf57d5	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.ic6	\N	\N	4096	aeca9c13	cdf560adbd7f2813e86e378da7781cccf7928a44	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.ic7	\N	\N	4096	dd251066	4612e1fe1ab7182a277140b1a1976cc17e0746a5	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.ic8	\N	\N	4096	bf293a02	be94e9f5caa74c3de6fd95bd20928f4a9c514227	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.607	\N	\N	2048	05f7d883	78831fd287da18928651a8adb7e578d291493eff	\N	\N	\N	\N	\N	\N	
+game_rom	TinyEmu	frogseg2	frogger.606	\N	\N	2048	f524ee30	dd768967add61467baa08d5929001f157d6cd911	\N	\N	\N	\N	\N	\N	

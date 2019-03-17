@@ -1,0 +1,10 @@
+
+emulator	soundsgood	sound	Bally-Midway_Sounds_Good_Emulator_v0.2	\N	\N	\N	Bally-Midway "Sounds Good" Emulator	0.2	24/09/1997	DOS	Bally/Midway "Sounds Good" (SG) and "Cheap Squeak Deluxe" (CSD) boards	Has a graphical display of sounds as they are played.	Complete
+emulator_homepage	soundsgood	http://www.fensende.com/Users/mcuddy	bad
+emulator_author_link	soundsgood	michael_cuddy	\N	author
+
+emulator_library_link	soundsgood	starscream
+emulator_tool_link	soundsgood	watcom
+emulator_features	soundsgood	Yes	No	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	soundsgood	Keyboard
+emulator_file	soundsgood	Player	sg002.zip

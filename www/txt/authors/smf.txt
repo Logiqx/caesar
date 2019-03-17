@@ -1,0 +1,5 @@
+
+author	smf	SMF	\N
+author_emulator_link	smf	zinc	author
+
+author_emulator_link	smf	zinc_linux	author

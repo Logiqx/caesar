@@ -1,0 +1,6 @@
+
+author	franxis	Franxis	\N
+author_email	franxis	fjmar@hotmail.com
+author_emulator_link	franxis	mame_gp32	author
+
+author_emulator_link	franxis	multipac_gp32	author

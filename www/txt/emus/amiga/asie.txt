@@ -1,0 +1,12 @@
+
+emulator	asie	amiga	ASIE_v5-2001	\N	\N	\N	ASIE (Amiga Space Invaders Emulator)	3.1	04/09/2001	Amiga	Space Invaders (Midway) and other games on similar hardware	It works only with GFX-Boards and the RTGMASTER library on an Amiga with an 040 or 060. Sound uses the AHI device.	Dormant
+emulator_homepage	asie	http://pro.pc5.org/	\N
+emulator_author_link	asie	heinrich_tillack	\N	author
+
+emulator_library_link	asie	z80em
+emulator_features	asie	Yes	No	No	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	asie	Keyboard
+emulator_controller	asie	Joystick
+emulator_relative_link	asie	invemu	port_of
+
+emulator_file	asie	Emulator	ASIE31.lha

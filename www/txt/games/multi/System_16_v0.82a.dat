@@ -1,0 +1,942 @@
+game	System_16_v0.82a	alexkidd	\N	\N	\N	\N	\N	Alex Kidd (Bootleg)	1986	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10431.95	\N	\N	32768	a7962c39	c816fc5d9f21b2ba32b9841e64b634bce7ea78c8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10432.94	\N	\N	32768	db8cd24e	656d98844ad9ccaa68e3f501137dddd0a27d999d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10433.93	\N	\N	32768	e163c8c2	ac54c5ecedca5b1a2c550de32687ca57c4d3a411	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10434.12	\N	\N	32768	77141cce	6c5e83527f7e11a5ff5cc4fa75d55618a55e1a58	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10437.10	\N	\N	32768	522f7618	9a6bc857dfef1dd1b7bffa034523c1c4cd8b3f4c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10438.17	\N	\N	32768	738a6362	a3c5f10c263cb216d275875f6333484a1cca281b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10439.23	\N	\N	32768	b391aca7	ca9d80b67e5365f709f90a5342b5e3aa7c7126e1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10440.29	\N	\N	32768	23939508	68450a18fc7e35f5b0155632aa68cffd251be38c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10441.11	\N	\N	32768	74e3a35c	26b980a0a3aee94ac38e0e0c7d305bb35a60d1c4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10442.18	\N	\N	32768	86cb9c14	42bd0ed985de61ff183eed0192257966caa01594	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10443.24	\N	\N	32768	95d32635	788af2af1ae783128bcdc8cd44d17cd2f1542231	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10444.30	\N	\N	32768	82115823	e4103003cda949bebe57815115a5028f4fe8e7d7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10445.26	\N	\N	65536	25ce5b6f	dfec64df7e8d145d30740808bc94bdbbe667c4e8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10446.25	\N	\N	65536	cd61d23c	c235c4fef28556e9f2d07e815ad213c308e85598	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10447.43	\N	\N	65536	29e87f71	af980e55c02b3de1121c144fee23af74d24042ac	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	alexkidd	10448.42	\N	\N	65536	05baedb5	fc15989bf3d850170e4e018d74f18553f0268576	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	aliensyn	\N	\N	\N	\N	\N	Alien Syndrome	1987	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10702.b9	\N	\N	65536	393bc813	672782c8fb2a6e454b27e073acc26130cacf3e50	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10703.b10	\N	\N	65536	6b6dd9f5	964409c6630caa13caf7d644d0c6fb071860b61b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10704.b11	\N	\N	65536	911e7ebc	f03d3d3a09d19f7b705f9cb29f73140a3073463f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10709.b1	\N	\N	65536	addf0a90	a92c9531f1817763773471ce63f566b9e88360a0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10710.b2	\N	\N	65536	992369eb	c6796acf6807e9ba4c3d241903653f91adf4764e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10711.b3	\N	\N	65536	29166ef6	99a7cfd7d811537c821412a320beadb5a9c09af3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10712.b4	\N	\N	65536	876ad019	39973ddb5a5746e0e094c759447bff1130c72c84	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10713.b5	\N	\N	65536	ececde3a	9c12d4665179bf433c42f5ddc8a043ad592aa90e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10714.b6	\N	\N	65536	91bf42fb	4b9d3e97768323dee01e92378adafecb26bcc094	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10715.b7	\N	\N	65536	a7c57384	46f8efa691d7bbb0a18119c0ff12cff7c0d129e1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10716.b8	\N	\N	65536	40ba1d48	e2d4d2689bb9b9bdc85e7f72a6665e5fd4c583aa	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	10723.a7	\N	\N	32768	99953526	4a980370923fd5d3dc9e25d42a032c9e78c7ff47	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11080.a1	\N	\N	32768	fe7378d9	acfee79e5fe9fdf95926562c02599e96e96f76b5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11081.a2	\N	\N	32768	1308ee63	36a4c8cf3a310398e264c57c7c6f53c05dbc0108	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11082.a3	\N	\N	32768	9cdc2a14	c06693f45675e31d591703c27bb3f6ec02fc1215	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11083.a4	\N	\N	32768	cb2ad9b3	66284b4e1071b3cb4b36960a2dba8949325f9e86	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11084.a5	\N	\N	32768	2e1ec7b1	666a9e402d7d02d74c0a2468853a3843b161c1a2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aliensyn	11085.a6	\N	\N	32768	cff78f39	78431ce6c03232150a8db15499da9371977b570b	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	aliensyn	asyn_41.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_42.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_43.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_44.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_45.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_46.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_47.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_48.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_49.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4a.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4b.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4c.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4d.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4e.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_4f.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_50.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_51.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_52.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_53.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_54.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_55.wav	
+game_sample	System_16_v0.82a	aliensyn	asyn_56.wav	
+game	System_16_v0.82a	altbeast	\N	\N	\N	\N	\N	Altered Beast	1988	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11671.bin	\N	\N	32768	2b71343b	8a657f787de2b9d5161ed2c109642a148348af09	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11674.bin	\N	\N	131072	a57a66d5	5103583d48997abad12a0c5fee26431c486ced52	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11675.bin	\N	\N	131072	2ef2f144	38d22d609db2d9b6067b5d12f6499436de4605cb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11676.bin	\N	\N	131072	0c04acac	87fe2a0dd9913f9550e9b4cbc7e7465b61640e07	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11677.bin	\N	\N	65536	f8b3684e	3de2685cae5fb3c954b8440fafce313072747469	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11678.bin	\N	\N	65536	b0390078	9035d9f45c67bdc802710018722943f5b63e8b5d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11679.bin	\N	\N	65536	676be0cb	1e7d4c5f231992f111cc7885e97bc5a7267a5e89	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11680.bin	\N	\N	65536	339987f7	b5650f8bdbd44510e84686b20daf70bc4a564f28	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11681.bin	\N	\N	65536	ae3c2793	c4f46861ea63ffa3c038a1ef931479b94e5382df	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11682.bin	\N	\N	65536	2a87744a	421b3926de046ddeddad05f65fc6b5078af28dbd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11683.bin	\N	\N	65536	802cac94	24e5aa74ce8b6c53c78cc33a41a473df3fbce639	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11684.bin	\N	\N	65536	4fe406aa	7f068b81f35be4cc4785824ed524d28f201ff0a5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11718.bin	\N	\N	65536	882864c2	bd44bbdc13e5fd1b5c31c343da00a75b9dd90478	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11726.bin	\N	\N	65536	3cce5419	fccdbd6d05f5927272e7d6e5f997418d4fa2baf5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11728.bin	\N	\N	65536	f3a43fd8	d42833ecd0c1920f1a6904d32c096f12d8622141	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11730.bin	\N	\N	65536	3af62b55	9f079af88aaf2447948c9ac01c6cbd1e79539704	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11732.bin	\N	\N	65536	2fb3e355	960e0a66b23f79833b011ea35a5a412dffb47083	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11734.bin	\N	\N	65536	76c704d2	35b393071e29b8d122d3f904b923689a7dddc808	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11739.bin	\N	\N	131072	e466eb65	c9bb57818eb81a43abdf2ad2a79a0bd45c25d208	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	altbeast	ab11740.bin	\N	\N	131072	ce227542	54adcc1246943360bb68498e971809a0d4f9fe0c	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	altbeast	altb_41.wav	
+game_sample	System_16_v0.82a	altbeast	altb_42.wav	
+game_sample	System_16_v0.82a	altbeast	altb_43.wav	
+game_sample	System_16_v0.82a	altbeast	altb_44.wav	
+game_sample	System_16_v0.82a	altbeast	altb_45.wav	
+game_sample	System_16_v0.82a	altbeast	altb_46.wav	
+game_sample	System_16_v0.82a	altbeast	altb_47.wav	
+game_sample	System_16_v0.82a	altbeast	altb_48.wav	
+game_sample	System_16_v0.82a	altbeast	altb_49.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4a.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4b.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4c.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4d.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4e.wav	
+game_sample	System_16_v0.82a	altbeast	altb_4f.wav	
+game_sample	System_16_v0.82a	altbeast	altb_50.wav	
+game_sample	System_16_v0.82a	altbeast	altb_51.wav	
+game_sample	System_16_v0.82a	altbeast	altb_52.wav	
+game_sample	System_16_v0.82a	altbeast	altb_53.wav	
+game_sample	System_16_v0.82a	altbeast	altb_54.wav	
+game_sample	System_16_v0.82a	altbeast	altb_55.wav	
+game_sample	System_16_v0.82a	altbeast	altb_56.wav	
+game	System_16_v0.82a	astormbl	\N	\N	\N	\N	\N	Alien Storm (Bootleg)	1990	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a5	\N	\N	262144	efe9711e	496fd9e30941fde1658fab7292a669ef7964cecb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a6	\N	\N	262144	7682ed3e	b857352ad9c66488e91f60989472638c483e4ae8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a8	\N	\N	262144	8c9a71c4	40b774765ac888792aad46b6351a24b7ef40d2dc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a9	\N	\N	262144	2293427d	4fd07763ff060afd594e3f64fa4750577f56c80e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a10	\N	\N	262144	3b6b4c55	970495c54b3e1893ee8060f6ca1338c2cbbd1074	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.a11	\N	\N	262144	7829c4f3	3adb7aa7f70163d3848c98316e18b9783c41d663	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b1	\N	\N	262144	df5d0a61	79ad71de348f280bad847566c507b7a31f022292	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b2	\N	\N	262144	787afab8	a119042bb2dad54e9733bfba4eaab0ac5fc0f9e7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b3	\N	\N	262144	4e01b477	4178ce4a87ea427c3b0195e64acef6cddfb3485f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b8	\N	\N	262144	de9221ed	5e2e434d1aa547be1e5652fc906d2e18c5122023	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b9	\N	\N	262144	e668eefb	d4a087a238b4d3ac2d23fe148d6a73018e348a89	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b10	\N	\N	262144	eb510228	4cd387b160ec7050e1300ebe708853742169e643	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	astorm.b11	\N	\N	262144	a782b704	ba15bdfbc267b8d86f03e5310ce60846ff846de3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	mpr13076.bin	\N	\N	262144	94e6c76e	f99e58a9bf372c41af211bd9b9ea3ac5b924c6ed	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	mpr13077.bin	\N	\N	262144	e2ec0d8d	225b0d223b7282cba7710300a877fb4a2c6dbabb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	mpr13078.bin	\N	\N	262144	15684dc5	595051006de24f791dae937584e502ff2fa31d9c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	astormbl	epr13083.bin	\N	\N	131072	5df3af20	e49105fcfd5bf37d14bd760f6adca5ce2412883d	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	atomicp	\N	\N	\N	\N	\N	Atomic Point - da fixare	1990	Philko	\N	\N	\N	
+game_rom	System_16_v0.82a	atomicp	ap-t1.bin	\N	\N	65536	5c65fe56	aaf3b6f932c090b839817140c105f13c7d6b4ae2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	atomicp	ap-t2.bin	\N	\N	65536	97421047	18d61260470da7a0bef532f81df567a613c0d821	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	atomicp	ap-t3.bin	\N	\N	32768	dddc122c	3411eae360ccd615636fb85e9738affc33c2c0ad	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	atomicp	ap-t4.bin	\N	\N	32768	332e58f4	cf5aeb6c14018cbd8f222a0ecf85ccf467f294a8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	atomicp	ap-t5.bin	\N	\N	32768	ef5ecd6b	07edc8ea4c0a5ad421df7f97e7a62a5e12a8dbd0	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	aurail	\N	\N	\N	\N	\N	Aurail	1990	Sega / Westone	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a1	\N	\N	131072	4f370b2b	66beb4264d569520d80f8915e1c1fddbf61efb21	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a2	\N	\N	131072	37cf9cb4	f51cee874ad8a824462d2475a23e7016ef64c6b4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a3	\N	\N	131072	049698ef	dca1a78f0156cfac9acbfb6e47eb3897b579d2ec	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a4	\N	\N	131072	77a8989e	0ad0877a9814fb7c2fb79062a50b1f9ce9420768	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a10	\N	\N	32768	b5183fb9	c8372b57fa486256d49dc5851d6b17c92de593fb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a14	\N	\N	131072	0fc4a7a8	b46b22a6b0ead19551e67abfb3304c52b02b8d29	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a15	\N	\N	131072	1c49852f	d08d6991c203400f685fada2445a22a7eceeee04	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.a16	\N	\N	131072	047bde5e	e759baedcbb637a6c14af461b8a492554cadc9e4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b1	\N	\N	131072	5fa0a9f8	d9d67cc006a608d48e37aa89359f1a9403172b00	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b2	\N	\N	131072	5f6b33b1	5d397bdaa2c7a9ce82cc9134bfeb78418dc613b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b3	\N	\N	131072	4e80520b	8147793ee0023ac18f633d756ecc53aef1980e95	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b4	\N	\N	131072	5733c428	865203ebee9d98e67324c46915d8835d0289ee0c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b5	\N	\N	131072	0d1b54da	c7a6393f9e13adabe93b7a86aa7845c5f4d188f1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b6	\N	\N	131072	bad340c3	e04ef028e44054d34831d3617c5a6348823cfebd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b7	\N	\N	131072	7e9165ac	32114095f96fb0ae385c9bf31dd97a99ef182aaa	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b8	\N	\N	131072	66b8f9b3	4bf003a9bed40673d88df51a314eb6bd10f0d039	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b10	\N	\N	131072	f76014bf	b44f0b6fb9dee927d81c62282aa946d8c35766ca	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b11	\N	\N	131072	1061e7da	bad3560f1ed6a5a79f4ecf85d3843b24ecf22d19	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b12	\N	\N	131072	7dbcfbf1	0b7be1de57f83b1213805489c6ebfc0f1e5fb4b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b13	\N	\N	131072	551df422	cf4cd2b66335853c7c6cce949e79c05e93a39666	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b14	\N	\N	131072	e08135e0	cd748f4a8f67f562174fa9c6edb966c77b488e75	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b15	\N	\N	131072	e14c6684	f9b0d45e01a6df2b3875b493db9fa41bf37d79f0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	aurail.b16	\N	\N	131072	6309fec4	f90c9679bade3cfbaa7949e412410c29d5bfa4d3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	13445	\N	\N	131072	28dfc3dd	b1d6d3e31a48062a91cc9b7b6ff68bfde0a3ea1c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	13447	\N	\N	131072	70a52167	51512d4ee1e63902375b197cf04170744b099d88	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	13576	\N	\N	131072	1e428d94	53c0c2d946822157974c8505fd301f8001fc3401	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	aurail	13577	\N	\N	131072	6701b686	ce1e99a516b34241bfe2fbe42d105970ad6e6ddb	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	dduxbl	\N	\N	\N	\N	\N	Dynamite Dux (Bootleg)	1989	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb01.bin	\N	\N	32768	0dbef0d7	8b9afb2fcb946cec467b1e691c267194b503f841	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb02.bin	\N	\N	131072	d8ed3132	a9d5ad8f79fb635cc234a99fad398688a5f15926	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb03.bin	\N	\N	131072	e7526012	a1798008bfa1ce9b87dc330f3817b1978052fcfd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb04.bin	\N	\N	131072	30c6cb92	2e17c74eeb37c9731fc2e365cc0114f7383c0106	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb05.bin	\N	\N	131072	459d1237	55e9c0dc341c919d58cc789203642c397d7ac65e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb06.bin	\N	\N	65536	b0079e99	9bb4d3fa804a3d05a6e06b45a1280d7064e96ac6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb07.bin	\N	\N	65536	0217369c	b6ec2fa1279a27a602d79e1073c54193745ea816	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb08.bin	\N	\N	65536	8844f336	18c1baaad3bcc658d4a6d03de8c97378b5284e88	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb09.bin	\N	\N	65536	6b64f665	df07fcf2bbec6fa78f89b95272762aebd6f3ec0e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb10.bin	\N	\N	65536	0be3aee5	48fc779b7398abbb82cd0d0d28705ece75b3c4e3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb11.bin	\N	\N	65536	cfb2af18	1ad18f933a7b797f0364d1f4a6c8549351b4c9a6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb12.bin	\N	\N	65536	28ce9b15	1640df9c8f21893c0647ad2f4210c714a06e6f37	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb13.bin	\N	\N	65536	efe57759	69b8969b20ab9480df2735bd2bcd527069196bd7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb14.bin	\N	\N	65536	664bd135	674b06e01c2c8f5b8057dd24d470330c3f140473	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb15.bin	\N	\N	65536	ce0d2b30	e60521c46f1650c9bdc76f2ceb91a6d61aaa0a09	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	dduxbl	dduxb16.bin	\N	\N	65536	6de95434	7bed2a0261cf6c2fbb3756633f05f0bb2173977c	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	eswatbl	\N	\N	\N	\N	\N	E-Swat (Bootleg)	1989	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_a.rom	\N	\N	32768	2af4fc62	f7b1539a5ab9560bd49dfecf44699abccfb649be	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_b.rom	\N	\N	65536	87c6b1b5	a9f29e29a9c0e3daf272dce263a5fd7866642c77	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_c.rom	\N	\N	65536	1028cc81	24b4cd182419a44f3d6afa1c4273353024eb278f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_d.rom	\N	\N	32768	b4751e19	57c9687dc864c163d13dbb89057cd42684a199cd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_e.rom	\N	\N	65536	937ddf9a	9fc73f93e9c4221a4dc778593edc02cb405b2f78	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	eswat_f.rom	\N	\N	65536	f7b2d388	8131ba8f4fa01751b9993c3c6c218c9bd3adb328	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic8.bin	\N	\N	32768	7efecf23	2b87af7cfaab5942a3f7b38c987fcba01d3475ab	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic9.bin	\N	\N	262144	0d1530bf	bb8626cd98761c1c20cee117d00315c85621ba6a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic10.bin	\N	\N	262144	32069246	4913009bc72bf4f8b171b14fe06457f5784cab15	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic11.bin	\N	\N	262144	f6b096e0	695ad1adbdc29f4d614645867e16de038cf92709	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic12.bin	\N	\N	262144	18ff0799	5417223378aef16ee2b4f438d1f8f11a23fe7265	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic13.bin	\N	\N	262144	a3dfe436	640ccc552114d403f35d441574d2f3e4f1d4a8f9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic14.bin	\N	\N	262144	6773fef6	91e646ea447be02254d060daf255d26afe0cc79e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic19.bin	\N	\N	262144	375a5ec4	42b9116bdc0e0a5b1dd667ac1856b4c2252829ba	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic20.bin	\N	\N	262144	3b8c757e	0b66e8446d059a12e47e2a6fe8f0a333245bb95c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	eswatbl	ic21.bin	\N	\N	262144	3efca25c	0d866bf53a16b52719f73081e933f4db27d72ece	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	fantzone	\N	\N	\N	\N	\N	Fantasy Zone	1986	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7382.26	\N	\N	32768	3fda7416	91f34cc8afb4ad8bc783c31d25781a1359c44cfe	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7383.25	\N	\N	32768	a001e10a	04ebb012b10817db36997d0ee877104d512decf8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7384.24	\N	\N	32768	fd909341	2f1e01eb7d7b330c9c0dd98e5f8ed4973f0e93fb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7385.43	\N	\N	32768	5cb64450	5831405359975dd7d8c6614b20fd9b18a5d6410d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7386.42	\N	\N	32768	15810ace	e61a258ab6601d359f6ad1f37a2b2801bf777d26	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7387.41	\N	\N	32768	0acd335d	f39566a2069eefa7682c57c6521ea7a328738d06	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7388.95	\N	\N	32768	8eb02f6b	80511b944b57541669010bd5a0ca52bc98eabd62	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7389.94	\N	\N	32768	2f4f71b8	ceb39e95cd43904b8e4f89c7227491e139fb3ca6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7390.93	\N	\N	32768	d90609c6	4232f6ecb21f242c0c8d81e06b88bc742668609f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7392.10	\N	\N	32768	5bb7c8b6	eaa0ed63ac4f66ee285757e842bdd7b005292600	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7393.17	\N	\N	32768	14fc7e82	ca7caca989a3577dd30ad4f66b0fcce712a454ef	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7394.23	\N	\N	32768	531ca13f	19e68bc515f6021e1145cff4f3f0e083839ee8f3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7396.11	\N	\N	32768	74ae4b57	1f24b1faea765994b85f0e7ac8e944c8da22103f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7397.18	\N	\N	32768	e05a1e25	9691d9f0763b7483ee6912437902f22ab4b78a05	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	7398.24	\N	\N	32768	68807b49	0a189da8cdd2090e76d6d06c55b478abce60542d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fantzone	epr7535.fz	\N	\N	32768	bc1374fa	ed2c87ae024dc251e175239f1bccc728fc096548	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	fpointbl	\N	\N	\N	\N	\N	Flash Point (Bootleg)	1989	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.002	\N	\N	65536	4dff2ee8	bd157d8c168d45e7490a05d5e1e901d9bdda9599	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.003	\N	\N	65536	4d6df514	168aa1629ab7152ba1984605155406b236954a2c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.004	\N	\N	65536	522426ae	90fd0a19b30a8a61dc4cfa66a64115596333dcc6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.005	\N	\N	65536	82c0b8b0	e1e2e721cb8ad53df33065582dc90edeba9c3cab	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.006	\N	\N	65536	c539727d	56674effe1d273128dddd2ff9e02974ec10f3fff	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.007	\N	\N	65536	4a4041f3	4c52b30223d8aa80ccdbb196098cb17e64ad6583	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	flpoint.008	\N	\N	65536	6961e676	7639d2da086b57a9a8d6100fdacf40d97d7c4772	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	fpointbl	epr12592.bin	\N	\N	32768	9a8c11bb	399f8e9bdd7aaa4d25817fa9cd4bbf413e5baebe	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	goldnaxe	\N	\N	\N	\N	\N	Golden Axe	1989	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12385.bin	\N	\N	131072	b8a4e7e0	9b36f50209d45a835ded53eb045f63c649b02fc9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12386.bin	\N	\N	131072	25d7d779	2de14a76a5176d5abc7e7f7f723146c620927610	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12387.bin	\N	\N	131072	c7fcadf3	5f0fd600a75a02749935af21e1e0d2c714c6417e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12522.bin	\N	\N	131072	b6c35160	88015d0a486f56911360362c96a82f36a13de886	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12523.bin	\N	\N	131072	8e6128d7	b8de216f4ca08815ca98d39a773024d191d21b4d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12544.bin	\N	\N	262144	5e38f668	3b15a9a30adde6e852c439c8e6e45875b66252cb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12545.bin	\N	\N	262144	a97c4e4d	41cda15ae56185725233db669d9f8c4a8c1eb1c3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12378.bin	\N	\N	262144	119e5a82	261ed2bc4ebac7142e2ecca9f03c91242e792a98	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12379.bin	\N	\N	262144	1a0e8c57	674f1ae7db632876fff346e76786801ae19d9799	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12380.bin	\N	\N	262144	bb2c0853	3f3b546d078f22d787c93ee74d9ad3a6e84383ac	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12381.bin	\N	\N	262144	81ba6ecc	7f59e4d86a192b97e92729371b78c3f1c784a0b5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12382.bin	\N	\N	262144	81601c6f	604bc5613c6c734a06860303ba36d61bb54508a0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12383.bin	\N	\N	262144	5dbacf7a	236866fb94672b13cbb2cb479324e61de87eeb34	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	goldnaxe	ga12390.bin	\N	\N	32768	399fc5f5	6f290b36dc71ff4759598e2a9c185a8945a3c9e7	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_41.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_42.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_43.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_44.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_45.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_46.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_47.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_48.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_49.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4a.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4b.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4c.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4d.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4e.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_4f.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_50.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_51.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_52.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_53.wav	
+game_sample	System_16_v0.82a	goldnaxe	gaxe_54.wav	
+game	System_16_v0.82a	hang-on	\N	\N	\N	\N	\N	Hang-On	1985	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6819.rom	\N	\N	32768	469dad07	6d01c0b3506e28832928ad74d518577ff5be323b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6820.rom	\N	\N	32768	87cbc6de	b64652e062e1b88c6f6ae8dd2ffe4533bb27ba45	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6821.rom	\N	\N	32768	15792969	b061dbf24e8b511116446794753c8b0cc49e2149	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6822.rom	\N	\N	32768	e9718de5	30e3a7d5b33504da03c5780b4a946b977e46098a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6823.rom	\N	\N	32768	49422691	caee2a4a3f4587ae27dec330214edaa1229012af	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6824.rom	\N	\N	32768	701deaa4	053032ef886b85a4cb4753d17b3c27d228695157	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6825.rom	\N	\N	32768	6e23c8b4	b17fd7d590ed4e6616b7b4d91a47a2820248d8c7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6826.rom	\N	\N	32768	77d0de2c	83b126ed1d463504b2702391816e6e20dcd04ffc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6827.rom	\N	\N	32768	7fa1bfb6	a27b54c93613372f59050f0b2182d2984a8d2efe	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6828.rom	\N	\N	32768	8e880c93	8c55deec065daf09a5d1c1c1f3f3f7bc1aeaf563	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6829.rom	\N	\N	32768	7ca0952d	617d73591158ed3fea5174f7dabf0413d28de9b3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6830.rom	\N	\N	32768	b1a63aef	5db0a1cc2d13c6cfc77044f5d7f6f99d198531ed	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6840.rom	\N	\N	32768	581230e3	954eab35059322a12a197bba04bf85f816132f20	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6841.rom	\N	\N	32768	54d295dc	ad8cdb281032a2f931c2abbeb966998944683dc3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6842.rom	\N	\N	32768	f677b568	636ca60bd4be9b5c2be09de8ae49db1063aa6c79	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6843.rom	\N	\N	32768	a257f0da	9828f8ce4ef245ffb8dbad347f9ca74ed81aa998	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6845.rom	\N	\N	32768	ba08c9b8	65ceaefa18999c468b38576c29101674d1f63e5f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6846.rom	\N	\N	32768	f21e57a3	92ce0723e722f446c0cef9e23080a008aa9752e7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6915.rom	\N	\N	32768	ac883240	f943341ae13e062f3d12c6221180086ce8bdb8c4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6916.rom	\N	\N	32768	7d9db1bf	952ee3e7a0d57ec1bb3385e0e6675890b8378d31	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6917.rom	\N	\N	32768	fea12367	9a1ce5863c562160b657ad948812b43f42d7d0cc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6918.rom	\N	\N	32768	20b1c2b0	01b4f5105e2bbeb6ec6dbd18bfb728e3a973e0ca	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6919.rom	\N	\N	32768	6ca30d69	ed933351883ebf6d9ef9428a81d09749b609cd60	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hang-on	6920.rom	\N	\N	32768	1c95013e	8344ac953477279c2c701f984d98292a21dd2f7d	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	harrier	\N	\N	\N	\N	\N	Space Harrier	1985	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic1.bin	\N	\N	32768	b191e22f	406c7f4eed0b8fe93fa0bef370e496894f4d46a4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic2.bin	\N	\N	32768	fc3bf8f3	d9168b9bce110bfd531410179a107895c641e105	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic3.bin	\N	\N	32768	f5ba4e08	443b07c996cbb213fe57dfdd3879c1d4da27c001	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic4.bin	\N	\N	32768	b537d082	f87a644d9af8477c9eb94e5d3aeb5f6376264418	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic5.bin	\N	\N	32768	70fb5ebb	38755a9be92865d2c5da8112d8d9c0fe8e778cff	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic6.bin	\N	\N	32768	3711105c	075197f614786f89bee28ed944371223bc75c9be	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic7.bin	\N	\N	32768	dcaa2ebf	9cf77bb966859febc5e5f1447cb719db64aa4db4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic8.bin	\N	\N	32768	22844fa4	6d0f177082084c8c92085cd53e1d7ddc62d09a4c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic11.bin	\N	\N	32768	a2c07741	747c029ab399c4110dbe360b8913f5c2e57c87cc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic12.bin	\N	\N	32768	0f732717	6a19c88d5d52f4ec4adb32c511fed4caae81c65f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic13.bin	\N	\N	32768	7a2dad15	227865447027f8669aa0d06d059f3d61da6d59dd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic14.bin	\N	\N	32768	24596a8b	f580022c4f7dcaefb7209058c310a329479b5fcd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic15.bin	\N	\N	32768	60737b98	5e91498bc473f099a1b2887baf980486e922af97	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic16.bin	\N	\N	32768	9c782295	c1627f3d849d2fdb02a590502bafbe133212b943	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic17.bin	\N	\N	32768	5bb09a67	8bedefd2fa29a1a5e36f1d81c4e9067e3c7f28e9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic21.bin	\N	\N	32768	dfe75f3d	ff908419066494bc28cbd6afe72bd30350b20c4b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic22.bin	\N	\N	32768	6d4a7d7a	997ac38e47d84f0166ca3ece50ac5f2d3435d8d3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic23.bin	\N	\N	32768	510e5e10	47b9f1bc8df0690c37d1d045bd361f8599e8a903	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic24.bin	\N	\N	32768	cebf797c	d3d5aeba1a0e70a322ec86b930814fa8bc744829	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic25.bin	\N	\N	32768	f6330038	805d4ed664972c0773c837d62f094858c1804148	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic26.bin	\N	\N	32768	ac62ae2e	d472dcc1d9b7889d04870920d5c6e5578597b8dc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic27.bin	\N	\N	32768	41f25a9c	bebbd4c4600028205aeff54190b32b664e4710d0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic28.bin	\N	\N	32768	edbf5fc3	a93f8c431075741c181eb422b24c9303487ca16c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic29.bin	\N	\N	32768	ed51fdc4	a2696b15a0911ac3b6b330b7d8df58ca51d629de	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic30.bin	\N	\N	32768	ec42c9ef	313d908f3a964529b18e09825552879817a2e159	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic31.bin	\N	\N	32768	5e784271	063bd83b7f42dec556a7bdf736cb51456ba7184b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic32.bin	\N	\N	32768	6d7b5c97	94c27e4ef1e197ee136f9399b07520cae00a366f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic33.bin	\N	\N	32768	60d7c1bb	19ddc1d8f269b50343266d508ad04d4c0fff69d1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic34.bin	\N	\N	32768	d5e15e66	2bd81c5c736d725577adf85532de7802bef057f2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic35.bin	\N	\N	32768	cd6e7500	6f0e42eb28ad3f5df93d8bb39dc41aba66eee144	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic36.bin	\N	\N	32768	93e2d264	ca56de13756ab77408506d88f291da1da8134435	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic54.bin	\N	\N	32768	d7c535b6	c0659a678c0c3776387a4a675016e9a2e9c67ee3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic67.bin	\N	\N	32768	a6153af8	b56ba472e4afb474c7a3f7dc11d7428ebbe1a9c7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic72.bin	\N	\N	16384	504e76d9	302af9101da01c97ca4be6acd21fb5b8e8f0b7ef	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic73.bin	\N	\N	16384	d6397933	b85bb47efb6c113b3676b10ab86f1798a89d45b4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic84.bin	\N	\N	32768	16deaeb1	bdf85b924a914865bf876eda7fc2b20131a4cf2d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic85.bin	\N	\N	32768	ce78045c	ce640f05bed64ff5b47f1064b5fc13e58bc422a4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic86.bin	\N	\N	32768	79b367d7	e901036b1b9fac460415d513837c8f852f7750b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic87.bin	\N	\N	32768	70cb72ef	d1d89bd133b6905f81c25513d852b7e3a05a7312	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic97.bin	\N	\N	32768	7c30a036	d3902342be714b4e181c87ad2bad7102e3eeec20	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic98.bin	\N	\N	32768	40b1309f	9b050983f043a88f414745d02c912b59bbf1b121	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic99.bin	\N	\N	32768	f6391091	3160b342b6447cccf67c932c7c1a42354cdfb058	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic100.bin	\N	\N	32768	6171e9d3	72f8736f421dc93139859fd47f0c8c3c32b6ff0b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	ic118.bin	\N	\N	32768	e8c537d8	c9b3c0f33272c47d32e6aa349d72f7e355468e0e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	pic2.bin	\N	\N	32768	b4740419	8ece2dc85692e32d0ba0b427c260c3d10ac0b7cc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	sic31.bin	\N	\N	32768	347fa325	9076b16de9598b52a75e5084651ee5a220b0e88b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	sic46.bin	\N	\N	32768	39d98bd1	5aab91bdd08b0f1ea537cd43ccc2e82fd01dd031	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	sic60.bin	\N	\N	32768	3da3ea6b	9a6ce304a14e6ef0be41d867284a63b941f960fb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	snd7231.256	\N	\N	32768	871c6b14	6d04ddc32fdf1db409cb519890821bd10fc9e58b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	harrier	snd7232.256	\N	\N	32768	4b59340c	a01ba8580b65dd17bfd92560265e502d95d3ff16	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	hwchamp	\N	\N	\N	\N	\N	Heavyweight Champ	1987	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj0-e.bin	\N	\N	131072	5db934a8	ba7cc93025af71ad2674b1376b61afbb7ae910ff	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj0-o.bin	\N	\N	131072	fc098a13	b4a6e00d4765265bad170dabf0b2a4a58e063b16	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj1-e.bin	\N	\N	131072	8a6a5cf1	28b22aa326682ef3b54891dda7aa9a432da12a4d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj1-o.bin	\N	\N	131072	1f27ee74	a60d50a4f501623187c067a3c17bff49151ca3b2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj2-e.bin	\N	\N	131072	d6c7917b	8b313a5634c14f4c90bfa9f9616d600283f72768	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj2-o.bin	\N	\N	131072	c0b2ba82	30349c86a99bbe3dfb423027ad534a9333e27679	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj3-e.bin	\N	\N	131072	57e8f9d2	1804677820d05a421120660f91e3a5f1df1e6a8d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	obj3-o.bin	\N	\N	131072	52fa3a49	c2331af630d86a111cdaf21556d9df23d1471f53	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	rom0-e.bin	\N	\N	131072	e5abfed7	1f875dbaf8665c1dbfe336470580361b18a8ed4e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	rom0-o.bin	\N	\N	131072	25180124	77b414f8cd88270713c57bddadec5d8dca490e86	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr01.bin	\N	\N	131072	fc586a86	2c26ef3ab94089940add3be9952804a6e62f5113	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr02.bin	\N	\N	131072	7715a742	e6040ff0e9c68f3f502e5f6d7e7ca04b14059752	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr03.bin	\N	\N	131072	f30cd5fd	df6118ca4b724c37b11e18d9f2ea18e9591ae7aa	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr11.bin	\N	\N	131072	aeaaa9d8	6b7e5320f515c1c35445d3320b3edaef911191e1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr12.bin	\N	\N	131072	63a82afa	a02bbb6dd84cdf7cdab8e738c6927f5b1e3fcad5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	scr13.bin	\N	\N	131072	5b8494a8	9e3f09f4037a007b6a188dd81ec8f9c635e87650	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	hwchamp	s-prog.bin	\N	\N	32768	96a12d9d	f4ba70c3b5d80a1b6a187c940b922d5182d5ab12	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	mjleague	\N	\N	\N	\N	\N	Major League	1985	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7051.09a	\N	\N	32768	10ca255a	ccf58ffcac2f7fbdbfbdf32601a1b97f359cbd91	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7052.10a	\N	\N	32768	2550db0e	28f8d68f43d26f12793fe295c205cc86adc4e96a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7053.11a	\N	\N	32768	5bfea038	01dc6e14cc7bba9f7930e68573c441fa2841f49a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	eprc7054.01b	\N	\N	32768	4443b744	73359a6e9d62b382dee47fea31b9e17eb26a0321	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7055.05a	\N	\N	32768	1fb860bd	4a4155d0352dfae9e402a2b2f1558ef17b1303b4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7056.06a	\N	\N	32768	b35dd968	e306b5e38acf583d7b2089302622ad25ae5564b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7057.07a	\N	\N	32768	3e5a2b6f	d3dbafb4acb916e02c978a156008bd75ba122fb7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7058.08a	\N	\N	32768	b543675f	35ffc9295a8849a18fabe156fdbc9801ea2179cd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7059.02b	\N	\N	32768	3d14091d	36208415b2012b6e948fefa15b0f7041748066be	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7060.03b	\N	\N	32768	61bb3757	5c87cf23be22b84e3dae746527ca057d870d6397	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7061.04b	\N	\N	32768	c808dad5	9b65acc8dc23b16e56327298188d1a6ab48b2b5d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7062.05b	\N	\N	32768	9168eb47	daaa7836e627a0679e65373d8f20a9383ba4c905	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7401.06b	\N	\N	32768	2befa5e0	0a1681a4c7d62a5754ba6f3845436b4d08324246	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7402.07b	\N	\N	32768	b7bef762	214450e0b094f99ef38dec2a3e5cbdb0b30e917d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epra7403.08b	\N	\N	32768	d86250cf	fb5dabb7b9b9fe0bbe93e28c60311c7b3256107a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7404.09b	\N	\N	32768	ec1655b5	5c1df364fa9733daa4478c5f88298089e4963c33	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epr-7405.10b	\N	\N	32768	7a4f4e38	65a22097dd933e83f326bd64b3863915897780a6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	mjleague	epra7406.11b	\N	\N	32768	bb743639	5d99638a79f02ce14374d3b1f3d9fbfc5c13c6e1	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	moonwlkb	\N	\N	\N	\N	\N	Moonwalker (Bootleg)	1990	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.01	\N	\N	65536	f49cdb16	34b7e98d31c3b9db2f0f055d7b249b0e5e5cb746	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.02	\N	\N	65536	0bde1896	42731ae90d56918dc50c0dcb53d092dcfb957159	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.03	\N	\N	65536	0c5fe15c	626e3f37f019448c3c96bf73b2d2b5fe4b3716c0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.04	\N	\N	65536	64692f79	ad7f32997b78863e3aa3214018cdd24e3ec9c5cb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.05	\N	\N	65536	c483f29f	8fdfa764d8e49754844a9dc001400d439f9af9f0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.06	\N	\N	65536	5b9fc688	53d8143c3876548f63b392f0ea16c0e7c30a7917	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.07	\N	\N	65536	9e600704	efd3d450b26f81dc2b74f44b4aaf906fa017e437	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwlkb.08	\N	\N	65536	546ca530	51f74878fdc221fee026e2e6a7ca96f290c8947f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.a4	\N	\N	131072	56c2e82b	d5755a1bb6e889d274dc60e883d4d65f12fdc877	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.a8	\N	\N	262144	de3786be	2279bb390aa3efab9aeee0a643e5cb6a4f5933b6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.a9	\N	\N	262144	f40dc45d	e9468cef428f52ecdf6837c6d9a9fea934e7676c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.a10	\N	\N	262144	9550091f	bb6e898f7b540e130fd338c10f74609a7604cef4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.a11	\N	\N	262144	a5e96346	a854f4dd5dc16975373255110fdb8ab3d121b1af	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b1	\N	\N	262144	862d2c03	3c5446d702a639b62a602c6d687f9875d8450218	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b2	\N	\N	262144	7d1ac3ec	8495357304f1df135bba77ef3b96e79a883b8ff0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b3	\N	\N	262144	56d3393c	50a2d065060692c9ecaa56046a781cb21d93e554	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b8	\N	\N	262144	9ae7546a	5413b0131881b0b32bac8de51da9a299835014bb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b9	\N	\N	262144	523df3ed	2e496125e75decd674c3a08404fbdb53791a965d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b10	\N	\N	262144	364f60ff	9ac887ec0b2e32b504b7c6a5f3bb1ce3fe41a15a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b11	\N	\N	262144	c59f107b	10fa60fca6e34eda277c483bb1c0e81bb88c8a47	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b4	\N	\N	262144	19e2061f	2dcf1718a43dab4da53b4f67722664e70ddd2169	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b5	\N	\N	262144	58d4d9ce	725e73a656845b02702ef131b4c0aa2a73cdd02e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	moonwlkb	moonwalk.b6	\N	\N	262144	623edc5d	c32d9f818d40f311877fbe6532d9e95b6045c3c4	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	outrun	\N	\N	\N	\N	\N	Out Run	1986	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10185.rom	\N	\N	32768	22794426	a554d4b68e71861a0d0da4d031b3b811b246f082	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10187.rom	\N	\N	32768	a10abaa9	01c8a819587a66d2ee4d255656e36fa0904377b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10188.rom	\N	\N	32768	bad30ad9	f70dd3a6362c314adef313b064102f7a250401c8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10189.rom	\N	\N	32768	01366b54	f467a6b807694d5832a985f5381c170d24aaee4e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10190.rom	\N	\N	32768	7cab70e2	a3c581d2b438630d0d4c39481dcfd85681c9f889	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10191.rom	\N	\N	32768	20a284ab	7c9027416d4122791ba53782fe2230cf02b7d506	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10192.rom	\N	\N	32768	770f1270	686bdf44d45c1d6002622f6658f037735382f3e0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10193.rom	\N	\N	32768	bcd10dde	417ce1d7242884640c5b14f4db8ee57cde7d085d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10230.rom	\N	\N	32768	686f5e50	03697b892f911177968aa40de6c5f464eb0258e7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10231.rom	\N	\N	32768	8908bcbf	8e1237b640a6f26bdcbfd5e201dadb2687c4febb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10232.rom	\N	\N	32768	776ba1eb	e3477961d19e694c97643066534a1f720e0c4327	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10266.rom	\N	\N	32768	9f6f1a74	09164e858ebeedcff4d389524ddf89e7c216dcae	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10267.rom	\N	\N	32768	a85bb823	a7e0143dee5a47e679fd5155e58e717813912692	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10268.rom	\N	\N	32768	95344b04	b3480714b11fc49b449660431f85d4ba92f799ba	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10327a.rom	\N	\N	65536	e28a5baf	f715bde96c73ed47035acf5a41630fdeb41bb2f9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10328a.rom	\N	\N	65536	d5ec5e5d	a4e3cfca4d803e72bc4fcf91ab00e21bf3f8959f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10329a.rom	\N	\N	65536	da131c81	57d5219bd0e2fd886217e37e8773fd76be9b40eb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10330a.rom	\N	\N	65536	ba9ec82a	2136c9572e26b7ae6de402c0cd53174407cc6018	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10380a.rom	\N	\N	65536	434fadbc	83c861d331e69ef4f2452c313ae4b5ea9d8b7948	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10381a.rom	\N	\N	65536	be8c412b	bf3ff05bbf81bdd44567f3b9bb4919ed4a499624	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10382.rom	\N	\N	65536	1ddcc04e	945d207d8d602d7fdb6d25f6b93c9c0b995e8d5a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	10383a.rom	\N	\N	65536	dcc586e7	d6e1de6b562359574d94b88ce6101646c506e701	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_1.bin	\N	\N	65536	77377e00	4f376b05692f33d529f4c058dac989136c808ca1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_2.bin	\N	\N	65536	2c0e7277	cf14d1ca1fba2e2687998c04ad2ab8c629917412	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_3.bin	\N	\N	65536	69ecc975	3560e9a31fc71e263a6ff61224b8db2b17836075	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_4.bin	\N	\N	65536	54761e57	dc0fc645eb998675ab9fe683d63d4ee57ae23693	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_5.bin	\N	\N	65536	b6a8d0e2	6184700dbe2c8c9c91f220e246501b7a865e4a05	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_6.bin	\N	\N	65536	a00d0676	c2ab29a7489c6f774ce26ef023758215ea3f7050	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_7.bin	\N	\N	65536	d632d8a2	27ca6faaa073bd01b2be959dba0359f93e8c1ec1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_8.bin	\N	\N	65536	da398368	115b2881d2d5ddeda2ce82bb209a2c0b4acfcae4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_17.bin	\N	\N	65536	4f784236	1fb610fd29d3ddd8c5d4892ae215386b18552e6f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_18.bin	\N	\N	65536	8d459356	143914b1ac074708fed1d89072f915424aeb841e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_19.bin	\N	\N	65536	ee4f7154	3a84c1b19d9dfcd5310e9cee90c0d4562a4a7786	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_20.bin	\N	\N	65536	c2825654	566ecb6e3dc76300351e54e4c0f24b9c2a6c710c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_21.bin	\N	\N	65536	e9880aa3	cc47f631e758bd856bbc6d010fe230f9b1ed29de	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_22.bin	\N	\N	65536	ef7d06fe	541b5ba45f4140e2cc29a9da2592b476d414af5d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_23.bin	\N	\N	65536	dc286dc2	eaa245b81f8a324988f617467fc3134a39b59c65	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrun	orun_24.bin	\N	\N	65536	1222af9f	2364bd54cbe21dd688efff32e93bf154546c93d6	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	outrunb	\N	\N	outrun	outrun	\N	Out Run (Bootleg)	1986	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10185.rom	10185.rom	\N	32768	22794426	a554d4b68e71861a0d0da4d031b3b811b246f082	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10187.rom	10187.rom	\N	32768	a10abaa9	01c8a819587a66d2ee4d255656e36fa0904377b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10188.rom	10188.rom	\N	32768	bad30ad9	f70dd3a6362c314adef313b064102f7a250401c8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10189.rom	10189.rom	\N	32768	01366b54	f467a6b807694d5832a985f5381c170d24aaee4e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10190.rom	10190.rom	\N	32768	7cab70e2	a3c581d2b438630d0d4c39481dcfd85681c9f889	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10191.rom	10191.rom	\N	32768	20a284ab	7c9027416d4122791ba53782fe2230cf02b7d506	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10192.rom	10192.rom	\N	32768	770f1270	686bdf44d45c1d6002622f6658f037735382f3e0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10193.rom	10193.rom	\N	32768	bcd10dde	417ce1d7242884640c5b14f4db8ee57cde7d085d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10230.rom	10230.rom	\N	32768	686f5e50	03697b892f911177968aa40de6c5f464eb0258e7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10231.rom	10231.rom	\N	32768	8908bcbf	8e1237b640a6f26bdcbfd5e201dadb2687c4febb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10232.rom	10232.rom	\N	32768	776ba1eb	e3477961d19e694c97643066534a1f720e0c4327	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10266.rom	10266.rom	\N	32768	9f6f1a74	09164e858ebeedcff4d389524ddf89e7c216dcae	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10267.rom	10267.rom	\N	32768	a85bb823	a7e0143dee5a47e679fd5155e58e717813912692	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10268.rom	10268.rom	\N	32768	95344b04	b3480714b11fc49b449660431f85d4ba92f799ba	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10327a.rom	10327a.rom	\N	65536	e28a5baf	f715bde96c73ed47035acf5a41630fdeb41bb2f9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10328a.rom	10328a.rom	\N	65536	d5ec5e5d	a4e3cfca4d803e72bc4fcf91ab00e21bf3f8959f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10329a.rom	10329a.rom	\N	65536	da131c81	57d5219bd0e2fd886217e37e8773fd76be9b40eb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10330a.rom	10330a.rom	\N	65536	ba9ec82a	2136c9572e26b7ae6de402c0cd53174407cc6018	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10381b	\N	\N	65536	be8c412b	bf3ff05bbf81bdd44567f3b9bb4919ed4a499624	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10380b	\N	\N	65536	1f6cadad	31e870f307f44eb4f293b607123b623beee2bc3c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10382b	\N	\N	65536	c4c3fa1a	69236cf9f27691dee290c79db1fc9b5e73ea77d7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	10383b	\N	\N	65536	10a2014a	1970895145ad8b5735f66ed8c837d9d453ce9b23	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_1.bin	orun_1.bin	\N	65536	77377e00	4f376b05692f33d529f4c058dac989136c808ca1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_2.bin	orun_2.bin	\N	65536	2c0e7277	cf14d1ca1fba2e2687998c04ad2ab8c629917412	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_3.bin	orun_3.bin	\N	65536	69ecc975	3560e9a31fc71e263a6ff61224b8db2b17836075	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_4.bin	orun_4.bin	\N	65536	54761e57	dc0fc645eb998675ab9fe683d63d4ee57ae23693	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_5.bin	orun_5.bin	\N	65536	b6a8d0e2	6184700dbe2c8c9c91f220e246501b7a865e4a05	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_6.bin	orun_6.bin	\N	65536	a00d0676	c2ab29a7489c6f774ce26ef023758215ea3f7050	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_7.bin	orun_7.bin	\N	65536	d632d8a2	27ca6faaa073bd01b2be959dba0359f93e8c1ec1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_8.bin	orun_8.bin	\N	65536	da398368	115b2881d2d5ddeda2ce82bb209a2c0b4acfcae4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_17.bin	orun_17.bin	\N	65536	4f784236	1fb610fd29d3ddd8c5d4892ae215386b18552e6f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_18.bin	orun_18.bin	\N	65536	8d459356	143914b1ac074708fed1d89072f915424aeb841e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_19.bin	orun_19.bin	\N	65536	ee4f7154	3a84c1b19d9dfcd5310e9cee90c0d4562a4a7786	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_20.bin	orun_20.bin	\N	65536	c2825654	566ecb6e3dc76300351e54e4c0f24b9c2a6c710c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_21.bin	orun_21.bin	\N	65536	e9880aa3	cc47f631e758bd856bbc6d010fe230f9b1ed29de	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_22.bin	orun_22.bin	\N	65536	ef7d06fe	541b5ba45f4140e2cc29a9da2592b476d414af5d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_23.bin	orun_23.bin	\N	65536	dc286dc2	eaa245b81f8a324988f617467fc3134a39b59c65	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	outrunb	orun_24.bin	orun_24.bin	\N	65536	1222af9f	2364bd54cbe21dd688efff32e93bf154546c93d6	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	passshtb	\N	\N	\N	\N	\N	Passing Shot (Bootleg)	1988	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	pass3_2p.bin	\N	\N	65536	26bb9299	11bacf86dfdd8bcfbfb61f0ebc59890325c48adc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	pass4_2p.bin	\N	\N	65536	06ac6d5d	2dd71a8a956404326797de8beed7bca016c9919e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.a7	\N	\N	32768	789edc06	8c89c94e503513c287807d187de78a7fbd75a7cf	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b1	\N	\N	65536	b6e94727	0838e034f1f10d9cd1312c8c94b5c57387c0c271	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b2	\N	\N	65536	3e670098	2cfc83f4294be30cd868738886ac546bd8489962	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b3	\N	\N	65536	05733ca8	1dbc7c99450ebe6a9fd8c0244fd3cb38b74984ef	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b5	\N	\N	65536	17e8d5d5	ac1074b0a705be13c6e3391441e6cfec1d2b3f8a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b6	\N	\N	65536	50eb71cc	463b4917ca19c7f4ad2c2845caa104d5e4a2dda3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b7	\N	\N	65536	81e49697	a70fa409e3555ad6c8f28930a7026fdf2deb8c65	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b9	\N	\N	65536	d31c0b6c	610d04988da70c30300cc5614817eda9d2204f39	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b10	\N	\N	65536	b78762b4	d594ef846bd7fed8da91a89906b39c1a2867a1fe	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	passshtb	passshot.b11	\N	\N	65536	ea49f666	36ccd32cdcbb7fcc300628bb59c220ec3c324d82	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	quartet2	\N	\N	\N	\N	\N	Quartet II	1986	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b1	\N	\N	32768	9f291306	96a09542a863ccf2ded43e2df6f913722b3f97b1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b2	\N	\N	32768	cb65ae4f	3ee7b3b4cce113a6f394e8dfd317cdb6ffae64f7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b3	\N	\N	32768	16fc67b1	788fe2878c5c9faea43c2f166f32c22ee51c7d09	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b4	\N	\N	32768	13fad5ac	75b480083fbb14cbef969126989bf9b2235fd31e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b5	\N	\N	32768	8e2762ec	872e19a6aab81d7a2472367d0e31dc1295da7182	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b6	\N	\N	32768	50f50b08	646c0d545150b95e5d8d47bf63360f7326add08f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b7	\N	\N	32768	0aa337bb	f31f8f294fccd866eadebfafee067bfae44b3184	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b8	\N	\N	32768	d87b2ca2	58adf0900e41036b1b78a931ab94b30ce601909d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b9	\N	\N	32768	67177cd8	c4ea001dfbeeb29a09d597fb50d71f54e4e9572a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b10	\N	\N	32768	4273c3b7	4cae221678a6d2b7806487becd4ba09b520f9fa0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.b11	\N	\N	32768	3a6a375d	8ebea6b7f1208438b47e887b46cb569725c4042a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c5	\N	\N	32768	8a1ab7d7	a2f317538c70a1603b65d795223407cbaaf88524	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c6	\N	\N	32768	b2d3f4f3	65e654fde10bee4cb5eee8234d0babb78fe41cfb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c7	\N	\N	32768	0af68de2	81163baf3f0e45bac950a6d9c24b3a886db1509c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c8	\N	\N	32768	ddfd40c0	6c12ad668cd0c82e7d7d46bfbdcee8b9d46ebd09	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c9	\N	\N	32768	547a6058	5248e974c8d12183c996b1fc8fda09e8a4bf0d2d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c10	\N	\N	32768	77ec901d	b5961895473c16a8f4a111185cce48b05ab66885	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	quartet2	quartet2.c11	\N	\N	32768	7e348cce	82bba65280faaf3280208c85caef48ec8baeade8	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	riotcity	\N	\N	\N	\N	\N	Riot City	1991	Sega / Westone	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14610.bin	\N	\N	131072	cd4f2c50	c7a7e95901c664a72195c202b50a159db8d5981d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14611.bin	\N	\N	131072	d9e6f80b	5ac56b3685bb121a4f07be3d81209807436e76ec	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14612.bin	\N	\N	131072	a1b331ec	49136ffed35ecc9e5e9a6ea7acbe534e6ccc9dd8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14613.bin	\N	\N	131072	0659df4c	a24005ce354113732306c318de373c818400a9c8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14614.bin	\N	\N	65536	c65cc69a	28a75dd2085b8e1447fe4e6af210a54a6666fcb1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14616.bin	\N	\N	131072	46d30368	a791ef0e881345b6be0b28f32af17127edb5b590	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14617.bin	\N	\N	131072	884e40f9	f7eeae57544e7d95139588137605986732937d38	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14618.bin	\N	\N	131072	00eb260e	f293180fb9a053c98022ef086bf4002563752f61	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14619.bin	\N	\N	262144	6f2b5ef7	a0186fcc5b12c31b65b84355f88bcb10b1434135	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14620.bin	\N	\N	262144	66183333	44bb9d57cd0308c0d7b6a10ba9bd95763ceea775	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14621.bin	\N	\N	262144	c0f2820e	ae433f6c5065ed495f5f57f50d6abe5ff98b041e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14622.bin	\N	\N	262144	7ca7e40d	57d26cc1b530cb867b2a4779bb5108ac457b2154	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14623.bin	\N	\N	262144	98630049	216ae0b4a59f306b51bd50dfcbf831c3186a4d2a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14624.bin	\N	\N	262144	d1a68448	7591f0476e899a11042d9b7e93f99b64de48b0ef	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14625.bin	\N	\N	131072	abfb80fe	5f0d61d55f27e8f776b573e3193164c4d70ec12b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14626.bin	\N	\N	131072	4ef55846	2f23474e7d1d8880dc251ada55c5fca2fc19256a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	riotcity	epr14627.bin	\N	\N	131072	961e5f82	dc88b511dff6cdebf96fe8bf388bf76098296b0f	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	sdi	\N	\N	\N	\N	\N	S.D.I.	1987	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a1.rom	\N	\N	32768	a9f816ef	5ccab14b088d2249f83ff5e80591eccb4afb6e20	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a2.rom	\N	\N	32768	369af326	d6517c38f3a386e8f23b058fe8fa0607918ba215	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a3.rom	\N	\N	32768	193e4231	14fecfab010641b83e5b24d0e8003bc0de35e1c8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a4.rom	\N	\N	32768	f2c41dd6	7fdbf819e42c7af0efe3976ffd919ee142efe1bc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a5.rom	\N	\N	32768	7952e27e	caead75724a6744fc6fc7fbbc9894932a7a22eed	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a6.rom	\N	\N	32768	8ee2c287	8ed98334dab51c2eab8e1ff0724abc1f819dc8c2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	a7.rom	\N	\N	32768	793f9f7f	9e4fde376db9e99a83eb2fc734c6721c122ba9af	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b1.rom	\N	\N	65536	30e2c50a	1fb9e69d4cb97fdcb0f98c2a7ede246aaa4ac382	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b2.rom	\N	\N	65536	6a8b3fd0	a122d3cb0b3263714f026e57d85b0dbf6cb110d7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b3.rom	\N	\N	65536	b9de3aeb	2f7a55a8377e831338a884f8962d6ab2757e8c9b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b5.rom	\N	\N	65536	794e3e8b	91ca1cb9aabf99adc8426feed4494a992afb8c4a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b6.rom	\N	\N	65536	602da5d5	d32cdde7d86c4561e7bfa547d7d7995ce9a43c24	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b7.rom	\N	\N	65536	0a73a057	7f31124c67541a245e069e5b6aac59935d99a9a9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b9.rom	\N	\N	65536	182b6301	bb6f1174f82611c801d2b4b7d3596bf71619e8a1	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b10.rom	\N	\N	65536	8f7129a2	094a4065597d8d51fb2232546df1de9043fea731	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sdi	b11.rom	\N	\N	65536	4409411f	84fd7128e8440d96b0384ae3c391a59bd37ecf9d	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	s-hangon	\N	\N	\N	\N	\N	Super Hang-On (Mixed)	1992	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic2	\N	\N	65536	b176ea72	7ec0eb0f13398d014c2e235773ded00351edb3e2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic3	\N	\N	65536	9f0677ed	5964642b70bfad418da44f2d91476f887b021f74	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic4	\N	\N	65536	03bc4878	548fc58bcc620204e30fa12fa4c4f0a3f6a1e4c0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic5	\N	\N	65536	af473098	a2afaba1cbf672949dc50e407b46d7e9ae183774	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic6	\N	\N	65536	8a57b8d6	df1a31559dd2d1e7c2c9d800bf97526bdf3e84e6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic7	\N	\N	65536	25ebf2c5	abcf673ae4e280417dd9f46d18c0ec7c0e4802ae	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic8	\N	\N	65536	d6ac012b	305023b1a0a9d84cfc081ffc2ad7578b53d562f2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic10	\N	\N	65536	42fcd51d	0eacb3527dc21746e5b901fcac83f2764a0f9e2c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic11	\N	\N	65536	508a4701	d17aea2aadc2e2cd65d81bf91feb3ef6923d5c0b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic12	\N	\N	65536	274b734e	906fa528659bc17c9b4744cec52f7096711adce8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic13	\N	\N	65536	80bafeef	f01bcf65485e60f34e533295a896fca0b92e5b14	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic14	\N	\N	65536	3aff8910	4b41a49a7f02363424e814b37edce9a7a44a112e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic15	\N	\N	65536	6365d2e9	688e2ba194e859f86cd3486c2575ebae257e975a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic16	\N	\N	65536	d9d83250	f8ca3197edcdf53643a5b335c3c044ddc1310cd4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic66	\N	\N	32768	06f55364	fd685795e12541e3d0059d383fab293b3980d247	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic67	\N	\N	32768	b41d541d	28bbfa5edaa4a5901c74074354ba6f14d8f42ff6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic68	\N	\N	32768	a60dabff	bbef0fb0d7837cc7efc866226bfa2bd7fab06459	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic69	\N	\N	32768	473cc411	04ca2d047eb59581cd5d76e0ac6eca8b19eef497	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	ic88	\N	\N	32768	1254efa6	997770ccdd776de6e335a6d8b1e15d200cbd4410	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.04	\N	\N	65536	8f8f4af0	1dac21b7df6ec6874d36a07e30de7129b7f7f33a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.05	\N	\N	65536	9916c54b	41a7c5a9bdb1e3feae8fadf1ac5f51fab6376157	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.08	\N	\N	65536	000ad595	eb80e798159c09bc5142a7ea8b9b0f895976b0d4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.09	\N	\N	65536	070c8059	a18c5e9473b6634f6e7165300e39029335b41ba3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.23	\N	\N	32768	260286f9	dc7c8d2c6ef924a937328685eed19bda1c8b1819	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.24	\N	\N	32768	c609ee7b	c6dacf81cbfe7e5df1f9a967cf571be1dcf1c429	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.25	\N	\N	32768	b236a403	af02b8122794c083a66f2ab35d2c73b84b2df0be	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.26	\N	\N	32768	1bbe4fc8	30f7f301e4d10d3b254d12bf3d32e5371661a566	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.29	\N	\N	32768	12ee8716	8e798d23d22f85cd046641184d104c17b27995b2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.30	\N	\N	65536	d95e82fc	bc6cd0b0ac98a9c53f2e22ac086521704ab59e4d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.31	\N	\N	32768	155e0cfd	e51734351c887fe3920c881f57abdfbb7d075f57	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	s-hangon	s-hangon.32	\N	\N	65536	2ee4b4fb	ba4042ab6e533c16c3cde848248d75e484be113f	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	sho_boot	\N	\N	s-hangon	s-hangon	\N	Super Hang-On (Bootleg)	1992	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.03	\N	\N	32768	83347dc0	079bb750edd6372750a207764e8c84bb6abf2f79	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.04	s-hangon.04	\N	65536	8f8f4af0	1dac21b7df6ec6874d36a07e30de7129b7f7f33a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.05	s-hangon.05	\N	65536	9916c54b	41a7c5a9bdb1e3feae8fadf1ac5f51fab6376157	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.06	\N	\N	65536	42fcd51d	0eacb3527dc21746e5b901fcac83f2764a0f9e2c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.07	\N	\N	65536	b176ea72	7ec0eb0f13398d014c2e235773ded00351edb3e2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.08	s-hangon.08	\N	65536	000ad595	eb80e798159c09bc5142a7ea8b9b0f895976b0d4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.09	s-hangon.09	\N	65536	070c8059	a18c5e9473b6634f6e7165300e39029335b41ba3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.10	\N	\N	65536	508a4701	d17aea2aadc2e2cd65d81bf91feb3ef6923d5c0b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.11	\N	\N	65536	274b734e	906fa528659bc17c9b4744cec52f7096711adce8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.12	\N	\N	65536	80bafeef	f01bcf65485e60f34e533295a896fca0b92e5b14	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.13	\N	\N	65536	3aff8910	4b41a49a7f02363424e814b37edce9a7a44a112e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.14	\N	\N	65536	0f26d131	0d8b6eb8b8aae0aa8f0fa0c31dc91ad0e610be3e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.15	\N	\N	65536	d9d83250	f8ca3197edcdf53643a5b335c3c044ddc1310cd4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.16	\N	\N	65536	9f0677ed	5964642b70bfad418da44f2d91476f887b021f74	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.17	\N	\N	65536	03bc4878	548fc58bcc620204e30fa12fa4c4f0a3f6a1e4c0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.18	\N	\N	65536	af473098	a2afaba1cbf672949dc50e407b46d7e9ae183774	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.19	\N	\N	65536	8a57b8d6	df1a31559dd2d1e7c2c9d800bf97526bdf3e84e6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.20	\N	\N	65536	eef23b3d	2416fa9991afbdddf25d469082e53858289550db	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.21	\N	\N	65536	d6ac012b	305023b1a0a9d84cfc081ffc2ad7578b53d562f2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.23	s-hangon.23	\N	32768	260286f9	dc7c8d2c6ef924a937328685eed19bda1c8b1819	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.24	s-hangon.24	\N	32768	c609ee7b	c6dacf81cbfe7e5df1f9a967cf571be1dcf1c429	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.25	s-hangon.25	\N	32768	b236a403	af02b8122794c083a66f2ab35d2c73b84b2df0be	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.26	s-hangon.26	\N	32768	1bbe4fc8	30f7f301e4d10d3b254d12bf3d32e5371661a566	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.29	s-hangon.29	\N	32768	12ee8716	8e798d23d22f85cd046641184d104c17b27995b2	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.30	s-hangon.30	\N	65536	d95e82fc	bc6cd0b0ac98a9c53f2e22ac086521704ab59e4d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.31	s-hangon.31	\N	32768	155e0cfd	e51734351c887fe3920c881f57abdfbb7d075f57	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	sho_boot	s-hangon.32	s-hangon.32	\N	65536	2ee4b4fb	ba4042ab6e533c16c3cde848248d75e484be113f	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	shdancer	\N	\N	\N	\N	\N	Shadow Dancer	1989	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a4	\N	\N	131072	7a0d8de1	eca5e2104e5b3e772d083a718171234f06ea8a55	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a5	\N	\N	262144	2596004e	1b993aa74e7559f7e99253fd2144db9449c04cce	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a6	\N	\N	262144	3d5b3fa9	370dd6e8ab9fb9e77eee9262d13fbdb4cf575abc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a8	\N	\N	262144	c606cf90	cb53ae9a6da1eb31c584173d1fbbd1c8539fb54c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a9	\N	\N	262144	0f4903dc	851bd60e877c9e39be23dc1fde91efc9da513c29	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a10	\N	\N	262144	268a0c17	2756054fa3c3aed30a1fce5e41acb0ceaebe90b5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.a11	\N	\N	262144	ff344945	2743778c42f53321f9691d60bbf94ea8baf1382f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b1	\N	\N	262144	9bdabe3d	4bb30fa2d4cdefe4a864cef7153b516bc5b02c42	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b2	\N	\N	262144	852d2b1c	8e5bc83d45e48b621ea3016207f2028fe41701e6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b3	\N	\N	262144	448226ce	3060e4a43311069e2691d659c1e0c1a48edfeedb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b4	\N	\N	262144	07051a52	d48658497f4a34665d3e051f893ff057c38925ae	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b8	\N	\N	262144	a870e629	29f6633240f9737ec19e16100decc7aa045b2060	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b9	\N	\N	262144	c81cc4f8	22f364e85057ceef533e051c8d0755b9691c5ec4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b10	\N	\N	262144	ba2efc0c	459a1a280f870c94aefb70127ed007cb090ed203	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancer	shdancer.b11	\N	\N	262144	d6888534	2201f1921a68cf39e5a94b487c90e48d032d630f	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	shdancer	shad_81.wav	
+game_sample	System_16_v0.82a	shdancer	shad_82.wav	
+game_sample	System_16_v0.82a	shdancer	shad_83.wav	
+game_sample	System_16_v0.82a	shdancer	shad_84.wav	
+game_sample	System_16_v0.82a	shdancer	shad_85.wav	
+game_sample	System_16_v0.82a	shdancer	shad_86.wav	
+game_sample	System_16_v0.82a	shdancer	shad_87.wav	
+game_sample	System_16_v0.82a	shdancer	shad_88.wav	
+game_sample	System_16_v0.82a	shdancer	shad_89.wav	
+game_sample	System_16_v0.82a	shdancer	shad_8b.wav	
+game_sample	System_16_v0.82a	shdancer	shad_8c.wav	
+game_sample	System_16_v0.82a	shdancer	shad_8d.wav	
+game_sample	System_16_v0.82a	shdancer	shad_8e.wav	
+game_sample	System_16_v0.82a	shdancer	shad_8f.wav	
+game_sample	System_16_v0.82a	shdancer	shad_90.wav	
+game_sample	System_16_v0.82a	shdancer	shad_91.wav	
+game_sample	System_16_v0.82a	shdancer	shad_93.wav	
+game_sample	System_16_v0.82a	shdancer	shad_94.wav	
+game_sample	System_16_v0.82a	shdancer	shad_95.wav	
+game_sample	System_16_v0.82a	shdancer	shad_96.wav	
+game_sample	System_16_v0.82a	shdancer	shad_97.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a0.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a1.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a2.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a3.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a4.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a5.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a6.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a7.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a8.wav	
+game_sample	System_16_v0.82a	shdancer	shad_a9.wav	
+game_sample	System_16_v0.82a	shdancer	shad_aa.wav	
+game_sample	System_16_v0.82a	shdancer	shad_ab.wav	
+game_sample	System_16_v0.82a	shdancer	shad_ac.wav	
+game_sample	System_16_v0.82a	shdancer	shad_ad.wav	
+game_sample	System_16_v0.82a	shdancer	shad_ae.wav	
+game_sample	System_16_v0.82a	shdancer	shad_af.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b0.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b1.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b2.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b3.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b4.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b5.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b6.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b7.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b8.wav	
+game_sample	System_16_v0.82a	shdancer	shad_b9.wav	
+game_sample	System_16_v0.82a	shdancer	shad_ba.wav	
+game_sample	System_16_v0.82a	shdancer	shad_bb.wav	
+game_sample	System_16_v0.82a	shdancer	shad_bc.wav	
+game_sample	System_16_v0.82a	shdancer	shad_bd.wav	
+game_sample	System_16_v0.82a	shdancer	shad_be.wav	
+game_sample	System_16_v0.82a	shdancer	shad_bf.wav	
+game_sample	System_16_v0.82a	shdancer	shad_c0.wav	
+game_sample	System_16_v0.82a	shdancer	shad_c1.wav	
+game_sample	System_16_v0.82a	shdancer	shad_c2.wav	
+game_sample	System_16_v0.82a	shdancer	shad_d8.wav	
+game_sample	System_16_v0.82a	shdancer	shad_e3.wav	
+game_sample	System_16_v0.82a	shdancer	shad_e4.wav	
+game	System_16_v0.82a	shdancrj	\N	\N	\N	\N	shdancer	Shadow Dancer (Japan)	1989	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12712.bin	\N	\N	262144	9bdabe3d	4bb30fa2d4cdefe4a864cef7153b516bc5b02c42	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12713.bin	\N	\N	262144	852d2b1c	8e5bc83d45e48b621ea3016207f2028fe41701e6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12714.bin	\N	\N	262144	448226ce	3060e4a43311069e2691d659c1e0c1a48edfeedb	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12715.bin	\N	\N	262144	07051a52	d48658497f4a34665d3e051f893ff057c38925ae	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12716.bin	\N	\N	262144	a870e629	29f6633240f9737ec19e16100decc7aa045b2060	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12717.bin	\N	\N	262144	c81cc4f8	22f364e85057ceef533e051c8d0755b9691c5ec4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12718.bin	\N	\N	262144	ba2efc0c	459a1a280f870c94aefb70127ed007cb090ed203	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12719.bin	\N	\N	262144	d6888534	2201f1921a68cf39e5a94b487c90e48d032d630f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12720.bin	\N	\N	131072	7a0d8de1	eca5e2104e5b3e772d083a718171234f06ea8a55	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12721b.bin	\N	\N	262144	653d351a	1a03a154cb81a5a2f28c38aecdd6b5d107ea7ffa	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12722b.bin	\N	\N	262144	c00552a2	74fddfe596bc00bc11c4a06e2103417e8fd334f6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12723.bin	\N	\N	262144	c606cf90	cb53ae9a6da1eb31c584173d1fbbd1c8539fb54c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12724.bin	\N	\N	262144	0f4903dc	851bd60e877c9e39be23dc1fde91efc9da513c29	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12725.bin	\N	\N	262144	268a0c17	2756054fa3c3aed30a1fce5e41acb0ceaebe90b5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shdancrj	sd12726.bin	\N	\N	262144	ff344945	2743778c42f53321f9691d60bbf94ea8baf1382f	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	shdancrj	shad_81.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_82.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_83.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_84.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_85.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_86.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_87.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_88.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_89.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_8b.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_8c.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_8d.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_8e.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_8f.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_90.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_91.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_93.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_94.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_95.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_96.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_97.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a0.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a1.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a2.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a3.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a4.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a5.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a6.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a7.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a8.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_a9.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_aa.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_ab.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_ac.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_ad.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_ae.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_af.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b0.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b1.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b2.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b3.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b4.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b5.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b6.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b7.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b8.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_b9.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_ba.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_bb.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_bc.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_bd.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_be.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_bf.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_c0.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_c1.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_c2.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_d8.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_e3.wav	
+game_sample	System_16_v0.82a	shdancrj	shad_e4.wav	
+game	System_16_v0.82a	shinobi	\N	\N	\N	\N	\N	Shinobi	1987	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.a1	\N	\N	65536	343f4c46	2cf5d00462ad85ae9a2e16d59171c8ab85e10f49	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.a2	\N	\N	65536	7961d07e	38cbdab35f901532c0ad99ad0083513abd2ff182	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.a4	\N	\N	65536	b930399d	955ff2948e1990463631b0bc5c7f5275384236cc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.a5	\N	\N	65536	9d46e707	37ab25b3b37365c9f45837bfb6ec80652691dd4c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.a7	\N	\N	32768	2457a7cf	ddfac640e442537acb015de8bb088659f5a217ee	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b1	\N	\N	65536	611f413a	180f83216e2dfbfd77b0fb3be83c3042954d12df	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b2	\N	\N	65536	3c0797c0	df18c7987281bd9379026c6cf7f96f6ae49fd7f9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b3	\N	\N	65536	c29ac34e	b5e9b8c3233a7d6797f91531a0d9123febcf1660	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b4	\N	\N	65536	41f41063	5cc461e9738dddf9eea06831fce3702d94674163	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b5	\N	\N	65536	5eb00fc1	97e02eee74f61fabcad2a9e24f1868cafaac1d51	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b6	\N	\N	65536	25307ef8	91ffbe436f80d583524ee113a8b7c0cf5d8ab286	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b7	\N	\N	65536	04a437f8	ea5fed64443236e3404fab243761e60e2e48c84c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b8	\N	\N	65536	b6e1fd72	eb86e4bf880bd1a1d9bcab3f2f2e917bcaa06172	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b9	\N	\N	65536	5f62e163	03f008745a1af84142ada647acf3601049f43ad5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b10	\N	\N	65536	75f8fbc9	29072edcd583af60ec66b4c8bb82b179a3751edf	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	shinobi	shinobi.b11	\N	\N	65536	06508bb9	57c9036123ec8e35d0275ab6eaff25a16aa203d4	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	shinobi	shin_41.wav	
+game_sample	System_16_v0.82a	shinobi	shin_42.wav	
+game_sample	System_16_v0.82a	shinobi	shin_43.wav	
+game_sample	System_16_v0.82a	shinobi	shin_44.wav	
+game_sample	System_16_v0.82a	shinobi	shin_45.wav	
+game_sample	System_16_v0.82a	shinobi	shin_46.wav	
+game_sample	System_16_v0.82a	shinobi	shin_47.wav	
+game_sample	System_16_v0.82a	shinobi	shin_48.wav	
+game_sample	System_16_v0.82a	shinobi	shin_49.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4a.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4b.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4c.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4d.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4e.wav	
+game_sample	System_16_v0.82a	shinobi	shin_4f.wav	
+game_sample	System_16_v0.82a	shinobi	shin_93.wav	
+game_sample	System_16_v0.82a	shinobi	shin_94.wav	
+game_sample	System_16_v0.82a	shinobi	shin_95.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a0.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a1.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a2.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a4.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a5.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a6.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a7.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a8.wav	
+game_sample	System_16_v0.82a	shinobi	shin_a9.wav	
+game_sample	System_16_v0.82a	shinobi	shin_aa.wav	
+game_sample	System_16_v0.82a	shinobi	shin_ab.wav	
+game_sample	System_16_v0.82a	shinobi	shin_ad.wav	
+game_sample	System_16_v0.82a	shinobi	shin_ae.wav	
+game_sample	System_16_v0.82a	shinobi	shin_af.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b0.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b1.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b2.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b3.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b4.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b5.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b7.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b8.wav	
+game_sample	System_16_v0.82a	shinobi	shin_b9.wav	
+game_sample	System_16_v0.82a	shinobi	shin_bd.wav	
+game	System_16_v0.82a	tetrisbl	\N	\N	\N	\N	\N	Tetris (Bootleg)	1988	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	scr03.rom	\N	\N	65536	2495fd4e	2db94ead9223a67238a97e724668076fc43e5534	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	obj0-o.rom	\N	\N	65536	2fb38880	0e1b601bbda78d1887951c1f7e752531c281bc83	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	obj0-e.rom	\N	\N	65536	d6a02cba	d80000f92e754e89c6ca7b7273feab448fc9a061	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	rom1.bin	\N	\N	65536	1e912131	8f53504ac08942ee340489d84eab825e654d0a2c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	rom2.bin	\N	\N	65536	4d165c38	04706b1977ae18bd09bafaf8ea65f8e5f32e04b8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	scr01.rom	\N	\N	65536	62640221	c311d3847a981d0e1609f9b3d80481565d32d78c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	scr02.rom	\N	\N	65536	9abd183b	621b017cb34973f9227be383e26b5cd41aea9422	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tetrisbl	s-prog.rom	\N	\N	32768	bd9ba01b	fafa7dc36cc057a50ae4cdf7a35f3594292336f4	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	timscanr	\N	\N	\N	\N	\N	Time Scanner	1987	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10548.bin	\N	\N	32768	aa150735	b6e6ff9229c641e196fc7a0a2cf7aa362f554676	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10549.bin	\N	\N	32768	2f59f067	1fb64cce2f98ddcb5ecb662e63ea636a8da08bcd	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10550.bin	\N	\N	32768	f05069ff	bd95761036c2fad8ddf4e169d899b173822ee4b0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10551.bin	\N	\N	32768	435d811f	b28eb09620113cd7578387c4d96029f2acb8ec06	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10552.bin	\N	\N	32768	6fcbb9f7	0a0fab930477d8b79e500263bbc80d3bf73778f8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10553.bin	\N	\N	32768	8a220a9f	c17547d85721fa19e5f445b5be30b3fbf5e8cc6e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10554.bin	\N	\N	32768	dc64f809	ea85eefa98ec55e9e872940821a959ff4eb1bd1c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10555.bin	\N	\N	32768	2143c471	d413aa216349ddf773a39d2826c3a940b4149229	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10562.bin	\N	\N	32768	3f5028bf	02081569a5f4dc64771e97651a9902a98d54a952	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10850.bin	\N	\N	32768	f1575732	d0c8fc42171c436cc1cd55a33295bd019a474d47	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10851.bin	\N	\N	32768	f5ce271b	8b4f1178c87e657d8d5805d908100f0d5fb030da	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10852.bin	\N	\N	32768	7cd1382b	6263cc863cbf0ef66a7ba8cc1c98212917d7c131	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10853.bin	\N	\N	32768	24d7c5fb	b1796e77cf968f9bdae7a47c5c02b93aaec10ade	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10854.bin	\N	\N	32768	82d0b237	c1defda4785014ccd7164f49f53f77e36fcb3a8d	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	ts10855.bin	\N	\N	32768	63e95a53	60c42bbb1c316deb493a237990a7938551f8bc2e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	timscanr.b9	\N	\N	32768	07dccc37	544cc6a3b3ef64727ecf5098b84ade2dd5330614	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	timscanr.b10	\N	\N	32768	84fb9a3a	efde54cc9582f68e58cae05f717a4fc8f620c0fc	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	timscanr	timscanr.b11	\N	\N	32768	c8694bc0	e48fc349ef454ded86141937f70b006e64da6b6b	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	tturfbl	\N	\N	\N	\N	\N	Tough Turf (Bootleg)	1989	bootleg	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt042197.rom	\N	\N	65536	deee5af1	0caba775021dc7e28ac6b7af8eac4f49d3102c83	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt06c794.rom	\N	\N	65536	90e6a95a	014a0ae5cebcba9cc99e6ccde4ad5d938fab915c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt030be3.rom	\N	\N	65536	100264a2	d1ea4bf93f5472901ce95200f546ce9b58936aea	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt05ef8a.rom	\N	\N	65536	f787a948	512b8cb2f5e9795171951e02c07cae957db41334	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt1574b3.rom	\N	\N	65536	e9e630da	e8471dedbb25475e4814d78b56f579fe9110461e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt16cf44.rom	\N	\N	65536	4c467735	8338b6605cbe2e076da0b3e3a47630409a79f002	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt17d59e.rom	\N	\N	65536	60c0f2fe	3fea4ed757d47628f59ff940e40cb86b3b5b443b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt11081e.rom	\N	\N	65536	7a169fb1	1ec6da0d2cfcf727e61f61c847fd8b975b64f944	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt128958.rom	\N	\N	65536	961d06b7	b1a9dea63785bfa2c0e7b931387b91dfcd27d79b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt13e508.rom	\N	\N	65536	f16b6ba2	00cc04c7b5aad82d51d2d252e1e57bcdc5e2c9e3	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt14489c.rom	\N	\N	65536	838bd71f	82d9d127438f5e1906b1cf40bf3b4727f2ee5685	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt07c5aa.rom	\N	\N	65536	ae0fa085	ae9af92d4dd0c8a0f064d24e647522b588fbd7f7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt083acc.rom	\N	\N	65536	e8671ee1	a3732938c370f1936d867aae9c3d1e9bbfb57ede	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt09aae6.rom	\N	\N	65536	1ef1077f	8ce6fd7d32a20b93b3f91aaa43fe22720da7236f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt107319.rom	\N	\N	65536	639a57cb	84fd8b96758d38f9e1ba1a3c2cf8099ec0452784	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	tturfbl	tt014d68.rom	\N	\N	65536	d4aab1d9	94885896d59da1ecabe2377a194fcf61eaae3765	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	wb3bl	\N	\N	\N	\N	\N	Wonder Boy III (Bootleg)	1988	Sega / Westone	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	a07.bin	\N	\N	32768	0bb901bb	c81b198df8e3b0ec568032c76addf0d1a1711194	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_02	\N	\N	65536	c87350cb	55a8cb68d70b6060dd9a55e281e216ce3917ea5b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_03	\N	\N	65536	0019ab3b	89d49a437690fa6e0c35bb9f1450042f89504714	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_04	\N	\N	65536	565d5035	e28a132f1a4ce9466945e231c54502178748af98	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_05	\N	\N	65536	196e17ee	71e4345b2c3d1612a3d424c9310fad1e23c8a9f7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_06	\N	\N	65536	e645902c	497cfcf6c25cc2e042e16dbcb1963d2223def15a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_07	\N	\N	65536	e774ec2c	a4aa15ec7be5539a740ad02ff720458018dbc536	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_08	\N	\N	65536	615e4927	d23f164973afa770714e284a77ddf10f18cc596b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_09	\N	\N	65536	0cd59d6e	caf754a461feffafcfe7bfc6e89da76c4db257c5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_10	\N	\N	65536	aeeecfca	496124b170a725ad863c741d4e021ab947511e4c	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_11	\N	\N	65536	5c2f0d90	e0fbc0f841e4607ad232931368b16e81440a75c4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_12	\N	\N	65536	4891e7bb	1be04fcabe9bfa8cf746263a5bcca67902a021a0	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_13	\N	\N	65536	8409a243	bcbb9510a6499d8147543d6befa5a49f4ac055d9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_14	\N	\N	65536	d3f20bca	0a87f709f8e2a913473512ede408e2cbc535443f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_15	\N	\N	65536	96ff9d52	791a9da4860e0d42fba98f80a3c6725ad8c73e33	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wb3bl	wb3_16	\N	\N	65536	afaf0d31	d4309329a0a543250788146b63b27ff058c02fc3	\N	\N	\N	\N	\N	\N	
+game	System_16_v0.82a	wrestwar	\N	\N	\N	\N	\N	Wrestle War	1989	Sega	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a1	\N	\N	131072	260311c5	6b52b671252aef992c0546468c44b722bdb6a649	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a2	\N	\N	65536	12e38a5c	05558a370b4e8100d2fa5e700a5ab76771ff7729	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a5	\N	\N	131072	6714600a	8b04347f39bb8a8bc52b1bbfa367d42ea7c61bc9	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a6	\N	\N	131072	ddf075cb	5d887f0d5786fa62757c593d937bba6f150c1b12	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a7	\N	\N	131072	eeaba126	ca1f630ff0cfc301205d2b8226d7614eadc117b7	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a8	\N	\N	131072	b77ba665	b6a01ca857b5127ebb763f18cd4123185a7765a6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a14	\N	\N	131072	6a821ab9	e69f7e534835d4c820746ffc3ad76c3b7bb9b02e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a15	\N	\N	131072	2b1a0751	8cb1027ef3728f5bdfdb5e2df0f0421f743cdc0a	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a16	\N	\N	131072	f6e190fe	4c8b334fb22c449d8d00c8f49f5eccbe008e244f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b1	\N	\N	131072	ffa7d368	e5663ef1cbe8ab27be0919a3cd78d9a7747bbac6	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b2	\N	\N	131072	0ed343f2	951bd616e63c5fe0aa3f387c9c12153b4f29675f	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b3	\N	\N	131072	3087104d	9ad0ea2b580820443c576cbb95d57467e32ea7b5	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b4	\N	\N	131072	41b6068b	c1f1f51c4e0f4320cef7821bccac5b0c9e915d9b	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b5	\N	\N	131072	8d7794c1	ace87970cfa02ab8200173622633d0d70ef7aa9e	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b6	\N	\N	131072	99458d58	87020267610c5784e066bb4e3551852d27b4cf61	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b7	\N	\N	131072	abcf9bed	4f755cfd0304e877b798c31de50e15995f8c4edf	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b8	\N	\N	131072	97eac164	2bb62e6d8b2d662e9b31aa8d238a51af7c7905e8	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b10	\N	\N	131072	35a4b1b1	c3b8ba708f9f2822e48e52ea74d7e96f08182ac4	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.b11	\N	\N	65536	fa06fd24	20a578b82a75fe96a230c91645108fdc8b5bae21	\N	\N	\N	\N	\N	\N	
+game_rom	System_16_v0.82a	wrestwar	ww.a10	\N	\N	32768	c3609607	2e0acb775c60851bf0b2037b91b07ead061d5862	\N	\N	\N	\N	\N	\N	
+game_sample	System_16_v0.82a	wrestwar	wwar_41.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_42.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_43.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_44.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_45.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_46.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_47.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_48.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_49.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4a.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4b.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4c.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4d.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4e.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_4f.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_50.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_51.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_52.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_53.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_54.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_55.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_56.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_57.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_58.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_59.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5a.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5b.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5c.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5d.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5e.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_5f.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_60.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_61.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_62.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_63.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_64.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_65.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_94.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_95.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b0.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b1.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b2.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b3.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b4.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b5.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b6.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b7.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b8.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_b9.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_ba.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_bb.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_bc.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_bd.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_be.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_bf.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_c0.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_c1.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_c3.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_c4.wav	
+game_sample	System_16_v0.82a	wrestwar	wwar_c5.wav	

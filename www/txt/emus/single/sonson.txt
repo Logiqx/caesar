@@ -1,0 +1,10 @@
+
+emulator	sonson	single	SonSon_Emulator_v0.1	\N	\N	\N	SonSon Arcade Machine Emulator	Pre-release v0.1	15/08/1997	DOS	SonSon (Capcom)	Janne's fourth emulator (I think). Colours are incorrect. SonSon is also supported by RAGE.	Dormant
+emulator_homepage	sonson	http://home5.swipnet.se/~w-50884/emulator/emulator.htm	\N
+emulator_author_link	sonson	janne_korpela	\N	author
+
+emulator_features	sonson	No	No	No	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sonson	Keyboard
+emulator_relative_link	sonson	rage	successor
+
+emulator_file	sonson	Emulator	sem011.zip

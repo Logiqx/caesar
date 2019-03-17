@@ -1,0 +1,13 @@
+
+author	aaron_giles	Aaron Giles	\N
+author_email	aaron_giles	agiles@mame.net
+author_homepage	aaron_giles	http://www.aarongiles.com/	\N
+author_emulator_link	aaron_giles	mame	author
+
+author_emulator_link	aaron_giles	macmame	author
+
+author_emulator_link	aaron_giles	radikal_bikers_emulator	author
+
+author_emulator_link	aaron_giles	retrocade	contributor
+
+author_tool_link	aaron_giles	asgard

@@ -1,0 +1,17 @@
+
+emulator	galemu	multi	GalEmu_v40.9	\N	\N	\N	GalEmu	40.9	13/02/2000	DOS	Runs games that use the Galaxian/Pisces/Moon Cresta Hardware	\N	Dormant
+emulator_homepage	galemu	http://galemu.emuunlim.com/	\N
+emulator_author_link	galemu	barry_rodewald	\N	author
+
+emulator_library_link	galemu	multiz80
+emulator_tool_link	galemu	djgpp
+emulator_tool_link	galemu	allegro
+emulator_tool_link	galemu	seal
+emulator_features	galemu	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	galemu	Keyboard
+emulator_relative_link	galemu	galemu_windows	port
+
+emulator_relative_link	galemu	galemu_linux	port
+
+emulator_file	galemu	Emulator for DOS	gal0409.zip
+emulator_file	galemu	Samples (shot.sam and backgrnd.sam)	galaxian.zip

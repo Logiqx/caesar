@@ -1,0 +1,27 @@
+
+emulator	taito_legends	commercial	Taito_Legends	\N	4	3	Taito Legends	-	14/10/2005	Windows	Classic Taito arcade games of the 70s, 80s and 90s!	Taito Legends offers arcade perfect conversions of more than 30 classic Taito games including Space Invaders, Operation Wolf and Bubble Bobble. This retro games collection spans almost 20 years of arcade gaming history!	Released
+emulator_homepage	taito_legends	http://www.taitolegends.com/	\N
+emulator_author_link	taito_legends	taito	\N	author
+
+emulator_features	taito_legends	Yes	No	?	?	?	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	taito_legends	Keyboard
+emulator_controller	taito_legends	Joystick
+emulator_author_link	taito_legends	brian_mcphail	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	jarek_burczynski	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	mike_montgomery	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	neil_tringham	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	scott_williams	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	steve_berge	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	nicola_salmoria	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends	andrew_seed	Programming - Atomic Planet Entertainment	contributor
+
+emulator_relative_link	taito_legends	taito_legends_ps2	port
+
+emulator_relative_link	taito_legends	taito_legends_xbox	port

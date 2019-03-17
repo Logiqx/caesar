@@ -1,0 +1,11 @@
+
+emulator	centimu	mac	CentiMu_v1.0d6	\N	\N	\N	CentiMu	1.0d6	17/09/2000	Mac	Centipede (Atari)	Written in REALbasic for the PPC	Dormant
+emulator_homepage	centimu	http://www.squirrelsw.com/cats/emulation.html	\N
+emulator_author_link	centimu	nick_vellios	\N	author
+
+emulator_tool_link	centimu	real_basic
+emulator_features	centimu	?	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	centimu	Keyboard
+emulator_relative_link	centimu	centimupp	successor
+
+emulator_file	centimu	Emulator	CentiMu_d6.sit

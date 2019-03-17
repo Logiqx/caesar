@@ -1,0 +1,10 @@
+
+emulator	classicemu	multi	ClassicEmu_v0.01	\N	\N	\N	ClassicEmu	0.01	04/01/1997	DOS	Amidar, Galaxian, Space Invaders etc	Original called the Multi Game Emulator.	Discontinued
+emulator_homepage	classicemu	\N	none
+emulator_author_link	classicemu	warren_mills	\N	author
+
+emulator_library_link	classicemu	z80
+emulator_tool_link	classicemu	watcom
+emulator_features	classicemu	No	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	classicemu	Keyboard
+emulator_file	classicemu	Emulator	clasemu.zip

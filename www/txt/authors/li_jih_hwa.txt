@@ -1,0 +1,10 @@
+
+author	li_jih_hwa	Li Jih Hwa (Nao)	\N
+author_email	li_jih_hwa	nao@ms6.hinet.net
+author_emulator_link	li_jih_hwa	m72	author
+
+author_emulator_link	li_jih_hwa	system16	author
+
+author_emulator_link	li_jih_hwa	system16_beta	author
+
+author_emulator_link	li_jih_hwa	fm_emu	contributor

@@ -1,0 +1,15 @@
+
+emulator	ace	multi	ACE_v1.9	\N	\N	\N	ACE (Another Capcom Play System Emulator)	1.9	24/02/2002	Windows	Capcom CPS-1, CPS-2 and Neo-Geo games	One of many Capcom/SNK emulators. When the author lost his latest source code in a hard disk crash, he didn't want to continue it any longer.	Discontinued
+emulator_homepage	ace	http://ace.emuunlim.com/	\N
+emulator_author_link	ace	rollback	\N	author
+
+emulator_library_link	ace	musashi
+emulator_library_link	ace	multiz80
+emulator_tool_link	ace	msvc
+emulator_tool_link	ace	midas
+emulator_tool_link	ace	zlib
+emulator_features	ace	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	ace	Keyboard
+emulator_file	ace	Emulator	ace19.zip
+emulator_file	ace	Source	ace18src.zip
+emulator_file	ace	Super Gem Fighter driver - the last thing released!	sgemf.zip

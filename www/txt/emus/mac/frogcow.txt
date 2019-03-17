@@ -1,0 +1,9 @@
+
+emulator	frogcow	mac	FrogCow_v1.0	\N	\N	\N	FrogCow	1.0	30/07/1998	Mac	Frogger (Sega)	Only for the PPC, not 68k based Macs	Dormant
+emulator_homepage	frogcow	\N	none
+emulator_author_link	frogcow	eric_hustvedt	\N	author
+
+emulator_tool_link	frogcow	asgard
+emulator_features	frogcow	?	No	No	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	frogcow	Keyboard
+emulator_file	frogcow	Emulator	FrogCow.sit.hqx

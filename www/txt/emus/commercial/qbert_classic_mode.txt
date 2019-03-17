@@ -1,0 +1,14 @@
+
+emulator	qbert_classic_mode	commercial	QBert_Classic_Mode	\N	\N	\N	QBert Classic Mode	-	1999	Windows	QBert (Gottlieb)	The 'classic mode' version of QBert for Hasbro Interactive's QBert release.	Released
+emulator_homepage	qbert_classic_mode	http://www.digitaleclipse.com	\N
+emulator_author_link	qbert_classic_mode	hasbro_interactive	\N	author
+
+emulator_features	qbert_classic_mode	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	qbert_classic_mode	Keyboard
+emulator_controller	qbert_classic_mode	Joystick
+emulator_controller	qbert_classic_mode	Mouse
+emulator_author_link	qbert_classic_mode	digital_eclipse	Development	contributor
+
+emulator_relative_link	qbert_classic_mode	qbert_classic_mode_psx	port
+
+emulator_relative_link	qbert_classic_mode	qbert_classic_mode_dc	port

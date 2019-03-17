@@ -1,0 +1,6 @@
+
+author	manuel_abadia	Manuel Abadia	\N
+author_email	manuel_abadia	combatschool@hotmail.com
+author_emulator_link	manuel_abadia	xor_world_emulator	author
+
+author_emulator_link	manuel_abadia	combatschool	contributor

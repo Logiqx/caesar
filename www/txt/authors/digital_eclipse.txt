@@ -1,0 +1,45 @@
+
+author	digital_eclipse	Digital Eclipse	\N
+author_emulator_link	digital_eclipse	williams_digital_arcade	contributor
+
+author_emulator_link	digital_eclipse	williams_arcade_classics	contributor
+
+author_emulator_link	digital_eclipse	williams_arcade_classics_95	contributor
+
+author_emulator_link	digital_eclipse	williams_greatest_hits	contributor
+
+author_emulator_link	digital_eclipse	williams_greatest_hits_sat	contributor
+
+author_emulator_link	digital_eclipse	midway_greatest_hits	contributor
+
+author_emulator_link	digital_eclipse	midway_collection_2	contributor
+
+author_emulator_link	digital_eclipse	midway_collection_2_pc	contributor
+
+author_emulator_link	digital_eclipse	atari_collection	contributor
+
+author_emulator_link	digital_eclipse	atari_collection_sat	contributor
+
+author_emulator_link	digital_eclipse	atari_arcade_hits_1	contributor
+
+author_emulator_link	digital_eclipse	atari_arcade_hits_2	contributor
+
+author_emulator_link	digital_eclipse	atari_collection_2	contributor
+
+author_emulator_link	digital_eclipse	atari_collection_2_pc	contributor
+
+author_emulator_link	digital_eclipse	centipede_classic_mode	contributor
+
+author_emulator_link	digital_eclipse	centipede_classic_mode_dc	contributor
+
+author_emulator_link	digital_eclipse	qbert_classic_mode	contributor
+
+author_emulator_link	digital_eclipse	qbert_classic_mode_psx	contributor
+
+author_emulator_link	digital_eclipse	qbert_classic_mode_dc	contributor
+
+author_emulator_link	digital_eclipse	arcade_party_pak	contributor
+
+author_emulator_link	digital_eclipse	arcade_party_pak_pc	contributor
+
+author_emulator_link	digital_eclipse	shockwave_arcade	contributor

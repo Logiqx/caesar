@@ -1,0 +1,10 @@
+
+emulator	jape	java	empty	\N	\N	\N	JAPE (Java Arcade Project Emulator)	0.20	13/09/2006	Java	Arcade classics	Quote from the JAPE home page: In the future, JAPE could be a good Java counterpart to MAME. This project is a good source of information on the software and hardware of many arcade games. You now have a fully-featured Java version to play with. If you are not familiar with C or the complex MAME compilation, you can use the Java version instead, try to write new drivers or experiment with the emulator and built-in debugger, etc.	Active
+emulator_homepage	jape	http://www.innoveware.com/	\N
+emulator_author_link	jape	gollum	\N	author
+
+emulator_features	jape	Yes	Yes	?	?	?	?	?	?	Yes	Yes	\N	\N	\N
+emulator_controller	jape	Keyboard
+emulator_file	jape	Emulator	jape020b.zip
+emulator_file	jape	Source	jape020s.zip
+emulator_file	jape	CMPro data file	jape020dat.zip

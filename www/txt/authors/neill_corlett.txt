@@ -1,0 +1,8 @@
+
+author	neill_corlett	Neill Corlett	\N
+author_email	neill_corlett	corlett@lfx.org
+author_emulator_link	neill_corlett	mge	author
+
+author_emulator_link	neill_corlett	retrocade	contributor
+
+author_library_link	neill_corlett	starscream

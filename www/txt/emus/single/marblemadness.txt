@@ -1,0 +1,11 @@
+
+emulator	marblemadness	single	Marble_Madness_Emulator_v0.2_beta	\N	\N	\N	Marble Madness Emulator	0.2 beta	13/09/1998	Windows	Marble Madness (Atari)	\N	Dormant
+emulator_homepage	marblemadness	http://www.rmaonline.net/hippies/theplasticfactory/	bad
+emulator_author_link	marblemadness	peter_hirschberg	\N	author
+
+emulator_library_link	marblemadness	multi6502
+emulator_library_link	marblemadness	starscream
+emulator_tool_link	marblemadness	msvc
+emulator_features	marblemadness	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	marblemadness	Keyboard
+emulator_file	marblemadness	Emulator	mmeb2.zip

@@ -1,0 +1,13 @@
+
+emulator	finalpengo	single	Final_Pengo_Emulator_v1.0	\N	\N	\N	Final Pengo Emulator	1.0	17/02/1997	DOS	Pengo (Sega)	Emulates Pengo extremely well but requires a rare decrypted version of the Pengo Popcorn ROMs	Dormant
+emulator_homepage	finalpengo	\N	none
+emulator_author_link	finalpengo	sergio_munoz	\N	author
+
+emulator_library_link	finalpengo	z80
+emulator_tool_link	finalpengo	djgpp
+emulator_tool_link	finalpengo	allegro
+emulator_tool_link	finalpengo	seal
+emulator_features	finalpengo	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	finalpengo	Keyboard
+emulator_controller	finalpengo	Joystick
+emulator_file	finalpengo	Emulator	fpengo10 - un.zip

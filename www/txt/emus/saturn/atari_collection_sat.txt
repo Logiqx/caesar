@@ -1,0 +1,10 @@
+
+emulator	atari_collection_sat	saturn	Arcades_Greatest_Hits_-_The_Atari_Collection_1	\N	\N	\N	Arcades Greatest Hits: The Atari Collection 1 (Saturn)	-	1996	Saturn	Asteroids, Battlezone, Centipede, Missile Command, Super Breakout, Tempest	The second of the arcade emulators that Digital Eclipse created for the Saturn.	Released
+emulator_homepage	atari_collection_sat	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_collection_sat	midway	\N	author
+
+emulator_features	atari_collection_sat	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_collection_sat	Joypad
+emulator_author_link	atari_collection_sat	digital_eclipse	Development	contributor
+
+emulator_relative_link	atari_collection_sat	atari_collection	port_of

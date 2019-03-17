@@ -1,0 +1,10 @@
+
+emulator	trombone	sound	tROMbone_v0.11	\N	\N	\N	tROMbone	0.11	25/12/2000	Windows	Converts sound ROMs to WAV format	Quite a variety of games supported including CPS1, Data East, Toaplan, Sega System 16, Taito F3 and Konami.	Dormant
+emulator_homepage	trombone	\N	none
+emulator_author_link	trombone	mutewitness	\N	author
+
+emulator_tool_link	trombone	delphi
+emulator_features	trombone	Yes	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	trombone	Keyboard
+emulator_controller	trombone	Mouse
+emulator_file	trombone	Player	trombone_12252000.zip

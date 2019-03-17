@@ -1,0 +1,16 @@
+
+emulator	pooyan	single	Pooyan_Arcade_Machine_Emulator	\N	\N	\N	Pooyan Arcade Machine Emulator	?	11/02/1997	DOS	Pooyan (Konami)	Based on Allard and Nicola's arcade structure	Dormant
+emulator_homepage	pooyan	http://valhalla.ph.tn.tudelft.nl/emul8	bad
+emulator_author_link	pooyan	allard_van_der_bas	\N	author
+
+emulator_library_link	pooyan	z80em
+emulator_tool_link	pooyan	allegro
+emulator_tool_link	pooyan	djgpp
+emulator_features	pooyan	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	pooyan	Keyboard
+emulator_controller	pooyan	Joystick
+emulator_author_link	pooyan	scott_decker	Help with the colours	contributor
+
+emulator_author_link	pooyan	paul_swan	Information on the sound hardware	contributor
+
+emulator_file	pooyan	Emulator	Pooyan Arcade Machine Emulator 970211 [Dos].zip

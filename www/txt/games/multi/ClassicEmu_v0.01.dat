@@ -1,0 +1,62 @@
+game	ClassicEmu_v0.01	amidar	\N	\N	\N	\N	\N	Amidar	1981	Konami	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.2c	\N	\N	4096	c294bf27	399325bf1559e8cdbddf7cfbf0dc739f9ed72ef0	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.2e	\N	\N	4096	e6e96826	e9c4f8c594640424b456505e676352a98b758c03	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.2f	\N	\N	4096	3656be6f	9d652f66bedcf17a6453c0e0ead30bfd7ea0bd0a	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.2h	\N	\N	4096	1be170bd	c047bc393b297c0d47668a5f6f4870e3fac937ef	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.5c	\N	\N	4096	c4b66ae4	9d09dbde4019f7be3abe0815b0e06d542c01c255	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.5d	\N	\N	4096	806785af	c8c85e3a6a204feccd7859b4527bd649e96134b4	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.5f	\N	\N	2048	5e51e84d	dfe84db7e2b1a45a1d484fcf37291f536bc5324c	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidar	amidar.5h	\N	\N	2048	2f7f1c30	83c330eca20dfcc6a4099001943b9ed7a7c3db5b	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	amidaru	\N	\N	amidar	amidar	\N	Amidar (Stern)	1982	Konami (Stern license)	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.2c	\N	\N	4096	951e0792	3a68b829c9ffb465bd6582c9ea566e0e947c6c19	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.2e	\N	\N	4096	a1a3a136	330ec857fdf4c1b28e2560a5f63a2432f87f9b2f	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.2f	\N	\N	4096	a5121bf5	fe15b91724758ede43dd332327919f164772c592	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.2h	\N	\N	4096	051d1c7f	3cfa0f728a5c27da0a3fe2579ad226129ccde232	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.2j	\N	\N	4096	351f00d5	6659357f40f888b21be00826246200fd3a8a88ce	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.5c	\N	\N	4096	8ca7b750	4f4c2915503b85abe141d717fd254ee10c9da99e	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.5d	\N	\N	4096	9b5bdc0a	84d953618c8bf510d23b42232a856ac55f1baff5	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.5f	\N	\N	2048	2cfe5ede	0d86a78008ac8653c17fff5be5ebdf1f0a9d31eb	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	amidaru	amidarus.5h	\N	\N	2048	57c4fd0d	8764deec9fbff4220d61df621b12fc36c3702601	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	galaxian	\N	\N	\N	\N	\N	Galaxian (Midway)	1979	[Namco] (Midway license)	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.u	\N	\N	2048	745e2d61	e65f74e35b1bfaccd407e168ea55678ae9b68edf	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.v	\N	\N	2048	9c999a40	02fdcd95d8511e64c0d2b007b874112d53e41045	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.w	\N	\N	2048	b5894925	0046b9ed697a34d088de1aead8bd7cbe526a2396	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.y	\N	\N	2048	6b3ca10b	18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.z	\N	\N	2048	cb24f797	e6bb977ded0654c2c7388aad188059e1e0647908	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.1h	\N	\N	2048	84decf98	2e565cb6057b1816a6b4541e6dfadd3c3762fa36	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galaxian	galaxian.1k	\N	\N	2048	c31ada9e	237ebb48549b34ca59a13cc2706512d957413ec4	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	galax_px	\N	\N	\N	\N	\N	Galaxian Part X	1979	hack	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.u	\N	\N	2048	79e4007d	d55050498a670d1c022ba3caad34f8fcaccf4a30	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.v	\N	\N	2048	bc16064e	4e3220fd63c8184bf9581a89dffb6944d8fae3bb	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.w	\N	\N	2048	72d2d3ee	96e0c5824e46d7398c7e58dd6b75a9f4ead6f3f5	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.y	\N	\N	2048	afe397f3	283c6f3b3f07581d88f7a6e11fc36947a9d90e2e	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.z	\N	\N	2048	778c0d3c	6a81875abfea515d379c6212cb57f8e54573e943	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.1h	\N	\N	2048	e8810654	b6924c7ad765c32714e6abd5bb56b2732edd5855	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	galax_px	galax_px.1k	\N	\N	2048	cbe84a76	c6d72fb452e8213dd40a2eb5dcca726d7cdca658	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	sup_galx	\N	\N	\N	\N	\N	Super Galaxians	1979	hack	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.u	\N	\N	2048	e8f3aa67	a0e9576784dbe602dd9780e667f01f31defd7c00	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.v	\N	\N	2048	f58283e3	edc6e72516c50fd3402281d9936574d276581ce9	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.w	\N	\N	2048	ddeabdae	daa5109a32c7c9a80bdb212dc3e4e3e3c104a731	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.y	\N	\N	2048	9463f753	d9cb35c19aafec43d08b048bbe2337a790f6ba9d	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.z	\N	\N	2048	e6312e35	c4010459379d7fe00f605aaf288928b2deffb8b2	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.1h	\N	\N	2048	84decf98	2e565cb6057b1816a6b4541e6dfadd3c3762fa36	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	sup_galx	supergal.1k	\N	\N	2048	c31ada9e	237ebb48549b34ca59a13cc2706512d957413ec4	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	wotbug	\N	\N	\N	\N	\N	War of the Bugs	1981	Armenia	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotb1.bin	\N	\N	2048	b8dfb7e3	c7c675b2638869a9cd7dbd554e6131d8c71b567a	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotb2.bin	\N	\N	2048	fd8854e0	b39ab41b834f18341968dd780f0a3cd07d70c16c	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotb3.bin	\N	\N	2048	4495aa14	f1be281db1d831770efa9cc41ea87eb348e70108	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotb4.bin	\N	\N	2048	c14a541f	d32e89fd18d9e1db2e4a545186eac728c0b02255	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotb5.bin	\N	\N	2048	c167fe55	d85c4d1bd7aa5e14eb2f11dfa14979e5dbc084a8	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotbh1.bin	\N	\N	2048	8100fa85	06641c431cace36dec98b87555f62e72f3e53a31	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	wotbug	wotbl1.bin	\N	\N	2048	d1220ae9	e892bc8b0b71d8b07503e474e9c30e6cab460682	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	ClassicEmu_v0.01	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	ClassicEmu_v0.01	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	

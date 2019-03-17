@@ -1,0 +1,11 @@
+
+emulator	kallus2	fake	empty	\N	\N	\N	Kallus 2	0.065 (Preliminary)	24/02/1999	DOS	Claims to emulate CPS2	Don't even bother downloading it. Lord knows why I uploaded it!	Discontinued
+emulator_homepage	kallus2	\N	none
+emulator_author_link	kallus2	jakesh	\N	author
+
+emulator_tool_link	kallus2	djgpp
+emulator_tool_link	kallus2	allegro
+emulator_tool_link	kallus2	seal
+emulator_features	kallus2	No	No	No	No	No	No	No	No	Nos	No	No	\N	No
+emulator_controller	kallus2	Keyboard
+emulator_file	kallus2	Emulator (that does nothing)	kallus2a.zip

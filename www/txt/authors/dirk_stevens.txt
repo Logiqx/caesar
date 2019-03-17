@@ -1,0 +1,7 @@
+
+author	dirk_stevens	Dirk Stevens	\N
+author_email	dirk_stevens	dstevens@retrofx.com
+author_emulator_link	dirk_stevens	retrofx_gng	author
+
+author_tool_link	dirk_stevens	eagle
+author_tool_link	dirk_stevens	retrofx

@@ -1,0 +1,9 @@
+
+emulator	chopsuey	single	ChopSuey_v0.3333	\N	\N	\N	ChopSuey (The Choplifter Emulator)	0.3333	19/10/1997	DOS	Choplifter (Sega)	No collision detection means it isn't too useful for playing	Dormant
+emulator_homepage	chopsuey	\N	none
+emulator_author_link	chopsuey	enrique_sanchez	\N	author
+
+emulator_library_link	chopsuey	maze
+emulator_features	chopsuey	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	chopsuey	Keyboard
+emulator_file	chopsuey	Emulator	csuey033.zip

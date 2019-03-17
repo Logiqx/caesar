@@ -1,0 +1,1386 @@
+game	VAntAGE_v1.12	1942	\N	\N	\N	\N	\N	1942 (set 1)	1984	Capcom	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-n3a.bin	\N	\N	16384	40201bab	4886c07a4602223c21419118e10aadce9c99fa5a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-n4.bin	\N	\N	16384	a60ac644	f37862db3cf5e6cc9ab3276f3bc45fd629fd70dd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-n5.bin	\N	\N	16384	835f7b24	24b66827f08c43fbf5b9517d638acdfc38e1b1e7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-n6.bin	\N	\N	8192	821c6481	06becb6bf8b4bde3a458098498eecad566a87711	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-n7.bin	\N	\N	16384	5df525e1	70cd2910e2945db76bd6ebfa0ff09a5efadc2d0b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-c11.bin	\N	\N	16384	bd87f06b	821f85cf157f81117eeaba0c3cf0337eac357e58	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	1-f2.bin	\N	\N	8192	6ebca191	0dbddadde54a0ab66994c4a8726be05c6ca88a0e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a1.bin	\N	\N	8192	3884d9eb	5cbd9215fa5ba5a61208b383700adc4428521aed	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a2.bin	\N	\N	8192	999cf6e0	5b8b685038ec98b781908b92eb7fb9506db68544	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a3.bin	\N	\N	8192	8edb273a	85fdd4c690ed31e6396e3c16aa02140ee7ea2d61	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a4.bin	\N	\N	8192	3a2726c3	187c92ef591febdcbd1d42ab850e0cbb62c00873	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a5.bin	\N	\N	8192	1bd3d8bb	ef4dce605eb4dc8035985a415315ec61c21419c6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-a6.bin	\N	\N	8192	658f02c4	f087d69e49e38cf3107350cde18fcf85a8fa04f0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-l1.bin	\N	\N	16384	2528bec6	29f7719f18faad6bd1ec6735cc24e69168361470	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-l2.bin	\N	\N	16384	f89287aa	136fff6d2a4f48a488fc7c620213761459c3ada0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-n1.bin	\N	\N	16384	024418f8	145b8d5d6c8654cd090955a98f6dd8c8dbafe7c1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	2-n2.bin	\N	\N	16384	e2c7e489	d4b5d575c021f58f6966df189df94e08c5b3621c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	08e_sb-5.bin	\N	\N	256	93ab8153	a792f24e5c0c3c4a6b436102e7a98199f878ece1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	09e_sb-6.bin	\N	\N	256	8ab44f7d	f74680a6a987d74b3acb32e6396f20e127874149	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	10e_sb-7.bin	\N	\N	256	f4ade9a4	62ad31d31d183cce213b03168daa035083b2f28e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	f01_sb-0.bin	\N	\N	256	6047d91b	1ce025f9524c1033e48c5294ee7d360f8bfebe8d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	06d_sb-4.bin	\N	\N	256	4858968d	20b5dbcaa1a4081b3139e7e2332d8fe3c9e55ed6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1942	03k_sb-8.bin	\N	\N	256	f6fad943	b0a24ea7805272e8ebf72a99b08907bc00d5f82f	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	1943	\N	\N	\N	\N	\N	1943 - The Battle of Midway (US)	1987	Capcom	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.01	\N	\N	32768	c686cc5c	5efb2d9df737564d599f71b71a6438f7624b27c3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.02	\N	\N	65536	d8880a41	2f9b6a3922efa05eed66c63284bace5f337304ac	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.03	\N	\N	65536	3f0ee26c	8da74fe91a6be3f23fc625f2a433f1f79c424994	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.05	\N	\N	32768	ee2bd2d7	4d2d019a9f8452fbbb247e893280568a2e86073e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.04	\N	\N	32768	46cb9d3d	96fd0e714b91fe13a2ca0d185ada9e4b4baa0c0b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.15	\N	\N	32768	6b1a0443	32337c840ccd6815fd5844c194365c58d708f6dc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.16	\N	\N	32768	23c908c2	42b83ff5781be9181802a21ff1b23c17ab1bc5a2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.17	\N	\N	32768	46bcdd07	38feda668be25d1adc04aa36afc73b07c1545f89	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.18	\N	\N	32768	e6ae7ba0	959c306dc28b9be2adc54b3d46312d26764c7b8b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.19	\N	\N	32768	868ababc	1c7be905f53c63bad25fbbd9b3cf82d2c7749bc3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.20	\N	\N	32768	0917e5d4	62dd277bc1fa54cfe168ae2380bc147bd17f4205	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.21	\N	\N	32768	9bfb0d89	f1bae7ec46edcf46c7af84c054e89b322f8c8972	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.22	\N	\N	32768	04f3c274	932780c04abe285e1ec67b726b145175f73eafe0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.24	\N	\N	32768	11134036	88da112ab9fc7e0d8f0e901f273715b950ae588c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.25	\N	\N	32768	092cf9c1	19fe3c714b1d52cbb21dea25cdee5af841f525db	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.06	\N	\N	32768	97acc8af	c9fa07cb61f6905408b355edabfe453fb652ff0d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.07	\N	\N	32768	d78f7197	6367c7e80e80d4a0d33d7840b5c843c63c80123e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.08	\N	\N	32768	1a626608	755c27a07728fd686168e9d9e4dee3d8f274892a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.09	\N	\N	32768	92408400	3ab299bad1ba115efead53ebd92254abe7a092ba	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.10	\N	\N	32768	8438a44a	873629b00cf3f6d8976a7fdafe63cd16e47b7491	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.11	\N	\N	32768	6c69351d	c213d5c3e76a5749bc32539604716dcef6dcb694	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.12	\N	\N	32768	5e7efdb7	fef271a38dc1a9e45a0c6e27e28e713c77c8f8c9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.13	\N	\N	32768	1143829a	2b3a65e354a205c05a87f783e9938b64bc62396f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.14	\N	\N	32768	4d3c6401	ce4f6dbf8fa030ad45cbb5afd58df27fed2d4618	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	1943.23	\N	\N	32768	a52aecbd	45b0283d84d394c16c35802463ca95d70d1062d4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.01	\N	\N	256	74421f18	5b8b59f6f4e5ad358611de50608f47f41a5b0e51	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.02	\N	\N	256	ac27541f	1796c4c9041dfe28e6319576f21df1dbcb8d12bf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.03	\N	\N	256	251fb6ff	d1118159b3d429d841e4efa938728ebedadd7ec5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.05	\N	\N	256	206713d0	fa609f6d675af18c379838583505724d28bcff0e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.10	\N	\N	256	33c2491c	13da924e4b182759c4aae49034f3a7cbe556ea65	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.09	\N	\N	256	aeea4af7	98f4570ee061e9aa58d8ed2d2f8ae59ce2ec5795	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.12	\N	\N	256	c18aa136	684f04d9a5b94ae1db5fb95763e65271f4cf8e01	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.11	\N	\N	256	405aae37	94a06f81b775c4e49d57d42fc064d3072a253bbd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.08	\N	\N	256	c2010a9e	be9852500209066e2f0ff2770e0c217d1636a0b5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.07	\N	\N	256	b56f30c3	9f5e6db464d21457a33ec8bdfdff069632b791db	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.04	\N	\N	256	91a8a2e1	9583c87eff876f04bc2ccf7218cd8081f1bcdb94	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943	bmprom.06	\N	\N	256	0eaf5158	bafd4108708f66cd7b280e47152b108f3e254fc9	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	1943kai	\N	\N	\N	\N	\N	1943 Kai	1987	Capcom	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.01	\N	\N	32768	7d2211db	b02a0b3daf7e1e224b7cad8fbe93439bd5ec9f0b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.02	\N	\N	65536	2ebbc8c5	3be5ad061411642723e3f2bcb7b3c3caa11ee15f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.03	\N	\N	65536	475a6ac5	fa07a855ba9173b6f81641c806ec7d938b0c282e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.05	\N	\N	32768	25f37957	1e50c2a920eb3b5c881843686db857e9fee5ba1d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.04	\N	\N	32768	884a8692	027aa8c868dc07ccd9e27705031107881aef4b91	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.15	\N	\N	32768	6b1a0443	32337c840ccd6815fd5844c194365c58d708f6dc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.16	\N	\N	32768	9416fe0d	92fbc8fffa4497747ab80abe20eef361f6525114	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.17	\N	\N	32768	3d5acab9	887d45b648fda952ae2137579f383ab8ede1facd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.18	\N	\N	32768	7b62da1d	1926109a2ab2f550ca87b0d2af73abd2b4a7498d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.19	\N	\N	32768	868ababc	1c7be905f53c63bad25fbbd9b3cf82d2c7749bc3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.20	\N	\N	32768	b90364c1	104bc02237eeead84c7f35462186d0a1af8761bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.21	\N	\N	32768	8c7fe74a	8846b57d7f47c10ab1f505c359ecf36dcbacb011	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.22	\N	\N	32768	d5ef8a0e	2e42b1fbbfe823a33740a56d1334657db56d24d2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.24	\N	\N	32768	bf186ef2	cacbb8a61f8a64c3ba4ffde5ca6f07fe120b9a7e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.25	\N	\N	32768	a755faf1	8ee286d6ad7454ae34971f5891ddba4b76c244b0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.06	\N	\N	32768	5f7e38b3	33f69ebe91a0ee45d9107171fed26da475aaab3a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.07	\N	\N	32768	ff3751fd	bc942ddd46e7b147115e8ac22d24c2d018a7c373	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.08	\N	\N	32768	159d51bd	746aa49b18aff0eaf2fb875c573d455416d45a1d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.09	\N	\N	32768	8683e3d2	591dc4811b226fe11cd5441ecb51aa3e95e68ac5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.10	\N	\N	32768	1e0d9571	44ea9603020e9ab717e3e506f7ecf288506c0502	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.11	\N	\N	32768	f1fc5ee1	4ffc8e57734d3b59df695b86070511f1c447b992	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.12	\N	\N	32768	0f50c001	0e6367d3f0ba39a00ee0fa6e42ae9d43d12da23d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.13	\N	\N	32768	fd1acf8e	88477ff1e5fbbca251d8cd4f241b42618ba64a80	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.14	\N	\N	32768	cf0f5a53	dc50f3f937f52910dbd0cedbc232acfed0aa6a42	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	1943kai.23	\N	\N	32768	17f77ef9	8ebb4b440042436ec2db52bad808cced832db77c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk01.bin	\N	\N	256	e001ea33	4204bdf87820ac84bab2a1b5571a2ee28c4cdfc5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk02.bin	\N	\N	256	af34d91a	94bc6514c980fdd1cb013ff0819d6f32464c581c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk03.bin	\N	\N	256	43e9f6ef	e1f58368fe0bd9b53f6c286ce5009b218a5197dc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk05.bin	\N	\N	256	41878934	8f28210ab1d409c89600169a136b74a706001cdf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk10.bin	\N	\N	256	de44b748	0694fb19d98ccda728424436fc7350da7b5bd05e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk09.bin	\N	\N	256	59ea57c0	f961c7e9981cc819c2adf4efdc977841d284a3a2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk12.bin	\N	\N	256	8765f8b0	f32bab8e3587434b864fe97da9423f2335ccba2e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk11.bin	\N	\N	256	87a8854e	0cbc601b736d566d625867d65e0f7b2abb535c65	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk08.bin	\N	\N	256	dad17e2d	fdb18ddc7574153bb7e27ba08b04b9dc87061c02	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmk07.bin	\N	\N	256	76307f8d	8d655e2a5c50541795316d924b2f18b55f4b9571	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmprom.04	\N	\N	256	91a8a2e1	9583c87eff876f04bc2ccf7218cd8081f1bcdb94	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	1943kai	bmprom.06	\N	\N	256	0eaf5158	bafd4108708f66cd7b280e47152b108f3e254fc9	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	600	\N	\N	turtles	turtles	\N	600	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.2c	\N	\N	4096	8ee090ae	3d491313da6cccd6dbc15774569be0555fe2f73a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.2e	\N	\N	4096	45bfaff2	ba4f7aa499f4993ec2191b8832b5604fd41964bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.2f	\N	\N	4096	9f4c8ed7	2564dae82019097227351a7ddc9c5156ca00297a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.2h	\N	\N	4096	a92ef056	c319d41a3345b84670fe9110f78332c1cfe1e163	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.2j	\N	\N	4096	6dadd72d	5602b5ebb2c287f72a5ce873b4e3dfd19b8412a0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_snd.5c	\N	\N	4096	1773c68e	cc4aa3a98e85bc6300f8c1ee1a0448071d7c6dfa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_snd.5d	\N	\N	4096	a311b998	39af321b8c3f211ed6d083a2aba4fbc8af11c9e8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.5h	\N	\N	2048	006c3d56	0c773e0e84d0bf45be5a5a7cfff960c1ca2f0320	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	600_vid.5f	\N	\N	2048	7dbc0426	29eeb3cdb5a3bcf7115d8099e4d04cf76216b003	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	600	turtles.clr	turtles.clr	\N	32	f3ef02dd	09fd795170d7d30f101d579f57553da5ff3800ab	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	amidar	\N	\N	\N	\N	\N	Amidar	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.2c	\N	\N	4096	c294bf27	399325bf1559e8cdbddf7cfbf0dc739f9ed72ef0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.2e	\N	\N	4096	e6e96826	e9c4f8c594640424b456505e676352a98b758c03	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.2f	\N	\N	4096	3656be6f	9d652f66bedcf17a6453c0e0ead30bfd7ea0bd0a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.2h	\N	\N	4096	1be170bd	c047bc393b297c0d47668a5f6f4870e3fac937ef	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.5c	\N	\N	4096	c4b66ae4	9d09dbde4019f7be3abe0815b0e06d542c01c255	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.5d	\N	\N	4096	806785af	c8c85e3a6a204feccd7859b4527bd649e96134b4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.5f	\N	\N	2048	5e51e84d	dfe84db7e2b1a45a1d484fcf37291f536bc5324c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.5h	\N	\N	2048	2f7f1c30	83c330eca20dfcc6a4099001943b9ed7a7c3db5b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidar	amidar.clr	\N	\N	32	f940dcc3	1015e56f37c244a850a8f4bf0e36668f047fd46d	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	amidaru	\N	\N	amidar	amidar	\N	Amidar (Stern)	1982	Konami (Stern license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.2c	\N	\N	4096	951e0792	3a68b829c9ffb465bd6582c9ea566e0e947c6c19	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.2e	\N	\N	4096	a1a3a136	330ec857fdf4c1b28e2560a5f63a2432f87f9b2f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.2f	\N	\N	4096	a5121bf5	fe15b91724758ede43dd332327919f164772c592	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.2h	\N	\N	4096	051d1c7f	3cfa0f728a5c27da0a3fe2579ad226129ccde232	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.2j	\N	\N	4096	351f00d5	6659357f40f888b21be00826246200fd3a8a88ce	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.5c	\N	\N	4096	8ca7b750	4f4c2915503b85abe141d717fd254ee10c9da99e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.5d	\N	\N	4096	9b5bdc0a	84d953618c8bf510d23b42232a856ac55f1baff5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.5f	\N	\N	2048	2cfe5ede	0d86a78008ac8653c17fff5be5ebdf1f0a9d31eb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidarus.5h	\N	\N	2048	57c4fd0d	8764deec9fbff4220d61df621b12fc36c3702601	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	amidaru	amidar.clr	amidar.clr	\N	32	f940dcc3	1015e56f37c244a850a8f4bf0e36668f047fd46d	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	anteater	\N	\N	\N	\N	\N	Anteater	1982	[Stern] (Tago license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra1-2c	\N	\N	4096	58bc9393	7122782a69ef0d2196ec16833f229b6286802668	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra1-2e	\N	\N	4096	574fc6f6	a1a213d215fe8502edf22383c3a6fb7c9b279d94	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra1-2f	\N	\N	4096	2f7c1fe5	4cea7e66a85766a9cf9846bb5bc1ca4e6ee1f4e2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra1-2h	\N	\N	4096	ae8a5da3	1893d8293b25431d080b89f5b0874440d14e8d17	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra4-5c	\N	\N	2048	87300b4f	b81b685ac1d353ff1cd40b876a7478b87b85e7a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra4-5d	\N	\N	2048	af4e5ffe	62717a233cf9f58267af4a9e1c80479b373ab317	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra6-5f	\N	\N	2048	4c3f8a08	3152eef64903be1a82f09764821a3654f316197d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	ra6-5h	\N	\N	2048	b30c7c9f	d4ae040d1fd7e5a5d08c2f6968735c551119c207	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	anteater	colr6f.cpu	\N	\N	32	fce333c7	f63a214dc47c5e7c80db000b0b6a261ca8da6629	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	armorcar	\N	\N	\N	\N	\N	Armored Car (set 1)	1981	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.2c	\N	\N	4096	0d7bfdfb	47791d4fc298c25d29584dfcddcd92618e3750c5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.2e	\N	\N	4096	76463213	86dbbed25325cc8855c1eb39bbb11b0473b7f4b5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.2f	\N	\N	4096	2cc6d5f0	94abb33760aed206f0f90f035fe2977c1f2e26cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.2h	\N	\N	4096	61278dbb	e12cd6c499af75f77e549499093fe6d2e8eddb1d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.2j	\N	\N	4096	fb158d8c	efa70e92c56678d4a404a96c72cfee317b15648c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	sound.5c	\N	\N	2048	54ee7753	3ebfa2cadf33acb4d24aa50cfa4713355cc780a3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	sound.5d	\N	\N	2048	5218fec0	c8f84f1e6aafc544e5acf48b245e8b1edb63211e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.5f	\N	\N	2048	8a3da4d1	4d2ef48aeb9099fdd145e11e2485e0bf8d87290d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	cpu.5h	\N	\N	2048	85bdb113	f62da0ea0c29feb10d8d1ce8de28fd750a53b40a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	armorcar	82s123.6e	\N	\N	32	9b87f90d	d11ac5e4a6057301ea2a9cbb404c2b978eb4c1dc	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	atlantis	\N	\N	\N	\N	\N	Battle of Atlantis (set 1)	1981	Comsoft	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2c	\N	\N	2048	0e485b9a	976f1d6f4552fbee134359a776b5688588824cbb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2e	\N	\N	2048	c1640513	a0dfb34f401330b16e9e4d66ec4b49d120499606	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2f	\N	\N	2048	eec265ee	29b6cf6b93220414eb58cddeba591dc8813c4935	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2h	\N	\N	2048	a5d2e442	e535d1a501ebd861ad62da70b87215fb7c23de1d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2j	\N	\N	2048	45f7cf34	d1e0e0be6dec377b684625bdfdc5a3a8af847492	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	2l	\N	\N	2048	f335b96b	17daa6d9bc916081f3c6cbdfe5b4960177dc7c9b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	5c	\N	\N	2048	bcd297f0	8ed78487d76fd0a917ab7b258937a46e2cd9800c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	5d	\N	\N	2048	de7912da	8558b4eff5d7e63029b325edef9914feda5834c3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	5e	\N	\N	2048	ba2fa933	1f976d8595706730e29f93027e7ab4620075c078	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	5f	\N	\N	2048	57f9c6b9	ad0d09a6611998d093d676a9c9fe9e32b10f643e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	5h	\N	\N	2048	e989f325	947aee915779687deae040aeef9e9aee680aaebf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	atlantis	82s123.6e	\N	\N	32	4e3caeab	a25083c3e36d28afdefe4af6e6d4f3155e303625	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	ballbomb	\N	\N	\N	\N	invaders	Balloon Bomber	1980	Taito	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ballbomb	tn01	\N	\N	2048	551585b5	7c17b046bdfca6ab107b7e68ba9bde6ca590c3d4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ballbomb	tn02	\N	\N	2048	7e1f734f	a15656818cd730d9bc98d00ff1e7fe3f860bd624	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ballbomb	tn03	\N	\N	2048	d93e20bc	2bf72f813750cef8fad572a18fb8e9fd5bf38804	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ballbomb	tn04	\N	\N	2048	d0689a22	1f6b258431b7eb878853ff979e4d97a05fb6b797	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ballbomb	tn05-1	\N	\N	2048	5d5e94f1	b9f8ba38161ef4f0940c274e9d93fed4bb7db017	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	ballbomb	0.wav	
+game_sample	VAntAGE_v1.12	ballbomb	1.wav	
+game_sample	VAntAGE_v1.12	ballbomb	2.wav	
+game_sample	VAntAGE_v1.12	ballbomb	3.wav	
+game_sample	VAntAGE_v1.12	ballbomb	4.wav	
+game_sample	VAntAGE_v1.12	ballbomb	5.wav	
+game_sample	VAntAGE_v1.12	ballbomb	6.wav	
+game_sample	VAntAGE_v1.12	ballbomb	7.wav	
+game_sample	VAntAGE_v1.12	ballbomb	8.wav	
+game	VAntAGE_v1.12	bombjack	\N	\N	\N	\N	\N	Bomb Jack (set 1)	1984	Tehkan	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	09_j01b.bin	\N	\N	8192	c668dc30	51dd6a2688b42e9f28f0882bd76f75be7ec3222a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	10_l01b.bin	\N	\N	8192	52a1e5fb	e1cdc4b4efbc6c7a1e4fa65019486617f2acba1b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	11_m01b.bin	\N	\N	8192	b68a062a	43bae56494ac0202aaa8f1ed5c1ed1bff775b2b8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	12_n01b.bin	\N	\N	8192	1d3ecee5	8b3c49e21ea4952cae7042890d1be2115f7d6fda	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	13.1r	\N	\N	8192	70e0244d	67654155e42821ea78a655f869fb81c8d6387f63	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	01_h03t.bin	\N	\N	8192	8407917d	318face9f7a7ab6c7eeac773995040425e780aaf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	03_e08t.bin	\N	\N	4096	9f0470d5	94ef52ef47b4399a03528fe3efeac9c1d6983446	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	04_h08t.bin	\N	\N	4096	81ec12e6	e29ba193f21aa898499187603b25d2e226a07c7b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	05_k08t.bin	\N	\N	4096	e87ec8b1	a66808ef2d62fca2854396898b86bac9be5f17a3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	06_l08t.bin	\N	\N	8192	51eebd89	515128a3971fcb97b60c5b6bdd2b03026aec1921	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	07_n08t.bin	\N	\N	8192	9dd98e9d	6db6006a6e20ff7c243d88293ca53681c4703ea5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	08_r08t.bin	\N	\N	8192	3155ee7d	e7897dca4c145f10b7d975b8ef0e4d8aa9354c25	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	16_m07b.bin	\N	\N	8192	94694097	de71bcd67f97d05527f2504fc8430be333fb9ec2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	15_l07b.bin	\N	\N	8192	013f58f2	20c64593ab9fcb04cefbce0cd5d17ce3ff26441b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	14_j07b.bin	\N	\N	8192	101c858d	ed1746c15cdb04fae888601d940183d5c7702282	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	bombjack	02_p04t.bin	\N	\N	4096	398d4a02	ac18a8219f99ba9178b96c9564de3978e39c59fd	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	calipso	\N	\N	\N	\N	\N	Calipso	1982	[Stern] (Tago license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2c	\N	\N	4096	0fcb703c	2bb096f114911973afdf3088c860c9566df06f60	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2e	\N	\N	4096	c6622f14	475164aed703a97275ff285ecaec9d8fd4fe723b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2f	\N	\N	4096	7bacbaba	d321d6d09c689123eb1e5d758d95ccecec225252	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2h	\N	\N	4096	a3a8111b	3d9500c676563ebfc27aebb07716e6a966f00c35	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2j	\N	\N	4096	fcbd7b9e	5cc1edcc8b9867bb7849c8d97d1096bb6464f562	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.2l	\N	\N	4096	f7630cab	482ee91cccd8a7c5768a1d6a9772d797769fe2dc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.5c	\N	\N	2048	9cbc65ab	b4ce04d18f9536c0ddd2f9c15edda75570e750e5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.5d	\N	\N	2048	a225ee3b	dba111f89851c69fb6fce16219cb2b0cb3294c15	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.5f	\N	\N	8192	fd4252e9	881b988cdc9b7913f577573f8a15af7a7c7cc67f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.5h	\N	\N	8192	1663a73a	95b6ed25b656afdfb70fac35efa2e005185e4343	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	calipso	calipso.clr	\N	\N	32	01165832	bfef0459492dbd5febf3030916b6438eb6be71de	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	checkman	\N	\N	\N	\N	\N	Checkman	1982	Zilec-Zenitone	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm1	\N	\N	2048	e8cbdd28	ba0b41e375b94bbfed6a2c949cc7958474c8ba6e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm2	\N	\N	2048	b8432d4d	d331476f1f88b7ef1426bed7442392f369e0650b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm3	\N	\N	2048	15a97f61	3c06c734cef1eed68b401d0d36f7ec9126986d73	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm4	\N	\N	2048	8c12ecc0	1c2d61ef84404b6a524c453a3d339aaaadb38229	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm5	\N	\N	2048	2352cfd6	77db5f925ee5f83c17a05a78af5191eefe70ca5a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm11	\N	\N	2048	8d1bcca0	28fc7fb76180820e84d59e6836ed1f8136e8f138	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm9	\N	\N	2048	3cd5c751	a769fdd30752da8fb331aa0f7a0181a93f0b3378	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	checkman.clr	\N	\N	32	57a45057	d4ec6a54f72640e5b485aa59e206c090e67ff640	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm13	\N	\N	2048	0b09a3e8	e4e65da306e22f61790f0a68d953cc017c3ce762	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	checkman	cm14	\N	\N	2048	47f043be	44d8892d93849cbc989561387c0a05baead58446	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	crush2	\N	\N	\N	\N	\N	Crush Roller (Kural Esco - bootleg?)	1981	Kural Esco Electric	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp1	\N	\N	2048	f276592e	68ebb7d9f70af868d99ec42c26bc55a54ba1f22c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp5a	\N	\N	2048	3d302abe	8ca5cd82d099b55e20f785489158231a1d99a430	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp2	\N	\N	2048	25f42e70	66de8203c364fd90e8a2b5749c2e40665b2f5830	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp6	\N	\N	2048	98279cbe	84b5e64bdbc25afab9b6f53e1719640e21a6feba	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp3	\N	\N	2048	8377b4cb	f828a177f22db9093a00c31e39e16214ce0dc6de	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp7	\N	\N	2048	d8e76c8c	7c3d7eb07b9256130141f71eba722f7823fd4c32	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp4	\N	\N	2048	90b28fa3	ff58d2dfb016397daabe2996bc3a7b63d28a4cca	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tp8	\N	\N	2048	10854e1b	b3b9066d9a43796185c00ae12f7bb2bbf42e3a07	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tpa	\N	\N	2048	c7617198	95b204af0345163f93811cc770ee0ca2851a39c1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tpc	\N	\N	2048	e129d76a	c9256795c6d0929ade1f24b372dadc2a2b88d897	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tpb	\N	\N	2048	d1899f05	dce755511b6262b984a2bca329f454892e486a09	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	tpd	\N	\N	2048	d35d1caf	65dd7861e05651485626465dc97215fed58db551	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	crush.4a	\N	\N	256	63efb927	5c144a613fc4960a1dfd7ead89e7fee258a63171	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	crush2	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	devilfsh	\N	\N	\N	\N	\N	Devil Fish	1982	Artic	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u26.1	\N	\N	2048	ec047d71	c35555010fe239213e92946b65a54612d5a23399	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u56.2	\N	\N	2048	0138ade9	8c75572fa0a5d0665cc46b1c0080192bb0148df9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u69.3	\N	\N	2048	5dd0b3fc	cf19193986920853d93e4ff38b70dcd46b42276b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u98.4	\N	\N	2048	ded0b745	2a3c741f11d211b4ec8dfa2dd2b3ae0c0a2d9590	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u114.5	\N	\N	2048	5fd40176	536dd870057c48591f0bee468325c8780afb7026	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u133.6	\N	\N	2048	03538336	66cffcbc53e42c626880151a62721ef3e6bf90bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u143.7	\N	\N	2048	64676081	6ae628ad582680d6a825238b60d1195990dbb56f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u163.8	\N	\N	2048	bc3d6770	ac8803520a668b1759acba23f06ba7a6c5792cbd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u39.9	\N	\N	2048	09987e2e	6b0d8413a137726a67ceedeacfc0c48b058698f1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u51.10	\N	\N	2048	1e2b1471	3ba33b26a5bff21b9ddc34e0a468db7b89361314	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u78.11	\N	\N	2048	45279aaa	20aca9bcfa1010311290cb3d8e4fb548182dcd4b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u72.12	\N	\N	4096	5406508e	1d01a796c3ac22e3fddd1ec2103ef5bd8c409278	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	u101.13	\N	\N	4096	8c4018b6	83c4f73a3e40fa6ecece38404fa5f64ab59d7b4e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	devilfsh	82s123.6e	\N	\N	32	4e3caeab	a25083c3e36d28afdefe4af6e6d4f3155e303625	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	dkjrjp	\N	\N	dkongjr	dkongjr	dkongjr	Donkey Kong Jr. (Original Japanese)	1982	bootleg?	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjp.5b	\N	\N	8192	7b48870b	4f737559e2bf5cc28824220417d7a2827361221f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjp.5c	\N	\N	8192	12391665	3141ed5096097c48ac128636330ab6837a665d40	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjp.5e	\N	\N	8192	6c9f9103	2d595e13c4ecb74b18e92b00efcc90c1e841b478	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.3n	dkj.3n	\N	4096	8d51aca9	64887564b079d98e98aafa53835e398f34fe4e3f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.3p	dkj.3p	\N	4096	4ef64ba5	41a7a4005087951f57f62c9751d62a8c495e6bb3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.7c	dkj.7c	\N	2048	dc7f4164	07a6242e95b5c3b8dfdcd4b4950f463dba16dd77	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.7d	dkj.7d	\N	2048	0ce7dcf6	0654b77526c49f0dfa077ac4f1f69cf5cb2e2f64	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.7e	dkj.7e	\N	2048	24d1ff17	696854bf3dc5447d33b4815db357e6ce3834d867	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkj.7f	dkj.7f	\N	2048	0f8c083f	0b688ae9da296b2447fffa5e135fd6a56ec3e790	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjrprom.2e	dkjrprom.2e	\N	256	463dc7ad	b2c9f22facc8885be2d953b056eb8dcddd4f34cb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjrprom.2f	dkjrprom.2f	\N	256	47ba0042	dbec3f4b8013628c5b8f83162e5f8b1f82f6ee5f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkjrjp	dkjrprom.2n	dkjrprom.2n	\N	256	dbf185bf	2697a991a4afdf079dd0b7e732f71c7618f43b70	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	dkjrjp	jump.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	land.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	roar.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	climb.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	death.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	drop.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	walk.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	coin.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune1.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune2.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune3.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	cheep.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	dcheep.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune4.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune5.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune6.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune7.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune8.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	hhit.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	scream.wav	
+game_sample	VAntAGE_v1.12	dkjrjp	tune9.wav	
+game	VAntAGE_v1.12	dkong	\N	\N	\N	\N	\N	Donkey Kong (US)	1981	Nintendo of America	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.5e	\N	\N	4096	ba70b88b	d76ebecfea1af098d843ee7e578e480cd658ac1a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.5c	\N	\N	4096	5ec461ec	acb11a8fbdbb3ab46068385fe465f681e3c824bd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.5b	\N	\N	4096	1c97d324	c7966261f3a1d3296927e0b6ee1c58039fc53c1f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.5a	\N	\N	4096	b9005ac0	3fe3599f6fa7c496f782053ddf7bacb453d197c4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.3n	\N	\N	2048	12c8c95d	a57ff5a231c45252a63b354137c920a1379b70a3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.3p	\N	\N	2048	15e9c5e9	976eb1e18c74018193a35aa86cff482ebfc5cc4e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.7c	\N	\N	2048	59f8054d	793dba9bf5a5fe76328acdfb90815c243d2a65f1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.7d	\N	\N	2048	672e4714	92e5d379f4838ac1fa44d448ce7d142dae42102f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.7e	\N	\N	2048	feaa59ee	ecf95db5a20098804fc8bd59232c66e2e0ed3db4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dk.7f	\N	\N	2048	20f2ef7e	3bc482a38bf579033f50082748ee95205b0f673d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dkong.2k	\N	\N	256	e273ede5	b50ec9e1837c00c20fb2a4369ec7dd0358321127	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dkong.2j	\N	\N	256	d6412358	f9c872da2fe8e800574ae3bf483fb3ccacc92eb3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkong	dkong.5f	\N	\N	256	b869b8f5	c2bdccbf2654b64ea55cd589fd21323a9178a660	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	dkong	effect00.wav	
+game_sample	VAntAGE_v1.12	dkong	effect01.wav	
+game_sample	VAntAGE_v1.12	dkong	bounce.wav	
+game_sample	VAntAGE_v1.12	dkong	tune1.wav	
+game_sample	VAntAGE_v1.12	dkong	noise.wav	
+game_sample	VAntAGE_v1.12	dkong	tune2.wav	
+game_sample	VAntAGE_v1.12	dkong	tune3.wav	
+game_sample	VAntAGE_v1.12	dkong	tune4.wav	
+game_sample	VAntAGE_v1.12	dkong	tune5.wav	
+game_sample	VAntAGE_v1.12	dkong	tune6.wav	
+game_sample	VAntAGE_v1.12	dkong	tune7.wav	
+game_sample	VAntAGE_v1.12	dkong	end1.wav	
+game_sample	VAntAGE_v1.12	dkong	tune8.wav	
+game_sample	VAntAGE_v1.12	dkong	fall.wav	
+game_sample	VAntAGE_v1.12	dkong	hhit.wav	
+game_sample	VAntAGE_v1.12	dkong	death.wav	
+game_sample	VAntAGE_v1.12	dkong	coin.wav	
+game_sample	VAntAGE_v1.12	dkong	prize.wav	
+game	VAntAGE_v1.12	dkongjp	\N	\N	dkong	dkong	dkong	Donkey Kong (Japan set 1)	1981	Nintendo	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	5f.cpu	\N	\N	4096	424f2b11	e4f096f2bbd37281f42a5f8e083738f55c07f3dd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	5g.cpu	\N	\N	4096	d326599b	94c7382604d0a123a442d53f9641f366dfbb7631	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	5h.cpu	\N	\N	4096	ff31ac89	9626a9e6df0d1b0ff273dbbe986f670200f91f75	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	5k.cpu	\N	\N	4096	394d6007	57e5ae76ef5d4a2fa9cd860b6c6be03b6d5ed5ba	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dk.3n	dk.3n	\N	2048	12c8c95d	a57ff5a231c45252a63b354137c920a1379b70a3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	5k.vid	\N	\N	2048	3684f914	882ae48ec1eabf5d350438dfec37ab20f7ee155d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dk.7c	dk.7c	\N	2048	59f8054d	793dba9bf5a5fe76328acdfb90815c243d2a65f1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dk.7d	dk.7d	\N	2048	672e4714	92e5d379f4838ac1fa44d448ce7d142dae42102f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dk.7e	dk.7e	\N	2048	feaa59ee	ecf95db5a20098804fc8bd59232c66e2e0ed3db4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dk.7f	dk.7f	\N	2048	20f2ef7e	3bc482a38bf579033f50082748ee95205b0f673d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dkong.2k	dkong.2k	\N	256	e273ede5	b50ec9e1837c00c20fb2a4369ec7dd0358321127	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dkong.2j	dkong.2j	\N	256	d6412358	f9c872da2fe8e800574ae3bf483fb3ccacc92eb3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjp	dkong.5f	dkong.5f	\N	256	b869b8f5	c2bdccbf2654b64ea55cd589fd21323a9178a660	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	dkongjp	effect00.wav	
+game_sample	VAntAGE_v1.12	dkongjp	effect01.wav	
+game_sample	VAntAGE_v1.12	dkongjp	bounce.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune1.wav	
+game_sample	VAntAGE_v1.12	dkongjp	noise.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune2.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune3.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune4.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune5.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune6.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune7.wav	
+game_sample	VAntAGE_v1.12	dkongjp	end1.wav	
+game_sample	VAntAGE_v1.12	dkongjp	tune8.wav	
+game_sample	VAntAGE_v1.12	dkongjp	fall.wav	
+game_sample	VAntAGE_v1.12	dkongjp	hhit.wav	
+game_sample	VAntAGE_v1.12	dkongjp	death.wav	
+game_sample	VAntAGE_v1.12	dkongjp	coin.wav	
+game_sample	VAntAGE_v1.12	dkongjp	prize.wav	
+game	VAntAGE_v1.12	dkongjr	\N	\N	\N	\N	\N	Donkey Kong Junior (US)	1982	Nintendo of America	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.5b	\N	\N	8192	dea28158	08baf84ae6f9b40a2c743fe1d8c158c74a40e95a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.5c	\N	\N	8192	6fb5faf6	ce1cfde71a9e2a8b5896a6301d386f72869a1d2e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.5e	\N	\N	8192	d042b6a8	57ac237d273496b44220b4437118115ef11dbd9f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.3n	\N	\N	4096	8d51aca9	64887564b079d98e98aafa53835e398f34fe4e3f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.3p	\N	\N	4096	4ef64ba5	41a7a4005087951f57f62c9751d62a8c495e6bb3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.7c	\N	\N	2048	dc7f4164	07a6242e95b5c3b8dfdcd4b4950f463dba16dd77	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.7d	\N	\N	2048	0ce7dcf6	0654b77526c49f0dfa077ac4f1f69cf5cb2e2f64	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.7e	\N	\N	2048	24d1ff17	696854bf3dc5447d33b4815db357e6ce3834d867	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkj.7f	\N	\N	2048	0f8c083f	0b688ae9da296b2447fffa5e135fd6a56ec3e790	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkjrprom.2e	\N	\N	256	463dc7ad	b2c9f22facc8885be2d953b056eb8dcddd4f34cb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkjrprom.2f	\N	\N	256	47ba0042	dbec3f4b8013628c5b8f83162e5f8b1f82f6ee5f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dkongjr	dkjrprom.2n	\N	\N	256	dbf185bf	2697a991a4afdf079dd0b7e732f71c7618f43b70	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	dkongjr	jump.wav	
+game_sample	VAntAGE_v1.12	dkongjr	land.wav	
+game_sample	VAntAGE_v1.12	dkongjr	roar.wav	
+game_sample	VAntAGE_v1.12	dkongjr	climb.wav	
+game_sample	VAntAGE_v1.12	dkongjr	death.wav	
+game_sample	VAntAGE_v1.12	dkongjr	drop.wav	
+game_sample	VAntAGE_v1.12	dkongjr	walk.wav	
+game_sample	VAntAGE_v1.12	dkongjr	coin.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune1.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune2.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune3.wav	
+game_sample	VAntAGE_v1.12	dkongjr	cheep.wav	
+game_sample	VAntAGE_v1.12	dkongjr	dcheep.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune4.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune5.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune6.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune7.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune8.wav	
+game_sample	VAntAGE_v1.12	dkongjr	hhit.wav	
+game_sample	VAntAGE_v1.12	dkongjr	scream.wav	
+game_sample	VAntAGE_v1.12	dkongjr	tune9.wav	
+game	VAntAGE_v1.12	docastle	\N	\N	\N	\N	\N	Mr. Do's Castle (set 1)	1983	Universal	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	01p_a1.bin	\N	\N	8192	17c6fc24	e397d283e8b8e1c512495b777c0fe16f66bb1862	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	01n_a2.bin	\N	\N	8192	1d2fc7f4	f7b0c7466cd6a3854eda818c63663e3559dc7bc2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	01l_a3.bin	\N	\N	8192	71a70ba9	0c9e4c402f82d61d573eb55b3e2e0c8b7c8b7028	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	01k_a4.bin	\N	\N	8192	479a745e	7195036727990932bc94b30405ebc2b8ea5b37a8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	07n_a0.bin	\N	\N	16384	f23b5cdb	de71d9f142f8d420aa097d7e56b03a06db2f85fd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	03a_a5.bin	\N	\N	16384	0636b8f4	8b34773bf7b7071fb5c8ff443a08befae3b545ea	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	04m_a6.bin	\N	\N	8192	3bbc9b26	1b1f79717e5c1a23eefb2d6df71ad95aac9f8be4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	04l_a7.bin	\N	\N	8192	3dfaa9d1	cc016019efe0a2bc38c66fadf792c05f6cabeeaa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	04j_a8.bin	\N	\N	8192	9afb16e9	f951e75af658623f3b0e18ff388990b2870fad53	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	04h_a9.bin	\N	\N	8192	af24bce0	0f06c5d248c9c92f2a4636d259ab843339737969	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	09c.bin	\N	\N	512	066f52bc	99f4f2d0181bcaf389c16f127cc3e632d62ee417	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	docastle	01d.bin	\N	\N	512	2747ca77	abc0ca05925974c4b852827605ee2f1caefb8524	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	earthinv	\N	\N	\N	\N	invaders	Super Earth Invasion	\N	bootleg	\N	\N	\N	
+game_rom	VAntAGE_v1.12	earthinv	earthinv.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	earthinv	earthinv.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	earthinv	earthinv.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	earthinv	earthinv.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	earthinv	0.wav	
+game_sample	VAntAGE_v1.12	earthinv	1.wav	
+game_sample	VAntAGE_v1.12	earthinv	2.wav	
+game_sample	VAntAGE_v1.12	earthinv	3.wav	
+game_sample	VAntAGE_v1.12	earthinv	4.wav	
+game_sample	VAntAGE_v1.12	earthinv	5.wav	
+game_sample	VAntAGE_v1.12	earthinv	6.wav	
+game_sample	VAntAGE_v1.12	earthinv	7.wav	
+game_sample	VAntAGE_v1.12	earthinv	8.wav	
+game	VAntAGE_v1.12	eyes	\N	\N	\N	\N	\N	Eyes (Digitrex Techstar)	1982	Digitrex Techstar (Rock-ola license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	d7	\N	\N	4096	3b09ac89	a8f1c918da74495bb73172f39364dada38ae4713	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	e7	\N	\N	4096	97096855	10d3b164bbbe5eee86e881a1434f0c114ee8adff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	f7	\N	\N	4096	731e294e	96c0308c146dbd85e244c4530af9ae8df78c86de	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	h7	\N	\N	4096	22f7a719	eb000b606ecedd52bebbb232e661fb1ef205f8b0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	d5	\N	\N	4096	d6af0030	652b779533e3f00e81cc102b78d367d503b06f33	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	e5	\N	\N	4096	a42b5201	2e5cede3b6039c7bd5230de27d02aaa3f35a7b64	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	82s129.4a	\N	\N	256	d8d78829	19820d1651423210083a087fb70ebea73ad34951	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	eyes	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	frogger	\N	\N	\N	\N	\N	Frogger	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.26	\N	\N	4096	597696d6	e7e021776cad00f095a1ebbef407b7c0a8f5d835	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.27	\N	\N	4096	b6e6fcc3	5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frsm3.7	\N	\N	4096	aca22ae0	5a99060ea2506a3ac7d61ca5876ce5cb3e493565	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.608	\N	\N	2048	e8ab0256	f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.609	\N	\N	2048	7380a48f	75582a94b696062cbdb66a4c5cf0bc0bb94f81ee	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.610	\N	\N	2048	31d7eb27	2e1d34ae4da385fd7cac94707d25eeddf4604e1a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.606	\N	\N	2048	f524ee30	dd768967add61467baa08d5929001f157d6cd911	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	frogger.607	\N	\N	2048	05f7d883	78831fd287da18928651a8adb7e578d291493eff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	frogger	pr-91.6l	\N	\N	32	413703bf	66648b2b28d3dcbda5bdb2605d1977428939dd3c	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	galaga	\N	\N	\N	\N	\N	Galaga (Namco)	1981	Namco	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04m_g01.bin	\N	\N	4096	a3a0f743	6907773db7c002ecde5e41853603d53387c5c7cd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04k_g02.bin	\N	\N	4096	43bb0d5c	666975aed5ce84f09794c54b550d64d95ab311f0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04j_g03.bin	\N	\N	4096	753ce503	481f443aea3ed3504ec2f3a6bfcf3cd47e2f8f81	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04h_g04.bin	\N	\N	4096	83874442	366cb0dbd31b787e64f88d182108b670d03b393e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04e_g05.bin	\N	\N	4096	3102fccd	d29b68d6aab3217fa2106b3507b9273ff3f927bf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	04d_g06.bin	\N	\N	4096	8995088d	d6cb439de0718826d1a0363c9d77de8740b18ecf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	07m_g08.bin	\N	\N	4096	58b2f47c	62f1279a784ab2f8218c4137c7accda00e6a3490	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	07e_g10.bin	\N	\N	4096	ad447c80	e697c180178cabd1d32483c5d8889a40633f7857	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	07h_g09.bin	\N	\N	4096	dd6f1afc	c340ed8c25e0979629a9a1730edc762bd72d0cff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	5n.bin	\N	\N	32	54603c6b	1a6dea13b4af155d9cb5b999a75d4f1eb9c71346	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	2n.bin	\N	\N	256	a547d33b	7323084320bb61ae1530d916f5edd8835d4d2461	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	1c.bin	\N	\N	256	b6f585fb	dd10147c4f05fede7ae6e7a760681700a660e87e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	5c.bin	\N	\N	256	8bd565f6	bedba65816abfc2ebeacac6ee335ca6f136e3e3d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga	1d.bin	\N	\N	256	86d92b24	6bef9102b97c83025a2cf84e89d95f2d44c3d2ed	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galaga	bang.wav	
+game	VAntAGE_v1.12	galaga84	\N	\N	galaga	galaga	galaga	Galaga '84	1984	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	g1	\N	\N	4096	ab036c9f	ca7f5da42d4e76fd89bb0b35198a23c01462fbfe	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	gal84_u2	\N	\N	4096	4d832a30	88ee11df88cf08005efccd6305f87fb3e2797db6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	04j_g03.bin	04j_g03.bin	\N	4096	753ce503	481f443aea3ed3504ec2f3a6bfcf3cd47e2f8f81	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	g4	\N	\N	4096	499fcc76	ddb8b121903646c320939c7d13f4aa4ebb130378	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	gal84_u5	\N	\N	4096	bb5caae3	e957a581463caac27bc37ca2e2a90f27e4f62b6f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	04d_g06.bin	04d_g06.bin	\N	4096	8995088d	d6cb439de0718826d1a0363c9d77de8740b18ecf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	07m_g08.bin	07m_g08.bin	\N	4096	58b2f47c	62f1279a784ab2f8218c4137c7accda00e6a3490	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	gal84u4d	\N	\N	4096	22e339d5	9ac2887ede802d28daa4ad0a0a54bcf7b1155a2e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	gal84u4e	\N	\N	4096	60dcf940	6530aa5b4afef4a8422ece76a93d0c5b1d93355e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	5n.bin	5n.bin	\N	32	54603c6b	1a6dea13b4af155d9cb5b999a75d4f1eb9c71346	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	2n.bin	2n.bin	\N	256	a547d33b	7323084320bb61ae1530d916f5edd8835d4d2461	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	1c.bin	1c.bin	\N	256	b6f585fb	dd10147c4f05fede7ae6e7a760681700a660e87e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	5c.bin	5c.bin	\N	256	8bd565f6	bedba65816abfc2ebeacac6ee335ca6f136e3e3d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaga84	1d.bin	1d.bin	\N	256	86d92b24	6bef9102b97c83025a2cf84e89d95f2d44c3d2ed	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galaga84	bang.wav	
+game	VAntAGE_v1.12	galagads	\N	\N	galaga	galaga	galaga	Galaga (fast shoot)	1981	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3200a.bin	\N	\N	4096	3ef0b053	0c04a362b737998c0952a753fb3fd8c8a17e9b46	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3300b.bin	\N	\N	4096	1b280831	f7ea12e61929717ebe43a4198a97f109845a2c62	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3400c.bin	\N	\N	4096	16233d33	a7eb799be5e23058754a92b15e6527bfbb47a354	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3500d.bin	\N	\N	4096	0aaf5c23	3f4b0bb960bf002261e9c1278c88f594c6aa8ab6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3600fast.bin	\N	\N	4096	23d586e5	43346c69385e9091e64cff6c027ac2689cafcbb9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	3700g.bin	\N	\N	4096	b07f0aa4	7528644a8480d0be2d0d37069515ed319e94778f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	07m_g08.bin	07m_g08.bin	\N	4096	58b2f47c	62f1279a784ab2f8218c4137c7accda00e6a3490	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	07e_g10.bin	07e_g10.bin	\N	4096	ad447c80	e697c180178cabd1d32483c5d8889a40633f7857	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	07h_g09.bin	07h_g09.bin	\N	4096	dd6f1afc	c340ed8c25e0979629a9a1730edc762bd72d0cff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	5n.bin	5n.bin	\N	32	54603c6b	1a6dea13b4af155d9cb5b999a75d4f1eb9c71346	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	2n.bin	2n.bin	\N	256	a547d33b	7323084320bb61ae1530d916f5edd8835d4d2461	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	1c.bin	1c.bin	\N	256	b6f585fb	dd10147c4f05fede7ae6e7a760681700a660e87e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	5c.bin	5c.bin	\N	256	8bd565f6	bedba65816abfc2ebeacac6ee335ca6f136e3e3d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galagads	1d.bin	1d.bin	\N	256	86d92b24	6bef9102b97c83025a2cf84e89d95f2d44c3d2ed	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galagads	bang.wav	
+game	VAntAGE_v1.12	galapx	\N	\N	galaxian	galaxian	galaxian	Galaxian Part X	1979	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.u	\N	\N	2048	79e4007d	d55050498a670d1c022ba3caad34f8fcaccf4a30	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.v	\N	\N	2048	bc16064e	4e3220fd63c8184bf9581a89dffb6944d8fae3bb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.w	\N	\N	2048	72d2d3ee	96e0c5824e46d7398c7e58dd6b75a9f4ead6f3f5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.y	\N	\N	2048	afe397f3	283c6f3b3f07581d88f7a6e11fc36947a9d90e2e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.z	\N	\N	2048	778c0d3c	6a81875abfea515d379c6212cb57f8e54573e943	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.1h	\N	\N	2048	e8810654	b6924c7ad765c32714e6abd5bb56b2732edd5855	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	galx.1k	\N	\N	2048	cbe84a76	c6d72fb452e8213dd40a2eb5dcca726d7cdca658	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galapx	6l.bpr	6l.bpr	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galapx	shot.wav	
+game_sample	VAntAGE_v1.12	galapx	death.wav	
+game_sample	VAntAGE_v1.12	galapx	back.wav	
+game	VAntAGE_v1.12	galaxian	\N	\N	\N	\N	\N	Galaxian (Namco set 1)	1979	Namco	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	galmidw.u	\N	\N	2048	745e2d61	e65f74e35b1bfaccd407e168ea55678ae9b68edf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	galmidw.v	\N	\N	2048	9c999a40	02fdcd95d8511e64c0d2b007b874112d53e41045	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	galmidw.w	\N	\N	2048	b5894925	0046b9ed697a34d088de1aead8bd7cbe526a2396	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	galmidw.y	\N	\N	2048	6b3ca10b	18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	7l	\N	\N	2048	1b933207	8b44b0f74420871454e27894d0f004859f9e59a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	1h.bin	\N	\N	2048	39fb43a4	4755609bd974976f04855d51e08ec0d62ab4bc07	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	1k.bin	\N	\N	2048	7e3f56a2	a9795d8b7388f404f3b0e2c6ce15d713a4c5bafa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galaxian	6l.bpr	\N	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galaxian	shot.wav	
+game_sample	VAntAGE_v1.12	galaxian	death.wav	
+game_sample	VAntAGE_v1.12	galaxian	back.wav	
+game	VAntAGE_v1.12	galturbo	\N	\N	galaxian	galaxian	galaxian	Galaxian Turbo	1979	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galturbo.u	\N	\N	2048	e8f3aa67	a0e9576784dbe602dd9780e667f01f31defd7c00	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galx.v	\N	\N	2048	bc16064e	4e3220fd63c8184bf9581a89dffb6944d8fae3bb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	superg.w	\N	\N	2048	ddeabdae	daa5109a32c7c9a80bdb212dc3e4e3e3c104a731	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galturbo.y	\N	\N	2048	a44f450f	4009834afb45e9b23c7cf058bcd3378ef8601872	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galturbo.z	\N	\N	2048	3247f3d4	5754dedc2d06736629d85514b2e7c262ce27bf2d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galturbo.1h	\N	\N	2048	a713fd1a	abf86fe5cb7243a1a36d7ac0a868577a3360dcca	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	galturbo.1k	\N	\N	2048	28511790	dec2e183a753295d033a56184c973bbc810abf55	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galturbo	6l.bpr	6l.bpr	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galturbo	shot.wav	
+game_sample	VAntAGE_v1.12	galturbo	death.wav	
+game_sample	VAntAGE_v1.12	galturbo	back.wav	
+game	VAntAGE_v1.12	galxwars	\N	\N	\N	\N	invaders	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	galxwars	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	galxwars	0.wav	
+game_sample	VAntAGE_v1.12	galxwars	1.wav	
+game_sample	VAntAGE_v1.12	galxwars	2.wav	
+game_sample	VAntAGE_v1.12	galxwars	3.wav	
+game_sample	VAntAGE_v1.12	galxwars	4.wav	
+game_sample	VAntAGE_v1.12	galxwars	5.wav	
+game_sample	VAntAGE_v1.12	galxwars	6.wav	
+game_sample	VAntAGE_v1.12	galxwars	7.wav	
+game_sample	VAntAGE_v1.12	galxwars	8.wav	
+game	VAntAGE_v1.12	gunsmoke	\N	\N	\N	\N	\N	Gun.Smoke (World)	1985	Capcom	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	09n_gs03.bin	\N	\N	32768	40a06cef	3e2a52d476298b7252f0adaefdb42090351e921c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	10n_gs04.bin	\N	\N	32768	8d4b423f	149274c2ed1526ca1f419fdf8a24059ff138f7f2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	12n_gs05.bin	\N	\N	32768	2b5667fb	5b689bca1e76d803b4cae22feaa7744fa528e93f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	14h_gs02.bin	\N	\N	32768	cd7a2c38	c76c471f694b76015370f0eacf5350e652f526ff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	11f_gs01.bin	\N	\N	16384	b61ece9b	eb3fc62644cc5b5a2b9cbe67c393d4a0e2a59ca9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	06c_gs13.bin	\N	\N	32768	f6769fc5	d192ec176425327ca4b7e25fc8432fc47837ba29	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	05c_gs12.bin	\N	\N	32768	d997b78c	3b4a9b6f9e57ecfb4ab9734379bd0ee765fd6daa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	04c_gs11.bin	\N	\N	32768	125ba58e	cf6931653cebd051564bed8121ab8713a55095c5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	02c_gs10.bin	\N	\N	32768	f469c13c	54eda52d6fce58771c0adfe2c88292a41d5a9b99	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	06a_gs09.bin	\N	\N	32768	539f182d	4190c0adbecc57b92f4d002e121acb77e8c5d8d8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	05a_gs08.bin	\N	\N	32768	e87e526d	d10068addf30322424a85bbc6382cb762ae3fbe2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	04a_gs07.bin	\N	\N	32768	4382c0d2	8615e62bc57b40d082f6ca211d64f22185bed1fd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	02a_gs06.bin	\N	\N	32768	4cafe7a6	fe501f3a5e9ce9e82e9708f1cd297f4c94ef0f81	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	06n_gs22.bin	\N	\N	32768	dc9c508c	920505dd4c63b177918feb4e54cca8a7948ec9d9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	04n_gs21.bin	\N	\N	32768	68883749	c7bf2bf49c53feddf8f30b4001dc2d59b52b1c28	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	03n_gs20.bin	\N	\N	32768	0be932ed	1c5af5884a23112dbc36579515d1cb497992da2f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	01n_gs19.bin	\N	\N	32768	63072f93	cb3a2729782cf2855558d081fe92d28366228b8e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	06l_gs18.bin	\N	\N	32768	f69a3c7c	e9eb9dfa7d53aa7b728150f91d05bfc3bf6f1e75	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	04l_gs17.bin	\N	\N	32768	4e98562a	0341b8a79be1d71a57d0d76ed890e15f9f92259e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	03l_gs16.bin	\N	\N	32768	0d99c3b3	436c566b76f632242448671e3b6319f7d9f65322	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	01l_gs15.bin	\N	\N	32768	7f14270e	dd06c333c2ea097e25185a1423cd61e1b7afc42b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	11c_gs14.bin	\N	\N	32768	0af4f7eb	24a98fdeedeeaf1035b4af52d5a8dd5e47a5e62d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	03b_g-01.bin	\N	\N	256	02f55589	8a3f98304aedf3aba1c08b615bf457752a480edc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	04b_g-02.bin	\N	\N	256	e1e36dd9	5bd88a35898a2d973045bdde8311aac3a12826de	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	05b_g-03.bin	\N	\N	256	989399c0	e408e391f49ed0c7b9e16479fea44b809440fefc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	09d_g-04.bin	\N	\N	256	906612b5	7b727a6200c088538180758320ede84aa7e5b96d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	14a_g-06.bin	\N	\N	256	4a9da18b	fed3b81b56aab2ed0a21ed1fcebe3f1ae095a13b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	15a_g-07.bin	\N	\N	256	cb9394fc	8ad0fde6a8ef8326d2da4b6dbf3b51f5f6c668c8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	09f_g-09.bin	\N	\N	256	3cee181e	3f95bdb12391cb9b3673191bda8d09c84b36b4d3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	gunsmoke	08f_g-08.bin	\N	\N	256	ef91cdd2	90b9191c9f10a153d64055a4238eb6e15b8c12bc	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	hangly	\N	\N	pacman	pacman	\N	Hangly-Man (set 1)	1981	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	hangly.6e	\N	\N	4096	5fe8610a	d63eaebd85e10aa6c27bb7f47642dd403eeb6934	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	hangly.6f	\N	\N	4096	73726586	cedddc5194589039dd8b64f07ab6320d7d4f55f9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	hangly.6h	\N	\N	4096	4e7ef99f	bd42e68b29b4d654dc817782ba00db69b7d2dfe2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	hangly.6j	\N	\N	4096	7f4147e6	0a7ac0e59d4d26fe52a2f4196c9f19e5ab677c87	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	pacman.5e	pacman.5e	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	pacman.5f	pacman.5f	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	82s126.1m	82s126.1m	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hangly	82s126.3m	82s126.3m	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	hotshock	\N	\N	\N	\N	\N	Hot Shocker	1982	E.G. Felaco	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.l10	\N	\N	4096	401078f7	d4415a41eba1d3a2dcbb119f3136c177b02d1fb6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.l9	\N	\N	4096	af76c237	bb54e1652a2d2e56731434ed85b40dab4aad91c9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.l8	\N	\N	4096	30486031	bed06cb62afee6b000a0e21927559ac5d3538b38	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.l7	\N	\N	4096	5bde9312	d3ba06790c8210f41902bb8ad27a1e5abafccb33	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.b3	\N	\N	4096	0092f0e2	d85b05370fa0ce4ba27fd331bb6a7fae067ce83b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.b4	\N	\N	4096	c2135a44	809cf305b1f43f99f2248020c369fb5f1d7c5c44	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.h4	\N	\N	4096	60bdaea9	fd10109803661dc1ce72e1291e3721bdb2bb159f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	hotshock.h5	\N	\N	4096	4ef17453	7dc58456b2f25775c85b3ae92f605d69bb68d590	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hotshock	82s123.6e	\N	\N	32	4e3caeab	a25083c3e36d28afdefe4af6e6d4f3155e303625	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	hustler	\N	\N	\N	\N	\N	Video Hustler	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.1	\N	\N	4096	94479a3e	ea3a1a3f6bee3d35a6a0fb0ba689a25f6b919e5d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.2	\N	\N	4096	3cc67bcc	bc36eaab68f48c837d0d3d3bc1e7de961fa24a21	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.3	\N	\N	4096	9422226a	445daa94f7236f0776f4692de6cb213f67684f70	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.6	\N	\N	2048	7a946544	7ee2ad3fdf996f08534fb87fc02b619c168f420c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.7	\N	\N	2048	3db57351	e5075a7130a80d2bf24f0556c2589dff0625ee60	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.5f	\N	\N	2048	0bdfad0e	8e6f1737604f3801c03fa2e9a5e6a2778b54bae8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.5h	\N	\N	2048	8e062177	7e52a1669804b6c2f694cfc64b04abc8246bb0c2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	hustler	hustler.clr	\N	\N	32	aa1f7f5e	311dd17aa11490a1173c76223e4ccccf8ea29850	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	invaders	0.wav	
+game_sample	VAntAGE_v1.12	invaders	1.wav	
+game_sample	VAntAGE_v1.12	invaders	2.wav	
+game_sample	VAntAGE_v1.12	invaders	3.wav	
+game_sample	VAntAGE_v1.12	invaders	4.wav	
+game_sample	VAntAGE_v1.12	invaders	5.wav	
+game_sample	VAntAGE_v1.12	invaders	6.wav	
+game_sample	VAntAGE_v1.12	invaders	7.wav	
+game_sample	VAntAGE_v1.12	invaders	8.wav	
+game	VAntAGE_v1.12	invadpt2	\N	\N	\N	\N	invaders	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invadpt2	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invadpt2	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invadpt2	pv.03	\N	\N	2048	1766337e	ea959bf06c9930d83a07559e191a28641efb07ac	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invadpt2	pv.04	\N	\N	2048	8f0e62e0	a967b155f15f8432222fcc78b23121b00c405c5c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invadpt2	pv.05	\N	\N	2048	19b505e9	6a31a37586782ce421a7d2cffd8f958c00b7b415	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	invadpt2	0.wav	
+game_sample	VAntAGE_v1.12	invadpt2	1.wav	
+game_sample	VAntAGE_v1.12	invadpt2	2.wav	
+game_sample	VAntAGE_v1.12	invadpt2	3.wav	
+game_sample	VAntAGE_v1.12	invadpt2	4.wav	
+game_sample	VAntAGE_v1.12	invadpt2	5.wav	
+game_sample	VAntAGE_v1.12	invadpt2	6.wav	
+game_sample	VAntAGE_v1.12	invadpt2	7.wav	
+game_sample	VAntAGE_v1.12	invadpt2	8.wav	
+game	VAntAGE_v1.12	invrvnge	\N	\N	\N	\N	invaders	Invader's Revenge	\N	Zenitone Microsec	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	invrvnge	0.wav	
+game_sample	VAntAGE_v1.12	invrvnge	1.wav	
+game_sample	VAntAGE_v1.12	invrvnge	2.wav	
+game_sample	VAntAGE_v1.12	invrvnge	3.wav	
+game_sample	VAntAGE_v1.12	invrvnge	4.wav	
+game_sample	VAntAGE_v1.12	invrvnge	5.wav	
+game_sample	VAntAGE_v1.12	invrvnge	6.wav	
+game_sample	VAntAGE_v1.12	invrvnge	7.wav	
+game_sample	VAntAGE_v1.12	invrvnge	8.wav	
+game	VAntAGE_v1.12	jjack	\N	\N	\N	\N	\N	Jumping Jack	1984	Universal	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j1.bin	\N	\N	8192	87f29bd2	12b0a6f84439b84dd09fe54436c765fc58f928e1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j3.bin	\N	\N	8192	35b0517e	756d7627f4dc2e9b24be7b0c4c80a9043cb4c322	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j4.bin	\N	\N	8192	35bb316a	8461503179eb7798de6f9f6677eb18ebcd22d470	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j2.bin	\N	\N	8192	dec52e80	1620a070a75115d7c35f44574a8b53ce137ce21a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j0.bin	\N	\N	16384	ab042f04	06412dbdc43ebd6d376a811f240a4c9ec43ca6e7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j5.bin	\N	\N	16384	75038ff9	2a92e0d0adb1abd029c5ee6e350a859fed3f0ae9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j6.bin	\N	\N	8192	5937bd7b	4d399370422e22448d1680113d5bbe9894086a2b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j7.bin	\N	\N	8192	cf8ae8e7	81b881eda0bf60f52dadf22aafc9ca7162fd1540	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j8.bin	\N	\N	8192	84f6fc8c	be631af9525262cf98c982b88cb97d3287366731	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	j9.bin	\N	\N	8192	3f9bb09f	a38f7c9a21e37c7b903497e8170f64a378df730e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	bprom1.bin	\N	\N	512	2f0955f2	5eb417478669560f447a0a0e6fe93af27804590f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jjack	bprom2.bin	\N	\N	512	2747ca77	abc0ca05925974c4b852827605ee2f1caefb8524	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	jrpacman	\N	\N	\N	\N	\N	Jr. Pac-Man	1983	Bally Midway	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp8d.bin	\N	\N	8192	e3fa972e	5ea34621213c649ca2848ab31aab2cbe751723d4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp8e.bin	\N	\N	8192	ec889e94	8294e9e79f8fd19a419431fa690e6ac4a1302f58	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp8h.bin	\N	\N	8192	35f1fc6e	b84b34560b9aae18b24274712b052283faa01730	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp8j.bin	\N	\N	8192	9737099e	07d912a61824323c8fc1b8bd0da89172d4f70b91	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp8k.bin	\N	\N	8192	5252dd97	18bd4d5381656120e4242811006c20776774de4d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp2c.bin	\N	\N	8192	0527ff9b	37fe3176b0d125b7d629e108e7ebdc1196e4a132	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrp2e.bin	\N	\N	8192	73477193	f00a488958ea0438642d345693787bdf771219ad	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrprom.9e	\N	\N	256	029d35c4	d9aa2dc442e9ac36cf3c346b9fb1aa745eaf3cb8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrprom.9f	\N	\N	256	eee34a79	7561f8ccab2af85c111af6a02af6986eb67503e5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrprom.9p	\N	\N	256	9f6ea9d8	62cf15513934d34641433c891a7f73bef82e2fb1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrprom.7p	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jrpacman	jrprom.5s	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	jumpbug	\N	\N	\N	\N	\N	Jump Bug	1981	Rock-ola	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb1	\N	\N	4096	415aa1b7	4f9edd7e9720acf085dd8910849c2f2fac5cb547	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb2	\N	\N	4096	b1c27510	66fbe0b94b6c101cb50d7a3ff78160110415dff9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb3	\N	\N	4096	97c24be2	1beb9fbc3a52610b416af8b5fee156d8b6b3125a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb4	\N	\N	4096	66751d12	26c68cfb59596ae164ee9ae4a24ddf8dc7a923a7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb5	\N	\N	4096	e2d66faf	3dec0796642856359de57afb896cc668c0245b40	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb6	\N	\N	4096	49e0bdfd	8d89d9cd7134b153264fdc49d2c68e8c14004b0d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jb7	\N	\N	2048	83d71302	9292088d26ba29fbf8817df03461b8bb6bf27639	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbl	\N	\N	2048	9a091b0a	19b88f802ee80ff8901ef99e3688f2869f1a69c5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbm	\N	\N	2048	8a0fc082	58b72a3161950a2fb71cdab3f30bb3abb19c7978	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbn	\N	\N	2048	155186e0	717ddaecc52a4ef03a01fcddb520acdbfb0d722a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbi	\N	\N	2048	7749b111	55071ce04708bd52177644298f76ae79d23f6ac9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbj	\N	\N	2048	06e8d7df	d04f1503d9fde5aae92652cb9d2eb16bd6a0fe9c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	jbk	\N	\N	2048	b8dbddf3	043de444890a93459789dc99c43ef88ff66b79e4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpbug	l06_prom.bin	\N	\N	32	6a0c7d87	140335d85c67c75b65689d4e76d29863c209cf32	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	ladybug	\N	\N	\N	\N	\N	Lady Bug	1981	Universal	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb1.cpu	\N	\N	4096	d09e0adb	ddc1f849cbcefb64b70a26c2a4c993f0516af814	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb2.cpu	\N	\N	4096	88bc4a0a	193c9f90b7550020c0923cb158dff7d5faa53bc6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb3.cpu	\N	\N	4096	53e9efce	1960e9cd896b6a65197aefc3f10348103552b598	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb4.cpu	\N	\N	4096	ffc424d7	2a4b9533e61e265bdd38c126add8c26d5bc048d5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb5.cpu	\N	\N	4096	ad6af809	276275d56c725b9d90eeb44c317ceb06bac27ae7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb6.cpu	\N	\N	4096	cf1acca4	c05de7de4bd05d5c2af6aa752e057a9286f3effc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb9.vid	\N	\N	4096	77b1da1e	58cb82417396a3d96acfc864f091b1a5988f228d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb10.vid	\N	\N	4096	aa82e00b	83a5b745e58844b6dd7d05dfe9dbb5959aaf5c40	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb8.cpu	\N	\N	4096	8b99910b	0bc812cf872f04eacedb50feed53f1aa8a1f24b9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	lb7.cpu	\N	\N	4096	86a5b448	f8585a6fcf921e3e21f112dd2de474cb53cef290	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	10-2.vid	\N	\N	32	df091e52	4d7fea6d9ab31e5f280b1dc198a325f00c3826ef	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	10-1.vid	\N	\N	32	40640d8f	85d13a9b78c47174cff7c869f52b30263bae575e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	ladybug	10-3.vid	\N	\N	32	27fa3a50	7cf59b7a37c156640d6ea91554d1c4276c1780e0	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	levers	\N	\N	\N	\N	\N	Levers	1983	Rock-ola	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96059.a8	\N	\N	4096	9550627a	3da9a614622d5b880852fe2bb2e8e4a60afb2d34	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96060.d8	\N	\N	4096	5ac64646	459755932a033095eff72d78d1e916932964c5cc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96061.e8	\N	\N	4096	9db8e520	1ff10e221e45cc4afb77571a171937f8501aa509	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96062.h8	\N	\N	4096	7c8e8b3a	ad281f801e818ea529be8ec43096212e834f69ef	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96063.j8	\N	\N	4096	fa61e793	7aad77f3de05a7bd3dcb0c9c97a3cccd1136f352	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g96064.l8	\N	\N	4096	f797f389	b961f0506defa9884ac47b2316884318e1e90bff	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g95948.n1	\N	\N	2048	d8a0c692	dd64623f4072bcb8c528b5b7b95a7bd858b79d6c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g95949.s1	\N	\N	2048	3660a552	bebfd30f90da55d6d42945717b9b38d5b0c9623a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g95946.j1	\N	\N	2048	73b61b2d	fdb75eea1778daa6f9c48243361e418044b471f8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g95947.m1	\N	\N	2048	72ff67e2	dcc12f17a857271c253d06d5ac170b9d6bb6a2bd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	levers	g960lev.clr	\N	\N	32	01febbbe	11b1dab7983ba29e830ccb7f14eb1a99465c9e81	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	lizwiz	\N	\N	\N	\N	\N	Lizard Wizard	1985	Techstar (Sunn license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	6e.cpu	\N	\N	4096	32bc1990	467c9d70e07f403b6b9118aebe4e6d0abb40a5c1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	6f.cpu	\N	\N	4096	ef24b414	12fce48008c4f9387df0c84f3b0d7c5a1b35d898	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	6h.cpu	\N	\N	4096	30bed83d	8c2458f98320c6887580c71632b544da0a582ba2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	6j.cpu	\N	\N	4096	dd09baeb	f91447ec1f06bf95106e6872d80dcb82e1d42ffb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	wiza	\N	\N	4096	f6dea3a6	ec0b123fd2e6de6681ca14f35fda249b2c2ec44f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	wizb	\N	\N	4096	f27fb5a8	3ea384a1064302709d97fc16b347d3c012e90ac7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	5e.cpu	\N	\N	4096	45059e73	c960cd5720bfa21db73e1000fe8be7d5baf2a3a1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	5f.cpu	\N	\N	4096	d2469717	194c8f816e5ff7614b3db4f355223667105738fa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	7f.cpu	\N	\N	32	7549a947	4f2c3e7d6c38f0b9a90317f91feb3f86c9a0d0a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	4a.cpu	\N	\N	256	5fdca536	3a09b29374031aaa3722932aff974a467b3bb201	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lizwiz	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	losttomb	\N	\N	\N	\N	\N	Lost Tomb (easy)	1982	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2c	\N	\N	4096	d6176d2c	bc2bf63ee8d3e376f155d218704ceb5adcdf8e54	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2e	\N	\N	4096	a5f55f4a	3609fc2b15b6856e81738bbd370250735dba694d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2f	\N	\N	4096	0169fa3c	2c06b1deca6c80d067032bfc2386da6ab0111e5f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2h-easy	\N	\N	4096	054481b6	b0f5d19af0336883e4d9813e58a75c176a63a987	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2j	\N	\N	4096	249ee040	7297039e95e67220fa3e75fc50635f4df4c46a86	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2l	\N	\N	4096	c7d2e608	8aabecabd1dcd6833fb581e4571d71a680e6563a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	2m	\N	\N	4096	bc4bc5b1	95ffa72e57d1da10ddeda4d9333c9e0a2fb33e82	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	5c	\N	\N	2048	b899be2a	9b343a682531255104db61177a43ad933c3af34e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	5d	\N	\N	2048	6907af31	8496c8db5342129d81381eec196facbca45bca77	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	5f	\N	\N	2048	61f137e7	8bff09bc29fa829e21e6b36f7b3f67f19f6bbb26	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	5h	\N	\N	2048	5581de5f	763dacb0d2183c159e7f1f04c7ecb1182da18abf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	losttomb	ltprom	\N	\N	32	1108b816	49fdb08f8f31fefa2f3dca3d3455318cb21847a3	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	lrescue	\N	\N	\N	\N	invaders	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	lrescue	0.wav	
+game_sample	VAntAGE_v1.12	lrescue	1.wav	
+game_sample	VAntAGE_v1.12	lrescue	2.wav	
+game_sample	VAntAGE_v1.12	lrescue	3.wav	
+game_sample	VAntAGE_v1.12	lrescue	4.wav	
+game_sample	VAntAGE_v1.12	lrescue	5.wav	
+game_sample	VAntAGE_v1.12	lrescue	6.wav	
+game_sample	VAntAGE_v1.12	lrescue	7.wav	
+game_sample	VAntAGE_v1.12	lrescue	8.wav	
+game	VAntAGE_v1.12	mooncrst	\N	\N	\N	\N	galaxian	Moon Cresta (Nichibutsu)	1980	Nichibutsu	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc1	\N	\N	2048	7d954a7a	a93ee403cfd7887538ad12d33f6dd6c71bea2a32	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc2	\N	\N	2048	44bb7cfa	349c2e23a9fce73f95bb8168d369082fa129fe3d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc3	\N	\N	2048	9c412104	1b40054ebb1ace965a8522119bb23f09797bc5f6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc4	\N	\N	2048	7e9b1ab5	435f603c0c3e788a509dd144a7916a34e791ae44	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc5	\N	\N	2048	16c759af	3b48050411f65f9d3fb41ff22901e22d82bf1cf6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc6	\N	\N	2048	69bcafdb	939c8c6ed1cd4660a3d99b8f17ed99cbd7e1352a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc7	\N	\N	2048	b50dbc46	4fa084fd1ba5f78e7703e684c57af15ca7a844e4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mc8	\N	\N	2048	18ca312b	39219059003b949e38305553fea2d33071062c64	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mcs_b	\N	\N	2048	fb0f1f81	38a6679a8b69bc1870a0e67e692131c42f9535c8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mcs_d	\N	\N	2048	13932a15	b8885c555c6ad7021be55c6925a0a0872c1b6abd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mcs_a	\N	\N	2048	631ebb5a	5bc9493afa76c55858b8c8849524cbc77dc838fc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	mcs_c	\N	\N	2048	24cfd145	08c6599db170dd6ee364c44f70a0f5c0f881b6ef	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mooncrst	l06_prom.bin	\N	\N	32	6a0c7d87	140335d85c67c75b65689d4e76d29863c209cf32	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	mooncrst	shot.wav	
+game_sample	VAntAGE_v1.12	mooncrst	death.wav	
+game	VAntAGE_v1.12	mrdo	\N	\N	\N	\N	\N	Mr. Do! (Universal)	1982	Universal	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	a4-01.bin	\N	\N	8192	03dcfba2	c15e3d0c4225e0ca120bcd28aca39632575f8e11	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	c4-02.bin	\N	\N	8192	0ecdd39c	c64b3363593911a676c647bf3dba8fe063fcb0de	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	e4-03.bin	\N	\N	8192	358f5dc2	9fed1f5d1d04935d1b77687c8b2f3bfce970dc08	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	f4-04.bin	\N	\N	8192	f4190cfc	24f5125d900f944294d4eda068b710c8f1c6d39f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	s8-09.bin	\N	\N	4096	aa80c5b6	76f9f90deb74598470e7ed565237da38dd07e4e9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	u8-10.bin	\N	\N	4096	d20ec85b	9762bbe34d3fa209ea719807c723f57cb6bf4e01	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	r8-08.bin	\N	\N	4096	dbdc9ffa	93f29fc106283eecbba3fd69cf3c4658aa38ab9f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	n8-07.bin	\N	\N	4096	4b9973db	8766c51a345a5e63446e65614c6f665ab5fbe0d7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	h5-05.bin	\N	\N	4096	e1218cc5	d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	k5-06.bin	\N	\N	4096	b1f68b04	25709cd81c03df51f27cd730fecf86a1daa9e27e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	u02--2.bin	\N	\N	32	238a65d7	a5b20184a1989db23544296331462ec4d7be7516	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	t02--3.bin	\N	\N	32	ae263dc0	7072c100b9d692f5bb12b0c9e304425f534481e2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrdo	f10--1.bin	\N	\N	32	16ee4ca2	fcba4d103708b9711452009cd29c4f88d2f64cd3	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	mrtnt	\N	\N	\N	\N	\N	Mr. TNT	1983	Telko	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.1	\N	\N	4096	0e836586	5037b7c618f05bc3d6a33694729ae575b9aa7dbb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.2	\N	\N	4096	779c4c5b	5ecac4f5b64b306c73d8f57d5260b586789b3055	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.3	\N	\N	4096	ad6fc688	e5729e4e42a5b9b3a26de8a44b3a78b49c8b1d8e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.4	\N	\N	4096	d77557b3	689746653b1e19fbcddd0d71db2b86d1019235aa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.5	\N	\N	4096	3038cc0e	f8f5927ea4cbfda8fa7546abd766ba2e8b020004	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	tnt.6	\N	\N	4096	97634d8b	4c0fa4bc44bbb4b4614b5cc05e811c469c0e78e8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	mrtnt08.bin	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	mrtnt04.bin	\N	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mrtnt	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	mspacatk	\N	\N	mspacman	mspacman	\N	Ms. Pac-Man Plus	1981	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	boot1	boot1	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	mspacatk.2	\N	\N	4096	0af09d31	6ff73e4da4910bcd2ca3aa299d8ffad23f8abf79	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	boot3	boot3	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	boot4	boot4	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	mspacatk.5	\N	\N	4096	e6e06954	ee5b266b1cc178df31fc1da5f66ef4911c653dda	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	mspacatk.6	\N	\N	4096	3b5db308	c1ba630cb8fb665c4881a6cce9d3b0d4300bd0eb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	5e	5e	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	5f	5f	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	82s126.1m	82s126.1m	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacatk	82s126.3m	82s126.3m	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	bootleg	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	82s126.4a	\N	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	mspacman	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	orbitron	\N	\N	\N	\N	galaxian	Orbitron	\N	Signatron USA	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.3	\N	\N	2048	419f9c9b	788a3920f4270b886b3a578f8c2df33e6314a1c3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.4	\N	\N	2048	44ad56ac	3a8339cdee50912a16ac0fb448e6659e32542c0c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.1	\N	\N	2048	da3f5168	1927cc7cd3b9d15b629e09781557f4c75d684182	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.2	\N	\N	2048	a3b813fc	7f0f22667bee897b474fb485d65a74d74a36991a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.5	\N	\N	2048	20cd8bb8	a5309cb04a656c6e1e18bb19910474af8ef814a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.6	\N	\N	2048	2c91b83f	29c73b7ad0dc5a3ba739492c902ad9201eae6ef2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	orbitron.7	\N	\N	2048	46f4cca4	e5fb616b1d17b5b5167f05f7840638840deb2d13	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	orbitron	l06_prom.bin	\N	\N	32	6a0c7d87	140335d85c67c75b65689d4e76d29863c209cf32	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	orbitron	shot.wav	
+game_sample	VAntAGE_v1.12	orbitron	death.wav	
+game_sample	VAntAGE_v1.12	orbitron	back.wav	
+game	VAntAGE_v1.12	pacheart	\N	\N	pacman	pacman	\N	Pac-Man (Hearts)	1981	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg1	\N	\N	2048	d844b679	c4486198b3126bb8e05a308c53787e51065f77ae	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg2	\N	\N	2048	b9152a38	b6be2cb6bc7dd123503eb6bf1165dd1c99456813	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg3	\N	\N	2048	7d177853	9b5ddaaa8b564654f97af193dbcc29f81f230a25	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg4	\N	\N	2048	842d6574	40e32d09cc8d701eb318716493a68cf3f95d3d6d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg5	\N	\N	2048	9045a44c	a97d7016effbd2ace9a7d92ceb04a6ce18fb42f9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg6	\N	\N	2048	888f3c3e	c2b5917bf13071131dd53ea76f0da86706db2d80	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg7	\N	\N	2048	f5265c10	9a320790d7a03fd6192a92d30b3e9c754bbc6a9d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.pg8	\N	\N	2048	1a21a381	d5367a327d19fb57ba5e484bd4fda1b10953c040	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.ch1	\N	\N	2048	c62bbabf	f6f28ae33c2ab274105283b22b49ad243780a95e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	chg2	\N	\N	2048	3591b89d	79bb456be6c39c1ccd7d077fbe181523131fb300	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.ch3	\N	\N	2048	ca8c184c	833aa845824ed80777b62f03df36a920ad7c3656	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	pacheart.ch4	\N	\N	2048	1b1d9096	53771c573051db43e7185b1d188533056290a620	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	82s126.1m	82s126.1m	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacheart	82s126.3m	82s126.3m	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	pacman	\N	\N	\N	\N	\N	PuckMan (Japan set 1)	1980	Namco	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	namcopac.6e	\N	\N	4096	fee263b3	87117ba5082cd7a615b4ec7c02dd819003fbd669	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	namcopac.6f	\N	\N	4096	39d1fc83	326dbbf94c6fa2e96613dedb53702f8832b47d59	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	namcopac.6h	\N	\N	4096	02083b03	7e1945f6eb51f2e51806d0439f975f7a2889b9b8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	namcopac.6j	\N	\N	4096	7a36fe55	01b4c38108d9dc4e48da4f8d685248e1e6821377	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	82s126.4a	\N	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacman	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	pacmanbl	\N	\N	pacman	pacman	\N	Pac-Man (bootleg on Galaxian hardware)	1981	bootleg	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac1b	\N	\N	2048	6718df42	ee15c3f583d381fba4878f824f83d04479a0cee5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac2b	\N	\N	2048	33be3648	50175889cf37fe8a81c931e009b55d10f8d0444a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac3b	\N	\N	2048	f98c0ceb	4faf8b2fb3f109d1196a9ea256328485074a31b9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac4b	\N	\N	2048	a9cd0082	f44ff1ad15d5ee3096f8f44f9c605f32ae2737d9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac5b	\N	\N	2048	6d475afc	4fe6bde352c7dd9572fefaae4b59640b4f4eb8ba	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac6b	\N	\N	2048	cbe863d3	97a2ffa6ab33e6061c664dcd1ee57c86a456782f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac7b	\N	\N	2048	7daef758	4dc8ec0ea8fc04d5bffc1c1335407729309c17f0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac12b	\N	\N	2048	b2ed320b	680a6fdcb65cc2d88d10bc85e0b2628f43375c5c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac11b	\N	\N	2048	ab88b2c4	d0c829ea8021eae81a2b82d36c35ad8258b115e0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac10b	\N	\N	2048	44a45b72	8abd0684a01d6c23ef5cf5f0765458f982316acf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpac9b	\N	\N	2048	fa84659f	20c212723f9062f052539190dfe3fc41577543eb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacmanbl	blpaccp	\N	\N	32	24652bc4	d89575f3749c75dc963317fe451ffeffd9856e4d	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	pacplus	\N	\N	\N	\N	\N	Pac-Man Plus	1982	[Namco] (Midway license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.6e	\N	\N	4096	d611ef68	8531c54ca6b0de0ea4ccc34e0e801ba9847e75bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.6f	\N	\N	4096	c7207556	8ba97215bdb75f0e70eb8d3223847efe4dc4fb48	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.6h	\N	\N	4096	ae379430	4e8613d51a80cf106f883db79685e1e22541da45	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.6j	\N	\N	4096	5a6dff7b	b956ae5d66683aab74b90469ad36b5bb361d677e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.5e	\N	\N	4096	022c35da	57d7d723c7b029e3415801f4ce83469ec97bb8a1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.5f	\N	\N	4096	4de65cdd	9c0699204484be819b77f0b212c792fe9e9fae5d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.7f	\N	\N	32	063dd53a	2e43b46ec3b101d1babab87cdaddfa944116ec06	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	pacplus.4a	\N	\N	256	e271a166	cf006536215a7a1d488eebc1d8a2e2a8134ce1a6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pacplus	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	pengo2u	\N	\N	\N	\N	\N	Pengo (set 2 not encrypted)	1982	Sega	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u8	\N	\N	4096	3dfeb20e	a387b72501da77bf38b58619d2099083a0463e1f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u7	\N	\N	4096	1db341bd	d1c66bb9cf479e6960dbcd35c820097a81eaa555	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u15	\N	\N	4096	7c2842d5	a8a568da68babd0ccb9f2cee4182fc01c3138494	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u14	\N	\N	4096	6e3c1f2f	2ee821b0f6e0f3cfeae7f5ff25a6e9bd977efce0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u20	\N	\N	4096	0fdb04b8	ed814d58318c1055e475ff678609d189727bf9b4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pengo.u31	\N	\N	4096	13de47ed	332b484d47c9921ed93432755bb2d7a9d4628939	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	ic92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	ic105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pr1633.078	\N	\N	32	3a5844ec	680eab0e1204c9b74adc11588461651b474021bb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pr1634.088	\N	\N	1024	766b139b	3fcd66610fcaee814953a115bf5e04788923181f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pr1635.051	\N	\N	256	c29dea27	563c9770028fe39188e62630711589d6ed242a66	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pengo2u	pr1636.070	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	phoenix	\N	\N	\N	\N	\N	Phoenix (Amstar)	1980	Amstar	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic45	\N	\N	2048	9f68086b	fc3cef299bf03bf0586c4047c6b96ca666846220	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic46	\N	\N	2048	273a4a82	6f3019a074e73ff50ceb92f655fcf15659f34919	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic47	\N	\N	2048	3d4284b9	6e69f8f0d537fe89140cd95d2398531d7e93d102	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic48	\N	\N	2048	cb5d9915	49bcf55a5721cfcc02c3b811a4b601e35ea576db	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic49	\N	\N	2048	a105e4e7	b35142a91b6b7fdf7535202671793393c9f4685f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic50	\N	\N	2048	ac5e9ec1	0402e5241d99759d804291998efd43f37ce99917	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic51	\N	\N	2048	2eab35b4	849bf8273317cc869bdd67e50c68399ee8ece81d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic52	\N	\N	2048	aff8e9c5	e4164f85ec12d4d9bcbffba27ab1f51b3599f6d0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic23	\N	\N	2048	3c7e623f	e7ff5fc371664af44785c079e92eeb2d8530187b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic24	\N	\N	2048	59916d3b	71aec70a8e096ed1f0c2297b3ae7dca1b8ecc38d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic39	\N	\N	2048	53413e8f	d772358505b973b10da840d204afb210c0c746ec	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic40	\N	\N	2048	0be2ba91	af9243ee23377b632b9b7d0b84d341d06bf22480	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic40_b.bin	\N	\N	256	79350b25	57411be4c1d89677f7919ae295446da90612c8a8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	phoenix	ic41_a.bin	\N	\N	256	e176b768	e2184dd495ed579f10b6da0b78379e02d7a6229f	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	phoenix	shot8.wav	
+game_sample	VAntAGE_v1.12	phoenix	death8.wav	
+game_sample	VAntAGE_v1.12	phoenix	phoenix1.wav	
+game_sample	VAntAGE_v1.12	phoenix	phoenix2.wav	
+game	VAntAGE_v1.12	piranha	\N	\N	pacman	pacman	\N	Piranha	1981	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr1.cpu	\N	\N	4096	bc5ad024	a3ed781b514a1068b24a7146a28f0a2adfaa2719	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr3.cpu	\N	\N	4096	473c379d	6e7985367c3e544b4cb98ba8291908df88eafe7f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr4.cpu	\N	\N	4096	63fbf895	d328bf3b8f307fb774614834edec211117148e64	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr5.cpu	\N	\N	2048	3fc4030c	5e45f0c19cf96daa17afd2fa1c628d7ac7f4a79c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr7.cpu	\N	\N	2048	30b9a010	b0ba8b6cd430feb32d11d092e1959b9f5d240f1b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr6.cpu	\N	\N	2048	f3e9c9d5	709a75b2457f21f0f1a3d9e7f4c8579468ee5cad	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	pr8.cpu	\N	\N	2048	133d720d	8af75ed9e115a996379acedd44d0c09332ec5a03	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	82s126.1m	82s126.1m	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	piranha	82s126.3m	82s126.3m	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	pisces	\N	\N	\N	\N	galaxian	Pisces	\N	<unknown>	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.a1	\N	\N	2048	856b8e1f	24d468b5f06f54c3fa1cb54ceec8a0c8e285430e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.a2	\N	\N	2048	055f9762	9d821874dd48a80651adc58a2f7fe5d2b3ed67bc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.b2	\N	\N	2048	5540f2e4	b069a7e46fa2c1f732371ef056caaf8f343e11a8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.c1	\N	\N	2048	44aaf525	667bf4c3a36169c3ddddd22b2f1f90bcc9308548	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.d1	\N	\N	2048	fade512b	ccef2650f1d9dc3fdde2d441774246d47febc2cc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.e2	\N	\N	2048	5ab2822f	bbcac3aab943dd9b173de11ddf02ff75d16b1582	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.1j	\N	\N	4096	2dba9e0e	edfb974766b57327ac846426a3a9583b33a4b7c9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	pisces.1k	\N	\N	4096	cdc5aa26	72a396d142a775bb39231d700308b8bd7aff7f75	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pisces	6331-1j.86	\N	\N	32	57a45057	d4ec6a54f72640e5b485aa59e206c090e67ff640	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	pisces	shot.wav	
+game_sample	VAntAGE_v1.12	pisces	death.wav	
+game_sample	VAntAGE_v1.12	pisces	back.wav	
+game	VAntAGE_v1.12	pooyan	\N	\N	\N	\N	\N	Pooyan	1982	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	1.4a	\N	\N	8192	bb319c63	5401b8ef586127c8cf5a431e5c44e38be2254a98	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	2.5a	\N	\N	8192	a1463d98	b23cc7e61276c61a78e80fe08c7f0c8adadf2ffe	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	3.6a	\N	\N	8192	fe1a9e08	5206893760f188ac71a5e6bd42561cf25fcc3d49	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	4.7a	\N	\N	8192	9e0f9bcc	4d9707423ad531ac535db432e329b3d52cbb4559	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	xx.7a	\N	\N	4096	fbe2b368	5689a84ef110bdc0039ad1a6c5778e0b8eccfce0	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	xx.8a	\N	\N	4096	e1795b3d	9ab4e5362f9f7d9b46b750e14b1d9d71c57be40f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	8.10g	\N	\N	4096	931b29eb	0325c1c1fdb44e0044b82b7c79b5eeabf5c11ce7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	7.9g	\N	\N	4096	bbe6d6e4	de5447d59a99c4c08c4f40c0b7dd3c3c609c11d4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	6.9a	\N	\N	4096	b2d8c121	189ad488869f34d7a38b82ef70eb805acfe04312	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	5.8a	\N	\N	4096	1097c2b6	c815f0d27593efd23923511bdd13835456ef7f76	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	pooyan.pr1	\N	\N	32	a06a6d0e	ae131320b66d76d4bc9108da6708f6f874b2e123	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	pooyan.pr2	\N	\N	256	82748c0b	9ce8eb92e482eba5a9077e9db99841d65b011346	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	pooyan	pooyan.pr3	\N	\N	256	8cd4cd60	e0188ecd5b53a8e6e28c1de80def676740772334	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	puckman	\N	\N	pacman	pacman	\N	New Puck-X	1980	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	puckman.6e	\N	\N	4096	a8ae23c5	1481a4f083b563350744f9d25b1bcd28073875d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	puckman.6h	\N	\N	4096	197443f8	119aab12a9e1052c7b9a1f81e563740b41429a8c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	puckman.6j	\N	\N	4096	2e64a3ba	f86a921173f32211b18d023c2701664d13ae23be	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	pacman.5e	pacman.5e	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	pacman.5f	pacman.5f	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	82s126.1m	82s126.1m	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	puckman	82s126.3m	82s126.3m	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	redufo	\N	\N	galaxian	galaxian	galaxian	Defend the Terra Attack on the Red UFO (bootleg)	\N	bootleg	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru1a	\N	\N	2048	5a8e4f37	c0957ede91e2dc3f80e4912b877843aed5d15779	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru2a	\N	\N	2048	c624f52d	119a660513ad33e35c9bdaecd588219bf8026d82	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru3a	\N	\N	2048	e1030d1c	80640fbbfa7f84c016366b1084e7f8a7acdcd440	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru4a	\N	\N	2048	7692069e	5130d61c857c3b85eadabcf10f3a6771c72f0f56	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru5a	\N	\N	2048	cb648ff3	e0042251ca7f4a31b5bd9f8cca35278a1e152899	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ru6a	\N	\N	2048	e1a9f58e	4fc7489fca057156a7cf5efcb01058ce4f0db69e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	ruhja	\N	\N	2048	8a422b0d	b886157518f73e7115a225ba230e456179f6e18f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	rukla	\N	\N	2048	1eb84cb1	08f360802a90039c0499a1417d06b6eb5f89d67e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	redufo	6l.bpr	6l.bpr	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	redufo	shot.wav	
+game_sample	VAntAGE_v1.12	redufo	death.wav	
+game_sample	VAntAGE_v1.12	redufo	back.wav	
+game	VAntAGE_v1.12	scobra	\N	\N	\N	\N	\N	Super Cobra	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2c	\N	\N	4096	a0744b3f	8949298a04f8ba8a82d5d84a7b012a0e7cff11df	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2e	\N	\N	4096	8e7245cd	281504ff364c3ddbf901c92729b139afd93b9785	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2f	\N	\N	4096	47a4e6fb	01775ad11dc23469649539ee8fb8a5800df031c6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2h	\N	\N	4096	7244f21c	f5fff565ed3f6c5f277a4db53c9f569813fcec1d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2j	\N	\N	4096	e1f8a801	2add8270352d6596052d3ff22c891ceccaa92071	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	2l	\N	\N	4096	d52affde	5681771ed51d504bdcc2999fcbf926a30b137828	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	5c	\N	\N	2048	d4346959	5eab4505beb69a5bdd88b23db60e1193371250cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	5d	\N	\N	2048	cc025d95	2b0784c4d05c466e0b7648f16e14f34393d792c3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	5e	\N	\N	2048	1628c53f	ec79a73e4a2d7373454b227dd7eff255f1cc60cc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	5f	\N	\N	2048	64d113b4	7b439bb74d5ecc792e0ca8964bcca8c6b7a51262	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	5h	\N	\N	2048	a96316d3	9de0e94932e91dc34aea7c81880bde6a486d103b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scobra	82s123.6e	\N	\N	32	9b87f90d	d11ac5e4a6057301ea2a9cbb404c2b978eb4c1dc	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	scramble	\N	\N	\N	\N	\N	Scramble	1981	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2d.k	\N	\N	2048	ea35ccaa	1dcb375987fe21e0483c27d485c405de53848d61	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2e.k	\N	\N	2048	e7bba1b3	240877576045fddcc9ff01d97dc78139454ac4f1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2f.k	\N	\N	2048	12d7fc3e	a84d191c7be8700f630a83ddad798be9e83b5d55	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2h.k	\N	\N	2048	b59360eb	5d155808c19dcf2e14aa8e29c0ee41a6d3d3c43a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2j.k	\N	\N	2048	4919a91c	9cb5861c61e4783e5fbaa3869d51195f127b1129	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2l.k	\N	\N	2048	26a4547b	67c0fa81729370631647b5d78bb5a61433facd7f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2m.k	\N	\N	2048	0bb49470	05a6fe3010c2136284ca76352dac147797c79778	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	2p.k	\N	\N	2048	6a5740e5	e3b09141cee26857d626412e9d1a0e759469b97a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	5c	\N	\N	2048	bcd297f0	8ed78487d76fd0a917ab7b258937a46e2cd9800c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	5d	\N	\N	2048	de7912da	8558b4eff5d7e63029b325edef9914feda5834c3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	5e	\N	\N	2048	ba2fa933	1f976d8595706730e29f93027e7ab4620075c078	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	5f.k	\N	\N	2048	4708845b	a8b1ad19a95a9d35050a2ab7194cc96fc5afcdc9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	5h.k	\N	\N	2048	11fd2887	69844e48bb4d372cac7ae83c953df573c7ecbb7f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	scramble	82s123.6e	\N	\N	32	4e3caeab	a25083c3e36d28afdefe4af6e6d4f3155e303625	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	spaceph	\N	\N	\N	\N	invaders	Space Phantoms	1979	Zilec Games	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv01.bin	\N	\N	1024	de84771d	13a7e5eedb826cca4d59634d38db9fcf5e65b732	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv02.bin	\N	\N	1024	957fc661	ac0edc901d8033619f62967f8eaf53a02947e109	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv03.bin	\N	\N	1024	dbda38b9	73a277616a0c236b07c9ffa66f16a27a78c12d70	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv04.bin	\N	\N	1024	f51544a5	368411a2dadaebcbb4d5b6cf6c2beec036ce817f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv05.bin	\N	\N	1024	98d02683	f13958df8d385f532e993e4c34569d992904a4ed	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv06.bin	\N	\N	1024	4ec390fd	ade23efde5d55d282fbb28a5f8a1346601501b79	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv07.bin	\N	\N	1024	170862fd	ac64a97b1510ca81d4ef3a5fcf45b7e6c7414914	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv08.bin	\N	\N	1024	511b12cf	08ba43024c8574ded11aa457eca24b72984f5ea9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv09.bin	\N	\N	1024	af1cd1af	286d77e8556e475b291a3b1a53acaca8b7dc3678	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv10.bin	\N	\N	1024	31b7692e	043880750d134d04311eab55e30ee223977d3d17	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv11.bin	\N	\N	1024	50257351	5c3eb29f36f04b7fb8f0351ccf9c8cfc7587f927	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spaceph	sv12.bin	\N	\N	1024	a2a3366a	87032787450216d378406122effa95ea01145bf7	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	spaceph	0.wav	
+game_sample	VAntAGE_v1.12	spaceph	1.wav	
+game_sample	VAntAGE_v1.12	spaceph	2.wav	
+game_sample	VAntAGE_v1.12	spaceph	3.wav	
+game_sample	VAntAGE_v1.12	spaceph	4.wav	
+game_sample	VAntAGE_v1.12	spaceph	5.wav	
+game_sample	VAntAGE_v1.12	spaceph	6.wav	
+game_sample	VAntAGE_v1.12	spaceph	7.wav	
+game_sample	VAntAGE_v1.12	spaceph	8.wav	
+game	VAntAGE_v1.12	spdcoin	\N	\N	\N	\N	\N	Speed Coin (prototype)	1984	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.2c	\N	\N	4096	65cf1e49	a4570f0d7868fcdd378de3fd9e5346780afcf427	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.2e	\N	\N	4096	1ee59232	b58c1de69d33cf80432012b9b6d8b1e3d8b00662	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.5c	\N	\N	2048	b4cf64b7	a95d94be2e374b78b4ba49b6931f0c214ff9d033	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.5d	\N	\N	2048	92304df0	01471bf7cbea0090933a253b1b46f80c8f240df5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.5f	\N	\N	2048	dd5f1dbc	e7c40972a7530cac19ce04de3272244959d337ab	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.5h	\N	\N	2048	ab1fe81b	98057932cb5faad60d425b547590ab22bfc67ff6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spdcoin	spdcoin.clr	\N	\N	32	1a2ccc56	58bedaa8b3e21e916295603b38529084b6c0099a	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	superbon	\N	\N	\N	\N	\N	Super Bond	\N	bootleg	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2d.cpu	\N	\N	4096	60c0ba18	6ad09e01dd3c86c8d9c465916227c9b00f38e025	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2e.cpu	\N	\N	4096	ddcf44bf	b862622f4aa8af6da568b4f82ef043359ece530f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2f.cpu	\N	\N	4096	bb66c2d5	cbb7f4279ae48460790cb8abf976b978ae6a1a25	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2h.cpu	\N	\N	4096	74f4f04d	d51c5d2c21453ee0dab60253c3124b6112d1f859	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2j.cpu	\N	\N	4096	78effb08	64f211b34c2f37c25a36200b393f145b39ae67b5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2l.cpu	\N	\N	4096	e9dcecbd	ec61cec2b66c041872a2ca29cf724a89c73fc9a3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	2m.cpu	\N	\N	4096	3ed0337e	975b93aee851867e335614419aa6db16fbf8063f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	5c	\N	\N	2048	b899be2a	9b343a682531255104db61177a43ad933c3af34e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	5d.snd	\N	\N	2048	80640a04	83f2bafcfa5737441194d3058a76b2582317cfcb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	5f.cpu	\N	\N	2048	5b9d4686	c7814aefaccab9c8a3a0b015447d366cd2e43c3a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	5h.cpu	\N	\N	2048	58c29927	b88515d9c3108d2ad59f30fed5d74877b1636280	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superbon	superbon.clr	\N	\N	32	\N	\N	\N	\N	nodump	\N	\N	\N	
+game	VAntAGE_v1.12	superg	\N	\N	galaxian	galaxian	galaxian	Super Galaxians	1979	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	7f.bin	\N	\N	4096	4335b1de	e41e3d90dac738cf71377f3b476ec67b14dee27a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	superg.w	\N	\N	2048	ddeabdae	daa5109a32c7c9a80bdb212dc3e4e3e3c104a731	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	superg.y	\N	\N	2048	9463f753	d9cb35c19aafec43d08b048bbe2337a790f6ba9d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	superg.z	\N	\N	2048	e6312e35	c4010459379d7fe00f605aaf288928b2deffb8b2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	galmidw.1j	\N	\N	2048	84decf98	2e565cb6057b1816a6b4541e6dfadd3c3762fa36	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	galmidw.1k	\N	\N	2048	c31ada9e	237ebb48549b34ca59a13cc2706512d957413ec4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	superg	6l.bpr	6l.bpr	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	superg	shot.wav	
+game_sample	VAntAGE_v1.12	superg	death.wav	
+game_sample	VAntAGE_v1.12	superg	back.wav	
+game	VAntAGE_v1.12	swarm	\N	\N	galaxian	galaxian	galaxian	Swarm	1979	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarm1.bin	\N	\N	2048	21eba3d0	d07f141d785c86faca8c40af034c26f2789e9346	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarm2.bin	\N	\N	2048	f3a436cd	8d64e61b823e22f17cb79bf9e0c7b3c80c76413f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarm3.bin	\N	\N	2048	2915e38b	045d4cc2c363b9ba8d066f902f03b7eacbeb1f5e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarm4.bin	\N	\N	2048	8bbbf486	84c975562c9c359069fb70f7f416420c74d40622	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarm5.bin	\N	\N	2048	f1b1987e	0c8b57cb156fdd1a81a5e4535464cafab737185b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarma.bin	\N	\N	2048	ef8657bb	c942db83231b04041e2794a08ce779331613edcf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	swarmb.bin	\N	\N	2048	60c4bd31	a8f22f8d7a9fca2c29091888e243dfa10211e138	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	swarm	6l.bpr	6l.bpr	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	swarm	shot.wav	
+game_sample	VAntAGE_v1.12	swarm	death.wav	
+game_sample	VAntAGE_v1.12	swarm	back.wav	
+game	VAntAGE_v1.12	tazmania	\N	\N	\N	\N	\N	Tazz-Mania (Scramble hardware)	1982	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2c.cpu	\N	\N	4096	932c5a06	f90040a12f579a05cb91eacbe49dae9b2c725592	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2e.cpu	\N	\N	4096	ef17ce65	e1372886a4a2ae58278772f49b4f3be35e0b65d1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2f.cpu	\N	\N	4096	43c7c39d	3cfe97009e3c9236b118fa1beadc50f41584bd7e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2h.cpu	\N	\N	4096	be829694	3885c95ae1704e7a472139740b87fc8dd9610e07	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2j.cpu	\N	\N	4096	6e197271	231141a95e4dcb54d8bbee346825702e52824c42	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	2k.cpu	\N	\N	4096	a1eb453b	50ddfd1dd8cc8c2cde97e52d4ef90e6d10e27a53	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	rom0.snd	\N	\N	2048	b8d741f1	a1bb8a1e0d6b34111f05c539c8e92fffacf5aa5c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	5f.cpu	\N	\N	2048	2c5b612b	32e3a41a9a4a8b1285b6a195213ff0d98012360a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	5h.cpu	\N	\N	2048	3f5ff3ac	bc70eef54a45b52c14e35464e5f06b5eec554eb6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	tazmania	colr6f.cpu	\N	\N	32	fce333c7	f63a214dc47c5e7c80db000b0b6a261ca8da6629	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	theend	\N	\N	\N	\N	\N	The End	1980	Konami	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic13_1t.bin	\N	\N	2048	93e555ba	f684927cecabfbd7544f7549a6152c0a6a436019	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic14_2t.bin	\N	\N	2048	2de7ad27	caf369fde632652a0a5fb11d3605f0d2386d297a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic15_3t.bin	\N	\N	2048	035f750b	5f70518e5dbfca0ba12ba4dc4f357ce8e6b27bc8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic16_4t.bin	\N	\N	2048	61286b5c	14464aa5284aecc9c6046e464ab3d13da89d8dda	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic17_5t.bin	\N	\N	2048	434a8f68	3c8c099c7865997d475c096f1b1c93d88ab21543	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic18_6t.bin	\N	\N	2048	dc4cc786	3311361a1eb29715aa41d61fbb3563014bd9eeb1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic56_1.bin	\N	\N	2048	7a141f29	ca483943971c8fc7f5775a8a7cc6ddd331d48170	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic55_2.bin	\N	\N	2048	218497c1	3e080621f2e83909a6f304a2d960a080bccbbdc2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic30_2c.bin	\N	\N	2048	68ccf7bf	a8ea784a2660f855757ae0b30cb2a33ab6f2cd59	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	ic31_1c.bin	\N	\N	2048	4a48c999	f1abcbfc3146a18dc3ff865e3ba278377a42a875	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theend	6331-1j.86	\N	\N	32	24652bc4	d89575f3749c75dc963317fe451ffeffd9856e4d	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	theglob	\N	\N	\N	\N	\N	The Glob	1983	Epos Corporation	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.u2	\N	\N	8192	829d0bea	89f52b459a03fb40b9bbd97ac8a292f7ead6faba	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.u3	\N	\N	8192	31de6628	35a47dcf34efd74b5b2fda137e06a3dcabd74854	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.5e	\N	\N	4096	53688260	9ce0d1d67d12743b69e8190bf7506b00b2f02955	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.5f	\N	\N	4096	051f59c7	e1e1322686997e5bcdac164704b328cce352ae42	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.7f	\N	\N	32	1f617527	448845cab63800a05fcb106897503d994377f78f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	glob.4a	\N	\N	256	28faa769	7588889f3102d4e0ca7918f536556209b2490ea1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	theglob	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	triplep	\N	\N	\N	\N	\N	Triple Punch	1982	KKI	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.2g	\N	\N	4096	c583a93d	2bd4a02f945d64ef3ff814d0b8cbf32380d3f790	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.2h	\N	\N	4096	c03ddc49	5a2fba848c4ddf2ef0bb0f00e93dbd88e939441a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.2k	\N	\N	4096	e83ca6b5	b16690cfe6fb45cf7b9a9cfa22822ba947c0e432	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.2l	\N	\N	4096	982cc3b9	28bb08679126e5aa8bd0b8f387b881fe799fb009	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.5f	\N	\N	2048	d51cbd6f	c3766a69a4599e54b8d7fb893e45802ec8bf6713	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	triplep.5h	\N	\N	2048	f21c0059	b1ba87f13908e3e662de8bf444f59bd5c2009720	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	triplep	tripprom.6e	\N	\N	32	624f75df	0e9a7c48dd976af1dca1d5351236d4d5bf7a9dc8	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	turtles	\N	\N	\N	\N	\N	Turtles	1981	[Konami] (Stern license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.2c	\N	\N	4096	ec5e61fb	3ca89800fda7a7e61f54d71d5302908be2706def	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.2e	\N	\N	4096	fd10821e	af74602bf2454eb8f3b9bb5c425e2476feeecd69	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.2f	\N	\N	4096	ddcfc5fa	2af9383e5a289c2d7fbe6cf5e5b1519c352afbab	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.2h	\N	\N	4096	9e71696c	3dcdf5dc601c875fc9d8b9a46e3ef588e7478e0d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.2j	\N	\N	4096	fcd49fef	bb1e91b2e6d4b5a861bf37907ef6b198328d8d83	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_snd.5c	\N	\N	4096	f0c30f9a	5621f336e9be8acf986a34bbb8855ed5d45c28ef	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_snd.5d	\N	\N	4096	af5fc43c	8a49c55feba094b07380615cf0b6f0878c25a260	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.5h	\N	\N	2048	e5999d52	bc3f52cf6c6e19dfd2dacd1e8c9128f437e995fc	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turt_vid.5f	\N	\N	2048	c3ffd655	dee51d77be262a2944488e381541c10a2b6e5d83	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	turtles	turtles.clr	\N	\N	32	f3ef02dd	09fd795170d7d30f101d579f57553da5ff3800ab	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	uniwars	\N	\N	\N	\N	\N	UniWar S	1980	Irem	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	f07_1a.bin	\N	\N	2048	d975af10	a2e2a36a75db8fd09441308b08b6ae073c68b8cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	h07_2a.bin	\N	\N	2048	b2ed14c3	7668df11f64b8e296eedfee53437777dc53a56d5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	k07_3a.bin	\N	\N	2048	945f4160	5fbe879f51e14c4c7ae551e5b3089f8e148770a4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	m07_4a.bin	\N	\N	2048	ddc80bc5	18c3920198baf87267bc7f12db6b23b090d3577a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	d08p_5a.bin	\N	\N	2048	62354351	85bf18942f73023b8be0c3659a0dcd3dfcccfc2c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	gg6	\N	\N	2048	270a3f4d	20f5097033fca515d70fe47178cbd341a1d07443	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	m08p_7a.bin	\N	\N	2048	c9245346	239bad3fe64eaab2dfc3febd06d1124103a10504	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	n08p_8a.bin	\N	\N	2048	797d45c7	76fb8b45fcce3622c59c04af32cfa001ef7bf71d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	egg10	\N	\N	2048	012941e0	4f7ec4d95939cb7c4086bb7df43759ac504ae47c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	h01_2.bin	\N	\N	2048	c26132af	7ae125a911dfd47aeca4f129f580762ce4d8d91a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	egg9	\N	\N	2048	fc8b58fd	72553e2735b0dcc2dcfce9698d49566732492588	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	k01_2.bin	\N	\N	2048	dcc2b33b	c3a5ac935c519400dfabb28909f7e460769d1837	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	uniwars	uniwars.clr	\N	\N	32	25c79518	e8f7e8b3d0cf1ed9d723948548f58abf0e2c6d1f	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	vanvan	\N	\N	\N	\N	\N	Van Van Car	1983	Karateco	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van1.bin	\N	\N	4096	00f48295	703fab63760cadcce042b491d7d1d45301319158	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van-2.51	\N	\N	4096	df58e1cb	5e0fc713b50d46c7650d6564c20882891864cdc5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van-3.52	\N	\N	4096	15571e24	d259d81fce16e151b32ac81f94a13b7044fdef95	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van4.bin	\N	\N	4096	f8b37ed5	34f844be891dfa5f6a1160de6f428e9dacd618a8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van5.bin	\N	\N	4096	b8c1e089	c614fb9159210f6cf68f5085bfebd928caded91c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van-20.18	\N	\N	4096	60efbe66	ac398f77bfeab3d18ffd496e117825bfbeed4b62	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	van-21.19	\N	\N	4096	5dd53723	f75c869ac364f477d532e695347ceb5e281f9efa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	6331-1.6	\N	\N	32	ce1d9503	b829bed78c02d9998c1aecb8f6813e90b417a7f2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	vanvan	6301-1.37	\N	\N	256	4b803d9f	59b7f2e22c4e0b20ac3b12d88996a6dfeebc5933	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	warofbug	\N	\N	\N	\N	galaxian	War of the Bugs	1981	Armenia	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.u	\N	\N	2048	b8dfb7e3	c7c675b2638869a9cd7dbd554e6131d8c71b567a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.v	\N	\N	2048	fd8854e0	b39ab41b834f18341968dd780f0a3cd07d70c16c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.w	\N	\N	2048	4495aa14	f1be281db1d831770efa9cc41ea87eb348e70108	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.y	\N	\N	2048	c14a541f	d32e89fd18d9e1db2e4a545186eac728c0b02255	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.z	\N	\N	2048	c167fe55	d85c4d1bd7aa5e14eb2f11dfa14979e5dbc084a8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.1k	\N	\N	2048	8100fa85	06641c431cace36dec98b87555f62e72f3e53a31	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.1j	\N	\N	2048	d1220ae9	e892bc8b0b71d8b07503e474e9c30e6cab460682	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	warofbug	warofbug.clr	\N	\N	32	8688e64b	ed13414257f580b98b50c9892a14159c55e7838d	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	warofbug	shot.wav	
+game_sample	VAntAGE_v1.12	warofbug	death.wav	
+game_sample	VAntAGE_v1.12	warofbug	back.wav	
+game	VAntAGE_v1.12	yankeedo	\N	\N	mrdo	mrdo	\N	Yankee DO!	1982	hack	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	a4-01.bin	a4-01.bin	\N	8192	03dcfba2	c15e3d0c4225e0ca120bcd28aca39632575f8e11	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	yd_d2.c4	\N	\N	8192	7c9d7ce0	37889575c7c83cb647008b038e4efdc87355bd3e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	e4-03.bin	e4-03.bin	\N	8192	358f5dc2	9fed1f5d1d04935d1b77687c8b2f3bfce970dc08	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	f4-04.bin	f4-04.bin	\N	8192	f4190cfc	24f5125d900f944294d4eda068b710c8f1c6d39f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	s8-09.bin	s8-09.bin	\N	4096	aa80c5b6	76f9f90deb74598470e7ed565237da38dd07e4e9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	u8-10.bin	u8-10.bin	\N	4096	d20ec85b	9762bbe34d3fa209ea719807c723f57cb6bf4e01	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	r8-08.bin	r8-08.bin	\N	4096	dbdc9ffa	93f29fc106283eecbba3fd69cf3c4658aa38ab9f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	n8-07.bin	n8-07.bin	\N	4096	4b9973db	8766c51a345a5e63446e65614c6f665ab5fbe0d7	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	yd_d5.h5	\N	\N	4096	f530b79b	bffc4ddf8aa26933c8a15ed40bfa0b4cee85b408	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	yd_d6.k5	\N	\N	4096	790579aa	89d8a77d2046cf8cfc393e0f08d361d1886bfec1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	u02--2.bin	u02--2.bin	\N	32	238a65d7	a5b20184a1989db23544296331462ec4d7be7516	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	t02--3.bin	t02--3.bin	\N	32	ae263dc0	7072c100b9d692f5bb12b0c9e304425f534481e2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	yankeedo	f10--1.bin	f10--1.bin	\N	32	16ee4ca2	fcba4d103708b9711452009cd29c4f88d2f64cd3	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	zaxxon	\N	\N	\N	\N	\N	Zaxxon (set 1)	1982	Sega	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.3	\N	\N	8192	6e2b4a30	80ac53c554c84226b119cbe3cf3470bcdbcd5762	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.2	\N	\N	8192	1c9ea398	0cd259be3fa80f3d53dfa76d5ca06773cdfe5945	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.1	\N	\N	4096	1c123ef9	2588be06ea7baca6112d58c78a1eeb98aad8a02e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.14	\N	\N	2048	07bf8c52	425157a1625b1bd5169c3218b958010bf6af12bb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.15	\N	\N	2048	c215edcb	f1ded2173eb139f48d2ca86c5ef00acbe6c11cd3	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.6	\N	\N	8192	6e07bb68	a002f3441b0f0044615ce71ecbd14edadba16270	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.5	\N	\N	8192	0a5bce6a	a86543727389931244ba8a576b543d7ac05a2585	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.4	\N	\N	8192	a5bf1465	a8cd27dfb4a606bae8bfddcf936e69e980fb1977	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.11	\N	\N	8192	eaf0dd4b	194e2ca0a806e0cb6bb7cc8341d1fc6f2ea911f6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.12	\N	\N	8192	1c5369c7	af6a5984c3cedfa8c9efcd669f4f205b51a433b2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.13	\N	\N	8192	ab4e8a9a	4ac79cccc30e4adfa878b36101e97e20ac010438	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.8	\N	\N	8192	28d65063	e1f90716236c61df61bdc6915a8e390cb4dcbf15	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.7	\N	\N	8192	6284c200	d26a9049541479b8b19f5aa0690cf4aaa787c9b5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.10	\N	\N	8192	a95e61fd	a0f8c15ff75affa3532abf8f340811cf415421fd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.9	\N	\N	8192	7e42691f	2124363be8f590b74e2b15dd3f90d77dd9ca9528	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.u98	\N	\N	256	6cc6695b	01ae8450ccc302e1a5ae74230d44f6f531a962e2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zaxxon	zaxxon.u72	\N	\N	256	deaa21f7	0cf08fb62f77d93ff7cb883c633e0db35906e11d	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	zaxxon	03.wav	
+game_sample	VAntAGE_v1.12	zaxxon	02.wav	
+game_sample	VAntAGE_v1.12	zaxxon	01.wav	
+game_sample	VAntAGE_v1.12	zaxxon	00.wav	
+game_sample	VAntAGE_v1.12	zaxxon	11.wav	
+game_sample	VAntAGE_v1.12	zaxxon	10.wav	
+game_sample	VAntAGE_v1.12	zaxxon	08.wav	
+game_sample	VAntAGE_v1.12	zaxxon	23.wav	
+game_sample	VAntAGE_v1.12	zaxxon	21.wav	
+game_sample	VAntAGE_v1.12	zaxxon	20.wav	
+game_sample	VAntAGE_v1.12	zaxxon	05.wav	
+game_sample	VAntAGE_v1.12	zaxxon	04.wav	
+game	VAntAGE_v1.12	zigzag	\N	\N	\N	\N	\N	Zig Zag (Galaxian hardware, set 1)	1982	LAX	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_d1.bin	\N	\N	4096	8cc08d81	be671192ef06dc3ed6963dc39e6bdce3275300e9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_d2.bin	\N	\N	4096	326d8d45	563b9fc64c34e36cfadffb107ce30d3a04d62d9c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_d4.bin	\N	\N	4096	a94ed92a	d56f32fc2b3f0f7affe658b7726682c60d09bc16	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_d3.bin	\N	\N	4096	ce5e7a00	93c47d22698a016cb0f0b654ade9ccab0cd1c88b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_6_h1.bin	\N	\N	4096	780c162a	b0cac68258281917bcada52ce26e0ce38721d633	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zz_5.bin	\N	\N	4096	f3cdfec5	798d631c72d8e6b2e372b4b3ab0c10d8365a1359	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	zigzag	zzbp_e9.bin	\N	\N	32	aa486dd0	b845b52715bf6361ceee8c1ac541733963bd47af	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	jumpshot	\N	\N	\N	\N	\N	Jump Shot	1985	Bally Midway	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	6e	\N	\N	4096	f00def9a	465a7f368e61a1e6614d6eab0fa2c6319920eaa5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	6f	\N	\N	4096	f70deae2	a8a8369e865b62cb9ed66d3de2396c6a5fced549	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	6h	\N	\N	4096	894d6f68	8693ffc29587cdd1be0b42cede53f8f450a2c7fa	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	6j	\N	\N	4096	f15a108a	db5c8394f688c6f889cadddeeae4fbca63c29a4c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	5e	\N	\N	4096	d9fa90f5	3c37fe077a77baa802230dddbc4bb2c05985d2bb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	5f	\N	\N	4096	2ec711c1	fcc3169f48eb7d4af533ad0169701e4230ff5a1f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	prom.7f	\N	\N	32	872b42f3	bbcd392ba3d2a5715e92fa0f7a7cf1e7e6e655a2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	prom.4a	\N	\N	256	0399f39f	e98f08da4666cab44e01acb760a1bd2fc858bc0d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	82s126.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	jumpshot	82s126.3m	\N	\N	256	77245b66	0c4d0bee858b97632411c440bea6948a74759746	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	azurian	\N	\N	\N	\N	galaxian	Azurian Attack	1982	Rait Electronics Ltd	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	pgm.1	\N	\N	4096	17a0fca7	0ffb80d433fbaa0631d0d982a453f9e6cccab297	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	pgm.2	\N	\N	4096	14659848	bb9d9c01b074bf7ed7a1c29379bbef41728dd27a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	pgm.3	\N	\N	4096	8f60fb97	d0f4d65e568ac1a5d41e550f2f626cbf72884959	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	gfx.1	\N	\N	2048	f5afb803	ffc8f86a35179d7715ef618004b79003e0236a93	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	gfx.2	\N	\N	2048	ae96e5d1	df667fb96d7353ccf9ce0acf788371ef2221e97d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	azurian	l06_prom.bin	\N	\N	32	6a0c7d87	140335d85c67c75b65689d4e76d29863c209cf32	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	azurian	shot.wav	
+game_sample	VAntAGE_v1.12	azurian	death.wav	
+game_sample	VAntAGE_v1.12	azurian	back.wav	
+game	VAntAGE_v1.12	dingo	\N	\N	\N	\N	\N	Dingo	1983	Ashby Computers and Graphics LTD. (Jaleco license)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	003.e7	\N	\N	4096	d088550f	13b87995881e484825c45ab4e558ac3d90bf162a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	004.h7	\N	\N	4096	a228446a	4b7e611edd6bce308cc7b17caa068445f5438f4f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	005.j7	\N	\N	2048	14d680bb	e9d84d1a62ed5300c390a7326c16cebd0aceae3b	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	6.7l	\N	\N	4096	047092e0	24014c999c904b4be571121b0f6808713d95add1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	001.h1	\N	\N	2048	1ab1dd4d	74ef2226e1f1d2583b0c7718325da193f411a97d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	002.k1	\N	\N	2048	4be375ee	7379b037887baca0f932d910f8f94f7edf39bb26	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	dingo	18s030.l6	\N	\N	32	3061d0f9	5af85499c6219137dc57d9fba79cb5afa3548ab1	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	blkhole	\N	\N	\N	\N	galaxian	Black Hole	1981	TDS	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh1	\N	\N	2048	64998819	69fe5dfbe6cde18ef4cae62da12b5c692c2c72b9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh2	\N	\N	2048	26f26ce4	720ce7af05ef596fb9a109591534c74d282955e8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh3	\N	\N	2048	3418bc45	088bbbde66b7b5c36fa48cf14c22146e1444e67c	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh4	\N	\N	2048	735ff481	d9b32db048a0e2a1195cd6f7326005e6622242a9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh5	\N	\N	2048	3f657be9	3ed1ee0bc199c1625156d2771eecd18a57a0e6ed	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh6	\N	\N	2048	a057ab35	430261bafe20fc182e6e6659019cf42643e95d54	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh7	\N	\N	2048	975ba821	c50d55f6ab81b803d67f5e18c1243ef85a1a2df1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	bh8	\N	\N	2048	03d11020	5768b573fac9aac168db2723462cca76d4d80552	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	blkhole	6l.bpr	\N	\N	32	c3ac9467	f382ad5a34d282056c78a5ec00c30ec43772bae2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	blkhole	shot.wav	
+game_sample	VAntAGE_v1.12	blkhole	death.wav	
+game_sample	VAntAGE_v1.12	blkhole	back.wav	
+game	VAntAGE_v1.12	moonwar	\N	\N	\N	\N	\N	Moonwar	1981	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.2c	\N	\N	4096	7c11b4d9	a27bdff6ce728647ec811df843ac235c32c293d6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.2e	\N	\N	4096	1b6362be	2fbd95869146adcc0c8be1df653251fda8849e8e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.2f	\N	\N	4096	4fd8ba4b	3da784267a96d05f66b00626a22cb3f06211d202	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.2h	\N	\N	4096	56879f0d	d1e9932863aebc5761e71fca8d24f3c400e1250d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.5c	\N	\N	2048	c26231eb	5b19edfaefe1a535059311d067ea53405879d627	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.5d	\N	\N	2048	bb48a646	cf51202d16b03bbed12ff24501be68683f28c992	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.5f	\N	\N	2048	c5fa1aa0	6c6b5b2ce5de278ff436d3e7252ece5b086cc41d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.5h	\N	\N	2048	a6ccc652	286b3dc1f3a7da3ac66664e774b441ef075745f1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	moonwar	mw2.clr	\N	\N	32	99614c6c	f068985f3c5e0cd88551a02c32f9baeabfd50241	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	rescue	\N	\N	\N	\N	\N	Rescue	1982	Stern	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15acpu.bin	\N	\N	4096	d7e654ba	6bcf7a6d86bc2de9a304f0aa9542fdcb58ca73dd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15bcpu.bin	\N	\N	4096	a93ea158	c5550881d2a44f82eeb56d90487137d959c8c6ae	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15ccpu.bin	\N	\N	4096	058cd3d0	3f8962be982952adab23c1884cd3a9be5ddd4108	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15dcpu.bin	\N	\N	4096	d6505742	804df84ea507bf41e9376a7ce63a278c3701f0cd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15ecpu.bin	\N	\N	4096	604df3a4	15790fa442538632f232280c096ac788d9bf8117	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15csnd.bin	\N	\N	2048	8b24bf17	cc49fef3c629c12f1a7eb9886fdc2df4b08f4b37	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15dsnd.bin	\N	\N	2048	d96e4fb3	8bb023c7c668f93d2333d648fc3cefdbd66f92db	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15fcpu.bin	\N	\N	2048	4489d20c	c7a2afbd2e5645a1a25dec6147d61a38ba12380f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rb15hcpu.bin	\N	\N	2048	5512c547	e0f1c994daaa8933230cbc4bb88d459a698e0d8e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	rescue	rescue.clr	\N	\N	32	40c6bcbd	cb0c058eadc37eba4b1a99be095da81a14099d8d	\N	\N	\N	\N	\N	\N	
+game	VAntAGE_v1.12	schasrcv	\N	\N	\N	\N	invaders	Space Chaser (CV version)	1979	Taito	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	1	\N	\N	1024	bec2b16b	c62210ecb64d7c38e5b63481d7fe04eb59bb1068	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	2	\N	\N	1024	9d25e608	4cc52a93a3ab96a0ec1d07593e17832fa59b30a1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	3	\N	\N	1024	113d0635	ab5e98d0b5fc37d7d69bb5c541681a0f66460440	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	4	\N	\N	1024	f3a43c8d	29a7a8b7d1de763a255cfec79157fd95e7bff551	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	5	\N	\N	1024	47c84f23	61b475fa92b8335f8edd3a128d8ac8561658e464	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	6	\N	\N	1024	02ff2199	e12c235b2064cb4bb426145172e523256e3c6358	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	7	\N	\N	1024	87d06b88	2d743161f85e47cb8ee2a600cbee790b1ad7ad99	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	8	\N	\N	1024	6dfaad08	2184c4e2f4b6bffdc4fe13e178134331fcd43253	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	9	\N	\N	1024	3d1a2ae3	672ad6590aebdfebc2748455fa638107f3934c41	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	10	\N	\N	1024	037edb99	f2fc5e61f962666e7f6bb81753ac24ea0b97e581	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	cv01	\N	\N	1024	037e16ac	d585030aaff428330c91ae94d7cd5c96ebdd67dd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	schasrcv	cv02	\N	\N	1024	8263da38	2e7c769d129e6f8a1a31eba1e02777bb94ac32b2	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	schasrcv	0.wav	
+game_sample	VAntAGE_v1.12	schasrcv	1.wav	
+game_sample	VAntAGE_v1.12	schasrcv	2.wav	
+game_sample	VAntAGE_v1.12	schasrcv	3.wav	
+game_sample	VAntAGE_v1.12	schasrcv	4.wav	
+game_sample	VAntAGE_v1.12	schasrcv	5.wav	
+game_sample	VAntAGE_v1.12	schasrcv	6.wav	
+game_sample	VAntAGE_v1.12	schasrcv	7.wav	
+game_sample	VAntAGE_v1.12	schasrcv	8.wav	
+game	VAntAGE_v1.12	spclaser	\N	\N	\N	\N	invaders	Space Laser	1980	GamePlan (Taito)	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spclaser	la01	\N	\N	2048	bedc0078	a5bb0cbbb8e3f27d03beb8101b2be1111d73689d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spclaser	spcewarl.2	\N	\N	2048	43bc65c5	5f9827c02c2d221e1607359c840374ff7fb92fbf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spclaser	la03	\N	\N	2048	1083e9cc	7ad45c6230c9e02fcf51e3414c15e2237eebbd7a	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	spclaser	la04	\N	\N	2048	5116b234	b165b2574cbcb26a5bb43f91df5f8be5f111f486	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	spclaser	0.wav	
+game_sample	VAntAGE_v1.12	spclaser	1.wav	
+game_sample	VAntAGE_v1.12	spclaser	2.wav	
+game_sample	VAntAGE_v1.12	spclaser	3.wav	
+game_sample	VAntAGE_v1.12	spclaser	4.wav	
+game_sample	VAntAGE_v1.12	spclaser	5.wav	
+game_sample	VAntAGE_v1.12	spclaser	6.wav	
+game_sample	VAntAGE_v1.12	spclaser	7.wav	
+game_sample	VAntAGE_v1.12	spclaser	8.wav	
+game	VAntAGE_v1.12	cosmo	\N	\N	\N	\N	invaders	Cosmo	1979	TDS & Mints	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	1.36	\N	\N	2048	445c9a98	89bce80a061e9c12544231f970d9dec801eb1b94	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	2.35	\N	\N	2048	df3eb731	fb90c1d0f2518195dd49062c9f0fd890536d89f4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	3.34	\N	\N	2048	772c813f	a1c0d857c660fb0b838dd0466af7bf5d73bcd55d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	4.33	\N	\N	2048	279f66e6	8ce71c08cca0bdde2f2e0ef21622731c4610c030	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	5.32	\N	\N	2048	cefb18df	bb500cf3f7d1a54045a165d3613a92ab3f11d3e8	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	6.31	\N	\N	2048	b037f6c4	b9a42948052b8cda8d2e4575e59909589f4e7a8d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	7.42	\N	\N	2048	c3831ea2	8c67ef0312656ef0eeff34b8463376c736bd8ea1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	n-1.7d	\N	\N	2048	bd8576f1	aa5fe0a4d024f21a3bca7a6b3f5022779af6f3f4	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	cosmo	n-2.6e	\N	\N	2048	48f1ade5	a1b45f82f3649cde8ae6a2ef494a3a6cdb5e65d0	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	cosmo	0.wav	
+game_sample	VAntAGE_v1.12	cosmo	1.wav	
+game_sample	VAntAGE_v1.12	cosmo	2.wav	
+game_sample	VAntAGE_v1.12	cosmo	3.wav	
+game_sample	VAntAGE_v1.12	cosmo	4.wav	
+game_sample	VAntAGE_v1.12	cosmo	5.wav	
+game_sample	VAntAGE_v1.12	cosmo	6.wav	
+game_sample	VAntAGE_v1.12	cosmo	7.wav	
+game_sample	VAntAGE_v1.12	cosmo	8.wav	
+game	VAntAGE_v1.12	szaxxon	\N	\N	\N	\N	\N	Super Zaxxon	1982	Sega	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.3	\N	\N	8192	af7221da	b5d3beb296d52ed69b4ceacf329c20a72e3a1dce	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.2	\N	\N	8192	1b90fb2a	afb2bd2ffee3f5e589064f59b6ac21ed915094df	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.1	\N	\N	4096	07258b4a	91e3a0c0df6c9cf66980d1ffcc3830ffdbef8c2f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.14	\N	\N	2048	bccf560c	9f92bd15466048a5665bfc2ebc8c6504af9353eb	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.15	\N	\N	2048	d28c628b	42ab7dc0e4e0d09213054597373383cdb6a55699	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.6	\N	\N	8192	f51af375	8682217dc800f43b73cd5e8501dbf3b7cd136dc1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.5	\N	\N	8192	a7de021d	a1bee07aa906366aa69866d1bdff38e2d90fafdd	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.4	\N	\N	8192	5bfb3b04	f898e42d6bc1fd3629c9caee3c2af27805969ac6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.11	\N	\N	8192	1503ae41	d4085f15fcbfb9547a7f9e2cb7ce9276c4d6c08d	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.12	\N	\N	8192	3b53d83f	118e9d2b4f5daf96f5a38ccd92d0b046a470b0b2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.13	\N	\N	8192	581e8793	2b3305dd55dc09d7394ed8ae691773972dba28b9	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.8	\N	\N	8192	dd1b52df	8170dd9f81c41104694951a2c74405d0c6d8b9b6	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.7	\N	\N	8192	b5bc07f0	1e4d460ce8cca66b081ee8ec1a9adb6ef98274ec	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.10	\N	\N	8192	68e84174	b78c44d92078552835a20bcb7125fc9ca8af5048	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.9	\N	\N	8192	a509994b	51541ec78ab3f8241a5ddf7f99a46f5e44292992	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.u98	\N	\N	256	15727a9f	42840e9ab303fb64102a1dbae03d66c9cf743a9f	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	szaxxon	suzaxxon.u72	\N	\N	256	deaa21f7	0cf08fb62f77d93ff7cb883c633e0db35906e11d	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	szaxxon	03.wav	
+game_sample	VAntAGE_v1.12	szaxxon	02.wav	
+game_sample	VAntAGE_v1.12	szaxxon	01.wav	
+game_sample	VAntAGE_v1.12	szaxxon	00.wav	
+game_sample	VAntAGE_v1.12	szaxxon	11.wav	
+game_sample	VAntAGE_v1.12	szaxxon	10.wav	
+game_sample	VAntAGE_v1.12	szaxxon	08.wav	
+game_sample	VAntAGE_v1.12	szaxxon	23.wav	
+game_sample	VAntAGE_v1.12	szaxxon	21.wav	
+game_sample	VAntAGE_v1.12	szaxxon	20.wav	
+game_sample	VAntAGE_v1.12	szaxxon	05.wav	
+game_sample	VAntAGE_v1.12	szaxxon	04.wav	
+game	VAntAGE_v1.12	futspy	\N	\N	\N	\N	\N	Future Spy	1984	Sega	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_snd.u27	\N	\N	8192	7578fe7f	ab42bdf74b07c1ba5337c3d34647d3ee16f9db05	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_snd.u28	\N	\N	8192	8ade203c	f095f4019befff7af4203c886ef42357f79592a1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_snd.u29	\N	\N	4096	734299c3	12acf71d9d00e0e0df29c4d8c397ad407266b364	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_snd.u68	\N	\N	2048	305fae2d	fbe89feff0fb2d4515000d1b73b7c91aac4e0b67	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_snd.u69	\N	\N	2048	3c5658c0	70ac44b9334b086cdecd73f5f7820a0bf8ae2629	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.113	\N	\N	8192	36d2bdf6	c27835055beedf61ba644070f8920b6008d99040	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.112	\N	\N	8192	3740946a	e7579dd91628a811a60a8d8a5b407728b74aa17e	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.111	\N	\N	8192	4cd4df98	3ae4b2d0a79069e0de81596805bcf1a9ae7912cf	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u77	\N	\N	16384	1b93c9ec	4b1d3b7e35d65cc3b96eb4f2e98c59e779bcb1c1	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u78	\N	\N	16384	50e55262	363acbde7b37a2358b3e53cfc08c9bd5dee73d55	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u79	\N	\N	16384	bfb02e3e	f53bcec46b8c7d26e9ab01c821a8d1578b85f786	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u91	\N	\N	8192	86da01f4	954e4be1b0e24c8bc88c2b328e3a0e32005bb7b2	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u90	\N	\N	8192	2bd41d2d	efb74b4bce31c7868ab6438e07b02b0539d35120	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u93	\N	\N	8192	b82b4997	263f74aab47fc4e516b2111eaa94beea61c5fbe5	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	fs_vid.u92	\N	\N	8192	af4015af	6ed01a42d395ada6f2442b68f901fe61b04c8e44	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	futrprom.u98	\N	\N	256	9ba2acaa	20e0257ca531ddc398b3aab861c7b5c41b659d40	\N	\N	\N	\N	\N	\N	
+game_rom	VAntAGE_v1.12	futspy	futrprom.u72	\N	\N	256	f9e26790	339f27e0126312d35211b5ce533f293b58851c1d	\N	\N	\N	\N	\N	\N	
+game_sample	VAntAGE_v1.12	futspy	03.wav	
+game_sample	VAntAGE_v1.12	futspy	02.wav	
+game_sample	VAntAGE_v1.12	futspy	01.wav	
+game_sample	VAntAGE_v1.12	futspy	00.wav	
+game_sample	VAntAGE_v1.12	futspy	11.wav	
+game_sample	VAntAGE_v1.12	futspy	10.wav	
+game_sample	VAntAGE_v1.12	futspy	08.wav	
+game_sample	VAntAGE_v1.12	futspy	23.wav	
+game_sample	VAntAGE_v1.12	futspy	21.wav	
+game_sample	VAntAGE_v1.12	futspy	20.wav	
+game_sample	VAntAGE_v1.12	futspy	05.wav	
+game_sample	VAntAGE_v1.12	futspy	04.wav	

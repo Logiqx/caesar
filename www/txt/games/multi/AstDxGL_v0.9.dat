@@ -1,0 +1,45 @@
+game	AstDxGL_v0.9	asteroid	\N	\N	\N	\N	\N	Asteroids (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroid	035145.02	\N	\N	2048	0cc75459	2af85c9689b878155004da47fedbde5853a18723	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroid	035144.02	\N	\N	2048	096ed35c	064d680ded7f30c543f93ae5ca85f90d550f73e5	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroid	035143.02	\N	\N	2048	312caa02	1ce2eac1ab90b972e3f1fc3d250908f26328d6cb	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroid	035127.02	\N	\N	2048	8b71fd9e	8cd5005e531eafa361d6b7e9eed159d164776c70	\N	\N	\N	\N	\N	\N	
+game	AstDxGL_v0.9	asteroi1	\N	\N	asteroid	asteroid	\N	Asteroids (rev 1)	1979	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroi1	035145.01	\N	\N	2048	e9bfda64	291dc567ebb31b35df83d9fb87f4080f251ff9c8	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroi1	035144.01	\N	\N	2048	e53c28a9	d9f081e73511ec43377f0c6457747f15a470d4dc	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroi1	035143.01	\N	\N	2048	7d4e3d05	d88000e904e158efde50e453e2889ecd2cb95f24	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	asteroi1	035127.01	\N	\N	2048	99699366	9b2828fc1cef7727f65fa65e1e11e309b7c98792	\N	\N	\N	\N	\N	\N	
+game	AstDxGL_v0.9	meteorts	\N	\N	asteroid	asteroid	\N	Meteorites	1979	VGG	\N	\N	\N	
+game_rom	AstDxGL_v0.9	meteorts	m0_c1.bin	\N	\N	2048	dff88688	7f4148a580fb6f605499c99e7dde7068eca1651a	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	meteorts	m1_f1.bin	\N	\N	2048	e53c28a9	d9f081e73511ec43377f0c6457747f15a470d4dc	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	meteorts	m2_j1.bin	\N	\N	2048	64bd0408	141d053cb4cce3fece98293136928b527d3ade0f	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	meteorts	mv_np3.bin	\N	\N	2048	11d1c4ae	433c2c05b92094bbe102c356d7f1a907db13da67	\N	\N	\N	\N	\N	\N	
+game	AstDxGL_v0.9	astdelux	\N	\N	\N	\N	\N	Asteroids Deluxe (rev 2)	1980	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036430.02	\N	\N	2048	a4d7a525	abe262193ec8e1981be36928e9a89a8ac95cd0ad	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036431.02	\N	\N	2048	d4004aae	aa2099b8fc62a79879efeea70ea1e9ed77e3e6f0	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036432.02	\N	\N	2048	6d720c41	198218cd2f43f8b83e4463b1f3a8aa49da5015e4	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036433.03	\N	\N	2048	0dcc0be6	bf10ffb0c4870e777d6b509cbede35db8bb6b0b8	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036800.02	\N	\N	2048	bb8cabe1	cebaa1b91b96e8b80f2b2c17c6fd31fa9f156386	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelux	036799.01	\N	\N	2048	7d511572	1956a12bccb5d3a84ce0c1cc10c6ad7f64e30b40	\N	\N	\N	\N	\N	\N	
+game	AstDxGL_v0.9	astdelu1	\N	\N	astdelux	astdelux	\N	Asteroids Deluxe (rev 1)	1980	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036430.01	\N	\N	2048	8f5dabc6	5d7543e19acab99ddb63c0ffd60f54d7a0f267f5	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036431.01	\N	\N	2048	157a8516	9041d8c2369d004f198681e02b59a923fa8f70c9	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036432.01	\N	\N	2048	fdea913c	ded0138a20d80317d67add5bb2a64e6274e0e409	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036433.02	\N	\N	2048	d8db74e3	52b64e867df98d14742eb1817b59931bb7f941d9	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036800.01	\N	\N	2048	3b597407	344fea2e5d84acce365d76daed61e96b9b6b37cc	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	astdelu1	036799.01	036799.01	\N	2048	7d511572	1956a12bccb5d3a84ce0c1cc10c6ad7f64e30b40	\N	\N	\N	\N	\N	\N	
+game	AstDxGL_v0.9	llander	\N	\N	\N	\N	\N	Lunar Lander (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034572.02	\N	\N	2048	b8763eea	5a15eaeaf825ccdf9ce013a6789cf51da20f785c	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034571.02	\N	\N	2048	77da4b2f	4be6cef5af38734d580cbfb7e4070fe7981ddfd6	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034570.01	\N	\N	2048	2724e591	ecf4430a0040c227c896aa2cd81ee03960b4d641	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034569.02	\N	\N	2048	72837a4e	9b21ba5e1518079c326ca6e15b9993e6c4483caa	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034599.01	\N	\N	2048	355a9371	6ecb40169b797d9eb623bcb17872f745b1bf20fa	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034598.01	\N	\N	2048	9c4ffa68	eb4ffc289d254f699f821df3146aa2c6cd78597f	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander	034597.01	\N	\N	2048	\N	\N	\N	\N	nodump	\N	\N	\N	
+game	AstDxGL_v0.9	llander1	\N	\N	llander	llander	\N	Lunar Lander (rev 1)	1979	Atari	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034572.01	\N	\N	2048	2aff3140	4fc8aae640ce655417c11d9a3121aae9a1238e7c	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034571.01	\N	\N	2048	493e24b7	125a2c335338ccabababef12fd7096ef4b605a31	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034570.01	034570.01	\N	2048	2724e591	ecf4430a0040c227c896aa2cd81ee03960b4d641	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034569.01	\N	\N	2048	b11a7d01	8f2935dbe04ee68815d69ea9e71853b5a145d7c3	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034599.01	034599.01	\N	2048	355a9371	6ecb40169b797d9eb623bcb17872f745b1bf20fa	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034598.01	034598.01	\N	2048	9c4ffa68	eb4ffc289d254f699f821df3146aa2c6cd78597f	\N	\N	\N	\N	\N	\N	
+game_rom	AstDxGL_v0.9	llander1	034597.01	034597.01	\N	2048	\N	\N	\N	\N	nodump	\N	\N	\N	

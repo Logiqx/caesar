@@ -1,0 +1,8 @@
+
+emulator	jae	java	JAE	\N	\N	\N	Java Arcade Emulator	-	19/07/2004	Java	Many classic games	Arcade classics playable on the Internet! Tailgunner is an exact Java port of the arcade game Tailgunner, which was originally written by Dan Sunday of Vectorbeam in 1979. The Java version was created by translating the Tailgunner program code, originally written for Cinematronics' proprietary C-CPU, to Java. This translation was made by a static binary recompilation program by Graham Toal. Norbert Kehrer ported the translated code to Java and wrote the graphics and user interface functions.	Dormant
+emulator_homepage	jae	http://web.utanet.at/nkehrer/	\N
+emulator_author_link	jae	norbert_kehrer	\N	author
+
+emulator_features	jae	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	jae	Keyboard
+emulator_file	jae	Tailgunner emulator and source	Tailgunner.zip

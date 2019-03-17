@@ -1,0 +1,3 @@
+
+author	wind	Wind	\N
+author_emulator_link	wind	demul	author

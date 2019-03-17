@@ -1,0 +1,4 @@
+
+author	mark_adler	Mark Adler	\N
+author_email	mark_adler	madler@alumni.caltech.edu
+author_tool_link	mark_adler	zlib

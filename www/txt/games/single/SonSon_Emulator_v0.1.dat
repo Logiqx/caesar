@@ -1,0 +1,10 @@
+game	SonSon_Emulator_v0.1	sonson	\N	\N	\N	\N	\N	Son Son	1984	Capcom	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss.01e	\N	\N	16384	cd40cc54	4269586099638d31dd30381e94538701982e9f5a	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss.02e	\N	\N	16384	c3476527	499b879a12b55443ec833e5a2819e9da20e3b033	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss.03e	\N	\N	16384	1fd0e729	e04215b0c3d11ce844ab250ff3e1a845dd0b6c3e	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss.3	\N	\N	8192	1135c48a	bfc10363fc42fb589088675a6e8e3d1668d8a6b8	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss5.v12	\N	\N	8192	990890b1	0ae5da75e8ff013d32f2a6e3a015d5e1623fbb19	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss6.v12	\N	\N	8192	9388ff82	31ff5e61d062262754bbf6763d094495c1d2e838	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss7.v12	\N	\N	16384	32b14b8e	457a6fe077924c74192f58d4aad2e539c4ec8b24	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss8.v12	\N	\N	16384	9f59014e	b2ad810c901ea1bf2e30b31f2a7445aa8e329fa7	\N	\N	\N	\N	\N	\N	
+game_rom	SonSon_Emulator_v0.1	sonson	ss9.v12	\N	\N	16384	517fa26d	70f69015c6b4483a6b78195cb72a1552f0963a3f	\N	\N	\N	\N	\N	\N	

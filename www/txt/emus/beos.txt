@@ -1,0 +1,15 @@
+
+emulator_contents	beos	Emulators for BeOS	These emulators are all for BeOS
+emulator_contents_emulator_link	beos	siemu_beos
+emulator_contents_emulator_link	beos	bebombjack
+emulator_contents_emulator_link	beos	begeminiwing
+emulator_contents_emulator_link	beos	bekungfumaster
+emulator_contents_emulator_link	beos	belaser
+emulator_contents_emulator_link	beos	bemame
+emulator_contents_emulator_link	beos	besnowbros
+emulator_contents_emulator_link	beos	daphne_beos
+emulator_contents_emulator_link	beos	finalburn_beos
+emulator_contents_emulator_link	beos	mame_beos
+emulator_contents_emulator_link	beos	pie_beos
+emulator_contents_emulator_link	beos	raine_beos
+emulator_contents_emulator_link	beos	xmame_beos

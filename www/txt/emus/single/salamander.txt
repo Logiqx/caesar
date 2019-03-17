@@ -1,0 +1,11 @@
+
+emulator	salamander	single	Salamander_Arcade_Emulator_Preview	\N	\N	\N	Salamander Arcade Emulator Emulator	Preview	25/09/1997	Windows	Salamander (Konami)	Preview Version	Dormant
+emulator_homepage	salamander	http://www.netg.se/~drac/nemesis.html	\N
+emulator_author_link	salamander	johan_kohler	\N	author
+
+emulator_library_link	salamander	z80em
+emulator_tool_link	salamander	msvc
+emulator_features	salamander	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	salamander	Keyboard
+emulator_controller	salamander	Joystick
+emulator_file	salamander	Emulator	salamander.zip

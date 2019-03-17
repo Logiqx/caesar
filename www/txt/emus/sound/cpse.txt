@@ -1,0 +1,8 @@
+
+emulator	cpse	sound	CPSE_v0.02	\N	\N	\N	CPSE	0.02	19/11/2001	DOS	QSound music of CPS-2 games	Plays the music and sound effects from arcade games based on Capcom's CPS-2 hardware. Also contains a sprite viewer and plans to become a full emulator eventually.	Dormant
+emulator_homepage	cpse	http://cpse.emuunlim.com/	\N
+emulator_author_link	cpse	cesar_nicolas_gonzalez	\N	author
+
+emulator_features	cpse	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	cpse	Keyboard
+emulator_file	cpse	Player for DOS	cpse002.zip

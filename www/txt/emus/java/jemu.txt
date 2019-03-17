@@ -1,0 +1,8 @@
+
+emulator	jemu	java	JEmu	\N	\N	\N	JEmu	-	04/02/2002	Java	Z80, 8080 and 6809 based classics	Arcade classics playable on the Internet!	Dormant
+emulator_homepage	jemu	http://www.gagaplay.com/jemu/	\N
+emulator_author_link	jemu	jaydy	\N	author
+
+emulator_features	jemu	Yes	No	No	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	jemu	Keyboard
+emulator_relative_link	jemu	jemu2	successor

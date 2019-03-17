@@ -1,0 +1,12 @@
+
+emulator	siemu_linux	linux	dummy	\N	\N	\N	8080A Simulator (siemu) for Linux	1.03	15/11/2002	Linux	Space Invaders (Taito)	A simple Space Invaders emulator. Can also emulate other Space Invaders clones if you name the ROMs appropriately. Requires SDL library to run.	Dormant
+emulator_homepage	siemu_linux	http://www.darkpact.com/proj/	\N
+emulator_author_link	siemu_linux	anoakie_turner	\N	author
+
+emulator_tool_link	siemu_linux	sdl
+emulator_features	siemu_linux	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	siemu_linux	Keyboard
+emulator_relative_link	siemu_linux	siemu	port_of
+
+emulator_file	siemu_linux	Emulator and source (ZIP)	siemu-1.03.zip
+emulator_file	siemu_linux	Emulator and source (GZip)	siemu-1.03.tar.gz

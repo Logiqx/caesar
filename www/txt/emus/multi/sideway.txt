@@ -1,0 +1,11 @@
+
+emulator	sideway	multi	Sideway_v0.22a	\N	\N	\N	Sideway	0.22a	20/11/1998	DOS	Old Midway 8080 games (late 70's)	No sound for most games (needs samples also) and speed not correct. Sample names in the Sideway v0.22a data file (inside the Older Emus pack from www.logiqx.com) are believed to be correct. They were derived by examining the strings within the emulator executable and by running the emulator itself. Please do not question their validity, even if you cannot find any matching samples!	Dormant
+emulator_homepage	sideway	http://home8.swipnet.se/~w-87724/midwa.html	\N
+emulator_author_link	sideway	johan_s	\N	author
+
+emulator_library_link	sideway	z80
+emulator_tool_link	sideway	djgpp
+emulator_tool_link	sideway	allegro
+emulator_features	sideway	Yes	No	Yes	No	No	No	No	No	No	No	No	No	No
+emulator_controller	sideway	Keyboard
+emulator_file	sideway	Emulator	sideway.zip

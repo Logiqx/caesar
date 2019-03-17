@@ -1,0 +1,6 @@
+
+author	fosters	Fosters	\N
+author_email	fosters	neocdsdl@yahoo.com
+author_emulator_link	fosters	pacifi3d	author
+
+author_emulator_link	fosters	pacifi3d_linux	author

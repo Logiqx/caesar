@@ -1,0 +1,18 @@
+
+emulator	dreampac	dreamcast	DreamPac	\N	\N	\N	DreamPac	1.0	06/03/2001	Dreamcast	Pacman, Ms Pacman and Crush Roller	Emulates games that ran on Pacman hardware. Snapshots from the Ganksoft website.	Unknown
+emulator_homepage	dreampac	http://www.ganksoft.com/	\N
+emulator_author_link	dreampac	brian_peek	\N	author
+
+emulator_library_link	dreampac	z80em
+emulator_tool_link	dreampac	kos
+emulator_features	dreampac	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	dreampac	Joypad
+emulator_author_link	dreampac	bob_thayer	Lead Artist	contributor
+
+emulator_author_link	dreampac	david_wallimann	Lead Musician	contributor
+
+emulator_file	dreampac	Disk Juggler Image	dp10dj.zip
+emulator_file	dreampac	Nero Track-at-once Image	dp10net.zip
+emulator_file	dreampac	Nero Disk-at-once Image	dp10ned.zip
+emulator_file	dreampac	Distribution of individual files	dp10bif.zip
+emulator_file	dreampac	Jewel Case Art	dpjc.zip

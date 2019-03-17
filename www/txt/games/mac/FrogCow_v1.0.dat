@@ -1,0 +1,10 @@
+game	FrogCow_v1.0	frogseg1	\N	\N	\N	\N	\N	Frogger (Sega set 1)	1981	[Konami] (Sega license)	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.26	\N	\N	4096	597696d6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.27	\N	\N	4096	b6e6fcc3	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.34	\N	\N	4096	ed866bab	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.608	\N	\N	2048	e8ab0256	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.609	\N	\N	2048	7380a48f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.610	\N	\N	2048	31d7eb27	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.606	\N	\N	2048	f524ee30	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	frogger.607	\N	\N	2048	05f7d883	\N	\N	\N	\N	\N	\N	\N	
+game_rom	FrogCow_v1.0	frogseg1	pr-91.6l	\N	\N	32	413703bf	\N	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,8 @@
+
+author	tux	Emmanuel Anne (Tux)	\N
+author_email	tux	emanne@ifrance.com
+author_emulator_link	tux	raine_linux	author
+
+author_emulator_link	tux	raine32	author
+
+author_emulator_link	tux	raine	contributor

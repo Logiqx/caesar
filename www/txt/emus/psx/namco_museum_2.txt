@@ -1,0 +1,7 @@
+
+emulator	namco_museum_2	psx	Namco_Museum_Vol_2	\N	\N	\N	Namco Museum Vol 2	-	1996	Playstation	Xevious, Gaplus, Super Pac-Man, Mappy, Grobda and Dragon Buster	A selection of classic games from Namco plus related information. Japanese version has Cutie-Q insead of Super Pac-Man.	Released
+emulator_homepage	namco_museum_2	http://www.namco.com/	\N
+emulator_author_link	namco_museum_2	namco	\N	author
+
+emulator_features	namco_museum_2	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_2	Joypad

@@ -1,0 +1,9 @@
+
+author	richard_bannister	Richard Bannister	\N
+author_email	richard_bannister	titan@indigo.ie
+author_homepage	richard_bannister	http://www.bannister.org/	\N
+author_emulator_link	richard_bannister	modeler_mac	author
+
+author_emulator_link	richard_bannister	m1_mac	author
+
+author_emulator_link	richard_bannister	retrocade	contributor

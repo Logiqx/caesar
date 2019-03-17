@@ -1,0 +1,12 @@
+
+emulator	side	single	SIDE	\N	\N	\N	SIDE (Space Invaders Didactic Emulator)	-	27/01/2003	Windows	Space Invaders	This emulator has been written as an educational tool for those who are interested in knowing how an emulator works. For that use, some knowledge about emulators in general and some programming skills are required. But it is also a fully functional emulator that can be used to have some good fun, and since it is very small in size it can be downloaded very quickly or even sent to friends by e-mail as an attachment.	Discontinued
+emulator_homepage	side	http://www.ascotti.org/programming/side/side.htm	\N
+emulator_author_link	side	alessandro_scotti	\N	author
+
+emulator_features	side	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	side	Keyboard
+emulator_relative_link	side	side_linux	port
+
+emulator_file	side	Emulator	side_exe.zip
+emulator_file	side	Sound samples	sounds.zip
+emulator_file	side	Source and documentation	side.zip

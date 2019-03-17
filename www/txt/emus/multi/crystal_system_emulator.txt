@@ -1,0 +1,11 @@
+
+emulator	crystal_system_emulator	multi	Crystal_System_Emulator_v1.1	\N	\N	\N	Crystal System Emulator	1.2	29/12/2004	Windows	Crystal System games	The first emulator of Crystal System games but ElSemi has subsequently added support to MAME too.	Active
+emulator_homepage	crystal_system_emulator	http://nebula.emulatronia.com/	\N
+emulator_author_link	crystal_system_emulator	elsemi	\N	author
+
+emulator_tool_link	crystal_system_emulator	msvc
+emulator_tool_link	crystal_system_emulator	zlib
+emulator_features	crystal_system_emulator	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	crystal_system_emulator	Keyboard
+emulator_controller	crystal_system_emulator	Joystick
+emulator_file	crystal_system_emulator	Emulator	CrystalEmu12.zip

@@ -1,0 +1,10 @@
+
+emulator	xor_world_emulator	single	Xor_World_Emulator_v0.01	\N	\N	\N	Xor World Emulator	0.01	28/06/2003	Windows	Xor World (Gaelco)	The first emulator to be released that supports Xor World.	Dormant
+emulator_homepage	xor_world_emulator	\N	none
+emulator_author_link	xor_world_emulator	manuel_abadia	\N	author
+
+emulator_tool_link	xor_world_emulator	msvc
+emulator_features	xor_world_emulator	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	xor_world_emulator	Keyboard
+emulator_file	xor_world_emulator	Emulator (English)	xor_emu_en.zip
+emulator_file	xor_world_emulator	Emulator (Spanish)	xor_emu_es.zip

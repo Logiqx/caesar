@@ -1,0 +1,18 @@
+
+emulator	jas	multi	JAS_v1.01	\N	\N	\N	JAS (JROK's Arcade Simulation)	1.01	16/04/1998	DOS	Gaplus, Galaga3, Skykid, Mappy, Dig Dug2, Super Pacman, PacLand	A merge of his individual emulators	Dormant
+emulator_homepage	jas	http://www.jrok.com/frames/emu_frame.html	\N
+emulator_author_link	jas	jrok	\N	author
+
+emulator_tool_link	jas	watcom
+emulator_features	jas	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	No	\N	\N
+emulator_controller	jas	Keyboard
+emulator_controller	jas	Joystick
+emulator_relative_link	jas	jasdd2	predecessor
+
+emulator_relative_link	jas	jasgaplus	predecessor
+
+emulator_relative_link	jas	jasmappy	predecessor
+
+emulator_relative_link	jas	jassuperpac	predecessor
+
+emulator_file	jas	Emulator	jas-v101.zip

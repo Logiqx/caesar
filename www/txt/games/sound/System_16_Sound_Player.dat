@@ -1,0 +1,20 @@
+game	System_16_Sound_Player	shinobi	\N	\N	\N	\N	\N	Shinobi [sound only]	1987	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	shinobi	shinobi.a7	\N	\N	32768	2457a7cf	ddfac640e442537acb015de8bb088659f5a217ee	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	shinobl	\N	\N	\N	\N	\N	Shinobi (bootleg) [sound only]	1987	bootleg	\N	\N	\N	
+game_rom	System_16_Sound_Player	shinobl	epr11267.12	\N	\N	32768	dd50b745	52e1977569d3713ad864d607170c9a61cd059a65	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	altbeast	\N	\N	\N	\N	\N	Altered Beast [sound only]	1988	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	altbeast	11671	\N	\N	32768	2b71343b	8a657f787de2b9d5161ed2c109642a148348af09	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	altbeas2	\N	\N	\N	\N	\N	Altered Beast (Version 2) [sound only]	1988	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	altbeas2	opr11686	\N	\N	32768	828a45b3	df921701b411afac1b6716b6798a1bffc2180133	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	goldnaxe	\N	\N	\N	\N	\N	Golden Axe [sound only]	1989	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	goldnaxe	epr12390	\N	\N	32768	399fc5f5	6f290b36dc71ff4759598e2a9c185a8945a3c9e7	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	aurail	\N	\N	\N	\N	\N	Aurail (set 1) [sound only]	1990	Sega / Westone	\N	\N	\N	
+game_rom	System_16_Sound_Player	aurail	13448	\N	\N	32768	b5183fb9	c8372b57fa486256d49dc5851d6b17c92de593fb	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	eswat	\N	\N	\N	\N	\N	E-Swat - Cyber Police [sound only]	1989	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	eswat	e12617	\N	\N	32768	537930cb	da3d50aff3cbe1587809e804f840fa5138fb6811	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	eswatbl	\N	\N	\N	\N	\N	E-Swat - Cyber Police (bootleg) [sound only]	1989	bootleg	\N	\N	\N	
+game_rom	System_16_Sound_Player	eswatbl	ic8.bin	\N	\N	32768	7efecf23	2b87af7cfaab5942a3f7b38c987fcba01d3475ab	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	aliensyn	\N	\N	\N	\N	\N	Alien Syndrome [sound only]	1987	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	aliensyn	10723.a7	\N	\N	32768	99953526	4a980370923fd5d3dc9e25d42a032c9e78c7ff47	\N	\N	\N	\N	\N	\N	
+game	System_16_Sound_Player	aliensya	\N	\N	\N	\N	\N	Alien Syndrome (set 2) [sound only]	1987	Sega	\N	\N	\N	
+game_rom	System_16_Sound_Player	aliensya	10705	\N	\N	32768	777b749e	086b03100064a98228f95db7962b2671121c46ea	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,9 @@
+
+emulator	yiear	mac	Yie_Ar_Kung_Fu	\N	\N	\N	Yie Ar Kung Fu	1.0	09/11/1997	Mac	Yie Ar Kung Fu	This emulator perfectly plays the classic fighting arcade game, Yie Ar Kung-Fu. This emulator is fast even on slower machines. It perfectly renders the original graphics, except for a difference in a color here or there, and plays back all the sounds 100 percent true to the original.	Discontinued
+emulator_homepage	yiear	\N	none
+emulator_author_link	yiear	phil_stroffolino	\N	author
+
+emulator_features	yiear	Yes	No	No	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	yiear	Keyboard
+emulator_file	yiear	Emulator (hqx)	yakf.cpt.Hqx
+emulator_file	yiear	Emulator (stuffit)	YieAr.sit

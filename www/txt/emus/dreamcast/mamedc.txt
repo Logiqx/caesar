@@ -1,0 +1,9 @@
+
+emulator	mamedc	dreamcast	dummy	\N	\N	\N	MameDC	0.4	20/07/2000	Dreamcast	Emulates a subset of MAME games	MAMEDC is an attempt to port MAME to the (wonderful) Dreamcast console.	Dormant
+emulator_homepage	mamedc	http://mamedc.kaillera.com/	\N
+emulator_author_link	mamedc	christophe_thibault	\N	author
+
+emulator_tool_link	mamedc	kos
+emulator_features	mamedc	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	Yes
+emulator_controller	mamedc	Joypad
+emulator_relative_link	mamedc	mame	port_of

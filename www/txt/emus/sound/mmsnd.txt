@@ -1,0 +1,12 @@
+
+emulator	mmsnd	sound	MMSnd_v0.36b10	\N	\N	\N	MMSND	0.36 beta 10	30/11/1999	DOS	Sound from Taito and Sega games	This emulator is based on MAME but only plays sounds for the supported games. Also included is a MMSnd32 (equivalent of MAME32) and support for some Sega Megadrive games.	Dormant
+emulator_homepage	mmsnd	http://tokyo.cool.ne.jp/shica/mmsndindex.html	bad
+emulator_homepage	mmsnd	http://www.overclocked.org/galforce2/music.htm	\N
+emulator_author_link	mmsnd	hiromitsu_shioya	\N	author
+
+emulator_tool_link	mmsnd	djgpp
+emulator_tool_link	mmsnd	allegro
+emulator_tool_link	mmsnd	seal
+emulator_features	mmsnd	Yes	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	mmsnd	Keyboard
+emulator_file	mmsnd	Player	mmsnd3610.zip

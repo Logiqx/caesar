@@ -1,0 +1,10 @@
+
+emulator	bpe	linux	BPE	\N	\N	\N	Bruno's Phoenix Emulator for Linux	-	04/10/2002	Linux	Phoenix (Amstar)	Created by Bruno to learn how an emulator works.	Dormant
+emulator_homepage	bpe	http://bcz.emu-france.com/	\N
+emulator_author_link	bpe	bruno_vedder	\N	author
+
+emulator_library_link	bpe	z80
+emulator_library_link	bpe	z80em
+emulator_features	bpe	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	bpe	Keyboard
+emulator_file	bpe	Emulator and source	bpe.zip

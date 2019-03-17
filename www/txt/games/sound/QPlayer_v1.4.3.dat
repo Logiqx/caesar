@@ -1,0 +1,191 @@
+game	QPlayer_v1.4.3	19xx	\N	\N	\N	\N	\N	19XX: The War Against Destiny [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	19xx	19x.01	\N	\N	131072	ef55195e	813f465f2d392f6abeadbf661c54cf51171fa006	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	19xx	19x.11	\N	\N	2097152	d38beef3	134e961b926a97cca5e45d3558efb98f6f278e08	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	19xx	19x.12	\N	\N	2097152	d47c96e2	3c1b5563f8e7ee1c450b3592fcb319e928caec3c	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	armwar	\N	\N	\N	\N	\N	Armored Warriors [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	armwar	pwg.01	\N	\N	131072	18a5c0e4	bb1353dd74884aaeec9b5f1d0b284d9cad53c0ff	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	armwar	pwg.02	\N	\N	131072	c9dfffa6	64e71028befe9a2514074be765dd020e1d2ea70b	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	armwar	pwg.11	\N	\N	2097152	a78f7433	e47ffba7b9dac9d0dda985c5d966194be18260f7	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	armwar	pwg.12	\N	\N	2097152	77438ed0	733ca6c6a792e66e2aa12c5fc06dd459527afe4b	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	avsp	\N	\N	\N	\N	\N	Alien vs. Predator [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	avsp	avp.01	\N	\N	131072	2d3b4220	2b2d04d4282550fa9f6e1ad8528f20d1f2ac02eb	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	avsp	avp.11	\N	\N	2097152	83499817	e65b0ebd61ddc748842a9d4d92404b5305307623	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	avsp	avp.12	\N	\N	2097152	f4110d49	f27538776cc1ba8213f19f98728ed8c02508d3ac	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	batcir	\N	\N	\N	\N	\N	Battle Circuit [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	batcir	btc.01	\N	\N	131072	1e194310	3b29de0aca9dbca59d6b50fb2509e2a913c6b0af	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	batcir	btc.02	\N	\N	131072	01aeb8e6	50a5d1cce0caf7c5143d4904431e8f41e2a57464	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	batcir	btc.11	\N	\N	2097152	c27f2229	df2459493af40937b6656a16fad43ff51bed2204	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	batcir	btc.12	\N	\N	2097152	418a2e33	0642ddff2ab9255f154419da24ba644ed63f34ab	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	cybots	\N	\N	\N	\N	\N	Cyberbots: Fullmetal Madness [sound only]	1995	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	cybots	cyb.01	\N	\N	131072	9c0fb079	06d260875a76da08d56ea2b2ae277e8c2dbae6e3	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	cybots	cyb.02	\N	\N	131072	51cb0c4e	c322957558d8d3e9dad090aebbe485978cbce8f5	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	cybots	cyb.11	\N	\N	2097152	362ccab2	28e537067d4846f22657ee37166d18b8f05f4da1	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	cybots	cyb.12	\N	\N	2097152	7066e9cc	eb6a9d4998b3311344d73bae88d661d81609c492	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ddsom	\N	\N	\N	\N	\N	Dungeons & Dragons: Shadow over Mystara [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddsom	dd2.01	\N	\N	131072	99d657e5	1528dd6b07a0e79951a35c0457c8a9c9770e9c78	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddsom	dd2.02	\N	\N	131072	117a3824	14f3a12170b601c5466c93af9d2f24e0b386b4e4	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddsom	dd2.11	\N	\N	2097152	98d0c325	7406e8d943d77c468eb418c4113261f4ab973bbf	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddsom	dd2.12	\N	\N	2097152	5ea2e7fa	0e6a9fd007f637adcb2226c902394f07de45e803	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ddtod	\N	\N	\N	\N	\N	Dungeons & Dragons: Tower of Doom [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddtod	dad.01	\N	\N	131072	3f5e2424	4aa744576bc6752c43a90a27a816ebd90076b248	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddtod	dad.11	\N	\N	2097152	0c499b67	a8ebd8a1cd6dece8344b7cb0439d85843fb97616	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ddtod	dad.12	\N	\N	2097152	2f0b5a4e	8d1ebbb811aa469b0f0d29d719d2b9af28fb63a2	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	dino	\N	\N	\N	\N	\N	Cadillacs and Dinosaurs [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dino	cd_q.rom	\N	\N	131072	605fdb0b	9da90ddc6513aaaf2260f0c69719c6b0e585ba8c	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dino	cd_q1.rom	\N	\N	524288	60927775	f8599bc84c38573ebbe8685822c58b6a38b50462	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dino	cd_q2.rom	\N	\N	524288	770f4c47	fec8ef00a6669d4d5e37787ecc7b58ee46709326	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dino	cd_q3.rom	\N	\N	524288	2f273ffc	f0de462f6c4d251911258e0ebd886152c14d1586	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dino	cd_q4.rom	\N	\N	524288	2c67821d	6e2528d0b22508300a6a142a796dd3bf53a66946	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	dstlk	\N	\N	\N	\N	\N	Darkstalkers: The Night Warriors [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dstlk	vam.01	\N	\N	131072	64b685d5	6c180e7420db754eca5cad17a40f5a64f5c3bd15	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dstlk	vam.02	\N	\N	131072	cf7c97c7	109a4b56ecd59be9c3f5869de99d40619bdaef21	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dstlk	vam.11	\N	\N	2097152	4a39deb2	7e63e615869958db66a4e52a0272afee5a10e446	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	dstlk	vam.12	\N	\N	2097152	1a3e5c03	c5a556e125d6c3d68da745b4d56cd7a851f2a23d	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ecof	\N	\N	\N	\N	\N	Eco Fighters [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ecof	uec.01	\N	\N	131072	c235bd15	feb7cd7db9dc0b9887b33eed9796bb0205fb719d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ecof	uec.11	\N	\N	2097152	81b25d39	448adfcc7d98873a48c710d857225cdd1580e5c9	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ecof	uec.12	\N	\N	2097152	27729e52	a55c8159adf766dda70cb047f5ac85ce6bc0a3f3	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	kikaioh	\N	\N	\N	\N	\N	Tyoukousenki Kikaioh [sound only]	1998	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	kikaioh	kio-02.bin	\N	\N	131072	174309b3	b35b9c3905d2fabaa8410f70f7b382e916c89733	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	kikaioh	kio-03.bin	\N	\N	131072	0b313ae5	0ea39305ca30f376930e39b134fd1a52200624fa	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	kikaioh	kio-01m.bin	\N	\N	4194304	6dc5bd07	e1755a48465f741691ea0fa1166cb2dc09210ed9	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	msh	\N	\N	\N	\N	\N	Marvel Super Heroes [sound only]	1995	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	msh	msh.01	\N	\N	131072	c976e6f9	281025e5aaf97c0aeddc8bd0f737d092daadad9e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	msh	msh.02	\N	\N	131072	ce67d0d9	324226597cc5a11603f04085fef7715a314ecc05	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	msh	msh.11	\N	\N	2097152	37ac6d30	ec67421fbf4a08a686e76792cb35e9cbf04d022d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	msh	msh.12	\N	\N	2097152	de092570	a03d0df901f6ea79685eaed67db65bee14ec29c6	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	mshvsf	\N	\N	\N	\N	\N	Marvel Super Heroes Vs. Street Fighter [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mshvsf	mvs.01	\N	\N	131072	68252324	138ef320ef27956b2ab5591d49a1315b7b0a194c	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mshvsf	mvs.02	\N	\N	131072	b34e773d	3bcf44bf06c35814cff29d244142db7abe05bd39	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mshvsf	mvs.11	\N	\N	4194304	86219770	4e5b68d382a5aa37f8b0b6434c53a2b95f5f9a4d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mshvsf	mvs.12	\N	\N	4194304	f2fd7f68	28a30d55d3eaf963006c7cbe7c288099cd3ba536	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	mvsc	\N	\N	\N	\N	\N	Marvel Vs. Capcom: Clash of Super Heroes [sound only]	1998	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mvsc	mvc.01	\N	\N	131072	41629e95	36925c05b5fdcbe43283a882d021e5360c947061	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mvsc	mvc.02	\N	\N	131072	963abf6b	6b784870e338701cefabbbe4669984b5c4e8a9a5	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mvsc	mvc.11	\N	\N	4194304	850fe663	81e519d05a08855f242ea2e17ee0859b449db895	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	mvsc	mvc.12	\N	\N	4194304	7ccb1896	74caadf3282fcc6acffb1bbe3734106f81124121	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	nwarr	\N	\N	\N	\N	\N	Night Warriors: Darkstalkers Revenge [sound only]	1995	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	nwarr	vph.01	\N	\N	131072	5045dcac	fd1a6586fbdd48a707df1fa52309b4cf50e3cc4c	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	nwarr	vph.02	\N	\N	131072	86b60e59	197d07ced8b9850729c83fa59b7afc283500bdee	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	nwarr	vph.11	\N	\N	2097152	e1837d33	e3cb69f64767bacbec7286d0b4cd0ce7a0ba13d8	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	nwarr	vph.12	\N	\N	2097152	fbd3cd90	4813c25802ad71b77ca04fd8f3a86344f99f0d6a	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	punisher	\N	\N	\N	\N	\N	The Punisher [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	punisher	ps_q.rom	\N	\N	131072	49ff4446	87af12f87a940a6c5428b4574ad44a4b54867bc3	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	punisher	ps_q1.rom	\N	\N	524288	31fd8726	1d73a76682e9fb908db0c55b9a18163f7539fea1	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	punisher	ps_q2.rom	\N	\N	524288	980a9eef	36571381f349bc726508a7e618ba1c635ec9d271	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	punisher	ps_q3.rom	\N	\N	524288	0dd44491	903cea1d7f3120545ea3229d30fbd687d11ad68f	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	punisher	ps_q4.rom	\N	\N	524288	bed42f03	21302f7e75f9c795392a3b34e16a959fc5f6e4e9	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	rckman2	\N	\N	\N	\N	\N	Rockman 2: The Power Fighters [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	rckman2	rm2.01	\N	\N	131072	d18e7859	0939fac70042d0b4db5c2fdcef1f79b95febd45e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	rckman2	rm2.02	\N	\N	131072	c463ece0	5c3e41eb61610b3f8c431206f6672907e3a0bdb0	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	rckman2	rm2.11	\N	\N	2097152	2106174d	0a35d9ca8ebcad74904b20648d5320f839d6377e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	rckman2	rm2.12	\N	\N	2097152	546c1636	f96b172ab899f2c6ee17a5dd1fb61af9432e3cd2	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfa	\N	\N	\N	\N	\N	Street Fighter Alpha: Warriors' Dreams [sound only]	1995	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa	sfz.01	\N	\N	131072	ffffec7d	75b4aef001b72a0f571b51b2b97803facc1832dd	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa	sfz.02	\N	\N	131072	45f46a08	e32dbd27b52ab708278045b5a829376e55a4ca81	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa	sfz.11	\N	\N	2097152	c4b093cd	256526bb693a0b72443f047e060304c9b739acd1	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa	sfz.12	\N	\N	2097152	8bdbc4b4	0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfa2	\N	\N	\N	\N	\N	Street Fighter Alpha 2 [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa2	sz2.01	\N	\N	131072	1bc323cf	83fbd6e9b327700dc9f1c59700b7385bc3705749	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa2	sz2.02	\N	\N	131072	ba6a5013	7814f3e56b69529b9860dd61c3b1e8d700244b03	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa2	sz2.11	\N	\N	2097152	aa47a601	a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa2	sz2.12	\N	\N	2097152	2237bc53	96d5693047e4cf1ed10a8ee1905cea267a278e92	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfa3	\N	\N	\N	\N	\N	Street Fighter Alpha 3 [sound only]	1998	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa3	sz3.01	\N	\N	131072	de810084	fd0b969b732921ed8b40c16fbfa30ee09c7a7cbd	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa3	sz3.02	\N	\N	131072	72445dc4	14fca7596ac45ba655016eef5b6120f9f9671c23	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa3	sz3.11	\N	\N	4194304	1c89eed1	649a0b0a3eb72e2e69e9fb1ac51a58b70daa39f3	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfa3	sz3.12	\N	\N	4194304	f392b13a	fa04ce0370144a49bd1d5acd873eef87b0dc9d15	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfex	\N	\N	\N	\N	\N	Street Fighter EX [sound only]	1996	Capcom/Arika	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfex	sfe-02	\N	\N	131072	1908475c	99f68cff2d92f5697eec0846201f6fb317d5dc08	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfex	sfe-03	\N	\N	131072	95c1e2e0	383bbe9613798a3ac6944d18768280a840994e40	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfex	sfe-01m	\N	\N	4194304	f5afff0d	7f9ac32ba0a3d9c6fef367e36a92d47c9ac1feb3	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfex2	\N	\N	\N	\N	\N	Street Fighter EX 2 [sound only]	1998	Capcom/Arika	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfex2	ex2-02	\N	\N	131072	9489875e	1fc9985ff98232c63ea8d05a69f7d77cdf72919f	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfex2	ex2-01m	\N	\N	4194304	14a5bb0e	dfe3c3a53bd4c58743d8039b5344d3afbe2a9c24	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfz	\N	\N	\N	\N	\N	Street Fighter Zero [sound only]	1995	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz	sfz.01	\N	\N	131072	ffffec7d	75b4aef001b72a0f571b51b2b97803facc1832dd	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz	sfz.02	\N	\N	131072	45f46a08	e32dbd27b52ab708278045b5a829376e55a4ca81	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz	sfz.11	\N	\N	2097152	c4b093cd	256526bb693a0b72443f047e060304c9b739acd1	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz	sfz.12	\N	\N	2097152	8bdbc4b4	0e21c9a75a17a7e7dfd8bb51098c2b9dc4c933ec	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sfz2a	\N	\N	\N	\N	\N	Street Fighter Zero 2 [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz2a	sza.01	\N	\N	131072	1bc323cf	83fbd6e9b327700dc9f1c59700b7385bc3705749	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz2a	sza.02	\N	\N	131072	ba6a5013	7814f3e56b69529b9860dd61c3b1e8d700244b03	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz2a	sza.11	\N	\N	2097152	aa47a601	a4d1ee89c84a3b9db06469bb66e85293b5aa9ac9	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sfz2a	sza.12	\N	\N	2097152	2237bc53	96d5693047e4cf1ed10a8ee1905cea267a278e92	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	sgemf	\N	\N	\N	\N	\N	Super Gem Fighter Mini Mix [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sgemf	pcf.01	\N	\N	131072	254e5f33	c413ec0630b9bdd15e64f42893eba8958a09b573	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sgemf	pcf.02	\N	\N	131072	6902f4f9	9bfe4ddade3c666076d26a2b545120f6d059fd7c	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sgemf	pcf.11	\N	\N	4194304	a5dea005	3ae79baf6ff5bd527f82b26f164c7e3c65423ae2	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	sgemf	pcf.12	\N	\N	4194304	4ce235fe	795b94557e954cc0e45fd3778b609064d57a34a2	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	slam2	\N	\N	\N	\N	\N	Ring of Destruction: Slammasters II [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slam2	smb.01	\N	\N	131072	0abc229a	967f574e6358dfc1b01e6a4a4df1a8f34eb3d814	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slam2	smb.02	\N	\N	131072	d051679a	583c2521a30db1740d95dd94a38751fbeff3aae5	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slam2	smb.11	\N	\N	2097152	c56935f9	ca1705e48e31ddc13505e6297bceca2bec1bb209	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slam2	smb.12	\N	\N	2097152	955b0782	ee09500e7b44e923126533613bfe26cdabc7ab5f	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	slammast	\N	\N	\N	\N	\N	Saturday Night Slam Masters [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_qa.rom	\N	\N	131072	e21a03c4	98c03fd2c9b6bf8a4fc25a4edca87fff7c3c3819	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q1.rom	\N	\N	524288	0630c3ce	520fc74c5c3638f611fa2f1b5efb08b91747e29b	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q2.rom	\N	\N	524288	354f9c21	1dc6b39791fd0f760697f409a6b62361a7bf62e9	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q3.rom	\N	\N	524288	7838487c	056b7da05cfca46873edacd674ca25c70855c6db	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q4.rom	\N	\N	524288	ab66e087	066ea69a0157e8647eea3c44d0a1843898860678	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q5.rom	\N	\N	524288	c789fef2	10d1e3d92288fccd4e064a3716a788a165efc3c9	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q6.rom	\N	\N	524288	ecb81b61	e339f21ae47de4782f3b338befcdac659c3503f6	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q7.rom	\N	\N	524288	041e49ba	3220b033a5c0cfbbe75c0c113cf2db39fb093a7e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	slammast	mb_q8.rom	\N	\N	524288	59fe702a	807178dfc6d864e49fd7aabb5c4895835cf0e85b	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	spf2t	\N	\N	\N	\N	\N	Super Puzzle Fighter 2 Turbo [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	spf2t	pzf.01	\N	\N	131072	600fb2a3	1fab1c2a23bf6ad8309d29ddbbc29435a8aeea13	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	spf2t	pzf.02	\N	\N	131072	496076e0	1ee4e135140afd0e8e03231e570cd77d140f6367	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	spf2t	pzf.11	\N	\N	2097152	78442743	b61190bb586871de6d54af580e3e1d9cc0de0acb	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	spf2t	pzf.12	\N	\N	2097152	399d2c7b	e849dea97b8d16540415c0d9bbc4f9f4eb755ec4	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ssf2	\N	\N	\N	\N	\N	Super Street Fighter 2: The New Challengers [sound only]	1993	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.01	\N	\N	131072	eb247e8c	24296c18d9b1136d69712bf1c9d9d15463041e83	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q01	\N	\N	524288	a6f9da5c	6d19f83a01bd25b838d5c2871f7964529d926c98	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q02	\N	\N	524288	8c66ae26	32a82aee6ed4480e5a990f9af161734c7c0a1403	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q03	\N	\N	524288	695cc2ca	c2675f0233608b76de528d2a6ef19846d1348060	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q04	\N	\N	524288	9d9ebe32	9b26329370041374f1a90b479a172d2bc2801c4d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q05	\N	\N	524288	4770e7b7	0e764f0befb9227b0b36508d8ca8ec9be31bcb05	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q06	\N	\N	524288	4e79c951	1144781d7dc57ef8a6458d982f5c91548ff59e27	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q07	\N	\N	524288	cdd14313	ebe767a9d4b51dba4282fa0a36a546a88620dd59	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2	ssf.q08	\N	\N	524288	6f5a088c	6c0b4690479647a99d76335f174be8455b4ff118	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ssf2t	\N	\N	\N	\N	\N	Super Street Fighter 2 Turbo [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2t	sfx.01	\N	\N	131072	b47b8835	c8b2d50fe3a329bd0592ea160d505155d873dab1	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2t	sfx.02	\N	\N	131072	0022633f	cab3afc79da53e3887eb1ccd1f4d19790728e6cd	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2t	sfx.11	\N	\N	2097152	9bdbd476	a8520f77f30b97aae36408e0c4ca1ebbde1808a5	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ssf2t	sfx.12	\N	\N	2097152	a05e3aab	d4eb9cae66c74e956569fea8b815156fbd420f83	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	strider2	\N	\N	\N	\N	\N	Strider 2 [sound only]	1999	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	strider2	hr2-02.bin	\N	\N	131072	acd8d385	5edb61c3d66d2d09a28a71db52eee3a9f7db8c9d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	strider2	hr2-01m.bin	\N	\N	2097152	510a16d1	05f10c2921a4d3b1fab4d0a4ea06351809bdbb07	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	ts2j	\N	\N	\N	\N	\N	Battle Arena Toshinden 2 [sound only]	1995	Capcom/Takara	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ts2j	ts2-02	\N	\N	131072	2f45c461	513b6b9b5a2f7c567c30c958e0e13834cd9bd266	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	ts2j	ts2-01	\N	\N	4194304	d7a505e0	f1b0cdea712101f695bd326eccd753eb79a07490	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	vhunt2	\N	\N	\N	\N	\N	Vampire Hunter 2: Darkstalkers Revenge [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vhunt2	vph2.01	\N	\N	131072	67b9f779	3994c65f888004b56ea9f478b1feaa81e306347e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vhunt2	vph2.02	\N	\N	131072	aaf15fcb	6f61daa162c835165a8aabaf1d0ea8816fbfbd40	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vhunt2	vph2.11	\N	\N	4194304	38922efd	8cfb36bdce3a524d0a81fec12ca0cba82222fa30	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vhunt2	vph2.12	\N	\N	4194304	6e2430af	b475faf943bec4171ba0130f287e1948743ca273	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	vsav	\N	\N	\N	\N	\N	Vampire Savior: The Lord of Vampire [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav	vm3.01	\N	\N	131072	f778769b	788ce1ad8a322179f634df9e62a31ad776b96762	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav	vm3.02	\N	\N	131072	cc09faa1	2962ef0ceaf7e7279de3c421ea998763330eb43e	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav	vm3.11	\N	\N	4194304	e80e956e	74181fca4b764fb3c56ceef2cb4c6fd6c18ec4b6	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav	vm3.12	\N	\N	4194304	9cd71557	7059db25698a0b286314c5961c618f6d2e6f24a1	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	vsav2	\N	\N	\N	\N	\N	Vampire Savior 2: The Lord of Vampire [sound only]	1997	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav2	vs2.01	\N	\N	131072	35190139	07f8e53ea398461de5dcda9814dde7c09faf9f65	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav2	vs2.02	\N	\N	131072	c32dba09	1fe337ff334fab79847f9677ba0e168e93daa1c8	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav2	vs2.11	\N	\N	4194304	d67e47b7	15a3f6779eccb10551ed94edf7e6e406a79b3de7	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	vsav2	vs2.12	\N	\N	4194304	6d020a14	e98f862fac1e357c90949768bb2646263d9981a0	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	wof	\N	\N	\N	\N	\N	Warriors of Fate [sound only]	1992	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	wof	tk2_qa.rom	\N	\N	131072	c9183a0d	d8b1d41c572f08581f8ab9eb878de77d6ea8615d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	wof	tk2_q1.rom	\N	\N	524288	611268cf	83ab059f2110fb25fdcff928d56b790fc1f5c975	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	wof	tk2_q2.rom	\N	\N	524288	20f55ca9	90134e9a9c4749bb65c728b66ea4dac1fd4d88a4	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	wof	tk2_q3.rom	\N	\N	524288	bfcf6f52	2a85ff3fc89b4cbabd20779ec12da2e116333c7c	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	wof	tk2_q4.rom	\N	\N	524288	36642e88	8ab25b19e2b67215a5cb1f3aa81b9d26009cfeb8	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	xmcota	\N	\N	\N	\N	\N	X-Men: Children of the Atom [sound only]	1994	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmcota	xmn.01	\N	\N	131072	40f479ea	f29e15f537675305264ae2138a0a537fb9e2008b	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmcota	xmn.02	\N	\N	131072	39d9b5ad	af502debfd36100d4fc971ed25fdf9d7121d6f18	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmcota	xmn.11	\N	\N	2097152	c848a6bc	ac8ac564d3c43225822f8bc330eba9f35b24b0a4	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmcota	xmn.12	\N	\N	2097152	729c188f	3279774ad8aebbcf0fc779cdfcbe21044dd192ad	\N	\N	\N	\N	\N	\N	
+game	QPlayer_v1.4.3	xmvsf	\N	\N	\N	\N	\N	X-Men Vs. Street Fighter [sound only]	1996	Capcom	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmvsf	xvs.01	\N	\N	131072	3999e93a	fefcff8a9a5c83df7655a16187cf9ba3e7efbb25	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmvsf	xvs.02	\N	\N	131072	101bdee9	75920e88bf46fcd33a7957777a1d799818ffb0d6	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmvsf	xvs.11	\N	\N	2097152	9cadcdbc	64d3bd53b04daec84c9af4aa3ff010867b3d306d	\N	\N	\N	\N	\N	\N	
+game_rom	QPlayer_v1.4.3	xmvsf	xvs.12	\N	\N	2097152	7b11e460	a581c84acaaf0ce056841c15a6f36889e88be68d	\N	\N	\N	\N	\N	\N	

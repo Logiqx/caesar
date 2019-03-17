@@ -1,0 +1,7 @@
+
+emulator	ultracade_jaleco_classics_1	commercial	Ultracade_-_Jaleco_Classics_1	\N	\N	\N	Ultracade - Jaleco Classics 1	-	28/02/2001	?	8 Jaleco classics	Game Pack for the Ultracade system.	Discontinued
+emulator_homepage	ultracade_jaleco_classics_1	http://www.ultracade.com/	\N
+emulator_author_link	ultracade_jaleco_classics_1	ultracade	\N	author
+
+emulator_features	ultracade_jaleco_classics_1	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	ultracade_jaleco_classics_1	Joystick

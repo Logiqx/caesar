@@ -1,0 +1,24 @@
+
+emulator	raine_linux	linux	dummy	\N	\N	\N	RAINE for Linux	0.51.0	06/02/2009	Linux	Mainly 68000+68020 Taito, Jaleco and Capcom games	Linux version of the wonderful RAINE emulator. Now with DX support!	Active
+emulator_homepage	raine_linux	http://rainemu.swishparty.co.uk/	\N
+emulator_homepage	raine_linux	http://sourceforge.net/projects/raine/	\N
+emulator_homepage	raine_linux	http://www.rainemu.com/linux/	bad
+emulator_author_link	raine_linux	tux	\N	author
+
+emulator_library_link	raine_linux	starscream
+emulator_library_link	raine_linux	multiz80
+emulator_tool_link	raine_linux	nasm
+emulator_tool_link	raine_linux	allegro
+emulator_tool_link	raine_linux	sdl
+emulator_tool_link	raine_linux	eagle
+emulator_tool_link	raine_linux	zlib
+emulator_tool_link	raine_linux	libpng
+emulator_features	raine_linux	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	raine_linux	Keyboard
+emulator_controller	raine_linux	Joystick
+emulator_relative_link	raine_linux	raine32	port_of
+
+emulator_relative_link	raine_linux	raine_linux_alt	alt_version
+
+emulator_file	raine_linux	Binary (Debian)	raine_0.51.0_i386.deb
+emulator_file	raine_linux	Source	raines-0.51.0-fixed.tar.bz2

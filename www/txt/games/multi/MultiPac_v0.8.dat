@@ -1,0 +1,50 @@
+game	MultiPac_v0.8	crush	\N	\N	\N	\N	\N	Crush Roller (Kural Esco - bootleg?)	1981	Kural Esco Electric	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr1	\N	\N	2048	f276592e	68ebb7d9f70af868d99ec42c26bc55a54ba1f22c	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr5	\N	\N	2048	3d302abe	8ca5cd82d099b55e20f785489158231a1d99a430	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr2	\N	\N	2048	25f42e70	66de8203c364fd90e8a2b5749c2e40665b2f5830	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr6	\N	\N	2048	98279cbe	84b5e64bdbc25afab9b6f53e1719640e21a6feba	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr3	\N	\N	2048	8377b4cb	f828a177f22db9093a00c31e39e16214ce0dc6de	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr7	\N	\N	2048	d8e76c8c	7c3d7eb07b9256130141f71eba722f7823fd4c32	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr4	\N	\N	2048	90b28fa3	ff58d2dfb016397daabe2996bc3a7b63d28a4cca	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cr8	\N	\N	2048	10854e1b	b3b9066d9a43796185c00ae12f7bb2bbf42e3a07	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	cra	\N	\N	2048	c7617198	95b204af0345163f93811cc770ee0ca2851a39c1	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	crc	\N	\N	2048	e129d76a	c9256795c6d0929ade1f24b372dadc2a2b88d897	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	crb	\N	\N	2048	d1899f05	dce755511b6262b984a2bca329f454892e486a09	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	crush	crd	\N	\N	2048	d35d1caf	65dd7861e05651485626465dc97215fed58db551	\N	\N	\N	\N	\N	\N	
+game	MultiPac_v0.8	hangly	\N	\N	\N	\N	\N	Hangly-Man (set 1)	1981	hack	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.6e	\N	\N	4096	5fe8610a	d63eaebd85e10aa6c27bb7f47642dd403eeb6934	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.6f	\N	\N	4096	73726586	cedddc5194589039dd8b64f07ab6320d7d4f55f9	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.6h	\N	\N	4096	4e7ef99f	bd42e68b29b4d654dc817782ba00db69b7d2dfe2	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	hangly	hangly.6j	\N	\N	4096	7f4147e6	0a7ac0e59d4d26fe52a2f4196c9f19e5ab677c87	\N	\N	\N	\N	\N	\N	
+game	MultiPac_v0.8	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	bootleg	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game	MultiPac_v0.8	pacman	\N	\N	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game	MultiPac_v0.8	pacmod	\N	\N	\N	\N	\N	Pac-Man (Midway, harder)	1981	[Namco] (Midway license)	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	6e.mod	\N	\N	4096	3b2ec270	48fc607ad8d86249948aa377c677ae44bb8ad3da	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	6h.mod	\N	\N	4096	18811780	ab34acaa3dbcafe8b20c2197f36641e471984487	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	pacman.6j	\N	\N	4096	5c96a733	22ae15a6f088e7296f77c7487a350c4bd102f00e	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	5e	\N	\N	4096	299fb17a	ad97adc2122482a9018bacd137df9d8f409ddf85	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	pacmod	5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game	MultiPac_v0.8	puckman	\N	\N	\N	\N	\N	New Puck-X	1980	hack	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.6e	\N	\N	4096	a8ae23c5	1481a4f083b563350744f9d25b1bcd28073875d6	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.6h	\N	\N	4096	197443f8	119aab12a9e1052c7b9a1f81e563740b41429a8c	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.6j	\N	\N	4096	2e64a3ba	f86a921173f32211b18d023c2701664d13ae23be	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	MultiPac_v0.8	puckman	puckman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	

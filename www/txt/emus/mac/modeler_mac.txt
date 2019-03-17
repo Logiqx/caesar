@@ -1,0 +1,10 @@
+
+emulator	modeler_mac	mac	dummy	\N	\N	\N	Modeler (Mac)	0.9.5	06/10/2005	Mac	Sega System 32 and Model 1 games	Modeler was originally developed by Farfetch'd but now developed by Richter Belmont as well. This build is carbonized and also includes some games additional to the Windows version (Golden Axe 2 US, Holloseum and Super Visual Football).	Discontinued
+emulator_homepage	modeler_mac	http://www.bannister.org/software/	\N
+emulator_author_link	modeler_mac	richard_bannister	\N	author
+
+emulator_features	modeler_mac	Yes	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	modeler_mac	Keyboard
+emulator_relative_link	modeler_mac	modeler	port_of
+
+emulator_file	modeler_mac	Emulator	modeler-095.dmg

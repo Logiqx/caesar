@@ -1,0 +1,20 @@
+
+emulator_contents	oldnames	Old Names	These emulators all go under a different name nowadays!
+emulator_old_name	finalburn	After Burner Emulator
+emulator_old_name	sparcade	Dascade
+emulator_old_name	shark	Flying Shark Emulator
+emulator_old_name	arcadeemu	Galaxian Emulator
+emulator_old_name	u64emu	KIAME (Killer Instinct Arcade Machine Emulator)
+emulator_old_name	kem	Konami Emulator
+emulator_old_name	mameui	MAME32
+emulator_old_name	sparcade	Multi-processor Arcade Emulator
+emulator_old_name	classicemu	Multi Game Emulator
+emulator_old_name	pacdx	Pac Deluxe '99
+emulator_old_name	system8	Pitfall 2 -the lost caverns- Emulator
+emulator_old_name	raine	Rainbow Islands Emulator
+emulator_old_name	system8	Sega 8
+emulator_old_name	system16	Shinobi Emulator
+emulator_old_name	pcslomo	SloMo
+emulator_old_name	multiple_invaders	Space Invaders Arcade Emulator
+emulator_old_name	rockulator_orig	Vanguard Emulator
+emulator_old_name	zem	WBML Emu (Wonder Boy in Monsterland Emulator)

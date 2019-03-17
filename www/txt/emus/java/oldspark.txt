@@ -1,0 +1,13 @@
+
+emulator	oldspark	java	OldSpark_v0.3	\N	\N	\N	OldSpark	v0.3	21/05/2003	Java	Z80 based classics	Arcade classics playable through your Java client!	Dormant
+emulator_homepage	oldspark	http://bcz.emu-france.com/	\N
+emulator_author_link	oldspark	bruno_vedder	\N	author
+
+emulator_author_link	oldspark	laurent_menduni	\N	author
+
+emulator_features	oldspark	Yes	Yes	No	No	No	No	No	No	?	?	\N	\N	\N
+emulator_controller	oldspark	Keyboard
+emulator_relative_link	oldspark	oldsparkcpp	successor
+
+emulator_file	oldspark	Emulator	OldSpark03.zip
+emulator_file	oldspark	Source	OldSpark03-src.zip

@@ -1,0 +1,13 @@
+
+emulator	sage	multi	SAGE_v1.16	\N	\N	\N	SAGE (Superb Arcade Game Emulator)	1.16	26/06/1997	DOS	1942, Commando, Galaxians, Ghosts'n Goblins etc	\N	Dormant
+emulator_homepage	sage	http://www.cix.co.uk/~johnson/	bad
+emulator_author_link	sage	paul_johnson	\N	author
+
+emulator_library_link	sage	z80em
+emulator_tool_link	sage	watcom
+emulator_tool_link	sage	seal
+emulator_features	sage	Yes	Yes	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	sage	Keyboard
+emulator_controller	sage	Joystick
+emulator_file	sage	Emulator	sage1_16.zip
+emulator_file	sage	Source	sagesrc.zip

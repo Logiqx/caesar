@@ -1,0 +1,42 @@
+game	FM-EMU_v0.1	alexkidd	\N	\N	\N	\N	\N	Alex Kidd [sound only]	1986	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	alexkidd	epr10434.rom	\N	\N	32768	77141cce	6c5e83527f7e11a5ff5cc4fa75d55618a55e1a58	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	aliensyn	\N	\N	\N	\N	\N	Alien Syndrome [sound only]	1987	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	aliensyn	10723.a7	\N	\N	32768	99953526	4a980370923fd5d3dc9e25d42a032c9e78c7ff47	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	altbeast	\N	\N	\N	\N	\N	Altered Beast [sound only]	1988	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	altbeast	ab11671.bin	\N	\N	32768	2b71343b	8a657f787de2b9d5161ed2c109642a148348af09	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	goldnaxe	\N	\N	\N	\N	\N	Golden Axe [sound only]	1989	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	goldnaxe	ga12390.bin	\N	\N	32768	399fc5f5	6f290b36dc71ff4759598e2a9c185a8945a3c9e7	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	loffire	\N	\N	\N	\N	\N	Line of Fire [sound only]	????	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	loffire	epr12798.rom	\N	\N	65536	0587738d	24c79b0c73616d5532a49a2c9121dfabe3a80c7d	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	passsht	\N	\N	\N	\N	\N	Passing Shot (2 Players) [sound only]	1988	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	passsht	passshot.a7	\N	\N	32768	789edc06	8c89c94e503513c287807d187de78a7fbd75a7cf	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	quartet2	\N	\N	\N	\N	\N	Quartet II [sound only]	1986	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	quartet2	quartet2.b1	\N	\N	32768	9f291306	96a09542a863ccf2ded43e2df6f913722b3f97b1	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	shinobi	\N	\N	\N	\N	\N	Shinobi [sound only]	1987	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	shinobi	shinobi.a7	\N	\N	32768	2457a7cf	ddfac640e442537acb015de8bb088659f5a217ee	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	tetrisa	\N	\N	\N	\N	\N	Tetris (Sega Set 2) [sound only]	1988	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	tetrisa	s-prog.rom	\N	\N	32768	bd9ba01b	fafa7dc36cc057a50ae4cdf7a35f3594292336f4	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	timscanr	\N	\N	\N	\N	\N	Time Scanner [sound only]	1987	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	timscanr	ts10562.bin	\N	\N	32768	3f5028bf	02081569a5f4dc64771e97651a9902a98d54a952	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	wrestwar	\N	\N	\N	\N	\N	Wrestle War [sound only]	1989	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	wrestwar	ww.a10	\N	\N	32768	c3609607	2e0acb775c60851bf0b2037b91b07ead061d5862	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	aburner2	\N	\N	\N	\N	\N	After Burner II [sound only]	1987	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	aburner2	11112.rom	\N	\N	65536	d777fc6d	46ce1c3875437044c0a172960d560d6acd6eaa92	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	outrun	\N	\N	\N	\N	\N	Out Run [sound only]	1986	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	outrun	10187.rom	\N	\N	32768	a10abaa9	01c8a819587a66d2ee4d255656e36fa0904377b0	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	shangon	\N	\N	\N	\N	\N	Super Hang-On [sound only]	1992	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	shangon	ic88	\N	\N	32768	1254efa6	997770ccdd776de6e335a6d8b1e15d200cbd4410	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	thndrbld	\N	\N	\N	\N	\N	Thunder Blade (World) [sound only]	1987	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	thndrbld	ic017.rom	\N	\N	65536	d37b54a4	c230fe7241a1f13ca13506d1492f348f506c40a7	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	aurail	\N	\N	\N	\N	\N	Aurail (set 1) [sound only]	1990	Sega / Westone	\N	\N	\N	
+game_rom	FM-EMU_v0.1	aurail	aurail.a10	\N	\N	32768	b5183fb9	c8372b57fa486256d49dc5851d6b17c92de593fb	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	bayroute	\N	\N	\N	\N	\N	Bay Route [sound only]	1989	Sunsoft / Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	bayroute	12459.rom	\N	\N	32768	3e1d29d0	fe3d985983e5132e8a26a02a3f2d8d420cbf1a49	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	cotton	\N	\N	\N	\N	\N	Cotton [sound only]	????	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	cotton	s-cotton.rom	\N	\N	32768	6a57b027	8f9de548df203605bb4ab9eececf09739b55adf1	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	supermgp	\N	\N	\N	\N	\N	Super Monaco GP [sound only]	????	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	supermgp	mon436	\N	\N	65536	16ec5f0a	307b7388b5c36fd4bc2a61f7941db44858e03c5c	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	tuoutrun	\N	\N	\N	\N	\N	Turbo Out Run [sound only]	????	Sega	\N	\N	\N	
+game_rom	FM-EMU_v0.1	tuoutrun	tor300	\N	\N	65536	e8ff7011	6eaf3aea507007ea31d507ed7825d905f4b8e7ab	\N	\N	\N	\N	\N	\N	
+game	FM-EMU_v0.1	wb3	\N	\N	\N	\N	\N	Wonder Boy III - Monster Lair [sound only]	1988	Sega / Westone	\N	\N	\N	
+game_rom	FM-EMU_v0.1	wb3	a07.bin	\N	\N	32768	0bb901bb	c81b198df8e3b0ec568032c76addf0d1a1711194	\N	\N	\N	\N	\N	\N	

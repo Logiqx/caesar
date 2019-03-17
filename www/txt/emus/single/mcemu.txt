@@ -1,0 +1,11 @@
+
+emulator	mcemu	single	MCEmu_v0.85	\N	\N	\N	MCEmu	0.85	26/04/1997	DOS	Missile Command (Atari)	\N	Dormant
+emulator_homepage	mcemu	http://www.albany.net/~maloney/mcemu.html	\N
+emulator_author_link	mcemu	patrick_maloney	\N	author
+
+emulator_tool_link	mcemu	djgpp
+emulator_tool_link	mcemu	allegro
+emulator_tool_link	mcemu	seal
+emulator_features	mcemu	Yes	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	mcemu	Mouse
+emulator_file	mcemu	Emulator	mcemu085.zip

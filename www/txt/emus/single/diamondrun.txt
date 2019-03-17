@@ -1,0 +1,13 @@
+
+emulator	diamondrun	single	Diamond_Run_Arcade_Machine_Emulator_v0.22	\N	\N	\N	Diamond Run Arcade Machine Emulator	0.22	09/06/1997	DOS	Diamond Run (KH Video)	\N	Discontinued
+emulator_homepage	diamondrun	http://www.geocities.com/TimesSquare/Dungeon/7939/arcade.html	bad
+emulator_author_link	diamondrun	paul_leaman	\N	author
+
+emulator_library_link	diamondrun	z80em
+emulator_tool_link	diamondrun	djgpp
+emulator_tool_link	diamondrun	allegro
+emulator_tool_link	diamondrun	seal
+emulator_features	diamondrun	Yes	No	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	diamondrun	Keyboard
+emulator_controller	diamondrun	Joystick
+emulator_file	diamondrun	Emulator	diam-022.zip

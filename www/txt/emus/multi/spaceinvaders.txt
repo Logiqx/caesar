@@ -1,0 +1,13 @@
+
+emulator	spaceinvaders	multi	Space_Invader_Emulator_v1.00	\N	\N	\N	Space Invader Emulator	1.00	20/02/1997	DOS	Space Invaders (Taito) and clones	\N	Dormant
+emulator_homepage	spaceinvaders	\N	none
+emulator_author_link	spaceinvaders	michael_strutt	\N	author
+
+emulator_library_link	spaceinvaders	z80
+emulator_tool_link	spaceinvaders	djgpp
+emulator_tool_link	spaceinvaders	allegro
+emulator_features	spaceinvaders	Samples	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	spaceinvaders	Keyboard
+emulator_relative_link	spaceinvaders	amoad	successor
+
+emulator_file	spaceinvaders	Emulator (includes samples)	invaders.zip

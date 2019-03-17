@@ -1,0 +1,15 @@
+
+emulator	kem	multi	KEM_v1.1	\N	\N	\N	KEM (the Killer multi EMulator)	1.1	11/07/1997	DOS	3 Konami games and 14 Bally/Midway MCR games	Originally called the Konami Emulator. Merged with EMU and CINEMU to make Retrocade. Blue Print and Pooyan not in Retrocade though.	Superceded
+emulator_homepage	kem	http://www.fensende.com/kem/	bad
+emulator_author_link	kem	michael_cuddy	\N	author
+
+emulator_tool_link	kem	watcom
+emulator_features	kem	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	\N	\N	No
+emulator_controller	kem	Keyboard
+emulator_relative_link	kem	gyruss	predecessor
+
+emulator_relative_link	kem	timepilot	predecessor
+
+emulator_relative_link	kem	retrocade	successor
+
+emulator_file	kem	Emulator	kem110.zip

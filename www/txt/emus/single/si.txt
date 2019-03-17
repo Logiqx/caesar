@@ -1,0 +1,9 @@
+
+emulator	si	single	SI_v0.1	\N	\N	\N	SI (Space Invaders)	0.1	10/01/2001	Windows	Space Invaders (Taito)	Simple Space Invaders emulator for Windows.	Dormant
+emulator_homepage	si	http://www.dynarec.com/~victor/	\N
+emulator_author_link	si	victor_moya	\N	author
+
+emulator_features	si	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	si	Keyboard
+emulator_file	si	Emulator	si2001.zip
+emulator_file	si	Source	sisrc.zip

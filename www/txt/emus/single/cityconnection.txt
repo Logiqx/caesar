@@ -1,0 +1,10 @@
+
+emulator	cityconnection	single	City_Connection_Emulator_v2.4	\N	\N	\N	City Connection Emulator	2.4	27/08/1997	DOS	City Connection (Jaleco)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	cityconnection	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	cityconnection	joseba_epalza	\N	author
+
+emulator_tool_link	cityconnection	djgpp
+emulator_tool_link	cityconnection	allegro
+emulator_features	cityconnection	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	cityconnection	Keyboard
+emulator_file	cityconnection	Emulator	city24.zip

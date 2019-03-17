@@ -1,0 +1,12 @@
+
+emulator	dsp	multi	DSP_v0.9	\N	\N	\N	DSP	0.9	12/10/2008	Windows	Classic 8-bit arcade games	Written in Delphi. Also emulates some 8-bit home computers and consoles.	Active
+emulator_homepage	dsp	http://leniad.cjb.net/	\N
+emulator_author_link	dsp	leniad	\N	author
+
+emulator_tool_link	dsp	delphi
+emulator_tool_link	dsp	sdl
+emulator_features	dsp	Yes	Yes	Yes	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	dsp	Keyboard
+emulator_file	dsp	Emulator	dsp_09_b.zip
+emulator_file	dsp	SDL DLL	dsp_dll.zip
+emulator_file	dsp	Source	dsp_09_s.zip

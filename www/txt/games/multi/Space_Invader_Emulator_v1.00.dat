@@ -1,0 +1,40 @@
+game	Space_Invader_Emulator_v1.00	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	galxwars	\N	\N	\N	\N	\N	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	galxwars	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	lrescue	\N	\N	\N	\N	\N	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	earthinv	earthinv.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	earthinv	earthinv.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	earthinv	earthinv.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	earthinv	earthinv.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	spaceatt	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	spaceatt	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game	Space_Invader_Emulator_v1.00	invrvnge	\N	\N	\N	\N	\N	Invader's Revenge	1979	Zenitone Microsec	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_rom	Space_Invader_Emulator_v1.00	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	

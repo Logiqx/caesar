@@ -1,0 +1,4 @@
+
+emulator_contents	symbian	Emulators for Symbian OS	These emulators are all for Symbian OS mobile phones
+emulator_contents_emulator_link	symbian	emame_symbian
+emulator_contents_emulator_link	symbian	e2mame

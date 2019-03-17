@@ -1,0 +1,5 @@
+
+tool	future_basic	compilers	Future Basic	3	August 2000	BASIC Compiler for the Macintosh (formerly Z-Basic on Z80 machines)
+tool_homepage	future_basic	http://www.stazsoftware.com/futurebasic/	\N
+tool_author_link	future_basic	staz_software
+tool_emulator_link	future_basic	macslomo

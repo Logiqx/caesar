@@ -1,0 +1,29 @@
+game	DreamPac	pacmanm	\N	\N	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.6e	\N	\N	4096	c1e6ab10	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.6f	\N	\N	4096	1a6fb2d4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.6h	\N	\N	4096	bcdd1beb	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.6j	\N	\N	4096	817d94e3	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.5e	\N	\N	4096	0c944964	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	pacmanm	pacman.5f	\N	\N	4096	958fedf9	\N	\N	\N	\N	\N	\N	\N	
+game	DreamPac	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	bootleg	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot1	\N	\N	4096	d16b31b7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot2	\N	\N	4096	0d32de5e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot3	\N	\N	4096	1821ee0b	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot4	\N	\N	4096	165a9dd8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot5	\N	\N	4096	8c3e6de6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	boot6	\N	\N	4096	368cb165	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	5e	\N	\N	4096	5c281d01	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	mspacman	5f	\N	\N	4096	615af909	\N	\N	\N	\N	\N	\N	\N	
+game	DreamPac	crush2	\N	\N	\N	\N	\N	Crush Roller (Kural Esco - bootleg?)	1981	Kural Esco Electric	\N	\N	\N	
+game_rom	DreamPac	crush2	tp1	\N	\N	2048	f276592e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp5a	\N	\N	2048	3d302abe	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp2	\N	\N	2048	25f42e70	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp6	\N	\N	2048	98279cbe	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp3	\N	\N	2048	8377b4cb	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp7	\N	\N	2048	d8e76c8c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp4	\N	\N	2048	90b28fa3	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tp8	\N	\N	2048	10854e1b	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tpa	\N	\N	2048	c7617198	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tpc	\N	\N	2048	e129d76a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tpb	\N	\N	2048	d1899f05	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DreamPac	crush2	tpd	\N	\N	2048	d35d1caf	\N	\N	\N	\N	\N	\N	\N	

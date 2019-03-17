@@ -1,0 +1,9 @@
+
+emulator	domino	multi	empty	\N	\N	\N	Domino	0.10	29/04/2001	Windows	Games that run on Pacman hardware.	Uses Larry Bank's Z80 emulation library. At this moment in time I have not included a game list as it is difficult to work out exactly which ROMs it requires.	Discontinued
+emulator_homepage	domino	http://domino.emuunlim.com/	\N
+emulator_author_link	domino	fixxer	\N	author
+
+emulator_tool_link	domino	vb
+emulator_features	domino	No	No	No	No	No	No	No	No	No	Yes?	No	\N	\N
+emulator_controller	domino	Keyboard
+emulator_file	domino	Emulator	domino010.zip

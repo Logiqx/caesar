@@ -1,0 +1,101 @@
+
+tool	djgpp	compilers	DJGPP (DJ Delorie's port of GPP)	2.03	10/06/2002	Port of GNU C++ compiler for DOS
+tool_homepage	djgpp	http://www.delorie.com/djgpp/	\N
+tool_author_link	djgpp	dj_delorie
+tool_emulator_link	djgpp	1942
+tool_emulator_link	djgpp	amoad
+tool_emulator_link	djgpp	arcadeemu
+tool_emulator_link	djgpp	asciipac
+tool_emulator_link	djgpp	astdx
+tool_emulator_link	djgpp	ast3dx
+tool_emulator_link	djgpp	centipede_emulator
+tool_emulator_link	djgpp	cityconnection
+tool_emulator_link	djgpp	cloakanddagulator
+tool_emulator_link	djgpp	crazy_climber
+tool_emulator_link	djgpp	crazykongemu
+tool_emulator_link	djgpp	diamondrun
+tool_emulator_link	djgpp	dtmnt
+tool_emulator_link	djgpp	emudx
+tool_emulator_link	djgpp	emudx32
+tool_emulator_link	djgpp	epp
+tool_emulator_link	djgpp	finalpengo
+tool_emulator_link	djgpp	fm_emu
+tool_emulator_link	djgpp	galemu
+tool_emulator_link	djgpp	gg
+tool_emulator_link	djgpp	grytra
+tool_emulator_link	djgpp	invemu
+tool_emulator_link	djgpp	invmz
+tool_emulator_link	djgpp	jabawape
+tool_emulator_link	djgpp	jumpbug
+tool_emulator_link	djgpp	kallus2
+tool_emulator_link	djgpp	ladybug_nicola
+tool_emulator_link	djgpp	laser
+tool_emulator_link	djgpp	les
+tool_emulator_link	djgpp	mapefer3
+tool_emulator_link	djgpp	mcemu
+tool_emulator_link	djgpp	mimic
+tool_emulator_link	djgpp	mmsnd
+tool_emulator_link	djgpp	mrdo_nicola
+tool_emulator_link	djgpp	mulator
+tool_emulator_link	djgpp	m72
+tool_emulator_link	djgpp	dmame
+tool_emulator_link	djgpp	macmultipac
+tool_emulator_link	djgpp	mge
+tool_emulator_link	djgpp	millipede_emulator
+tool_emulator_link	djgpp	moon_cresta
+tool_emulator_link	djgpp	multipac
+tool_emulator_link	djgpp	multipacd
+tool_emulator_link	djgpp	naughtyboy
+tool_emulator_link	djgpp	neogem
+tool_emulator_link	djgpp	pacdx
+tool_emulator_link	djgpp	pengo
+tool_emulator_link	djgpp	penix
+tool_emulator_link	djgpp	phmame
+tool_emulator_link	djgpp	phoenix98
+tool_emulator_link	djgpp	phoenixarcade
+tool_emulator_link	djgpp	pooyan
+tool_emulator_link	djgpp	qplayer_dos
+tool_emulator_link	djgpp	raine
+tool_emulator_link	djgpp	raine_beos
+tool_emulator_link	djgpp	raine_linux_alt
+tool_emulator_link	djgpp	rallyx
+tool_emulator_link	djgpp	replay
+tool_emulator_link	djgpp	replayplus
+tool_emulator_link	djgpp	replayplus_linux
+tool_emulator_link	djgpp	retrovaders
+tool_emulator_link	djgpp	rockulator_orig
+tool_emulator_link	djgpp	rockulator
+tool_emulator_link	djgpp	sega_system_16
+tool_emulator_link	djgpp	sega_system_c2
+tool_emulator_link	djgpp	sega_c2_linux
+tool_emulator_link	djgpp	sideway
+tool_emulator_link	djgpp	sse
+tool_emulator_link	djgpp	sinvader
+tool_emulator_link	djgpp	sname
+tool_emulator_link	djgpp	spaceinvaders
+tool_emulator_link	djgpp	spaceinvaderstheemu
+tool_emulator_link	djgpp	spaders
+tool_emulator_link	djgpp	system_16_sound_player
+tool_emulator_link	djgpp	theend
+tool_emulator_link	djgpp	thunder
+tool_emulator_link	djgpp	tnzsemu
+tool_emulator_link	djgpp	slutte
+tool_emulator_link	djgpp	system16
+tool_emulator_link	djgpp	system16_beta
+tool_emulator_link	djgpp	vpcb
+tool_emulator_link	djgpp	vantage
+tool_emulator_link	djgpp	virtua
+tool_emulator_link	djgpp	vulgus
+tool_emulator_link	djgpp	xain_d_sleena
+tool_emulator_link	djgpp	xcade
+tool_emulator_link	djgpp	xdragon
+tool_emulator_link	djgpp	yaame
+tool_file	djgpp	DJGPP 2.03 (Development Kit and Libraries)	djdev203.zip
+tool_file	djgpp	GCC 3.21 (GNU C Compiler)	gcc321b.zip
+tool_file	djgpp	GNU Make 3.79.1 for DJGPP v2	mak3791b.zip
+tool_file	djgpp	GNU Binutils 2.13 for DJGPP v2	bnu213b.zip
+tool_file	djgpp	GNU Fileutils 4.1 for DJGPP v2	fil41b.zip
+tool_file	djgpp	GNU Texinfo 4.2 for DJGPP v2	txi42b.zip
+tool_file	djgpp	GNU Diffutils 2.8 for DJGPP v2	dif28b.zip
+tool_file	djgpp	GNU Patch 2.5.3 for DJGPP v2	pat253b.zip
+tool_file	djgpp	UPX 1.24 for DOS (useful for compacting executables)	upx124d.zip

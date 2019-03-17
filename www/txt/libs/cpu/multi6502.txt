@@ -1,0 +1,23 @@
+
+library	multi6502	cpu	Multi-6502 32 Bit emulator	1.6	15/11/1998	\N	6502	Written in x86 assembler and very fast
+library_homepage	multi6502	ftp://ftp.synthcom.com/pub/emulators/cpu/	\N
+library_author_link	multi6502	neil_bradley
+library_emulator_link	multi6502	aae
+library_emulator_link	multi6502	centipede_emulator
+library_emulator_link	multi6502	emudx
+library_emulator_link	multi6502	emudx32
+library_emulator_link	multi6502	junofirst
+library_emulator_link	multi6502	mhemu
+library_emulator_link	multi6502	marblemadness
+library_emulator_link	multi6502	millipede_emulator
+library_emulator_link	multi6502	replay
+library_emulator_link	multi6502	replayplus
+library_emulator_link	multi6502	replayplus_linux
+library_emulator_link	multi6502	retrocade
+library_emulator_link	multi6502	retrocade_os2
+library_emulator_link	multi6502	rockulator_orig
+library_emulator_link	multi6502	rockulator
+library_emulator_link	multi6502	vector_dream
+library_emulator_link	multi6502	yaame
+library_tool_link	multi6502	nasm
+library_file	multi6502	Emulator	make6502.zip

@@ -1,0 +1,12 @@
+
+emulator	mame_amigappc	amiga	dummy	\N	\N	\N	MAME for AmigaPPC	0.37 beta 2	25/05/2000	Amiga	Emulates far more than anything else!	The latest beta release of MAME for the AmigaPPC	Dormant
+emulator_homepage	mame_amigappc	http://www.amidog.com/emu/mame/	\N
+emulator_author_link	mame_amigappc	mathias_roslund	\N	author
+
+emulator_features	mame_amigappc	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame_amigappc	Keyboard
+emulator_controller	mame_amigappc	Joystick
+emulator_controller	mame_amigappc	Mouse
+emulator_relative_link	mame_amigappc	mame	port_of
+
+emulator_file	mame_amigappc	Emulator for PPC	mame37b2.lha

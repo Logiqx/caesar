@@ -1,0 +1,22 @@
+game	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	\N	\N	\N	\N	\N	Pengo (set 1) - Popcorn Music	1982	bootleg	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u8	\N	\N	4096	b4188213	3ba8c3eabb00a02b4e26836a229511fe03ed1e58	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u7	\N	\N	4096	2eb38353	d351347f93a3ed01c8b5274ec19352dd611a8dd4	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u15	\N	\N	4096	3d647033	f44444b895c34bc576847f630a31c267053cdeb9	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u14	\N	\N	4096	6a85c6a2	444acc08607c892bb20b3a02753169addf5b11de	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u20	\N	\N	4096	963efa33	f274de085654a141627ffdd553edb97884795dff	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u31	\N	\N	4096	f622abe9	8bfa2296753afded9ba00513e4dbf478bb5e875c	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.u92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	pengopop	pengopop.105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game	Pengo_Arcade_Machine_Emulator_v0.5	penta	\N	\N	\N	\N	\N	Penta (not encrypted)	1982	bootleg	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u7	\N	\N	4096	5eb19e50	d69ffcc9d86c32b2d319e439418675340be13118	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u8	\N	\N	4096	d9e65791	d17bde00eec357487a4d4e5832a96c9fcc44bc7b	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u15	\N	\N	4096	9073e95a	c646f55d53e37fd9117cbdd53dd0ad8f0cb3f7d1	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u14	\N	\N	4096	6a85c6a2	444acc08607c892bb20b3a02753169addf5b11de	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u20	\N	\N	4096	963efa33	f274de085654a141627ffdd553edb97884795dff	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u31	\N	\N	4096	4828f9fe	d3738285e63640ef8880981ea678ad14af61a067	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.u92	\N	\N	8192	6afeba9d	cd723fb94aa90dbaac9a6fe085c0f4786d2fa092	\N	\N	\N	\N	\N	\N	
+game_rom	Pengo_Arcade_Machine_Emulator_v0.5	penta	penta.105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	

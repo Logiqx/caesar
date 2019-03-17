@@ -1,0 +1,10 @@
+
+emulator	discretesim	single	DiscreteSIM_v1.0	\N	\N	\N	DiscreteSIM	1.0	24/06/2007	Windows	Pong (Atari)	Discrete SIM was designed as a proof of concept for a method of simulating the operation of discrete logic arcade games. Since these machines did not have a CPU and ROM code it's hard to simulate these machines using traditional emulation. Pure functional simulation of these games is also error prone especially since most people do not have access to the original hardware to compare against. The approach taken by DiscreteSIM is to simulate the game circuit at the component level using a generic digital logic simulator. Unfortunately the component level simulation is takes a lot of processing power so even on a very fast PC it probably will not produce a playable frame rate. On an AMD Athlon 64 3000+ system it takes about 8 seconds to render each frame.	Dormant
+emulator_homepage	discretesim	http://atarihq.com/danb/Pong.shtml	\N
+emulator_author_link	discretesim	daniel_boris	\N	author
+
+emulator_tool_link	discretesim	vb
+emulator_features	discretesim	No	Yes	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	discretesim	Keyboard
+emulator_file	discretesim	Emulator	DiscreteSimBin.zip
+emulator_file	discretesim	Source	DiscreteSimSrc.zip

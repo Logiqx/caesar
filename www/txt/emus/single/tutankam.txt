@@ -1,0 +1,8 @@
+
+emulator	tutankam	single	Tutankam_Emulator_v0.02b	\N	\N	\N	Tutankham Arcade Machine Emulator	0.02b	19/06/1997	DOS	Tutanhkaman (Stern)	Janne's first ever emulator	Dormant
+emulator_homepage	tutankam	http://home5.swipnet.se/~w-50884/emulator/emulator.htm	\N
+emulator_author_link	tutankam	janne_korpela	\N	author
+
+emulator_features	tutankam	No	No	No	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	tutankam	Keyboard
+emulator_file	tutankam	Emulator	tem002b.zip

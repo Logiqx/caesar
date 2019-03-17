@@ -1,0 +1,8 @@
+
+tool	libpng	gfx_libs	libpng	1.2.8	02/12/2004	libpng is the official PNG reference library. It supports almost all PNG features, is extensible, and has been extensively tested for over nine years.
+tool_homepage	libpng	http://www.libpng.org/pub/png/libpng.html	\N
+tool_author_link	libpng	libpng
+tool_emulator_link	libpng	raine
+tool_emulator_link	libpng	raine32
+tool_emulator_link	libpng	raine_linux
+tool_file	libpng	libpng source code	lpng128.zip

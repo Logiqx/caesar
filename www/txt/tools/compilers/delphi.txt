@@ -1,0 +1,8 @@
+
+tool	delphi	compilers	Delphi	5	?	Pascal based development environment
+tool_homepage	delphi	http://www.borland.com/delphi/	\N
+tool_author_link	delphi	borland
+tool_emulator_link	delphi	dsp
+tool_emulator_link	delphi	emulaser
+tool_emulator_link	delphi	pasmulator
+tool_emulator_link	delphi	trombone

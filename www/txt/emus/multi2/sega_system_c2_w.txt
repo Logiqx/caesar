@@ -1,0 +1,12 @@
+
+emulator	sega_system_c2_w	multi2	dummy	\N	\N	\N	Sega System C2 Emulator (Windows)	0.2b	17/09/2000	Windows	Sega System C2 Games	Windows port of the Sega C2 Emulator	Dormant
+emulator_homepage	sega_system_c2_w	http://www.system16.com/pastorama/sc/	\N
+emulator_author_link	sega_system_c2_w	neozeed	\N	author
+
+emulator_library_link	sega_system_c2_w	starscream
+emulator_features	sega_system_c2_w	Yes	Yes	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sega_system_c2_w	Keyboard
+emulator_controller	sega_system_c2_w	Joystick
+emulator_relative_link	sega_system_c2_w	sega_system_c2	port_of
+
+emulator_file	sega_system_c2_w	Windows Emulator	c2emuw.zip

@@ -1,0 +1,8 @@
+
+author	mark_hazelwood	Mark Hazelwood	\N
+author_email	mark_hazelwood	markehazelwood@netscape.net
+author_emulator_link	mark_hazelwood	multiple_invaders	author
+
+author_emulator_link	mark_hazelwood	wingorf	author
+
+author_emulator_link	mark_hazelwood	winvader	author

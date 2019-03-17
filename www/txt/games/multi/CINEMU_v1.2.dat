@@ -1,0 +1,70 @@
+game	CINEMU_v1.2	speedfrk	\N	\N	\N	\N	\N	Speed Freak	1979	Vectorbeam	\N	\N	\N	
+game_rom	CINEMU_v1.2	speedfrk	speedfrk.p7	\N	\N	2048	4b90cdec	69e2312acdc22ef52236b1c4dfee9f51fcdcaa52	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	speedfrk	speedfrk.r7	\N	\N	2048	fbe90d63	e42b17133464ae48c90263bba01a7d041e938a05	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	speedfrk	speedfrk.t7	\N	\N	2048	3552c03f	c233dd064195b336556d7405b51065389b228c78	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	speedfrk	speedfrk.u7	\N	\N	2048	616c7cf9	3c5bf59a09d85261f69e4b9d499cb7a93d79fb57	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	spacewar	\N	\N	\N	\N	\N	Space Wars	1978	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	spacewar	spacewar.u7	\N	\N	2048	edf0fd53	a543d8b95bc77ec061c6b10161a6f3e07401e251	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	spacewar	spacewar.r7	\N	\N	2048	4f21328b	8889f1a9353d6bb1e1078829c1ba77557853739b	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	wotw	\N	\N	\N	\N	\N	War of the Worlds	1981	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	wotw	wotw.t7	\N	\N	4096	b16440f9	9656a26814736f8ff73575063b5ebbb2e8aa7dd0	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	wotw	wotw.p7	\N	\N	4096	bfdf4a5a	db4eceb68e17020d0a597ba105ec3b91ce48b7c1	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	wotw	wotw.u7	\N	\N	4096	9b5cea48	c2bc002e550a0d36e713d07f6aefa79c70b8e284	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	wotw	wotw.r7	\N	\N	4096	c9d3c866	57a47bf06838fe562981321249fe5ae585316f22	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	starhawk	\N	\N	\N	\N	\N	Star Hawk	1981	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	starhawk	starhawk.u7	\N	\N	2048	376e6c5c	7d9530ed2e75464578b541f61408ba64ee9d2a95	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	starhawk	starhawk.r7	\N	\N	2048	bb71144f	79591cd3ef8df78ec26e158f7e82ca0dcd72260d	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	barrier	\N	\N	\N	\N	\N	Barrier	1979	Vectorbeam	\N	\N	\N	
+game_rom	CINEMU_v1.2	barrier	barrier.t7	\N	\N	2048	7c3d68c8	1138029552b73e94522b3b48096befc057d603c7	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	barrier	barrier.p7	\N	\N	2048	aec142b5	b268936b82e072f38f1f1dd54e0bc88bcdf19925	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	barrier	barrier.u7	\N	\N	2048	7c3d68c8	1138029552b73e94522b3b48096befc057d603c7	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	barrier	barrier.r7	\N	\N	2048	aec142b5	b268936b82e072f38f1f1dd54e0bc88bcdf19925	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	warrior	\N	\N	\N	\N	\N	Warrior	1978	Vectorbeam	\N	\N	\N	
+game_rom	CINEMU_v1.2	warrior	warrior.t7	\N	\N	2048	ac3646f9	515c3acb638fad27fa57f6b438c8ec0b5b76f319	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	warrior	warrior.p7	\N	\N	2048	517d3021	0483dcaf92c336a07d2c535823348ee886567e85	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	warrior	warrior.u7	\N	\N	2048	2e39340f	4b3cfb3674dd2a668d4d65e28cb37d7ad20f118d	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	warrior	warrior.r7	\N	\N	2048	8e91b502	27614c3a8613f49187039cfb05ee96303caf72ba	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	solar	\N	\N	\N	\N	\N	Solar Quest	1981	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	solar	solar.t7	\N	\N	4096	1f3c5333	58d847b5f009a0363ae116768b22d0bcfb3d60a4	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	solar	solar.p7	\N	\N	4096	d6c16bcc	6953bdc698da060d37f6bc33a810ba44595b1257	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	solar	solar.u7	\N	\N	4096	a5970e5c	9ac07924ca86d003964022cffdd6a0436dde5624	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	solar	solar.r7	\N	\N	4096	b763fff2	af1fd978e46a4aee3048e6e36c409821d986f7ee	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	demon	\N	\N	\N	\N	\N	Demon	1982	Rock-ola	\N	\N	\N	
+game_rom	CINEMU_v1.2	demon	demon.t7	\N	\N	4096	866596c1	65202dcd5c6bf6c11fe76a89682a1505b1870cc9	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	demon	demon.p7	\N	\N	4096	1109e2f1	c779b6af1ca09e2e295fc9a0e221ddf283b683ed	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	demon	demon.u7	\N	\N	4096	d447a3c3	32f6fb01231aa4f3d93e32d639a89f0cf9624a71	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	demon	demon.r7	\N	\N	4096	64b515f0	2dd9a6d784ec1baf31e8c6797ddfdc1423c69470	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	tailgunr	\N	\N	\N	\N	\N	Tailgunner	1979	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	tailgunr	tailgunr.t7	\N	\N	2048	21ec9a04	b442f34360d1d4769e7bca73a2d79ce97d335460	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	tailgunr	tailgunr.p7	\N	\N	2048	8d7410b3	59ead49bd229a873f15334d0999c872d3d6581d4	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	tailgunr	tailgunr.u7	\N	\N	2048	2c954ab6	9edf189a19b50a9abf458d4ef8ba25b53934385e	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	tailgunr	tailgunr.r7	\N	\N	2048	8e2c8494	65e461ec4938f9895e5ac31442193e06c8731dc1	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	armor	\N	\N	\N	\N	\N	Armor Attack	1980	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	armor	armor.t7	\N	\N	4096	d7e71f84	0b29278a6a698f07eae597bc0a8650e91eaabffa	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	armor	armor.p7	\N	\N	4096	df1c2370	b74834d1a591a741892ec41269a831d3590ff766	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	armor	armor.u7	\N	\N	4096	b0276118	88f33cb2f46a89819c85f810c7cff812e918391e	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	armor	armor.r7	\N	\N	4096	229d779f	0cbdd83eb224146944049346f30d9c72d3ad5f52	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	starcas	\N	\N	\N	\N	\N	Star Castle (older)	1980	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	starcas	starcas.t7	\N	\N	2048	65d0a225	e1fbee5ff42dd040ab2e90bbe2189fcb76d6167e	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	starcas	starcas.p7	\N	\N	2048	d8f58d9a	abba459431dcacc75099b0d340b957be71b89cfd	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	starcas	starcas.u7	\N	\N	2048	d4f35b82	cd4561ce8e1d0554ac1a8925bbf46d2c676a3b80	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	starcas	starcas.r7	\N	\N	2048	9fd3de54	17195a490b190e68660829850ff9d702ca1939bb	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	sundance	\N	\N	\N	\N	\N	Sundance	1979	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	sundance	sundance.t7	\N	\N	2048	d5b9cb19	72dca386b48a582186898c32123d61b4fd58632e	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	sundance	sundance.p7	\N	\N	2048	445c4f20	972d0b0613f154ee3347206cae05ee8c36796f84	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	sundance	sundance.u7	\N	\N	2048	67887d48	be225dbd3508fad2711286834880065a4fc0a2fc	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	sundance	sundance.r7	\N	\N	2048	10b77ebd	3d43bd47c498d5ea74a7322f8d25dbc0c0187534	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	boxnbugs	\N	\N	\N	\N	\N	Boxing Bugs	1981	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u1a	\N	\N	4096	d3115b0f	9448e7ac1cdb5c7e0739623151be230ab630c4ea	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u1b	\N	\N	4096	3a44268d	876ebe942ded787cfe357563a33d3e26a1483c5a	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u2a	\N	\N	4096	c97a9cbb	8bdeb9ee6b24c0a4554bbf4532a43481a0360019	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u2b	\N	\N	4096	98d34ff5	6767a02a99a01712383300f9acb96cdeffbc9c69	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u3a	\N	\N	4096	5bb3269b	a9dbc91b1455760f10bad0d2ccf540e040a00d4e	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u3b	\N	\N	4096	85bf83ad	9229042e39c53fae56dc93f8996bf3a3fcd35cb8	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u4a	\N	\N	4096	25b51799	46465fe62907ae66a0ce730581e4e9ba330d4369	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	boxnbugs	boxnbugs.u4b	\N	\N	4096	7f41de6a	d01dffad3cb6e76c535a034ea0277dce5801c5f1	\N	\N	\N	\N	\N	\N	
+game	CINEMU_v1.2	ripoff	\N	\N	\N	\N	\N	Rip Off	1979	Cinematronics	\N	\N	\N	
+game_rom	CINEMU_v1.2	ripoff	ripoff.t7	\N	\N	2048	40c2c5b8	bc1f3b540475c9868443a72790a959b1f36b93c6	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	ripoff	ripoff.p7	\N	\N	2048	a9208afb	ea362494855be27a07014832b01e65c1645385d0	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	ripoff	ripoff.u7	\N	\N	2048	29c13701	5e7672deffac1fa8f289686a5527adf7e51eb0bb	\N	\N	\N	\N	\N	\N	
+game_rom	CINEMU_v1.2	ripoff	ripoff.r7	\N	\N	2048	150bd4c8	e1e2f0dfec4f53d8ff67b0e990514c304f496b3a	\N	\N	\N	\N	\N	\N	

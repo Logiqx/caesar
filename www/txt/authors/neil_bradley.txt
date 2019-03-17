@@ -1,0 +1,17 @@
+
+author	neil_bradley	Neil Bradley	\N
+author_email	neil_bradley	nb@synthcom.com
+author_email	neil_bradley	neil@synthcom.com
+author_emulator_link	neil_bradley	emu	author
+
+author_emulator_link	neil_bradley	mhemu	author
+
+author_emulator_link	neil_bradley	retrocade	author
+
+author_emulator_link	neil_bradley	emudx	contributor
+
+author_library_link	neil_bradley	6502
+author_library_link	neil_bradley	mathbox
+author_library_link	neil_bradley	multi6502
+author_library_link	neil_bradley	multi6808
+author_library_link	neil_bradley	multiz80

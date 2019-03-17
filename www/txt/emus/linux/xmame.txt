@@ -1,0 +1,20 @@
+
+emulator	xmame	linux	dummy	\N	\N	\N	X-MAME	0.67.2	12/04/2003	Linux	Emulates far more than anything else!	The latest beta release of X-MAME	Active
+emulator_homepage	xmame	http://x.mame.net/	\N
+emulator_author_link	xmame	lawrence_gold	\N	author
+
+emulator_features	xmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	xmame	Keyboard
+emulator_controller	xmame	Joystick
+emulator_controller	xmame	Mouse
+emulator_author_link	xmame	hans_de_goede	Previous maintainer of XMAME	contributor
+
+emulator_relative_link	xmame	mame	port_of
+
+emulator_relative_link	xmame	phmame	port
+
+emulator_relative_link	xmame	xmame_beos	port
+
+emulator_relative_link	xmame	xmame_ps2	port
+
+emulator_relative_link	xmame	zmame	port

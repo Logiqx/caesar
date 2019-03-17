@@ -1,0 +1,10 @@
+
+emulator	oldsparkcpplinux	linux	dummy	\N	\N	\N	OldSpark C++ Linux	Second Public Release (20071006)	06/10/2007	Windows	Z80 based classics	OldSpark C++ is a complete rewrite of the Java Oldspark emulator.	Active
+emulator_homepage	oldsparkcpplinux	http://bcz.emu-france.com/	\N
+emulator_author_link	oldsparkcpplinux	bruno_vedder	\N	author
+
+emulator_features	oldsparkcpplinux	Yes	Yes	Yes	No	Yes	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	oldsparkcpplinux	Keyboard
+emulator_relative_link	oldsparkcpplinux	oldsparkcpp	port_of
+
+emulator_file	oldsparkcpplinux	Emulator	OldSpark-C++20070812Linux-bin.zip

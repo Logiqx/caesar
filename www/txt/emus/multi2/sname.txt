@@ -1,0 +1,17 @@
+
+emulator	sname	multi2	dummy	\N	\N	\N	SNAME (Simulation and Non-Arcade Machine Emulator)	0.2	26/06/2001	DOS	Pong and the gambling games taken out of MAME	Based on MAME v0.37 b15. Original version was by Rodimus Prime in Feb 2000.	Dormant
+emulator_homepage	sname	http://www.geocities.com/dramamini/	\N
+emulator_author_link	sname	brainkiller	\N	author
+
+emulator_tool_link	sname	djgpp
+emulator_tool_link	sname	allegro
+emulator_tool_link	sname	seal
+emulator_tool_link	sname	zlib
+emulator_features	sname	Yes	No	Yes	No	No	Yes	Yes	No	Yes	Yes	\N	\N	Yes
+emulator_controller	sname	Keyboard
+emulator_controller	sname	Joystick
+emulator_relative_link	sname	dmame	modification_of
+
+emulator_relative_link	sname	snamew	port_of
+
+emulator_file	sname	Emulator	sname02d.zip

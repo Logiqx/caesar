@@ -1,0 +1,6 @@
+
+library	snd	snd	Sound Chip Emulator	1.27	16/02/2000	\N	YM2149 (AY-3-8910), SN76489, YM2203, YM2610, YM2612, YM3526, YM3812, generic 8-bit DAC	This emulates several audio chips via the SoundBlaster's OPL3 chip, and the SoundBlaster's DAC/DSP/DMA
+library_homepage	snd	http://etc.home.dhs.org/	\N
+library_author_link	snd	richard_mitton
+library_emulator_link	snd	tnzsemu
+library_file	snd	Emulator	snd.zip

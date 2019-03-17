@@ -1,0 +1,9 @@
+
+author	kevin_brisley	Kevin Brisley	\N
+author_email	kevin_brisley	replay@icomm.ca
+author_email	kevin_brisley	kevin@isgtec.com
+author_emulator_link	kevin_brisley	replay	author
+
+author_emulator_link	kevin_brisley	replayplus	author
+
+author_emulator_link	kevin_brisley	replayplus_linux	author

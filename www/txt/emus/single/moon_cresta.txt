@@ -1,0 +1,11 @@
+
+emulator	moon_cresta	single	Moon_Cresta_Emulator	\N	\N	\N	Moon Cresta Emulator	?	07/01/1997	DOS	Moon Cresta (Gremlin)	Preliminary sound support is very poor and Martin Recommends not using switching it on!	Discontinued
+emulator_homepage	moon_cresta	\N	none
+emulator_author_link	moon_cresta	martin_scragg	\N	author
+
+emulator_library_link	moon_cresta	z80em
+emulator_tool_link	moon_cresta	djgpp
+emulator_tool_link	moon_cresta	allegro
+emulator_features	moon_cresta	Src	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	moon_cresta	Keyboard
+emulator_file	moon_cresta	Emulator	mooncrst.zip

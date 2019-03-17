@@ -1,0 +1,11 @@
+
+emulator	radikal_bikers_emulator	single	Radikal_Bikers_Emulator_v0.9	\N	\N	\N	Radikal Bikers Emulator	0.9	01/09/2004	Windows	Atari's Radikal Bikers	A single game emulator for Radikal Bikers to demonstrate the performance that can be achieved for this one particular game (compared to the MAME driver).	Dormant
+emulator_homepage	radikal_bikers_emulator	http://www.aarongiles.com/radikal.html	\N
+emulator_author_link	radikal_bikers_emulator	aaron_giles	\N	author
+
+emulator_tool_link	radikal_bikers_emulator	msvc
+emulator_tool_link	radikal_bikers_emulator	zlib
+emulator_features	radikal_bikers_emulator	Yes	No	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	radikal_bikers_emulator	Keyboard
+emulator_controller	radikal_bikers_emulator	Mouse
+emulator_file	radikal_bikers_emulator	Emulator	radikal09.zip

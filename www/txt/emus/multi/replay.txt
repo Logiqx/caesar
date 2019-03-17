@@ -1,0 +1,19 @@
+
+emulator	replay	multi	Replay_v0.04	\N	\N	\N	Replay	0.04	04/09/1997	DOS	Many games from the early 80's	Support for new games can be added using KEG files (similar concept to Mimic). Linux version also available. Preliminary sound in two games.	Superceded
+emulator_homepage	replay	http://www.icomm.ca/replay/	\N
+emulator_author_link	replay	kevin_brisley	\N	author
+
+emulator_library_link	replay	maze
+emulator_library_link	replay	z80em
+emulator_library_link	replay	multi6502
+emulator_tool_link	replay	djgpp
+emulator_tool_link	replay	allegro
+emulator_tool_link	replay	seal
+emulator_tool_link	replay	zlib
+emulator_features	replay	No	No	Yes	Yes	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	replay	Keyboard
+emulator_controller	replay	Joystick
+emulator_relative_link	replay	replayplus	successor
+
+emulator_file	replay	Emulator	repd004.zip
+emulator_file	replay	Amigo driver and fix for Xevious	replay.zip

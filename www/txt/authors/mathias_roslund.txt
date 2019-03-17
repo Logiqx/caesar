@@ -1,0 +1,4 @@
+
+author	mathias_roslund	Mathias 'AmiDog' Roslund	\N
+author_email	mathias_roslund	mame@amidog.com
+author_emulator_link	mathias_roslund	mame_amigappc	author

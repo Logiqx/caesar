@@ -1,0 +1,48 @@
+
+tool	zlib	zip_libs	zlib	1.2.3	18/07/2005	A general purpose data compression/decompression library
+tool_homepage	zlib	http://www.gzip.org/zlib/	\N
+tool_author_link	zlib	jean_loup_gailly
+tool_author_link	zlib	mark_adler
+tool_emulator_link	zlib	ace
+tool_emulator_link	zlib	cage
+tool_emulator_link	zlib	cps3_emulator
+tool_emulator_link	zlib	combatschool
+tool_emulator_link	zlib	crystal_system_emulator
+tool_emulator_link	zlib	dmame
+tool_emulator_link	zlib	emudx
+tool_emulator_link	zlib	emudx32
+tool_emulator_link	zlib	finalburn
+tool_emulator_link	zlib	finalburnalpha
+tool_emulator_link	zlib	gngeo
+tool_emulator_link	zlib	hive
+tool_emulator_link	zlib	hornet
+tool_emulator_link	zlib	mame
+tool_emulator_link	zlib	mameui
+tool_emulator_link	zlib	modeler
+tool_emulator_link	zlib	msega
+tool_emulator_link	zlib	nebula
+tool_emulator_link	zlib	nebulam2
+tool_emulator_link	zlib	nebula_jukebox
+tool_emulator_link	zlib	phmame
+tool_emulator_link	zlib	qplayer
+tool_emulator_link	zlib	radikal_bikers_emulator
+tool_emulator_link	zlib	raine
+tool_emulator_link	zlib	raine32
+tool_emulator_link	zlib	raine_beos
+tool_emulator_link	zlib	raine_linux
+tool_emulator_link	zlib	raine_linux_alt
+tool_emulator_link	zlib	replay
+tool_emulator_link	zlib	retrocade
+tool_emulator_link	zlib	retrocade_os2
+tool_emulator_link	zlib	s11emu
+tool_emulator_link	zlib	segamodel2emulator
+tool_emulator_link	zlib	sega_system_24_emulator
+tool_emulator_link	zlib	sega_system_c2
+tool_emulator_link	zlib	sname
+tool_emulator_link	zlib	snamew
+tool_emulator_link	zlib	tickle
+tool_emulator_link	zlib	vantage
+tool_emulator_link	zlib	virtua
+tool_emulator_link	zlib	kawaks
+tool_emulator_link	zlib	zinc
+tool_file	zlib	zlib distribution	zlib123.zip

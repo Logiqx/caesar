@@ -1,0 +1,13 @@
+
+emulator	warpmame	amiga	dummy	\N	\N	\N	WarpMAME	0.37 beta 16	02/09/2001	Amiga	Emulates far more than anything else!	The latest beta release of MAME for the Amiga WarpUp systems	Dormant
+emulator_homepage	warpmame	http://homepage.powerup.com.au/~cward/	\N
+emulator_author_link	warpmame	hitman	\N	author
+
+emulator_features	warpmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	warpmame	Keyboard
+emulator_controller	warpmame	Joystick
+emulator_controller	warpmame	Mouse
+emulator_relative_link	warpmame	mame	port_of
+
+emulator_file	warpmame	WarpMAME v0.37b16	WarpMAME_v0.37B16.Lha
+emulator_file	warpmame	WarpMAME v0.37b5	WarpMAMEC_v0.37B5.Lha

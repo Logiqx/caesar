@@ -1,0 +1,12 @@
+
+author	phil_stroffolino	Phil Stroffolino	\N
+author_email	phil_stroffolino	phil@maya.com
+author_emulator_link	phil_stroffolino	mjolnir	author
+
+author_emulator_link	phil_stroffolino	rem_mac	author
+
+author_emulator_link	phil_stroffolino	shaolin	author
+
+author_emulator_link	phil_stroffolino	yiear	author
+
+author_emulator_link	phil_stroffolino	mame	contributor

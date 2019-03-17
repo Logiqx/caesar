@@ -1,0 +1,10 @@
+
+emulator	phoenix98	single	Phoenix_Emulator_980813	\N	\N	\N	Phoenix Emulator	-only version-	13/08/1998	DOS	Phoenix (Amstar)	\N	Dormant
+emulator_homepage	phoenix98	\N	none
+emulator_author_link	phoenix98	robert_bogniel	\N	author
+
+emulator_library_link	phoenix98	z80em
+emulator_tool_link	phoenix98	djgpp
+emulator_features	phoenix98	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	phoenix98	Keyboard
+emulator_file	phoenix98	Emulator (includes source)	phoenix.zip

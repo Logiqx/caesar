@@ -1,0 +1,12 @@
+game	Crystal_System_Emulator_v1.1	crysking	\N	\N	\N	crysbios	\N	Crystal of the Kings	2001	Brezza Soft Corporation	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	crysking	bcsv0004f01.u1	\N	\N	16777216	8feff120	2ea42fa893bff845b5b855e2556789f8354e9066	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	crysking	bcsv0004f02.u2	\N	\N	16777216	0e799845	419674ce043cb1efb18303f4cb7fdbbae642ee39	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	crysking	bcsv0004f03.u3	\N	\N	16777216	659e2d17	342c98f3f695ef4dea8b533612451c4d2fb58809	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	crysking	mx27l1000.u14	mx27l1000.u14	\N	131072	beff39a9	b6f6dda58d9c82273f9422c1bd623411e58982cb	\N	\N	\N	\N	\N	\N	
+game	Crystal_System_Emulator_v1.1	evosocc	\N	\N	\N	crysbios	\N	Evolution Soccer	2001	Brezza Soft Corporation	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	evosocc	bcsv0001u01	\N	\N	16777216	2581a0ea	ee483ac60a3ed00a21cb515974cec4af19916a7d	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	evosocc	bcsv0001u02	\N	\N	16777216	47ef1794	f573706c17d1342b9b7aed9b40b8b648f0bf58db	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	evosocc	bcsv0001u03	\N	\N	16777216	f396a2ec	f305eb10856fb5d4c229a6b09d6a2fb21b24ce66	\N	\N	\N	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	evosocc	mx27l1000.u14	mx27l1000.u14	\N	131072	beff39a9	b6f6dda58d9c82273f9422c1bd623411e58982cb	\N	\N	\N	\N	\N	\N	
+game	Crystal_System_Emulator_v1.1	crysbios	no	\N	\N	\N	\N	Crystal System BIOS	2001	Brezza Soft Corporation	\N	\N	\N	
+game_rom	Crystal_System_Emulator_v1.1	crysbios	mx27l1000.u14	\N	\N	131072	beff39a9	b6f6dda58d9c82273f9422c1bd623411e58982cb	\N	\N	\N	\N	\N	\N	

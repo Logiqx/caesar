@@ -1,0 +1,23 @@
+
+emulator_contents	mac	Emulators for the Mac	These emulators are all for the Apple Macintosh. Be sure to check out <a href="http://emulation.net/">http://emulation.net/</a> for emulators on the Mac.
+emulator_contents_emulator_link	mac	astrofmu
+emulator_contents_emulator_link	mac	atari_vector_sim
+emulator_contents_emulator_link	mac	centimu
+emulator_contents_emulator_link	mac	centimupp
+emulator_contents_emulator_link	mac	daphne_mac
+emulator_contents_emulator_link	mac	frogcow
+emulator_contents_emulator_link	mac	invadersmu
+emulator_contents_emulator_link	mac	m1_mac
+emulator_contents_emulator_link	mac	macmame
+emulator_contents_emulator_link	mac	macmoon
+emulator_contents_emulator_link	mac	macmultipac
+emulator_contents_emulator_link	mac	macslomo
+emulator_contents_emulator_link	mac	modeler_mac
+emulator_contents_emulator_link	mac	nemesis_mac
+emulator_contents_emulator_link	mac	rem_mac
+emulator_contents_emulator_link	mac	shaolin
+emulator_contents_emulator_link	mac	t3em
+emulator_contents_emulator_link	mac	tickle_mac
+emulator_contents_emulator_link	mac	vectorama
+emulator_contents_emulator_link	mac	williams_digital_arcade
+emulator_contents_emulator_link	mac	yiear

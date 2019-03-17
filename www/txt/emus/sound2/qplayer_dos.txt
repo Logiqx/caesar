@@ -1,0 +1,15 @@
+
+emulator	qplayer_dos	sound2	dummy	\N	\N	\N	QPlayer (DOS)	1.1.8	26/02/2000	DOS	QSound music and sound effects	Plays the music and sound effects from arcade games based on Capcom's CPS-2, ZN-1 and ZN-2 hardware	Dormant
+emulator_homepage	qplayer_dos	http://galemu.emuunlim.com/	\N
+emulator_author_link	qplayer_dos	barry_rodewald	\N	author
+
+emulator_library_link	qplayer_dos	multiz80
+emulator_tool_link	qplayer_dos	djgpp
+emulator_tool_link	qplayer_dos	allegro
+emulator_tool_link	qplayer_dos	seal
+emulator_features	qplayer_dos	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	qplayer_dos	Keyboard
+emulator_relative_link	qplayer_dos	qplayer	port_of
+
+emulator_file	qplayer_dos	Player for DOS	qply118.zip
+emulator_file	qplayer_dos	Data files adding support for more games	qsnd-dat.zip

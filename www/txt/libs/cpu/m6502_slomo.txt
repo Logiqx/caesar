@@ -1,0 +1,9 @@
+
+library	m6502_slomo	cpu	M6502	0.17 Beta 1	18/03/1999	\N	M6502	Written in VB
+library_homepage	m6502_slomo	http://home.att.net/~r.jarrett/prod.html	\N
+library_author_link	m6502_slomo	don_jarrett
+library_author_link	m6502_slomo	tobias_stromstedt
+library_emulator_link	m6502_slomo	milliemu
+library_emulator_link	m6502_slomo	pcslomo
+library_tool_link	m6502_slomo	vb
+library_file	m6502_slomo	Emulator	v17031899.zip

@@ -1,0 +1,15 @@
+
+emulator	nemesis	single	Nemesis_Emulator_v0.99	\N	\N	\N	Nemesis Emulator	0.99	30/03/1997	Windows	Nemesis (Konami)	\N	Dormant
+emulator_homepage	nemesis	http://www.netg.se/~drac/nemesis.html	\N
+emulator_author_link	nemesis	johan_kohler	\N	author
+
+emulator_library_link	nemesis	z80em
+emulator_tool_link	nemesis	msvc
+emulator_features	nemesis	Yes	No	Yes	No	No	No	No	No	No	No?	\N	\N	\N
+emulator_controller	nemesis	Keyboard
+emulator_controller	nemesis	Joystick
+emulator_relative_link	nemesis	nemesis_dos	port
+
+emulator_relative_link	nemesis	nemesis_mac	port
+
+emulator_file	nemesis	Emulator (Windows)	nemesis.zip

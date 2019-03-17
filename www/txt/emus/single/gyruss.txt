@@ -1,0 +1,14 @@
+
+emulator	gyruss	single	Gyruss_Emulator_v0.04_(beta_1)	\N	\N	\N	Gyruss Emulator	0.04 (beta 1)	31/01/1997	DOS	Gyruss (Konami/Centuri)	Made it's way into KEM then Retrocade	Dormant
+emulator_homepage	gyruss	http://www.fensende.com/Users/mcuddy/gyruss/	bad
+emulator_author_link	gyruss	michael_cuddy	\N	author
+
+emulator_library_link	gyruss	z80
+emulator_tool_link	gyruss	watcom
+emulator_tool_link	gyruss	seal
+emulator_features	gyruss	Yes	No	Yes	Yes	No	No	Yes	Yes	No	Yes	\N	\N	\N
+emulator_controller	gyruss	Keyboard
+emulator_controller	gyruss	Joystick
+emulator_relative_link	gyruss	kem	successor
+
+emulator_file	gyruss	Emulator	gy004.zip

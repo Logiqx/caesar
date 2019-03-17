@@ -1,0 +1,8 @@
+
+emulator	toki	single	Toki	\N	\N	\N	Toki	?	23/02/1997	DOS	Toki (bootleg)	Only loads up the ROMs and show the DIP switch menu.	Discontinued
+emulator_homepage	toki	\N	none
+emulator_author_link	toki	inigo_ayo	\N	author
+
+emulator_features	toki	No	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	toki	Keyboard
+emulator_file	toki	Emulator	toki.zip

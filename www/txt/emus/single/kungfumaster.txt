@@ -1,0 +1,8 @@
+
+emulator	kungfumaster	single	Kung_Fu_Master_v0.0000001a	\N	\N	\N	Kung Fu Master	0.0000001a	27/03/1997	DOS	Kung Fu Master (Irem)	Very preliminary emulation (as you may have guessed from the version number).	Dormant
+emulator_homepage	kungfumaster	\N	none
+emulator_author_link	kungfumaster	ishmair	\N	author
+
+emulator_features	kungfumaster	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	kungfumaster	Keyboard
+emulator_file	kungfumaster	Emulator	Kung Fu Master Emulator V0.0000001A [Dos].zip

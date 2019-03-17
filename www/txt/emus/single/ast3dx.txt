@@ -1,0 +1,10 @@
+
+emulator	ast3dx	single	Ast3DX_v1.0	\N	\N	\N	Ast3DX	1.0	28/04/2000	DOS	Atari Asteroids with 3d graphics and new sound	Emulates Asteroids but displays it in first person perspective. This makes for challenging play but is pretty cool!	Dormant
+emulator_homepage	ast3dx	http://web.utanet.at/nkehrer/	\N
+emulator_author_link	ast3dx	norbert_kehrer	\N	author
+
+emulator_tool_link	ast3dx	djgpp
+emulator_tool_link	ast3dx	allegro
+emulator_features	ast3dx	Yes	No	Yes	No	No	No	No	No	N/A	Yes	\N	\N	\N
+emulator_controller	ast3dx	Keyboard
+emulator_file	ast3dx	Emulator	ast3dx.zip

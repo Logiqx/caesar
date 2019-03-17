@@ -1,0 +1,99 @@
+game	JEmu2_v4.1	1942	\N	1942.c	\N	\N	\N	1942 (set 1)	1984	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	1943	\N	1943.c	\N	\N	\N	1943: The Battle of Midway (US)	1987	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	1943kai	\N	1943.c	\N	\N	\N	1943 Kai: Midway Kaisen (Japan)	1987	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	arkatayt	\N	arkanoid.c	\N	\N	\N	Arkanoid (Tayto bootleg, Japanese)	1986	bootleg	\N	\N	\N	
+game	JEmu2_v4.1	bankp	\N	bankp.c	\N	\N	\N	Bank Panic	1984	[Sanritsu] Sega	\N	\N	\N	
+game	JEmu2_v4.1	blktiger	\N	blktiger.c	\N	\N	\N	Black Tiger	1987	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	bombjack	\N	bombjack.c	\N	\N	\N	Bomb Jack (set 1)	1984	Tehkan	\N	\N	\N	
+game	JEmu2_v4.1	boblbobl	\N	bublbobl.c	\N	\N	\N	Bobble Bobble	1986	bootleg	\N	\N	\N	
+game	JEmu2_v4.1	checkmat	\N	8080bw.c	\N	\N	\N	Checkmate	1977	Midway	\N	\N	\N	
+game	JEmu2_v4.1	circusc	\N	circusc.c	\N	\N	\N	Circus Charlie	1984	Konami	\N	\N	\N	
+game	JEmu2_v4.1	commando	\N	commando.c	\N	\N	\N	Commando (World)	1985	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	dkong	\N	dkong.c	\N	\N	\N	Donkey Kong (US set 1)	1981	Nintendo of America	\N	\N	\N	
+game_sample	JEmu2_v4.1	dkong	run01.wav	
+game_sample	JEmu2_v4.1	dkong	run02.wav	
+game_sample	JEmu2_v4.1	dkong	run03.wav	
+game_sample	JEmu2_v4.1	dkong	jump.wav	
+game_sample	JEmu2_v4.1	dkong	dkstomp.wav	
+game	JEmu2_v4.1	dkong3	\N	dkong.c	\N	\N	\N	Donkey Kong 3 (US)	1983	Nintendo of America	\N	\N	\N	
+game	JEmu2_v4.1	dkongjr	\N	dkong.c	\N	\N	\N	Donkey Kong Junior (US)	1982	Nintendo of America	\N	\N	\N	
+game_sample	JEmu2_v4.1	dkongjr	jump.wav	
+game_sample	JEmu2_v4.1	dkongjr	land.wav	
+game_sample	JEmu2_v4.1	dkongjr	roar.wav	
+game_sample	JEmu2_v4.1	dkongjr	climb0.wav	
+game_sample	JEmu2_v4.1	dkongjr	climb1.wav	
+game_sample	JEmu2_v4.1	dkongjr	climb2.wav	
+game_sample	JEmu2_v4.1	dkongjr	death.wav	
+game_sample	JEmu2_v4.1	dkongjr	drop.wav	
+game_sample	JEmu2_v4.1	dkongjr	walk0.wav	
+game_sample	JEmu2_v4.1	dkongjr	walk1.wav	
+game_sample	JEmu2_v4.1	dkongjr	walk2.wav	
+game_sample	JEmu2_v4.1	dkongjr	snapjaw.wav	
+game	JEmu2_v4.1	dremshpr	\N	pacman.c	\N	\N	\N	Dream Shopper	1982	Sanritsu	\N	\N	\N	
+game	JEmu2_v4.1	eyes	\N	pacman.c	\N	\N	\N	Eyes (Digitrex Techstar)	1982	Digitrex Techstar (Rock-ola license)	\N	\N	\N	
+game	JEmu2_v4.1	galaga	\N	galaga.c	\N	\N	\N	Galaga (Namco rev. B)	1981	Namco	\N	\N	\N	
+game	JEmu2_v4.1	galaxian	\N	galaxian.c	\N	\N	\N	Galaxian (Namco set 1)	1979	Namco	\N	\N	\N	
+game	JEmu2_v4.1	gberet	\N	gberet.c	\N	\N	\N	Green Beret	1985	Konami	\N	\N	\N	
+game	JEmu2_v4.1	gng	\N	gng.c	\N	\N	\N	Ghosts'n Goblins (World? set 1)	1985	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	gunsmoke	\N	gunsmoke.c	\N	\N	\N	Gun.Smoke (World)	1985	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	gyruss	\N	gyruss.c	\N	\N	\N	Gyruss (Konami)	1983	Konami	\N	\N	\N	
+game	JEmu2_v4.1	hexa	\N	hexa.c	\N	\N	\N	Hexa	\N	D. R. Korea	\N	\N	\N	
+game	JEmu2_v4.1	invaders	\N	8080bw.c	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_sample	JEmu2_v4.1	invaders	1.wav	
+game_sample	JEmu2_v4.1	invaders	2.wav	
+game_sample	JEmu2_v4.1	invaders	3.wav	
+game_sample	JEmu2_v4.1	invaders	4.wav	
+game_sample	JEmu2_v4.1	invaders	5.wav	
+game_sample	JEmu2_v4.1	invaders	6.wav	
+game_sample	JEmu2_v4.1	invaders	7.wav	
+game_sample	JEmu2_v4.1	invaders	8.wav	
+game_sample	JEmu2_v4.1	invaders	9.wav	
+game	JEmu2_v4.1	kungfum	\N	m62.c	\N	\N	\N	Kung-Fu Master	1984	Irem	\N	\N	\N	
+game	JEmu2_v4.1	ldrun	\N	m62.c	\N	\N	\N	Lode Runner (set 1)	1984	Irem (licensed from Broderbund)	\N	\N	\N	
+game	JEmu2_v4.1	ldrun2	\N	m62.c	\N	\N	\N	Lode Runner II - The Bungeling Strikes Back	1984	Irem (licensed from Broderbund)	\N	\N	\N	
+game	JEmu2_v4.1	lizwiz	\N	pacman.c	\N	\N	\N	Lizard Wizard	1985	Techstar (Sunn license)	\N	\N	\N	
+game	JEmu2_v4.1	mario	\N	mario.c	\N	\N	\N	Mario Bros. (US)	1983	Nintendo of America	\N	\N	\N	
+game_sample	JEmu2_v4.1	mario	ice.wav	
+game_sample	JEmu2_v4.1	mario	coin.wav	
+game_sample	JEmu2_v4.1	mario	skid.wav	
+game_sample	JEmu2_v4.1	mario	run.wav	
+game_sample	JEmu2_v4.1	mario	luigirun.wav	
+game	JEmu2_v4.1	maze	\N	8080bw.c	\N	\N	\N	Amazing Maze	1976	Midway	\N	\N	\N	
+game	JEmu2_v4.1	mrgoemon	\N	gberet.c	\N	\N	\N	Mr. Goemon (Japan)	1986	Konami	\N	\N	\N	
+game	JEmu2_v4.1	mrjong	\N	mrjong.c	\N	\N	\N	Mr. Jong (Japan)	1983	Kiwako	\N	\N	\N	
+game	JEmu2_v4.1	crazyblk	\N	mrjong.c	\N	\N	\N	Crazy Blocks	1983	Kiwako (ECI license)	\N	\N	\N	
+game	JEmu2_v4.1	mspacman	\N	pacman.c	\N	\N	\N	Ms. Pac-Man	1981	Midway	\N	\N	\N	
+game	JEmu2_v4.1	news	\N	news.c	\N	\N	\N	News	1993	Poby / Virus	\N	\N	\N	
+game	JEmu2_v4.1	pingpong	\N	pingpong.c	\N	\N	\N	Ping Pong	1985	Konami	\N	\N	\N	
+game	JEmu2_v4.1	ponpoko	\N	pacman.c	\N	\N	\N	Ponpoko	1982	Sigma Enterprises Inc.	\N	\N	\N	
+game	JEmu2_v4.1	pacman	\N	pacman.c	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game	JEmu2_v4.1	radarscp	\N	dkong.c	\N	\N	dkong	Radar Scope	1980	Nintendo	\N	\N	\N	
+game_sample	JEmu2_v4.1	radarscp	run01.wav	
+game_sample	JEmu2_v4.1	radarscp	run02.wav	
+game_sample	JEmu2_v4.1	radarscp	run03.wav	
+game_sample	JEmu2_v4.1	radarscp	jump.wav	
+game_sample	JEmu2_v4.1	radarscp	dkstomp.wav	
+game	JEmu2_v4.1	roadf	\N	hyperspt.c	\N	\N	\N	Road Fighter (set 1)	1984	Konami	\N	\N	\N	
+game	JEmu2_v4.1	rocnrope	\N	rocnrope.c	\N	\N	\N	Roc'n Rope	1983	Konami	\N	\N	\N	
+game	JEmu2_v4.1	scramblb	\N	galaxian.c	\N	\N	\N	Scramble (Galaxian hardware)	1981	bootleg	\N	\N	\N	
+game	JEmu2_v4.1	sf2	\N	cps1.c	\N	\N	\N	Street Fighter II - The World Warrior (World 910522)	1991	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	snowbros	\N	snowbros.c	\N	\N	\N	Snow Bros. - Nick & Tom (set 1)	1990	Toaplan	\N	\N	\N	
+game	JEmu2_v4.1	solomon	\N	solomon.c	\N	\N	\N	Solomon's Key (Japan)	1986	Tecmo	\N	\N	\N	
+game	JEmu2_v4.1	sonson	\N	sonson.c	\N	\N	\N	Son Son	1984	Capcom	\N	\N	\N	
+game	JEmu2_v4.1	tokiob	\N	bublbobl.c	\N	\N	\N	Tokio / Scramble Formation (bootleg)	1986	bootleg	\N	\N	\N	
+game	JEmu2_v4.1	troangel	\N	troangel.c	\N	\N	\N	Tropical Angel	1983	Irem	\N	\N	\N	
+game	JEmu2_v4.1	vanvan	\N	pacman.c	\N	\N	\N	Van-Van Car	1983	Sanritsu	\N	\N	\N	
+game	JEmu2_v4.1	warofbug	\N	galaxian.c	\N	\N	\N	War of the Bugs or Monsterous Manouvers in a Mushroom Maze	1981	Armenia	\N	\N	\N	
+game	JEmu2_v4.1	yiear	\N	yiear.c	\N	\N	\N	Yie Ar Kung-Fu (set 1)	1985	Konami	\N	\N	\N	
+game	JEmu2_v4.1	diamond	\N	gng.c	\N	\N	\N	Diamond Run	1989	KH Video	\N	\N	\N	
+game	JEmu2_v4.1	gloc	\N	segaybd.c	\N	\N	\N	G-LOC Air Battle (US)	1990	Sega	\N	\N	\N	
+game	JEmu2_v4.1	gforce2	\N	segaybd.c	\N	\N	\N	Galaxy Force 2	1988	Sega	\N	\N	\N	
+game	JEmu2_v4.1	jrpacman	\N	jrpacman.c	\N	\N	\N	Jr. Pac-Man	1983	Bally Midway	\N	\N	\N	
+game	JEmu2_v4.1	pacplus	\N	pacman.c	\N	\N	\N	Pac-Man Plus	1982	[Namco] (Midway license)	\N	\N	\N	
+game	JEmu2_v4.1	pdrift	\N	segaybd.c	\N	\N	\N	Power Drift (World, Rev A)	1988	Sega	\N	\N	\N	
+game	JEmu2_v4.1	rchase	\N	segaybd.c	\N	\N	\N	Rail Chase (Japan)	1991	Sega	\N	\N	\N	
+game	JEmu2_v4.1	sharrier	\N	segahang.c	\N	\N	\N	Space Harrier (Rev A, 8751 315-5163A)	1985	Sega	\N	\N	\N	
+game	JEmu2_v4.1	strkfgtr	\N	segaybd.c	\N	\N	\N	Strike Fighter (Japan)	1991	Sega	\N	\N	\N	
+game	JEmu2_v4.1	zigzag	\N	galaxian.c	\N	\N	\N	Zig Zag (Galaxian hardware, set 1)	1982	LAX	\N	\N	\N	
+game	JEmu2_v4.1	aburner2	\N	\N	\N	\N	\N	After Burner II	1987	Sega	\N	\N	\N	
+game	JEmu2_v4.1	outrun	\N	\N	\N	\N	\N	Out Run	1986	Sega	\N	\N	\N	

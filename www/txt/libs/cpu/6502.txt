@@ -1,0 +1,9 @@
+
+library	6502	cpu	6502 emulator	2	24/01/1997	\N	6502	This was Neil Bradley's original 6502 emulator, used in his Asteroids emulator. It is coded in C, and can run at about 3mhz on a 486/100
+library_homepage	6502	\N	none
+library_author_link	6502	neil_bradley
+library_emulator_link	6502	astdxgl
+library_emulator_link	6502	asteroidsgl
+library_emulator_link	6502	battlezonegl
+library_emulator_link	6502	tempestgl
+library_file	6502	Emulator	6502.zip

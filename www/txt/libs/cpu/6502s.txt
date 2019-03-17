@@ -1,0 +1,5 @@
+
+library	6502s	cpu	6502s	?	26/09/1996	\N	6502	Written for use with NESA. It's not very fast, even though it's coded in assembly
+library_homepage	6502s	http://members.aol.com/autismuk/emu.html	\N
+library_author_link	6502s	paul_robson
+library_file	6502s	Emulator	6502s.zip

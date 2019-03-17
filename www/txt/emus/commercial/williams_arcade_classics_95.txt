@@ -1,0 +1,14 @@
+
+emulator	williams_arcade_classics_95	commercial	Williams_Arcade_Classics	\N	\N	\N	Williams Arcade Classics (Windows)	-	1996	Windows	Defender, Defender II, Robotron 2084, Bubbles, Joust, Sinistar	Windows version of Williams Arcade Classics.	Released
+emulator_homepage	williams_arcade_classics_95	http://www.digitaleclipse.com	\N
+emulator_author_link	williams_arcade_classics_95	midway	\N	author
+
+emulator_features	williams_arcade_classics_95	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	williams_arcade_classics_95	Keyboard
+emulator_controller	williams_arcade_classics_95	Joystick
+emulator_controller	williams_arcade_classics_95	Mouse
+emulator_author_link	williams_arcade_classics_95	digital_eclipse	Development	contributor
+
+emulator_relative_link	williams_arcade_classics_95	williams_arcade_classics	predecessor
+
+emulator_file	williams_arcade_classics_95	Official patch for speed throttling and digital joysticks	WACPatch.zip

@@ -1,0 +1,14 @@
+
+emulator	xcade_unix	linux	Xcade_v0.85	\N	\N	\N	Xcade (Unix)	0.85	25/04/1997	Linux	Classics like Phoenix, Donkey Kong, Pac-Man and Space Invaders	\N	Dormant
+emulator_homepage	xcade_unix	\N	none
+emulator_author_link	xcade_unix	jeff_mitchell	\N	author
+
+emulator_features	xcade_unix	No	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	xcade_unix	Keyboard
+emulator_author_link	xcade_unix	maximum_entropy	Patches for Space Invaders Deluxe and Lunar Rescue	contributor
+
+emulator_relative_link	xcade_unix	xcade	port
+
+emulator_relative_link	xcade_unix	xcade_palmos	port
+
+emulator_file	xcade_unix	Emulator (fixed archive, many on the web are corrupt)	xcade085_fixed.tgz

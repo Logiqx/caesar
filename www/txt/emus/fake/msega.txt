@@ -1,0 +1,13 @@
+
+emulator	msega	fake	empty	\N	\N	\N	MSega	1.0	23/10/2006	Windows	Sega Model 2	A cheap hack of ElSemi's Sega Model 2 Emulator, claim to be a new Model 2 emulator. Note from Pi... Comparing Model 2 Emulator. v0.1 alpha versus MSega whateverversion.crap. The Hex Workshop comparison shown, only matches, gives two main sections, one A1F8F bytes long and another one 6BDD4 bytes long, both at the same offsets in each file. That means that only two sections give 1105251 matching bytes. The emulators are roughly 1114112 bytes long, so 99% of them are exactly the same.	Discontinued
+emulator_homepage	msega	http://mohvijan.tripod.com	bad
+emulator_author_link	msega	mohanish_vijan	\N	author
+
+emulator_tool_link	msega	msvc
+emulator_tool_link	msega	zlib
+emulator_features	msega	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	msega	Keyboard
+emulator_controller	msega	Joystick
+emulator_relative_link	msega	segamodel2emulator	derivative_of
+
+emulator_file	msega	Emulator	MSega.zip

@@ -1,0 +1,11 @@
+
+emulator	nemesis_mac	mac	dummy	\N	\N	\N	Nemesis Emulator (Mac)	0.9	26/03/1997	Mac	Nemesis (Konami)	This emulator (allegedly) plays the game Nemesis almost flawlessly. There is no sound support, but everything else is next to perfection.	Discontinued
+emulator_homepage	nemesis_mac	http://www.primenet.com/~bradman/mame	bad
+emulator_author_link	nemesis_mac	brad_oliver	\N	author
+
+emulator_features	nemesis_mac	No	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	nemesis_mac	Keyboard
+emulator_controller	nemesis_mac	Joystick
+emulator_relative_link	nemesis_mac	nemesis	port_of
+
+emulator_file	nemesis_mac	Emulator	Nemesis.sit

@@ -1,0 +1,10 @@
+
+emulator	crazykongemu	single	Crazy_Kong_Emu_Rev_961020	\N	\N	\N	Crazy Kong Emu	961020	20/10/1996	DOS	Crazy Kong (Jeutel)	Bad colours and no sound	Discontinued
+emulator_homepage	crazykongemu	http://www.rocknet.net.au/~moose/	bad
+emulator_author_link	crazykongemu	ville_laitinen	\N	author
+
+emulator_library_link	crazykongemu	z80
+emulator_tool_link	crazykongemu	djgpp
+emulator_features	crazykongemu	No	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	crazykongemu	Keyboard
+emulator_file	crazykongemu	Emulator	ckemu03.zip

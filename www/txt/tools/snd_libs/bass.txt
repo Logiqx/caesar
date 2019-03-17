@@ -1,0 +1,6 @@
+
+tool	bass	snd_libs	BASS	1.5a	14/04/2002	BASS is a sound system for use in Windows 95/98/2000/NT software. It's purpose is to provide powerful (yet easy to use) sample, stream, MOD music, and audio CD playback functions.
+tool_homepage	bass	http://www.un4seen.com/music/	\N
+tool_author_link	bass	ian_luck
+tool_emulator_link	bass	wingorf
+tool_file	bass	BASS Distribution	bass15.zip

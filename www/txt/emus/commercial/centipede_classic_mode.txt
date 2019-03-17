@@ -1,0 +1,12 @@
+
+emulator	centipede_classic_mode	commercial	Centipede_Classic_Mode	\N	\N	\N	Centipede Classic Mode	-	1999	Windows	Centipede (Atari)	The 'classic mode' version of Centipede for Hasbro Interactive's Centipede release.	Released
+emulator_homepage	centipede_classic_mode	http://www.digitaleclipse.com	\N
+emulator_author_link	centipede_classic_mode	hasbro_interactive	\N	author
+
+emulator_features	centipede_classic_mode	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	centipede_classic_mode	Keyboard
+emulator_controller	centipede_classic_mode	Joystick
+emulator_controller	centipede_classic_mode	Mouse
+emulator_author_link	centipede_classic_mode	digital_eclipse	Development	contributor
+
+emulator_relative_link	centipede_classic_mode	centipede_classic_mode_dc	port

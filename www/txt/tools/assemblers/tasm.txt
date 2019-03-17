@@ -1,0 +1,7 @@
+
+tool	tasm	assemblers	TASM	3.1	28/02/1998	TASM is a table-driven cross assembler originally for the MS-DOS environment, and now also for LINUX
+tool_homepage	tasm	http://www.halcyon.com/squakvly/	\N
+tool_author_link	tasm	squak_valley
+tool_library_link	tasm	n6502
+tool_file	tasm	TASM for DOS	tasm31.zip
+tool_file	tasm	TASM for Linux	tasm31.taz

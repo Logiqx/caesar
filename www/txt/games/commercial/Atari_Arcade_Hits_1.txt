@@ -1,0 +1,6 @@
+Atari_Arcade_Hits_1	asteroid	asteroid2	m	
+Atari_Arcade_Hits_1	pong	pong	n	
+Atari_Arcade_Hits_1	centiped	centiped	m	
+Atari_Arcade_Hits_1	missile	missile	m	
+Atari_Arcade_Hits_1	sbrkout	sbrkout	m	
+Atari_Arcade_Hits_1	tempest	tempest	m	

@@ -1,0 +1,9 @@
+
+tool_contents	gfx_libs	Graphics Libraries	Here are the graphics libraries commonly used by emulation authors
+tool_contents_tool_link	gfx_libs	allegro
+tool_contents_tool_link	gfx_libs	eagle
+tool_contents_tool_link	gfx_libs	kos
+tool_contents_tool_link	gfx_libs	libpng
+tool_contents_tool_link	gfx_libs	openxdk
+tool_contents_tool_link	gfx_libs	retrofx
+tool_contents_tool_link	gfx_libs	sdl

@@ -1,0 +1,102 @@
+game	Capcom_Play_System_3_Emulator_v1.0a	jojoba	\N	\N	\N	\N	\N	JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	29f400.u2	\N	\N	524288	4dab19f5	ba07190e7662937fc267f07285c51e99a45c061e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	10	\N	\N	8388608	6e2490f6	75cbf1e39ad6362a21c937c827e492d927b7cf39	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	20	\N	\N	8388608	1293892b	b1beafac1a9c4b6d0640658af8a3eb359e76eb25	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	30	\N	\N	8388608	d25c5005	93a19a14783d604bb42feffbe23eb370d11281e8	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	31	\N	\N	8388608	51bb3dba	39e95a05882909820b3efa6a3b457b8574012638	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	40	\N	\N	8388608	94dc26d4	5ae2815142972f322886eea4885baf2b82563ab1	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	41	\N	\N	8388608	1c53ee62	e096bf3cb6fbc3d45955787b8f3213abcd76d120	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	50	\N	\N	8388608	36e416ed	58d0e95cc13f39bc171165468ce72f4f17b8d8d6	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoba	51	\N	\N	8388608	eedf19ca	a7660bf9ff87911afb4f83b64456245059986830	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	jojo	\N	\N	\N	\N	\N	JoJo's Venture / JoJo no Kimyouna Bouken	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	29f400.u2	\N	\N	524288	02778f60	a167f9ebe030592a0cdb0c6a3c75835c6a43be4c	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	10	\N	\N	8388608	e40dc123	517e7006349b5a8fd6c30910362583f48d009355	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	20	\N	\N	8388608	0571e37c	1aa28ef6ea1b606a55d0766480b3ee156f0bca5a	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	30	\N	\N	8388608	1d99181b	25c216de16cefac2d5892039ad23d07848a457e6	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	31	\N	\N	8388608	6889fbda	53a51b993d319d81a604cdf70b224955eacb617e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	40	\N	\N	8388608	8069f9de	7862ee104a2e9034910dd592687b40ebe75fa9ce	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	41	\N	\N	8388608	9c426823	1839dccc7943a44063e8cb2376cd566b24e8b797	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojo	50	\N	\N	4194304	1c749cc7	23df741360476d8035c68247e645278fbab53b59	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	\N	\N	jojo	jojo	\N	JoJo's Venture / JoJo no Kimyouna Bouken (Alt)	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	29f400.u2	29f400.u2	\N	524288	02778f60	a167f9ebe030592a0cdb0c6a3c75835c6a43be4c	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	10	\N	\N	8388608	bc612872	18930f2906176b54a9b8bec56f06dda3362eb418	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	20	\N	\N	8388608	0e1daddf	34bb4e0fb86258095a7b20f60174453195f3735a	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	30	30	\N	8388608	1d99181b	25c216de16cefac2d5892039ad23d07848a457e6	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	31	31	\N	8388608	6889fbda	53a51b993d319d81a604cdf70b224955eacb617e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	40	40	\N	8388608	8069f9de	7862ee104a2e9034910dd592687b40ebe75fa9ce	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	41	41	\N	8388608	9c426823	1839dccc7943a44063e8cb2376cd566b24e8b797	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoalt	50	50	\N	4194304	1c749cc7	23df741360476d8035c68247e645278fbab53b59	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	\N	\N	\N	\N	\N	Street Fighter III 2nd Impact: Giant Attack	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	29f400.u2	\N	\N	524288	faea0a3e	a03cd63bcf52e4d57f7a598c8bc8e243694624ec	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	10	\N	\N	8388608	682b014a	abd5785f4b7c89584d6d1cf6fb61a77d7224f81f	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	20	\N	\N	8388608	38090460	aaade89b8ccdc9154f97442ca35703ec538fe8be	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	30	\N	\N	8388608	77c197c0	944381161462e65de7ae63a656658f3fbe44727a	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	31	\N	\N	8388608	7470a6f2	850b2e20afe8a5a1f0d212d9abe002cb5cf14d22	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	40	\N	\N	8388608	01a85ced	802df3274d5f767636b2785606e0558f6d3b9f13	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	41	\N	\N	8388608	fb346d74	57570f101a170aa7e83e84e4b7cbdc63a11a486a	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	50	\N	\N	8388608	32f79449	44b1f2a640ab4abc23ff47e0edd87fbd0b345c06	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2	51	\N	\N	8388608	1102b8eb	c7dd2ee3a3214c6ec47a03fe3e8c941775d57f76	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	\N	\N	\N	\N	\N	Street Fighter III 3rd Strike: Fight for the Future	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	sf33usa.bin	\N	\N	524288	ecc545c1	e39083820aae914fd8b80c9765129bedb745ceba	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	10	\N	\N	8388608	77233d39	59c3f890fdc33a7d8dc91e5f9c4e7b7019acfb00	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	20	\N	\N	8388608	5ca8faba	71c12638ae7fa38b362d68c3ccb4bb3ccd67f0e9	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	30	\N	\N	8388608	b37cf960	60310f95e4ecedee85846c08ccba71e286cda73b	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	31	\N	\N	8388608	450ec982	1cb3626b8479997c4f1b29c41c81cac038fac31b	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	40	\N	\N	8388608	632c965f	9a46b759f5dee35411fd6446c2457c084a6dfcd8	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	41	\N	\N	8388608	7a4c5f33	f33cdfe247c7caf9d3d394499712f72ca930705e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	50	\N	\N	8388608	8562358e	8ed78f6b106659a3e4d94f38f8a354efcbdf3aa7	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	51	\N	\N	8388608	7baf234b	38feb45d6315d771de5f9ae965119cb25bae2a1e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	60	\N	\N	8388608	bc9487b7	bc2cd2d3551cc20aa231bba425ff721570735eba	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3	61	\N	\N	8388608	b813a1b1	16de0ee3dfd6bf33d07b0ff2e797ebe2cfe6589e	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	\N	\N	sfiii3	sfiii3	\N	Street Fighter III 3rd Strike: Fight for the Future (Alt)	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	sf33usa.bin	sf33usa.bin	\N	524288	ecc545c1	e39083820aae914fd8b80c9765129bedb745ceba	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	10	\N	\N	8388608	ba7f76b2	6b396596dea009b34af17484919ae37eda53ec65	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	20	20	\N	8388608	5ca8faba	71c12638ae7fa38b362d68c3ccb4bb3ccd67f0e9	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	30	30	\N	8388608	b37cf960	60310f95e4ecedee85846c08ccba71e286cda73b	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	31	31	\N	8388608	450ec982	1cb3626b8479997c4f1b29c41c81cac038fac31b	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	40	40	\N	8388608	632c965f	9a46b759f5dee35411fd6446c2457c084a6dfcd8	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	41	41	\N	8388608	7a4c5f33	f33cdfe247c7caf9d3d394499712f72ca930705e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	50	50	\N	8388608	8562358e	8ed78f6b106659a3e4d94f38f8a354efcbdf3aa7	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	51	51	\N	8388608	7baf234b	38feb45d6315d771de5f9ae965119cb25bae2a1e	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	60	60	\N	8388608	bc9487b7	bc2cd2d3551cc20aa231bba425ff721570735eba	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3a	61	61	\N	8388608	b813a1b1	16de0ee3dfd6bf33d07b0ff2e797ebe2cfe6589e	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii	\N	\N	\N	\N	\N	Street Fighter III: New Generation	1997	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	29f400.u2	\N	\N	524288	74205250	c3e83ace7121d32da729162662ec6b5285a31211	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	10	\N	\N	8388608	e896dc27	47623820c64b72e69417afcafaacdd2c318cde1c	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	30	\N	\N	8388608	98c2d07c	604ce4a16170847c10bc233a47a47a119ce170f7	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	31	\N	\N	8388608	7115a396	b60a74259e3c223138e66e68a3f6457694a0c639	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	40	\N	\N	8388608	839f0972	844e43fcc157b7c774044408bfe918c49e174cdb	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	41	\N	\N	8388608	8a8b252c	9ead4028a212c689d7a25746fbd656dca6f938e8	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii	50	\N	\N	4194304	58933dc2	1f1723be676a817237e96b6e20263b935c59daae	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	warzard	\N	\N	\N	\N	\N	Warzard / Red Earth	1996	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	29f400.u2	\N	\N	524288	f8e2f0c6	93d6a986f44c211fff014e55681eca4d2a2774d6	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	10	\N	\N	8388608	68188016	93aaac08cb5566c33aabc16457085b0a36048019	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	30	\N	\N	8388608	074cab4d	4cb6cc9cce3b1a932b07058a5d723b3effa23fcf	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	31	\N	\N	8388608	14e2cad4	9958a4e315e4476e4791a6219b93495413c7b751	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	40	\N	\N	8388608	72d98890	f40926c52cb7a71b0ef0027a0ea38bbc7e8b31b0	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	41	\N	\N	8388608	88ccb33c	1e7af35d186d0b4e45b6c27458ddb9cfddd7c9bc	\N	\N	\N	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzard	50	\N	\N	4194304	2f5b44bd	7ffdbed5b6899b7e31414a0828e04543d07435e4	\N	\N	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	jojobachd	\N	\N	jojoba	jojoba	\N	JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (CHD)	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojobachd	29f400.u2	29f400.u2	\N	524288	4dab19f5	ba07190e7662937fc267f07285c51e99a45c061e	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	jojobachd	jjm000	\N	688520bb83ccbf4b31c3bfe26bd0cc8292a8c558	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	jojoaltchd	\N	\N	jojo	jojo	\N	JoJo's Venture / JoJo no Kimyouna Bouken (Alt) (CHD)	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojoaltchd	29f400.u2	29f400.u2	\N	524288	02778f60	a167f9ebe030592a0cdb0c6a3c75835c6a43be4c	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	jojoaltchd	cap-jjk-160	\N	74fb14d838d98c3e10baa08e6f7b2464d840dcf0	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	jojochd	\N	\N	jojo	jojo	\N	JoJo's Venture / JoJo no Kimyouna Bouken (CHD)	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	jojochd	29f400.u2	29f400.u2	\N	524288	02778f60	a167f9ebe030592a0cdb0c6a3c75835c6a43be4c	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	jojochd	jjk000	\N	d5a11315ac21e573ffe78e63602ec2cb420f361f	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii2chd	\N	\N	sfiii2	sfiii2	\N	Street Fighter III 2nd Impact: Giant Attack (CHD)	1998	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii2chd	29f400.u2	29f400.u2	\N	524288	faea0a3e	a03cd63bcf52e4d57f7a598c8bc8e243694624ec	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	sfiii2chd	3ga000	\N	76e9fdef020c4b85a10aa8828a63e67c7dca22bd	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii3achd	\N	\N	sfiii3	sfiii3	\N	Street Fighter III 3rd Strike: Fight for the Future (Alt) (CHD)	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3achd	sf33usa.bin	sf33usa.bin	\N	524288	ecc545c1	e39083820aae914fd8b80c9765129bedb745ceba	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	sfiii3achd	cap-33s-2	\N	24e78b8c66fb1573ffd642ee51607f3b53ed40b7	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiii3chd	\N	\N	sfiii3	sfiii3	\N	Street Fighter III 3rd Strike: Fight for the Future (CHD)	1999	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiii3chd	sf33usa.bin	sf33usa.bin	\N	524288	ecc545c1	e39083820aae914fd8b80c9765129bedb745ceba	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	sfiii3chd	33s000	\N	47c7ae0f2dc47c7d28bdf66d378a3aaba4c99c75	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	sfiiichd	\N	\N	sfiii	sfiii	\N	Street Fighter III: New Generation (CHD)	1997	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	sfiiichd	29f400.u2	29f400.u2	\N	524288	74205250	c3e83ace7121d32da729162662ec6b5285a31211	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	sfiiichd	sf3000	\N	cc72c9eb2096f4d51f2cf6df18f29fd79d05067c	\N	\N	\N	\N	
+game	Capcom_Play_System_3_Emulator_v1.0a	warzardchd	\N	\N	warzard	warzard	\N	Warzard / Red Earth (CHD)	1996	Capcom	\N	\N	\N	
+game_rom	Capcom_Play_System_3_Emulator_v1.0a	warzardchd	29f400.u2	29f400.u2	\N	524288	f8e2f0c6	93d6a986f44c211fff014e55681eca4d2a2774d6	\N	\N	\N	\N	\N	\N	
+game_disk	Capcom_Play_System_3_Emulator_v1.0a	warzardchd	wzd000	\N	6d4e6b7fff4ff3f04e349479fa5a1cbe63e673b8	\N	\N	\N	\N	

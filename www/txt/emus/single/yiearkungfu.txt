@@ -1,0 +1,8 @@
+
+emulator	yiearkungfu	single	Yie_Ar_Kung-Fu_Emulator_v0.48	\N	\N	\N	Yie Ar Kung-Fu Arcade Machine Emulator	0.48	23/07/1997	DOS	Yie Ar Kung-Fu (Konami)	Janne's second emulator	Dormant
+emulator_homepage	yiearkungfu	http://home5.swipnet.se/~w-50884/emulator/emulator.htm	\N
+emulator_author_link	yiearkungfu	janne_korpela	\N	author
+
+emulator_features	yiearkungfu	No	No	No	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	yiearkungfu	Keyboard
+emulator_file	yiearkungfu	Emulator	yem048.zip

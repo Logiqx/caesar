@@ -1,0 +1,11 @@
+
+emulator	ikari	single	Ikari_Warriors_Emulator_v0.49b	\N	\N	\N	Ikari Warriors Arcade Machine Emulator	0.49b	22/08/1997	DOS	Ikari Warriors (originally by SNK)	Janne's third emulator. Requires bootleg ROMset of Ikari Warriors. Ikari Warriors is also supported by RAGE.	Incorporated into RAGE
+emulator_homepage	ikari	http://home5.swipnet.se/~w-50884/emulator/emulator.htm	\N
+emulator_author_link	ikari	janne_korpela	\N	author
+
+emulator_library_link	ikari	maze
+emulator_features	ikari	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	ikari	Keyboard
+emulator_relative_link	ikari	rage	successor
+
+emulator_file	ikari	Emulator	iwem049b.zip

@@ -1,0 +1,14 @@
+
+emulator	dtmnt	single	DTmnt_v0.55_Beta	\N	\N	\N	DTmnt (Dave's TMNT emulator)	0.55 beta	07/12/1998	DOS	Teenage Mutant Ninja Turtles (Konami)	Supports four TMNT sets (US/Japan 2P/4P). Samples are available on the web but are NOT needed.	Dormant
+emulator_homepage	dtmnt	http://www.dtmnt.com/dtmnt.htm	bad
+emulator_author_link	dtmnt	dave_dtmnt	\N	author
+
+emulator_tool_link	dtmnt	djgpp
+emulator_tool_link	dtmnt	allegro
+emulator_features	dtmnt	Yes	Yes	Yes	No	Yes	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	dtmnt	Keyboard
+emulator_controller	dtmnt	Joystick
+emulator_controller	dtmnt	Mouse
+emulator_relative_link	dtmnt	dtmnt054	alt_version
+
+emulator_file	dtmnt	Emulator (Beta version)	dtmnt055.zip

@@ -1,0 +1,3 @@
+
+author	xmame_ps2	XMAME for PS2	\N
+author_emulator_link	xmame_ps2	xmame_ps2	author

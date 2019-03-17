@@ -1,0 +1,12 @@
+
+author	jose_tejada_gomez	Jos&eacute; Tejada G&oacute;mez	Spanish document on how to make arcade emulators and how arcade systems work available at http://webs.ono.com/usr002/jotego/recreativas.pdf
+author_email	jose_tejada_gomez	jotego@iespana.es
+author_email	jose_tejada_gomez	jotego@teleco.upv.es
+author_email	jose_tejada_gomez	combatschool@hotmail.com
+author_emulator_link	jose_tejada_gomez	combatschool	author
+
+author_emulator_link	jose_tejada_gomez	grytra	author
+
+author_emulator_link	jose_tejada_gomez	mapefer3	author
+
+author_library_link	jose_tejada_gomez	6809

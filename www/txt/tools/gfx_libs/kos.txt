@@ -1,0 +1,9 @@
+
+tool	kos	gfx_libs	KOS (KallistiOS)	1.1.7	20/04/2002	KallistiOS is a pseudo-real-time pseudo-microkernel operating system for gaming consoles, licensed under the terms of the *new* BSD license (the one without the advertising clause). It has currently been ported to the Dreamcast* and Gameboy Advance* platforms.
+tool_homepage	kos	http://dcdev.allusion.net/	\N
+tool_homepage	kos	http://sourceforge.net/projects/cadcdev/	\N
+tool_author_link	kos	dan_potter
+tool_emulator_link	kos	dreampac
+tool_emulator_link	kos	mamedc
+tool_emulator_link	kos	mamed_dc
+tool_emulator_link	kos	multipac_dc

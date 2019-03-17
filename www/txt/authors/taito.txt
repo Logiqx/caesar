@@ -1,0 +1,8 @@
+
+author	taito	Taito	\N
+author_homepage	taito	http://www.taito.co.jp/eng/	\N
+author_emulator_link	taito	taito_legends	author
+
+author_emulator_link	taito	taito_legends_ps2	author
+
+author_emulator_link	taito	taito_legends_xbox	author

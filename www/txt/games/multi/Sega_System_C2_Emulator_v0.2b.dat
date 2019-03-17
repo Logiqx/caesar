@@ -1,0 +1,90 @@
+game	Sega_System_C2_Emulator_v0.2b	bloxeedc	\N	\N	\N	\N	\N	Bloxeed (US/Europe, C2 Version)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	bloxeedc	12907.bin	\N	\N	131072	e5fcbac6	a1adec5ef5574bff96a3d66619a24a6715097bb9	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	bloxeedc	12908.bin	\N	\N	131072	fc77cb91	248a462e3858ffdc171af7d806e57deecb5dae50	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	bloxeedc	12992.bin	\N	\N	131072	19b0084c	b3ba0f3d8d39a19aa66edb24885ea21192e22704	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	bloxeedc	12993.bin	\N	\N	131072	487bc8fc	3fb205bf56f35443e993e08b39c1a08c13ca5e3b	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	borench	\N	\N	\N	\N	\N	Borench	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	borench	ic31.bin	\N	\N	262144	b46445fc	24e85ef5abbc5376a854b13ed90f08f0c30d7f25	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	borench	ic32.bin	\N	\N	262144	2c54457d	adf3ea5393d2633ec6215e64f0cd89ad4567e765	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	borench	ic4.bin	\N	\N	131072	62b85e56	822ab733c87938bb70a9e32cc5dd36bbf6f21d11	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	columns	\N	\N	\N	\N	\N	Columns (Japan)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	columns	epr13111.31	\N	\N	131072	aa5ccd6d	480e29e3112282d1790f1fb68075453325ba4336	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	columns	epr13112.32	\N	\N	131072	bae6e53e	2c2fd621eecd55591f22d076323972a7d0314615	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	columns2	\N	\N	\N	\N	\N	Columns II - The Voyage Through Time (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	columns2	epr13360.rom	\N	\N	131072	a59b1d4f	e9ee315677782e1c61ae8f11260101cc03176188	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	columns2	epr13361.rom	\N	\N	131072	b54b5f12	4d7fbae7d9bcadd433ebc25aef255dc43df611bc	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	ichident	\N	\N	\N	\N	\N	Ichident-R (Puzzle & Action 2) (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	ichident	epr16884	\N	\N	524288	fd9dcdd6	b8053a2e68072e7664ffc3c53f983f3ba72a892b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	ichident	epr16885	\N	\N	524288	1ce4e837	16600600e12e3f35e3da89524f7f51f019b5ad17	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	ichident	epr16886	\N	\N	524288	38208e28	07fc634bdf2d3e25274c9c374b3506dec765114c	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	ichident	epr16887	\N	\N	524288	bc3bbf25	e760ad400bc183b38e9787d88c8ac084fbe2ae21	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	ichident	epr16888	\N	\N	524288	85d73722	7ebe81b4d6c89f87f60200a3a8cddb07d581adef	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	potopoto	\N	\N	\N	\N	\N	PotoPoto (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	potopoto	epr16660	\N	\N	262144	8251c61c	03eef3aa0bdde2c1d93128648f54fd69278d85dd	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	potopoto	epr16661	\N	\N	262144	5a7d14f4	a615b5f481256366db7b1c6302a8dcb69708102b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	potopoto	epr16662	\N	\N	262144	bbd305d6	1a4f4869fefac188c69bc67df0b625e43a0c3f1f	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	puyopuy2	\N	\N	\N	\N	\N	Puyo Puyo 2 (Expert?) (Japan)	1994	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuy2	pp2.32	\N	\N	524288	1cad1149	77fb0482fa35e615c0bed65f4d7f4dd89b241f23	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuy2	pp2.31	\N	\N	524288	beecf96d	c2bdad4b6184c11f81f2a5db409cb4ea186205a7	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuy2	pp2.4	\N	\N	524288	020ff6ef	6095b8277b47a6fd7a9721f15a70ae5bf6be9b1a	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	puyopuyo	\N	\N	\N	\N	\N	Puyo Puyo (Program Revision ?, Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuyo	epr15034	\N	\N	131072	5688213b	f3f234e482871ca903a782e51008f3bfed04ee63	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuyo	epr15035	\N	\N	131072	bc62e400	12bb6031574838a28889f6edb31dbb689265287c	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuyo	epr15036	\N	\N	131072	5310ca1b	dcfe2bf7476b640dfb790e8716e75b483d535e48	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuyo	epr15037	\N	\N	131072	be2f7974	77027ced7a62f94e9fc6e8a0a4ac0c62f7ea813b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuyo	epr15038	\N	\N	131072	3b9eea0c	e3e6148c1769834cc0061932eb035daa79673144	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	puyopuya	\N	\N	puyopuyo	puyopuyo	\N	Puyo Puyo (Program Revsion A, Japan)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuya	epr15034	epr15034	\N	131072	5688213b	f3f234e482871ca903a782e51008f3bfed04ee63	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuya	ep15035a.31	\N	\N	131072	dfebb6d9	6f685729ef4660c2eba409c5236c6d2f313eef5b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuya	ep15036a.32	\N	\N	131072	61b35257	e09a7e992999befc88fc7928a478d1e2d14d7b08	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuya	epr15037	epr15037	\N	131072	be2f7974	77027ced7a62f94e9fc6e8a0a4ac0c62f7ea813b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	puyopuya	epr15038	epr15038	\N	131072	3b9eea0c	e3e6148c1769834cc0061932eb035daa79673144	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	stkclmns	\N	\N	\N	\N	\N	Stack Columns (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	stkclmns	epr16793.4	\N	\N	131072	ebb2d057	4a19ee5d71e4aabe7d9b9b968ab5ee4bc6262aad	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	stkclmns	epr16794.31	\N	\N	524288	6d0e8c56	8f98d9fd98a1faa70b173cfd72f15102d11e79ae	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	stkclmns	epr16795.32	\N	\N	524288	b478fd02	aaf9d9f9f4dc900b4e8ff6f258f26e782e5c3166	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	stkclmns	mpr16796.33	\N	\N	524288	ec7de52d	85bc48cef15e615ad9059500808d17916c854a87	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	stkclmns	mpr16797.34	\N	\N	524288	b28e9bd5	227eb591d10c9dbc52b35954ebd322e2a4451df2	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	tantr	\N	\N	\N	\N	\N	Tant-R (Puzzle & Action) (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantr	epr15614.32	\N	\N	524288	557782bc	1546a999ab97c380dc87f6c95d5687722206740d	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantr	epr15613.31	\N	\N	524288	14bbb235	8dbfec5fb1d7a695acbb2fc0e78e4bdf76eb8d9d	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantr	mpr15616.34	\N	\N	524288	17b80202	f47bf2aa0c5972647438619b8453c7dede5c422f	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantr	mpr15615.33	\N	\N	524288	36a88bd4	cc7f6a947d1b79bb86957c43035b53d6d2bcfa28	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantr	epr15617.4	\N	\N	262144	338324a1	79e2782d0d4764dd723886f846c852a6f6c1fb64	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	tantrbl	\N	\N	tantr	tantr	\N	Tant-R (Puzzle & Action) (Japan, Bootleg?)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	pa_e10.bin	\N	\N	524288	6c3f711f	55aa2d50422134b95d9a7c5cbdc453b207b91b4c	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	pa_f11.bin	\N	\N	524288	75526786	8f5aa7f6918b71a79e6fca18194beec2aef15844	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	mpr15616.34	mpr15616.34	\N	524288	17b80202	f47bf2aa0c5972647438619b8453c7dede5c422f	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	mpr15615.33	mpr15615.33	\N	524288	36a88bd4	cc7f6a947d1b79bb86957c43035b53d6d2bcfa28	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	pa_e02.bin	\N	\N	131072	4e85b2a3	3f92fb931d315c5a2d6c54b3204718574928cb7b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tantrbl	pa_e03.bin	\N	\N	131072	72918c58	cb42363b163727a887a0b762519c72dcdf0a6460	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	tforceac	\N	\N	\N	\N	\N	Thunder Force AC (US/Europe)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tforceac	ic31.bin	\N	\N	262144	e63d7f1a	a40d0a5a96f379a467048dc8fddd8aaaeb94da1d	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tforceac	ic32.bin	\N	\N	262144	95ecf202	92b0f351f2bee7d59873a4991615f14f1afe4da7	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tforceac	ic33.bin	\N	\N	262144	9e23734f	64d27dc53f0ffc3513345a26ed077751b25d15f1	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tforceac	ic34.bin	\N	\N	262144	29f23461	032a7125fef5a660b85654d595aafc46812cdde6	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tforceac	ic4.bin	\N	\N	262144	e09961f6	e109b5f41502b765d191f22e3bbcff97d6defaa1	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	tfacjp	\N	\N	tforceac	tforceac	\N	Thunder Force AC (Japan)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacjp	epr13656.31	\N	\N	262144	b9438d1e	598209c9fec3527fde720af09e5bebd7379f5b2b	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacjp	epr13657.32	\N	\N	262144	a0f38ffd	da548e7f61aed0e82a460553a119941da8857bc4	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacjp	ic33.bin	ic33.bin	\N	262144	9e23734f	64d27dc53f0ffc3513345a26ed077751b25d15f1	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacjp	ic34.bin	ic34.bin	\N	262144	29f23461	032a7125fef5a660b85654d595aafc46812cdde6	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacjp	ic4.bin	ic4.bin	\N	262144	e09961f6	e109b5f41502b765d191f22e3bbcff97d6defaa1	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	tfacbl	\N	\N	tforceac	tforceac	\N	Thunder Force AC (US/Europe, Bootleg)	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	1.bin	\N	\N	131072	4e2ca65a	1879cca2ad6be9ce776217f6d0ca2846dcdefa1f	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	2.bin	\N	\N	131072	07ae0ff9	e8384748e534d83822575cbc79485f107be4a388	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	3.bin	\N	\N	262144	3e5dc542	4a66dc842afaa145dab82b232738eea107bdf0f8	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	ic33.bin	ic33.bin	\N	262144	9e23734f	64d27dc53f0ffc3513345a26ed077751b25d15f1	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	ic34.bin	ic34.bin	\N	262144	29f23461	032a7125fef5a660b85654d595aafc46812cdde6	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	tfacbl	4.bin	\N	\N	262144	eba059d3	7bc04401f9a138fa151ac09a528b70acfb2021e3	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	zunkyou	\N	\N	\N	\N	\N	Zunzunkyou No Yabou (Japan)	19??	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	zunkyou	epr16810.4	\N	\N	524288	d542f0fe	23ea50110dfe1cd9f286a535d15e0c3bcba73b00	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	zunkyou	epr16811.31	\N	\N	524288	9ac7035b	1803ffbadc1213e04646d483e27da1591e22cd06	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	zunkyou	epr16812.32	\N	\N	524288	eb088fb0	69089a3516ad50f35e81971ef3c33eb3f5d52374	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	zunkyou	epr16813.33	\N	\N	524288	3cba9e8f	208819bc1a205eaab089542afc7a59f69ce5bb81	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	zunkyou	epr16814.34	\N	\N	524288	821b3b77	c45c7393a792ce8306a52f83f8ed8f6b0d7c11e9	\N	\N	\N	\N	\N	\N	
+game	Sega_System_C2_Emulator_v0.2b	spainpa	\N	\N	\N	\N	\N	SpainDumps Dump of Puzzle & Action - Bad?	1990	Sega	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	spainpa	pa_1.bin	\N	\N	262144	2df4d58a	0d5fc31a0fb51870733bb0b66feb0d03f1b55bf3	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	spainpa	pa_2.bin	\N	\N	262144	1feebeb3	3b664f5868b0b0152cf5cc8e3179b0d42700fa66	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	spainpa	pa_3.bin	\N	\N	262144	54c3afcf	397acd9a436623a05046ba330f467e0e64c1b58f	\N	\N	\N	\N	\N	\N	
+game_rom	Sega_System_C2_Emulator_v0.2b	spainpa	pa_4.bin	\N	\N	262144	5bab3b24	20e521177bab1af7ba1c015110a91d5c99da01de	\N	\N	\N	\N	\N	\N	

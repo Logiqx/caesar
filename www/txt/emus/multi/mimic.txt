@@ -1,0 +1,11 @@
+
+emulator	mimic	multi	Mimic_v2.11	\N	\N	\N	Mimic	2.11	02/12/2002	DOS	Z80 and 68000 based arcade games and a few consoles/handhelds (Sega Master System, GameBoy, Game Gear etc)	Additional games are added using HWC drivers (text files)	Dormant
+emulator_homepage	mimic	http://mimic.arcadeheaven.com/	\N
+emulator_author_link	mimic	mike_beaver	\N	author
+
+emulator_tool_link	mimic	djgpp
+emulator_features	mimic	No	No	Yes	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	mimic	Keyboard
+emulator_controller	mimic	X-Arcade
+emulator_file	mimic	Emulator	mimic211.zip
+emulator_file	mimic	HWC Files (game drivers)	hwc210.zip

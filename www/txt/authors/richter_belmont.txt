@@ -1,0 +1,18 @@
+
+author	richter_belmont	Richter Belmont	\N
+author_homepage	richter_belmont	http://rbelmont.mameworld.info/	\N
+author_emulator_link	richter_belmont	gxp	author
+
+author_emulator_link	richter_belmont	gxp_linux	author
+
+author_emulator_link	richter_belmont	m1	author
+
+author_emulator_link	richter_belmont	m1_linux	author
+
+author_emulator_link	richter_belmont	modeler	author
+
+author_emulator_link	richter_belmont	modeler_linux	author
+
+author_emulator_link	richter_belmont	zinc	author
+
+author_emulator_link	richter_belmont	zinc_linux	author

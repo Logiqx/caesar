@@ -1,0 +1,22 @@
+game	Mr._Do!_Arcade_Machine_Emulator	mrdo	\N	\N	\N	\N	\N	Mr. Do! (Taito)	1982	Universal (Taito license)	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d1	\N	\N	8192	3dcd9359	bfe00450ee8822f437d87514f051ad1be6de9463	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d2	\N	\N	8192	710058d8	168cc179f2266bbf9437445bef9ff7d3358a8e6b	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d3	\N	\N	8192	467d12d8	7bb85e6a780de1c0c224229ee571cab39098f78d	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d4	\N	\N	8192	fce9afeb	26236a42c1c620975d4480c4315d0c6f112429b6	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d9	\N	\N	4096	de4cfe66	c217dcc24305f3b4badfb778a1cf4e57c178d168	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d10	\N	\N	4096	a6c2f38b	7c132771bf385c8ed28d8c8bdfc3dbf0b4aa75e8	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d8	\N	\N	4096	dbdc9ffa	93f29fc106283eecbba3fd69cf3c4658aa38ab9f	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d7	\N	\N	4096	4b9973db	8766c51a345a5e63446e65614c6f665ab5fbe0d7	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d5	\N	\N	4096	e1218cc5	d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrdo	d6	\N	\N	4096	b1f68b04	25709cd81c03df51f27cd730fecf86a1daa9e27e	\N	\N	\N	\N	\N	\N	
+game	Mr._Do!_Arcade_Machine_Emulator	mrlo	\N	\N	\N	\N	\N	Mr. Lo!	1982	bootleg	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	a4-01.bin	\N	\N	8192	6f455e7d	82fbe05229f19fb849c90b41e3365be74f4f448f	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	c4-02.bin	\N	\N	8192	710058d8	168cc179f2266bbf9437445bef9ff7d3358a8e6b	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	e4-03.bin	\N	\N	8192	3a7d039b	ac87a3c9fa6433d1700e858914a995dce35113fa	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	g4-04.bin	\N	\N	8192	49c10274	e94b638f9888ebdff114f80e2c5906bbc81d9c6b	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	s8-09.bin	\N	\N	4096	fdb60d0d	fe3502058a68247e5a55b930136f8d0cb80f894f	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	u8-10.bin	\N	\N	4096	0492c10e	782e541539537ab3f3a590770ca48bdc0fabdc10	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	r8-08.bin	\N	\N	4096	dbdc9ffa	93f29fc106283eecbba3fd69cf3c4658aa38ab9f	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	n8-07.bin	\N	\N	4096	4b9973db	8766c51a345a5e63446e65614c6f665ab5fbe0d7	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	h5-05.bin	\N	\N	4096	e1218cc5	d946613a1cf1c97f7533a4f8c2d0078d1b7daaa8	\N	\N	\N	\N	\N	\N	
+game_rom	Mr._Do!_Arcade_Machine_Emulator	mrlo	k5-06.bin	\N	\N	4096	b1f68b04	25709cd81c03df51f27cd730fecf86a1daa9e27e	\N	\N	\N	\N	\N	\N	

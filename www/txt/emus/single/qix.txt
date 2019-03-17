@@ -1,0 +1,11 @@
+
+emulator	qix	single	Qix_Emulator_v0.1	\N	\N	\N	Qix Emulator	0.1	16/04/1997	DOS	Qix (Taito)	Used Keith Wilkins 6809 emulation code from DVE (Vectrex emulator) as the basis for this project.	Dormant
+emulator_homepage	qix	\N	none
+emulator_author_link	qix	ed_mueller	\N	author
+
+emulator_tool_link	qix	watcom
+emulator_features	qix	No	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	qix	Keyboard
+emulator_author_link	qix	keith_gerdes	Helped get through several tough spots and set the colors properly	contributor
+
+emulator_file	qix	Emulator	Qix Emulator V0.1 [Dos].zip

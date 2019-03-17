@@ -1,0 +1,8 @@
+
+tool_contents	snd_libs	Sound Libraries	Here are the sound libraries commonly used by emulation authors
+tool_contents_tool_link	snd_libs	asgard
+tool_contents_tool_link	snd_libs	bass
+tool_contents_tool_link	snd_libs	midas
+tool_contents_tool_link	snd_libs	qmdx
+tool_contents_tool_link	snd_libs	seal
+tool_contents_tool_link	snd_libs	wavmix

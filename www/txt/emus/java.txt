@@ -1,0 +1,13 @@
+
+emulator_contents	java	Emulators for Java	These emulators are all written in Java. They can therefore be run on any machine that supports Java.
+emulator_contents_emulator_link	java	cottage
+emulator_contents_emulator_link	java	jae
+emulator_contents_emulator_link	java	jape
+emulator_contents_emulator_link	java	java_phoenix_emulator
+emulator_contents_emulator_link	java	java_pleiads_emulator
+emulator_contents_emulator_link	java	jemu
+emulator_contents_emulator_link	java	jemu2
+emulator_contents_emulator_link	java	new_asteroids
+emulator_contents_emulator_link	java	oldspark
+emulator_contents_emulator_link	java	playscott
+emulator_contents_emulator_link	java	potatomulti

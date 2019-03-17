@@ -1,0 +1,10 @@
+
+emulator	fbax	xbox	dummy	\N	\N	\N	FBAx	Beta 2	06/11/2002	X-Box	Capcom CPS-1 and CPS-2 games	X-Box port of FBA.	Active
+emulator_homepage	fbax	http://www.lantus-x.com/fbax/	\N
+emulator_author_link	fbax	tmaul	\N	author
+
+emulator_features	fbax	Yes	No	No	?	?	?	?	?	Yes	Yes	No	No	No
+emulator_controller	fbax	Joypad
+emulator_author_link	fbax	lantus	Development	contributor
+
+emulator_relative_link	fbax	finalburnalpha	port_of

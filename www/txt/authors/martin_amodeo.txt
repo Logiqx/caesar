@@ -1,0 +1,6 @@
+
+author	martin_amodeo	Martin 'The Masked Mallard' Amodeo	\N
+author_email	martin_amodeo	mamedev@stny.rr.com
+author_emulator_link	martin_amodeo	mame_os2	author
+
+author_emulator_link	martin_amodeo	retrocade_os2	author

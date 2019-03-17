@@ -1,0 +1,7 @@
+
+author	brian_mcphail	Brian McPhail	\N
+author_emulator_link	brian_mcphail	taito_legends	contributor
+
+author_emulator_link	brian_mcphail	taito_legends_ps2	contributor
+
+author_emulator_link	brian_mcphail	taito_legends_xbox	contributor

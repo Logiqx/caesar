@@ -1,0 +1,15 @@
+
+emulator	sega_system_24_emulator	multi	Sega_System_24_Emulator_20030208	\N	\N	\N	Sega System 24 Emulator	-	08/02/2003	Windows	Sega System 24 Games	The first emulator to emulate Sega System 24 games.	Dormant
+emulator_homepage	sega_system_24_emulator	http://cgfm2.emuviews.com/	\N
+emulator_author_link	sega_system_24_emulator	charles_mac_donald	\N	author
+
+emulator_library_link	sega_system_24_emulator	musashi
+emulator_tool_link	sega_system_24_emulator	mingw
+emulator_tool_link	sega_system_24_emulator	nasm
+emulator_tool_link	sega_system_24_emulator	sdl
+emulator_tool_link	sega_system_24_emulator	zlib
+emulator_features	sega_system_24_emulator	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	sega_system_24_emulator	Keyboard
+emulator_controller	sega_system_24_emulator	Joystick
+emulator_file	sega_system_24_emulator	Emulator	s24emu-win.zip
+emulator_file	sega_system_24_emulator	Source	s24emu-src.zip

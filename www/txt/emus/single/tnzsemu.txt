@@ -1,0 +1,14 @@
+
+emulator	tnzsemu	single	TNZS-EMU_v2.10b	\N	\N	\N	TNZS-EMU (The NewZealand Story Emulator)	2.21	29/06/2001	DOS	The NewZealand Story (Taito)	Emulator that makes use of the authors own CPU core RAZE	Dormant
+emulator_homepage	tnzsemu	http://etc.home.dhs.org/tnzsemu/	\N
+emulator_author_link	tnzsemu	richard_mitton	\N	author
+
+emulator_library_link	tnzsemu	raze
+emulator_library_link	tnzsemu	snd
+emulator_tool_link	tnzsemu	djgpp
+emulator_tool_link	tnzsemu	allegro
+emulator_features	tnzsemu	Yes	Yes (Older)	Yes	No	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	tnzsemu	Keyboard
+emulator_controller	tnzsemu	Joystick
+emulator_file	tnzsemu	Emulator v2.11	tnzs221.zip
+emulator_file	tnzsemu	Source v2.11	tnzs221s.zip

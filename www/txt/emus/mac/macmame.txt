@@ -1,0 +1,14 @@
+
+emulator	macmame	mac	dummy	\N	\N	\N	MacMAME	0.97u1	14/06/2005	Mac	Emulates far more than anything else!	The latest beta release of MacMAME. Requires a PowerMac to run. French version also available for download.	Unknown
+emulator_homepage	macmame	http://www.macmame.org/	\N
+emulator_author_link	macmame	brad_oliver	\N	author
+
+emulator_author_link	macmame	aaron_giles	\N	author
+
+emulator_features	macmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	macmame	Keyboard
+emulator_controller	macmame	Joystick
+emulator_controller	macmame	Mouse
+emulator_relative_link	macmame	macmultipac	predecessor
+
+emulator_relative_link	macmame	mame	port_of

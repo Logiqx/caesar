@@ -1,0 +1,11 @@
+
+emulator	jumpbug	single	Jump_Bug_Emulator_v0.50	\N	\N	\N	Jump Bug Emulator	0.50	24/03/1997	DOS	Jump Bug (Rockola)	Modified version of MAME (whatever version it was at the time) to support Jump Bug	Discontinued
+emulator_homepage	jumpbug	\N	none
+emulator_author_link	jumpbug	p	\N	author
+
+emulator_tool_link	jumpbug	djgpp
+emulator_tool_link	jumpbug	allegro
+emulator_features	jumpbug	No	No	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	jumpbug	Keyboard
+emulator_controller	jumpbug	Joystick
+emulator_file	jumpbug	Emulator	Jump Bug Emulator V0.50 [Dos].zip

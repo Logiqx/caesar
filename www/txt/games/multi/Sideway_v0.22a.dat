@@ -1,0 +1,138 @@
+game	Sideway_v0.22a	boothill	\N	\N	\N	\N	\N	Boot Hill	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	boothill	romh.cpu	\N	\N	2048	1615d077	e59a26c2f2fc67ab24301e22d2e3f33043acdf72	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	boothill	romg.cpu	\N	\N	2048	65a90420	9f36c44b5ae5b912cdbbeb9ff11a42221b8362d2	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	boothill	romf.cpu	\N	\N	2048	3fdafd79	b18e8ac9df40c4687ac1acd5174eb99f2ef60081	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	boothill	rome.cpu	\N	\N	2048	374529f4	18c57b79df0c66052eef40a694779a5ade15d0e0	\N	\N	\N	\N	\N	\N	
+game_sample	Sideway_v0.22a	boothill	snd2.wav	
+game_sample	Sideway_v0.22a	boothill	snd4.wav	
+game_sample	Sideway_v0.22a	boothill	snd5.wav	
+game_sample	Sideway_v0.22a	boothill	snd6.wav	
+game_sample	Sideway_v0.22a	boothill	snd7.wav	
+game	Sideway_v0.22a	checkmat	\N	\N	\N	\N	\N	Checkmate	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	checkmat	checkmate.h	\N	\N	1024	3481a6d1	f758599d6393398a6a8e6e7399dc1a3862604f65	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	checkmat	checkmate.g	\N	\N	1024	df5fa551	484ff9bfb95166ba09f34c753a7908a73de3cc7d	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	checkmat	checkmate.f	\N	\N	1024	25586406	39e0cf502735819a7e1d933e3686945fcfae21af	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	checkmat	checkmate.e	\N	\N	1024	59330d84	453f95dd31968d439339c41e625481170437eb0f	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	desterth	\N	\N	\N	\N	\N	Destination Earth	1979	bootleg	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	36_h.bin	\N	\N	2048	f86923e5	d19935ba3d2c1c2553b3779f1a7ad8856c003dae	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	35_g.bin	\N	\N	2048	797f440d	a96917f2296ae467acc795eacc1533a2a2d2f401	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	34_f.bin	\N	\N	2048	993d0846	6be0c45add41fa7e43cac96c776cd0ebb45ade7b	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	33_e.bin	\N	\N	2048	8d155fc5	1ef5e62d71abbf870c027fa1e477121ff124b8da	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	32_d.bin	\N	\N	2048	3f531b6f	2fc1f4912688986650e20a050a5d63ddecd4267e	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	31_c.bin	\N	\N	2048	ab019c30	33931510a722168bcf7c30d22eac9345576b6631	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	desterth	42_b.bin	\N	\N	2048	ed9dbac6	4553f445ac32ebb1be490b02df4924f76557e8f9	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	dogpatch	\N	\N	\N	\N	\N	Dog Patch	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	dogpatch	dogpatch.h	\N	\N	2048	74ebdf4d	6b31f9563b0f79fe9128ee83e85a3e2f90d7985b	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dogpatch	dogpatch.g	\N	\N	2048	ac246f70	7ee356c3218558a78ee0ff495f9f51ef88cac951	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dogpatch	dogpatch.f	\N	\N	2048	a975b011	fb807d9eefde7177d7fd7ab06fc2dbdc58ae6fcb	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dogpatch	dogpatch.e	\N	\N	2048	c12b1f60	f0504e16d2ce60a0fb3fc2af8c323bfca0143818	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	dplay	\N	\N	\N	\N	\N	Double Play	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	dplay	dp.h	\N	\N	2048	6680669b	49ad2333f81613c2f27231de60b415cbc254546a	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dplay	dp.g	\N	\N	2048	0eec7e01	2661e77061119d7d95d498807bd29d2630c6b6ab	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dplay	dp.f	\N	\N	2048	3af4b719	3122138ac36b1a129226836ddf1916d763d73e10	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	dplay	dp.e	\N	\N	2048	65cab4fc	1ce7cb832e95e4a6d0005bf730eec39225b2e960	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_rom	Sideway_v0.22a	earthinv	invaders.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	earthinv	invaders.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	earthinv	invaders.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	earthinv	invaders.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	galaxwa	\N	\N	\N	\N	\N	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	galaxwa	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	guidem	\N	\N	\N	\N	\N	Guided Missile	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	guidem	gm_623.h	\N	\N	2048	a3ebb792	30d9613de849c1a868056c5e28cf2a8608b63e88	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	guidem	gm_623.g	\N	\N	2048	a5e740bb	963c0984953eb58fe7eab84fabb724ec6e29e706	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	guidem	gm_623.f	\N	\N	2048	da381025	c9d0511567ed571b424459896ce7de0326850388	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	guidem	gm_623.e	\N	\N	2048	f350146b	a07000a979b1a735754eca623cc880988924877f	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	gunfight	\N	\N	\N	\N	\N	Gun Fight	1975	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	gunfight	7609h.bin	\N	\N	1024	0b117d73	99d01313e251818d336281700e206d9003c71dae	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	gunfight	7609g.bin	\N	\N	1024	57bc3159	c177e3f72db9af17ab99b2481448ca26318184b9	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	gunfight	7609f.bin	\N	\N	1024	8049a6bd	215b068663e431582591001cbe028929fa96d49f	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	gunfight	7609e.bin	\N	\N	1024	773264e2	de3f2e6841122bbe6e2fda5b87d37842c072289a	\N	\N	\N	\N	\N	\N	
+game_sample	Sideway_v0.22a	gunfight	snd0.wav	
+game_sample	Sideway_v0.22a	gunfight	snd1.wav	
+game_sample	Sideway_v0.22a	gunfight	snd2.wav	
+game_sample	Sideway_v0.22a	gunfight	snd3.wav	
+game_sample	Sideway_v0.22a	gunfight	snd4.wav	
+game_sample	Sideway_v0.22a	gunfight	snd5.wav	
+game_sample	Sideway_v0.22a	gunfight	snd6.wav	
+game_sample	Sideway_v0.22a	gunfight	snd7.wav	
+game	Sideway_v0.22a	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	invadpt2	\N	\N	\N	\N	\N	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_rom	Sideway_v0.22a	invadpt2	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invadpt2	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invadpt2	pv.03	\N	\N	2048	1766337e	ea959bf06c9930d83a07559e191a28641efb07ac	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invadpt2	pv.04	\N	\N	2048	8f0e62e0	a967b155f15f8432222fcc78b23121b00c405c5c	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invadpt2	pv.05	\N	\N	2048	19b505e9	6a31a37586782ce421a7d2cffd8f958c00b7b415	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	lrescue	\N	\N	\N	\N	\N	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	m-4	\N	\N	\N	\N	\N	M-4	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	m-4	m4-h.cpu	\N	\N	2048	9ee2a0b5	b81b4001c90ac6db25edd838652c42913022d9a9	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	m-4	m4-g.cpu	\N	\N	2048	0e84b9cb	a7b74851979aaaa16496e506c487a18df14ab6dc	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	m-4	m4-f.cpu	\N	\N	2048	9ded9956	449204a50efd3345cde815ca5f1fb596843a30ac	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	m-4	m4-e.cpu	\N	\N	2048	b6983238	3f3b99b33135e144c111d2ebaac8f9433c269bc5	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	maze	\N	\N	\N	\N	\N	Amazing Maze	1976	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	maze	maze.h	\N	\N	2048	f2860cff	62b3fd3d04bf9c5dd9b50964374fb884dc0ab79c	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	maze	maze.g	\N	\N	2048	65fad839	893f0a7621e7df19f777be991faff0db4a9ad571	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	rr	\N	\N	\N	\N	\N	Road Runner	1977	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	rr	rr.h	\N	\N	1024	cf44da32	af178b935a253222a1d07c032b945dd27b8a20f9	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	rr	rr.g	\N	\N	1024	1c8a04e7	8ab1047ff9c1904efb4c499f166db7a857372d43	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	seawolf	\N	\N	\N	\N	\N	Sea Wolf	1976	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	seawolf	sw0041.h	\N	\N	1024	8f597323	b538277d3a633dd8a3179cff202f18d322e6fe17	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	seawolf	sw0042.g	\N	\N	1024	db980974	cc2a99b18695f61e0540c9f6bf8fe3b391dde4a0	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	seawolf	sw0043.f	\N	\N	1024	e6ffa008	385198434b08fe4651ad2c920d44fb49cfe0bc33	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	seawolf	sw0044.e	\N	\N	1024	c3557d6a	bd345dd72fed8ce15da76c381782b025f71b006f	\N	\N	\N	\N	\N	\N	
+game_sample	Sideway_v0.22a	seawolf	snd0.wav	
+game_sample	Sideway_v0.22a	seawolf	snd1.wav	
+game_sample	Sideway_v0.22a	seawolf	snd2.wav	
+game_sample	Sideway_v0.22a	seawolf	snd3.wav	
+game_sample	Sideway_v0.22a	seawolf	snd4.wav	
+game	Sideway_v0.22a	shuflbd	\N	\N	\N	\N	\N	Shuffleboard	1978	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	shuflbd	h.cpu	\N	\N	2048	0d422a18	909c5b9e3c1194abd101cbf993a2ed7c8fbeb5d0	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	shuflbd	g.cpu	\N	\N	2048	7db7fcf9	f41b568f2340e5307a7a45658946cfd4cf4056bf	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	shuflbd	f.cpu	\N	\N	2048	cd04d848	f0f7e9bc483f08934d5c29568b4a7fe084623031	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	shuflbd	e.cpu	\N	\N	2048	2c118357	178db02aaa70963dd8dbcb9b8651209913c539af	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	spaceatt	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Sideway_v0.22a	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spaceatt	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	spcenctr	\N	\N	\N	\N	\N	Space Encounters	1980	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m33.cpu	\N	\N	2048	7458b2db	c4f41efb8a35fd8bebc75bff0111476affe2b34d	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m32.cpu	\N	\N	2048	1b873788	6cdf0d602a65c7efcf8abe149c6172b4c7ab87a1	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m31.cpu	\N	\N	2048	d4319c91	30830595c220f490fe150ad018fbf4671bb71e02	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m30.cpu	\N	\N	2048	9b9a1a45	8023a05c13e8b541f9e2fe4d389e6a2dcd4766ea	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m29.cpu	\N	\N	2048	294d52ce	0ee63413c5caf60d45ae8bef08f6c07099d30f79	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m28.cpu	\N	\N	2048	ce44c923	9d35908de3194c5fe6fc8495ae413fa722018744	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m27.cpu	\N	\N	2048	098070ab	72ae344591df0174353dc2e3d22daf5a70e2261f	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	spcenctr	4m26.cpu	\N	\N	2048	7f1d1f44	2f4951171a55e7ac072742fa24eceeee6aca7e39	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	tbball	\N	\N	\N	\N	\N	Tornado Baseball	1976	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	tbball	tb.h	\N	\N	2048	653f4797	feb4c802aa3e0c2a66823cd032496cca5742c883	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	tbball	tb.g	\N	\N	2048	b63dcdb3	bdaa0985bcb5257204ee10faa11a4e02a38b9ac5	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	tbball	tb.f	\N	\N	2048	215e070c	425915b37e5315f9216707de0850290145f69a30	\N	\N	\N	\N	\N	\N	
+game	Sideway_v0.22a	zzapp	\N	\N	\N	\N	\N	Datsun 280 Zzzap	1976	Midway	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzaph	\N	\N	1024	1fa86e1c	b9cf16eb037ada73631ed24297e9e3b3bf6ab3cd	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzapg	\N	\N	1024	9639bc6b	b2e2497e421e79a411d07ebf2eed2bb8dc227003	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzapf	\N	\N	1024	adc6ede1	206bf2575696c4b14437f3db37a215ba33211943	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzape	\N	\N	1024	472493d6	ae5cf4481ee4b78ca0d2f4d560d295e922aa04a7	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzapd	\N	\N	1024	4c240ee1	972475f80253bb0d24773a10aec26a12f28e7c23	\N	\N	\N	\N	\N	\N	
+game_rom	Sideway_v0.22a	zzapp	zzzapc	\N	\N	1024	6e85aeaf	ffa6bb84ef1f7c2d72fd26c24bd33aa014aeab7e	\N	\N	\N	\N	\N	\N	

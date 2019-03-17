@@ -1,0 +1,4 @@
+
+author	steve_green	Steve Green	\N
+author_email	steve_green	steveg@echo-sol.com
+author_emulator_link	steve_green	atari_vector_sim	author

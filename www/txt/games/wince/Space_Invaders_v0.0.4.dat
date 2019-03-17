@@ -1,0 +1,5 @@
+game	Space_Invaders_v0.0.4	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Space_Invaders_v0.0.4	invaders	invaders.h	\N	\N	2048	734f5ad8	\N	\N	cpu1	\N	\N	\N	0	
+game_rom	Space_Invaders_v0.0.4	invaders	invaders.g	\N	\N	2048	6bfaca4a	\N	\N	cpu1	\N	\N	\N	800	
+game_rom	Space_Invaders_v0.0.4	invaders	invaders.f	\N	\N	2048	0ccead96	\N	\N	cpu1	\N	\N	\N	1000	
+game_rom	Space_Invaders_v0.0.4	invaders	invaders.e	\N	\N	2048	14e538b0	\N	\N	cpu1	\N	\N	\N	1800	

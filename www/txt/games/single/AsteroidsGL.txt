@@ -1,0 +1,4 @@
+AsteroidsGL	asteroid	asteroid2	m	
+AsteroidsGL	asteroi1	asteroid1	m	
+AsteroidsGL	asterock	asterock	m	
+AsteroidsGL	meteorts	meteorts	m	

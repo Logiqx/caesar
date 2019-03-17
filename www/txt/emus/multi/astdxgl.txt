@@ -1,0 +1,11 @@
+
+emulator	astdxgl	multi	AstDxGL_v0.9	\N	\N	\N	AstDxGL	0.9	31/12/2004	Windows	Asteroids, Asteroids Deluxe and Lunar Lander (all by Atari)	Emulates a few class ic vector games by Atari, adding enhanced graphics and sounds	Dormant
+emulator_homepage	astdxgl	http://webpages.charter.net/astgl/	\N
+emulator_author_link	astdxgl	tim_astgl	\N	author
+
+emulator_library_link	astdxgl	6502
+emulator_tool_link	astdxgl	msvc
+emulator_tool_link	astdxgl	allegro
+emulator_features	astdxgl	Yes	No	No	Yes	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	astdxgl	Keyboard
+emulator_file	astdxgl	Emulator	Astdxgl-rel9.rar

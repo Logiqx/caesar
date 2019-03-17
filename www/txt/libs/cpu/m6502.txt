@@ -1,0 +1,7 @@
+
+library	m6502	cpu	M6502: Portable 6502 emulator	?	28/11/2002	\N	M6502	Portable as it is written in C
+library_homepage	m6502	http://www.komkon.org/fms/EMUL8/	\N
+library_author_link	m6502	marat_fayzullin
+library_emulator_link	m6502	epp
+library_emulator_link	m6502	laser
+library_file	m6502	Source	M6502-121502.tar.Z

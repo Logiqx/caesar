@@ -1,0 +1,10 @@
+
+emulator	midway_collection_2	psx	Arcades_Greatest_Hits_PSX_-_The_Midway_Collection_2	\N	\N	\N	Arcades Greatest Hits: The Midway Collection 2	-	1997	Playstation	Joust 2, Splat!, Blaster, Moon Patrol, Root Beer Tapper, Spy Hunter, Burger Time	The third of the arcade emulators that Digital Eclipse created for the Playstation. There was no Midway Collection 1, it was called Williams Arcade's Greatest Hits.	Released
+emulator_homepage	midway_collection_2	http://www.digitaleclipse.com	\N
+emulator_author_link	midway_collection_2	midway	\N	author
+
+emulator_features	midway_collection_2	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	midway_collection_2	Joypad
+emulator_author_link	midway_collection_2	digital_eclipse	Development	contributor
+
+emulator_relative_link	midway_collection_2	midway_collection_2_pc	port

@@ -1,0 +1,25 @@
+
+emulator_contents	linux	Emulators for Linux	These emulators are all for Linux (or Unix). Check out <a href="http://www.emulinks.de/">http://www.emulinks.de/</a> for Linux emulation.
+emulator_contents_emulator_link	linux	siemu_linux
+emulator_contents_emulator_link	linux	bpe
+emulator_contents_emulator_link	linux	centsim
+emulator_contents_emulator_link	linux	daphne_linux
+emulator_contents_emulator_link	linux	finalburn_linux
+emulator_contents_emulator_link	linux	galemu_linux
+emulator_contents_emulator_link	linux	gngeo
+emulator_contents_emulator_link	linux	gxp_linux
+emulator_contents_emulator_link	linux	invemu_linux
+emulator_contents_emulator_link	linux	laser_linux
+emulator_contents_emulator_link	linux	m1_linux
+emulator_contents_emulator_link	linux	modeler_linux
+emulator_contents_emulator_link	linux	oldsparkcpplinux
+emulator_contents_emulator_link	linux	pacifi3d_linux
+emulator_contents_emulator_link	linux	raine_linux
+emulator_contents_emulator_link	linux	replayplus_linux
+emulator_contents_emulator_link	linux	sega_c2_linux
+emulator_contents_emulator_link	linux	side_linux
+emulator_contents_emulator_link	linux	system16_linux
+emulator_contents_emulator_link	linux	vecsim
+emulator_contents_emulator_link	linux	xmame
+emulator_contents_emulator_link	linux	xcade_unix
+emulator_contents_emulator_link	linux	zinc_linux

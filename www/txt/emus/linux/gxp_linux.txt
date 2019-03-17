@@ -1,0 +1,12 @@
+
+emulator	gxp_linux	linux	dummy	\N	\N	\N	GXP for Linux (Konami GX Player)	0.1	06/10/2001	Linux	Konami GX Sound	A Linux based sound emulator.	Dormant
+emulator_homepage	gxp_linux	http://www.emuhype.com/	\N
+emulator_author_link	gxp_linux	richter_belmont	\N	author
+
+emulator_author_link	gxp_linux	sarayan	\N	author
+
+emulator_features	gxp_linux	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	gxp_linux	Keyboard
+emulator_relative_link	gxp_linux	gxp	port_of
+
+emulator_file	gxp_linux	Emulator	gxp-linux-01.zip

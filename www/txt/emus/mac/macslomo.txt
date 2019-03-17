@@ -1,0 +1,15 @@
+
+emulator	macslomo	mac	MacSlomo_v0.67	\N	\N	\N	MacSlomo	0.67	11/10/1999	Mac	Centipede+Millipede (Atari), Astro Fighter (Data East)	Port of the emulator on the PC called Slomo	Dormant
+emulator_homepage	macslomo	http://www2.hawaii.edu/~dereksmi/slomo.html/	\N
+emulator_author_link	macslomo	tj_grant	\N	author
+
+emulator_tool_link	macslomo	future_basic
+emulator_features	macslomo	Yes	Yes	?	?	No	No	?	No	No	Yes	No	No	No
+emulator_controller	macslomo	Keyboard
+emulator_author_link	macslomo	derek_smith	Optimisation and last release	contributor
+
+emulator_relative_link	macslomo	pcslomo	port_of
+
+emulator_file	macslomo	PPC version (0.67)	MacSloMoPPC.hqx
+emulator_file	macslomo	680x0 version (0.66)	MacSloMo.hqx
+emulator_file	macslomo	Source (0.59)	SLOMO59S.HQX

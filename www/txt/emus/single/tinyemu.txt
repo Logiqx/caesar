@@ -1,0 +1,12 @@
+
+emulator	tinyemu	single	TinyEmu	\N	\N	\N	TinyEmu	-	20/01/2002	DOS	A handful of arcade classics	A variety of single emus for well known classics. These games all run in a tiny window so that your boss doesn't notice!	Discontinued
+emulator_homepage	tinyemu	http://www.tinywindowsgames.com	\N
+emulator_author_link	tinyemu	dynofoo	\N	author
+
+emulator_features	tinyemu	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	tinyemu	Keyboard
+emulator_file	tinyemu	Donkey Kong	tinydkong.zip
+emulator_file	tinyemu	Frogger	tinyfrogger.zip
+emulator_file	tinyemu	Mario Bros	tinymariobros.zip
+emulator_file	tinyemu	Pacman	tinypacman.zip
+emulator_file	tinyemu	Pengo	tinypengo.zip

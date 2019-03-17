@@ -1,0 +1,12 @@
+
+emulator	system_16_sound_player	sound	System_16_Sound_Player	\N	\N	\N	System 16 Sound Player	1.0	22/12/2000	DOS	Sega System 16 Sound	Plays music from various System 16 game ROMs.	Dormant
+emulator_homepage	system_16_sound_player	\N	\N
+emulator_author_link	system_16_sound_player	charles_mac_donald	\N	author
+
+emulator_library_link	system_16_sound_player	raze
+emulator_tool_link	system_16_sound_player	djgpp
+emulator_tool_link	system_16_sound_player	allegro
+emulator_tool_link	system_16_sound_player	seal
+emulator_features	system_16_sound_player	Yes	Yes	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	system_16_sound_player	Keyboard
+emulator_file	system_16_sound_player	Player + Source	s16play.zip

@@ -1,0 +1,13 @@
+game	AstrofMu_v1.0d2	astrof3	\N	\N	\N	\N	\N	Astro Fighter (set 3)	1980	Data East	\N	\N	\N	
+game_rom	AstrofMu_v1.0d2	astrof3	kei2	\N	\N	1024	9f0bd355	\N	\N	cpu1	\N	\N	\N	d000	
+game_rom	AstrofMu_v1.0d2	astrof3	keii	\N	\N	1024	71f229f0	\N	\N	cpu1	\N	\N	\N	d400	
+game_rom	AstrofMu_v1.0d2	astrof3	kei0	\N	\N	1024	88114f7c	\N	\N	cpu1	\N	\N	\N	d800	
+game_rom	AstrofMu_v1.0d2	astrof3	ke9	\N	\N	1024	29cbaea6	\N	\N	cpu1	\N	\N	\N	dc00	
+game_rom	AstrofMu_v1.0d2	astrof3	ke8	\N	\N	1024	08e44b12	\N	\N	cpu1	\N	\N	\N	e000	
+game_rom	AstrofMu_v1.0d2	astrof3	ke7	\N	\N	1024	8a42d62c	\N	\N	cpu1	\N	\N	\N	e400	
+game_rom	AstrofMu_v1.0d2	astrof3	ke6	\N	\N	1024	3e9aa743	\N	\N	cpu1	\N	\N	\N	e800	
+game_rom	AstrofMu_v1.0d2	astrof3	ke5	\N	\N	1024	712a4557	\N	\N	cpu1	\N	\N	\N	ec00	
+game_rom	AstrofMu_v1.0d2	astrof3	ke4	\N	\N	1024	ad06f306	\N	\N	cpu1	\N	\N	\N	f000	
+game_rom	AstrofMu_v1.0d2	astrof3	ke3	\N	\N	1024	680b91b4	\N	\N	cpu1	\N	\N	\N	f400	
+game_rom	AstrofMu_v1.0d2	astrof3	ke2	\N	\N	1024	2c4cab1a	\N	\N	cpu1	\N	\N	\N	f800	
+game_rom	AstrofMu_v1.0d2	astrof3	kei	\N	\N	1024	fce4718d	\N	\N	cpu1	\N	\N	\N	fc00	

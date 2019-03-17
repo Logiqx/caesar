@@ -1,0 +1,11 @@
+
+emulator	phoenix	multi	Phoenix_Emulator_v1.03	\N	\N	\N	Phoenix Emulator	1.03	25/11/1996	Windows	Phoenix (Amstar) and Pleiads (Centuri)	No sound but a nice emulator that runs under Windows	Dormant
+emulator_homepage	phoenix	\N	none
+emulator_author_link	phoenix	chris_hardy	\N	author
+
+emulator_library_link	phoenix	z80
+emulator_tool_link	phoenix	msvc
+emulator_features	phoenix	No	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	phoenix	Keyboard
+emulator_controller	phoenix	Joystick
+emulator_file	phoenix	Emulator	phx103.zip

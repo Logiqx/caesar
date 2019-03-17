@@ -1,0 +1,14 @@
+
+emulator	rallyx	single	Rally_X_Arcade_Machine_Emulator	\N	\N	\N	Rally X Arcade Machine Emulator	?	27/01/1997	DOS	Rally X (Namco)	One of the single emulators Nicola wrote before starting MAME.	Discontinued
+emulator_homepage	rallyx	\N	none
+emulator_author_link	rallyx	nicola_salmoria	\N	author
+
+emulator_library_link	rallyx	z80em
+emulator_tool_link	rallyx	allegro
+emulator_tool_link	rallyx	djgpp
+emulator_features	rallyx	No	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	rallyx	Keyboard
+emulator_controller	rallyx	Joystick
+emulator_author_link	rallyx	scott_decker	Help with the colours	contributor
+
+emulator_file	rallyx	Emulator and source	Rally X Arcade Machine Emulator 970127 [Dos].zip

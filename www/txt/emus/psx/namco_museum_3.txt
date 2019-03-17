@@ -1,0 +1,7 @@
+
+emulator	namco_museum_3	psx	Namco_Museum_Vol_3	\N	\N	\N	Namco Museum Vol 3	-	1997	Playstation	Galaxian, Tower of Druaga, Dig Dug, Pole Position II, Phozon, Ms Pac-Man	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_3	http://www.namco.com/	\N
+emulator_author_link	namco_museum_3	namco	\N	author
+
+emulator_features	namco_museum_3	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_3	Joypad

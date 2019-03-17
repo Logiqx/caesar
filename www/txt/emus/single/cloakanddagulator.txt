@@ -1,0 +1,12 @@
+
+emulator	cloakanddagulator	single	Cloak_and_Dag-ulator_v0.60	\N	\N	\N	Cloak and Dag-ulator	0.60	02/09/1997	DOS	Cloak and Dagger (Atari)	All information from this emulator was incorporated into MAME	Dormant
+emulator_homepage	cloakanddagulator	http://atarihq.com/danb/	\N
+emulator_author_link	cloakanddagulator	daniel_boris	\N	author
+
+emulator_tool_link	cloakanddagulator	djgpp
+emulator_tool_link	cloakanddagulator	allegro
+emulator_features	cloakanddagulator	Yes	No	No	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	cloakanddagulator	Keyboard
+emulator_file	cloakanddagulator	Emulator	cloak.zip
+emulator_file	cloakanddagulator	Source (sort of v0.70)	cloaksrc.zip
+emulator_file	cloakanddagulator	Source - older (sort of v0.70)	cloaksrc2.zip

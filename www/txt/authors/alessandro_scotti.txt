@@ -1,0 +1,12 @@
+
+author	alessandro_scotti	Alessandro Scotti	\N
+author_email	alessandro_scotti	dev@walkofmind.com
+author_emulator_link	alessandro_scotti	pie	author
+
+author_emulator_link	alessandro_scotti	side	author
+
+author_emulator_link	alessandro_scotti	side_linux	author
+
+author_emulator_link	alessandro_scotti	tickle	author
+
+author_emulator_link	alessandro_scotti	tickle_mac	author

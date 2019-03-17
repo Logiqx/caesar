@@ -1,0 +1,11 @@
+
+emulator	pie	multi	PIE_v1.12	\N	\N	\N	PIE (Pacman Instructional Emulator)	v1.12	15/01/2004	Windows	Pacman and Ms. Pacman	This emulator has been written as an educational tool for those who are interested in knowing how an emulator works. For that use, some knowledge about emulators in general and some programming skills are required. But it is also a fully functional emulator that can be used to have some good fun, and since it is very small in size it can be downloaded very quickly or even sent to friends by e-mail as an attachment.	Discontinued
+emulator_homepage	pie	http://www.ascotti.org/programming/pie/pie.htm	\N
+emulator_author_link	pie	alessandro_scotti	\N	author
+
+emulator_features	pie	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	pie	Keyboard
+emulator_relative_link	pie	pie_beos	port
+
+emulator_file	pie	Emulator	piewin32.zip
+emulator_file	pie	Source	pie.zip

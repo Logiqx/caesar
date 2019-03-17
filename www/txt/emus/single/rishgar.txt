@@ -1,0 +1,10 @@
+
+emulator	rishgar	single	Rishgar_v0.92b	\N	\N	\N	Rishgar (Ishmair's RYGAR Emulator)	0.92b	17/06/1997	DOS	Legendary Warrior RYGAR (Tecmo)	The better of the two Rygar emulators (the other one being REM!)	Dormant
+emulator_homepage	rishgar	\N	none
+emulator_author_link	rishgar	ishmair	\N	author
+
+emulator_library_link	rishgar	maze
+emulator_features	rishgar	Yes	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	rishgar	Keyboard
+emulator_controller	rishgar	Joystick
+emulator_file	rishgar	Emulator	rishgar.zip

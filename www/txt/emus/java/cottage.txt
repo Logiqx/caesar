@@ -1,0 +1,17 @@
+
+emulator	cottage	java	CottAGE_v0.12	\N	\N	\N	CottAGE	1.6	31/10/2005	Java	Z80, 8080 and 6809 based classics	Arcade classics playable through your web browser! Note: The game list below is from CottAGE v0.12 (rather than the latest version). Until I figure out a way to update the data file without any intensive effort on my part, the data file for CottAGE v0.12 will have to do!	Abandoned
+emulator_homepage	cottage	http://cottage.consolemul.com/index_org.html	\N
+emulator_author_link	cottage	jaydy	\N	author
+
+emulator_author_link	cottage	gollum	\N	author
+
+emulator_features	cottage	Yes	Yes	No	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	cottage	Keyboard
+emulator_author_link	cottage	arnon_cardoso	Contributor	contributor
+
+emulator_file	cottage	Emulator v1.6 [Erik Duijs (Jaydy)]	CottAGE_1.6_bin.zip
+emulator_file	cottage	Source v1.6 [Erik Duijs (Jaydy)]	CottAGE_1.6_src.zip
+emulator_file	cottage	Emulator v0.11 [Julien Frelat (Gollum)]	cottage011.zip
+emulator_file	cottage	Source v0.11 [Julien Frelat (Gollum)]	cottage011-sources.zip
+emulator_file	cottage	Developer Docs v0.11 [Julien Frelat (Gollum)]	cottage011-docs.zip
+emulator_file	cottage	Source for JEF (Java Emulation Framework)	jef_1_0_beta4_src.zip

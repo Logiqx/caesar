@@ -1,0 +1,10 @@
+
+emulator	ssphoenix	saturn	Sega_Saturn_Phoenix_Beta_7	\N	\N	\N	Sega Saturn Phoenix Emulator Project	Beta 7	12/12/2001	Saturn	Phoenix (Amstar)	A Phoenix emulator for the Saturn, with help from TakaIsSilly and Jim Skilskys.	Dormant
+emulator_homepage	ssphoenix	http://phemusat.tripod.com/	\N
+emulator_author_link	ssphoenix	dagolar	\N	author
+
+emulator_library_link	ssphoenix	z80em
+emulator_features	ssphoenix	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	ssphoenix	Joypad
+emulator_file	ssphoenix	Emulator	beta7.zip
+emulator_file	ssphoenix	Source	beta7src.zip

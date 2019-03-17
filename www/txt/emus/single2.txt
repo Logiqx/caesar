@@ -1,0 +1,4 @@
+
+emulator_contents	single2	Single Emulators	These emulators support a single game and possibly some of it's clones
+emulator_contents_emulator_link	single2	dtmnt054
+emulator_contents_emulator_link	single2	nemesis_dos

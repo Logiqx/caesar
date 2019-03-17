@@ -1,0 +1,35 @@
+game	ZEM_v0.001	wb_mland	\N	\N	\N	\N	\N	Wonder Boy in Monster Land	1987	bootleg	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml1a.bin	\N	\N	32768	39e07286	70192f03e52dd34c9fe5698a5ec1c24d3c58543c	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml2.bin	\N	\N	65536	48746bb6	a0049cba53e7548afa8d7b16a7e9494e628d2a0f	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml3.bin	\N	\N	65536	66482638	887f93015f0effa2d0fa1f1f59082f75ac072221	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml4.bin	\N	\N	32768	f05ffc76	f3dbb518240f86430840c3d4cda04bac79c20f69	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml5.bin	\N	\N	32768	cedc9c61	dbe5744f9b6f2a406b52b910dd4e133db7bce6b2	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml6.bin	\N	\N	32768	af0b3972	413825f66b84c7e45aa1855131482abead8f7f3b	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml7.bin	\N	\N	32768	277d8f1d	7854673503ed03d276abe971805a11f8c992f6d6	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml8.bin	\N	\N	32768	a52ffbdd	609375112268b770a798186697ecab5853f29f89	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml9.bin	\N	\N	32768	77567d41	2ac501661522615859f8a1718dbb8451272d6931	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wb_mland	ml10.bin	\N	\N	32768	bbea6afe	ba56c6789a35eb57cd226296ebf57e9aa19ba625	\N	\N	\N	\N	\N	\N	
+game	ZEM_v0.001	pitfall2	\N	\N	\N	\N	\N	Pitfall II (not encrypted)	1985	Sega	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6454a	\N	\N	16384	a5d96780	e0571f6fd031bbe2d971c3be7b96a017b0ea4be9	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6455	\N	\N	16384	32ee64a1	21743f78735fc9105fbbfac420bdaa2965b4b56f	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6469a	\N	\N	8192	e4ac6921	f95e3b368c2c6dbf8265fb314d73019fe7dcce22	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6470a	\N	\N	8192	1439729f	54ea6ef54be6dcc2a5d00f7f817fd8836a02b3b9	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6471a	\N	\N	8192	d5bc805c	520afa7617e8dfd09bf469c01ac606a4a3acdc5e	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6472a	\N	\N	8192	e0f34a11	b7a96a1867f8bd3cc1251b5fd12991c406e62a37	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6473	\N	\N	8192	8e53b8dd	23e04589f2b523d6b8e46d16f40e59685e27f522	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6474a	\N	\N	8192	9f1711b9	c652010a8b19828f81fd101aa1ea781e250c4ec2	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6623	\N	\N	16384	bcb47ed6	d33421999f899c0a4dc0d4553614c1f5c7027257	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6624a	\N	\N	16384	6e8b09c1	4869ca4d3f0b08cd3df4c82be9cfc774ddeb3010	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	pitfall2	epr6625	\N	\N	16384	dc5484ba	62fffff7d935c104def5f09e9dc4a26fa4ce4f94	\N	\N	\N	\N	\N	\N	
+game	ZEM_v0.001	wbdeluxe	\N	\N	\N	\N	\N	Wonder Boy Deluxe	1986	Sega (Escape license)	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wb.004	\N	\N	32768	8b3124e6	e90deaa687128c1f0b7e9e6b6d767bd484c7fc61	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wb.005	\N	\N	32768	b75278e7	5b7c519f32eac40dc46ca5bba03cec1e893b6fcd	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wb.006	\N	\N	16384	e812b3ec	3eebeaf3480a0370aa5ee031c25768ada17ad8a2	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wb.007	\N	\N	16384	87ecba53	b904d5af25e0c1f8c8ca8dc11a3bed508c868f19	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wb.008	\N	\N	16384	1685d26a	d30d08d61d789fd5a0eb7ef2998eb9728dabf4c9	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd1.bin	\N	\N	8192	a1bedbd7	32d171847ca02b01a7ac810cac3185c81c923285	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd2.bin	\N	\N	8192	56463ede	c58c220aa0d0e194581646e6db2491075fdc37b9	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd3.bin	\N	\N	8192	6fcdbd4c	4fb9a916c99bf267c0035cb80b16400732991f83	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd4.bin	\N	\N	8192	7b922708	c2e1f67b756f558d6904fe82d6f5483cda5f9045	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd5.bin	\N	\N	8192	f6b02902	9a43b84d9537d70e9c0d75010a824bcaec57a50c	\N	\N	\N	\N	\N	\N	
+game_rom	ZEM_v0.001	wbdeluxe	wbd6.bin	\N	\N	8192	43df21fe	c1b88505942f48b0df2362bbb618689febe00d1f	\N	\N	\N	\N	\N	\N	

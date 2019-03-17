@@ -1,0 +1,14 @@
+
+emulator	grytra	single	Grytra_v1.0	\N	\N	\N	Grytra - GRYzor (conTRA)	1.0	08/11/1998	DOS	Gryzor (Contra, Japanese Bootleg) (original by Konami)	This emulator is in Spanish. Runs too fast on my P233MMX (no throttle).	Dormant
+emulator_homepage	grytra	http://www.upv.es/protel/usr/jotego/gryzor.htm	\N
+emulator_homepage	grytra	http://webs.ono.com/usr002/jotego/	\N
+emulator_author_link	grytra	jose_tejada_gomez	\N	author
+
+emulator_library_link	grytra	6809
+emulator_tool_link	grytra	djgpp
+emulator_tool_link	grytra	allegro
+emulator_features	grytra	No	Yes	Yes	No	Yes	No	No	No	No	No	\N	\N	\N
+emulator_controller	grytra	Keyboard
+emulator_file	grytra	Emulator	grytra10.zip
+emulator_file	grytra	Source	grytra_codigo.zip
+emulator_file	grytra	English Docs	gryzdoc.zip

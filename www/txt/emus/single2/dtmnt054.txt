@@ -1,0 +1,14 @@
+
+emulator	dtmnt054	single2	dummy	\N	\N	\N	DTmnt (Dave's TMNT emulator)	0.54	02/11/1998	DOS	Teenage Mutant Ninja Turtles (Konami)	No scanline support and worse colours than v0.55 beta but it runs faster	Dormant
+emulator_homepage	dtmnt054	http://www.dtmnt.com/dtmnt.htm	bad
+emulator_author_link	dtmnt054	dave_dtmnt	\N	author
+
+emulator_features	dtmnt054	Yes	Yes	Yes	No	Yes	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	dtmnt054	Keyboard
+emulator_controller	dtmnt054	Joystick
+emulator_controller	dtmnt054	Mouse
+emulator_relative_link	dtmnt054	dtmnt	alt_version
+
+emulator_file	dtmnt054	Emulator	dtmnt054.zip
+emulator_file	dtmnt054	Emulator - Pentium Optimised	dtmnp054.zip
+emulator_file	dtmnt054	Source	dtmns054.zip

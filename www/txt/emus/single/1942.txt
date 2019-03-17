@@ -1,0 +1,13 @@
+
+emulator	1942	single	1942_Arcade_Machine_Emulator_v0.5	\N	\N	\N	1942 Arcade Machine Emulator	0.5	30/04/1997	DOS	1942 (Capcom)	\N	Discontinued
+emulator_homepage	1942	http://www.geocities.com/TimesSquare/Dungeon/7939/arcade.html	bad
+emulator_author_link	1942	paul_leaman	\N	author
+
+emulator_library_link	1942	z80em
+emulator_tool_link	1942	djgpp
+emulator_tool_link	1942	allegro
+emulator_tool_link	1942	seal
+emulator_features	1942	Yes	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	1942	Keyboard
+emulator_controller	1942	Joystick
+emulator_file	1942	Emulator	1942-050.ZIP

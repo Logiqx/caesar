@@ -1,0 +1,7 @@
+
+emulator	namco_museum_64	n64	Namco_Museum_64	\N	\N	\N	Namco Museum 64	-	1999	N64	Galaga, Pac-Man, Pole Position, Galaxian, Dig Dug, Ms Pac-Man	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_64	http://www.namco.com/	\N
+emulator_author_link	namco_museum_64	namco	\N	author
+
+emulator_features	namco_museum_64	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_64	Joypad

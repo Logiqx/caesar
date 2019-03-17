@@ -1,0 +1,7 @@
+
+emulator_contents	xbox	Emulators for the Microsoft X-Box	These emulators are all for the Microsoft X-Box
+emulator_contents_emulator_link	xbox	centipede_xbox
+emulator_contents_emulator_link	xbox	fbax
+emulator_contents_emulator_link	xbox	mamex
+emulator_contents_emulator_link	xbox	taito_legends_xbox
+emulator_contents_emulator_link	xbox	tecmo_arcade_classics_xbox

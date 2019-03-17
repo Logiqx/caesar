@@ -1,0 +1,15 @@
+
+emulator	rem	single	REM!_v0.9c	\N	\N	\N	REM! (RYGAR Emulator)	0.9c	30/04/1997	DOS	Legendary Warrior RYGAR (Tecmo)	RYGAR is also emulated by Rishgar	Dormant
+emulator_homepage	rem	http://www.ping.be/~ping0589/rygar/rygar.htm	bad
+emulator_author_link	rem	jean_marc_leang	\N	author
+
+emulator_library_link	rem	z80
+emulator_tool_link	rem	watcom
+emulator_features	rem	Yes	No	No	Yes	No	No	Yes	Yes	No	Yes	\N	\N	\N
+emulator_controller	rem	Keyboard
+emulator_controller	rem	Joystick
+emulator_author_link	rem	tiago_mendes_costa	Extra Code	contributor
+
+emulator_relative_link	rem	rem_mac	port
+
+emulator_file	rem	Emulator	rem0_9c.zip

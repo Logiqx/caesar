@@ -1,0 +1,10 @@
+
+emulator	dowild	single	Mr._Do!_s_Wild_Ride_Beta_1.2	\N	\N	\N	Mr. Do!'s Wild Ride Emulator	Beta 1.2	13/10/1996	DOS	Mr. Do!'s Wild Ride (Universal)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	dowild	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	dowild	joseba_epalza	\N	author
+
+emulator_library_link	dowild	z80
+emulator_tool_link	dowild	ms
+emulator_features	dowild	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	dowild	Keyboard
+emulator_file	dowild	Emulator	dowild12.zip

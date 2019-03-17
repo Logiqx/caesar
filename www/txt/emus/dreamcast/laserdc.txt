@@ -1,0 +1,10 @@
+
+emulator	laserdc	dreamcast	dummy	\N	\N	\N	LaserDC	0.13 r1	15/10/2001	Dreamcast	Midway 8080 based games like space invaders	Dreamcast port of Laser	Discontinued
+emulator_homepage	laserdc	http://devcast.wolfnet.org/	bad
+emulator_author_link	laserdc	ss_teven	\N	author
+
+emulator_features	laserdc	No	No	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laserdc	Joypad
+emulator_relative_link	laserdc	laser	port_of
+
+emulator_file	laserdc	Dreamcast Binary	laserdcr1.zip

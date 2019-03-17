@@ -1,0 +1,8 @@
+
+tool	borlandc	compilers	Borland C/C++	?	?	Borland C/C++ is now free
+tool_homepage	borlandc	http://www.borland.com/	\N
+tool_author_link	borlandc	borland
+tool_emulator_link	borlandc	cinemu
+tool_emulator_link	borlandc	kong
+tool_emulator_link	borlandc	missilecommand
+tool_emulator_link	borlandc	qbert

@@ -1,0 +1,27 @@
+game	EmuDX_v1.0	dkongjp	\N	\N	\N	\N	\N	Donkey Kong (Japan)	1981	Nintendo	\N	\N	\N	
+game_rom	EmuDX_v1.0	dkongjp	5f.cpu	\N	\N	4096	424f2b11	e4f096f2bbd37281f42a5f8e083738f55c07f3dd	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	dkongjp	5g.cpu	\N	\N	4096	d326599b	94c7382604d0a123a442d53f9641f366dfbb7631	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	dkongjp	5h.cpu	\N	\N	4096	ff31ac89	9626a9e6df0d1b0ff273dbbe986f670200f91f75	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	dkongjp	5k.cpu	\N	\N	4096	394d6007	57e5ae76ef5d4a2fa9cd860b6c6be03b6d5ed5ba	\N	\N	\N	\N	\N	\N	
+game	EmuDX_v1.0	frogger	\N	\N	\N	\N	\N	Frogger	1981	Konami	\N	\N	\N	
+game_rom	EmuDX_v1.0	frogger	frogger.26	\N	\N	4096	597696d6	e7e021776cad00f095a1ebbef407b7c0a8f5d835	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	frogger	frogger.27	\N	\N	4096	b6e6fcc3	5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	frogger	frsm3.7	\N	\N	4096	aca22ae0	5a99060ea2506a3ac7d61ca5876ce5cb3e493565	\N	\N	\N	\N	\N	\N	
+game	EmuDX_v1.0	galaxian	\N	\N	\N	\N	\N	Galaxian	1979	Namco	\N	\N	\N	
+game_rom	EmuDX_v1.0	galaxian	galmidw.u	\N	\N	2048	745e2d61	e65f74e35b1bfaccd407e168ea55678ae9b68edf	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	galaxian	galmidw.v	\N	\N	2048	9c999a40	02fdcd95d8511e64c0d2b007b874112d53e41045	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	galaxian	galmidw.w	\N	\N	2048	b5894925	0046b9ed697a34d088de1aead8bd7cbe526a2396	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	galaxian	galmidw.y	\N	\N	2048	6b3ca10b	18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	galaxian	7l	\N	\N	2048	1b933207	8b44b0f74420871454e27894d0f004859f9e59a9	\N	\N	\N	\N	\N	\N	
+game	EmuDX_v1.0	mspacman	\N	\N	\N	\N	\N	MsPacman	1981	bootleg	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game	EmuDX_v1.0	pacman	\N	\N	\N	\N	\N	Pacman	1980	Namco	\N	\N	\N	
+game_rom	EmuDX_v1.0	pacman	namcopac.6e	\N	\N	4096	fee263b3	87117ba5082cd7a615b4ec7c02dd819003fbd669	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	pacman	namcopac.6f	\N	\N	4096	39d1fc83	326dbbf94c6fa2e96613dedb53702f8832b47d59	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	pacman	namcopac.6h	\N	\N	4096	02083b03	7e1945f6eb51f2e51806d0439f975f7a2889b9b8	\N	\N	\N	\N	\N	\N	
+game_rom	EmuDX_v1.0	pacman	namcopac.6j	\N	\N	4096	7a36fe55	01b4c38108d9dc4e48da4f8d685248e1e6821377	\N	\N	\N	\N	\N	\N	

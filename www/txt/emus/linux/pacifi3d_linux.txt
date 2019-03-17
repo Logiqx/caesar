@@ -1,0 +1,13 @@
+
+emulator	pacifi3d_linux	linux	dummy	\N	\N	\N	Pacifi3D (Linux)	0.3	10/04/2005	Linux	Namco's Puckman	Pacifi3d is a proof-of-concept pacman emulator that replaces the original pacman sprites and tiles with OpenGL 3D graphics. Pacman draws graphics by requesting the hardware to draw a sprite or tile at a specified position in a certain colour. Pacifi3d replaces the 2D video emulation of a standard pacman emulator with code to draw an equivalent 3D model at that position. Having transformed the graphics output into 3D it is also possible to place the camera at the players position to simulate pacman from a 1st person perspective.	Active
+emulator_homepage	pacifi3d_linux	http://pacifi3d.retrogames.com/	\N
+emulator_author_link	pacifi3d_linux	fosters	\N	author
+
+emulator_library_link	pacifi3d_linux	z80
+emulator_tool_link	pacifi3d_linux	sdl
+emulator_features	pacifi3d_linux	Yes	No	Yes	No	No	No	No	No	Yes	Yes	No	No	No
+emulator_controller	pacifi3d_linux	Keyboard
+emulator_controller	pacifi3d_linux	Joypad
+emulator_relative_link	pacifi3d_linux	pacifi3d	port_of
+
+emulator_file	pacifi3d_linux	Emulator	pacifi3d0.3-linux-i386.tgz

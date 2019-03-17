@@ -1,0 +1,10 @@
+
+emulator	mikie	single	Mikie	\N	\N	\N	Mikie	-	04/10/2002	Windows	Mikie (Konami)	Supports Mikie (US), Shinnyuushain Tooru-kun (JAP) and Mikie (High School Graffiti).	Dormant
+emulator_homepage	mikie	http://bcz.emu-france.com/	\N
+emulator_author_link	mikie	bruno_vedder	\N	author
+
+emulator_tool_link	mikie	sdl
+emulator_features	mikie	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	mikie	Keyboard
+emulator_file	mikie	Emulator	mikie.zip
+emulator_file	mikie	Source	mikie-src.zip

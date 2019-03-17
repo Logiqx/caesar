@@ -1,0 +1,40 @@
+game	Sparcade_v2.25_-_v2.33b	centiped	\N	\N	\N	\N	\N	Centipede (revision 3)	1980	Atari	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.307	\N	\N	2048	5ab0d9de	8ea6e3304202831aabaf31dbd0f970a7b3bfe421	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.308	\N	\N	2048	4c07fd3e	af4fdbf32c23b1864819d620a874e7f205da3cdb	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.309	\N	\N	2048	ff69b424	689fa560d40a384dcbcad7c8095bc12e91875580	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.310	\N	\N	2048	44e40fa4	c557db83876afc8ab52047ab1a3c3bfef34d6351	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.201	\N	\N	2048	880acfb9	6c862352c329776f2f9974a0df9dbe41f9dbc361	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	centiped	centiped.202	\N	\N	2048	b1397029	974c03d29aeca672fffa4dfc00a06be6a851aacb	\N	\N	\N	\N	\N	\N	
+game	Sparcade_v2.25_-_v2.33b	jrpacman	\N	\N	\N	\N	\N	Jr. Pac-Man	1983	Bally Midway	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.8d	\N	\N	8192	e3fa972e	5ea34621213c649ca2848ab31aab2cbe751723d4	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.8e	\N	\N	8192	ec889e94	8294e9e79f8fd19a419431fa690e6ac4a1302f58	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.8h	\N	\N	8192	35f1fc6e	b84b34560b9aae18b24274712b052283faa01730	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.8j	\N	\N	8192	9737099e	07d912a61824323c8fc1b8bd0da89172d4f70b91	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.8k	\N	\N	8192	5252dd97	18bd4d5381656120e4242811006c20776774de4d	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.2c	\N	\N	8192	0527ff9b	37fe3176b0d125b7d629e108e7ebdc1196e4a132	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	jrpacman	jrpacman.2e	\N	\N	8192	73477193	f00a488958ea0438642d345693787bdf771219ad	\N	\N	\N	\N	\N	\N	
+game	Sparcade_v2.25_-_v2.33b	milliped	\N	\N	\N	\N	\N	Millipede	1982	Atari	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.104	\N	\N	4096	40711675	b595d6a0f5d3c611ade1b83a94c3b909d2124dc4	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.103	\N	\N	4096	fb01baf2	9c1d0bbc20bf25dd21761a311fd1ed80aa029241	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.102	\N	\N	4096	62e137e0	9fe40db55ba1d20d4f11704f7f5df9ff75b87f30	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.101	\N	\N	4096	46752c7d	ab06b1fd80271849946f90757b3837b617394929	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.107	\N	\N	2048	68c3437a	4c7ea33d9501456ee8f5a642da7d6c972f2bb90d	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	milliped	milliped.106	\N	\N	2048	f4468045	602fcc7290f9f4eacb841c76665961ebf4307f80	\N	\N	\N	\N	\N	\N	
+game	Sparcade_v2.25_-_v2.33b	tutankhm	\N	\N	\N	\N	\N	Tutankham (Stern)	1982	[Konami] (Stern license)	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.1h	\N	\N	4096	da18679f	8d2a3665db937d0e1d19300ae22277d9db61fcbc	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.2h	\N	\N	4096	a0f02c85	29a78b3ffd6b597772953543b02dd59acf5af38c	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.3h	\N	\N	4096	2d62d7b1	910718f36735f2614cda0c3a1abdfa995d82dbd2	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.4h	\N	\N	4096	bd06fad0	bd10bbb413d8dd362072522e902575d819fa8336	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.5h	\N	\N	4096	bf9fd9b0	458ea2ff5eedaaa02e32444dd6004d2eaadbdeab	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.6h	\N	\N	4096	c43b3865	3112cf831c5b6318337e591ccb0003aeab722652	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.1i	\N	\N	4096	7eb59b21	664d3e08df0f3d6690838810b6fe273eec3b7821	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.2i	\N	\N	4096	6615eff3	e8455eab03f66642880595cfa0e9be285bf9fad0	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.3i	\N	\N	4096	a10d4444	683899e1014ee075b16d9d2610c3c5b5c4efedb6	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.4i	\N	\N	4096	58cd143c	e4ab27c09858cede478f4ed3ac6d7392e383a470	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.5i	\N	\N	4096	d7e7ae95	7068797770a6c42dc733b253bf6b7376eb6e071e	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.6i	\N	\N	4096	91f62b82	2a78039ee63226978544142727d00d1ccc6d2ab4	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.7i	\N	\N	4096	afd0a81f	cf10308a0fa4ffabd0deeb186b5602468028ff92	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.8i	\N	\N	4096	dabb609b	773b99b670db41a9de58d14b51f81ce0c446ca84	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.9i	\N	\N	4096	8ea9c6a6	fe1b299f8760fc5418179d3569932ee2c4dff461	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.7a	\N	\N	4096	b52d01fa	9b6cf9ea51d3a87c174f34d42a4b1b5f38b48723	\N	\N	\N	\N	\N	\N	
+game_rom	Sparcade_v2.25_-_v2.33b	tutankhm	tutankhm.8a	\N	\N	4096	9db5c0ce	b5bc1d89a7f7d7a0baae64390c37ee11f69a0e76	\N	\N	\N	\N	\N	\N	

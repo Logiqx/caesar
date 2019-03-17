@@ -1,0 +1,20 @@
+
+emulator	multipacd	digita	dummy	\N	\N	\N	MultiPac for Digita	0.2	06/11/1999	Digita Cameras	Games using Pacman hardware	Grew up to become MAME. It only runs Namco PacMan, but the author will be adding support for more games in the future	Superceded
+emulator_homepage	multipacd	http://digita.mame.net/	\N
+emulator_author_link	multipacd	james_surine	\N	author
+
+emulator_library_link	multipacd	z80em
+emulator_tool_link	multipacd	djgpp
+emulator_tool_link	multipacd	seal
+emulator_features	multipacd	Yes	Yes	No	No	No	Yes	No	No	No	Yes	No	No	No
+emulator_controller	multipacd	Buttons
+emulator_relative_link	multipacd	multipac	port_of
+
+emulator_relative_link	multipacd	mamed	successor
+
+emulator_relative_link	multipacd	mamed_final	successor
+
+emulator_file	multipacd	Emulator for Kodak DC220, DC260, DC265 and DC290 (823 processor)	Multipac02b823.zip
+emulator_file	multipacd	Emulator for HP C500 Photosmart and Minolta Dimage 1500 EX (DCAM processor)	Multipac02bDCAM.zip
+emulator_file	multipacd	Emulator for HP C618, C912 Photosmart,PENTAX EI-200 and EI-2000 (Coldfire Processor)	Multipac02bColdfire.zip
+emulator_file	multipacd	Source for Kodak DC220, DC260, DC265, DC290, Minolta Dimage 1500 EX and HP C500 Photosmart	Multipac02s.zip

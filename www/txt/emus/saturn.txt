@@ -1,0 +1,5 @@
+
+emulator_contents	saturn	Emulators for the Sega Saturn	These emulators are all for the Sega Saturn
+emulator_contents_emulator_link	saturn	atari_collection_sat
+emulator_contents_emulator_link	saturn	ssphoenix
+emulator_contents_emulator_link	saturn	williams_greatest_hits_sat

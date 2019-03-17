@@ -1,0 +1,10 @@
+
+emulator	xmame_ps2	ps2	dummy	\N	\N	\N	X-MAME (PS2)	0.60.1-1	21/05/2002	PS2	Emulates far more than anything else!	Port of XMAME for the Playstation 2.	Dormant
+emulator_homepage	xmame_ps2	http://playstation2-linux.com/projects/xmameps2/	\N
+emulator_author_link	xmame_ps2	xmame_ps2	\N	author
+
+emulator_features	xmame_ps2	Yes	No	No	No	No	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	xmame_ps2	Joypad
+emulator_relative_link	xmame_ps2	mame	port_of
+
+emulator_relative_link	xmame_ps2	xmame	port_of

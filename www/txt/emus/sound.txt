@@ -1,0 +1,15 @@
+
+emulator_contents	sound	Sound Emulators	These emulators are capable of playing the music and sound effects of specific games/hardware
+emulator_contents_emulator_link	sound	soundsgood
+emulator_contents_emulator_link	sound	cpse
+emulator_contents_emulator_link	sound	fm_emu
+emulator_contents_emulator_link	sound	gxp
+emulator_contents_emulator_link	sound	hoot
+emulator_contents_emulator_link	sound	m1
+emulator_contents_emulator_link	sound	mmsnd
+emulator_contents_emulator_link	sound	nebula_jukebox
+emulator_contents_emulator_link	sound	neojukebox
+emulator_contents_emulator_link	sound	qplayer
+emulator_contents_emulator_link	sound	qsound_player
+emulator_contents_emulator_link	sound	system_16_sound_player
+emulator_contents_emulator_link	sound	trombone

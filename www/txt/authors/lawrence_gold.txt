@@ -1,0 +1,4 @@
+
+author	lawrence_gold	Lawrence Gold	\N
+author_email	lawrence_gold	gold@aros.net
+author_emulator_link	lawrence_gold	xmame	author

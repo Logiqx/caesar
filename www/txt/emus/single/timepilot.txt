@@ -1,0 +1,14 @@
+
+emulator	timepilot	single	Time_Pilot_Emulator_v0.02_(beta_1)	\N	\N	\N	Time Pilot Emulator	0.02 (beta 1)	31/01/1997	DOS	Time Pilot (Konami)	Made it's way into KEM then Retrocade	Dormant
+emulator_homepage	timepilot	http://www.fensende.com/Users/mcuddy/timep/	bad
+emulator_author_link	timepilot	michael_cuddy	\N	author
+
+emulator_library_link	timepilot	z80
+emulator_tool_link	timepilot	watcom
+emulator_tool_link	timepilot	seal
+emulator_features	timepilot	Yes	No	Yes	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	timepilot	Keyboard
+emulator_controller	timepilot	Joystick
+emulator_relative_link	timepilot	kem	successor
+
+emulator_file	timepilot	Emulator	tp002.zip

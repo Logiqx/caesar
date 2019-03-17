@@ -1,0 +1,11 @@
+
+emulator	pasmulator	multi	PASMulator_v0.22	\N	\N	\N	PASMulator	0.22	02/07/1998	Windows	Z80 games from the early-80's (Pacman and Galaxians etc)	Written in Delphi. Includes an integrated sprite viewer, disassembler and debugger. Also emulates the ZX Spectrum and ColecoVision.	Dormant
+emulator_homepage	pasmulator	http://www.geocities.com/Eureka/6093/	\N
+emulator_author_link	pasmulator	paulo_sergio_cardoso	\N	author
+
+emulator_library_link	pasmulator	maze
+emulator_tool_link	pasmulator	delphi
+emulator_features	pasmulator	No	Yes (Pascal)	No	No	No	No	No	No	No	No	No	\N	\N
+emulator_controller	pasmulator	Keyboard
+emulator_file	pasmulator	Emulator	pm32b022.zip
+emulator_file	pasmulator	Source	pm32s022.zip

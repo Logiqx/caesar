@@ -1,0 +1,12 @@
+
+emulator	rcps	arm	RCPS	\N	\N	\N	RCPS (RiscCPS)	1.25a	16/10/2001	RISC OS	Emulates Capcom CPS-1, CPS-2, SNK Neo-Geo and Sega System 16/18	The only Risc OS arcade emulator other than ARM MAME (rather old).	Dormant
+emulator_homepage	rcps	http://www.acornemus.freeserve.co.uk/	\N
+emulator_author_link	rcps	david_mcewan	\N	author
+
+emulator_library_link	rcps	multiz80
+emulator_library_link	rcps	musashi
+emulator_features	rcps	Yes	No	?	?	No	?	?	?	?	?	No	No	?
+emulator_controller	rcps	Keyboard
+emulator_controller	rcps	Joystick
+emulator_controller	rcps	Mouse
+emulator_file	rcps	Emulator	rcps125a.zip

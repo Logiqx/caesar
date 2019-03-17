@@ -1,0 +1,16 @@
+
+emulator	invemu	multi	InvEmu_v2.0	\N	\N	\N	InvEmu	2.0	27/02/1998	DOS (fine under Windows)	Space Invaders (Midway) and 7 Clones	\N	Dormant
+emulator_homepage	invemu	http://volftp.tin.it/iep/invemu/	bad
+emulator_author_link	invemu	stefano_vigliani	\N	author
+
+emulator_library_link	invemu	z80
+emulator_tool_link	invemu	djgpp
+emulator_features	invemu	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	invemu	Keyboard
+emulator_controller	invemu	Joystick
+emulator_relative_link	invemu	asie	port
+
+emulator_relative_link	invemu	invemu_linux	port
+
+emulator_file	invemu	Emulator	invemu20.zip
+emulator_file	invemu	Source	invemu20s.zip

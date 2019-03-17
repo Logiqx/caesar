@@ -1,0 +1,3 @@
+
+emulator_contents	psion	Emulators for Psion	These emulators are all for Psion organisers
+emulator_contents_emulator_link	psion	emame

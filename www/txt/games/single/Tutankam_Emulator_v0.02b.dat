@@ -1,0 +1,18 @@
+game	Tutankam_Emulator_v0.02b	tutankhm	\N	\N	\N	\N	\N	Tutankham (Stern)	1982	[Konami] (Stern license)	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_1h.cpu	\N	\N	4096	da18679f	8d2a3665db937d0e1d19300ae22277d9db61fcbc	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_1i.cpu	\N	\N	4096	7eb59b21	664d3e08df0f3d6690838810b6fe273eec3b7821	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_2h.cpu	\N	\N	4096	a0f02c85	29a78b3ffd6b597772953543b02dd59acf5af38c	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_2i.cpu	\N	\N	4096	6615eff3	e8455eab03f66642880595cfa0e9be285bf9fad0	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_3h.cpu	\N	\N	4096	2d62d7b1	910718f36735f2614cda0c3a1abdfa995d82dbd2	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_3i.cpu	\N	\N	4096	a10d4444	683899e1014ee075b16d9d2610c3c5b5c4efedb6	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_4h.cpu	\N	\N	4096	bd06fad0	bd10bbb413d8dd362072522e902575d819fa8336	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_4i.cpu	\N	\N	4096	58cd143c	e4ab27c09858cede478f4ed3ac6d7392e383a470	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_5h.cpu	\N	\N	4096	bf9fd9b0	458ea2ff5eedaaa02e32444dd6004d2eaadbdeab	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_5i.cpu	\N	\N	4096	d7e7ae95	7068797770a6c42dc733b253bf6b7376eb6e071e	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_6h.cpu	\N	\N	4096	c43b3865	3112cf831c5b6318337e591ccb0003aeab722652	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_6i.cpu	\N	\N	4096	91f62b82	2a78039ee63226978544142727d00d1ccc6d2ab4	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_7a.snd	\N	\N	4096	b52d01fa	9b6cf9ea51d3a87c174f34d42a4b1b5f38b48723	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_7i.cpu	\N	\N	4096	afd0a81f	cf10308a0fa4ffabd0deeb186b5602468028ff92	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_8a.snd	\N	\N	4096	9db5c0ce	b5bc1d89a7f7d7a0baae64390c37ee11f69a0e76	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_8i.cpu	\N	\N	4096	dabb609b	773b99b670db41a9de58d14b51f81ce0c446ca84	\N	\N	\N	\N	\N	\N	
+game_rom	Tutankam_Emulator_v0.02b	tutankhm	ra1_9i.cpu	\N	\N	4096	8ea9c6a6	fe1b299f8760fc5418179d3569932ee2c4dff461	\N	\N	\N	\N	\N	\N	

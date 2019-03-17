@@ -1,0 +1,13 @@
+
+emulator	vbemu	multi	VBEmu_v1.00a	\N	\N	\N	VBEmu (Visual Basic Arcade Machine Emulator)	1.00a	17/08/1998	Windows	Invaders and Invaders Deluxe (both Midway)	Written in Visual Basic	Dormant
+emulator_homepage	vbemu	http://surf.to/vbemu	\N
+emulator_author_link	vbemu	tony_docherty	\N	author
+
+emulator_tool_link	vbemu	vb
+emulator_features	vbemu	Yes (samples)	Yes (VB)	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	vbemu	Keyboard
+emulator_relative_link	vbemu	ssvbemu	modified_version
+
+emulator_file	vbemu	Emulator with Installer	vbemu100a.zip
+emulator_file	vbemu	Emulator without Installer	vbemu100aexe.zip
+emulator_file	vbemu	Source Code	vbemu100asrc.zip

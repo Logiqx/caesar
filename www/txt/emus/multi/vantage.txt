@@ -1,0 +1,24 @@
+
+emulator	vantage	multi	VAntAGE_v1.12	\N	\N	\N	VAntAGE	1.12	28/06/2004	DOS	Classics	Intended to replace your old arcade boards. This is probably the last version that Brian will release.	Discontinued
+emulator_homepage	vantage	http://www.mameworld.net/pc2jamma/vantage.html	\N
+emulator_author_link	vantage	brian_lewis	\N	author
+
+emulator_library_link	vantage	multiz80
+emulator_tool_link	vantage	djgpp
+emulator_tool_link	vantage	nasm
+emulator_tool_link	vantage	seal
+emulator_tool_link	vantage	zlib
+emulator_features	vantage	Yes	Yes	Yes	No	No	Yes	Yes	No	No	Yes	No	No	Yes
+emulator_controller	vantage	Keyboard
+emulator_controller	vantage	Joystick
+emulator_file	vantage	Emulator v1.12	vant-112.zip
+emulator_file	vantage	C Source v1.12	vantsrc-112.zip
+emulator_file	vantage	Emulator v1.11 (includes documents, etc)	vantage111.zip
+emulator_file	vantage	C Source v.11 	vantsrc111.zip
+emulator_file	vantage	Samples for Donkey Kong	dkong.zip
+emulator_file	vantage	Samples for Donkey Kong Jr	dkongjr.zip
+emulator_file	vantage	Samples for Galaga	galaga.zip
+emulator_file	vantage	Samples for Galaxian	galaxian.zip
+emulator_file	vantage	Samples for Invaders	invaders.zip
+emulator_file	vantage	Samples for Phoenix	phoenix.zip
+emulator_file	vantage	Samples for Zaxxon	zaxxon.zip

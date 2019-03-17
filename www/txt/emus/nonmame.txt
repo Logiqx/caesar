@@ -1,0 +1,16 @@
+
+emulator_contents	nonmame	Emulators supporting non-MAME games	These emulators all support games that are currently unemulated by MAME. I have excluded the CPS Changer version of Street Fighter Zero because it is a home console and I have also excluded sound only emulation.
+emulator_contents_emulator_link	nonmame	calice
+emulator_contents_emulator_link	nonmame	crystal_system_emulator
+emulator_contents_emulator_link	nonmame	daphne
+emulator_contents_emulator_link	nonmame	emulaser
+emulator_contents_emulator_link	nonmame	finalburnalpha
+emulator_contents_emulator_link	nonmame	finalburn
+emulator_contents_emulator_link	nonmame	kawaks
+emulator_contents_emulator_link	nonmame	laser
+emulator_contents_emulator_link	nonmame	m1
+emulator_contents_emulator_link	nonmame	nebula
+emulator_contents_emulator_link	nonmame	nebula_jukebox
+emulator_contents_emulator_link	nonmame	raine
+emulator_contents_emulator_link	nonmame	snamew
+emulator_contents_emulator_link	nonmame	viva_nonno

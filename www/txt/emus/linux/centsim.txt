@@ -1,0 +1,8 @@
+
+emulator	centsim	linux	centsim_v0.2	\N	\N	\N	centsim	0.2	08/08/2003	Linux	Atari's Centipede and Millipede	Late in the development of vecsim, Eric's Atari vector game simulator, he thought about adapting the code to other 6502-based games, and the first ones he tried were Centipede and Millipede.	Discontinued
+emulator_homepage	centsim	http://www.brouhaha.com/~eric/software/centsim/	\N
+emulator_author_link	centsim	eric_smith	\N	author
+
+emulator_features	centsim	No	Yes	No	No	No	No	No	No	No	?	No	\N	\N
+emulator_controller	centsim	Keyboard
+emulator_file	centsim	Source	centsim-0.2.tar.gz

@@ -1,0 +1,12 @@
+
+emulator	potatomulti	java	PotatoMulti_200511112	\N	\N	\N	PotatoMulti	2005-11-12	16/10/2005	Java	Z80 and 68000 based classics	Arcade classics playable on the Internet! Play the games directly from within your web browser.	Stalled
+emulator_homepage	potatomulti	http://cottage.consolemul.com/index_org.html	\N
+emulator_homepage	potatomulti	http://www.game-oldies.com/?m=list&machine=arcade	\N
+emulator_author_link	potatomulti	romain_tisserland	\N	author
+
+emulator_author_link	potatomulti	david_raingeard	\N	author
+
+emulator_author_link	potatomulti	gollum	\N	author
+
+emulator_features	potatomulti	Yes	No	Yes	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	potatomulti	Keyboard

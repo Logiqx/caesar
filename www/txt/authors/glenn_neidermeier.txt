@@ -1,0 +1,6 @@
+
+author	glenn_neidermeier	Glenn Neidermeier (Gandalf)	\N
+author_email	glenn_neidermeier	glenn65535@netscape.net
+author_emulator_link	glenn_neidermeier	imame_ipaq	author
+
+author_emulator_link	glenn_neidermeier	spaceinvaderstheemu	author

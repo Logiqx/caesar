@@ -1,0 +1,10 @@
+
+author	norbert_kehrer	Norbert Kehrer	\N
+author_email	norbert_kehrer	norbert.kehrer@utanet.at
+author_emulator_link	norbert_kehrer	astdx	author
+
+author_emulator_link	norbert_kehrer	ast3dx	author
+
+author_emulator_link	norbert_kehrer	jae	author
+
+author_emulator_link	norbert_kehrer	new_asteroids	author

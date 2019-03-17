@@ -1,0 +1,5 @@
+
+author	marat_fayzullin	Marat Fayzullin (FMS)	\N
+author_email	marat_fayzullin	fms@cs.umd.edu
+author_library_link	marat_fayzullin	m6502
+author_library_link	marat_fayzullin	z80

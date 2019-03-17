@@ -1,0 +1,10 @@
+
+emulator	bebombjack	beos	BeBombJack_v0.80	\N	\N	\N	BeBombJack	0.80	20/06/2001	BeOS (x86)	Bomb Jack (Tehkan)	This is by the author of BeGameboy and BePCEngine. It emulates Bomb Jack, but there is no sound support yet. It is a sample of the authors arcade emulators.	Dormant
+emulator_homepage	bebombjack	http://diesel.planet-d.net/BeGameboy/	bad
+emulator_author_link	bebombjack	david_raingeard	\N	author
+
+emulator_library_link	bebombjack	multiz80
+emulator_features	bebombjack	No	No	No	No	Yes	No	No	No	No	No	\N	\N	\N
+emulator_controller	bebombjack	Keyboard
+emulator_controller	bebombjack	Joystick
+emulator_file	bebombjack	Emulator	BeBombjack.zip

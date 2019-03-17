@@ -1,0 +1,24 @@
+game	AsteroidsGL	asteroid	\N	\N	\N	\N	\N	Asteroids (rev 2)	1979	Atari	\N	\N	\N	
+game_rom	AsteroidsGL	asteroid	035145.02	\N	\N	2048	0cc75459	2af85c9689b878155004da47fedbde5853a18723	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroid	035144.02	\N	\N	2048	096ed35c	064d680ded7f30c543f93ae5ca85f90d550f73e5	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroid	035143.02	\N	\N	2048	312caa02	1ce2eac1ab90b972e3f1fc3d250908f26328d6cb	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroid	035127.02	\N	\N	2048	8b71fd9e	8cd5005e531eafa361d6b7e9eed159d164776c70	\N	\N	\N	\N	\N	\N	
+game	AsteroidsGL	asteroi1	\N	\N	asteroid	asteroid	\N	Asteroids (rev 1)	1979	Atari	\N	\N	\N	
+game_rom	AsteroidsGL	asteroi1	035145.01	\N	\N	2048	e9bfda64	291dc567ebb31b35df83d9fb87f4080f251ff9c8	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroi1	035144.01	\N	\N	2048	e53c28a9	d9f081e73511ec43377f0c6457747f15a470d4dc	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroi1	035143.01	\N	\N	2048	7d4e3d05	d88000e904e158efde50e453e2889ecd2cb95f24	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asteroi1	035127.01	\N	\N	2048	99699366	9b2828fc1cef7727f65fa65e1e11e309b7c98792	\N	\N	\N	\N	\N	\N	
+game	AsteroidsGL	asterock	\N	\N	asteroid	asteroid	\N	Asterock	1979	Sidam	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.2	\N	\N	1024	cdf720c6	85fe748096478e28a06bd98ff3aad73ab21b22a4	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.3	\N	\N	1024	ee58bdf0	80094cb5dafd327aff6658ede33106f0493a809d	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.4	\N	\N	1024	8d3e421e	5f5719ab84d4755e69bef205d313b455bc59c413	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.5	\N	\N	1024	d2ce7672	b6012e09b2439a614a55bcf23be0692c42830e21	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.6	\N	\N	1024	74103c87	e568b5ac573a6d0474cf672b3c62abfbd3320799	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.7	\N	\N	1024	75a39768	bf22998fd692fb01964d8894e421435c55d746a0	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.0	\N	\N	1024	6bd2053f	790f2858f44bbb1854e2d9d549e29f4815c4665b	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	asterock	sidamas.1	\N	\N	1024	231ce201	710f4c19864d725ba1c9ea447a97e84001a679f7	\N	\N	\N	\N	\N	\N	
+game	AsteroidsGL	meteorts	\N	\N	asteroid	asteroid	\N	Meteorites	1979	VGG	\N	\N	\N	
+game_rom	AsteroidsGL	meteorts	m0_c1.bin	\N	\N	2048	dff88688	7f4148a580fb6f605499c99e7dde7068eca1651a	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	meteorts	m1_f1.bin	\N	\N	2048	e53c28a9	d9f081e73511ec43377f0c6457747f15a470d4dc	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	meteorts	m2_j1.bin	\N	\N	2048	64bd0408	141d053cb4cce3fece98293136928b527d3ade0f	\N	\N	\N	\N	\N	\N	
+game_rom	AsteroidsGL	meteorts	mv_np3.bin	\N	\N	2048	11d1c4ae	433c2c05b92094bbe102c356d7f1a907db13da67	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,14 @@
+
+emulator	mamed_final	digita2	dummy	\N	\N	\N	MAMED (MAME for Digita)	0.36 final	15/04/2000	Digita Cameras	Emulates far more than anything else!	The latest final release of MAME for Digita enabled cameras. Supports 823 and DCAM processors.	Dormant
+emulator_homepage	mamed_final	http://digita.mame.net/	\N
+emulator_author_link	mamed_final	james_surine	\N	author
+
+emulator_features	mamed_final	Yes	Yes	No	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mamed_final	Buttons
+emulator_relative_link	mamed_final	multipacd	predecessor
+
+emulator_relative_link	mamed_final	mamed	alt_version
+
+emulator_file	mamed_final	Binary for Kodak DC220, DC260, DC265 and DC290 (823 Processor)	MAMED36b.zip
+emulator_file	mamed_final	Binary for Minolta Dimage 1500 EX and HP C500 Photosmart (DCAM Processor)	MAMED36bDCAM.zip
+emulator_file	mamed_final	Source for Kodak DC220, DC260, DC265, DC290, Minolta Dimage 1500 EX and HP C500 Photosmart	MAMEDMESSD36s.zip

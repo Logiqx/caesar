@@ -1,0 +1,6 @@
+
+author	daniel_moreno	Daniel Moreno (ComaC)	\N
+author_email	daniel_moreno	comac2k@teleline.es
+author_emulator_link	daniel_moreno	finalburn_linux	author
+
+author_emulator_link	daniel_moreno	finalburn_qnx	author

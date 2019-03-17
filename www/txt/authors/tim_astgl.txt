@@ -1,0 +1,10 @@
+
+author	tim_astgl	Tim	\N
+author_email	tim_astgl	astgl@charter.net
+author_emulator_link	tim_astgl	astdxgl	author
+
+author_emulator_link	tim_astgl	asteroidsgl	author
+
+author_emulator_link	tim_astgl	battlezonegl	author
+
+author_emulator_link	tim_astgl	tempestgl	author

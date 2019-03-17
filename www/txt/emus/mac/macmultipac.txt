@@ -1,0 +1,16 @@
+
+emulator	macmultipac	mac	dummy	\N	\N	\N	MacMultiPac	8.1	17/02/1997	Mac	Games using Pacman hardware	Grew up to become MAME.	Superceded
+emulator_homepage	macmultipac	http://www.porkrind.org/arcade/multipac.html	\N
+emulator_author_link	macmultipac	david_caldwell	\N	author
+
+emulator_library_link	macmultipac	z80em
+emulator_tool_link	macmultipac	djgpp
+emulator_tool_link	macmultipac	seal
+emulator_features	macmultipac	Yes	Yes	No	No	No	Yes	No	No	No	Yes	No	No	No
+emulator_controller	macmultipac	Keyboard
+emulator_relative_link	macmultipac	multipac	port_of
+
+emulator_relative_link	macmultipac	macmame	successor
+
+emulator_file	macmultipac	Emulator	MacMultipac-8.1.sit
+emulator_file	macmultipac	Emulator and source	MacMultipac-source-8.1.sit

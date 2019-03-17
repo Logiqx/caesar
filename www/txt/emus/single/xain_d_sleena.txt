@@ -1,0 +1,13 @@
+
+emulator	xain_d_sleena	single	Xain_D_Sleena_v1.0	\N	\N	\N	Xain'D Sleena Emulator	1.0	05/04/1998	DOS	Xain'D Sleena/Solar Warrior (Technos Japan)	Runs too fast on my P233MMX due to no throttling	Discontinued
+emulator_homepage	xain_d_sleena	http://www.parlorcity.com/bester/main.html	bad
+emulator_author_link	xain_d_sleena	carlos_a_lozano	\N	author
+
+emulator_author_link	xain_d_sleena	rob_rosenbrock	\N	author
+
+emulator_tool_link	xain_d_sleena	djgpp
+emulator_tool_link	xain_d_sleena	allegro
+emulator_features	xain_d_sleena	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	xain_d_sleena	Keyboard
+emulator_controller	xain_d_sleena	Joystick
+emulator_file	xain_d_sleena	Emulator	xs010.zip

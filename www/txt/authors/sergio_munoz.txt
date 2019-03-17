@@ -1,0 +1,8 @@
+
+author	sergio_munoz	Sergio Mu&ntilde;oz	\N
+author_email	sergio_munoz	sergio@webmedia.es
+author_emulator_link	sergio_munoz	finalpengo	author
+
+author_emulator_link	sergio_munoz	pengo	contributor
+
+author_emulator_link	sergio_munoz	multipac	contributor

@@ -1,0 +1,10 @@
+
+emulator	williams_greatest_hits_sat	saturn	Williams_Arcades_Greatest_Hits	\N	\N	\N	Williams Arcade's Greatest Hits (Saturn)	-	1996	Saturn	Defender, Defender II, Robotron 2084, Bubbles, Joust, Sinistar	The first of the arcade emulators that Digital Eclipse created for the Saturn.	Released
+emulator_homepage	williams_greatest_hits_sat	http://www.digitaleclipse.com	\N
+emulator_author_link	williams_greatest_hits_sat	midway	\N	author
+
+emulator_features	williams_greatest_hits_sat	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	williams_greatest_hits_sat	Joypad
+emulator_author_link	williams_greatest_hits_sat	digital_eclipse	Development	contributor
+
+emulator_relative_link	williams_greatest_hits_sat	williams_greatest_hits	port_of

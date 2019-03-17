@@ -1,0 +1,10 @@
+
+emulator	e2mame	symbian	dummy	\N	\N	\N	E2Mame	1.11	18/05/2005	Symbian	Emulates a subset of MAME games	E2MAME is a port of MAME for mobile phones running the Symbian operating system. E2MAME is free software and currently runs on Series 60 phones: Nokia N-Gage, Siemens SX-1, Nokia 6600, and probably most other models. The very first Series 60 models, the Nokia 7650 and Nokia 3650, can only run the miniature version of E2MAME, called "Micro-E2MAME", due to very limitied memory. Series 60 Feature pack 2 phones, e.g., Nokia 6630 and Nokia 6680. These models, surprisingly, have a bit less free memory than earlier Series 60 phones; therefore only Mini-E2MAME runs on these. UIQ phones: Motorola A920/A925/A1000, and maybe more? The Nokia 9500 and 9300 Communicators. The Nokia 7710 are supported by Mini-E2MAME.	Dormant
+emulator_homepage	e2mame	http://www.harmonicode.com/EEMame/	\N
+emulator_author_link	e2mame	staffan_ulfberg	\N	author
+
+emulator_features	e2mame	Yes	Yes	?	?	No	?	?	?	?	?	No	No	?
+emulator_controller	e2mame	Keyboard
+emulator_relative_link	e2mame	mame	port_of
+
+emulator_relative_link	e2mame	emame	port_of

@@ -1,0 +1,13 @@
+
+emulator_contents	enhanced	Enhanced Emulators	These emulators enhance the graphics and/or sound of the original arcade games
+emulator_contents_emulator_link	enhanced	ast3dx
+emulator_contents_emulator_link	enhanced	astdx
+emulator_contents_emulator_link	enhanced	centipede_classic_mode
+emulator_contents_emulator_link	enhanced	emudx
+emulator_contents_emulator_link	enhanced	new_asteroids
+emulator_contents_emulator_link	enhanced	pacx
+emulator_contents_emulator_link	enhanced	pacdx
+emulator_contents_emulator_link	enhanced	pacifi3d
+emulator_contents_emulator_link	enhanced	qbert_classic_mode
+emulator_contents_emulator_link	enhanced	raine32
+emulator_contents_emulator_link	enhanced	retrofx_gng

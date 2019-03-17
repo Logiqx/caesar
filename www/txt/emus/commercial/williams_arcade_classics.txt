@@ -1,0 +1,11 @@
+
+emulator	williams_arcade_classics	commercial	Williams_Arcade_Classics	\N	\N	\N	Williams Arcade Classics	-	1995	DOS	Defender, Defender II, Robotron 2084, Bubbles, Joust, Sinistar	Following the success of Williams Digital Arcade on the Mac they created this for the PC.	Released
+emulator_homepage	williams_arcade_classics	http://www.digitaleclipse.com	\N
+emulator_author_link	williams_arcade_classics	midway	\N	author
+
+emulator_features	williams_arcade_classics	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	williams_arcade_classics	Keyboard
+emulator_controller	williams_arcade_classics	Joystick
+emulator_author_link	williams_arcade_classics	digital_eclipse	Development	contributor
+
+emulator_relative_link	williams_arcade_classics	williams_arcade_classics_95	successor

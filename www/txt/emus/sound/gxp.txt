@@ -1,0 +1,16 @@
+
+emulator	gxp	sound	GXP_v0.1	\N	\N	\N	GXP (Konami GX Player)	0.1	06/10/2001	Windows	Konami GX Sound	A DOS based sound emulator.	Dormant
+emulator_homepage	gxp	http://www.emuhype.com/	\N
+emulator_author_link	gxp	richter_belmont	\N	author
+
+emulator_author_link	gxp	sarayan	\N	author
+
+emulator_library_link	gxp	turbo68k
+emulator_tool_link	gxp	mingw
+emulator_tool_link	gxp	nasm
+emulator_features	gxp	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	gxp	Keyboard
+emulator_relative_link	gxp	gxp_linux	port
+
+emulator_file	gxp	Emulator	gxp-win32-01.zip
+emulator_file	gxp	Source	gxp-source-01.zip

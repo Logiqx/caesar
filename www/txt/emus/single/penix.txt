@@ -1,0 +1,10 @@
+
+emulator	penix	single	Penix_v3	\N	\N	\N	Penix	3	14/10/1998	DOS	Phoenix (Amstar)	\N	Dormant
+emulator_homepage	penix	http://www.spis.net/penix/	bad
+emulator_author_link	penix	dr_mario	\N	author
+
+emulator_tool_link	penix	djgpp
+emulator_tool_link	penix	allegro
+emulator_features	penix	No	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	penix	Keyboard
+emulator_file	penix	Emulator	penix.zip

@@ -1,0 +1,27 @@
+
+author	nicola_salmoria	Nicola Salmoria	\N
+author_email	nicola_salmoria	mc6489@mclink.it
+author_homepage	nicola_salmoria	http://mamelife.blogspot.com/	\N
+author_emulator_link	nicola_salmoria	crazy_climber	author
+
+author_emulator_link	nicola_salmoria	dmame	author
+
+author_emulator_link	nicola_salmoria	ladybug_nicola	author
+
+author_emulator_link	nicola_salmoria	mame	author
+
+author_emulator_link	nicola_salmoria	mrdo_nicola	author
+
+author_emulator_link	nicola_salmoria	multipac	author
+
+author_emulator_link	nicola_salmoria	pengo	author
+
+author_emulator_link	nicola_salmoria	rallyx	author
+
+author_emulator_link	nicola_salmoria	arcadeemu	contributor
+
+author_emulator_link	nicola_salmoria	taito_legends	contributor
+
+author_emulator_link	nicola_salmoria	taito_legends_ps2	contributor
+
+author_emulator_link	nicola_salmoria	taito_legends_xbox	contributor

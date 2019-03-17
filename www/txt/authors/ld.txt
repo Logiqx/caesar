@@ -1,0 +1,3 @@
+
+author	ld	LD	\N
+author_emulator_link	ld	invmz	author

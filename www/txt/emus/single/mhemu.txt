@@ -1,0 +1,14 @@
+
+emulator	mhemu	single	MHEMU_v1.0	\N	\N	\N	Major Havoc Emulator (MHEMU)	1.0	06/12/1997	DOS	Major Havoc (Atari)	Vector game but you can choose the resolution on your PC	Dormant
+emulator_homepage	mhemu	\N	none
+emulator_author_link	mhemu	neil_bradley	\N	author
+
+emulator_library_link	mhemu	multi6502
+emulator_tool_link	mhemu	watcom
+emulator_tool_link	mhemu	nasm
+emulator_features	mhemu	Yes	No	No	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	mhemu	Keyboard
+emulator_controller	mhemu	Joystick
+emulator_relative_link	mhemu	emu	successor
+
+emulator_file	mhemu	Emulator	mh100.zip

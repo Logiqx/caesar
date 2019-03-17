@@ -1,0 +1,12 @@
+
+author	mike_green	Mike Green	\N
+author_email	mike_green	emudx@emuviews.com
+author_emulator_link	mike_green	asciipac	author
+
+author_emulator_link	mike_green	emudx	author
+
+author_emulator_link	mike_green	emudx32	author
+
+author_emulator_link	mike_green	pacdx	author
+
+author_emulator_link	mike_green	sinvader	author

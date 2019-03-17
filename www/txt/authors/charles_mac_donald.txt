@@ -1,0 +1,10 @@
+
+author	charles_mac_donald	Charles Mac Donald	\N
+author_homepage	charles_mac_donald	http://cgfm2.emuviews.com/	\N
+author_emulator_link	charles_mac_donald	sega_system_16	author
+
+author_emulator_link	charles_mac_donald	sega_system_24_emulator	author
+
+author_emulator_link	charles_mac_donald	system_16_sound_player	author
+
+author_emulator_link	charles_mac_donald	sega_system_c2	author

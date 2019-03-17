@@ -1,0 +1,13 @@
+
+emulator	rem_mac	mac	dummy	\N	\N	\N	REM-Mac! (RYGAR Emulator)	1.0	02/01/1998	Mac	Legendary Warrior RYGAR (Tecmo)	This version now has full sound support, and a real Macintosh interface	Dormant
+emulator_homepage	rem_mac	http://www.maya.com/local/phil/rygar/	\N
+emulator_author_link	rem_mac	phil_stroffolino	\N	author
+
+emulator_library_link	rem_mac	z80
+emulator_tool_link	rem_mac	asgard
+emulator_features	rem_mac	Yes	No	No	Yes	No	No	Yes	Yes	No	Yes	\N	\N	\N
+emulator_controller	rem_mac	Keyboard
+emulator_controller	rem_mac	Joystick
+emulator_relative_link	rem_mac	rem	port_of
+
+emulator_file	rem_mac	Emulator	REM.cpt.hqx

@@ -1,0 +1,10 @@
+
+author	ishmair	Ishmair	\N
+author_email	ishmair	ishmair@vnet.es
+author_emulator_link	ishmair	btishger	author
+
+author_emulator_link	ishmair	kungfumaster	author
+
+author_emulator_link	ishmair	rishgar	author
+
+author_library_link	ishmair	maze

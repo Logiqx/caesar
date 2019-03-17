@@ -1,0 +1,6 @@
+
+author	emame	Peter van Sebille (Emame Maintainer)	\N
+author_email	emame	emame@yipton.demon.co.uk
+author_emulator_link	emame	emame	author
+
+author_emulator_link	emame	emame_symbian	author

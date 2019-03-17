@@ -1,0 +1,10 @@
+
+emulator	vbpac	multi	VBPac_v0.10a	\N	\N	\N	VBPac (Visual Basic Arcade Machine Emulator II)	0.10a	10/10/1998	Windows	Pacman and Ms.Pacman	Written in Visual Basic	Dormant
+emulator_homepage	vbpac	http://surf.to/vbemu	\N
+emulator_author_link	vbpac	tony_docherty	\N	author
+
+emulator_tool_link	vbpac	vb
+emulator_features	vbpac	No	Yes (VB)	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	vbpac	Keyboard
+emulator_file	vbpac	Emulator	vbpac010a.zip
+emulator_file	vbpac	Source Code	vbpac010asrc.zip

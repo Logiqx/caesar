@@ -1,0 +1,20 @@
+
+emulator	daphne	multi	Daphne_v0.99.7	\N	\N	\N	Daphne	1.0 beta	06/02/2007	Windows	Dragon's Lair, Space Ace and other Laserdisc games	Requires a laserdisc player and the game laserdisc or an MPEG version of the video footage.	Active
+emulator_homepage	daphne	http://www.daphne-emu.com/	\N
+emulator_homepage	daphne	http://daphne.rulecity.com	\N
+emulator_author_link	daphne	matt_ownby	\N	author
+
+emulator_library_link	daphne	z80
+emulator_tool_link	daphne	msvc
+emulator_features	daphne	yes	Yes	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	daphne	Keyboard
+emulator_relative_link	daphne	daphne_linux	port
+
+emulator_relative_link	daphne	daphne_mac	port
+
+emulator_relative_link	daphne	daphne_beos	port
+
+emulator_file	daphne	Emulator v1.0 beta	daphne-1.0beta-win32.zip
+emulator_file	daphne	Emulator v0.99.7	daphne-0.99.7-win32.zip
+emulator_file	daphne	Source v0.99.7	daphne-0.99.7-src.tar.gz
+emulator_file	daphne	Microsoft OCS - may be needed on your system	ms-ocx.zip

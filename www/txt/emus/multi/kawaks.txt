@@ -1,0 +1,19 @@
+
+emulator	kawaks	multi	WinKawaks_v1.60	\N	\N	\N	Kawaks	1.60	06/01/2009	Windows	Capcom CPS-1, CPS-2 and Neo-Geo games	Another dedicated CPS-1, CPS-2 and Neo-Geo emulator. Includes tile viewer, sprite viewer and integrated debugger. A personal favorite!	Active
+emulator_homepage	kawaks	http://cps2shock.retrogames.com/download.html	\N
+emulator_homepage	kawaks	http://kawaks.retrogames.com/	\N
+emulator_author_link	kawaks	mr_k	\N	author
+
+emulator_library_link	kawaks	multiz80
+emulator_library_link	kawaks	a68k
+emulator_tool_link	kawaks	msvc
+emulator_tool_link	kawaks	nasm
+emulator_tool_link	kawaks	zlib
+emulator_features	kawaks	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	\N	\N
+emulator_controller	kawaks	Keyboard
+emulator_controller	kawaks	Joystick
+emulator_file	kawaks	Emulator	winkawaks160.zip
+emulator_file	kawaks	Hi-res Skin	hires-skin.zip
+emulator_file	kawaks	Screen Shots for v1.32	sshots.zip
+emulator_file	kawaks	Screen Shots update from v1.32 to v1.38	sshots138.zip
+emulator_file	kawaks	Screen Shots update from v1.38 to v1.42	sshots142.zip

@@ -1,0 +1,43 @@
+
+library	z80	cpu	Z80: Portable Z80 emulator	-	20/03/2002	\N	Zilog Z80	Portable C but is quite slow and contains a number of bugs
+library_homepage	z80	http://www.komkon.org/fms/EMUL8/	\N
+library_author_link	z80	marat_fayzullin
+library_emulator_link	z80	amoad
+library_emulator_link	z80	bpe
+library_emulator_link	z80	classicemu
+library_emulator_link	z80	crazykongemu
+library_emulator_link	z80	daphne
+library_emulator_link	z80	daphne_beos
+library_emulator_link	z80	daphne_linux
+library_emulator_link	z80	daphne_mac
+library_emulator_link	z80	dcphoenix
+library_emulator_link	z80	epp
+library_emulator_link	z80	finalpengo
+library_emulator_link	z80	gyruss
+library_emulator_link	z80	invemu
+library_emulator_link	z80	invemu_linux
+library_emulator_link	z80	jabawape
+library_emulator_link	z80	ladybug
+library_emulator_link	z80	laser
+library_emulator_link	z80	mrdo
+library_emulator_link	z80	docastle
+library_emulator_link	z80	dorun
+library_emulator_link	z80	dowild
+library_emulator_link	z80	kong
+library_emulator_link	z80	macmoon
+library_emulator_link	z80	pacdx
+library_emulator_link	z80	pacifi3d
+library_emulator_link	z80	pacifi3d_linux
+library_emulator_link	z80	phoenix
+library_emulator_link	z80	rem
+library_emulator_link	z80	rem_mac
+library_emulator_link	z80	retrovaders
+library_emulator_link	z80	sideway
+library_emulator_link	z80	sinvader
+library_emulator_link	z80	spaceinvaders
+library_emulator_link	z80	spaceinvaderstheemu
+library_emulator_link	z80	spaders
+library_emulator_link	z80	theend
+library_emulator_link	z80	timepilot
+library_file	z80	Emulator	Z80-032002.tar.Z
+library_relative_link	z80	z80em	successor

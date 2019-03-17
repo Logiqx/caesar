@@ -1,0 +1,9 @@
+
+emulator	centipede_xbox	xbox	Centipede_X-Box	\N	\N	\N	Centipede for X-Box	?	29/11/2002	X-Box	Centipede (Atari)	Centipede emulator for the X-Box. It uses the OpenXDK libraries so it is freely available, unlike some other emulators on the X-Box.	Released
+emulator_homepage	centipede_xbox	http://www.elotrolado.net/	\N
+emulator_author_link	centipede_xbox	seagal	\N	author
+
+emulator_tool_link	centipede_xbox	openxdk
+emulator_features	centipede_xbox	Yes	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	centipede_xbox	Joypad
+emulator_file	centipede_xbox	Emulator	centi.zip

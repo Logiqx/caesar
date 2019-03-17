@@ -1,0 +1,9 @@
+
+emulator	namco_history_vol_2	commercial	Namco_History_Vol_2	\N	\N	\N	Namco History Vol 2	-	1997	Windows	Rally X, New Rally X, Phozon, Tower of Druaga, Tank Battalion, Grobda	Fully playable demos of New Rally X and Tower of Druaga are available below. Very good emulation, includes ROMs and is freeware.	Released
+emulator_homepage	namco_history_vol_2	http://www.namco.co.jp/home/cs/pc/nh_vol2/	\N
+emulator_author_link	namco_history_vol_2	namco	\N	author
+
+emulator_features	namco_history_vol_2	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	namco_history_vol_2	Keyboard
+emulator_file	namco_history_vol_2	New Rally X Emulator (inbuilt ROMs)	nrallyx95.zip
+emulator_file	namco_history_vol_2	Tower of Druaga Emulator (inbuilt ROMs)	druaga95.zip

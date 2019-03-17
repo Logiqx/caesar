@@ -1,0 +1,13 @@
+
+emulator	nebulam2	multi	Nebula_Model_2_v0.9b	\N	\N	\N	Nebula Model 2	0.9b	10/11/2003	Windows	Sega Model 2	The first Sega Model 2 emulator to be released. Superceded by the SEGA Model 2 Emulator.	Superceded
+emulator_homepage	nebulam2	http://nebula.emulatronia.com/	\N
+emulator_author_link	nebulam2	elsemi	\N	author
+
+emulator_tool_link	nebulam2	msvc
+emulator_tool_link	nebulam2	zlib
+emulator_features	nebulam2	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	nebulam2	Keyboard
+emulator_controller	nebulam2	Joystick
+emulator_relative_link	nebulam2	segamodel2emulator	successor
+
+emulator_file	nebulam2	Emulator	nebulam2_v0.9b.zip

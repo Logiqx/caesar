@@ -1,0 +1,11 @@
+
+emulator	mamece3	wince	dummy	\N	\N	\N	MameCE3 (PalmPC and PocketPC)	9.4	25/03/2002	WinCE	Emulates a subset of MAME games	This PocketPC port of MAME is based on the MAME v0.36 final code. Single download available for PocketPC (ARM iPAQ, MIPS Casio, SH3 Jornada) or Casio E10x. Downloads for individual devices are available but I'm just providing the auo-installer (it will detect your device and install the proper version).	Dormant
+emulator_homepage	mamece3	http://www.mameworld.net/mamece3/	\N
+emulator_author_link	mamece3	techmaster	\N	author
+
+emulator_features	mamece3	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mamece3	Buttons
+emulator_relative_link	mamece3	mame	port_of
+
+emulator_file	mamece3	Emulator	MameCE3v9.4.exe
+emulator_file	mamece3	Emulator with many games enabled	MegaCE3v9.4.exe

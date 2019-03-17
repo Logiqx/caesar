@@ -1,0 +1,8 @@
+
+emulator	sledgehammer	multi	SledgeHammer_v0.02	\N	\N	\N	SledgeHammer	0.02	13/03/2002	Windows	Namco System 21	Created by an anonymous author, this preliminary emulator doesn't even get past the hardware tests yet.	Dormant
+emulator_homepage	sledgehammer	http://sledgehammer.emuunlim.com/	\N
+emulator_author_link	sledgehammer	sledgehammer	\N	author
+
+emulator_features	sledgehammer	No	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	sledgehammer	Keyboard
+emulator_file	sledgehammer	Emulator	sledgehammer-0.02-win32-binary.zip

@@ -1,0 +1,11 @@
+
+emulator	callus95patch	multi	Callus95_v0.42_patch_2.4	\N	\N	\N	Callus95 (Patched)	0.42 patch 2.4	21/11/2000	Windows	Capcom System 1 Games	Mainly assembler so faster than MAME for the games it does	Dormant
+emulator_homepage	callus95patch	http://cps2shock.retrogames.com/cls95p/	\N
+emulator_author_link	callus95patch	callus95patch	\N	author
+
+emulator_features	callus95patch	Yes	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	Yes	Yes	No
+emulator_controller	callus95patch	Keyboard
+emulator_controller	callus95patch	Joystick
+emulator_relative_link	callus95patch	callus95	predecessor
+
+emulator_file	callus95patch	Emulator	cls95p24.zip

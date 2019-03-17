@@ -1,0 +1,17 @@
+
+emulator	dcphoenix	dreamcast	DCPhoenix	\N	\N	\N	DCPhoenix	0.5	26/04/2001	Dreamcast	Phoenix (Amstar) and Pleiads (Centuri)	A port of Jabawape to the Dreamcast.	Discontinued
+emulator_homepage	dcphoenix	http://www.alienwebshop.com/pointblank/dc/	\N
+emulator_author_link	dcphoenix	chris_white	\N	author
+
+emulator_library_link	dcphoenix	z80
+emulator_features	dcphoenix	Yes	Yes	No	No	No	No	Yes	No	N/A	Yes	\N	\N	\N
+emulator_controller	dcphoenix	Keyboard
+emulator_controller	dcphoenix	Joystick
+emulator_relative_link	dcphoenix	jabawape	port_of
+
+emulator_file	dcphoenix	Diskjuggler Image	dc_phoenix05_diskjuggler.zip
+emulator_file	dcphoenix	Nero Image	dc_phoenix05_nero.zip
+emulator_file	dcphoenix	Binary	dc-phoenix05.zip
+emulator_file	dcphoenix	Source	dc-phoenix-src05.zip
+emulator_file	dcphoenix	Jabawape Source (on which it is based)	jabawape21.zip
+emulator_file	dcphoenix	CD Cover	Crazymofo2062-DCphoenix-front.jpg

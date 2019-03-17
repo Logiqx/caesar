@@ -1,0 +1,12 @@
+
+library	musashi	cpu	Musashi	3.3.1	03/02/2001	\N	M68000 (Motorola)	Written to ANSI C specifications with the exception of inline function use. Portable and fast.
+library_homepage	musashi	http://members.nbci.com/kstenerud/musashi.html	bad
+library_author_link	musashi	karl_stenerud
+library_emulator_link	musashi	ace
+library_emulator_link	musashi	dmame
+library_emulator_link	musashi	mame
+library_emulator_link	musashi	m1
+library_emulator_link	musashi	rcps
+library_emulator_link	musashi	sega_system_24_emulator
+library_emulator_link	musashi	viva_nonno
+library_file	musashi	Emulator	musashi331.zip

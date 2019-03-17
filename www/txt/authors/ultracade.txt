@@ -1,0 +1,17 @@
+
+author	ultracade	Ultracade	\N
+author_emulator_link	ultracade	ultracade_capcom_1	author
+
+author_emulator_link	ultracade	ultracade_capcom_2	author
+
+author_emulator_link	ultracade	ultracade_taito_1	author
+
+author_emulator_link	ultracade	ultracade_taito_2	author
+
+author_emulator_link	ultracade	ultracade_fighting_1	author
+
+author_emulator_link	ultracade	ultracade_stern_classics_1	author
+
+author_emulator_link	ultracade	ultracade_jaleco_classics_1	author
+
+author_emulator_link	ultracade	ultracade_toaplan_1	author

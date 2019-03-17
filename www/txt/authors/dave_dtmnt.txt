@@ -1,0 +1,9 @@
+
+author	dave_dtmnt	Dave	\N
+author_emulator_link	dave_dtmnt	dtmnt	author
+
+author_emulator_link	dave_dtmnt	dtmnt054	author
+
+author_emulator_link	dave_dtmnt	finalburn	author
+
+author_library_link	dave_dtmnt	doze

@@ -1,0 +1,7 @@
+
+author	steve_berge	Steve Berge	\N
+author_emulator_link	steve_berge	taito_legends	contributor
+
+author_emulator_link	steve_berge	taito_legends_ps2	contributor
+
+author_emulator_link	steve_berge	taito_legends_xbox	contributor

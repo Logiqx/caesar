@@ -1,0 +1,9 @@
+
+emulator	astrofmu	mac	AstrofMu_v1.0d2	\N	\N	\N	AstrofMu	1.0d2	17/09/2000	Mac	Astro Fighter (Data East)	Written in REALbasic for the PPC	Dormant
+emulator_homepage	astrofmu	http://www.squirrelsw.com/cats/emulation.html	\N
+emulator_author_link	astrofmu	nick_vellios	\N	author
+
+emulator_tool_link	astrofmu	real_basic
+emulator_features	astrofmu	?	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	astrofmu	Keyboard
+emulator_file	astrofmu	Emulator	AstrofMu_d2.sit

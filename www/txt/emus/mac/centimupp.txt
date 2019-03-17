@@ -1,0 +1,10 @@
+
+emulator	centimupp	mac	CentiMu++_v1.0d9	\N	\N	\N	CentiMu++	1.0d9	13/01/2001	Mac	Centipede (Atari)	Written in C++	Dormant
+emulator_homepage	centimupp	http://www.squirrelsw.com/cats/emulation.html	\N
+emulator_author_link	centimupp	nick_vellios	\N	author
+
+emulator_features	centimupp	?	No	No	No	Yes	No	No	No	No	Yes	No	No	No
+emulator_controller	centimupp	Keyboard
+emulator_relative_link	centimupp	centimu	predecessor
+
+emulator_file	centimupp	Emulator	CentiMu++_d9.sit

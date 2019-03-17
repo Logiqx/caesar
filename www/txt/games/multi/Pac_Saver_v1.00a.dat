@@ -1,0 +1,4 @@
+game	Pac_Saver_v1.00a	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	bootleg	\N	\N	\N	
+game_rom	Pac_Saver_v1.00a	mspacman	mspacman.rom	\N	\N	40960	b1062fe0	6288fb8fbd53e74edb166388500d3c17d66409a1	\N	\N	\N	\N	\N	\N	
+game	Pac_Saver_v1.00a	pacman	\N	\N	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	Pac_Saver_v1.00a	pacman	pacman.rom	\N	\N	24576	98f58bfc	757709dfc40e4a3bdd89a27e086fdc85ce82b01c	\N	\N	\N	\N	\N	\N	

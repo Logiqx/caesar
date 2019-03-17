@@ -1,0 +1,7 @@
+
+tool	wavmix	snd_libs	WavMix	1.80	31/08/1999	Wave mixer for Windows (pre DirectSound).
+tool_homepage	wavmix	http://www.compuphase.com/wavemix.htm	\N
+tool_author_link	wavmix	microsoft
+tool_emulator_link	wavmix	winvader
+tool_file	wavmix	WavMix 1.80	wavemix180.zip
+tool_file	wavmix	Configuration Tool	mixcfg-bin.zip

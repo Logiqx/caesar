@@ -1,0 +1,11 @@
+
+emulator	jff	multi	JFF_v0.24	\N	\N	\N	JFF (Just For Fun)	0.24	04/09/1999	DOS	A variety of games from the mid-80's	Was formerly the Vastar emulator. Some games are not in MAME.	Dormant
+emulator_homepage	jff	http://www.retroplay.com/Mecenate/jff/	bad
+emulator_author_link	jff	roberto_ventura	\N	author
+
+emulator_library_link	jff	maze
+emulator_features	jff	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	jff	Keyboard
+emulator_relative_link	jff	vastar	predecessor
+
+emulator_file	jff	Emulator	jff024.zip

@@ -1,0 +1,18 @@
+
+emulator	u64emu	multi	U64Emu_v3.05	\N	\N	\N	U64Emu	3.11	14/10/2002	Windows	Killer Instinct and Killer Instinct 2	Formerly known as KIAME, this emulator emulates Killer Instinct and Killer Instinct 2 (based on Nintendo's Ultra-64 Hardware). Much of the code is taken from TRWin (Nintendo 64 emulator), also by RCP.	Dormant
+emulator_homepage	u64emu	http://kiame.emuhq.com/	\N
+emulator_homepage	u64emu	http://rcp.emuhq.com/	\N
+emulator_homepage	u64emu	http://www.metaworx.net/	bad
+emulator_author_link	u64emu	rcp	\N	author
+
+emulator_author_link	u64emu	negative64	\N	author
+
+emulator_tool_link	u64emu	msvc
+emulator_features	u64emu	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	u64emu	Keyboard
+emulator_controller	u64emu	Joystick
+emulator_file	u64emu	Emulator v3.11 (by Negative64)	u64emu311.zip
+emulator_file	u64emu	Emulator v3.05 distribution	u64emu305_dist.zip
+emulator_file	u64emu	Emulator v3.02	u64emu302.zip
+emulator_file	u64emu	Source v3.02	u64emu302src.zip
+emulator_file	u64emu	Nekkid can convert between the various HD images	nekkid10.zip

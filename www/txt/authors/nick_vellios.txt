@@ -1,0 +1,10 @@
+
+author	nick_vellios	Nick Vellios	\N
+author_email	nick_vellios	nick@squirrelsw.com
+author_emulator_link	nick_vellios	astrofmu	author
+
+author_emulator_link	nick_vellios	centimu	author
+
+author_emulator_link	nick_vellios	centimupp	author
+
+author_emulator_link	nick_vellios	invadersmu	author

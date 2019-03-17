@@ -1,0 +1,28 @@
+game	ArcEm_v0.3	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaders	invaders.h	\N	\N	2048	734f5ad8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaders	invaders.g	\N	\N	2048	6bfaca4a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaders	invaders.f	\N	\N	2048	0ccead96	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaders	invaders.e	\N	\N	2048	14e538b0	\N	\N	\N	\N	\N	\N	\N	
+game	ArcEm_v0.3	invaddlx	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaddlx	invdelux.h	\N	\N	2048	e690818f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaddlx	invdelux.g	\N	\N	2048	4268c12d	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaddlx	invdelux.f	\N	\N	2048	f4aa1880	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaddlx	invdelux.e	\N	\N	2048	408849c1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invaddlx	invdelux.d	\N	\N	2048	e8d5afcd	\N	\N	\N	\N	\N	\N	\N	
+game	ArcEm_v0.3	spaceatt	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	ArcEm_v0.3	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	spaceatt	spaceatt.f	\N	\N	2048	4c060223	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	\N	\N	\N	\N	\N	\N	\N	
+game	ArcEm_v0.3	invrvnge	\N	\N	\N	\N	\N	Invader's Revenge	\N	Zenitone Microsec	\N	\N	\N	
+game_rom	ArcEm_v0.3	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	\N	\N	\N	\N	\N	\N	\N	
+game	ArcEm_v0.3	lrescue	\N	\N	\N	\N	\N	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.1	\N	\N	2048	2bbc4778	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.2	\N	\N	2048	49e79706	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.3	\N	\N	2048	1ac969be	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.4	\N	\N	2048	782fee3c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.5	\N	\N	2048	58fde8bc	\N	\N	\N	\N	\N	\N	\N	
+game_rom	ArcEm_v0.3	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	\N	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,13 @@
+
+emulator	callus95	multi2	dummy	\N	\N	\N	Callus95	0.42	25/06/1998	Windows	Capcom System 1 Games	Mainly assembler so faster than MAME for the games it does	Discontinued
+emulator_homepage	callus95	http://bloodlust.zophar.net/Callus/callus.html	\N
+emulator_author_link	callus95	sardu	\N	author
+
+emulator_features	callus95	Yes	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	No	Yes	Yes
+emulator_controller	callus95	Keyboard
+emulator_controller	callus95	Joystick
+emulator_relative_link	callus95	callus	port_of
+
+emulator_relative_link	callus95	callus95patch	successor
+
+emulator_file	callus95	Emulator	cls042w.zip

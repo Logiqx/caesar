@@ -1,0 +1,7 @@
+
+emulator	namco_history_vol_4	commercial	Namco_History_Vol_4	\N	\N	\N	Namco History Vol 4	-	1998	Windows	Galaxian, Galaga, Gaplus, Warp + Warp, Bosconian, King + Balloon	No playable demos available for this volume.	Released
+emulator_homepage	namco_history_vol_4	http://www.namco.co.jp/home/cs/pc/nh_vol4/	\N
+emulator_author_link	namco_history_vol_4	namco	\N	author
+
+emulator_features	namco_history_vol_4	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	namco_history_vol_4	Keyboard

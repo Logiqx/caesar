@@ -1,0 +1,11 @@
+
+emulator	battlezonegl	single	BattleZoneGL	\N	\N	\N	BattleZoneGL	-	29/01/2005	Windows	BattleZone (Atari)	Part of the VectorGL series by Tim	Dormant
+emulator_homepage	battlezonegl	http://webpages.charter.net/astgl/	\N
+emulator_author_link	battlezonegl	tim_astgl	\N	author
+
+emulator_library_link	battlezonegl	6502
+emulator_tool_link	battlezonegl	msvc
+emulator_tool_link	battlezonegl	allegro
+emulator_features	battlezonegl	Yes	No	No	Yes	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	battlezonegl	Keyboard
+emulator_file	battlezonegl	Emulator	bzonegl12905.rar

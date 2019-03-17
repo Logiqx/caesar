@@ -1,0 +1,9 @@
+
+emulator	vpcb	multi	Virtual_PCB_v0.4	\N	\N	\N	Virtual PCB	0.4	07/12/1996	DOS	Centipede + Millipede (both by Atari)	Runs too fast due to no throttling	Discontinued
+emulator_homepage	vpcb	\N	none
+emulator_author_link	vpcb	pete_rittwage	\N	author
+
+emulator_tool_link	vpcb	djgpp
+emulator_features	vpcb	No	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	vpcb	Keyboard
+emulator_file	vpcb	Emulator	vpcb04.zip

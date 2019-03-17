@@ -1,0 +1,16 @@
+
+author	hasbro_interactive	Hasbro Interactive	\N
+author_email	hasbro_interactive	customer_support@hasbro.com
+author_emulator_link	hasbro_interactive	atari_arcade_hits_1	author
+
+author_emulator_link	hasbro_interactive	atari_arcade_hits_2	author
+
+author_emulator_link	hasbro_interactive	centipede_classic_mode	author
+
+author_emulator_link	hasbro_interactive	centipede_classic_mode_dc	author
+
+author_emulator_link	hasbro_interactive	qbert_classic_mode	author
+
+author_emulator_link	hasbro_interactive	qbert_classic_mode_psx	author
+
+author_emulator_link	hasbro_interactive	qbert_classic_mode_dc	author

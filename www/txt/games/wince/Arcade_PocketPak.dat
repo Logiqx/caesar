@@ -1,0 +1,43 @@
+game	Arcade_PocketPak	pacman	\N	\N	\N	\N	\N	PuckMan (Japan set 1)	1980	Namco	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	namcopac.6e	\N	\N	4096	fee263b3	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	namcopac.6f	\N	\N	4096	39d1fc83	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	namcopac.6h	\N	\N	4096	02083b03	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	namcopac.6j	\N	\N	4096	7a36fe55	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	pacman.5e	\N	\N	4096	0c944964	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	pacman.5f	\N	\N	4096	958fedf9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	82s123.7f	\N	\N	32	2fc650bd	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	82s126.4a	\N	\N	256	3eb3a8e4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	82s126.1m	\N	\N	256	a9cc86bf	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	pacman	82s126.3m	\N	\N	256	77245b66	\N	\N	\N	\N	\N	\N	\N	
+game	Arcade_PocketPak	mspacmab	\N	\N	mspacman	mspacman	\N	Ms. Pac-Man (bootleg)	1981	bootleg	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot1	\N	\N	4096	d16b31b7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot2	\N	\N	4096	0d32de5e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot3	\N	\N	4096	1821ee0b	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot4	\N	\N	4096	165a9dd8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot5	\N	\N	4096	8c3e6de6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	boot6	\N	\N	4096	368cb165	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	5e	\N	\N	4096	5c281d01	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	5f	\N	\N	4096	615af909	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	82s123.7f	\N	\N	32	2fc650bd	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	82s126.4a	\N	\N	256	3eb3a8e4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	82s126.1m	\N	\N	256	a9cc86bf	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	mspacmab	82s126.3m	\N	\N	256	77245b66	\N	\N	\N	\N	\N	\N	\N	
+game	Arcade_PocketPak	digdug	\N	\N	\N	\N	\N	Dig Dug (set 1)	1982	Namco	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.101	\N	\N	4096	b9198079	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.102	\N	\N	4096	b2acbe49	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.103	\N	\N	4096	d6407b49	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.4b	\N	\N	4096	f4cebc16	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.5b	\N	\N	4096	370ef9b4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.6b	\N	\N	4096	361eeb71	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.107	\N	\N	4096	a41bce72	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.9	\N	\N	2048	f14a6fe1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.116	\N	\N	4096	e22957c8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.14	\N	\N	4096	2829ec99	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.118	\N	\N	4096	458499e9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	136007.119	\N	\N	4096	c58252a0	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.11	\N	\N	4096	7b383983	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	dd1.10b	\N	\N	4096	2cf399c2	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	digdug.5n	\N	\N	32	4cb9da99	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	digdug.1c	\N	\N	256	00c7c419	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	digdug.2n	\N	\N	256	e9b3e08e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	Arcade_PocketPak	digdug	digdug.spr	\N	\N	256	7a2815b4	\N	\N	\N	\N	\N	\N	\N	

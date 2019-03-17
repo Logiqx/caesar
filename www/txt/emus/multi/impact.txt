@@ -1,0 +1,20 @@
+
+emulator	impact	multi	Impact_Full_List	\N	\N	\N	Impact	432756	12/01/2001	Windows	Capcom ZN1, Capcom ZN2 and Taito FX1 Games	Based on PSEmuPro (a Sony Playstation Emulator), Impact emulates some of the Capcom 3D fighters from the arcade. Needs PII 450, 128MB RAM, Fast 3D Video Card.	Superceded
+emulator_homepage	impact	http://www.emuhype.com/	\N
+emulator_author_link	impact	marcin_dudar	\N	author
+
+emulator_author_link	impact	tratax	\N	author
+
+emulator_library_link	impact	raze
+emulator_features	impact	Yes	No	Yes	No	No	No	No	No	Yes	Yes	No	\N	\N
+emulator_controller	impact	Keyboard
+emulator_controller	impact	Joystick
+emulator_relative_link	impact	s11emu	derivative
+
+emulator_relative_link	impact	zinc	successor
+
+emulator_file	impact	Emulator	impact_432756.zip
+emulator_file	impact	Emulator (unofficial version patched to run on Win2K)	impact_win2k_patched.zip
+emulator_file	impact	Glide Renderer	gliderenderer_1_3.zip
+emulator_file	impact	Direct 3D Renderer	d3drenderer_1_11.zip
+emulator_file	impact	OpenGL Renderer	oglrenderer_1_11.zip

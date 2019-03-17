@@ -1,0 +1,34 @@
+
+emulator	raine32	multi	RAINE_v0.51.0	\N	\N	\N	RAINE32	0.51.0	06/02/2009	Windows	Mainly 68000+68020 Taito, Jaleco and Capcom games	Windows version of the wonderful RAINE emulator.	Active
+emulator_homepage	raine32	http://rainemu.swishparty.co.uk/	\N
+emulator_homepage	raine32	http://sourceforge.net/projects/raine/	\N
+emulator_homepage	raine32	http://www.rainemu.com/linux/	bad
+emulator_author_link	raine32	tux	\N	author
+
+emulator_library_link	raine32	starscream
+emulator_library_link	raine32	multiz80
+emulator_tool_link	raine32	mingw
+emulator_tool_link	raine32	nasm
+emulator_tool_link	raine32	allegro
+emulator_tool_link	raine32	sdl
+emulator_tool_link	raine32	eagle
+emulator_tool_link	raine32	zlib
+emulator_tool_link	raine32	libpng
+emulator_features	raine32	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	raine32	Keyboard
+emulator_controller	raine32	Joystick
+emulator_relative_link	raine32	raine_beos	port
+
+emulator_relative_link	raine32	raine	port
+
+emulator_relative_link	raine32	raine_linux	port
+
+emulator_file	raine32	Emulator	rainew-0.51.0.zip
+emulator_file	raine32	Donkey Kong DX File (Graphics)	dkongg.dx2
+emulator_file	raine32	Donkey Kong DX File (Music)	dkongm.dx2
+emulator_file	raine32	Frogger DX File (Graphics)	froggerg.dx2
+emulator_file	raine32	Frogger DX File (Music)	froggerm.dx2
+emulator_file	raine32	Galaxian DX File (Graphics)	galdxg.dx2
+emulator_file	raine32	Galaxian DX File (Music)	galdxm.dx2
+emulator_file	raine32	Ms Pacman DX File (Graphics)	mspacmang.dx2
+emulator_file	raine32	Pacman DX File (Graphics)	pacmang.dx2

@@ -1,0 +1,11 @@
+
+author	johan_kohler	J&ouml;han Kohler	\N
+author_email	johan_kohler	drac@netg.se
+author_email	johan_kohler	neogeo@c64.org
+author_emulator_link	johan_kohler	gekko	author
+
+author_emulator_link	johan_kohler	nemesis	author
+
+author_emulator_link	johan_kohler	salamander	author
+
+author_emulator_link	johan_kohler	shark	contributor

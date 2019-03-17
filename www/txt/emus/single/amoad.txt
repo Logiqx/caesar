@@ -1,0 +1,54 @@
+
+emulator	amoad	single	AMOAD_I_-_XXII	\N	\N	\N	AMOAD (Arcade Machine On A Disk)	-only version-	05/07/1998	DOS	Various Games	A collection of single emulators that each fit on a floppy disk. Binaries for AMOAD 20+22 are missing (they need re-compiling with Allegro v3.0 and SEAL v1.03).	Dormant
+emulator_homepage	amoad	http://surf.to/amoad	\N
+emulator_author_link	amoad	tony_docherty	\N	author
+
+emulator_author_link	amoad	marcel_silvius	\N	author
+
+emulator_library_link	amoad	z80
+emulator_library_link	amoad	z80em
+emulator_tool_link	amoad	djgpp
+emulator_tool_link	amoad	allegro
+emulator_features	amoad	Yes	Yes	Yes	Yes	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	amoad	Keyboard
+emulator_controller	amoad	Joystick
+emulator_relative_link	amoad	asteroids	predecessor
+
+emulator_relative_link	amoad	spaceinvaders	predecessor
+
+emulator_file	amoad	AMOAD 1 (Space Invaders)	amoad1.zip
+emulator_file	amoad	AMOAD 2 (Space Invaders Pt II)	amoad2.zip
+emulator_file	amoad	AMOAD 2 (Space Invaders Pt II) - Source	amoad2s.zip
+emulator_file	amoad	AMOAD 3 (Galaxy Wars)	amoad3.zip
+emulator_file	amoad	AMOAD 3 (Galaxy Wars) - Source	amoad3s.zip
+emulator_file	amoad	AMOAD 4 (Invaders Revenge)	amoad4.zip
+emulator_file	amoad	AMOAD 4 (Invaders Revenge) - Source	amoad4s.zip
+emulator_file	amoad	AMOAD 5 (Lunar Rescue)	amoad5.zip
+emulator_file	amoad	AMOAD 5 (Lunar Rescue) - Source	amoad5s.zip
+emulator_file	amoad	AMOAD 6 (Space Attack II)	amoad6.zip
+emulator_file	amoad	AMOAD 6 (Space Attack II) - Source	amoad6s.zip
+emulator_file	amoad	AMOAD 7 (Super Earth Invasion)	amoad7.zip
+emulator_file	amoad	AMOAD 7 (Super Earth Invasion) - Source	amoad7s.zip
+emulator_file	amoad	AMOAD 8 (Asteroids)	amoad8.zip
+emulator_file	amoad	AMOAD 8 (Asteroids) - Source	amoad8s.zip
+emulator_file	amoad	AMOAD 9 (Bombjack)	amoad9.zip
+emulator_file	amoad	AMOAD 10 (Galaxian)	amoad10.zip
+emulator_file	amoad	AMOAD 11 (Frogger)	amoad11.zip
+emulator_file	amoad	AMOAD 12 (Galaga)	amoad12.zip
+emulator_file	amoad	AMOAD 13 (Cosmic Monsters)	amoad13.zip
+emulator_file	amoad	AMOAD 13 (Cosmic Monsters) - Source	amoad13s.zip
+emulator_file	amoad	AMOAD 14 (Phoenix)	amoad14.zip
+emulator_file	amoad	AMOAD 15 (Ms Pacman)	amoad15.zip
+emulator_file	amoad	AMOAD 15 (Ms Pacman) - Source	amoad15s.zip
+emulator_file	amoad	AMOAD 16 (Amidar)	amoad16.zip
+emulator_file	amoad	AMOAD 16 (Amidar) - Source	amoad16s.zip
+emulator_file	amoad	AMOAD 17 (Crazy Kong)	amoad17.zip
+emulator_file	amoad	AMOAD 17 (Crazy Kong) - Source	amoad17s.zip
+emulator_file	amoad	AMOAD 18 (Pacman)	amoad18.zip
+emulator_file	amoad	AMOAD 18 (Pacman) - Source	amoad18s.zip
+emulator_file	amoad	AMOAD 19 (Pengo)	amoad19.zip
+emulator_file	amoad	AMOAD 19 (Pengo) - Source	amoad19s.zip
+emulator_file	amoad	AMOAD 20 (Scramble) - Source	amoad20s.zip
+emulator_file	amoad	AMOAD 21 (Crush Roller)	amoad21.zip
+emulator_file	amoad	AMOAD 21 (Crush Roller) - Source	amoad21s.zip
+emulator_file	amoad	AMOAD 22 (Crazy Climber) - Source	amoad22s.zip

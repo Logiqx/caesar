@@ -1,0 +1,5 @@
+
+author	mike_coates	Mike Coates	\N
+author_emulator_link	mike_coates	mame	contributor
+
+author_library_link	mike_coates	a68k

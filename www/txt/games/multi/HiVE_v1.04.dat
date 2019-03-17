@@ -1,0 +1,723 @@
+game	HiVE_v1.04	amidar	\N	\N	\N	\N	\N	Amidar	1982	Konami (Stern license)	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.5h	\N	\N	2048	57c4fd0d	8764deec9fbff4220d61df621b12fc36c3702601	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.2c	\N	\N	4096	951e0792	3a68b829c9ffb465bd6582c9ea566e0e947c6c19	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.2h	\N	\N	4096	051d1c7f	3cfa0f728a5c27da0a3fe2579ad226129ccde232	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.2f	\N	\N	4096	a5121bf5	fe15b91724758ede43dd332327919f164772c592	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.2e	\N	\N	4096	a1a3a136	330ec857fdf4c1b28e2560a5f63a2432f87f9b2f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.2j	\N	\N	4096	351f00d5	6659357f40f888b21be00826246200fd3a8a88ce	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.5f	\N	\N	2048	2cfe5ede	0d86a78008ac8653c17fff5be5ebdf1f0a9d31eb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.5d	\N	\N	4096	9b5bdc0a	84d953618c8bf510d23b42232a856ac55f1baff5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidarus.5c	\N	\N	4096	8ca7b750	4f4c2915503b85abe141d717fd254ee10c9da99e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	amidar	amidar.clr	\N	\N	32	f940dcc3	1015e56f37c244a850a8f4bf0e36668f047fd46d	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	arkanoid	\N	\N	\N	\N	\N	Arkanoid	1986	bootleg	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	07.bpr	\N	\N	512	0af8b289	6bc589e8a609b4cf450aebedc8ce02d5d45c970f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	08.bpr	\N	\N	512	abb002fb	c14f56b8ef103600862e7930709d293b0aa97a73	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	09.bpr	\N	\N	512	a7c6c277	adaa003dcd981576ea1cc5f697d709b2d6b2ea29	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	a75_03.rom	\N	\N	32768	038b74ba	ac053cc4908b4075f918748b89570e07a0ba5116	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	a75_04.rom	\N	\N	32768	71fae199	5d253c46ccf4cd2976a5fb8b8713f0f345443d06	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	a75_05.rom	\N	\N	32768	c76374e2	7520dd48de20db60a2038f134dcaa454988e7874	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	arkanoid.1	\N	\N	32768	6e0a2b6f	5227d7a944cb1e815f60ec87a67f7462870ff9fe	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	arkanoid	arkanoid.2	\N	\N	32768	5a97dd56	b71c7b5ced2b0eebbcc5996dd21a1bb1c2da4819	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	astdelux	\N	\N	\N	\N	asteroid	Asteroids Deluxe	1980	Atari	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036430.02	\N	\N	2048	a4d7a525	abe262193ec8e1981be36928e9a89a8ac95cd0ad	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036431.02	\N	\N	2048	d4004aae	aa2099b8fc62a79879efeea70ea1e9ed77e3e6f0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036432.02	\N	\N	2048	6d720c41	198218cd2f43f8b83e4463b1f3a8aa49da5015e4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036433.03	\N	\N	2048	0dcc0be6	bf10ffb0c4870e777d6b509cbede35db8bb6b0b8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036799.01	\N	\N	2048	7d511572	1956a12bccb5d3a84ce0c1cc10c6ad7f64e30b40	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astdelux	036800.02	\N	\N	2048	bb8cabe1	cebaa1b91b96e8b80f2b2c17c6fd31fa9f156386	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	astdelux	beep.sam	
+game_sample	HiVE_v1.04	astdelux	explode1.sam	
+game_sample	HiVE_v1.04	astdelux	explode2.sam	
+game_sample	HiVE_v1.04	astdelux	explode3.sam	
+game_sample	HiVE_v1.04	astdelux	thrust.sam	
+game_sample	HiVE_v1.04	astdelux	thumphi.sam	
+game_sample	HiVE_v1.04	astdelux	thumplo.sam	
+game_sample	HiVE_v1.04	astdelux	fire.sam	
+game_sample	HiVE_v1.04	astdelux	lsaucer.sam	
+game_sample	HiVE_v1.04	astdelux	ssaucer.sam	
+game_sample	HiVE_v1.04	astdelux	sfire.sam	
+game_sample	HiVE_v1.04	astdelux	life.sam	
+game	HiVE_v1.04	asteroid	\N	\N	\N	\N	\N	Asteroids	1979	Atari	\N	\N	\N	
+game_rom	HiVE_v1.04	asteroid	035145.02	\N	\N	2048	0cc75459	2af85c9689b878155004da47fedbde5853a18723	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	asteroid	035144.02	\N	\N	2048	096ed35c	064d680ded7f30c543f93ae5ca85f90d550f73e5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	asteroid	035143.02	\N	\N	2048	312caa02	1ce2eac1ab90b972e3f1fc3d250908f26328d6cb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	asteroid	035127.02	\N	\N	2048	8b71fd9e	8cd5005e531eafa361d6b7e9eed159d164776c70	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	asteroid	beep.sam	
+game_sample	HiVE_v1.04	asteroid	explode1.sam	
+game_sample	HiVE_v1.04	asteroid	explode2.sam	
+game_sample	HiVE_v1.04	asteroid	explode3.sam	
+game_sample	HiVE_v1.04	asteroid	thrust.sam	
+game_sample	HiVE_v1.04	asteroid	thumphi.sam	
+game_sample	HiVE_v1.04	asteroid	thumplo.sam	
+game_sample	HiVE_v1.04	asteroid	fire.sam	
+game_sample	HiVE_v1.04	asteroid	lsaucer.sam	
+game_sample	HiVE_v1.04	asteroid	ssaucer.sam	
+game_sample	HiVE_v1.04	asteroid	sfire.sam	
+game_sample	HiVE_v1.04	asteroid	life.sam	
+game	HiVE_v1.04	astinvad	\N	\N	\N	\N	invaders	Astro Invader	1980	Stern	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_1.rom	\N	\N	1024	20e3ec41	7e77fa3c51d1e83ce91a24808301d9f1e0bed18e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_2.rom	\N	\N	1024	e8f1ab55	b3e38f2d6bdb65ee7c53c8d5dd3951a3fd43c51c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_3.rom	\N	\N	1024	a0092553	34fced8ce06d912980ba45fad8d80d2a2e3357b9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_4.rom	\N	\N	1024	be14185c	59ecf450682dab9840c891c18ccda1d5ec4cc954	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_5.rom	\N	\N	1024	fee681ec	b4b94f62e598030e6a432a0bb83d18d0e342aed9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_6.rom	\N	\N	1024	eb338863	e841c6c5903dd6dee9ec2fedaff431f4a31d738a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	astinvad	ai_cpu_7.rom	\N	\N	1024	16dcfea4	b6a0e206a604297f548ac4658664e98b2d04f75f	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	astinvad	0.sam	
+game_sample	HiVE_v1.04	astinvad	1.sam	
+game_sample	HiVE_v1.04	astinvad	2.sam	
+game_sample	HiVE_v1.04	astinvad	3.sam	
+game_sample	HiVE_v1.04	astinvad	4.sam	
+game_sample	HiVE_v1.04	astinvad	5.sam	
+game_sample	HiVE_v1.04	astinvad	6.sam	
+game_sample	HiVE_v1.04	astinvad	7.sam	
+game_sample	HiVE_v1.04	astinvad	8.sam	
+game	HiVE_v1.04	bandido	\N	\N	\N	\N	\N	Bandido	1980	Exidy	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	baf1-3	\N	\N	1024	aec94829	aa6d241670ea061bac4a71dff82dfa832095eae6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	baf2-1	\N	\N	1024	da67721a	ee6a5fb98da1d1fcfad0ef27af300473a637f578	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bag1-1	\N	\N	1024	3fb7888e	2c2d6b27d577d5ccf759e451e53c2e3314af40f6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bag2-1	\N	\N	1024	585fcfee	82f2abc14f893c092b80da45fc297fa5fb0890b5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bah1-1	\N	\N	1024	5cb63677	59a8e5f8b134bf44d3e5a1105a9346f0c5f9378e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bah2-1	\N	\N	1024	79e69a6a	1780ce77d7d9ddbf4aceabe0fcf079339837bbe1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bai1-1	\N	\N	1024	dda7d1e8	bd2a7388e81c71922b2e97d68be71359a75e8d37	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	bai2-1	\N	\N	1024	5c5f3f86	25c64ccb7d0e136f67d6e1da7927ae6d89e0ceb9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	baj1-1	\N	\N	1024	0aa8b79a	aed139e8c8ba912823c57fe4cc7231b2d638f479	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	bandido	baj2-2	\N	\N	1024	a10b848a	c045f1f6a11cbf49a1bae06c701b659d587292a3	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	crush	\N	\N	\N	\N	\N	Crush Roller	1981	Kural Samno Electric	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr1	\N	\N	2048	f276592e	68ebb7d9f70af868d99ec42c26bc55a54ba1f22c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr2	\N	\N	2048	25f42e70	66de8203c364fd90e8a2b5749c2e40665b2f5830	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr3	\N	\N	2048	8377b4cb	f828a177f22db9093a00c31e39e16214ce0dc6de	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr4	\N	\N	2048	90b28fa3	ff58d2dfb016397daabe2996bc3a7b63d28a4cca	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr5	\N	\N	2048	3d302abe	8ca5cd82d099b55e20f785489158231a1d99a430	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr6	\N	\N	2048	98279cbe	84b5e64bdbc25afab9b6f53e1719640e21a6feba	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr7	\N	\N	2048	d8e76c8c	7c3d7eb07b9256130141f71eba722f7823fd4c32	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cr8	\N	\N	2048	10854e1b	b3b9066d9a43796185c00ae12f7bb2bbf42e3a07	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	cra	\N	\N	2048	c7617198	95b204af0345163f93811cc770ee0ca2851a39c1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	crb	\N	\N	2048	d1899f05	dce755511b6262b984a2bca329f454892e486a09	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	crc	\N	\N	2048	e129d76a	c9256795c6d0929ade1f24b372dadc2a2b88d897	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	crd	\N	\N	2048	d35d1caf	65dd7861e05651485626465dc97215fed58db551	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	crush	crush.1m	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	defender	\N	\N	\N	\N	\N	Defender	1980	Williams	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.1	\N	\N	2048	c3e52d7e	a57f5278ffe44248fc73f9925d107f4024ad981a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.10	\N	\N	2048	a543b167	9292b94b0d74e57e03aada4852ad1997c34122ff	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.11	\N	\N	2048	9deaf6d9	59b018ba0f3fe6eadfd387dc180ac281460358bc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.12	\N	\N	2048	f1f88938	26e48dfeefa0766837b1e762695b9532dbc8bc5e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.2	\N	\N	4096	89b75984	a9481478da38f99efb67f0ecf82d084e14b93b42	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.3	\N	\N	4096	94f51e9b	a24cfc55de56a72758c76fe2a55f1ec6c353b16f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.4	\N	\N	2048	9a72348b	ed6ce796702ff32209ced3cb1ba3837dbafa526f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.6	\N	\N	2048	65f4efd1	a960fd1559ed74b81deba434391e49fc6ec389ca	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.7	\N	\N	2048	339e092e	2f89951dbe55d80df43df8dcf497171f73e726d3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.8	\N	\N	2048	b649e306	9d7bc3c89e5a53c575946f06702c722b864b1ff0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.9	\N	\N	2048	6870e8a5	67ccc194b1753a18af0c85f5e603355549c4f727	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	defender	defend.snd	\N	\N	2048	fefd5b48	ceb0d18483f0691978c604db94417e6941ad7ff2	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	digdug	\N	\N	\N	\N	\N	Dig Dug (Atari)	1982	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	digdug.spr	\N	\N	256	7a2815b4	085ada18c498fdb18ecedef0ea8fe9217edb7b46	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.101	\N	\N	4096	b9198079	1d3fe04020f584ed250e32fdc6f6a3b769342884	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.102	\N	\N	4096	b2acbe49	c8f713e8cfa70d3bc64d3002ff7bffc65ee138e2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.103	\N	\N	4096	d6407b49	0e71a8f02778286488865e20439776dbb2a8ec78	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.116	\N	\N	4096	e22957c8	4700c63f4f680cb8ab8c44e6f3e1712aabd5daa4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.118	\N	\N	4096	458499e9	578bd839f9218c3cf4feee1223a461144e455df8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.119	\N	\N	4096	c58252a0	bd79e39e8a572d2b5c205e6de27ca23e43ec9f51	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.107	\N	\N	4096	a41bce72	2b9b74f56aa7939d9d47cf29497ae11f10d78598	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.105	\N	\N	4096	0a2aef4a	ef40974fde8e8c305059e1dd03ea811a6aaca737	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.104	\N	\N	4096	b3ad42c3	83ea80f0dd42ec1cb62e6ed45d5dda43ed21f567	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.106	\N	\N	4096	a2876d6e	08e8ac50918ae32dd6fb34e65534652beb0395b2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.115	\N	\N	4096	754539be	466ae754eb4721df8814d4d33a31d867507d45b3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.108	\N	\N	2048	3d24a3af	857ae93e2a41258a129dcecbaed2df359540b735	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.114	\N	\N	4096	d6822397	055ca6514141323f1e6dfcf91451507c04114d41	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug	136007.117	\N	\N	4096	a3bbfd85	2105455762e0de120f2d943f9010a7d06c6b6448	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	digdug2	\N	\N	\N	\N	\N	Dig Dug 2	1985	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddsnd.bin	\N	\N	256	e0074ee2	f4f02977130110be52f4dd82fc3c0d02f45778b9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-1.bin	\N	\N	16384	5c77c0d4	56709e5db1686fd996d21c1005accf34e2d863e1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-3.bin	\N	\N	16384	be7ec80b	a053274ffbf3200e9b89a8be1bd91744acb4a823	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-4.bin	\N	\N	8192	737443b1	0e46204089cc6e5ffab0d2a62f9a1728f8c35948	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-3b.bin	\N	\N	4096	afcb4509	c9a54df22b0b92efbe7417a00200587225906b46	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-3m.bin	\N	\N	16384	df1f4ad8	004fba630018dbf03c4b0e284c98077e19fface3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	digdug2	ddug2-3n.bin	\N	\N	16384	ccadb3ea	77d8d8e6039272f73e63c8f76084138ec613365a	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	dkong	\N	\N	\N	\N	\N	Donkey Kong	1981	Nintendo of America	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.3n	\N	\N	2048	12c8c95d	a57ff5a231c45252a63b354137c920a1379b70a3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.3p	\N	\N	2048	15e9c5e9	976eb1e18c74018193a35aa86cff482ebfc5cc4e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.5a	\N	\N	4096	b9005ac0	3fe3599f6fa7c496f782053ddf7bacb453d197c4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.5b	\N	\N	4096	1c97d324	c7966261f3a1d3296927e0b6ee1c58039fc53c1f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.5c	\N	\N	4096	5ec461ec	acb11a8fbdbb3ab46068385fe465f681e3c824bd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.5e	\N	\N	4096	ba70b88b	d76ebecfea1af098d843ee7e578e480cd658ac1a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.7c	\N	\N	2048	59f8054d	793dba9bf5a5fe76328acdfb90815c243d2a65f1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.7d	\N	\N	2048	672e4714	92e5d379f4838ac1fa44d448ce7d142dae42102f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.7e	\N	\N	2048	feaa59ee	ecf95db5a20098804fc8bd59232c66e2e0ed3db4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.7f	\N	\N	2048	20f2ef7e	3bc482a38bf579033f50082748ee95205b0f673d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.3h	\N	\N	2048	45a4ed06	144d24464c1f9f01894eb12f846952290e6e32ef	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkong	dk.3f	\N	\N	2048	4743fe92	6c82b57637c0212a580591397e6a5a1718f19fd2	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	dkongjr	\N	\N	\N	\N	\N	Donkey Kong Jr.	1982	Nintendo of America	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.3h	\N	\N	4096	715da5f8	f708c3fd374da65cbd9fe2e191152f5d865414a0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.7f	\N	\N	2048	0f8c083f	0b688ae9da296b2447fffa5e135fd6a56ec3e790	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.7e	\N	\N	2048	24d1ff17	696854bf3dc5447d33b4815db357e6ce3834d867	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.7d	\N	\N	2048	0ce7dcf6	0654b77526c49f0dfa077ac4f1f69cf5cb2e2f64	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.7c	\N	\N	2048	dc7f4164	07a6242e95b5c3b8dfdcd4b4950f463dba16dd77	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.5e	\N	\N	8192	d042b6a8	57ac237d273496b44220b4437118115ef11dbd9f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.5c	\N	\N	8192	6fb5faf6	ce1cfde71a9e2a8b5896a6301d386f72869a1d2e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.5b	\N	\N	8192	dea28158	08baf84ae6f9b40a2c743fe1d8c158c74a40e95a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.3p	\N	\N	4096	4ef64ba5	41a7a4005087951f57f62c9751d62a8c495e6bb3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	dkongjr	dkj.3n	\N	\N	4096	8d51aca9	64887564b079d98e98aafa53835e398f34fe4e3f	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	frogsega	\N	\N	\N	\N	\N	Frogger (Sega)	1981	[Konami] (Sega license)	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.606	\N	\N	2048	f524ee30	dd768967add61467baa08d5929001f157d6cd911	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.607	\N	\N	2048	05f7d883	78831fd287da18928651a8adb7e578d291493eff	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.608	\N	\N	2048	e8ab0256	f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.609	\N	\N	2048	7380a48f	75582a94b696062cbdb66a4c5cf0bc0bb94f81ee	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.610	\N	\N	2048	31d7eb27	2e1d34ae4da385fd7cac94707d25eeddf4604e1a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	pr-91.6l	\N	\N	32	413703bf	66648b2b28d3dcbda5bdb2605d1977428939dd3c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.26	\N	\N	4096	597696d6	e7e021776cad00f095a1ebbef407b7c0a8f5d835	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.27	\N	\N	4096	b6e6fcc3	5e8692f2b0c7f4b3642b3ee6670e1c3b20029cdc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	frogsega	frogger.34	\N	\N	4096	ed866bab	24e1bbde44eb5480b7a0570fa0dc1de388cb95ba	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	galaga	\N	\N	\N	\N	\N	Galaga (Midway)	1981	[Namco] (Midway license)	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	1d.bin	\N	\N	256	86d92b24	6bef9102b97c83025a2cf84e89d95f2d44c3d2ed	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3200a.bin	\N	\N	4096	3ef0b053	0c04a362b737998c0952a753fb3fd8c8a17e9b46	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3300b.bin	\N	\N	4096	1b280831	f7ea12e61929717ebe43a4198a97f109845a2c62	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3400c.bin	\N	\N	4096	16233d33	a7eb799be5e23058754a92b15e6527bfbb47a354	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3500d.bin	\N	\N	4096	0aaf5c23	3f4b0bb960bf002261e9c1278c88f594c6aa8ab6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3600e.bin	\N	\N	4096	bc556e76	0d3d68243c4571d985b4d8f7e0ea9f6fcffa2116	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	3700g.bin	\N	\N	4096	b07f0aa4	7528644a8480d0be2d0d37069515ed319e94778f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	07e_g10.bin	\N	\N	4096	ad447c80	e697c180178cabd1d32483c5d8889a40633f7857	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	07h_g09.bin	\N	\N	4096	dd6f1afc	c340ed8c25e0979629a9a1730edc762bd72d0cff	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga	07m_g08.bin	\N	\N	4096	58b2f47c	62f1279a784ab2f8218c4137c7accda00e6a3490	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	galaga	bang.sam	
+game	HiVE_v1.04	galaga3	\N	\N	\N	\N	galaga	Galaga3	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_1c.bin	\N	\N	256	a5091352	dcd6dfbfbd5281ba0c7b7c189d6fde23617ed3e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_1d.bin	\N	\N	256	8bc8022a	c76f9d9b066e268621d41a703c5280261234709a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_2d.bin	\N	\N	256	8dabc20b	64d7b333f529d3ba66aeefd380fd1cbf9ddf460d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_3e.bin	\N	\N	512	417ba0dc	2ba51ccdd0428fc48758ed8fea36c8ce0e752a45	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_3f.bin	\N	\N	512	d48c0eef	6d0512958bc522d22e69336677369507847f8f6f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_4f.bin	\N	\N	256	2d9fbdd8	e6a23cd5ce3d3e76de3b70c8ab5a3c45b1147af4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	g3_8g.bin	\N	\N	256	2faa3e09	781ffe9088476798409cb922350eff881590cf35	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_5k.bin	\N	\N	8192	7316a1f1	368e4541a5151e906a189712bc05192c2ceec8ae	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_5l.bin	\N	\N	8192	6cd8ce11	fc346e98737c9fc20810e32d4c150ae4b4051979	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_5m.bin	\N	\N	8192	57740ff9	16873e0ac5f975768d596d7d32af7571f4817f2b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_5n.bin	\N	\N	8192	e6a9ae67	99c1e67c3b216aa1b63f199e21c73cdedde80e1b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_6l.bin	\N	\N	8192	9ec3dce5	196a975aff59be19f55041a44b201aafef083ba7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_6m.bin	\N	\N	8192	0621f7df	b86020f819fefb134cb57e203f7c90b1b29581c8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_6n.bin	\N	\N	8192	6a2942c5	6fb2c4dcb2ad393220917b81f1a42e571d209d76	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_7b.bin	\N	\N	8192	ed8aa206	4e0a31d84cb7aca497485dbe0240009d58275765	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_9c.bin	\N	\N	8192	f1b00073	5d998d938251f173cedf742b95d02cc0a2b9d3be	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_9d.bin	\N	\N	8192	86fac687	07f76af524dbb3e79de41ef4bf32e7380776d9f5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_9e.bin	\N	\N	8192	f4845e7f	7b1377254f594bea4a8ffc7e388d9106e0266b55	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galaga3	gal3_9l.bin	\N	\N	8192	8d4dcebf	0a556b45976bc36eb99048b1512c446b472da1d2	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	galaga3	bang.sam	
+game	HiVE_v1.04	galnamco	\N	\N	\N	\N	\N	Galaxian (Namco, modified)	1979	hack	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.z	\N	\N	2048	f4bc7262	c4b70e474d49f45cec96f7c250bd77e01e18601a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.y	\N	\N	2048	56a5ddd1	1f87f647ebdffba28d5957f195448f6bce17f4d5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.w	\N	\N	2048	9eef9ae6	b2282e4edb8911e6aabfa936c3526f90381e1320	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.v	\N	\N	2048	65cf3c77	1c5249815816b395e1e04bf6a7dbb63e40faa0e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.u	\N	\N	2048	acfde501	4b72c1ffecaccadc541da2367f3ef70a2a9aed64	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.1k	\N	\N	2048	7e3f56a2	a9795d8b7388f404f3b0e2c6ce15d713a4c5bafa	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galnamco	galaxian.1h	\N	\N	2048	39fb43a4	4755609bd974976f04855d51e08ec0d62ab4bc07	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	galxwars	\N	\N	\N	\N	invaders	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	galxwars	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	galxwars	0.sam	
+game_sample	HiVE_v1.04	galxwars	1.sam	
+game_sample	HiVE_v1.04	galxwars	2.sam	
+game_sample	HiVE_v1.04	galxwars	3.sam	
+game_sample	HiVE_v1.04	galxwars	4.sam	
+game_sample	HiVE_v1.04	galxwars	5.sam	
+game_sample	HiVE_v1.04	galxwars	6.sam	
+game_sample	HiVE_v1.04	galxwars	7.sam	
+game_sample	HiVE_v1.04	galxwars	8.sam	
+game	HiVE_v1.04	gaplus	\N	\N	\N	\N	galaga	Gaplus	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-1p.bin	\N	\N	256	a5091352	dcd6dfbfbd5281ba0c7b7c189d6fde23617ed3e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-1n.bin	\N	\N	256	8bc8022a	c76f9d9b066e268621d41a703c5280261234709a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-2n.bin	\N	\N	256	8dabc20b	64d7b333f529d3ba66aeefd380fd1cbf9ddf460d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-3f.bin	\N	\N	256	2d9fbdd8	e6a23cd5ce3d3e76de3b70c8ab5a3c45b1147af4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-6s.bin	\N	\N	256	2faa3e09	781ffe9088476798409cb922350eff881590cf35	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-12.64	\N	\N	8192	7316a1f1	368e4541a5151e906a189712bc05192c2ceec8ae	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-10.64	\N	\N	8192	6cd8ce11	fc346e98737c9fc20810e32d4c150ae4b4051979	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-11.64	\N	\N	8192	57740ff9	16873e0ac5f975768d596d7d32af7571f4817f2b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-9.64	\N	\N	8192	e6a9ae67	99c1e67c3b216aa1b63f199e21c73cdedde80e1b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-7.64	\N	\N	8192	0621f7df	b86020f819fefb134cb57e203f7c90b1b29581c8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-1.64	\N	\N	8192	ed8aa206	4e0a31d84cb7aca497485dbe0240009d58275765	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-6p.bin	\N	\N	512	6f99c2da	955dcef363870ee8e91edc73b9ea3ce489738aad	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-6n.bin	\N	\N	512	c7d31657	a93a5bc448dc127e1389d10a9cb06acadfe940cf	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-2.64	\N	\N	8192	69fdfdb7	aec611336b8767897ad493d581d70b1f0e75aeba	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-3.64	\N	\N	8192	a74b0266	a534c6b4af569ed545bf52769c7d5ceb5f2c4935	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-4.64	\N	\N	8192	484f11e0	659756ae183dac3817440c8975f203c7dbe08c6b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-6.64	\N	\N	8192	14cd61ea	05605abebcf2791e60b2d810dafcdd8582a87d9b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-8.64	\N	\N	8192	bff601a6	e1a04354d8d0bc0d51d7341a46bd23cbd2158ee9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	gaplus	gp2-5.64	\N	\N	8192	f3d19987	a0107fa4659597ac42c875ab1c0deb845534268b	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	gaplus	bang.sam	
+game	HiVE_v1.04	grobda	\N	\N	\N	\N	\N	Grobda	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	82s123.4c	\N	\N	32	c65efa77	ead74917744cb11556153bd6c09a987bc9c6ef08	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-1.b1	\N	\N	8192	32d42f22	f83d17029f19fc2e8bac183771dbf9d786a56681	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-2.c1	\N	\N	8192	7dcc6e8e	7580686b7082432a79217c3d7b5ebfa0c25952e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-3.d1	\N	\N	8192	4ef4a7c1	33367e63531601c3d4f4a7b2170cb1c87f6d72a7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-4.k1	\N	\N	8192	3fe78c08	dd49a96e613e0ced5b82eafcaf935e136e7db53a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-5.f3	\N	\N	8192	eed43487	d2b39651f39bdfca3754f7bbd7a52e7bf843dabe	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-6.e3	\N	\N	8192	cebb7362	6efd57f9fa0f93f70e60efc387b3a782fad2665c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	gr1-7.c3	\N	\N	4096	4ebfabfd	fffce05f59e090c4281aca0c0494825027b764fb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	mb7052.3l	\N	\N	256	f1f2c234	d59879e7a598a363d8d9ac9e630ae698f14833f7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	mb7052.3m	\N	\N	256	66eb1467	02b99ced4afd9ac139f634739769f7bf353274f9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	grobda	mb7052.4e	\N	\N	256	a0f66911	e08a56327055994e3d9e2c3816d57a3cc2434c88	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	HiVE_v1.04	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	invaders	0.sam	
+game_sample	HiVE_v1.04	invaders	1.sam	
+game_sample	HiVE_v1.04	invaders	2.sam	
+game_sample	HiVE_v1.04	invaders	3.sam	
+game_sample	HiVE_v1.04	invaders	4.sam	
+game_sample	HiVE_v1.04	invaders	5.sam	
+game_sample	HiVE_v1.04	invaders	6.sam	
+game_sample	HiVE_v1.04	invaders	7.sam	
+game_sample	HiVE_v1.04	invaders	8.sam	
+game	HiVE_v1.04	invdelux	\N	\N	\N	\N	invaders	Space Invaders Part II	1980	Midway	\N	\N	\N	
+game_rom	HiVE_v1.04	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	invdelux	0.sam	
+game_sample	HiVE_v1.04	invdelux	1.sam	
+game_sample	HiVE_v1.04	invdelux	2.sam	
+game_sample	HiVE_v1.04	invdelux	3.sam	
+game_sample	HiVE_v1.04	invdelux	4.sam	
+game_sample	HiVE_v1.04	invdelux	5.sam	
+game_sample	HiVE_v1.04	invdelux	6.sam	
+game_sample	HiVE_v1.04	invdelux	7.sam	
+game_sample	HiVE_v1.04	invdelux	8.sam	
+game	HiVE_v1.04	invrvnge	\N	\N	\N	\N	invaders	Invaders Revenge	1979	Zenitone Microsec	\N	\N	\N	
+game_rom	HiVE_v1.04	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	invrvnge	0.sam	
+game_sample	HiVE_v1.04	invrvnge	1.sam	
+game_sample	HiVE_v1.04	invrvnge	2.sam	
+game_sample	HiVE_v1.04	invrvnge	3.sam	
+game_sample	HiVE_v1.04	invrvnge	4.sam	
+game_sample	HiVE_v1.04	invrvnge	5.sam	
+game_sample	HiVE_v1.04	invrvnge	6.sam	
+game_sample	HiVE_v1.04	invrvnge	7.sam	
+game_sample	HiVE_v1.04	invrvnge	8.sam	
+game	HiVE_v1.04	joust	\N	\N	\N	\N	\N	Joust (White/Green label)	1982	Williams	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg1	\N	\N	4096	fe41b2af	0443e00ae2eb3e66cf805562ee04309487bb0ba4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg2	\N	\N	4096	501c143c	5fda266d43cbbf42eeae1a078b5209d9408ab99f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg3	\N	\N	4096	43f7161d	686da120aa4bd4a41f3d93e8c79ebb343977851a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg4	\N	\N	4096	db5571b6	cb1c3285344e2cfbe0a81ab9b51758c40da8a23f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg5	\N	\N	4096	c686bb6b	d9cac4c46820e1a451a145864bca7a35cfab7d37	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg6	\N	\N	4096	fac5f2cf	febaa8cf5c3a0af901cd12d0b7909f6fec3beadd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg7	\N	\N	4096	81418240	5ad14aa65e71c3856dcdb04c99edda92e406a3e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg8	\N	\N	4096	ba5359ba	f4ee13d5a95ed3e1050a3927a3a0ccf86ed7752d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sg9	\N	\N	4096	39643147	d95d3b746133eac9dcc9ee05eabecb797023f1a5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sga	\N	\N	4096	3f1c4f89	90864a8ab944df45287bf0f68ad3a85194077a82	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sgb	\N	\N	4096	ea48b359	6d38003d56bebeb1f5b4d2287d587342847aa195	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.sgc	\N	\N	4096	c710717b	7d01764e8251c60b3cab96f7dc6dcc1c624f9d12	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	joust	joust.snd	\N	\N	4096	f1835bdd	af7c066d2949d36b87ea8c425ca7d12f82b5c653	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	jrpacman	\N	\N	\N	\N	\N	Jr. Pac Man	1983	Bally Midway	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	pacman.spr	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp2c.bin	\N	\N	8192	0527ff9b	37fe3176b0d125b7d629e108e7ebdc1196e4a132	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp2e.bin	\N	\N	8192	73477193	f00a488958ea0438642d345693787bdf771219ad	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp8d.bin	\N	\N	8192	e3fa972e	5ea34621213c649ca2848ab31aab2cbe751723d4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp8e.bin	\N	\N	8192	ec889e94	8294e9e79f8fd19a419431fa690e6ac4a1302f58	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp8h.bin	\N	\N	8192	35f1fc6e	b84b34560b9aae18b24274712b052283faa01730	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp8j.bin	\N	\N	8192	9737099e	07d912a61824323c8fc1b8bd0da89172d4f70b91	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	jrpacman	jrp8k.bin	\N	\N	8192	5252dd97	18bd4d5381656120e4242811006c20776774de4d	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	lrescue	\N	\N	\N	\N	invaders	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	lrescue	0.sam	
+game_sample	HiVE_v1.04	lrescue	1.sam	
+game_sample	HiVE_v1.04	lrescue	2.sam	
+game_sample	HiVE_v1.04	lrescue	3.sam	
+game_sample	HiVE_v1.04	lrescue	4.sam	
+game_sample	HiVE_v1.04	lrescue	5.sam	
+game_sample	HiVE_v1.04	lrescue	6.sam	
+game_sample	HiVE_v1.04	lrescue	7.sam	
+game_sample	HiVE_v1.04	lrescue	8.sam	
+game	HiVE_v1.04	mappy	\N	\N	\N	\N	\N	Mappy	1983	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy.spr	\N	\N	256	16a9166a	847cbaf7c88616576c410177e066ae1d792ac0ba	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy1b.64	\N	\N	8192	203766d4	1dbc4f42d4c16a08240a221bec27dcc3a8dd7461	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy1c.64	\N	\N	8192	a958a61c	e5198703cdf47b2cd7fc9f2a5fde7bf4ab2275db	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy1d.64	\N	\N	8192	52e6c708	b9722941438e93325e84691ada4e95620bec73b2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy1k.64	\N	\N	8192	8182dd5b	f36b57f7f1e79f00b3f07afe1960bca5f5325ee2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy3b.32	\N	\N	4096	16498b9f	76610149c65f955484fef1c033ddc3fed3f4e568	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy3m.64	\N	\N	8192	f2d9647a	3cc216793c6a5f73c437ad2524563deb3b5e2890	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mappy	mappy3n.64	\N	\N	8192	757cf2b6	8dfbf03953d5219d9eb5fc654ec3392442ba1dc4	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	mario	\N	\N	\N	\N	\N	Mario Brothers	1983	Nintendo of America	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.3f	\N	\N	4096	28b0c42c	46749568aff88a28c3b6a1ac423abd1b90742a4d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.3j	\N	\N	4096	0c8cc04d	15fae47d701dc1ef15c943cee6aa991776ecffdf	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7c	\N	\N	4096	4a63d96b	b09060b2c84ab77cc540a27b8f932cb60ec8d442	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7d	\N	\N	8192	dcceb6c1	b19804e69ce2c98cf276c6055c3a250316b96b45	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7e	\N	\N	8192	116b3856	e372f846d0e5a2b9b47ebd0330293fcc8a12363f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7f	\N	\N	8192	c0c6e014	36a04f9ca1c2a583477cb8a6f2ef94e044e08296	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7m	\N	\N	4096	22b7372e	4a1c1e239cb6d483e76f50d7a3b941025963c6a3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7n	\N	\N	4096	4f3a1f47	0747d693b9482f6dd28b0bc484fd1d3e29d35654	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7p	\N	\N	4096	56be6ccd	15a6e16c189d45f72761ebcbe9db5001bdecd659	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7s	\N	\N	4096	56f1d613	9af6844dbaa3615433d0595e9e85e72493e31a54	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7t	\N	\N	4096	641f0008	589fe108c7c11278fd897f2ded8f0498bc149cfd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mario	mario.7u	\N	\N	4096	7baf5309	d9194ff7b89a18273d37b47228fc7fb7e2a0ed1f	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	metrocrs	\N	\N	\N	\N	\N	Metro Cross	1985	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	7128e.2m	\N	\N	2048	6f4dca7b	781134c02853aded2cba63719c0e4c78b227da1c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	7138e.1n	\N	\N	2048	32a78a8b	545a59bc3c5868ac1749d2947210110205fb3da2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc1-4.3b	\N	\N	8192	9c88f898	d6d0345002b70c5aca41c664f34181715cd87669	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc1-5.3j	\N	\N	8192	9b5ea33a	a8108e71e3440b645ebdb5cdbd87712151299789	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc1-7.4p	\N	\N	16384	c9dfa003	86e8f9fc25de67691ce5385d93b723e7eb836b2b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc1-8.8k	\N	\N	16384	265b31fa	d46e6db5d6f325954d2b6159157b11e10fe5838d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc1-9.8l	\N	\N	16384	541ec029	a3096d8405b6bbc862b03773889f6cbd43739f5b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc2-1.9a	\N	\N	16384	10b0977e	6266d173b55075da1f252092bf38185880bc4969	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc2-2.9a	\N	\N	16384	5c846f35	3c98a0f1131f2e2477fc75a588123c57ff5350ad	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc2-3.9b	\N	\N	8192	3390b33c	0733aece368acc913e2ff32e8817194cb4b630fb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	mc2-6.4n	\N	\N	16384	9686dc3c	1caf712eedb1f70559169685e5421e11866e518c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	sk1-mcu.bin	\N	\N	4096	6ef08fb3	4842590d60035a0059b0899eb2d5f58ae72c2529	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	metrocrs	skysnd.bin	\N	\N	512	19e2d4b9	ba189f15dc635ab0e342c47bb61956dfa7c8abaa	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	mooncrsg	\N	\N	\N	\N	\N	Moon Cresta (Gremlin)	1980	Gremlin	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr171	\N	\N	2048	24cfd145	08c6599db170dd6ee364c44f70a0f5c0f881b6ef	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr172	\N	\N	2048	13932a15	b8885c555c6ad7021be55c6925a0a0872c1b6abd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr194	\N	\N	2048	0e5582b1	946ad4aeb10c0b7b3f93fd24925cc9bcb49e443c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr195	\N	\N	2048	12cb201b	ebb01ec646b9e015cbcb93f70dfdaf448afefc12	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr196	\N	\N	2048	18255614	b373e22d47c0f7facba13148ca9c462ec9a0d732	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr197	\N	\N	2048	05ac1466	cbf93a8ce0925fa1c073c74f1274b190d9faefaf	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr198	\N	\N	2048	c28a2e8f	9ff6bab1e1185597ba55cb0d6086091a1fce01a6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr199	\N	\N	2048	5a4571de	2a4170dee105922fc69c99b79f6f328098e81918	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr200	\N	\N	2048	b7c85bf1	cc9f593658ea39c849d80c83ee0c2170cc29879e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr201	\N	\N	2048	2caba07f	8fec4904e12b4cfb6068784007278be986a3eede	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr202	\N	\N	2048	26c7e800	034192e5e2cbac4b66a9828f5ec2311c2c368781	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mooncrsg	epr203	\N	\N	2048	be26b561	cc27de6888eaf4ee18c0d37d9bcb528dd282b838	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	motos	\N	\N	\N	\N	\N	Motos	1985	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	motos.pr1	\N	\N	32	71972383	66b0619affcc5168b099108800a941d6e2416ab0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	motos.pr2	\N	\N	256	730ba7fb	24eb167266752b064689662e3ef0f62d0407ac26	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	motos.pr3	\N	\N	256	7721275d	543adb5348db81ea82a5c039451001ebd82735e3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	motos.spr	\N	\N	256	2accdfb4	e21a0618c0f8e35ce26666b6850ac9c0d95d7971	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_1b.bin	\N	\N	16384	57b157e2	b050495fcc4a4d93551b29d4f05e49f64017c870	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_1d.bin	\N	\N	16384	1104abb2	ade809a73ac24494b9f95f65b7592df5f86dce60	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_1k.bin	\N	\N	8192	55e45d21	a8b195acfec542734751de29c9dafc2b165a5881	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_3b.bin	\N	\N	4096	5d4a2a22	4af9bf2ae9bb78d2d029ef38809181ffa3c0eb66	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_3m.bin	\N	\N	16384	2f0e396e	664679f9d3d74a3fccb086af910392b4fe40c9bc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	motos	mts_3n.bin	\N	\N	16384	cf8a3b86	2b49cdec516e23783f2a291633d81ab8bd0245fc	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	mspacman	\N	\N	\N	\N	\N	Ms. Pac Man	1981	bootleg	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	pacman.spr	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	nrallyx	\N	\N	\N	\N	rallyx	New Rally X	1981	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.spr	\N	\N	256	b75c4e87	450f79a5ae09e34f7624d37769815baf93c0028e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.8e	\N	\N	4096	ca7a174a	dc553df18c45ba399661122be75b71d6cb54d6a2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.1b	\N	\N	4096	9404c8d6	ee7e45c22a2fbf72d3ac5ac26ab1111a22623fc5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.1e	\N	\N	4096	ac01bf3f	8e1a7cce92ef709d18727db6ee7f89936f4b8df8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.1h	\N	\N	4096	aeba29b5	2a6e4568729b83c430bf70e43c4146ad6a556b1b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	nrallyx	nrallyx.1k	\N	\N	4096	78f17da7	1e035746a10f91e898166a58093d45bdb158ae47	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	nrallyx	bang.sam	
+game	HiVE_v1.04	pacland	\N	\N	\N	\N	\N	Pac Land	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-1	\N	\N	16384	a938ae99	bf12097d8c69685cb7af763f9b9617c767aaed2f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-2	\N	\N	16384	3fe43bb5	14e6144d06ff2fd786f383f36f1b8238ac364849	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-3	\N	\N	16384	aa9fa739	7b1f7857eb5f68e166b1f8988c82051aaf05df48	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-4	\N	\N	16384	2b895a90	820f8873c6a5a736089406d0f03d491dfb82d00d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-5	\N	\N	16384	7af66200	f44161ded1633e9801b7a9cd84d481e53823f5d9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-6	\N	\N	16384	b01e59a9	e5b093852d33a4d09969d111fa6e42e964aa4dac	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-7	\N	\N	8192	8c5becae	14d67136395c4c64472980a69648ce2d479ae67f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-8	\N	\N	16384	a2ebfa4a	4a2a2b43a23a7a46266751415d1bde118143429c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-9	\N	\N	16384	f5d5962b	8d008a9bc06dc562c241955d9c551647b5c1f4e9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-10	\N	\N	16384	c7cf1904	7ca8ed20ee32eb8609ac96b4e4fcb3b6027b598a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-11	\N	\N	16384	6621361a	4efa40adba803006e86d5e12514983d4132b5efb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-12	\N	\N	8192	c159fbce	b0326c85b7df407f3e94c38a5971f911968d7b27	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-13	\N	\N	8192	6c5ed9ae	db919c9254289179e98ba5d2ed8c66d67ae95f35	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl-snd	\N	\N	512	d3aff2df	213b87acdc8494e5bd24b44bc9e6a17dcb5aea5e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-mcu.bin	\N	\N	4096	6ef08fb3	4842590d60035a0059b0899eb2d5f58ae72c2529	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-1.bin	\N	\N	1024	a78ebdaf	8ea215701eb5e1a2a329ef92c19fc69b18fc28c7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-2.bin	\N	\N	1024	472885de	8d552c90b8d5bc6ad6c60934c00f4303cd180ce7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-3.bin	\N	\N	1024	80558da8	7e1483467817295f36d1e2bdb32934c4f2617d52	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-4.bin	\N	\N	1024	3a7be418	475cdc68205e3acce83fe79b00b74c6a7e28dde4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacland	pl1-5.bin	\N	\N	1024	4b7ee712	dd0ec4c632d8b160f7b54d8f18fcf4ef1508d832	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	pacman	\N	\N	\N	\N	\N	Pac Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.spr	\N	\N	256	a9cc86bf	bbcec0570aeceb582ff8238a4bc8546a23430081	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	pacnpal	\N	\N	\N	\N	\N	Pac N Pal	1983	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap11b.cpu	\N	\N	8192	3cac401c	38a14228469fa4a20cbc5d862198dc901842682e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap12b.cpu	\N	\N	8192	15308bcf	334603f8904f8968d05edc420b5f9e3b483ee86d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap13b.cpu	\N	\N	8192	ed64a565	b16930981490d97486d4df96acbb3d1cddbd3a80	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap14.cpu	\N	\N	4096	330e20de	5b23e5dcc38dc644a36efc8b03eba34cea540bea	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap15.vid	\N	\N	8192	fb6f56e3	fd10d2ee49b4e059e9ef6046bc86d97e3185164d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	pap16.cpu	\N	\N	4096	a36b96cb	e0a11b5a43cbf756ddb045c743973d0a55dbb979	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	papi4.vid	\N	\N	256	686bde84	541d08b43dbfb789c2867955635d2c9e051fedd9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	papi5.vid	\N	\N	256	ac46203c	3f47f1991aab9640c0d5f70fad85d20d6cf2ea3d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	papi6.vid	\N	\N	32	52634b41	dfb109c8e2c62ae1612ba0e3272468d152123842	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pacnpal	papi3.cpu	\N	\N	256	83c31a98	8f1219a6c2b565ae9d8f72a9c277dc4bd38ec40f	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	pengo2u	\N	\N	\N	\N	\N	Pengo (set 2, not encrypted)	1982	Sega	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	ic105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	ic92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pr1635.051	\N	\N	256	c29dea27	563c9770028fe39188e62630711589d6ed242a66	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u8	\N	\N	4096	3dfeb20e	a387b72501da77bf38b58619d2099083a0463e1f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u7	\N	\N	4096	1db341bd	d1c66bb9cf479e6960dbcd35c820097a81eaa555	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u31	\N	\N	4096	13de47ed	332b484d47c9921ed93432755bb2d7a9d4628939	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u20	\N	\N	4096	0fdb04b8	ed814d58318c1055e475ff678609d189727bf9b4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u15	\N	\N	4096	7c2842d5	a8a568da68babd0ccb9f2cee4182fc01c3138494	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pengo2u	pengo.u14	\N	\N	4096	6e3c1f2f	2ee821b0f6e0f3cfeae7f5ff25a6e9bd977efce0	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	phozon	\N	\N	\N	\N	\N	Phozon	1983	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	sound.prm	\N	\N	256	ad43688f	072f427453efb1dda8147da61804fff06e1bc4d5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	3b.rom	\N	\N	8192	5a4b3a79	2774681ea668403de31ea218d5df3ce64e3b9243	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	5t.rom	\N	\N	8192	d50f08f8	4e9dda0d5ad1c1b8b3be7edb05b3060f5f63a9c7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	6c.rom	\N	\N	8192	f1fda22e	789881e94743efae01c63c1e3ce8d039cfa0324c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	6d.rom	\N	\N	8192	f40e6df0	48585ac1eff8fb7ed35f56c767d725cae88ff128	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	6e.rom	\N	\N	8192	a6686af1	87a948b289356675d0418c87c3c0ae36ceba3ee0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	6h.rom	\N	\N	8192	72a65ba0	b1d5146c009469d4c6695f08ea2c6ad5d05b5b9b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	7j.rom	\N	\N	4096	27f9db5b	12ef817136b45927d7f279952fa19049a1349f60	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	8j.rom	\N	\N	4096	15b12ef8	e3303656b4e8b988e55a9551e5344e289958f677	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	9r.rom	\N	\N	8192	5d9f0a28	2caef680229180b237f8c4becf052f1a96592efd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	chr.prm	\N	\N	256	429e8fee	7b1899ca3f33f4561b572de1f24d9ea9d7d84b59	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	palette.prm	\N	\N	32	60e856ed	dcc9a2dfc728b9ca1ab895008de07e20ebed9da3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	sprite.prm	\N	\N	256	9061db07	4305d37e613e1d15d37539b152c948648189c2cd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	green.prm	\N	\N	256	d6e08bef	b0ca7f8a77b7208cf974a8cc565fc91b7f40f51f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	red.prm	\N	\N	256	a2880667	b24d9b3354d20a7ecc02c428245669c6c86bfd61	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	phozon	blue.prm	\N	\N	256	b2d69c72	e7b1ed698ab0e87872cb3a8f3ec102ca3a753259	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	pooyan	\N	\N	\N	\N	\N	Pooyan	1982	Konami	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	pooyan.pr1	\N	\N	32	a06a6d0e	ae131320b66d76d4bc9108da6708f6f874b2e123	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	pooyan.pr2	\N	\N	256	82748c0b	9ce8eb92e482eba5a9077e9db99841d65b011346	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	pooyan.pr3	\N	\N	256	8cd4cd60	e0188ecd5b53a8e6e28c1de80def676740772334	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	1.4a	\N	\N	8192	bb319c63	5401b8ef586127c8cf5a431e5c44e38be2254a98	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	2.5a	\N	\N	8192	a1463d98	b23cc7e61276c61a78e80fe08c7f0c8adadf2ffe	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	4.7a	\N	\N	8192	9e0f9bcc	4d9707423ad531ac535db432e329b3d52cbb4559	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	7.9g	\N	\N	4096	bbe6d6e4	de5447d59a99c4c08c4f40c0b7dd3c3c609c11d4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	8.10g	\N	\N	4096	931b29eb	0325c1c1fdb44e0044b82b7c79b5eeabf5c11ce7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	3.6a	\N	\N	8192	fe1a9e08	5206893760f188ac71a5e6bd42561cf25fcc3d49	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	xx.8a	\N	\N	4096	e1795b3d	9ab4e5362f9f7d9b46b750e14b1d9d71c57be40f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	xx.7a	\N	\N	4096	fbe2b368	5689a84ef110bdc0039ad1a6c5778e0b8eccfce0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	6.9a	\N	\N	4096	b2d8c121	189ad488869f34d7a38b82ef70eb805acfe04312	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	pooyan	5.8a	\N	\N	4096	1097c2b6	c815f0d27593efd23923511bdd13835456ef7f76	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	qix	\N	\N	\N	\N	\N	Qix	1981	Taito America Corporation	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u10	\N	\N	2048	568be942	8b6a01d983d355a64372fa76af810ab53e09d5df	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u12	\N	\N	2048	aad35508	5fa72e00b4373de21e27a86b49a44a9769f769f4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u13	\N	\N	2048	46c13504	19c084c38b75f14bf5094b317afeecaca6870f7a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u14	\N	\N	2048	5115e896	8359a1700fff7a38e8ea4f92a4f18bc628cf1cb1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u15	\N	\N	2048	ccd52a1b	86d134cd769ef12820638b96a4ffedd8b15dffd2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u16	\N	\N	2048	cd1c36ee	b379b1fe3109947a12c9683cd0c2400c2ee845b3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u17	\N	\N	2048	1acb682d	a2c60964e8d838d09662f8a670c6da41ba850df9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u18	\N	\N	2048	de77728b	8e183bb27858aad9a996e4a2e5a95f0145d1f5b4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u19	\N	\N	2048	c0994776	9452a98c78a038679c4e58f4a9983adb28ea5e78	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u27	\N	\N	2048	f3782bd0	bfc6d29f9668e02857453e96c005c81568ae931d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u4	\N	\N	2048	5b906a09	84a2e817d6718e0276fcea702811a91bc054a670	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u5	\N	\N	2048	254a3587	66045c71cc1d04d4e03c728e578f570fbf7c650d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u6	\N	\N	2048	ace30389	50c6275d13cfbca7750d5a3e725faedba7574e04	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u7	\N	\N	2048	8ebcfa7c	21ccf5e74424ab5470473d1059ee6a43d144f685	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u8	\N	\N	2048	b8a3c8f9	32ba771913ef44b1133ecfaedaae7f96dcc84343	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix	u9	\N	\N	2048	26cbcd55	2e55e222f850548cd1d461ab5337e98dd817b567	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	qix2	\N	\N	\N	\N	\N	Qix 2 (Tournament)	1981	Taito America Corporation	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u27.rmb	\N	\N	2048	f3782bd0	bfc6d29f9668e02857453e96c005c81568ae931d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u9.rmb	\N	\N	2048	e80e9b1d	66ef22a26df3f766ae813213473b9ac4b35b01f6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u8.rmb	\N	\N	2048	3159bc00	479a69bfe5af48d5ce63978265ce59f79c25749f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u7.rmb	\N	\N	2048	bad037c9	17218c31895b1547b71d2d9d2b6a93d2e5d73bdd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u6.rmb	\N	\N	2048	8630120e	14a020fd1bff4acbb034883e33130adda85884e5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u5.rmb	\N	\N	2048	948f53f3	db6eddec8ba41335316d80b6f97e932bf91139af	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u4.rmb	\N	\N	2048	6cfb4185	6545dece8eaeb716877aa6e7b24c21f6e5991451	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u10.rmb	\N	\N	2048	9a55d360	fc5f8c853dcc573f6b36dbdd63e5d1edba88bce1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u19.rmb	\N	\N	2048	68e8d5a6	d09252c393be2fdaf3b9b9f477c79f721d15943f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u18.rmb	\N	\N	2048	1f91ed7a	85bb5370a244719663a4f859f66860613aa2b86e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u17.rmb	\N	\N	2048	cf31dc49	71c089d827ab61ba69e5e95b7e53220763786df9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u16.rmb	\N	\N	2048	cc139e34	0ed3e7179b0cbaa31fa91e1ed862b86f5032919a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u15.rmb	\N	\N	2048	60f3913d	a97b658fe2c58b00c2749072828b2e0032894915	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u14.rmb	\N	\N	2048	362123a9	3e2a853f6960f2d5fdcdef8dec8ccf5aad449548	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u13.rmb	\N	\N	2048	3d089fcb	f4f31134c9c15160d2d15cb41296dfec6f2dfe37	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u12.rmb	\N	\N	2048	484280fd	a60c1a278e519721294b2486dc817d248d19c3be	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	qix2	u3.rmb	\N	\N	2048	19cebaca	7d7e79ab0920952cf7618567c9c65397535b6d4f	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	rallyx	\N	\N	\N	\N	\N	Rally X	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	1b	\N	\N	4096	5882700d	b6029e9730f1694894fe8b729ac0ba8d6712dea9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	1e	\N	\N	4096	786585ec	8aa75f10d695f4b3483c4bf7030b733318fd3bf3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	1h	\N	\N	4096	110d7dcd	23e0855c2c9300f2068711d160fcdfaedd07832f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	1k	\N	\N	4096	473ab447	f0a37ccc48c97c53672f754ca2ac37dc0dc91a9f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	8e	\N	\N	4096	277c1de5	30bc57263e8dad870c501c76bce6f42d69ab9e00	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	rallyx	im5623.3p	\N	\N	256	4bad7017	3e6da9d798f5e07fa18d6ce7d0b148be98c766d5	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	rallyx	bang.sam	
+game	HiVE_v1.04	robotron	\N	\N	\N	\N	\N	Robotron	1982	Williams	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb1	\N	\N	4096	66c7d3ef	f6d60e26c209c1df2cc01ac07ad5559daa1b7118	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb2	\N	\N	4096	5bc6c614	4d6e82bc29f49100f7751ccfc6a9ff35695b84b3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb3	\N	\N	4096	e99a82be	06a8c8dd0b4726eb7f0bb0e89c8533931d75fc1c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb4	\N	\N	4096	afb1c561	aaf89c19fd8f4e8750717169eb1af476aef38a5e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb5	\N	\N	4096	62691e77	79b4680ce19bd28882ae823f0e7b293af17cbb91	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb6	\N	\N	4096	bd2c853d	f76ec5432a7939b33a27be1c6855e2dbe6d9fdc8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb7	\N	\N	4096	49ac400c	06eae5138254723819a5e93cfd9e9f3285fcddf5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb8	\N	\N	4096	3a96e88c	7ae38a609ed9a6f62ca003cab719740ed7651b7c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sb9	\N	\N	4096	b124367b	fd9d75b866f0ebbb723f84889337e6814496a103	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sba	\N	\N	4096	13797024	d426a50e75dabe936de643c83a548da5e399331c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sbb	\N	\N	4096	7e3c1b87	f8c6cbe3688f256f41a121255fc08f575f6a4b4f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.sbc	\N	\N	4096	645d543e	fad7cea868ebf17347c4bc5193d647bbd8f9517b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	robotron	robotron.snd	\N	\N	4096	c56c1d28	15afefef11bfc3ab78f61ab046701db78d160ec3	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	sbrkout	\N	\N	\N	\N	\N	Super Breakout	1978	Atari	\N	\N	\N	
+game_rom	HiVE_v1.04	sbrkout	033280.p4	\N	\N	512	5a69ce85	ad9078d12495c350738bdb0b1e1b6120d9e01f60	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sbrkout	033281.r4	\N	\N	512	066bd624	cfb86c7013a70b8375126b23a4e66df5f3b9186b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sbrkout	033453.c1	\N	\N	2048	a35d00e3	53617ed1d362e82d6f45abd66056bffe23300e3b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sbrkout	033454.d1	\N	\N	2048	d42ea79a	66c9b29226cde36d1ac6d1e81f34ebb5c79eded4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sbrkout	033455.e1	\N	\N	2048	e0a6871c	1bdfa73d7b8d91e1c68b7847fc310cac314ee02d	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	scramble	\N	\N	\N	\N	\N	Scramble	1981	[Konami] (Stern license)	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	82s123.6e	\N	\N	32	4e3caeab	a25083c3e36d28afdefe4af6e6d4f3155e303625	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2d	\N	\N	2048	b89207a1	5422df979e82bcc73df49f50515fe76c126c037b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2e	\N	\N	2048	e9b4b9eb	a8ee9ddfadf5e9accedfaf81da757a88a2e55a0a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2f	\N	\N	2048	a1f14f4c	3eae2b3e4596505a8afb5c5cfb108e823c2c4319	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2h	\N	\N	2048	591bc0d9	170f9e92f0a3bee04407be27210b4fa825367688	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2j	\N	\N	2048	22f11b6b	e426ef6a7444a39a34d59799973b07d11b89f372	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2l	\N	\N	2048	705ffe49	174df3f281068c767344f751daace646360e26d6	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2m	\N	\N	2048	ea26c35c	a2f3380982d93a022f46756f974fd16c4cd617de	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	2p	\N	\N	2048	94d8f5e3	f3a9c4d1d91836476fcad87ea0d243dde7171e0a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	5c	\N	\N	2048	bcd297f0	8ed78487d76fd0a917ab7b258937a46e2cd9800c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	5d	\N	\N	2048	de7912da	8558b4eff5d7e63029b325edef9914feda5834c3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	5e	\N	\N	2048	ba2fa933	1f976d8595706730e29f93027e7ab4620075c078	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	5f	\N	\N	2048	5f30311a	d64134089bebd995b3a1a089411e180c8c29f32d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	scramble	5h	\N	\N	2048	516e029e	81b44eb1ce43cebde87f0a41ade2e7eb291af78d	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	skykid	\N	\N	\N	\N	\N	Sky Kid	1985	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk1-6b.bin	\N	\N	16384	7abe6c6c	7d2631cc6149fa3e02b1355cb899de5474ff5d0a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk5-7e.bin	\N	\N	8192	c33a498e	9f89a514888418a9bebbca341a8cc66e41b58acb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk6-6l.bin	\N	\N	8192	58b731b9	40f7be85914833ce02a734c20d68c0db8b77911d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk7-10m.bin	\N	\N	16384	3454671d	723b26a0f208addc2a22736457cb4be6ab6c69cc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk9-10n.bin	\N	\N	16384	44bb7375	5b2fa6782671150bab5f3c3ac46b47bc23f3d7e0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk-6n.bin	\N	\N	512	161514a4	4488ce60d12be6586e4a1ddbbfd06bf4e7dfaceb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk-5n.bin	\N	\N	512	c697ac72	3b79755e6cbb22c14fc4affdbd3f4521da1d90e8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk1-2n.bin	\N	\N	256	0218e726	8b766162a4783c058d9a1ecf8741673d7ef955fb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk2-2p.bin	\N	\N	256	fc0d5b85	d1b13e42e735b24594cf0b840dee8110de23369e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk3-2r.bin	\N	\N	256	d06b620b	968a2d62c65e201d521e9efa8fcf6ad15898e4b3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk4-3c.bin	\N	\N	8192	a460d0e0	7124ffeb3b84b282940dcbf9421ae4934bcce1c8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk3-6d.bin	\N	\N	16384	314b8765	d90a8a853ce672fe5ee190f07bcb33262c73df3b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk2-6c.bin	\N	\N	16384	ea8a5822	5b13133410bcb7d647e662b476dbfd2edab8aac0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	skysnd.bin	\N	\N	512	19e2d4b9	ba189f15dc635ab0e342c47bb61956dfa7c8abaa	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	skykid	sk1-mcu.bin	\N	\N	4096	6ef08fb3	4842590d60035a0059b0899eb2d5f58ae72c2529	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	stargate	\N	\N	\N	\N	\N	Stargate	1981	Williams	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	sg.snd	\N	\N	2048	2fcf6c4d	9c4334ac3ff15d94001b22fc367af40f9deb7d57	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.03	\N	\N	4096	15077a9d	7badb4318b208f49d7fa65e915d0aa22a1e37915	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.05	\N	\N	4096	2d306074	54f871983699113e31bb756d4ca885c26c2d66b4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.07	\N	\N	4096	23606060	a487ffcd4920d1056b87469735f7e1002f6a2e49	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.09	\N	\N	4096	88187b64	efacc4a6d4b2af9a236c9d520de6d605c79cc5a8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.11	\N	\N	4096	7d2c5daf	6ca39f493eb8b370154ad46ef01976d352c929e1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.01	\N	\N	4096	88824d18	f003a5a9319c4eb8991fa2aae3f10c72d6b8e81a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.02	\N	\N	4096	afc614c5	087c6da93318e8dc922d3d22e0a2af7b9759701c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.04	\N	\N	4096	a8b4bf0f	6b4d47c2899fe9f14f9dab5928499f12078c437d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.06	\N	\N	4096	53598dde	54b02d944caf95283c9b6f0160e75ea8c4ccc97b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.08	\N	\N	4096	4ec490c7	8726ebaf048db9608dfe365bf434ed5ca9452db7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.10	\N	\N	4096	60b07ff7	ba833f48ddfc1bd04ddb41b1d1c840d66ee7da30	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	stargate	stargate.12	\N	\N	4096	a0396670	c46872550e0ca031453c6513f8f0448ecc9b5572	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	superpac	\N	\N	\N	\N	\N	Super Pac Man	1982	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	superpac.spr	\N	\N	256	ad43688f	072f427453efb1dda8147da61804fff06e1bc4d5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	spc-2.1c	\N	\N	8192	1a38c30e	ae0ee9f3df0991a80698fe745a7a853a4bb60710	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	spc-3.1k	\N	\N	4096	04445ddb	ce7d14963d5ddaefdeaf433a6f82c43cd1611d9b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	spv-1.3c	\N	\N	4096	78337e74	11222adb55e6bce508896ccb1f6dbab0c1d44e5b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	spv-2.3f	\N	\N	8192	670a42f2	9171922df07e31fd1dc415766f7d2cc50a9d10dc	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	superpac	spc-1.1b	\N	\N	8192	730e95a9	ca73c8bcb03c2f5c05968c707a5d3f7f9956b886	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	sxevious	\N	\N	\N	\N	galaga	Super Xevious	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_2c.rom	\N	\N	4096	dd35cf1c	f8d1f8e019d8198308443c2e7e815d0d04b23d14	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_2l.rom	\N	\N	4096	6a44bf92	0ca726f7f9528789f2a718df55e59406a283cdfa	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_2m.rom	\N	\N	4096	294d5404	ecc39fb2c0065a36f20541747089b4e30dfb99b1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_3f.rom	\N	\N	4096	d4bd3d81	5831bb306bd650779207936bfd00f25864733abb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_3j.rom	\N	\N	4096	af06be5f	5a020822387ab8c69214db961180760fa9853e6e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_3m.rom	\N	\N	4096	fd04e615	7169e7f3bd1e9cfae9671b89f2a45f56b968e1ff	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	cpu_3p.rom	\N	\N	4096	1c8d27d5	2c41303d8c74acb5840295a4b460a39a9a8e21bb	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_2a.rom	\N	\N	4096	57ed9879	3106d1aacff06cf78371bd19967141072b32b7d7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_2c.rom	\N	\N	4096	31e244dd	3f7eac12863697a98e1122111801606759e44b2a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_3b.rom	\N	\N	4096	088c8b26	9c3b61dfca2f84673a78f7f66e363777a8f47a59	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_3c.rom	\N	\N	4096	de60ba25	32bc09be5ff8b52ee3a26e0ac3ebc2d4107badb7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_3d.rom	\N	\N	4096	535cdbbc	fb9ffe5fc43e0213231267e98d605d43c15f61e8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_4r.rom	\N	\N	8192	02417d19	b5f830dd2cf25cf154308d2e640f0ecdcda5d8cd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_2b.rom	\N	\N	8192	ae3ba9e5	49064b25667ffcd81137cd5e800df4b78b182a46	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_4m.rom	\N	\N	8192	dc2c0ecb	19ddbd9805f77f38c9a9a1bb30dba6c720b8609f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_4p.rom	\N	\N	8192	dfb587ce	acff2bf5cde85a16cdc98a52cdea11f77fadf25a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	vid_4n.rom	\N	\N	4096	605ca889	3bf380ef76c03822a042ecc73b5edd4543c268ce	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	xevious.6e	\N	\N	256	3cb60975	c94d5a5dd4d8a08d6d39c051a4a722581b903f45	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	xevious.6d	\N	\N	256	5c8796cc	63015e3c0874afc6b1ca032f1ffb8f90562c77c8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	xevious.6a	\N	\N	256	5cc2727f	0dc1e63a47a4cb0ba75f6f1e0c15e408bb0ee2a1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	4h-4f	\N	\N	512	c21a65ff	f5614bb7929cdfcf0688b62916dac64b819171e4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	3l-3m	\N	\N	512	90876fdc	80bd09f7b38cf33e13cd6421a4fd7e986fb6eea8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	sxevious	xevious.spr	\N	\N	256	550f06bc	816a0fafa0b084ac11ae1af70a5186539376fc2a	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	sxevious	bang.sam	
+game	HiVE_v1.04	targ	\N	\N	\N	\N	\N	Targ	1980	Exidy	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ11d1	\N	\N	1024	9f03513e	aa4763e49df65e5686a96431543580b8d8285893	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ10a1	\N	\N	2048	969744e1	e123bdb02b3b5f6a59c1e7c9ef557fe6bb19c62c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ09a1	\N	\N	2048	a177a72d	0e705e3e32021e55af4414fa0e2ccbc4980ee848	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ08a1	\N	\N	2048	6e6928a5	10c725b27225ac5aad8639b081df68dd61522cf2	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ07a4	\N	\N	2048	e2f37f93	b66743c296d3d4caba3bcbe6aa68cd6edd414816	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	targ	targ06a3	\N	\N	2048	a60a1bfc	17c0e67e1a0b263b57d70a148cc5d5099fecbb40	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	targ	expl.sam	
+game_sample	HiVE_v1.04	targ	shot.sam	
+game_sample	HiVE_v1.04	targ	sexpl.sam	
+game_sample	HiVE_v1.04	targ	spslow.sam	
+game_sample	HiVE_v1.04	targ	spfast.sam	
+game_sample	HiVE_v1.04	targ	oneup.sam	
+game	HiVE_v1.04	timeplt	\N	\N	\N	\N	\N	Time Pilot	1982	Konami	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	timeplt.b4	\N	\N	32	34c91839	f62e279e21fce171231d3139be7adabe1f4b8c2e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	timeplt.b5	\N	\N	32	463b2b07	9ad275365eba4869f94749f39ff8705d92056a10	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	timeplt.e12	\N	\N	256	f7b7663e	151bd2dff4e4ef76d6438c1ab2cae71f987b9dad	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	timeplt.e9	\N	\N	256	4bbb2150	678433b21aae1daa938e32d3293eeed529a42ef9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm1	\N	\N	8192	1551f1b9	c72f30988ac00cbe6549b71c3bcb414511e8b997	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm2	\N	\N	8192	58636cb5	ab517efa93ae7be780af55faea82a6e83edd828c	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm3	\N	\N	8192	ff4e0d83	ef98a1abb45b22d7498a0aca520f43bbee248b22	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm4	\N	\N	8192	7e437c3e	cbe2ccd2cd503af62f009cd5aab73aa7366230b1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm5	\N	\N	8192	e8ca87b9	5dd30d3fb9fd8cf9e6a8e37e7ea858c7fd038a7e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm6	\N	\N	8192	c2507f40	07221875e3f81d9def67c57a7ccd82d52ce65e01	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	timeplt	tm7	\N	\N	4096	d66da813	408fca4515e8af84211df3e204c8776b2f8adb23	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	todruaga	\N	\N	\N	\N	\N	Tower of Druaga	1984	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr1	\N	\N	32	122cc395	a648c53f2e95634bb5b27d79be3fd908021d056e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr2	\N	\N	256	8c661d6a	1340e4f657f4f2c4ef651a441c3b51632e757d0b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr3	\N	\N	256	5bcec186	a56bec1f274ab1f9daf6becf27d3b6165d8576dd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr4	\N	\N	256	f029e5f5	e4e114d93dd807b9e82ac07c7fccfd245a79bc29	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr5	\N	\N	256	ecdc206c	3c081983f1e7a15d15ccb3c8304817bdc2ac5e87	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.pr6	\N	\N	256	57b5ad6d	d4b22bfbfc2fc9b9490ca5c53838966145e163e9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	todruaga.spr	\N	\N	256	07104c40	16db55525034bacb71e7dc8bd2a7c3c4464d4808	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga3b.bin	\N	\N	4096	d32b249f	7d7cee4101ef615fb92c3702f89a9823a6231195	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga3m.bin	\N	\N	8192	e827e787	74e0af4c7d6e334bcd211a33eb18dddc8a182aa7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga3n.bin	\N	\N	8192	962bd060	74cdcafc26475bda085bf62ed17e6474ed782453	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga4.bin	\N	\N	8192	ae9d06d9	3d8621fdd74fafa61f342886faa37f0aab50c5a7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga1.bin	\N	\N	16384	8c20ef10	12ea4875ce4d4590b88862139d3379ab9f5cec03	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	todruaga	druaga3.bin	\N	\N	16384	7ab4f5b2	65035a5ecdff14bf23e01fe0f5e0935d156d94ff	\N	\N	\N	\N	\N	\N	
+game	HiVE_v1.04	xevious	\N	\N	\N	\N	galaga	Xevious	1982	Namco	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-2c-a.bin	\N	\N	4096	dd35cf1c	f8d1f8e019d8198308443c2e7e815d0d04b23d14	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-2a.bin	\N	\N	4096	57ed9879	3106d1aacff06cf78371bd19967141072b32b7d7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-2c.bin	\N	\N	4096	31e244dd	3f7eac12863697a98e1122111801606759e44b2a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-3b.bin	\N	\N	4096	088c8b26	9c3b61dfca2f84673a78f7f66e363777a8f47a59	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-3c.bin	\N	\N	4096	de60ba25	32bc09be5ff8b52ee3a26e0ac3ebc2d4107badb7	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-3d.bin	\N	\N	4096	535cdbbc	fb9ffe5fc43e0213231267e98d605d43c15f61e8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-4r.bin	\N	\N	8192	02417d19	b5f830dd2cf25cf154308d2e640f0ecdcda5d8cd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-2b.bin	\N	\N	8192	ae3ba9e5	49064b25667ffcd81137cd5e800df4b78b182a46	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-4m.bin	\N	\N	8192	dc2c0ecb	19ddbd9805f77f38c9a9a1bb30dba6c720b8609f	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-4p.bin	\N	\N	8192	dfb587ce	acff2bf5cde85a16cdc98a52cdea11f77fadf25a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-4n.bin	\N	\N	4096	605ca889	3bf380ef76c03822a042ecc73b5edd4543c268ce	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xevious.6e	\N	\N	256	3cb60975	c94d5a5dd4d8a08d6d39c051a4a722581b903f45	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xevious.6d	\N	\N	256	5c8796cc	63015e3c0874afc6b1ca032f1ffb8f90562c77c8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xevious.6a	\N	\N	256	5cc2727f	0dc1e63a47a4cb0ba75f6f1e0c15e408bb0ee2a1	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xevious.spr	\N	\N	256	550f06bc	816a0fafa0b084ac11ae1af70a5186539376fc2a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-4c-a.bin	\N	\N	8192	0ede5706	65b235c5abe487612e11d0235410f1ca59b06e95	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-1m-a.bin	\N	\N	8192	92fa6cae	03fd27cadf8e4a9be25e3695d4a2bb5ff97745f8	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	xe-1l-a.bin	\N	\N	8192	bd74609a	a44cebb9040b8da425b6cebdc0c241d91c2f6511	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	4h-4f	\N	\N	512	c21a65ff	f5614bb7929cdfcf0688b62916dac64b819171e4	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	xevious	3l-3m	\N	\N	512	90876fdc	80bd09f7b38cf33e13cd6421a4fd7e986fb6eea8	\N	\N	\N	\N	\N	\N	
+game_sample	HiVE_v1.04	xevious	bang.sam	
+game	HiVE_v1.04	zookeep	\N	\N	\N	\N	\N	Zoo Keeper	1982	Taito America Corporation	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za10	\N	\N	4096	05df1a5a	30797838c25cca038023c188cd9fa45277c4190d	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za13	\N	\N	4096	eebd5248	ebe7f8c436bfefa4236f603fbcbd38d2f4cfd2bd	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za14	\N	\N	4096	fab43297	daa5a780bc9f171da0f6db5319b1519caa09c6c9	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za15	\N	\N	4096	ef8cd67c	f3a2e12ccfa45eb77c2a6e0d9cc0601b99273fd3	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za16	\N	\N	4096	ccfc15bc	56ac6e89825fcde9cf7aeb5d0765a02f5474174a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za17	\N	\N	4096	358013f4	dd3fae69bf460f89c71e7c78d229dd86605c5950	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za18	\N	\N	4096	37886afe	a0cc902b2d253466e21c4fbf9d3339069fe79ebe	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za19	\N	\N	4096	bbfb30d9	bc6bd5525b159bee7b08b6967cd3088b7bd10fee	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za25	\N	\N	4096	779b8558	7312e63c23d92c9c52e93cc445a718bc8fe35a0a	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za26	\N	\N	4096	60a810ce	d97e5acea0ef1c208f8e5e95024c83dd6bc9b028	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za27	\N	\N	4096	99ed424e	e4e543dcb77f153aeb78904d11b95381d039299e	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za3	\N	\N	4096	cc4d0aee	05c0025e96b432088b46100051a2c780e46b7457	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za4	\N	\N	4096	ec3b10b1	44303ab923d776052ca4d2d09a6a4315d67adc4b	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za5	\N	\N	4096	dc0c3cbd	8335cd91bbacc680a3a98a5242d4cb5a6f61b2b5	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za6	\N	\N	4096	27c787dd	1142790d875573d0c39d846aba4b06946fd2bc88	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za7	\N	\N	4096	1479f480	bd0e9eead0f1213eb3b9653c73257bc704346ab0	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za8	\N	\N	4096	4c96cdb2	67e506462317d882c4e5c2e16318411d4958ac63	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	za9	\N	\N	4096	a4f7d9e0	a958b4d305bb397aa46d8fdab9dc7e472237ca11	\N	\N	\N	\N	\N	\N	
+game_rom	HiVE_v1.04	zookeep	zb12	\N	\N	4096	4e40d8dc	dd7923dcb55a2a1ae0f2029caf5a8904a9ebe8b1	\N	\N	\N	\N	\N	\N	

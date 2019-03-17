@@ -1,0 +1,12 @@
+
+author	allard_van_der_bas	Allard van der Bas	\N
+author_email	allard_van_der_bas	avdbas@wi.leidenuniv.nl
+author_emulator_link	allard_van_der_bas	pooyan	author
+
+author_emulator_link	allard_van_der_bas	arcadeemu	contributor
+
+author_emulator_link	allard_van_der_bas	multipac	contributor
+
+author_emulator_link	allard_van_der_bas	rockulator_orig	contributor
+
+author_emulator_link	allard_van_der_bas	theend	contributor

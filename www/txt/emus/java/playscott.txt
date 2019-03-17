@@ -1,0 +1,12 @@
+
+emulator	playscott	java	Playscott_v1.2	\N	\N	\N	Playscott	1.2	28/06/2003	Java	Capcom CPS-1 sound	Capcom CPS-1 sound playable through your web browser!	Abandoned
+emulator_homepage	playscott	http://cottage.consolemul.com/playscott/Playscott.html	\N
+emulator_author_link	playscott	romain_tisserland	\N	author
+
+emulator_author_link	playscott	david_raingeard	\N	author
+
+emulator_author_link	playscott	gollum	\N	author
+
+emulator_features	playscott	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	playscott	Keyboard
+emulator_file	playscott	Emulator	playscott12.zip

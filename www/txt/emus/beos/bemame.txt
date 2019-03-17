@@ -1,0 +1,14 @@
+
+emulator	bemame	beos	dummy	\N	\N	\N	BeMAME	0.36 beta 15	25/03/2000	BeOS 4.5	Emulates far more than anything else!	This is the BeOS MAME port. You may have noticed that the BeMame port is lagging behind the rest. That is because the developers have less and less time to work on it. If you are interested, and have some coding skills, visit their homepage and get in touch with them. Let them know that you want to help.	Dormant
+emulator_homepage	bemame	http://www.beoscentral.com/~bemame/	bad
+emulator_author_link	bemame	bemame	\N	author
+
+emulator_features	bemame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	bemame	Keyboard
+emulator_controller	bemame	Joystick
+emulator_controller	bemame	Mouse
+emulator_relative_link	bemame	mame	port_of
+
+emulator_file	bemame	Emulator for x86	BeMAME0.36b15.zip
+emulator_file	bemame	Source	BeMAME0.36b15-src.zip
+emulator_file	bemame	Makefile (missing in source archive)	makefile.zip

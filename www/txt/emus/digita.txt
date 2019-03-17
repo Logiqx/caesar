@@ -1,0 +1,4 @@
+
+emulator_contents	digita	Emulators for Digital Cameras	These emulators are all for Digital Cameras
+emulator_contents_emulator_link	digita	mamed
+emulator_contents_emulator_link	digita	multipacd

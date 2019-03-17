@@ -1,0 +1,32 @@
+game	Mapefer3_v0.8b	gng	\N	\N	\N	\N	\N	Ghosts'n Goblins (World? set 1)	1985	Capcom	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg3.bin	\N	\N	32768	9e01c65e	a87880d87c64a6d61313c3bc69c8d49511e0f9c3	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg4.bin	\N	\N	16384	66606beb	4c640f49be93c7d2b12d4d4c56c56e74099b6c2f	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg5.bin	\N	\N	32768	d6397b2b	39aa3cb8c229e60ac0ac410ff61e0c09dba78501	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg2.bin	\N	\N	32768	615f5b6f	7ef9ec5c2072e21c787a6bbf700033f50c759c1d	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg1.bin	\N	\N	16384	ecfccf07	0a1518e19a2e0a4cc3dde4b9568202ea911b5ece	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg11.bin	\N	\N	16384	ddd56fa9	f9d77eee5e2738b7e83ba02fcc55dd480391479f	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg10.bin	\N	\N	16384	7302529d	8434c994cc55d2586641f3b90b6b15fd65dfb67c	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg9.bin	\N	\N	16384	20035bda	bbb1fba0eb19471f66d29526fa8423ccb047bd63	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg8.bin	\N	\N	16384	f12ba271	1c42fa02cb27b35d10c3f7f036005e747f9f6b79	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg7.bin	\N	\N	16384	e525207d	1947f159189b3a53f1251d8653b6e7c65c91fc3c	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg6.bin	\N	\N	16384	2d77e9b2	944da1ce29a18bf0fc8deff78bceacba0bf23a07	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg17.bin	\N	\N	16384	93e50a8f	42d367f57bb2fdf60a0445ac1533da99cfeaa617	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg16.bin	\N	\N	16384	06d7e5ca	9e06012bcd82f98fad43de666ef9a75979d940ab	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg15.bin	\N	\N	16384	bc1fe02d	e3a1421d465b87148ffa94f5673b2307f0246afe	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg14.bin	\N	\N	16384	6aaf12f9	207a7407288182a4f3eddaea634c6a6452131182	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg13.bin	\N	\N	16384	e80c3fca	cb641c25bb04b970b2cbeca41adb792bbe142fb5	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	gng	gg12.bin	\N	\N	16384	7780a925	3f129ca6d695548b659955fe538584bd9ac2ff17	\N	\N	\N	\N	\N	\N	
+game	Mapefer3_v0.8b	diamond	\N	\N	\N	\N	\N	Diamond Run	1989	KH Video	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d5	\N	\N	32768	453f3f9e	b4dcf2eb0e6d4eca8ccde6e1a60f5e002e49a57b	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d3	\N	\N	32768	f436d6fa	18287ac51e717ea2ba9b307a738f76735120f21b	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d5o	\N	\N	32768	ae58bd3a	674611c7107cae53150fc249ffc616df891698fe	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d2	\N	\N	32768	615f5b6f	7ef9ec5c2072e21c787a6bbf700033f50c759c1d	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d1	\N	\N	16384	3a24e504	56bc38413b8a0dc2829e9c8f7bcfabafe26fd257	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d11	\N	\N	16384	754357d7	eb6e07a5f2d02687306711845001205bf0efa61b	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d10	\N	\N	16384	7531edcd	dc3eabf7e7503f0588f65620d26c1bc5eebde211	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d9	\N	\N	16384	22eeca08	6454b6c0a7a0991744386b79d4988a2517ad0636	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d8	\N	\N	16384	6b61be60	a92ff6e922da523caec1919f53bea48dab4ca564	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d7	\N	\N	16384	fd595274	8d22f89a7251ecc8b56ee3f8cfaab2fd5a716b3f	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d6	\N	\N	16384	7f51dcd2	ff4a68a7a6a5caa558898b03ba4a4dc3ab43ce30	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d17	\N	\N	16384	8164b005	d03bf62734b03c90a8393a23f8ce0a3769c43bf7	\N	\N	\N	\N	\N	\N	
+game_rom	Mapefer3_v0.8b	diamond	d14	\N	\N	16384	6f132163	cd1ebf9671bcce58896dadbf20f036eaadbe8bd5	\N	\N	\N	\N	\N	\N	

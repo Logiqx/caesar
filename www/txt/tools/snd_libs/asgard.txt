@@ -1,0 +1,7 @@
+
+tool	asgard	snd_libs	AsgardESS	1.5	24/09/1999	A free sound library for high-precision reproduction of emulated sound
+tool_homepage	asgard	http://www.sirius.com/~agiles/asgardess.html	bad
+tool_author_link	asgard	aaron_giles
+tool_emulator_link	asgard	frogcow
+tool_emulator_link	asgard	rem_mac
+tool_file	asgard	AsgardESS v1.5	AsgardESS1.5.sit

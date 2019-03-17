@@ -1,0 +1,11 @@
+
+emulator	zem	multi	ZEM_v0.001	\N	\N	\N	ZEM Arcade Emulator	0.001	01/06/1998	DOS	SEGA Z80 based games (Wonderboy Deluxe, Wonderboy in Monsterland and Pitfall 2)	Updated version of the WBMLEMU beta (which was released 17/04/1998)	Dormant
+emulator_homepage	zem	http://www.emucamp.com/zem/	\N
+emulator_author_link	zem	juan_arnal_arlandis	\N	author
+
+emulator_author_link	zem	bernat_arlandis_mano	\N	author
+
+emulator_tool_link	zem	watcom
+emulator_features	zem	No	No	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	zem	Keyboard
+emulator_file	zem	Emulator	zem-0001b.zip

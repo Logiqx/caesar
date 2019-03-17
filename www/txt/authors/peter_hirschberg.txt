@@ -1,0 +1,10 @@
+
+author	peter_hirschberg	Peter Hirschberg	\N
+author_email	peter_hirschberg	peterh@cronuscom.com
+author_email	peter_hirschberg	hippies@rma.edu
+author_email	peter_hirschberg	hippies@mnsinc.com
+author_emulator_link	peter_hirschberg	marblemadness	author
+
+author_emulator_link	peter_hirschberg	vector_dream	author
+
+author_emulator_link	peter_hirschberg	retrocade	contributor

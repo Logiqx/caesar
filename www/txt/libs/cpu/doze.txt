@@ -1,0 +1,7 @@
+
+library	doze	cpu	DOZE (Dave's Optimized Z80 Emulator)	?	22/07/2001	\N	Zilog Z80	Assembly core created by Dave and used in Final Burn.
+library_homepage	doze	http://www.finalburn.com/	\N
+library_author_link	doze	dave_dtmnt
+library_emulator_link	doze	finalburn
+library_emulator_link	doze	finalburnalpha
+library_file	doze	Emulator	doze.zip

@@ -1,0 +1,9 @@
+
+author	brian_levine	Brian Levine	\N
+author_email	brian_levine	blevine@mpinet.net
+author_email	brian_levine	blevine@systems.titan.com
+author_emulator_link	brian_levine	rockulator_orig	author
+
+author_emulator_link	brian_levine	rockulator	author
+
+author_emulator_link	brian_levine	retrocade	contributor

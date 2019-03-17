@@ -1,0 +1,11 @@
+
+author	roberto_ventura	Roberto Ventura	\N
+author_email	roberto_ventura	jdoe@galactica.it
+author_email	roberto_ventura	jdoe@micronet.it
+author_emulator_link	roberto_ventura	ghostsngoblins	author
+
+author_emulator_link	roberto_ventura	jff	author
+
+author_emulator_link	roberto_ventura	system8	author
+
+author_emulator_link	roberto_ventura	vastar	author

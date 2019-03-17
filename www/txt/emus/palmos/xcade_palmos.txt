@@ -1,0 +1,10 @@
+
+emulator	xcade_palmos	palmos	XcadePalm152	\N	\N	\N	Xcade (Palm OS)	1.54	26/11/2003	Palm OS	Classics like Phoenix, Donkey Kong, Pac-Man and Space Invaders	The first arcade emulator on Palm OS! Requires Palm OS 5.0 or later and an ARM processor (such as in the Tungsten T or Sony NX series of units)	Dormant
+emulator_homepage	xcade_palmos	http://www.codejedi.com/	\N
+emulator_author_link	xcade_palmos	jeff_mitchell	\N	author
+
+emulator_features	xcade_palmos	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	xcade_palmos	Stylus
+emulator_relative_link	xcade_palmos	xcade_unix	port_of
+
+emulator_file	xcade_palmos	Emulator	xcade154.zip

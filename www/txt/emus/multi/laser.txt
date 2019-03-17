@@ -1,0 +1,29 @@
+
+emulator	laser	multi	Laser_v0.20a	\N	\N	\N	Laser (Lopantu's Arcade System Emulator)	0.20	30/07/2002	DOS	Midway 8080 based games like space invaders	Based on Sinvader by Mike Green	Dormant
+emulator_homepage	laser	http://laser.sourceforge.net/	\N
+emulator_homepage	laser	http://www.emucamp.com/laser/	\N
+emulator_author_link	laser	lopantu	\N	author
+
+emulator_library_link	laser	z80
+emulator_library_link	laser	m6502
+emulator_tool_link	laser	djgpp
+emulator_tool_link	laser	allegro
+emulator_features	laser	Yes	Yes	No	No	Yes	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laser	Keyboard
+emulator_controller	laser	Joystick
+emulator_relative_link	laser	sinvader	predecessor
+
+emulator_relative_link	laser	laser32	port
+
+emulator_relative_link	laser	belaser	port
+
+emulator_relative_link	laser	laser_ipaq	port
+
+emulator_relative_link	laser	laser_linux	port
+
+emulator_relative_link	laser	laserdc	port
+
+emulator_relative_link	laser	laser_sdl	port
+
+emulator_file	laser	DOS Binary for Laser	laser020.zip
+emulator_file	laser	DOS Source for Laser	laser020s.zip

@@ -1,0 +1,8 @@
+
+emulator	multiple_invaders	multi	Multiple_Invaders_v2.0	\N	\N	\N	Multiple Invaders Arcade Emulator	2.0	02/04/1997	DOS	Space Invaders and some clones	A perfectly good invaders emu. Started life as a single emulator called 'Space Invaders Arcade Emulator'.	Dormant
+emulator_homepage	multiple_invaders	http://sites.netscape.net/markehazelwood/mie20/	bad
+emulator_author_link	multiple_invaders	mark_hazelwood	\N	author
+
+emulator_features	multiple_invaders	Yes	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	multiple_invaders	Keyboard
+emulator_file	multiple_invaders	Emulator	mie20.zip

@@ -1,0 +1,6 @@
+
+library	a6502	cpu	a6502	?	04/05/1998	\N	6502	This 6502 emulator was coded for use with CAGE, and it is now available to the public. It's coded in assembly, and is optimized for Pentiums
+library_homepage	a6502	http://www.geocities.com/SiliconValley/Campus/3356/download.htm	bad
+library_author_link	a6502	larry_bank
+library_emulator_link	a6502	cage
+library_file	a6502	Emulator	a6502.zip

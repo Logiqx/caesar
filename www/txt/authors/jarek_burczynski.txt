@@ -1,0 +1,9 @@
+
+author	jarek_burczynski	Jarek Burczynski	\N
+author_emulator_link	jarek_burczynski	arcadeemu	contributor
+
+author_emulator_link	jarek_burczynski	taito_legends	contributor
+
+author_emulator_link	jarek_burczynski	taito_legends_ps2	contributor
+
+author_emulator_link	jarek_burczynski	taito_legends_xbox	contributor

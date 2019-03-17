@@ -1,0 +1,7 @@
+
+author	domenico_dato	Domenico Dato	\N
+author_emulator_link	domenico_dato	laser_ipaq	author
+
+author_emulator_link	domenico_dato	laser_linux	author
+
+author_emulator_link	domenico_dato	belaser	contributor

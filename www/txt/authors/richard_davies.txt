@@ -1,0 +1,6 @@
+
+author	richard_davies	Richard Davies	Richard contributed to MAME for it's first year, with the Exed Exes driver and fixes/updates for Phoenix (sound!), Carnival, Jump Bug and Pac Man. He also wrote the N64 and Playstation drivers for Allegro and added support for them to MAME.
+author_email	richard_davies	richard@debaser.force9.co.uk
+author_emulator_link	richard_davies	phoenixarcade	author
+
+author_emulator_link	richard_davies	arcadeemu	contributor

@@ -1,0 +1,12 @@
+
+author	barry_rodewald	Barry Rodewald	\N
+author_email	barry_rodewald	bsr@hnpl.net
+author_emulator_link	barry_rodewald	galemu	author
+
+author_emulator_link	barry_rodewald	galemu_windows	author
+
+author_emulator_link	barry_rodewald	galemu_linux	author
+
+author_emulator_link	barry_rodewald	qplayer	author
+
+author_emulator_link	barry_rodewald	qplayer_dos	author

@@ -1,0 +1,10 @@
+
+emulator	viva_nonno	multi	Viva_Nonno_v22.0.3	\N	\N	\N	Viva Nonno	22.0.3	20/08/2002	Windows	Namco System 22	The first emulator to be released for Namco System 22 games.	Dormant
+emulator_homepage	viva_nonno	http://vivanonno.vg-network.com	\N
+emulator_author_link	viva_nonno	viva_nonno	\N	author
+
+emulator_library_link	viva_nonno	musashi
+emulator_tool_link	viva_nonno	msvc
+emulator_features	viva_nonno	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	viva_nonno	Keyboard
+emulator_file	viva_nonno	Emulator	viva2203.zip

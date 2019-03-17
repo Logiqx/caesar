@@ -1,0 +1,12 @@
+
+emulator	laser_linux	linux	dummy	\N	\N	\N	Laser (Linux)	0.9	01/08/2000	Linux	Midway 8080 based games like space invaders	Linux port of Laser	Dormant
+emulator_homepage	laser_linux	http://www.laseremu.com/	\N
+emulator_author_link	laser_linux	domenico_dato	\N	author
+
+emulator_features	laser_linux	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laser_linux	Keyboard
+emulator_controller	laser_linux	Joystick
+emulator_relative_link	laser_linux	laser	port_of
+
+emulator_file	laser_linux	Linux Binary (v0.9)	laser09-unix.zip
+emulator_file	laser_linux	Linux Source (v0.9)	laser09-unix-src.tar

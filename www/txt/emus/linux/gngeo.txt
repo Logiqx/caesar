@@ -1,0 +1,14 @@
+
+emulator	gngeo	linux	empty	\N	\N	\N	GNGEO	0.6.5 beta 2	26/06/2005	Linux	SNK Neo-Geo games	A Neo-Geo emulator for Linux. Sorry but I can't list the games that are supported here in CAESAR. It would be a huge amount of work to work out the required ROMs without CRC information in the emulator and I don't have Linux to do proper testing either!	Active
+emulator_homepage	gngeo	http://m.peponas.free.fr/gngeo/	\N
+emulator_author_link	gngeo	mathieu_peponas	\N	author
+
+emulator_library_link	gngeo	starscream
+emulator_library_link	gngeo	raze
+emulator_tool_link	gngeo	nasm
+emulator_tool_link	gngeo	sdl
+emulator_tool_link	gngeo	zlib
+emulator_features	gngeo	Yes	Yes	?	?	No	No	?	No	Yes	Yes	\N	\N	\N
+emulator_controller	gngeo	Keyboard
+emulator_controller	gngeo	Joystick
+emulator_file	gngeo	Emulator and source	gngeo-0.6.5beta2.tar.gz

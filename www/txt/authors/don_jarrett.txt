@@ -1,0 +1,8 @@
+
+author	don_jarrett	Don Jarrett (Frododead)	\N
+author_email	don_jarrett	r.jarrett@worldnet.att.net
+author_emulator_link	don_jarrett	pcslomo	author
+
+author_emulator_link	don_jarrett	milliemu	author
+
+author_library_link	don_jarrett	m6502_slomo

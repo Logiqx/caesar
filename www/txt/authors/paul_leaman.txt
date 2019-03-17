@@ -1,0 +1,12 @@
+
+author	paul_leaman	Paul Leaman	\N
+author_email	paul_leaman	paull@phonelink.com
+author_emulator_link	paul_leaman	1942	author
+
+author_emulator_link	paul_leaman	diamondrun	author
+
+author_emulator_link	paul_leaman	gg	author
+
+author_emulator_link	paul_leaman	vulgus	author
+
+author_emulator_link	paul_leaman	mame	contributor

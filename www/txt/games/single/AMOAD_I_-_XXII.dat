@@ -1,0 +1,204 @@
+game	AMOAD_I_-_XXII	invaders	\N	\N	\N	\N	\N	Space Invaders [AMOAD01]	1978	Midway	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	invadpt2	\N	\N	\N	\N	\N	Space Invaders Deluxe [AMOAD02]	1980	Midway	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invadpt2	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invadpt2	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invadpt2	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invadpt2	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invadpt2	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	galxwars	\N	\N	\N	\N	\N	Galaxy Wars [AMOAD03]	1979	Taito	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galxwars	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	invrvnge	\N	\N	\N	\N	\N	Invader's Revenge [AMOAD04]	1979	Zenitone Microsec	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	lrescue	\N	\N	\N	\N	\N	Lunar Rescue [AMOAD05]	1979	Taito	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	spaceatt	\N	\N	\N	\N	\N	Space Attack II [AMOAD06]	1979	Taito	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	spaceatt	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion [AMOAD07]	1980	bootleg	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	earthinv	earthinv.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	earthinv	earthinv.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	earthinv	earthinv.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	earthinv	earthinv.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	asteroid	\N	\N	\N	\N	\N	Asteroids (rev 2) [AMOAD08]	1979	Atari	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	asteroid	035145.02	\N	\N	2048	0cc75459	2af85c9689b878155004da47fedbde5853a18723	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	asteroid	035144.02	\N	\N	2048	096ed35c	064d680ded7f30c543f93ae5ca85f90d550f73e5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	asteroid	035143.02	\N	\N	2048	312caa02	1ce2eac1ab90b972e3f1fc3d250908f26328d6cb	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	asteroid	035127.02	\N	\N	2048	8b71fd9e	8cd5005e531eafa361d6b7e9eed159d164776c70	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	bombjack	\N	\N	\N	\N	\N	Bomb Jack (set 2) [AMOAD09]	1984	Tehkan	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	09_j01b.bin	\N	\N	8192	c668dc30	51dd6a2688b42e9f28f0882bd76f75be7ec3222a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	10_l01b.bin	\N	\N	8192	52a1e5fb	e1cdc4b4efbc6c7a1e4fa65019486617f2acba1b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	11_m01b.bin	\N	\N	8192	b68a062a	43bae56494ac0202aaa8f1ed5c1ed1bff775b2b8	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	12_n01b.bin	\N	\N	8192	1d3ecee5	8b3c49e21ea4952cae7042890d1be2115f7d6fda	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	13_r01b.bin	\N	\N	8192	bcafdd29	d243eb1249e885aa75fc910fce6e7744770d6e82	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	01_h03t.bin	\N	\N	8192	8407917d	318face9f7a7ab6c7eeac773995040425e780aaf	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	03_e08t.bin	\N	\N	4096	9f0470d5	94ef52ef47b4399a03528fe3efeac9c1d6983446	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	04_h08t.bin	\N	\N	4096	81ec12e6	e29ba193f21aa898499187603b25d2e226a07c7b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	05_k08t.bin	\N	\N	4096	e87ec8b1	a66808ef2d62fca2854396898b86bac9be5f17a3	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	06_l08t.bin	\N	\N	8192	51eebd89	515128a3971fcb97b60c5b6bdd2b03026aec1921	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	07_n08t.bin	\N	\N	8192	9dd98e9d	6db6006a6e20ff7c243d88293ca53681c4703ea5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	08_r08t.bin	\N	\N	8192	3155ee7d	e7897dca4c145f10b7d975b8ef0e4d8aa9354c25	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	16_m07b.bin	\N	\N	8192	94694097	de71bcd67f97d05527f2504fc8430be333fb9ec2	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	15_l07b.bin	\N	\N	8192	013f58f2	20c64593ab9fcb04cefbce0cd5d17ce3ff26441b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	14_j07b.bin	\N	\N	8192	101c858d	ed1746c15cdb04fae888601d940183d5c7702282	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	bombjack	02_p04t.bin	\N	\N	4096	398d4a02	ac18a8219f99ba9178b96c9564de3978e39c59fd	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	galaxian	\N	\N	\N	\N	\N	Galaxian (Midway) [AMOAD10]	1979	[Namco] (Midway license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.u	\N	\N	2048	745e2d61	e65f74e35b1bfaccd407e168ea55678ae9b68edf	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.v	\N	\N	2048	9c999a40	02fdcd95d8511e64c0d2b007b874112d53e41045	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.w	\N	\N	2048	b5894925	0046b9ed697a34d088de1aead8bd7cbe526a2396	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.y	\N	\N	2048	6b3ca10b	18d8714e5ef52f63ba8888ecc5a25b17b3bf17d1	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.z	\N	\N	2048	cb24f797	e6bb977ded0654c2c7388aad188059e1e0647908	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.1j	\N	\N	2048	84decf98	2e565cb6057b1816a6b4541e6dfadd3c3762fa36	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaxian	galaxian.1k	\N	\N	2048	c31ada9e	237ebb48549b34ca59a13cc2706512d957413ec4	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	frogger	\N	\N	\N	\N	\N	Frogger (Sega set 2) [AMOAD11]	1981	[Konami] (Sega license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.ic5	\N	\N	4096	efab0c79	68c99b6cdcb9396bb473739a62ffc009b4bf57d5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.ic6	\N	\N	4096	aeca9c13	cdf560adbd7f2813e86e378da7781cccf7928a44	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.ic7	\N	\N	4096	dd251066	4612e1fe1ab7182a277140b1a1976cc17e0746a5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.ic8	\N	\N	4096	bf293a02	be94e9f5caa74c3de6fd95bd20928f4a9c514227	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.608	\N	\N	2048	e8ab0256	f090afcfacf5f13cdfa0dfda8e3feb868c6ce8bc	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.609	\N	\N	2048	7380a48f	75582a94b696062cbdb66a4c5cf0bc0bb94f81ee	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.610	\N	\N	2048	31d7eb27	2e1d34ae4da385fd7cac94707d25eeddf4604e1a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.606	\N	\N	2048	f524ee30	dd768967add61467baa08d5929001f157d6cd911	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	frogger	frogger.607	\N	\N	2048	05f7d883	78831fd287da18928651a8adb7e578d291493eff	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	galaga	\N	\N	\N	\N	\N	Galaga (Midway) [AMOAD12]	1981	[Namco] (Midway license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3200a.bin	\N	\N	4096	3ef0b053	0c04a362b737998c0952a753fb3fd8c8a17e9b46	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3300b.bin	\N	\N	4096	1b280831	f7ea12e61929717ebe43a4198a97f109845a2c62	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3400c.bin	\N	\N	4096	16233d33	a7eb799be5e23058754a92b15e6527bfbb47a354	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3500d.bin	\N	\N	4096	0aaf5c23	3f4b0bb960bf002261e9c1278c88f594c6aa8ab6	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3600e.bin	\N	\N	4096	bc556e76	0d3d68243c4571d985b4d8f7e0ea9f6fcffa2116	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	3700g.bin	\N	\N	4096	b07f0aa4	7528644a8480d0be2d0d37069515ed319e94778f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	2600j_4l.bin	\N	\N	4096	58b2f47c	62f1279a784ab2f8218c4137c7accda00e6a3490	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	2800l_4d.bin	\N	\N	4096	ad447c80	e697c180178cabd1d32483c5d8889a40633f7857	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	galaga	2700k.bin	\N	\N	4096	dd6f1afc	c340ed8c25e0979629a9a1730edc762bd72d0cff	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	cosmicmo	\N	\N	\N	\N	\N	Cosmic Monsters [AMOAD13]	1979	Universal	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.1	\N	\N	1024	d6e4e5da	8b4275a3c71ac3fa80d17237dc04de5f586645f4	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.2	\N	\N	1024	8f7988e6	b6a01d5dcab013350f8f7f3e3ebfc986bb939fe0	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.3	\N	\N	1024	2d2e9dc8	dd3da4fc752e003e5e7c64bf189288133aed545b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.4	\N	\N	1024	26cae456	2f2262340c10e5c29d71317f6eb8072c26655563	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.5	\N	\N	1024	b13f228e	a0de05aa36435e72c77f5333f3ad964ec448a8f0	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.6	\N	\N	1024	4ae1b9c4	8eed87eebe68caa775fa679363b0fe3728d98c34	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cosmicmo	cosmicmo.7	\N	\N	1024	6a13b15b	dc03a6c3e938cfd08d16bd1660899f951ba72ea2	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	phoenix	\N	\N	\N	\N	\N	Phoenix (Amstar) [AMOAD14]	1980	Amstar	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic45	\N	\N	2048	9f68086b	fc3cef299bf03bf0586c4047c6b96ca666846220	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic46	\N	\N	2048	273a4a82	6f3019a074e73ff50ceb92f655fcf15659f34919	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic47	\N	\N	2048	3d4284b9	6e69f8f0d537fe89140cd95d2398531d7e93d102	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic48	\N	\N	2048	cb5d9915	49bcf55a5721cfcc02c3b811a4b601e35ea576db	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic49	\N	\N	2048	a105e4e7	b35142a91b6b7fdf7535202671793393c9f4685f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic50	\N	\N	2048	ac5e9ec1	0402e5241d99759d804291998efd43f37ce99917	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic51	\N	\N	2048	2eab35b4	849bf8273317cc869bdd67e50c68399ee8ece81d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic52	\N	\N	2048	aff8e9c5	e4164f85ec12d4d9bcbffba27ab1f51b3599f6d0	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic23	\N	\N	2048	3c7e623f	e7ff5fc371664af44785c079e92eeb2d8530187b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic24	\N	\N	2048	59916d3b	71aec70a8e096ed1f0c2297b3ae7dca1b8ecc38d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic39	\N	\N	2048	53413e8f	d772358505b973b10da840d204afb210c0c746ec	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	phoenix	ic40	\N	\N	2048	0be2ba91	af9243ee23377b632b9b7d0b84d341d06bf22480	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man [AMOAD15]	1981	bootleg	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot1	\N	\N	4096	d16b31b7	bc2247ec946b639dd1f00bfc603fa157d0baaa97	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot2	\N	\N	4096	0d32de5e	13ea0c343de072508908be885e6a2a217bbb3047	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot3	\N	\N	4096	1821ee0b	5ea4d907dbb2690698db72c4e0b5be4d3e9a7786	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot4	\N	\N	4096	165a9dd8	3022a408118fa7420060e32a760aeef15b8a96cf	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot5	\N	\N	4096	8c3e6de6	fed6e9a2b210b07e7189a18574f6b8c4ec5bb49b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	boot6	\N	\N	4096	368cb165	387010a0c76319a1eab61b54c9bcb5c66c4b67a1	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	amidar	\N	\N	\N	\N	\N	Amidar (Stern) [AMOAD16]	1982	Konami (Stern license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.2c	\N	\N	4096	951e0792	3a68b829c9ffb465bd6582c9ea566e0e947c6c19	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.2e	\N	\N	4096	a1a3a136	330ec857fdf4c1b28e2560a5f63a2432f87f9b2f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.2f	\N	\N	4096	a5121bf5	fe15b91724758ede43dd332327919f164772c592	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.2h	\N	\N	4096	051d1c7f	3cfa0f728a5c27da0a3fe2579ad226129ccde232	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.2j	\N	\N	4096	351f00d5	6659357f40f888b21be00826246200fd3a8a88ce	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.5c	\N	\N	4096	8ca7b750	4f4c2915503b85abe141d717fd254ee10c9da99e	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.5d	\N	\N	4096	9b5bdc0a	84d953618c8bf510d23b42232a856ac55f1baff5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.5f	\N	\N	2048	2cfe5ede	0d86a78008ac8653c17fff5be5ebdf1f0a9d31eb	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	amidar	amidarus.5h	\N	\N	2048	57c4fd0d	8764deec9fbff4220d61df621b12fc36c3702601	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	ckong	\N	\N	\N	\N	\N	Crazy Kong (set 2) [AMOAD17]	1981	Falcon	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	7.dat	\N	\N	4096	b27df032	57f9be139c610405e3c2fddd7093dfb1277e450e	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	8.dat	\N	\N	4096	5dc1aaba	42b9e5946ffce7c156d114bde68f37c2c34853c4	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	9.dat	\N	\N	4096	c9054c94	1aa08d2501ee620759fd5c111e12f6d432c25294	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	10.dat	\N	\N	4096	c3beb501	14f49c45fc7c91799034c5a51fca310f0a66b1d7	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	11.dat	\N	\N	4096	ae159192	d467256a3a366e246243e7828ff4a45d4c146e2c	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	12.dat	\N	\N	4096	966bc9ab	4434fc620169ffea1b1f227b61674e1daf79b54b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	6.dat	\N	\N	4096	2dcedd12	dfdcfc21bcba7c8e148ee54daae511ca78c58e70	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	4.dat	\N	\N	4096	3375b3bd	a00b3c31cff123aab6ac0833aabfdd663302971a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	5.dat	\N	\N	4096	fa7cbd91	0208d2ebc59f3600005476b6987472685bc99d67	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	3.dat	\N	\N	4096	5655cc11	5195e9b2a60c54280b48b32ee8248090904dbc51	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	2.dat	\N	\N	2048	d1352c31	da726a63a8be830d695afeddc1717749af8c9d47	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	1.dat	\N	\N	2048	a7a2fdbd	529865f8bbfbdbbf34ac39c70ef17e6d5bd0f845	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	14.dat	\N	\N	4096	5f0bcdfb	7f79bf6de117348f606696ed7ea1937bbf926612	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	ckong	13.dat	\N	\N	4096	9003ffbd	fd016056aabc23957643f37230f03842294f795e	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	pacman	\N	\N	\N	\N	\N	Pac-Man (Midway) [AMOAD18]	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pacman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	pengo	\N	\N	\N	\N	\N	Pengo (set 2 not encrypted) [AMOAD19]	1982	Sega	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u8	\N	\N	4096	3dfeb20e	a387b72501da77bf38b58619d2099083a0463e1f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u7	\N	\N	4096	1db341bd	d1c66bb9cf479e6960dbcd35c820097a81eaa555	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u15	\N	\N	4096	7c2842d5	a8a568da68babd0ccb9f2cee4182fc01c3138494	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u14	\N	\N	4096	6e3c1f2f	2ee821b0f6e0f3cfeae7f5ff25a6e9bd977efce0	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u21	\N	\N	4096	95f354ff	fdebc68a6d87f8ecdf52a57a34ae5ae844a13510	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u20	\N	\N	4096	0fdb04b8	ed814d58318c1055e475ff678609d189727bf9b4	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u32	\N	\N	4096	e5920728	0ac5ffdad7bdcb32e630b9582e1b1aaece5198c9	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u31	\N	\N	4096	13de47ed	332b484d47c9921ed93432755bb2d7a9d4628939	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.u92	\N	\N	8192	d7eec6cd	e542bcc28f292be9a0a29d949de726e0b55e654a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	pengo	pengo.105	\N	\N	8192	5bfd26e9	bdec535e486b43a8f5550334beff423eeace10b2	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	scramble	\N	\N	\N	\N	\N	Scramble (Stern) [AMOAD20]	1981	[Konami] (Stern license)	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2d	\N	\N	2048	b89207a1	5422df979e82bcc73df49f50515fe76c126c037b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2e	\N	\N	2048	e9b4b9eb	a8ee9ddfadf5e9accedfaf81da757a88a2e55a0a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2f	\N	\N	2048	a1f14f4c	3eae2b3e4596505a8afb5c5cfb108e823c2c4319	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2h	\N	\N	2048	591bc0d9	170f9e92f0a3bee04407be27210b4fa825367688	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2j	\N	\N	2048	22f11b6b	e426ef6a7444a39a34d59799973b07d11b89f372	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2l	\N	\N	2048	705ffe49	174df3f281068c767344f751daace646360e26d6	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2m	\N	\N	2048	ea26c35c	a2f3380982d93a022f46756f974fd16c4cd617de	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	2p	\N	\N	2048	94d8f5e3	f3a9c4d1d91836476fcad87ea0d243dde7171e0a	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	5c	\N	\N	2048	bcd297f0	8ed78487d76fd0a917ab7b258937a46e2cd9800c	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	5d	\N	\N	2048	de7912da	8558b4eff5d7e63029b325edef9914feda5834c3	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	5e	\N	\N	2048	ba2fa933	1f976d8595706730e29f93027e7ab4620075c078	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	5f	\N	\N	2048	5f30311a	d64134089bebd995b3a1a089411e180c8c29f32d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	scramble	5h	\N	\N	2048	516e029e	81b44eb1ce43cebde87f0a41ade2e7eb291af78d	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	crush	\N	\N	\N	\N	\N	Crush Roller (Kural Esco - bootleg?) [AMOAD21]	1981	Kural Esco Electric	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr1	\N	\N	2048	f276592e	68ebb7d9f70af868d99ec42c26bc55a54ba1f22c	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr5	\N	\N	2048	3d302abe	8ca5cd82d099b55e20f785489158231a1d99a430	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr2	\N	\N	2048	25f42e70	66de8203c364fd90e8a2b5749c2e40665b2f5830	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr6	\N	\N	2048	98279cbe	84b5e64bdbc25afab9b6f53e1719640e21a6feba	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr3	\N	\N	2048	8377b4cb	f828a177f22db9093a00c31e39e16214ce0dc6de	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr7	\N	\N	2048	d8e76c8c	7c3d7eb07b9256130141f71eba722f7823fd4c32	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr4	\N	\N	2048	90b28fa3	ff58d2dfb016397daabe2996bc3a7b63d28a4cca	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cr8	\N	\N	2048	10854e1b	b3b9066d9a43796185c00ae12f7bb2bbf42e3a07	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	crc	\N	\N	2048	e129d76a	c9256795c6d0929ade1f24b372dadc2a2b88d897	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	crb	\N	\N	2048	d1899f05	dce755511b6262b984a2bca329f454892e486a09	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	crd	\N	\N	2048	d35d1caf	65dd7861e05651485626465dc97215fed58db551	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	crush	cra	\N	\N	2048	c7617198	95b204af0345163f93811cc770ee0ca2851a39c1	\N	\N	\N	\N	\N	\N	
+game	AMOAD_I_-_XXII	cclimber	\N	\N	\N	\N	\N	Crazy Climber (US) [AMOAD22]	1980	Nichibutsu	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc11	\N	\N	4096	217ec4ff	334604c3a051d57440a9d0bfc34b809418ef1d2d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc10	\N	\N	4096	b3c26cef	f52cb5482c12a9c5fb56e2e2aec7cab0ed23e5a5	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc09	\N	\N	4096	6db0879c	c0ba1976c1dcd6edadd78073173a26851ae8dd4f	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc08	\N	\N	4096	f48c5fe3	79072bbbf37387998ffd031afe8eb569a16fa9bd	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc07	\N	\N	4096	3e873baf	8870dc5948cdd3c8d2fe9e54a20cf6c311c94e53	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc06	\N	\N	2048	481b64cc	3f35c545fc784ed4f969aba2d7be6e13a5ae32b7	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc04	\N	\N	2048	332347cb	4115ca32af73f1791635b7d9e093bf77088a8222	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc05	\N	\N	2048	2c33b760	2edea8fe13376fbd51a5586d97aba3b30d78e94b	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc03	\N	\N	2048	4e4b3658	0d39a8cb5cd6cf06008be60707f9b277a8a32a2d	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc02	\N	\N	2048	14f3ecc9	a1b5121abfbe8f07580eb3fa6384352d239a3d75	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc01	\N	\N	2048	21c0f9fb	44fad56d302a439257216ddac9fd62b3666589f1	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc13	\N	\N	4096	e0042f75	86cb31b110742a0f7ae33052c88f42d00deb5468	\N	\N	\N	\N	\N	\N	
+game_rom	AMOAD_I_-_XXII	cclimber	cc12	\N	\N	4096	5da13aaa	b2d41e69435d09c456648a10e33f5e1fbb0bc64c	\N	\N	\N	\N	\N	\N	

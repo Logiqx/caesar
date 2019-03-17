@@ -1,0 +1,10 @@
+
+emulator	bekungfumaster	beos	BeKungFuMaster_v0.80	\N	\N	\N	BeKungFuMaster	0.80	20/06/2001	BeOS (x86)	Kung-Fu Master (Irem)	This is by the author of BeGameboy and BePCEngine. It emulates Kung-Fu Master, but there is no sound support yet. It is a sample of the authors arcade emulators.	Dormant
+emulator_homepage	bekungfumaster	http://diesel.planet-d.net/BeGameboy/	bad
+emulator_author_link	bekungfumaster	david_raingeard	\N	author
+
+emulator_library_link	bekungfumaster	multiz80
+emulator_features	bekungfumaster	No	No	No	No	Yes	No	No	No	No	No	\N	\N	\N
+emulator_controller	bekungfumaster	Keyboard
+emulator_controller	bekungfumaster	Joystick
+emulator_file	bekungfumaster	Emulator	BeKungfuMaster.zip

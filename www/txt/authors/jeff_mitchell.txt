@@ -1,0 +1,11 @@
+
+author	jeff_mitchell	Jeff Mitchell	\N
+author_email	jeff_mitchell	skeezix@acm.org
+author_email	jeff_mitchell	skeezix@skeleton.org
+author_emulator_link	jeff_mitchell	xcade	author
+
+author_emulator_link	jeff_mitchell	xcade_palmos	author
+
+author_emulator_link	jeff_mitchell	xcade_unix	author
+
+author_emulator_link	jeff_mitchell	retrocade	contributor

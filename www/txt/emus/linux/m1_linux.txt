@@ -1,0 +1,14 @@
+
+emulator	m1_linux	linux	M1_v0.7.8a6	\N	\N	\N	M1 for Linux	0.7.8a6	11/11/2007	Linux	Lots of arcade games!	A sound emulator that emulates a huge number of systems (over 1000 games).	Active
+emulator_homepage	m1_linux	http://rbelmont.mameworld.info/?page_id=223	\N
+emulator_homepage	m1_linux	http://www.emuhype.com/	\N
+emulator_author_link	m1_linux	richter_belmont	\N	author
+
+emulator_features	m1_linux	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	m1_linux	Keyboard
+emulator_relative_link	m1_linux	m1	port
+
+emulator_relative_link	m1_linux	m1_mac	port
+
+emulator_file	m1_linux	Emulator	m1078a6-lnx.tar.bz2
+emulator_file	m1_linux	SDK (Source)	m1071-sdk-lnx.tar.bz2

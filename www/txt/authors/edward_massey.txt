@@ -1,0 +1,6 @@
+
+author	edward_massey	Edward Massey	\N
+author_email	edward_massey	edward@greenvillenc.com
+author_emulator_link	edward_massey	magex	author
+
+author_emulator_link	edward_massey	arcadeemu	contributor

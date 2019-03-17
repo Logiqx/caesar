@@ -1,0 +1,10 @@
+
+emulator	les	single	Les_v0	\N	\N	\N	Les	0	15/10/1998	DOS	Pleiads (Centuri)	Described as a very early beta release	Dormant
+emulator_homepage	les	\N	none
+emulator_author_link	les	dr_mario	\N	author
+
+emulator_tool_link	les	djgpp
+emulator_tool_link	les	allegro
+emulator_features	les	No	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	les	Keyboard
+emulator_file	les	Emulator	les.zip

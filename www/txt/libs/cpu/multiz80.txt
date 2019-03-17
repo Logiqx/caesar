@@ -1,0 +1,43 @@
+
+library	multiz80	cpu	Multi-Z80 32 Bit emulator	3.4	18/03/2000	\N	Zilog Z80	Written in x86 assembler and very fast. The one minor limitation is that it doesn't natively handle bank switching.
+library_homepage	multiz80	ftp://ftp.synthcom.com/pub/emulators/cpu/	\N
+library_author_link	multiz80	neil_bradley
+library_emulator_link	multiz80	aae
+library_emulator_link	multiz80	ace
+library_emulator_link	multiz80	bebombjack
+library_emulator_link	multiz80	begeminiwing
+library_emulator_link	multiz80	bekungfumaster
+library_emulator_link	multiz80	boo
+library_emulator_link	multiz80	emudx
+library_emulator_link	multiz80	emudx32
+library_emulator_link	multiz80	galemu
+library_emulator_link	multiz80	galemu_linux
+library_emulator_link	multiz80	galemu_windows
+library_emulator_link	multiz80	invmz
+library_emulator_link	multiz80	kawaks
+library_emulator_link	multiz80	m72
+library_emulator_link	multiz80	minipac
+library_emulator_link	multiz80	neogem
+library_emulator_link	multiz80	pacx
+library_emulator_link	multiz80	qplayer
+library_emulator_link	multiz80	qplayer_dos
+library_emulator_link	multiz80	raine
+library_emulator_link	multiz80	raine32
+library_emulator_link	multiz80	raine_beos
+library_emulator_link	multiz80	raine_linux
+library_emulator_link	multiz80	raine_linux_alt
+library_emulator_link	multiz80	rcps
+library_emulator_link	multiz80	replayplus
+library_emulator_link	multiz80	replayplus_linux
+library_emulator_link	multiz80	retrocade
+library_emulator_link	multiz80	retrocade_os2
+library_emulator_link	multiz80	shark
+library_emulator_link	multiz80	system16
+library_emulator_link	multiz80	system16_beta
+library_emulator_link	multiz80	system16_directx
+library_emulator_link	multiz80	vantage
+library_emulator_link	multiz80	winvader
+library_emulator_link	multiz80	xpac
+library_emulator_link	multiz80	yaame
+library_tool_link	multiz80	nasm
+library_file	multiz80	Emulator	makez80.zip

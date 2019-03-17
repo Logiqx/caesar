@@ -1,0 +1,11 @@
+
+emulator	callus	multi	Callus_v0.42	\N	\N	\N	Callus	0.42	24/06/1998	DOS	Capcom System 1 Games	Mainly assembler so faster than MAME for the games it does	Discontinued
+emulator_homepage	callus	http://bloodlust.zophar.net/Callus/callus.html	\N
+emulator_author_link	callus	sardu	\N	author
+
+emulator_features	callus	Yes	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	No	Yes	Yes
+emulator_controller	callus	Keyboard
+emulator_controller	callus	Joystick
+emulator_relative_link	callus	callus95	port
+
+emulator_file	callus	Emulator	cls042.zip

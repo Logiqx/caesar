@@ -1,0 +1,14 @@
+
+emulator	spaders	multi	SPADERS_v0.76	\N	\N	\N	SPADERS (Multi Space Invaders Emulator)	0.76	04/04/1998	DOS	Space Invaders (Midway) and 7 Clones	\N	Dormant
+emulator_homepage	spaders	http://www.classicgaming.com/spaders/	\N
+emulator_author_link	spaders	tony_toole	\N	author
+
+emulator_library_link	spaders	z80
+emulator_tool_link	spaders	djgpp
+emulator_tool_link	spaders	allegro
+emulator_features	spaders	Yes (Samples)	Yes (Older)	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	spaders	Keyboard
+emulator_controller	spaders	SNES
+emulator_file	spaders	Emulator (v0.76)	sp076b.zip
+emulator_file	spaders	Emulator (v0.60)	sp060b.zip
+emulator_file	spaders	Source (v0.60)	sp060s.zip

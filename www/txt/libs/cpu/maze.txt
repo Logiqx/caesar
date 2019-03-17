@@ -1,0 +1,19 @@
+
+library	maze	cpu	MAZE (Multi Asm Z80 Engine)	0.24	26/03/1997	\N	Zilog Z80	At the time it was probably the best Z80 emulator but Multi-Z80 is probably a better choice nowadays
+library_homepage	maze	\N	none
+library_author_link	maze	ishmair
+library_emulator_link	maze	btishger
+library_emulator_link	maze	chopsuey
+library_emulator_link	maze	fm_emu
+library_emulator_link	maze	jff
+library_emulator_link	maze	ikari
+library_emulator_link	maze	pasmulator
+library_emulator_link	maze	rage
+library_emulator_link	maze	replay
+library_emulator_link	maze	rockulator
+library_emulator_link	maze	rishgar
+library_emulator_link	maze	system8
+library_emulator_link	maze	system16_linux
+library_emulator_link	maze	xevious
+library_emulator_link	maze	vastar
+library_file	maze	Emulator	maze024.zip

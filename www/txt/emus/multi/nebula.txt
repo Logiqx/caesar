@@ -1,0 +1,16 @@
+
+emulator	nebula	multi	Nebula_v2.25b	\N	\N	\N	Nebula	2.25b	18/02/2007	Windows	Capcom CPS-1, CPS-2, Neo-Geo, Konami and PGM games	A very good emulator for CPS-1, CPS-2, Neo-Geo, Konami and PGM games with the ability to add new games through text based drivers.	Active
+emulator_homepage	nebula	http://nebula.emulatronia.com/	\N
+emulator_author_link	nebula	elsemi	\N	author
+
+emulator_library_link	nebula	a68k
+emulator_tool_link	nebula	msvc
+emulator_tool_link	nebula	zlib
+emulator_features	nebula	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	Yes	No
+emulator_controller	nebula	Keyboard
+emulator_controller	nebula	Joystick
+emulator_file	nebula	Emulator	nebula225b.zip
+emulator_file	nebula	Cheat Utility	cheater18.zip
+emulator_file	nebula	Screenshots	shots15.zip
+emulator_file	nebula	GUI Templates	gui16.zip
+emulator_file	nebula	Logos	logos.zip

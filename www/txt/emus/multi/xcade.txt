@@ -1,0 +1,14 @@
+
+emulator	xcade	multi	dummy	\N	\N	\N	Xcade	0.85	25/04/1997	DOS	Classics like Phoenix, Donkey Kong, Pac-Man and Space Invaders	\N	Dormant
+emulator_homepage	xcade	http://www.icomm.ca/~skeezix/	\N
+emulator_author_link	xcade	jeff_mitchell	\N	author
+
+emulator_tool_link	xcade	djgpp
+emulator_tool_link	xcade	allegro
+emulator_features	xcade	No	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	xcade	Keyboard
+emulator_author_link	xcade	maximum_entropy	Patches for Space Invaders Deluxe and Lunar Rescue	contributor
+
+emulator_relative_link	xcade	xcade_unix	port_of
+
+emulator_file	xcade	Emulator	xcade085.zip

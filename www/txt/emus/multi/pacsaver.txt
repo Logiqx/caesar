@@ -1,0 +1,9 @@
+
+emulator	pacsaver	multi	Pac_Saver_v1.00a	\N	\N	\N	Pac Saver (Pacman Screen Saver)	1.00a	24/05/1999	Windows	Pacman and Ms. Pacman (Midway)	Written in Visual Basic	Dormant
+emulator_homepage	pacsaver	http://come.to/pacsaver	\N
+emulator_author_link	pacsaver	tony_docherty	\N	author
+
+emulator_tool_link	pacsaver	vb
+emulator_features	pacsaver	No	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	pacsaver	Keyboard
+emulator_file	pacsaver	Screen Saver	pacsaver.zip

@@ -1,0 +1,10 @@
+
+emulator	qbert_classic_mode_psx	psx	QBert_Classic_Mode_PSX	\N	\N	\N	QBert Classic Mode (Playstation)	-	1999	Playstation	QBert (Gottlieb)	The 'classic mode' version of QBert for Hasbro Interactive's QBert release.	Released
+emulator_homepage	qbert_classic_mode_psx	http://www.digitaleclipse.com	\N
+emulator_author_link	qbert_classic_mode_psx	hasbro_interactive	\N	author
+
+emulator_features	qbert_classic_mode_psx	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	qbert_classic_mode_psx	Joypad
+emulator_author_link	qbert_classic_mode_psx	digital_eclipse	Development	contributor
+
+emulator_relative_link	qbert_classic_mode_psx	qbert_classic_mode	port_of

@@ -1,0 +1,8 @@
+
+emulator	invadersmu	mac	InvadersMu_v1.0d1	\N	\N	\N	InvadersMu	1.0d1	13/01/2001	Mac	Space Invaders (Taito)	\N	Dormant
+emulator_homepage	invadersmu	http://www.squirrelsw.com/cats/emulation.html	\N
+emulator_author_link	invadersmu	nick_vellios	\N	author
+
+emulator_features	invadersmu	Yes	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	invadersmu	Keyboard
+emulator_file	invadersmu	Emulator	InvadersMu_d1.sit

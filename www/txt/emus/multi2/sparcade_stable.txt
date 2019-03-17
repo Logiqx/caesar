@@ -1,0 +1,11 @@
+
+emulator	sparcade_stable	multi2	Sparcade_v2.25_-_v2.33b	extra	\N	\N	Sparcade (Stable)	2.25	14/08/1998	DOS	Classics (early 80's)	Has four games that the new beta doesn't (Centipede, Millepede, Jr. Pac-Man and Tutankham)	Dormant
+emulator_homepage	sparcade_stable	http://www.sparcade.freeserve.co.uk/	\N
+emulator_author_link	sparcade_stable	dave_spicer	\N	author
+
+emulator_features	sparcade_stable	Yes	No	No	Yes	Yes	Yes	Yes	No	No	Yes	No	No	No
+emulator_controller	sparcade_stable	Keyboard
+emulator_controller	sparcade_stable	Joystick
+emulator_relative_link	sparcade_stable	sparcade	alt_version
+
+emulator_file	sparcade_stable	Non-Beta Version	spcad225.zip

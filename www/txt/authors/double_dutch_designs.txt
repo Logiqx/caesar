@@ -1,0 +1,8 @@
+
+author	double_dutch_designs	Double Dutch Designs	\N
+author_email	double_dutch_designs	sales@doubledutchdesigns.co.uk
+author_emulator_link	double_dutch_designs	galaxian_project	author
+
+author_emulator_link	double_dutch_designs	phoenix_project	author
+
+author_emulator_link	double_dutch_designs	space_invaders_project	author

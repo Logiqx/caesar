@@ -1,0 +1,35 @@
+
+library	starscream	cpu	Starscream 680x0 emulation library	0.26a	22/06/1999	\N	M68000 (Motorola)	Written in x86 assembler and pretty fast
+library_homepage	starscream	http://lfx.org/~corlett/	\N
+library_author_link	starscream	neill_corlett
+library_emulator_link	starscream	aae
+library_emulator_link	starscream	soundsgood
+library_emulator_link	starscream	besnowbros
+library_emulator_link	starscream	boo
+library_emulator_link	starscream	calice
+library_emulator_link	starscream	gngeo
+library_emulator_link	starscream	marblemadness
+library_emulator_link	starscream	mge
+library_emulator_link	starscream	neogem
+library_emulator_link	starscream	neoragex
+library_emulator_link	starscream	raine
+library_emulator_link	starscream	raine32
+library_emulator_link	starscream	raine_beos
+library_emulator_link	starscream	raine_linux
+library_emulator_link	starscream	raine_linux_alt
+library_emulator_link	starscream	replayplus
+library_emulator_link	starscream	replayplus_linux
+library_emulator_link	starscream	retrocade
+library_emulator_link	starscream	retrocade_os2
+library_emulator_link	starscream	sega_c2_linux
+library_emulator_link	starscream	sega_system_16
+library_emulator_link	starscream	sega_system_c2
+library_emulator_link	starscream	sega_system_c2_w
+library_emulator_link	starscream	shark
+library_emulator_link	starscream	slutte
+library_emulator_link	starscream	system16
+library_emulator_link	starscream	system16_beta
+library_emulator_link	starscream	system16_directx
+library_emulator_link	starscream	system16_linux
+library_emulator_link	starscream	xdragon
+library_file	starscream	Emulator	star026a.zip

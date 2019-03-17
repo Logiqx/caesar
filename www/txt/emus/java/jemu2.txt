@@ -1,0 +1,10 @@
+
+emulator	jemu2	java	JEmu2_v4.1	\N	4	3	JEmu2	v4.1	29/08/2007	Java	Z80, 8080, 6809 and 68000 based classics	Arcade classics playable on the Internet! Deployment is done using Java Web Start, enabling a one-click installation and automatic update mechanism. This means: no difficult installation procedures, and each time you start the game, this site is contacted for updates which are then installed completely automatic. Also has a unique "VirtuaArcade" mode where you can walk around a 3D arcade and play the game that you are looking at!	Active
+emulator_homepage	jemu2	http://www.gagaplay.com/jemu2/	\N
+emulator_author_link	jemu2	jaydy	\N	author
+
+emulator_features	jemu2	Yes	No	No	Yes	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	jemu2	Keyboard
+emulator_relative_link	jemu2	jemu	predecessor
+
+emulator_file	jemu2	Emulator Source v2.2 (just for the curious)	JEmu2_v2.2_src.zip

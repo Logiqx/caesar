@@ -1,0 +1,13 @@
+
+emulator	irobot	single	I,_Robot_-_The_Emulator_v0.98	\N	\N	\N	I, Robot	2.0.0.10	24/10/2003	Windows	I, Robot (Atari)	A very cool emulator. The original arcade was a vector game on a raster display so the emulator is able to improve the screen resolution. Another neat feature is that screen snapshots are vector images in the Windows clipboard!	Dormant
+emulator_homepage	irobot	http://manfreda.org/LordFrito/I, Robot/	\N
+emulator_homepage	irobot	http://mywebpages.comcast.net/lordfrito/irobot/index.html	bad
+emulator_author_link	irobot	john_manfreda	\N	author
+
+emulator_tool_link	irobot	msvc
+emulator_features	irobot	Yes	No	Yes (See note above)	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	irobot	Keyboard
+emulator_controller	irobot	Joystick
+emulator_file	irobot	Emulator mark 2 (version 2.0.0.10)	irobot2.zip
+emulator_file	irobot	Emulator mark 1 (version 0.98)	irobot98.zip
+emulator_file	irobot	Extracted game meshes in VRML format	vrml.zip

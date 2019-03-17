@@ -1,0 +1,7 @@
+
+tool	qmdx	snd_libs	QMDX	5.00 Build #76	08/10/1999	On a plain stereo sound-card system, you get an extremely efficient 3D-to-stereo translation.
+tool_homepage	qmdx	http://www.qsound.com/gamedev/	\N
+tool_author_link	qmdx	qsound_labs
+tool_emulator_link	qmdx	calice
+tool_emulator_link	qmdx	qplayer
+tool_file	qmdx	QMDX Distribution	qm500sdk.exe

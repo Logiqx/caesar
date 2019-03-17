@@ -1,0 +1,15 @@
+
+emulator	pacdx	single	PacDX_v1.0	\N	\N	\N	PacDX	PR1	19/09/1999	DOS	Pacman (Namco)	This was Mike's second emulator and originally called PacDX '99.	No plans for updates
+emulator_homepage	pacdx	http://sass.retrogames.com/pacdx/	\N
+emulator_author_link	pacdx	mike_green	\N	author
+
+emulator_library_link	pacdx	z80
+emulator_tool_link	pacdx	djgpp
+emulator_tool_link	pacdx	allegro
+emulator_features	pacdx	No	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	pacdx	Keyboard
+emulator_relative_link	pacdx	asciipac	predecessor
+
+emulator_relative_link	pacdx	emudx	successor
+
+emulator_file	pacdx	Emulator	pacdx01.zip

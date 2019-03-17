@@ -1,0 +1,15 @@
+
+emulator	junofirst	multi	Juno_First_v1.23	\N	\N	\N	Juno First	1.23	12/02/1998	Windows	Some old games and newer games (like R-Type)	Uses samples for sound. All games are in MAME but RAGE is faster for these games.	Dormant
+emulator_homepage	junofirst	http://www.junofirst.freeserve.co.uk/	\N
+emulator_author_link	junofirst	chris_hardy	\N	author
+
+emulator_library_link	junofirst	multi6502
+emulator_tool_link	junofirst	msvc
+emulator_features	junofirst	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	\N	\N
+emulator_controller	junofirst	Keyboard
+emulator_controller	junofirst	Joystick
+emulator_file	junofirst	Emulator	juno123.zip
+emulator_file	junofirst	Juno First Samples	juno.zip
+emulator_file	junofirst	Legend of Hero Tonma Samples	loht.zip
+emulator_file	junofirst	R-Type II Samples	rtype2.zip
+emulator_file	junofirst	Tutankham Samples	tutankhm.zip

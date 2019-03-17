@@ -1,0 +1,12 @@
+
+emulator	mge	multi	MGE_v0.471	\N	\N	\N	MGE (Multi Gauntlet Emulator)	0.471	10/09/1997	DOS	Gauntlet and Gauntlet 2	Neil's Starscream 68000 emulator (used by MGE) is also used by many other emulators	Dormant
+emulator_homepage	mge	http://lfx.org/~corlett/	\N
+emulator_author_link	mge	neill_corlett	\N	author
+
+emulator_library_link	mge	starscream
+emulator_tool_link	mge	djgpp
+emulator_features	mge	Yes	No	Yes	Yes	Yes	No	No	No	No	No	No	No	No
+emulator_controller	mge	Keyboard
+emulator_controller	mge	Joystick
+emulator_controller	mge	Mouse
+emulator_file	mge	Emulator	mge0471.zip

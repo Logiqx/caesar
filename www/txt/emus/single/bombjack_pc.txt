@@ -1,0 +1,10 @@
+
+emulator	bombjack_pc	single	Bombjack_PC_v1.1	\N	4	3	Bombjack PC	1.1	16/04/1997	DOS	Bombjack (Tehkan)	Fine apart from lack of sound	Discontinued
+emulator_homepage	bombjack_pc	http://www.unicate.com/marc/bombjack.htm	bad
+emulator_author_link	bombjack_pc	jakob_frandsen	\N	author
+
+emulator_tool_link	bombjack_pc	watcom
+emulator_features	bombjack_pc	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	bombjack_pc	Keyboard
+emulator_controller	bombjack_pc	Joystick
+emulator_file	bombjack_pc	Emulator	Bombjack DOS v1.1.zip

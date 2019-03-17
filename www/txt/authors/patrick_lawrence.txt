@@ -1,0 +1,6 @@
+
+author	patrick_lawrence	Patrick Lawrence	\N
+author_email	patrick_lawrence	pjl@ns.net
+author_emulator_link	patrick_lawrence	retrocade	contributor
+
+author_library_link	patrick_lawrence	multi6809

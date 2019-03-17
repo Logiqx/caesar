@@ -1,0 +1,12 @@
+
+library	a68k	cpu	A68K (Assembly 68K core)	?	16/06/2001	\N	Motorola 68000/68010/68020	The 68000 core used by MAME.
+library_homepage	a68k	http://www.finalburn.com/	\N
+library_author_link	a68k	mike_coates
+library_emulator_link	a68k	dmame
+library_emulator_link	a68k	finalburn
+library_emulator_link	a68k	finalburnalpha
+library_emulator_link	a68k	kawaks
+library_emulator_link	a68k	mame
+library_emulator_link	a68k	nebula
+library_tool_link	a68k	nasm
+library_file	a68k	Emulator	a68k.zip

@@ -1,0 +1,19 @@
+
+emulator	pcslomo	multi	PCSloMo_v0.24_Final	\N	\N	\N	PCSloMo	0.24 Final	19/01/1999	Windows	6502 games (Centipede etc) plus Pacman and Invaders clones	This VB emulator has no speed throttling so it makes for one hell of a zippy Space Invaders! Also available for the Mac (MacSloMo)	Finished
+emulator_homepage	pcslomo	http://members.tripod.com/~Frodo4/slomo.html	bad
+emulator_author_link	pcslomo	don_jarrett	\N	author
+
+emulator_library_link	pcslomo	m6502_slomo
+emulator_tool_link	pcslomo	vb
+emulator_features	pcslomo	No	Early version	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	pcslomo	Keyboard
+emulator_author_link	pcslomo	tobias_stromstedt	Original SloMo emulator	contributor
+
+emulator_author_link	pcslomo	tj_grant	MacSloMo and help with Astro Fighter	contributor
+
+emulator_author_link	pcslomo	tony_docherty	Space Invaders/Invaders Deluxe and Pac-Man drivers	contributor
+
+emulator_relative_link	pcslomo	macslomo	port
+
+emulator_file	pcslomo	Emulator	slomo.zip
+emulator_file	pcslomo	Source for v0.23 beta 2	slomos.zip

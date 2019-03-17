@@ -1,0 +1,12 @@
+
+emulator	finalburn_linux	linux	dummy	\N	\N	\N	Final Burn for Linux	Preview	05/10/2001	Linux	Sega and Capcom 68000 games	Linux port of Final Burn.	Discontinued
+emulator_homepage	finalburn_linux	http://fblinux.emuunlim.com/	\N
+emulator_author_link	finalburn_linux	daniel_moreno	\N	author
+
+emulator_features	finalburn_linux	Yes	Yes	No	No	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	finalburn_linux	Keyboard
+emulator_controller	finalburn_linux	Joystick
+emulator_relative_link	finalburn_linux	finalburn	port_of
+
+emulator_file	finalburn_linux	Final Burn for Linux	finalburn.20011005.Linux.tar.bz2
+emulator_file	finalburn_linux	Source (diff)	finalburn.20011005.diff.tar.bz2

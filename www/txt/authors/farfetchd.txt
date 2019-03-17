@@ -1,0 +1,5 @@
+
+author	farfetchd	Farfetch'd	\N
+author_emulator_link	farfetchd	modeler	author
+
+author_emulator_link	farfetchd	modeler_linux	author

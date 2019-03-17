@@ -1,0 +1,17 @@
+
+emulator	ladybug_nicola	single	Lady_Bug_Arcade_Machine_Emulator_v0.5	\N	\N	\N	Lady Bug Arcade Machine Emulator	v0.5	01/02/1997	DOS	Lady Bug (Universal)	One of the single emulators Nicola wrote before starting MAME.	Discontinued
+emulator_homepage	ladybug_nicola	\N	none
+emulator_author_link	ladybug_nicola	nicola_salmoria	\N	author
+
+emulator_library_link	ladybug_nicola	z80em
+emulator_tool_link	ladybug_nicola	allegro
+emulator_tool_link	ladybug_nicola	seal
+emulator_tool_link	ladybug_nicola	djgpp
+emulator_features	ladybug_nicola	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	ladybug_nicola	Keyboard
+emulator_controller	ladybug_nicola	Joystick
+emulator_author_link	ladybug_nicola	scott_decker	Help with the colours	contributor
+
+emulator_author_link	ladybug_nicola	paul_swan	Information about the sound hardware	contributor
+
+emulator_file	ladybug_nicola	Emulator and source	ladybug5.zip

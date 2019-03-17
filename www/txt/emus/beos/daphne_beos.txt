@@ -1,0 +1,12 @@
+
+emulator	daphne_beos	beos	dummy	\N	\N	\N	Daphne (BeOS)	0.99.5	11/11/2002	BeOS	Dragon's Lair, Space Ace and other laserdisc games.	BeOS port of Daphne. Requires a laserdisc player and the game laserdisc or an MPEG version of the video footage.	Active
+emulator_homepage	daphne_beos	http://www.daphne-emu.com/	\N
+emulator_homepage	daphne_beos	http://daphne.rulecity.com	\N
+emulator_author_link	daphne_beos	matt_ownby	\N	author
+
+emulator_library_link	daphne_beos	z80
+emulator_features	daphne_beos	yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	daphne_beos	Keyboard
+emulator_relative_link	daphne_beos	daphne	port_of
+
+emulator_file	daphne_beos	Emulator	daphne0_99_5.zip

@@ -1,0 +1,14 @@
+
+emulator	vector_dream	multi	Vector_Dream_v2.3	\N	\N	\N	Vector Dream	2.3	24/04/1998	Windows	Atari Vector Games	Well polished Windows emulator with several nice touches	Dormant
+emulator_homepage	vector_dream	http://www.rmaonline.net/hippies/theplasticfactory/vectordream/	bad
+emulator_homepage	vector_dream	http://www.advancedaerials.com/plastic/vectordream/index.htm	bad
+emulator_author_link	vector_dream	peter_hirschberg	\N	author
+
+emulator_library_link	vector_dream	mathbox
+emulator_library_link	vector_dream	multi6502
+emulator_tool_link	vector_dream	msvc
+emulator_features	vector_dream	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	vector_dream	Keyboard
+emulator_controller	vector_dream	Joystick
+emulator_file	vector_dream	Emulator	vd23full.zip
+emulator_file	vector_dream	Arcade Ambience (Sound)	arcadeambience.zip

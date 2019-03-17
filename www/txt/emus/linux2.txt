@@ -1,0 +1,3 @@
+
+emulator_contents	linux2	Emulators for Linux	These emulators are all for Linux (or Unix). Check out <a href="http://www.emulinks.de/">http://www.emulinks.de/</a> for Linux emulation.
+emulator_contents_emulator_link	linux2	raine_linux_alt

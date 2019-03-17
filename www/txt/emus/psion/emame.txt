@@ -1,0 +1,15 @@
+
+emulator	emame	psion	dummy	\N	\N	\N	EMame	1.2	06/05/2001	Psion	Emulates a subset of MAME games	EMame is the port of MAME to EPOC32 and can be used on Psion devices such as the Series 5mx. Since Peter only has a Series 5mx he has no idea whether it actually runs on other Psion devices such as the Revo (plus), Series 5 or Series 7.	Dormant
+emulator_homepage	emame	http://www.yipton.demon.co.uk/	\N
+emulator_author_link	emame	emame	\N	author
+
+emulator_features	emame	Yes	Yes	?	?	No	?	?	?	?	?	No	No	?
+emulator_controller	emame	Keyboard
+emulator_relative_link	emame	mame	port_of
+
+emulator_relative_link	emame	emame_symbian	port
+
+emulator_relative_link	emame	e2mame	port
+
+emulator_file	emame	Emulator v1.2	emame12.zip
+emulator_file	emame	Source v1.2	emame12src.zip

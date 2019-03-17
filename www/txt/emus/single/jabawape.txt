@@ -1,0 +1,16 @@
+
+emulator	jabawape	single	JABAWAPE_v0.8	\N	\N	\N	JABAWAPE (Just Another Beginner's Attempt to Write A Phoenix Emulator)	0.8	03/12/1999	DOS	Phoenix (Amstar)	One of the projects at Zan's EMUL8 site	Dormant
+emulator_homepage	jabawape	http://zan.emuunlim.com/emul8/projects/jabawape/jabawape.html	bad
+emulator_author_link	jabawape	darren_finck	\N	author
+
+emulator_author_link	jabawape	thomas_stratham	\N	author
+
+emulator_library_link	jabawape	z80
+emulator_tool_link	jabawape	djgpp
+emulator_tool_link	jabawape	allegro
+emulator_features	jabawape	Yes	Yes	Yes	Yes	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	jabawape	Keyboard
+emulator_controller	jabawape	Joystick
+emulator_relative_link	jabawape	dcphoenix	port
+
+emulator_file	jabawape	Emulator and source	jab08ts.zip

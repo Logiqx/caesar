@@ -1,0 +1,41 @@
+game	MacSloMo_v0.67	centiped	\N	\N	\N	\N	\N	Centipede (revision 3)	1980	Atari	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.307	\N	\N	2048	5ab0d9de	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.308	\N	\N	2048	4c07fd3e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.309	\N	\N	2048	ff69b424	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.310	\N	\N	2048	44e40fa4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.201	\N	\N	2048	880acfb9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centiped	centiped.202	\N	\N	2048	b1397029	\N	\N	\N	\N	\N	\N	\N	
+game	MacSloMo_v0.67	centipd2	\N	\N	centiped	centiped	\N	Centipede (revision 2)	1980	Atari	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.207	\N	\N	2048	b2909e2f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.208	\N	\N	2048	110e04ff	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.209	\N	\N	2048	cc2edb26	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.210	\N	\N	2048	93999153	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.211	centiped.211	\N	2048	880acfb9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	MacSloMo_v0.67	centipd2	centiped.212	centiped.212	\N	2048	b1397029	\N	\N	\N	\N	\N	\N	\N	
+game	MacSloMo_v0.67	milliped	\N	\N	\N	\N	\N	Millipede	1982	Atari	\N	\N	\N	
+game_rom	MacSloMo_v0.67	milliped	milliped.104	\N	\N	4096	40711675	\N	\N	cpu1	\N	\N	\N	4000	
+game_rom	MacSloMo_v0.67	milliped	milliped.103	\N	\N	4096	fb01baf2	\N	\N	cpu1	\N	\N	\N	5000	
+game_rom	MacSloMo_v0.67	milliped	milliped.102	\N	\N	4096	62e137e0	\N	\N	cpu1	\N	\N	\N	6000	
+game_rom	MacSloMo_v0.67	milliped	milliped.101	\N	\N	4096	46752c7d	\N	\N	cpu1	\N	\N	\N	7000	
+game_rom	MacSloMo_v0.67	milliped	milliped.106	\N	\N	2048	f4468045	\N	\N	gfx1	\N	yes	\N	0	
+game_rom	MacSloMo_v0.67	milliped	milliped.107	\N	\N	2048	68c3437a	\N	\N	gfx1	\N	yes	\N	800	
+game	MacSloMo_v0.67	astrof	\N	\N	\N	\N	\N	Astro Fighter (set 1)	1980	Data East	\N	\N	\N	
+game_rom	MacSloMo_v0.67	astrof	afii.6	\N	\N	2048	d6cd13a4	\N	\N	cpu1	\N	\N	\N	d000	
+game_rom	MacSloMo_v0.67	astrof	afii.5	\N	\N	2048	6fd3c4df	\N	\N	cpu1	\N	\N	\N	d800	
+game_rom	MacSloMo_v0.67	astrof	afii.4	\N	\N	2048	9612dae3	\N	\N	cpu1	\N	\N	\N	e000	
+game_rom	MacSloMo_v0.67	astrof	afii.3	\N	\N	2048	5a0fef42	\N	\N	cpu1	\N	\N	\N	e800	
+game_rom	MacSloMo_v0.67	astrof	afii.2	\N	\N	2048	69f8a4fc	\N	\N	cpu1	\N	\N	\N	f000	
+game_rom	MacSloMo_v0.67	astrof	afii.1	\N	\N	2048	322c09d2	\N	\N	cpu1	\N	\N	\N	f800	
+game	MacSloMo_v0.67	astrof3	\N	\N	astrof	astrof	\N	Astro Fighter (set 3)	1980	Data East	\N	\N	\N	
+game_rom	MacSloMo_v0.67	astrof3	kei2	\N	\N	1024	9f0bd355	\N	\N	cpu1	\N	\N	\N	d000	
+game_rom	MacSloMo_v0.67	astrof3	keii	\N	\N	1024	71f229f0	\N	\N	cpu1	\N	\N	\N	d400	
+game_rom	MacSloMo_v0.67	astrof3	kei0	\N	\N	1024	88114f7c	\N	\N	cpu1	\N	\N	\N	d800	
+game_rom	MacSloMo_v0.67	astrof3	ke9	\N	\N	1024	29cbaea6	\N	\N	cpu1	\N	\N	\N	dc00	
+game_rom	MacSloMo_v0.67	astrof3	ke8	\N	\N	1024	08e44b12	\N	\N	cpu1	\N	\N	\N	e000	
+game_rom	MacSloMo_v0.67	astrof3	ke7	\N	\N	1024	8a42d62c	\N	\N	cpu1	\N	\N	\N	e400	
+game_rom	MacSloMo_v0.67	astrof3	ke6	\N	\N	1024	3e9aa743	\N	\N	cpu1	\N	\N	\N	e800	
+game_rom	MacSloMo_v0.67	astrof3	ke5	\N	\N	1024	712a4557	\N	\N	cpu1	\N	\N	\N	ec00	
+game_rom	MacSloMo_v0.67	astrof3	ke4	\N	\N	1024	ad06f306	\N	\N	cpu1	\N	\N	\N	f000	
+game_rom	MacSloMo_v0.67	astrof3	ke3	\N	\N	1024	680b91b4	\N	\N	cpu1	\N	\N	\N	f400	
+game_rom	MacSloMo_v0.67	astrof3	ke2	\N	\N	1024	2c4cab1a	\N	\N	cpu1	\N	\N	\N	f800	
+game_rom	MacSloMo_v0.67	astrof3	kei	\N	\N	1024	fce4718d	\N	\N	cpu1	\N	\N	\N	fc00	

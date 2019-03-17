@@ -1,0 +1,40 @@
+
+emulator	raine	multi2	dummy	\N	\N	\N	RAINE	0.50.14	26/06/2008	DOS	Mainly 68000+68020 Taito, Jaleco and Campcom games	Originally the 'Rainbow Islands Emulator'. Faster than MAME for the games it does. Now an open source development at SourceForge. V0.41.0 added DX support!	Active
+emulator_homepage	raine	http://rainemu.swishparty.co.uk/	\N
+emulator_homepage	raine	http://sourceforge.net/projects/raine/	\N
+emulator_homepage	raine	http://www.rainemu.com/linux/	bad
+emulator_author_link	raine	antiriad	\N	author
+
+emulator_library_link	raine	starscream
+emulator_library_link	raine	multiz80
+emulator_tool_link	raine	djgpp
+emulator_tool_link	raine	nasm
+emulator_tool_link	raine	allegro
+emulator_tool_link	raine	sdl
+emulator_tool_link	raine	eagle
+emulator_tool_link	raine	zlib
+emulator_tool_link	raine	libpng
+emulator_features	raine	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	raine	Keyboard
+emulator_controller	raine	Joystick
+emulator_author_link	raine	tux	Maintainer since RAINE turned open source and creator of the Linux port	contributor
+
+emulator_author_link	raine	mario_silva	Organisation, coordination, rom finding, www updating and a lot of other stuff	contributor
+
+emulator_author_link	raine	hiromitsu_shioya	Main sound coding, implementation of sound playback and emulators, emulation of M6295, MSM5205 and YM2610. Plus many other improvements	contributor
+
+emulator_author_link	raine	richard_mitton	Emulation of Plotting, Bubble Bobble, Kiki Kai Kai and maybe a few other z80 games (wait and see!). Sound help, cool MCU static recompiler, and more nice things	contributor
+
+emulator_author_link	raine	cedrick_collomb	x86 asm optimization	contributor
+
+emulator_author_link	raine	katharsis	Fixing some dipswitches, crc32, other beta stuff and 'WIP' coordinator	contributor
+
+emulator_author_link	raine	david_haywood	Part of the 'WIP' team	contributor
+
+emulator_relative_link	raine	raine32	port_of
+
+emulator_file	raine	Emulator	rained-0.50.14.zip
+emulator_file	raine	Icons	raineicons.zip
+emulator_file	raine	Fonts	rainefonts.zip
+emulator_file	raine	Documents	rainedocs.zip
+emulator_file	raine	History	history062a.zip

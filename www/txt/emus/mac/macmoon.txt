@@ -1,0 +1,9 @@
+
+emulator	macmoon	mac	MacMoon_v0.86	\N	\N	\N	MacMoon	0.86	03/05/1997	Mac	Arcade classics	A multi arcade emulator for the Mac. As I don't have a Mac I am unable to dtermine the ROMs required so I have just listed the game names.	Dormant
+emulator_homepage	macmoon	http://nemoto.tri6.net/	\N
+emulator_author_link	macmoon	nemoto_yohei	\N	author
+
+emulator_library_link	macmoon	z80
+emulator_features	macmoon	Yes	No	?	?	No	No	?	No	No	Yes	No	No	No
+emulator_controller	macmoon	Keyboard
+emulator_file	macmoon	Emulator	macmoon.sit.bin

@@ -1,0 +1,9 @@
+
+emulator	system8	multi	System_8_v0.61b	\N	\N	\N	System 8 Emulator	0.61b	21/08/1997	DOS	SEGA Z80 based games (Wonderboy Deluxe and Pitfall 2)	The emulator was formerly known as Sega 8 and before that was a single Pitfall 2 emulator	Dormant
+emulator_homepage	system8	\N	none
+emulator_author_link	system8	roberto_ventura	\N	author
+
+emulator_library_link	system8	maze
+emulator_features	system8	No	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	system8	Keyboard
+emulator_file	system8	Emulator	system8.zip

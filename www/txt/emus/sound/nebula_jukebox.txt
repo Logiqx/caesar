@@ -1,0 +1,10 @@
+
+emulator	nebula_jukebox	sound	Nebula_Jukebox_v2.9	\N	\N	\N	Nebula Jukebox	2.9	02/01/2004	Windows	Capcom, IGS, Konami and Sega music	Plays the music and sound effects from arcade games based on Capcom's CPS-1, CPS-2, ZN-1 and ZN-2 hardware. Also supports IGS PolyGame Master, Konami and Sega Model 2 games.	Active
+emulator_homepage	nebula_jukebox	http://nebula.emulatronia.com/	\N
+emulator_author_link	nebula_jukebox	elsemi	\N	author
+
+emulator_tool_link	nebula_jukebox	msvc
+emulator_tool_link	nebula_jukebox	zlib
+emulator_features	nebula_jukebox	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	nebula_jukebox	Keyboard
+emulator_file	nebula_jukebox	Player	jukebox29.zip

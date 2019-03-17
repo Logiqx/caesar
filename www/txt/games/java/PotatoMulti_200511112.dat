@@ -1,0 +1,168 @@
+game	PotatoMulti_200511112	1942	\N	1942.c	\N	\N	\N	1942 (set 1)	1984	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1942a	\N	1942.c	\N	\N	\N	1942 (set 2)	1984	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1942b	\N	1942.c	\N	\N	\N	1942 (set 3)	1984	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1943	\N	1943.c	\N	\N	\N	1943: The Battle of Midway (US)	1987	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1943j	\N	1943.c	\N	\N	\N	1943: Midway Kaisen (Japan)	1987	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1943kai	\N	1943.c	\N	\N	\N	1943 Kai: Midway Kaisen (Japan)	1987	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	1945kiii	\N	1945kiii.c	\N	\N	\N	1945k III	2000	Oriental	\N	\N	\N	
+game	PotatoMulti_200511112	4enraya	\N	4enraya.c	\N	\N	\N	4 En Raya	1990	IDSA	\N	\N	\N	
+game	PotatoMulti_200511112	avsp	\N	cps2.c	\N	\N	\N	Alien vs. Predator (Euro 940520)	1994	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	bankp	\N	bankp.c	\N	\N	\N	Bank Panic	1984	[Sanritsu] Sega	\N	\N	\N	
+game	PotatoMulti_200511112	batcir	\N	cps2.c	\N	\N	\N	Battle Circuit (Euro 970319)	1997	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	battroad	\N	m62.c	\N	\N	\N	The Battle-Road	1984	Irem	\N	\N	\N	
+game	PotatoMulti_200511112	blktiger	\N	blktiger.c	\N	\N	\N	Black Tiger	1987	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	bktigerb	\N	blktiger.c	\N	\N	\N	Black Tiger (bootleg)	1987	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	blkdrgnb	\N	blktiger.c	\N	\N	\N	Black Dragon (bootleg)	1987	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	blkdrgon	\N	blktiger.c	\N	\N	\N	Black Dragon	1987	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	bombjack	\N	bombjack.c	\N	\N	\N	Bomb Jack (set 1)	1984	Tehkan	\N	\N	\N	
+game	PotatoMulti_200511112	bombjac2	\N	bombjack.c	\N	\N	\N	Bomb Jack (set 2)	1984	Tehkan	\N	\N	\N	
+game	PotatoMulti_200511112	commando	\N	commando.c	\N	\N	\N	Commando (World)	1985	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	csclub	\N	cps2.c	\N	\N	\N	Capcom Sports Club (Euro 970722)	1997	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	diverboy	\N	diverboy.c	\N	\N	\N	Diver Boy	1992	Electronic Devices Italy	\N	\N	\N	
+game	PotatoMulti_200511112	dkong	\N	dkong.c	\N	\N	\N	Donkey Kong (US set 1)	1981	Nintendo of America	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkong	run01.wav	
+game_sample	PotatoMulti_200511112	dkong	run02.wav	
+game_sample	PotatoMulti_200511112	dkong	run03.wav	
+game_sample	PotatoMulti_200511112	dkong	jump.wav	
+game_sample	PotatoMulti_200511112	dkong	dkstomp.wav	
+game	PotatoMulti_200511112	dkongjo	\N	dkong.c	\N	\N	dkong	Donkey Kong (Japan set 2)	1981	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjo	run01.wav	
+game_sample	PotatoMulti_200511112	dkongjo	run02.wav	
+game_sample	PotatoMulti_200511112	dkongjo	run03.wav	
+game_sample	PotatoMulti_200511112	dkongjo	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjo	dkstomp.wav	
+game	PotatoMulti_200511112	dkongjo1	\N	dkong.c	\N	\N	dkong	Donkey Kong (Japan set 3) (bad dump?)	1981	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjo1	run01.wav	
+game_sample	PotatoMulti_200511112	dkongjo1	run02.wav	
+game_sample	PotatoMulti_200511112	dkongjo1	run03.wav	
+game_sample	PotatoMulti_200511112	dkongjo1	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjo1	dkstomp.wav	
+game	PotatoMulti_200511112	dkongjp	\N	dkong.c	\N	\N	dkong	Donkey Kong (Japan set 1)	1981	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjp	run01.wav	
+game_sample	PotatoMulti_200511112	dkongjp	run02.wav	
+game_sample	PotatoMulti_200511112	dkongjp	run03.wav	
+game_sample	PotatoMulti_200511112	dkongjp	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjp	dkstomp.wav	
+game	PotatoMulti_200511112	dkongo	\N	dkong.c	\N	\N	dkong	Donkey Kong (US set 2)	1981	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongo	run01.wav	
+game_sample	PotatoMulti_200511112	dkongo	run02.wav	
+game_sample	PotatoMulti_200511112	dkongo	run03.wav	
+game_sample	PotatoMulti_200511112	dkongo	jump.wav	
+game_sample	PotatoMulti_200511112	dkongo	dkstomp.wav	
+game	PotatoMulti_200511112	dkong3	\N	dkong.c	\N	\N	\N	Donkey Kong 3 (US)	1983	Nintendo of America	\N	\N	\N	
+game	PotatoMulti_200511112	dkong3j	\N	dkong.c	\N	\N	\N	Donkey Kong 3 (Japan)	1983	Nintendo	\N	\N	\N	
+game	PotatoMulti_200511112	dkongjr	\N	dkong.c	\N	\N	\N	Donkey Kong Junior (US)	1982	Nintendo of America	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjr	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjr	land.wav	
+game_sample	PotatoMulti_200511112	dkongjr	roar.wav	
+game_sample	PotatoMulti_200511112	dkongjr	climb0.wav	
+game_sample	PotatoMulti_200511112	dkongjr	climb1.wav	
+game_sample	PotatoMulti_200511112	dkongjr	climb2.wav	
+game_sample	PotatoMulti_200511112	dkongjr	death.wav	
+game_sample	PotatoMulti_200511112	dkongjr	drop.wav	
+game_sample	PotatoMulti_200511112	dkongjr	walk0.wav	
+game_sample	PotatoMulti_200511112	dkongjr	walk1.wav	
+game_sample	PotatoMulti_200511112	dkongjr	walk2.wav	
+game_sample	PotatoMulti_200511112	dkongjr	snapjaw.wav	
+game	PotatoMulti_200511112	dkngjnrb	\N	dkong.c	\N	\N	dkongjr	Donkey Kong Junior (bootleg?)	1982	Nintendo of America	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkngjnrb	jump.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	land.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	roar.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	climb0.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	climb1.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	climb2.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	death.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	drop.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	walk0.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	walk1.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	walk2.wav	
+game_sample	PotatoMulti_200511112	dkngjnrb	snapjaw.wav	
+game	PotatoMulti_200511112	dkngjnrj	\N	dkong.c	\N	\N	dkongjr	Donkey Kong Junior (Japan?)	1982	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkngjnrj	jump.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	land.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	roar.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	climb0.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	climb1.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	climb2.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	death.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	drop.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	walk0.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	walk1.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	walk2.wav	
+game_sample	PotatoMulti_200511112	dkngjnrj	snapjaw.wav	
+game	PotatoMulti_200511112	dkongjrb	\N	dkong.c	\N	\N	dkongjr	Donkey Kong Jr. (bootleg)	1982	bootleg	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjrb	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	land.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	roar.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	climb0.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	climb1.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	climb2.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	death.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	drop.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	walk0.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	walk1.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	walk2.wav	
+game_sample	PotatoMulti_200511112	dkongjrb	snapjaw.wav	
+game	PotatoMulti_200511112	dkongjrj	\N	dkong.c	\N	\N	dkongjr	Donkey Kong Jr. (Japan)	1982	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	dkongjrj	jump.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	land.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	roar.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	climb0.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	climb1.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	climb2.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	death.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	drop.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	walk0.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	walk1.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	walk2.wav	
+game_sample	PotatoMulti_200511112	dkongjrj	snapjaw.wav	
+game	PotatoMulti_200511112	ecofghtr	\N	cps2.c	\N	\N	\N	Eco Fighters (World 931203)	1993	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	gberet	\N	gberet.c	\N	\N	\N	Green Beret	1985	Konami	\N	\N	\N	
+game	PotatoMulti_200511112	gberetb	\N	gberet.c	\N	\N	\N	Green Beret (bootleg)	1985	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	rushatck	\N	gberet.c	\N	\N	\N	Rush'n Attack (US)	1985	Konami	\N	\N	\N	
+game	PotatoMulti_200511112	gunsmoke	\N	gunsmoke.c	\N	\N	\N	Gun.Smoke (World)	1985	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	gunsmoka	\N	gunsmoke.c	\N	\N	\N	Gun.Smoke (US set 2)	1986	Capcom (Romstar license)	\N	\N	\N	
+game	PotatoMulti_200511112	gunsmokj	\N	gunsmoke.c	\N	\N	\N	Gun.Smoke (Japan)	1985	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	gunsmoku	\N	gunsmoke.c	\N	\N	\N	Gun.Smoke (US set 1)	1985	Capcom (Romstar license)	\N	\N	\N	
+game	PotatoMulti_200511112	hexa	\N	hexa.c	\N	\N	\N	Hexa	\N	D. R. Korea	\N	\N	\N	
+game	PotatoMulti_200511112	horizon	\N	m62.c	\N	\N	\N	Horizon	1985	Irem	\N	\N	\N	
+game	PotatoMulti_200511112	kidniki	\N	m62.c	\N	\N	\N	Kid Niki - Radical Ninja (US)	1986	Irem (Data East USA license)	\N	\N	\N	
+game	PotatoMulti_200511112	lithero	\N	m62.c	\N	\N	\N	Little Hero	1987	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	ldrun	\N	m62.c	\N	\N	\N	Lode Runner (set 1)	1984	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	ldruna	\N	m62.c	\N	\N	\N	Lode Runner (set 2)	1984	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	ldrun2	\N	m62.c	\N	\N	\N	Lode Runner II - The Bungeling Strikes Back	1984	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	ldrun3	\N	m62.c	\N	\N	\N	Lode Runner III - The Golden Labyrinth	1985	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	ldrun3jp	\N	m62.c	\N	\N	\N	Lode Runner III - Majin No Fukkatsu	1985	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	ldrun4	\N	m62.c	\N	\N	\N	Lode Runner IV - Teikoku Karano Dasshutsu	1986	Irem (licensed from Broderbund)	\N	\N	\N	
+game	PotatoMulti_200511112	lotlot	\N	m62.c	\N	\N	\N	Lot Lot	1985	Irem (licensed from Tokuma Shoten)	\N	\N	\N	
+game	PotatoMulti_200511112	mario	\N	mario.c	\N	\N	\N	Mario Bros. (US)	1983	Nintendo of America	\N	\N	\N	
+game_sample	PotatoMulti_200511112	mario	ice.wav	
+game_sample	PotatoMulti_200511112	mario	coin.wav	
+game_sample	PotatoMulti_200511112	mario	skid.wav	
+game_sample	PotatoMulti_200511112	mario	run.wav	
+game_sample	PotatoMulti_200511112	mario	luigirun.wav	
+game	PotatoMulti_200511112	mariojp	\N	mario.c	\N	\N	mario	Mario Bros. (Japan)	1983	Nintendo	\N	\N	\N	
+game_sample	PotatoMulti_200511112	mariojp	ice.wav	
+game_sample	PotatoMulti_200511112	mariojp	coin.wav	
+game_sample	PotatoMulti_200511112	mariojp	skid.wav	
+game_sample	PotatoMulti_200511112	mariojp	run.wav	
+game_sample	PotatoMulti_200511112	mariojp	luigirun.wav	
+game	PotatoMulti_200511112	merlinmm	\N	pingpong.c	\N	\N	\N	Merlins Money Maze	1986	Zilec - Zenitone	\N	\N	\N	
+game	PotatoMulti_200511112	mpangj	\N	cps2.c	\N	\N	\N	Mighty! Pang (Japan 001011)	2000	Mitchell, distributed by Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	mrdo	\N	mrdo.c	\N	\N	\N	Mr. Do!	1982	Universal	\N	\N	\N	
+game	PotatoMulti_200511112	mrgoemon	\N	gberet.c	\N	\N	\N	Mr. Goemon (Japan)	1986	Konami	\N	\N	\N	
+game	PotatoMulti_200511112	mrjong	\N	mrjong.c	\N	\N	\N	Mr. Jong (Japan)	1983	Kiwako	\N	\N	\N	
+game	PotatoMulti_200511112	crazyblk	\N	mrjong.c	\N	\N	\N	Crazy Blocks	1983	Kiwako (ECI license)	\N	\N	\N	
+game	PotatoMulti_200511112	news	\N	news.c	\N	\N	\N	News	1993	Poby / Virus	\N	\N	\N	
+game	PotatoMulti_200511112	pang	\N	mitchell.c	\N	\N	\N	Pang (World)	1989	Mitchell	\N	\N	\N	
+game	PotatoMulti_200511112	pangb	\N	mitchell.c	\N	\N	\N	Pang (bootleg)	1989	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	pingpong	\N	pingpong.c	\N	\N	\N	Ping Pong	1985	Konami	\N	\N	\N	
+game	PotatoMulti_200511112	pooyan	\N	pooyan.c	\N	\N	\N	Pooyan	1982	Konami	\N	\N	\N	
+game	PotatoMulti_200511112	pootan	\N	pooyan.c	\N	\N	\N	Pootan	1982	bootleg	\N	\N	\N	
+game	PotatoMulti_200511112	pooyans	\N	pooyan.c	\N	\N	\N	Pooyan (Stern)	1982	[Konami] (Stern license)	\N	\N	\N	
+game	PotatoMulti_200511112	puckman	\N	pacman.c	\N	\N	\N	PuckMan (Japan set 1, Probably Bootleg)	1980	Namco	\N	\N	\N	
+game	PotatoMulti_200511112	pacman	\N	pacman.c	\N	\N	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game	PotatoMulti_200511112	sf2	\N	cps1.c	\N	\N	\N	Street Fighter II - The World Warrior (World 910522)	1991	Capcom	\N	\N	\N	
+game	PotatoMulti_200511112	snowbros	\N	snowbros.c	\N	\N	\N	Snow Bros. - Nick & Tom (set 1)	1990	Toaplan	\N	\N	\N	
+game	PotatoMulti_200511112	solomon	\N	solomon.c	\N	\N	\N	Solomon's Key (Japan)	1986	Tecmo	\N	\N	\N	
+game	PotatoMulti_200511112	spf2t	\N	cps2.c	\N	\N	\N	Super Puzzle Fighter II Turbo (US 960620)	1996	Capcom	\N	\N	\N	

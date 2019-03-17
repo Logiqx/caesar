@@ -1,0 +1,12 @@
+
+emulator	laser32	multi2	dummy	\N	\N	\N	Laser32	0.20a	04/12/2002	Windows	Midway 8080 based games like space invaders	Windows port of Laser, originally created by Atani	Dormant
+emulator_homepage	laser32	http://laser.sourceforge.net/	\N
+emulator_author_link	laser32	lopantu	\N	author
+
+emulator_features	laser32	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laser32	Keyboard
+emulator_controller	laser32	Joystick
+emulator_relative_link	laser32	laser	port_of
+
+emulator_file	laser32	Emulator	laser32020a.zip
+emulator_file	laser32	Source	laser32020as.zip

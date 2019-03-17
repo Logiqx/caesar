@@ -1,0 +1,5 @@
+
+tool	retrofx	gfx_libs	RetroFX	None	Unreleased	A library that enables you to easily plug enhanced graphics and sound into any emulation engine. Started in July 1999 but the site became inactive after December 1999.
+tool_homepage	retrofx	http://www.retrofx.com/	\N
+tool_author_link	retrofx	dirk_stevens
+tool_emulator_link	retrofx	retrofx_gng

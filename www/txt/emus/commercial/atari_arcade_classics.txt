@@ -1,0 +1,10 @@
+
+emulator	atari_arcade_classics	commercial	Atari_Arcade_Classics	\N	\N	\N	Atari Arcade Classics	Released	June 2001	Windows	Pong, Centipede, Missile Command, Super Breakout	Emulates all four games true to the original or with new enhanced graphics. Also shows cabinet art around the game. Maybe a conversion instead of emulation? Registration is $9.99	Released
+emulator_homepage	atari_arcade_classics	http://www.realarcade.com/	\N
+emulator_author_link	atari_arcade_classics	infogrames	\N	author
+
+emulator_features	atari_arcade_classics	Yes	No	No	Yes	Yes	No	Yes	No	N/A	Yes	No	No	Yes
+emulator_controller	atari_arcade_classics	Keyboard
+emulator_controller	atari_arcade_classics	Joystick
+emulator_controller	atari_arcade_classics	Mouse
+emulator_file	atari_arcade_classics	Fully playable demo	Atari_Arcade_Classics_free.exe

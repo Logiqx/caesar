@@ -1,0 +1,10 @@
+
+emulator	atari_arcade_hits_2	commercial	Atari_Arcade_Hits_2	\N	\N	\N	Atari Arcade Hits 2	-	2000	Windows	Asteroids Deluxe, Battle Zone, Gravitar, Warlords, Crystal Castles, Millipede	The second Atari set that Digital Eclipse created for Hasbro Interactive.	Released
+emulator_homepage	atari_arcade_hits_2	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_arcade_hits_2	hasbro_interactive	\N	author
+
+emulator_features	atari_arcade_hits_2	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_arcade_hits_2	Keyboard
+emulator_controller	atari_arcade_hits_2	Joystick
+emulator_controller	atari_arcade_hits_2	Mouse
+emulator_author_link	atari_arcade_hits_2	digital_eclipse	Development	contributor

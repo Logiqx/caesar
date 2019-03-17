@@ -1,0 +1,10 @@
+game	Nemesis_Emulator_v0.99	nemesis	\N	\N	\N	\N	\N	Nemesis (hacked?)	1985	Konami	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	12a_01.bin	\N	\N	32768	35ff1aaa	2879a5d2ff7dca217fe5cd40be871878294c491f	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	12c_05.bin	\N	\N	32768	23155faa	08c73c669b3a5275353cbfcbe58ced92d93244a7	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	13a_02.bin	\N	\N	32768	ac0cf163	8b1a46c3ad102fe78cf099425e108d09dafd0955	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	13c_06.bin	\N	\N	32768	023f22a9	0b9096b9cfcc3ed273de04c93227ab24c63513e8	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	14a_03.bin	\N	\N	32768	8cefb25f	876b1974ca76ca89f8b8ea45b4ba9ec82d7c7228	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	14c_07.bin	\N	\N	32768	d50b82cb	71e9fbe51272788e2ef6f150c7bff59ac8c28f1d	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	15a_04.bin	\N	\N	32768	9ca75592	04388f2874faa54dd2cabfec4d6ce3e8d164cbcc	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	15c_08.bin	\N	\N	32768	03c0b7f5	4eb31bcbd2ee66afe4158308351a57589c5a1e4e	\N	\N	\N	\N	\N	\N	
+game_rom	Nemesis_Emulator_v0.99	nemesis	09c_snd.bin	\N	\N	16384	26bf9636	009dcbf18ea6230fc75a72232bd4fc29ad28dbf0	\N	\N	\N	\N	\N	\N	

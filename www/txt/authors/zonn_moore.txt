@@ -1,0 +1,9 @@
+
+author	zonn_moore	Zonn Moore	\N
+author_email	zonn_moore	zonn@concentric.net
+author_email	zonn_moore	zonn@zonn.com
+author_emulator_link	zonn_moore	cinemu	author
+
+author_emulator_link	zonn_moore	retrocade	contributor
+
+author_library_link	zonn_moore	mathbox

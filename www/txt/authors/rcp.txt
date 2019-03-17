@@ -1,0 +1,4 @@
+
+author	rcp	RCP	\N
+author_email	rcp	rcp@emuhq.com
+author_emulator_link	rcp	u64emu	author

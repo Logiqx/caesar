@@ -1,0 +1,16 @@
+
+emulator	shark	multi	Shark_v3.1f	\N	\N	\N	Shark	3.1f	28/07/1999	Windows	Toaplan/Taito Shoot-em-ups and the Newzealand Story	Written by the Dead Serious Clan. Originally the 'Flying Shark' emulator. Some games slightly smoother than MAME on 233MMX (but not much)	No new development planned
+emulator_homepage	shark	http://www.c64.org/~magnus/shark.html	\N
+emulator_author_link	shark	carl_henrik_skarstedt	\N	author
+
+emulator_author_link	shark	magnus_danielsson	\N	author
+
+emulator_library_link	shark	multiz80
+emulator_library_link	shark	starscream
+emulator_tool_link	shark	msvc
+emulator_features	shark	Yes	No	No	No	Yes	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	shark	Keyboard
+emulator_controller	shark	Joystick
+emulator_author_link	shark	johan_kohler	Worked on original Flying Shark Emulator	contributor
+
+emulator_file	shark	Emulator	shark31f.zip

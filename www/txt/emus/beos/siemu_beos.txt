@@ -1,0 +1,11 @@
+
+emulator	siemu_beos	beos	dummy	\N	\N	\N	8080A Simulator (siemu) for BeOS	1.03	15/11/2002	BeOS	Space Invaders (Taito)	A simple Space Invaders emulator. Can also emulate other Space Invaders clones if you name the ROMs appropriately. Requires SDL library to run.	Dormant
+emulator_homepage	siemu_beos	http://www.beemulated.net/	\N
+emulator_author_link	siemu_beos	anoakie_turner	\N	author
+
+emulator_tool_link	siemu_beos	sdl
+emulator_features	siemu_beos	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	siemu_beos	Keyboard
+emulator_relative_link	siemu_beos	siemu	port_of
+
+emulator_file	siemu_beos	Emulator and source (ZIP)	siemu-1.03.zip

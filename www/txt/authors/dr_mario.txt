@@ -1,0 +1,6 @@
+
+author	dr_mario	Dr Mario	\N
+author_email	dr_mario	jason@spis.net
+author_emulator_link	dr_mario	les	author
+
+author_emulator_link	dr_mario	penix	author

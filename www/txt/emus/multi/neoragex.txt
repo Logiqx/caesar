@@ -1,0 +1,15 @@
+
+emulator	neoragex	multi	NeoRAGEx_v0.6b	\N	\N	\N	NeoRAGEx	0.6b	17/06/1999	Windows	Neo-Geo Games	Faster than MAME. Also plays Metal Slug X and Puzzle Bobble 2 (both are disabled in MAME).	Dormant
+emulator_homepage	neoragex	http://home5.swipnet.se/~w-50884/emulator/rage.htm	\N
+emulator_author_link	neoragex	anders_nilsson	\N	author
+
+emulator_author_link	neoragex	janne_korpela	\N	author
+
+emulator_library_link	neoragex	starscream
+emulator_features	neoragex	Yes	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	No	Yes	\N
+emulator_controller	neoragex	Keyboard
+emulator_controller	neoragex	Joystick
+emulator_file	neoragex	Emulator	neoragex06b.zip
+emulator_file	neoragex	Game Previews (Snapshots)	neoragex-previews06.zip
+emulator_file	neoragex	ROM Fixes	romfix.zip
+emulator_file	neoragex	Patches for Garou and KOF99	ptw00409.zip

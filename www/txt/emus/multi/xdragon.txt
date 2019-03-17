@@ -1,0 +1,14 @@
+
+emulator	xdragon	multi	xDragon_v0.30	\N	\N	\N	xDragon	0.30	06/05/1998	DOS	Data East games	By the author of xNES. Sound missing in a couple of Slay Spy and Midnight Resistance	Dormant
+emulator_homepage	xdragon	http://membres.lycos.fr/gouky/xdragon/	\N
+emulator_author_link	xdragon	nicholas_hamel	\N	author
+
+emulator_author_link	xdragon	david_mitchel	\N	author
+
+emulator_library_link	xdragon	starscream
+emulator_tool_link	xdragon	djgpp
+emulator_tool_link	xdragon	allegro
+emulator_features	xdragon	Yes	No	Yes	No	No	No	Yes	No	Yes	Yes	No	No	Yes
+emulator_controller	xdragon	Keyboard
+emulator_controller	xdragon	Joystick
+emulator_file	xdragon	Emulator	xdragon030.zip

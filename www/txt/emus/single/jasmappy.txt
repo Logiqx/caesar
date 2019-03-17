@@ -1,0 +1,12 @@
+
+emulator	jasmappy	single	JAS-Mappy_v1.0	\N	\N	\N	JAS-Mappy (JROK's Arcade Simulator)	1.0	16/07/1997	DOS (but Windows friendly)	Mappy (Namco)	Grew up to become the multi-arcade emulator JAS	Now part of JAS
+emulator_homepage	jasmappy	http://www.jrok.com/	\N
+emulator_author_link	jasmappy	jrok	\N	author
+
+emulator_tool_link	jasmappy	watcom
+emulator_features	jasmappy	Yes	No	No	Yes	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	jasmappy	Keyboard
+emulator_controller	jasmappy	Joystick
+emulator_relative_link	jasmappy	jas	successor
+
+emulator_file	jasmappy	Emulator	jas-mapy.zip

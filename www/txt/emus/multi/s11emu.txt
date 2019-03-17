@@ -1,0 +1,18 @@
+
+emulator	s11emu	multi	S11Emu_v0.2	\N	\N	\N	S11Emu	v0.2	21/12/2001	Windows	Namco System 11	S11Emu emulates Namco System 11 games but does not have sound emulation yet.	Superceded
+emulator_homepage	s11emu	http://www.emuhype.com/	\N
+emulator_author_link	s11emu	marcin_dudar	\N	author
+
+emulator_tool_link	s11emu	msvc
+emulator_tool_link	s11emu	zlib
+emulator_features	s11emu	No	No	No	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	s11emu	Keyboard
+emulator_relative_link	s11emu	impact	derivative_of
+
+emulator_relative_link	s11emu	zinc	successor
+
+emulator_file	s11emu	Emulator (includes new Plugin)	s11np02.zip
+emulator_file	s11emu	Emulator (for use with old Plugins - below)	s11op02.zip
+emulator_file	s11emu	D3D Plugin	d3drenderer_1_11.zip
+emulator_file	s11emu	Glide Plugin	gliderenderer_1_3.zip
+emulator_file	s11emu	OGL Plugin	oglrenderer_1_11.zip

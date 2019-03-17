@@ -1,0 +1,5 @@
+game	SI_v0.1	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	SI_v0.1	invaders	invaders.h	\N	\N	2048	734f5ad8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	SI_v0.1	invaders	invaders.g	\N	\N	2048	6bfaca4a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	SI_v0.1	invaders	invaders.f	\N	\N	2048	0ccead96	\N	\N	\N	\N	\N	\N	\N	
+game_rom	SI_v0.1	invaders	invaders.e	\N	\N	2048	14e538b0	\N	\N	\N	\N	\N	\N	\N	

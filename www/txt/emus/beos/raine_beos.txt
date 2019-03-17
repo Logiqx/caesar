@@ -1,0 +1,19 @@
+
+emulator	raine_beos	beos	dummy	\N	\N	\N	RAINE for BeOS	0.39.3	08/02/2004	BeOS	Mainly 68000+68020 Taito, Jaleco and Capcom games	BeOS version of the wonderful RAINE emulator. There is no PPC version available (x86 only).	Active
+emulator_homepage	raine_beos	http://www.infernal.currantbun.com/raine.html	\N
+emulator_author_link	raine_beos	caz_jones	\N	author
+
+emulator_library_link	raine_beos	starscream
+emulator_library_link	raine_beos	multiz80
+emulator_tool_link	raine_beos	djgpp
+emulator_tool_link	raine_beos	nasm
+emulator_tool_link	raine_beos	allegro
+emulator_tool_link	raine_beos	eagle
+emulator_tool_link	raine_beos	zlib
+emulator_features	raine_beos	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	raine_beos	Keyboard
+emulator_controller	raine_beos	Mouse
+emulator_controller	raine_beos	Joystick
+emulator_relative_link	raine_beos	raine32	port_of
+
+emulator_file	raine_beos	Emulator	raine-0.37.1.zip

@@ -1,0 +1,3 @@
+
+tool_contents	zip_libs	ZIP Libraries	Here are the ZIP libraries commonly used by emulation authors
+tool_contents_tool_link	zip_libs	zlib

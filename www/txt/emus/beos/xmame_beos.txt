@@ -1,0 +1,13 @@
+
+emulator	xmame_beos	beos	dummy	\N	\N	\N	X-MAME (BeOS)	0.78.1	21/01/2004	BeOS	Emulates far more than anything else!	Requires SDL 1.2.3.	Active
+emulator_homepage	xmame_beos	http://www.beemulated.net/	\N
+emulator_homepage	xmame_beos	http://x.mame.net/	\N
+emulator_author_link	xmame_beos	jack_burton	\N	author
+
+emulator_features	xmame_beos	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	xmame_beos	Keyboard
+emulator_controller	xmame_beos	Joystick
+emulator_controller	xmame_beos	Mouse
+emulator_relative_link	xmame_beos	mame	port_of
+
+emulator_relative_link	xmame_beos	xmame	port_of

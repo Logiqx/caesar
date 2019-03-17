@@ -1,0 +1,117 @@
+game	aEmu_v1.1	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	aEmu_v1.1	invaders	invaders.h	\N	\N	2048	734f5ad8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invaders	invaders.g	\N	\N	2048	6bfaca4a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invaders	invaders.f	\N	\N	2048	0ccead96	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invaders	invaders.e	\N	\N	2048	14e538b0	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_rom	aEmu_v1.1	earthinv	invaders.h	\N	\N	2048	58a750c8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	earthinv	invaders.g	\N	\N	2048	b91742f1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	earthinv	invaders.f	\N	\N	2048	4acbbc60	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	earthinv	invaders.e	\N	\N	2048	df397b12	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	spaceatt	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	aEmu_v1.1	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spaceatt	spaceatt.f	\N	\N	2048	4c060223	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	sinvemag	\N	\N	\N	\N	\N	Super Invaders (EMAG)	????	bootleg	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	sv0h.bin	\N	\N	1024	86bb8cb6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	emag_si.b	\N	\N	1024	febe6d1a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	emag_si.c	\N	\N	1024	aafb24f7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	emag_si.d	\N	\N	1024	68c4b9da	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	emag_si.e	\N	\N	1024	c4e80586	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sinvemag	emag_si.f	\N	\N	1024	077f5ef2	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	alieninv	\N	\N	\N	\N	\N	Alien Invasion Part II	????	bootleg	\N	\N	\N	
+game_rom	aEmu_v1.1	alieninv	1h.bin	\N	\N	2048	c46df7f4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	alieninv	1g.bin	\N	\N	2048	4b1112d6	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	alieninv	1f.bin	\N	\N	2048	adca18a5	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	alieninv	1e.bin	\N	\N	2048	0449cb52	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	sitv	\N	\N	\N	\N	\N	Space Invaders (TV Version)	1978	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	sitv	tv0h.s1	\N	\N	2048	fef18aad	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sitv	tv02.rp1	\N	\N	2048	3c759a90	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sitv	tv03.n1	\N	\N	2048	0ad3657f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	sitv	tv04.m1	\N	\N	2048	cd2c67f6	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	spceking	\N	\N	\N	\N	\N	Space King	1978	Leijac (Konami)	\N	\N	\N	
+game_rom	aEmu_v1.1	spceking	invaders.h	\N	\N	2048	734f5ad8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spceking	spcekng2	\N	\N	2048	96dcdd42	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spceking	spcekng3	\N	\N	2048	95fc96ad	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spceking	spcekng4	\N	\N	2048	54170ada	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	galxwars	\N	\N	\N	\N	\N	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.0	\N	\N	1024	608bfe7f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.1	\N	\N	1024	a810b258	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.2	\N	\N	1024	74f31781	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.3	\N	\N	1024	c88f886c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	galxwars	galxwars.5	\N	\N	1024	37708a35	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	ozmawars	\N	\N	\N	\N	\N	Ozma Wars	1979	SNK	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw01	\N	\N	2048	31f4397d	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw02	\N	\N	2048	d8e77c62	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw03	\N	\N	2048	3bfa418f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw04	\N	\N	2048	e190ce6c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw05	\N	\N	2048	3bc7d4c7	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ozmawars	mw06	\N	\N	2048	99ca2eae	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	maze	\N	\N	\N	\N	\N	Amazing Maze	1976	Midway	\N	\N	\N	
+game_rom	aEmu_v1.1	maze	invaders.h	\N	\N	2048	f2860cff	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	maze	invaders.g	\N	\N	2048	65fad839	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	ballbomb	\N	\N	\N	\N	\N	Balloon Bomber	1980	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn01	\N	\N	2048	551585b5	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn02	\N	\N	2048	7e1f734f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn03	\N	\N	2048	d93e20bc	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn04	\N	\N	2048	d0689a22	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn05-1	\N	\N	2048	5d5e94f1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn06	\N	\N	1024	7ec554c4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	ballbomb	tn07	\N	\N	1024	deb0ac82	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	invrvnge	\N	\N	\N	\N	\N	Invader's Revenge	????	Zenitone Microsec	\N	\N	\N	
+game_rom	aEmu_v1.1	invrvnge	invaders.h	\N	\N	2048	aca41bbb	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invrvnge	invaders.g	\N	\N	2048	cfe89dad	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invrvnge	invaders.f	\N	\N	2048	e350de2c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invrvnge	invaders.e	\N	\N	2048	1ec8dfc8	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	lrescue	\N	\N	\N	\N	\N	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.1	\N	\N	2048	2bbc4778	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.2	\N	\N	2048	49e79706	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.3	\N	\N	2048	1ac969be	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.4	\N	\N	2048	782fee3c	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.5	\N	\N	2048	58fde8bc	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lrescue	7643-1.cpu	\N	\N	1024	8b2e38de	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	lupin3	\N	\N	\N	\N	\N	Lupin III	1980	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp12.bin	\N	\N	2048	68a7f47a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp13.bin	\N	\N	2048	cae9a17b	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp14.bin	\N	\N	2048	3553b9e4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp15.bin	\N	\N	2048	acbeef64	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp16.bin	\N	\N	2048	19fcdc54	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp17.bin	\N	\N	2048	66289ab2	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	lupin3	lp18.bin	\N	\N	2048	2f07b4ba	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	polaris	\N	\N	\N	\N	\N	Polaris (set 1)	1980	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-01	\N	\N	2048	c04ce5a9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-09	\N	\N	2048	9a5c8cb2	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-08	\N	\N	2048	8680d7ea	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-04	\N	\N	2048	65694948	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-05	\N	\N	2048	772e31f3	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps-10	\N	\N	2048	3df77bac	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	ps07	\N	\N	1024	164aa05d	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	polaris	mb7052.2c	\N	\N	256	2953253b	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	invadpt2	\N	\N	\N	\N	\N	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv.01	\N	\N	2048	7288a511	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv.02	\N	\N	2048	097dd8d5	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv.03	\N	\N	2048	1766337e	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv.04	\N	\N	2048	8f0e62e0	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv.05	\N	\N	2048	19b505e9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv06_1.bin	\N	\N	1024	a732810b	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	invadpt2	pv07_2.bin	\N	\N	1024	2c5b91cb	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	spclaser	\N	\N	\N	\N	\N	Space Laser	1980	Game Plan, Inc. (Taito)	\N	\N	\N	
+game_rom	aEmu_v1.1	spclaser	la01	\N	\N	2048	bedc0078	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spclaser	spcewarl.2	\N	\N	2048	43bc65c5	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spclaser	la03	\N	\N	2048	1083e9cc	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	spclaser	la04	\N	\N	2048	5116b234	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	tornbase	\N	\N	\N	\N	\N	Tornado Baseball	1976	Midway	\N	\N	\N	
+game_rom	aEmu_v1.1	tornbase	tb.h	\N	\N	2048	653f4797	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	tornbase	tb.g	\N	\N	2048	b63dcdb3	bdaa0985bcb5257204ee10faa11a4e02a38b9ac5	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	tornbase	tb.f	\N	\N	2048	215e070c	\N	\N	\N	\N	\N	\N	\N	
+game	aEmu_v1.1	yosakdon	\N	\N	\N	\N	\N	Yosaku To Donbee (bootleg)	1979	bootleg	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd1.bin	\N	\N	1024	607899c9	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd2.bin	\N	\N	1024	78336df4	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd3.bin	\N	\N	1024	c5af6d52	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd4.bin	\N	\N	1024	dca8064f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd5.bin	\N	\N	1024	38804ff1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd6.bin	\N	\N	1024	988d2362	\N	\N	\N	\N	\N	\N	\N	
+game_rom	aEmu_v1.1	yosakdon	yd7.bin	\N	\N	1024	2744e68b	\N	\N	\N	\N	\N	\N	\N	

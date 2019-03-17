@@ -1,0 +1,18 @@
+
+emulator	zinc_linux	linux	dummy	\N	\N	\N	ZiNc (Linux)	v1.1	25/01/2005	Linux	Sony ZN-1, ZN-2 and Namco System 11	Zinc emulates Sony ZN-1, ZN-2 and Namco System 11 games and supercedes both Impact and S11Emu. The last version of ZiNc from Duddie and Tratax was v0.9, after that they went on to created GCEmu (a Nintendo GameCube emulator) and R.Belmont / SMF took over ZiNc development.	Dormant
+emulator_homepage	zinc_linux	http://www.emuhype.com/	\N
+emulator_author_link	zinc_linux	marcin_dudar	\N	author
+
+emulator_author_link	zinc_linux	tratax	\N	author
+
+emulator_author_link	zinc_linux	richter_belmont	\N	author
+
+emulator_author_link	zinc_linux	smf	\N	author
+
+emulator_features	zinc_linux	Yes	No	No	No	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	zinc_linux	Keyboard
+emulator_relative_link	zinc_linux	zinc	port_of
+
+emulator_file	zinc_linux	ZiNc Emulator	zinc11-lnx.tar.bz2
+emulator_file	zinc_linux	ZiNc MesaGL Render v1.1	mesagl.tar.bz2
+emulator_file	zinc_linux	ZiNc OpenGL and D3D renderers 1.2.1	lin-ogl121.tar.bz2

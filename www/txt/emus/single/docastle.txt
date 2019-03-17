@@ -1,0 +1,10 @@
+
+emulator	docastle	single	Mr._Do!_s_Castle_v2.0	\N	\N	\N	Mr. Do!'s Castle Emulator	2.0	25/12/1996	DOS	Mr. Do!'s Castle (Universal)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	docastle	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	docastle	joseba_epalza	\N	author
+
+emulator_library_link	docastle	z80
+emulator_tool_link	docastle	ms
+emulator_features	docastle	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	docastle	Keyboard
+emulator_file	docastle	Emulator	docast20.zip

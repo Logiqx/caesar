@@ -1,0 +1,12 @@
+
+emulator	finalburn_beos	beos	dummy	\N	\N	\N	Final Burn for BeOS	Preview	19/10/2001	BeOS	Sega and Capcom 68000 games	BeOS port of Final Burn, based on the Linux port by Daniel Moreno. Requires SDL library.	Dormant
+emulator_homepage	finalburn_beos	http://www.beemulated.net/arcade/multi.phtml	\N
+emulator_author_link	finalburn_beos	caz_jones	\N	author
+
+emulator_features	finalburn_beos	Yes	Yes	No	No	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	finalburn_beos	Keyboard
+emulator_controller	finalburn_beos	Joystick
+emulator_relative_link	finalburn_beos	finalburn	port_of
+
+emulator_file	finalburn_beos	Final Burn Emulator	FinalBurnSDL.zip
+emulator_file	finalburn_beos	Source	FinalBurnSDL-src.zip

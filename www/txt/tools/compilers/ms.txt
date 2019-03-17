@@ -1,0 +1,9 @@
+
+tool	ms	compilers	Microsoft C	?	?	Predecessor to Visual C
+tool_homepage	ms	http://msdn.microsoft.com/	\N
+tool_author_link	ms	microsoft
+tool_emulator_link	ms	ladybug
+tool_emulator_link	ms	mrdo
+tool_emulator_link	ms	docastle
+tool_emulator_link	ms	dorun
+tool_emulator_link	ms	dowild

@@ -1,0 +1,14 @@
+
+author	elsemi	ElSemi	\N
+author_email	elsemi	nebulaemu@myrealbox.com
+author_emulator_link	elsemi	cps3_emulator	author
+
+author_emulator_link	elsemi	crystal_system_emulator	author
+
+author_emulator_link	elsemi	nebula	author
+
+author_emulator_link	elsemi	nebulam2	author
+
+author_emulator_link	elsemi	nebula_jukebox	author
+
+author_emulator_link	elsemi	segamodel2emulator	author

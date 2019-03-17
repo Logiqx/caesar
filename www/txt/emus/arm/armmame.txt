@@ -1,0 +1,14 @@
+
+emulator	armmame	arm	dummy	\N	\N	\N	ARM MAME	0.35 beta 3	18/02/1999	ARM/RISC OS	Emulates far more than anything else!	The latest beta release of MAME for ARM/RISC OS (Archimedes)	Dormant
+emulator_homepage	armmame	http://www.elecslns.demon.co.uk/MAME/	\N
+emulator_author_link	armmame	gareth_long	\N	author
+
+emulator_features	armmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	armmame	Keyboard
+emulator_controller	armmame	Joystick
+emulator_controller	armmame	Mouse
+emulator_relative_link	armmame	mame	port_of
+
+emulator_file	armmame	Emulator (v0.35 beta 3)	roma35b31.zip
+emulator_file	armmame	Emulator (v0.34 beta 6)	roma34b61.zip
+emulator_file	armmame	Emulator (v0.33 Final)	roma33r10.zip

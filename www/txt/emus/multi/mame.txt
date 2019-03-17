@@ -1,0 +1,107 @@
+
+emulator	mame	multi	MAME_v0.140	\N	\N	\N	MAME (Multiple Arcade Machine Emulator)	0.140	21/10/2010	Windows	Emulates far more than anything else!	The biggest arcade emulator ever... need I say more? Also related is MESS which is the home console/computer version of MAME. Normal and i686 optimised versions available.	Active
+emulator_homepage	mame	http://www.mamedev.org/	\N
+emulator_author_link	mame	nicola_salmoria	\N	author
+
+emulator_author_link	mame	aaron_giles	\N	author
+
+emulator_library_link	mame	a68k
+emulator_library_link	mame	musashi
+emulator_tool_link	mame	mingw
+emulator_tool_link	mame	nasm
+emulator_tool_link	mame	zlib
+emulator_features	mame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame	Keyboard
+emulator_controller	mame	Joystick
+emulator_controller	mame	Mouse
+emulator_author_link	mame	mike_balfour	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	chris_moore	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	brad_oliver	Long term contributor and looks after Mac Port	contributor
+
+emulator_author_link	mame	andrew_scott	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	zsolt_vasvari	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	daniel_boris	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	ernesto_corvi	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	juergen_buchmueller	Long term contributor of drivers and discrete sound emulation	contributor
+
+emulator_author_link	mame	mike_coates	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	mirko_buffoni	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	paul_leaman	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	phil_stroffolino	Long term contributor of drivers	contributor
+
+emulator_author_link	mame	tatsuyuki_satoh	Long term contributor (several sound cores)	contributor
+
+emulator_author_link	mame	david_haywood	Long term contributor of drivers	contributor
+
+emulator_relative_link	mame	multipac	predecessor
+
+emulator_relative_link	mame	mame64	port
+
+emulator_relative_link	mame	amame	port
+
+emulator_relative_link	mame	dmame	port
+
+emulator_relative_link	mame	macmame	port
+
+emulator_relative_link	mame	xmame	port
+
+emulator_relative_link	mame	mame_os2	port
+
+emulator_relative_link	mame	bemame	port
+
+emulator_relative_link	mame	mame_beos	port
+
+emulator_relative_link	mame	xmame_beos	port
+
+emulator_relative_link	mame	xmame_ps2	port
+
+emulator_relative_link	mame	emame	port
+
+emulator_relative_link	mame	emame_symbian	port
+
+emulator_relative_link	mame	e2mame	port
+
+emulator_relative_link	mame	phmame	port
+
+emulator_relative_link	mame	mame_amiga	port
+
+emulator_relative_link	mame	mame_amigappc	port
+
+emulator_relative_link	mame	warpmame	port
+
+emulator_relative_link	mame	armmame	port
+
+emulator_relative_link	mame	mamece	port
+
+emulator_relative_link	mame	imame_ipaq	port
+
+emulator_relative_link	mame	mamece3	port
+
+emulator_relative_link	mame	mame_jornada	port
+
+emulator_relative_link	mame	mamed	port
+
+emulator_relative_link	mame	mamed_dc	port
+
+emulator_relative_link	mame	mame_gp32	port
+
+emulator_relative_link	mame	mamedc	port
+
+emulator_relative_link	mame	mamex	port
+
+emulator_relative_link	mame	zmame	port
+
+emulator_relative_link	mame	mameui	modified_version
+
+emulator_relative_link	mame	mjolnir	derivative
+
+emulator_relative_link	mame	snamew	derivative

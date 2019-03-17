@@ -1,0 +1,8 @@
+
+author	mike_balfour	Mike Balfour	\N
+author_email	mike_balfour	mab22@po.cwru.edu
+author_emulator_link	mike_balfour	minipac	author
+
+author_emulator_link	mike_balfour	pacx	author
+
+author_emulator_link	mike_balfour	mame	contributor

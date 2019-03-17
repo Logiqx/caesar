@@ -1,0 +1,9 @@
+
+author	thierry_lescott	Thierry Lescott (ShinobiZ)	\N
+author_email	thierry_lescott	shinobiz@hotmail.com
+author_email	thierry_lescott	shinobiz@mygale.org
+author_emulator_link	thierry_lescott	system16	author
+
+author_emulator_link	thierry_lescott	system16_beta	author
+
+author_emulator_link	thierry_lescott	fm_emu	author

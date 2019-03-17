@@ -1,0 +1,15 @@
+
+emulator	dice	multi	DICE_v0.2	\N	\N	\N	DICE (Discrete Integrated Circuit Emulator)	0.2	10/02/2008	Windows	Pong (Atari)	DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components.	Active
+emulator_homepage	dice	http://adamulation.blogspot.com/	\N
+emulator_homepage	dice	http://sourceforge.net/projects/dice/	\N
+emulator_author_link	dice	adam__b	\N	author
+
+emulator_tool_link	dice	mingw
+emulator_tool_link	dice	sdl
+emulator_features	dice	Yes	Yes	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	dice	Keyboard
+emulator_controller	dice	Mouse
+emulator_author_link	dice	daniel_boris	Gotcha driver	contributor
+
+emulator_file	dice	Emulator	dice.0.2.zip
+emulator_file	dice	Source	dice.src.0.2.zip

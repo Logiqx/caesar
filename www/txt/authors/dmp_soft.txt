@@ -1,0 +1,3 @@
+
+author	dmp_soft	DMP SOFT	\N
+author_emulator_link	dmp_soft	hoot	author

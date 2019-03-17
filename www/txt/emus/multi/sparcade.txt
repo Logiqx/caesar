@@ -1,0 +1,11 @@
+
+emulator	sparcade	multi	Sparcade_v2.33b	\N	\N	\N	Sparcade	2.33b beta	22/12/1999	DOS	Classics (early 80's)	100% assembler so it is fast. Previously called Multi-processor Arcade Emulator and Dascade.	Dormant
+emulator_homepage	sparcade	http://www.sparcade.freeserve.co.uk/	\N
+emulator_author_link	sparcade	dave_spicer	\N	author
+
+emulator_features	sparcade	Yes	No	No	Yes	Yes	Yes	Yes	No	No	Yes	No	No	No
+emulator_controller	sparcade	Keyboard
+emulator_controller	sparcade	Joystick
+emulator_relative_link	sparcade	sparcade_stable	alt_version
+
+emulator_file	sparcade	Beta Version	spcd233b.zip

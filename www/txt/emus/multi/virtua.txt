@@ -1,0 +1,12 @@
+
+emulator	virtua	multi	Virtua	\N	\N	\N	Virtua	-	30/10/2000	DOS	Sega Model 2 Games (Virtua Fighter 2, Virtua Cop 2, Daytona USA etc)	Unfortunately Richard had to stop development due to other commitments but he released Virtua and it's source to the community. It emulates the games to a certain degree but there is no polygon support so games are not playable. If you feel like a challenge then finishing off Virtua might be just the thing. :)	Discontinued
+emulator_homepage	virtua	http://virtua.roarvgm.com/	bad
+emulator_author_link	virtua	richard_mitton	\N	author
+
+emulator_tool_link	virtua	djgpp
+emulator_tool_link	virtua	allegro
+emulator_tool_link	virtua	zlib
+emulator_features	virtua	No	Yes	Yes	No	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	virtua	Keyboard
+emulator_controller	virtua	Joystick
+emulator_file	virtua	Emulator and source	virtua.zip

@@ -1,0 +1,12 @@
+game	JAS-Mappy_v1.0	mappy	\N	\N	\N	\N	\N	Mappy (Japan)	1983	Namco	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy3.bin	\N	\N	8192	db9d5ab5	32a0190f96f9c00c541b24dd17d6ad487938a8bf	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy2.bin	\N	\N	8192	a958a61c	e5198703cdf47b2cd7fc9f2a5fde7bf4ab2275db	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy1.bin	\N	\N	8192	77c0b492	631b73560ac59c3612e692fa59558773639ceda7	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy4.bin	\N	\N	8192	8182dd5b	f36b57f7f1e79f00b3f07afe1960bca5f5325ee2	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy-5b.bin	\N	\N	32	56531268	2e356706c07f43eeb67783fb122bdc7fed1b3589	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy-4c.bin	\N	\N	256	50765082	f578e14f15783acb2073644db4a2f0d196cc0957	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy-5k.bin	\N	\N	256	5396bd78	2e387e5d8b8cab005f67f821b4db65d0ae8bd362	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy-3m.bin	\N	\N	256	16a9166a	847cbaf7c88616576c410177e066ae1d792ac0ba	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy6.bin	\N	\N	8192	f2d9647a	3cc216793c6a5f73c437ad2524563deb3b5e2890	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy7.bin	\N	\N	8192	757cf2b6	8dfbf03953d5219d9eb5fc654ec3392442ba1dc4	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Mappy_v1.0	mappy	mappy5.bin	\N	\N	4096	16498b9f	76610149c65f955484fef1c033ddc3fed3f4e568	\N	\N	\N	\N	\N	\N	

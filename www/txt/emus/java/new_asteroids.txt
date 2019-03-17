@@ -1,0 +1,7 @@
+
+emulator	new_asteroids	java	New_Asteroids	\N	\N	\N	NEW Asteroids in Java	-	2000	Java	Asteroids (Atari)	This is an emulator of Atari's Asteroids with newly designed graphics and characters (inspired by the EmuDX project). It uses the original program ROMs but gif pictures instead of the original vectors.	Dormant
+emulator_homepage	new_asteroids	http://web.utanet.at/nkehrer/	\N
+emulator_author_link	new_asteroids	norbert_kehrer	\N	author
+
+emulator_features	new_asteroids	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	new_asteroids	Keyboard

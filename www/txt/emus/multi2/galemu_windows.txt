@@ -1,0 +1,14 @@
+
+emulator	galemu_windows	multi2	dummy	\N	\N	\N	GalEmu (Windows)	40.9	13/02/2000	Windows	Runs games that use the Galaxian/Pisces/Moon Cresta Hardware	\N	Dormant
+emulator_homepage	galemu_windows	http://galemu.emuunlim.com/	\N
+emulator_author_link	galemu_windows	barry_rodewald	\N	author
+
+emulator_library_link	galemu_windows	multiz80
+emulator_tool_link	galemu_windows	allegro
+emulator_tool_link	galemu_windows	seal
+emulator_features	galemu_windows	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	galemu_windows	Keyboard
+emulator_relative_link	galemu_windows	galemu	port_of
+
+emulator_file	galemu_windows	Emulator for Win32	GalEMU-Win32-0409.zip
+emulator_file	galemu_windows	Samples (shot.sam and backgrnd.sam)	galaxian.zip

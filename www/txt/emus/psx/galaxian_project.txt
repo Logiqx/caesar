@@ -1,0 +1,8 @@
+
+emulator	galaxian_project	psx	The_Galaxian_Project_v1.04	\N	\N	\N	The Galaxian Project	1.04	11/10/2000	Playstation	Galaxian (Namco) and other games on similar hardware	Runs full screen and full speed.	Dormant
+emulator_homepage	galaxian_project	http://doubledutchdesigns.co.uk/	\N
+emulator_author_link	galaxian_project	double_dutch_designs	\N	author
+
+emulator_features	galaxian_project	Yes	No	No	No	No	No	No	No	N/A	Yes	\N	\N	Yes
+emulator_controller	galaxian_project	Joypad
+emulator_file	galaxian_project	Emulator	galaxian.zip

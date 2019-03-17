@@ -1,0 +1,23 @@
+
+library_contents	cpu	CPU Cores	These CPU cores are openly available for people to use in their own emulators
+library_contents_library_link	cpu	6502
+library_contents_library_link	cpu	6502s
+library_contents_library_link	cpu	6809
+library_contents_library_link	cpu	a6502
+library_contents_library_link	cpu	a68k
+library_contents_library_link	cpu	mathbox
+library_contents_library_link	cpu	doze
+library_contents_library_link	cpu	m6502_slomo
+library_contents_library_link	cpu	m6502
+library_contents_library_link	cpu	maze
+library_contents_library_link	cpu	multi6502
+library_contents_library_link	cpu	multi6808
+library_contents_library_link	cpu	multi6809
+library_contents_library_link	cpu	multiz80
+library_contents_library_link	cpu	musashi
+library_contents_library_link	cpu	n6502
+library_contents_library_link	cpu	raze
+library_contents_library_link	cpu	starscream
+library_contents_library_link	cpu	turbo68k
+library_contents_library_link	cpu	z80
+library_contents_library_link	cpu	z80em

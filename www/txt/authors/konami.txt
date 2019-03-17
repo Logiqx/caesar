@@ -1,0 +1,4 @@
+
+author	konami	Konami	\N
+author_email	konami	support@konami.com
+author_emulator_link	konami	konami_arcade_classics	author

@@ -1,0 +1,6 @@
+
+library	n6502	cpu	n6502	1.0	21/08/1997	\N	6502	This is the 6502 source code used in NESticle .4x. It was coded in 32 bit assembly by Bloodlust Software, and is the fastest 6502 cpu emulator there is
+library_homepage	n6502	\N	none
+library_author_link	n6502	sardu
+library_tool_link	n6502	tasm
+library_file	n6502	Emulator	n6502.zip

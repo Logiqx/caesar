@@ -1,0 +1,11 @@
+
+emulator	cps3_emulator	multi	Capcom_Play_System_3_Emulator_v1.0a	\N	\N	\N	Capcom Play System 3 Emulator	1.0a	15/07/2007	Windows	Capcom Play System 3	The first officially released emulator to support Capcom's Play System 3 games.	Active
+emulator_homepage	cps3_emulator	http://nebula.emulatronia.com/	\N
+emulator_author_link	cps3_emulator	elsemi	\N	author
+
+emulator_tool_link	cps3_emulator	msvc
+emulator_tool_link	cps3_emulator	zlib
+emulator_features	cps3_emulator	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	cps3_emulator	Keyboard
+emulator_controller	cps3_emulator	Joystick
+emulator_file	cps3_emulator	Emulator	cps3emulator10a.zip

@@ -1,0 +1,19 @@
+
+emulator	dmame	multi2	dummy	\N	\N	\N	DMAME (DOS MAME)	0.100	17/09/2005	DOS	Emulates far more than anything else!	The biggest arcade emulator ever... need I say more? Also related is MESS which is the home console/computer version of MAME. Normal and i686 optimised versions available.	Active
+emulator_homepage	dmame	http://www.mame.net/	\N
+emulator_author_link	dmame	nicola_salmoria	\N	author
+
+emulator_library_link	dmame	a68k
+emulator_library_link	dmame	musashi
+emulator_tool_link	dmame	djgpp
+emulator_tool_link	dmame	nasm
+emulator_tool_link	dmame	allegro
+emulator_tool_link	dmame	seal
+emulator_tool_link	dmame	zlib
+emulator_features	dmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	dmame	Keyboard
+emulator_controller	dmame	Joystick
+emulator_controller	dmame	Mouse
+emulator_relative_link	dmame	mame	port_of
+
+emulator_relative_link	dmame	sname	derivative

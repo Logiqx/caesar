@@ -1,0 +1,12 @@
+
+emulator	jassuperpac	single	JAS-Super_Pacman_v1.01	\N	\N	\N	JAS-Super Pacman (JROK's Arcade Simulator)	1.01	31/07/1997	DOS (but Windows friendly)	Super Pacman (Bally Midway)	Grew up to become the multi-arcade emulator JAS	Now part of JAS
+emulator_homepage	jassuperpac	http://www.jrok.com/	\N
+emulator_author_link	jassuperpac	jrok	\N	author
+
+emulator_tool_link	jassuperpac	watcom
+emulator_features	jassuperpac	Yes	No	No	Yes	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	jassuperpac	Keyboard
+emulator_controller	jassuperpac	Joystick
+emulator_relative_link	jassuperpac	jas	successor
+
+emulator_file	jassuperpac	Emulator	jas-spm.zip

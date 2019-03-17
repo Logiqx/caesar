@@ -1,0 +1,9 @@
+
+emulator	qbert	single	Qbert_Emulation_Project_v0.0000001_Beta	\N	\N	\N	Qbert Emulation Project	0.0000001	01/01/1997	DOS	Qbert (Gottlieb)	Not playable, you can just watch the demo mode of Qbert	Discontinued
+emulator_homepage	qbert	http://www.defender.demon.co.uk/qbert.html	\N
+emulator_author_link	qbert	lee_david_taylor	\N	author
+
+emulator_tool_link	qbert	borlandc
+emulator_features	qbert	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	qbert	Keyboard
+emulator_file	qbert	Emulator	qbemu.zip

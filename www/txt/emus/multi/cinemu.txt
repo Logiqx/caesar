@@ -1,0 +1,13 @@
+
+emulator	cinemu	multi	CINEMU_v1.2	\N	\N	\N	CINEMU (Cinematronics Emulator)	1.2	17/03/2000	DOS	Cinematronics Games	The better of the two Cinematronics emulators. A neat feature is that it can control a Cinematronics Soundboard via the parrallel port. http://www.netaxs.com/~vsp/cinema/cinema1.html (CinEmu hacking page)	Dormant
+emulator_homepage	cinemu	http://zonn.com/Cinematronics/emu.htm	\N
+emulator_author_link	cinemu	zonn_moore	\N	author
+
+emulator_tool_link	cinemu	borlandc
+emulator_features	cinemu	No	Yes (C and Assembler)	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	cinemu	Keyboard
+emulator_controller	cinemu	Mouse
+emulator_relative_link	cinemu	retrocade	successor
+
+emulator_file	cinemu	Emulator	cine12.zip
+emulator_file	cinemu	Source	cinesrc.zip

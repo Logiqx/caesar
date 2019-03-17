@@ -1,0 +1,7 @@
+
+emulator	namco_museum_1	psx	Namco_Museum_Vol_1	\N	\N	\N	Namco Museum Vol 1	-	1995	Playstation	Toypop, Rally-X, New Rally-X, Bosconian, Galaga, Pac-Man, Pole Position	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_1	http://www.namco.com/	\N
+emulator_author_link	namco_museum_1	namco	\N	author
+
+emulator_features	namco_museum_1	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_1	Joypad

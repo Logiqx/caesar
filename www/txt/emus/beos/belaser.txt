@@ -1,0 +1,13 @@
+
+emulator	belaser	beos	dummy	\N	\N	\N	BeLaser	0.18	14/01/2002	BeOS	Midway 8080 based games like space invaders	BeOS port of Laser	Dormant
+emulator_homepage	belaser	http://www.laseremu.com/	\N
+emulator_author_link	belaser	caz_jones	\N	author
+
+emulator_features	belaser	No	No	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	belaser	Keyboard
+emulator_controller	belaser	Joystick
+emulator_author_link	belaser	domenico_dato	Did the early BeOS ports	contributor
+
+emulator_relative_link	belaser	laser	port_of
+
+emulator_file	belaser	BeOS Binary	Laser18.zip

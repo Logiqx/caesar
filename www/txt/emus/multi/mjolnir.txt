@@ -1,0 +1,12 @@
+
+emulator	mjolnir	multi	Mjolnir_v0.3.1	\N	\N	\N	Mjolnir	0.4	03/11/2007	Windows	System 21, System 22 and Super System 22 games	Mjolnir is a MAME (http://www.mamedev.org) derivative work, based on a branch of MAME0100. Mjolnir supports a subset of games released for Namco's System 21, System 22, and Super System 22 harware. The focus to date has been on Prop Cycle and Starblade, though other titles work to various extents and bug reports are welcome. Mjolnir's primry purpose is to provide a framework for experimenting with rendering abstractions that provide a bridge between traditional arcade video hardware and modern APIs like OpenGL and Direct3d. Mjolnir's secondary purpose is to explore the benefits of targeted patches and recompilation techniques to eliminate performance bottlenecks.	Active
+emulator_homepage	mjolnir	http://www.machna.com/games	\N
+emulator_author_link	mjolnir	phil_stroffolino	\N	author
+
+emulator_features	mjolnir	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mjolnir	Keyboard
+emulator_controller	mjolnir	Joystick
+emulator_relative_link	mjolnir	mame	modification_of
+
+emulator_file	mjolnir	Emulator	mjolnir0.4.zip
+emulator_file	mjolnir	Source (requires MAME v0.100 source too)	mjolnir-0.4-MAME0.100.zip

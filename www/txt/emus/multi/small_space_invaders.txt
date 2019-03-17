@@ -1,0 +1,8 @@
+
+emulator	small_space_invaders	multi	Small_Space_Invaders_v1.2	\N	\N	\N	Small Space Invaders Emulator	1.2	08/02/1997	DOS	Space Invaders and some clones	At only 8K this has got to be the smallest emulator ever!	Dormant
+emulator_homepage	small_space_invaders	\N	none
+emulator_author_link	small_space_invaders	ignacio_escalza	\N	author
+
+emulator_features	small_space_invaders	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	small_space_invaders	Keyboard
+emulator_file	small_space_invaders	Emulator	ssie_1_2.zip

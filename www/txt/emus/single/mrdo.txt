@@ -1,0 +1,10 @@
+
+emulator	mrdo	single	Mr._Do!_v2.1	\N	\N	\N	Mr. Do! Emulator	2.1	06/01/1997	DOS	Mr. Do! (Universal)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	mrdo	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	mrdo	joseba_epalza	\N	author
+
+emulator_library_link	mrdo	z80
+emulator_tool_link	mrdo	ms
+emulator_features	mrdo	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	mrdo	Keyboard
+emulator_file	mrdo	Emulator	mrdo21.zip

@@ -1,0 +1,10 @@
+
+emulator	zmame	wince	dummy	\N	\N	\N	zMAME	0.3 full beta	05/09/2002	WinCE	Emulates a subset of MAME games	A Qtopia port of MAME based on XMAME v0.57.	Dormant
+emulator_homepage	zmame	http://zmame.mameworld.net	\N
+emulator_author_link	zmame	mario_kosmiskas	\N	author
+
+emulator_features	zmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	No
+emulator_controller	zmame	Buttons
+emulator_relative_link	zmame	mame	port_of
+
+emulator_relative_link	zmame	xmame	port_of

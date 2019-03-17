@@ -1,0 +1,20 @@
+
+emulator	combatschool	single	Escuela_de_Combate_v0.1	\N	\N	\N	Escuela de Combate	1.21	27/10/1998	Windows	Combat School (original by Konami)	This emulator is in Spanish. Works with the bootleg version of Combat School.	Dormant
+emulator_homepage	combatschool	http://www.upv.es/protel/usr/jotego/	\N
+emulator_author_link	combatschool	jose_tejada_gomez	\N	author
+
+emulator_tool_link	combatschool	msvc
+emulator_tool_link	combatschool	zlib
+emulator_features	combatschool	No	No	No	No	No	No	Yes (Difficulty)	No	No	No	\N	\N	\N
+emulator_controller	combatschool	Keyboard
+emulator_controller	combatschool	Joystick
+emulator_author_link	combatschool	manuel_abadia	Research and Extra Code	contributor
+
+emulator_author_link	combatschool	cesareo_gutierrez	Background Decoding	contributor
+
+emulator_author_link	combatschool	larry_blank	Processor Emulation	contributor
+
+emulator_author_link	combatschool	ricardo_fdez	Machine Information	contributor
+
+emulator_file	combatschool	Emulator	edc01 - w.zip
+emulator_file	combatschool	English Documentation	csdoc.zip

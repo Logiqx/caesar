@@ -1,0 +1,50 @@
+game	Winvader_v1.0	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Winvader_v1.0	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	Winvader_v1.0	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	invadpt2	\N	\N	\N	\N	\N	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_rom	Winvader_v1.0	invadpt2	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invadpt2	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invadpt2	pv.03	\N	\N	2048	1766337e	ea959bf06c9930d83a07559e191a28641efb07ac	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invadpt2	pv.04	\N	\N	2048	8f0e62e0	a967b155f15f8432222fcc78b23121b00c405c5c	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invadpt2	pv.05	\N	\N	2048	19b505e9	6a31a37586782ce421a7d2cffd8f958c00b7b415	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	invrvnge	\N	\N	\N	\N	\N	Invader's Revenge	1979	Zenitone Microsec	\N	\N	\N	
+game_rom	Winvader_v1.0	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_rom	Winvader_v1.0	earthinv	earthinv.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	earthinv	earthinv.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	earthinv	earthinv.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	earthinv	earthinv.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	spaceatt	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Winvader_v1.0	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	spaceatt	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	alieninv	\N	\N	\N	\N	\N	Alien Invasion Part II	????	bootleg	\N	\N	\N	
+game_rom	Winvader_v1.0	alieninv	1h.bin	\N	\N	2048	c46df7f4	eec34b3d5585bae03c7b80585daaa05ddfcc2164	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	alieninv	1g.bin	\N	\N	2048	4b1112d6	b693667656e5d8f44eeb2ea730f4d4db436da579	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	alieninv	1f.bin	\N	\N	2048	adca18a5	7e02651692113db31fd469868ae5ffdb0f941ecf	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	alieninv	1e.bin	\N	\N	2048	0449cb52	8adcb7cd4492fa6649d9ee81172d8dff56621d64	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	cosmicmo	\N	\N	\N	\N	\N	Cosmic Monsters	1979	Universal	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.1	\N	\N	1024	d6e4e5da	8b4275a3c71ac3fa80d17237dc04de5f586645f4	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.2	\N	\N	1024	8f7988e6	b6a01d5dcab013350f8f7f3e3ebfc986bb939fe0	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.3	\N	\N	1024	2d2e9dc8	dd3da4fc752e003e5e7c64bf189288133aed545b	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.4	\N	\N	1024	26cae456	2f2262340c10e5c29d71317f6eb8072c26655563	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.5	\N	\N	1024	b13f228e	a0de05aa36435e72c77f5333f3ad964ec448a8f0	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.6	\N	\N	1024	4ae1b9c4	8eed87eebe68caa775fa679363b0fe3728d98c34	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	cosmicmo	cosmicmo.7	\N	\N	1024	6a13b15b	dc03a6c3e938cfd08d16bd1660899f951ba72ea2	\N	\N	\N	\N	\N	\N	
+game	Winvader_v1.0	sicv	\N	\N	\N	\N	\N	Space Invaders (CV Version)	1979	Taito	\N	\N	\N	
+game_rom	Winvader_v1.0	sicv	cv17.bin	\N	\N	2048	3dfbe9e6	26487df7fa0bbd0b9b7f74347c4b9318b0a73b89	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	sicv	cv18.bin	\N	\N	2048	bc3c82bf	33e39fc97bd46699be1f9b9741a86f433efdc911	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	sicv	cv19.bin	\N	\N	2048	d202b41c	868fe938ef768655c894ec95b7d9a81bf21f69ca	\N	\N	\N	\N	\N	\N	
+game_rom	Winvader_v1.0	sicv	cv20.bin	\N	\N	2048	c74ee7b6	4f52db274a2d4433ab67c099ee805e8eb8516c0f	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,14 @@
+
+emulator	neojukebox	sound	NeoJukeBox_v2.7	\N	\N	\N	NeoJukeBox	2.7	07/11/1999	Windows	Sound of Neo-Geo, CPS1, CPS2, ZN-1, ZN-2	Supports extra systems using plug in drivers.	Discontinued
+emulator_homepage	neojukebox	http://teleline.terra.es/personal/mahorna/	\N
+emulator_author_link	neojukebox	miguel_angel_horna	\N	author
+
+emulator_library_link	neojukebox	raze
+emulator_features	neojukebox	Yes	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	neojukebox	Keyboard
+emulator_file	neojukebox	Player	neojuke.zip
+emulator_file	neojukebox	Neo-Geo Driver Update	neogeo.zip
+emulator_file	neojukebox	QSound Driver (CPS1, CPS2, ZN-1, ZN-2)	qsound.zip
+emulator_file	neojukebox	MP3 Driver (not arcade related ;)	mp3.zip
+emulator_file	neojukebox	Direct Sound support	dsound.zip
+emulator_file	neojukebox	SEAL support	seal.zip

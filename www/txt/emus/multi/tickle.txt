@@ -1,0 +1,15 @@
+
+emulator	tickle	multi	Tickle_Rebound_Edition	\N	\N	\N	Tickle	"Rebound" Edition	10/08/2005	Windows	Arcade classics from the 1980s	Tickle is an object oriented framework written to develop hardware emulators, but it can also used to write simple games and similar stuff. Tickle is composed by a portable library of functions and interfaces, and by an OS-dependent front end that provides access to system input and output devices (keyboard, mouse, joystick, sound, video and so on). The "Rebound" Edition contains a circuit emulator for Atari's Rebound (1973). It is far from complete and very CPU intensive but worth a look!	Active
+emulator_homepage	tickle	http://www.ascotti.org/programming/tickle/tickle.htm	\N
+emulator_author_link	tickle	alessandro_scotti	\N	author
+
+emulator_tool_link	tickle	mingw
+emulator_tool_link	tickle	zlib
+emulator_features	tickle	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	tickle	Keyboard
+emulator_controller	tickle	Joystick
+emulator_controller	tickle	Mouse
+emulator_relative_link	tickle	tickle_mac	port
+
+emulator_file	tickle	Emulator	tickle_rebound_win32.zip
+emulator_file	tickle	Source	tickle_rebound_src.zip

@@ -1,0 +1,10 @@
+
+author	sardu	Icer Addis (Smegma, Sardu of Bloodlust Software)	\N
+author_email	sardu	bldlust@maelstrom.net
+author_emulator_link	sardu	callus	author
+
+author_emulator_link	sardu	callus95	author
+
+author_emulator_link	sardu	qsound_player	author
+
+author_library_link	sardu	n6502

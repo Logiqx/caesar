@@ -1,0 +1,13 @@
+
+emulator	daphne_linux	linux	dummy	\N	\N	\N	Daphne (Linux)	1.0 beta	06/02/2007	Linux	Dragon's Lair, Space Ace and other laserdisc games.	Linux port of Daphne. Requires a laserdisc player and the game laserdisc or an MPEG version of the video footage.	Active
+emulator_homepage	daphne_linux	http://www.daphne-emu.com/	\N
+emulator_homepage	daphne_linux	http://daphne.rulecity.com	\N
+emulator_author_link	daphne_linux	matt_ownby	\N	author
+
+emulator_library_link	daphne_linux	z80
+emulator_features	daphne_linux	Yes	Yes	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	daphne_linux	Keyboard
+emulator_relative_link	daphne_linux	daphne	port_of
+
+emulator_file	daphne_linux	Emulator v1.0 beta	daphne-1.0beta-linux.tar.gz
+emulator_file	daphne_linux	Emulator v0.99.7	daphne-0.99.7-linux.tar.gz

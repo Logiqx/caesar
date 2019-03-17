@@ -1,0 +1,14 @@
+
+library	raze	cpu	RAZE (Multi Asm Z80 Engine)	1.06	30/06/2001	\N	Zilog Z80	The most accurate z80 emulator. Has almost perfect emulation and has proper IRQ line handling (unlike most other Z80 emus). In addition to arcade emulators it is also used by Pasofami (Nintendo NES/Famicom) and DGen (Dave's Genesis/Megadrive emulator - the guy who did DTMNT and Final Burn).
+library_homepage	raze	http://etc.home.dhs.org/	\N
+library_author_link	raze	richard_mitton
+library_emulator_link	raze	gngeo
+library_emulator_link	raze	impact
+library_emulator_link	raze	modeler
+library_emulator_link	raze	neojukebox
+library_emulator_link	raze	sega_system_16
+library_emulator_link	raze	system_16_sound_player
+library_emulator_link	raze	tnzsemu
+library_tool_link	raze	nasm
+library_file	raze	Emulator	raze106.zip
+library_file	raze	DLL	raze106dll.zip

@@ -1,0 +1,4 @@
+
+author	sam_lantinga	Sam Lantinga	\N
+author_email	sam_lantinga	slouken@libsdl.org
+author_tool_link	sam_lantinga	sdl

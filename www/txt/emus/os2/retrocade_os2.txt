@@ -1,0 +1,19 @@
+
+emulator	retrocade_os2	os2	Retrocade_Alpha_5	extra	\N	\N	Retrocade (OS/2)	Alpha 5	20/08/2000	OS/2	Over 100 Classics (Late 70's to mid/late 80's)	Nice interface but everything is covered by MAME	Dormant
+emulator_homepage	retrocade_os2	http://emuos2.vintagegaming.com/	bad
+emulator_author_link	retrocade_os2	martin_amodeo	\N	author
+
+emulator_library_link	retrocade_os2	mathbox
+emulator_library_link	retrocade_os2	multi6502
+emulator_library_link	retrocade_os2	multi6808
+emulator_library_link	retrocade_os2	multi6809
+emulator_library_link	retrocade_os2	multiz80
+emulator_library_link	retrocade_os2	starscream
+emulator_tool_link	retrocade_os2	zlib
+emulator_features	retrocade_os2	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	No	No
+emulator_controller	retrocade_os2	Keyboard
+emulator_controller	retrocade_os2	Joystick
+emulator_controller	retrocade_os2	Mouse
+emulator_relative_link	retrocade_os2	retrocade	port_of
+
+emulator_file	retrocade_os2	Emulator	retro_alpha5.zip

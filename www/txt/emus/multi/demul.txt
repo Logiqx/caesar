@@ -1,0 +1,14 @@
+
+emulator	demul	multi	Demul_v0.4.3	\N	\N	\N	Demul	0.4.3	08/07/2008	Windows	Sega's NAOMI (New Arcade Operation Machine Idea) hardware.	Not all games have been dumped yet but a promising emulator that already supports a few games!	Active
+emulator_homepage	demul	http://demul.emulation64.com/	\N
+emulator_author_link	demul	wind	\N	author
+
+emulator_tool_link	demul	msvc
+emulator_features	demul	yes	No	Yes	Yes	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	demul	Keyboard
+emulator_controller	demul	Joystick
+emulator_author_link	demul	cah4e3	Co-coder	contributor
+
+emulator_author_link	demul	ajax16384	Co-coder	contributor
+
+emulator_file	demul	Emulator	Demul_v.0.4.3.rar

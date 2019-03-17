@@ -1,0 +1,12 @@
+
+emulator	imame_ipaq	wince	dummy	\N	\N	\N	iMAME (iPaq) Pocket PC	6	06/06/2002	WinCE	Emulates a subset of MAME games	MameCE/PocketMAME only supports the MIPS based machines, particularly the Casion E105. iMAME takes some bits of that project, particularly files "cgamex.cpp", "cesound.c" and Ben's adaptation of the C runtime library to WinCE. Only Ipaq 3630 (ARM processor on Windows CE 3.0) has been tested.	Dormant
+emulator_homepage	imame_ipaq	http://www.mameworld.net/imame/	\N
+emulator_author_link	imame_ipaq	glenn_neidermeier	\N	author
+
+emulator_features	imame_ipaq	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	imame_ipaq	Buttons
+emulator_relative_link	imame_ipaq	mame	port_of
+
+emulator_relative_link	imame_ipaq	mame_jornada	modified_version
+
+emulator_file	imame_ipaq	Emulator	imame261_007arm.exe

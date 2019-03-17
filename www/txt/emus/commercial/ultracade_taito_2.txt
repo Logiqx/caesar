@@ -1,0 +1,7 @@
+
+emulator	ultracade_taito_2	commercial	Ultracade_-_Taito_Classics_2	\N	\N	\N	Ultracade - Taito Classics 2	-	2000	?	8 Taito classics	Game Pack 4 for the Ultracade system.	Discontinued
+emulator_homepage	ultracade_taito_2	http://www.ultracade.com/	\N
+emulator_author_link	ultracade_taito_2	ultracade	\N	author
+
+emulator_features	ultracade_taito_2	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	ultracade_taito_2	Joystick

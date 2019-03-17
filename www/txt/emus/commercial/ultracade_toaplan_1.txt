@@ -1,0 +1,7 @@
+
+emulator	ultracade_toaplan_1	commercial	Ultracade_-_Toaplan_Classics_1	\N	\N	\N	Ultracade - Toaplan Classics 1	-	20/04/2001	?	6 Toaplan classics	Game Pack 8 for the Ultracade system.	Discontinued
+emulator_homepage	ultracade_toaplan_1	http://www.ultracade.com/	\N
+emulator_author_link	ultracade_toaplan_1	ultracade	\N	author
+
+emulator_features	ultracade_toaplan_1	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	ultracade_toaplan_1	Joystick

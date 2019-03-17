@@ -1,0 +1,4 @@
+BattleZoneGL	bzone	bzone	m	
+BattleZoneGL	bzone2	bzone2	m	
+BattleZoneGL	bzonec	bzonec	m	
+BattleZoneGL	bzonep	bzonep	n	

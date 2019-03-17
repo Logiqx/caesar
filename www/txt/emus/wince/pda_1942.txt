@@ -1,0 +1,8 @@
+
+emulator	pda_1942	wince	PDA_1942	\N	\N	\N	1942 (PDA)	-	December 2001	WinCE	1942 (Capcom)	A commercial Capcom title for your PDA.	Dormant
+emulator_homepage	pda_1942	http://www.capcom.com/pc.xpml	\N
+emulator_homepage	pda_1942	http://hive.speedhost.com/	\N
+emulator_author_link	pda_1942	larry_bank	\N	author
+
+emulator_features	pda_1942	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_1942	Stylus

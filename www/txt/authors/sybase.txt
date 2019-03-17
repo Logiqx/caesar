@@ -1,0 +1,3 @@
+
+author	sybase	Sybase	\N
+author_tool_link	sybase	watcom

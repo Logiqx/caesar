@@ -1,0 +1,20 @@
+
+emulator	mame_amiga	amiga	dummy	\N	\N	\N	MAME for Amiga	0.35 beta 12	14/05/1999	Amiga	Emulates far more than anything else!	The latest beta release of MAME for the Amiga	Dormant
+emulator_homepage	mame_amiga	http://www.triumph.no/mame/	\N
+emulator_author_link	mame_amiga	eirik_hansen	\N	author
+
+emulator_features	mame_amiga	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame_amiga	Keyboard
+emulator_controller	mame_amiga	Joystick
+emulator_controller	mame_amiga	Mouse
+emulator_author_link	mame_amiga	trond_werner_hansen	CGXHooks	contributor
+
+emulator_author_link	mame_amiga	mikael_kalms	Chunky to planar routine	contributor
+
+emulator_author_link	mame_amiga	oyvind_falch	Installer script	contributor
+
+emulator_relative_link	mame_amiga	mame	port_of
+
+emulator_file	mame_amiga	Emulator for 68060	mame060.lha
+emulator_file	mame_amiga	Emulator for PowerUp	mameppc.lha
+emulator_file	mame_amiga	Amiga Source	mamesrc.lha

@@ -1,0 +1,12 @@
+
+emulator	williams_digital_arcade	mac	Williams_Digital_Arcade	\N	\N	\N	Williams Digital Arcade	-	1994	Mac	Joust, Defender and Robotron	The first commercial arcade emulators released. Each game was released seperately.	Released
+emulator_homepage	williams_digital_arcade	http://www.digitaleclipse.com	\N
+emulator_author_link	williams_digital_arcade	midway	\N	author
+
+emulator_features	williams_digital_arcade	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	williams_digital_arcade	Keyboard
+emulator_controller	williams_digital_arcade	Joystick
+emulator_author_link	williams_digital_arcade	digital_eclipse	Development	contributor
+
+emulator_file	williams_digital_arcade	Robotron to Stargate Conversion	stargatepatch.sit.hqx
+emulator_file	williams_digital_arcade	Keyboard layout fix for Stargate	stargatepatch2.sit.hqx

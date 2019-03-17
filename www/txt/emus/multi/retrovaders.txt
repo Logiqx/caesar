@@ -1,0 +1,14 @@
+
+emulator	retrovaders	multi	Retrovaders_v1.02	\N	\N	\N	Retrovaders	1.02	29/06/1998	DOS	8080 games from the late 70's (Space Invaders etc)	\N	Dormant
+emulator_homepage	retrovaders	http://www.geocities.com/TimesSquare/Fortress/7269/	bad
+emulator_author_link	retrovaders	matthew_smith	\N	author
+
+emulator_library_link	retrovaders	z80
+emulator_tool_link	retrovaders	djgpp
+emulator_tool_link	retrovaders	allegro
+emulator_tool_link	retrovaders	seal
+emulator_features	retrovaders	Yes	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	retrovaders	Keyboard
+emulator_file	retrovaders	Emulator	retroinv.zip
+emulator_file	retrovaders	Invaders Samples	invsampl.zip
+emulator_file	retrovaders	Boot Hill Samples	bhsamp.zip

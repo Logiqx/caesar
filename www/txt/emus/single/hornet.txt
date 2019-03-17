@@ -1,0 +1,10 @@
+
+emulator	hornet	single	Hornet_r060215	\N	\N	\N	Hornet	r060215	15/02/2006	Windows	Gradius 4 (Konami Hornet hardware)	This only appears to be the start of an emulator as I couldn't get it to actual play the game, just load the ROMs.	Dormant
+emulator_homepage	hornet	http://www.smallnews.net/azuco/	\N
+emulator_author_link	hornet	azuco	\N	author
+
+emulator_tool_link	hornet	msvc
+emulator_tool_link	hornet	zlib
+emulator_features	hornet	No	Yes	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	hornet	Keyboard
+emulator_file	hornet	Emulator	hornet_r060215.zip

@@ -1,0 +1,14 @@
+
+emulator	modeler_linux	linux	dummy	\N	\N	\N	Modeler (Linux)	0.9.3a	09/12/2001	Linux	Sega System 32 and Model 1 games	Modeler was originally developed by Farfetch'd but now developed by Richter Belmont as well.	Discontinued
+emulator_homepage	modeler_linux	http://www.emuhype.com/	\N
+emulator_author_link	modeler_linux	farfetchd	\N	author
+
+emulator_author_link	modeler_linux	richter_belmont	\N	author
+
+emulator_author_link	modeler_linux	sarayan	\N	author
+
+emulator_features	modeler_linux	Yes	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	modeler_linux	Keyboard
+emulator_relative_link	modeler_linux	modeler	port_of
+
+emulator_file	modeler_linux	Emulator	Modeler093a.tar.bz2

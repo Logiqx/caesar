@@ -1,0 +1,6 @@
+
+author	tj_grant	TJ Grant	\N
+author_email	tj_grant	tatewake@usa.net
+author_emulator_link	tj_grant	macslomo	author
+
+author_emulator_link	tj_grant	pcslomo	contributor

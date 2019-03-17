@@ -1,0 +1,18 @@
+
+emulator	system16_directx	multi2	dummy	\N	\N	\N	System 16 (Direct X)	0.80	06/05/1999	Windows	Sega System 16 Games	Direct-X Port of System 16	Development ceased (source lost)
+emulator_homepage	system16_directx	http://www.system16.com/	\N
+emulator_author_link	system16_directx	bartman	\N	author
+
+emulator_author_link	system16_directx	abyss	\N	author
+
+emulator_library_link	system16_directx	starscream
+emulator_library_link	system16_directx	multiz80
+emulator_tool_link	system16_directx	eagle
+emulator_tool_link	system16_directx	nasm
+emulator_features	system16_directx	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	\N	\N
+emulator_controller	system16_directx	Keyboard
+emulator_controller	system16_directx	Joystick
+emulator_relative_link	system16_directx	system16	port_of
+
+emulator_file	system16_directx	System 16 (Direct X)	s16079dx.zip
+emulator_file	system16_directx	System 16 (Direct X) - Upgrade from 0.79	s16080dx.zip

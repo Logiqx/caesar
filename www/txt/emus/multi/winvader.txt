@@ -1,0 +1,12 @@
+
+emulator	winvader	multi	Winvader_v1.0	\N	\N	\N	Winvader	1.0	26/04/2000	Windows	Space Invaders and some clones	A multiple invaders emulator for Windows	Dormant
+emulator_homepage	winvader	http://sites.netscape.net/markehazelwood/winvader/	bad
+emulator_author_link	winvader	mark_hazelwood	\N	author
+
+emulator_library_link	winvader	multiz80
+emulator_tool_link	winvader	lccwin32
+emulator_tool_link	winvader	wavmix
+emulator_features	winvader	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	winvader	Keyboard
+emulator_controller	winvader	Joystick
+emulator_file	winvader	Emulator	winvader10.zip

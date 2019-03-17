@@ -1,0 +1,3 @@
+
+emulator_contents	sound2	Sound Emulators	These emulators are capable of playing the music and sound effects of specific games/hardware
+emulator_contents_emulator_link	sound2	qplayer_dos

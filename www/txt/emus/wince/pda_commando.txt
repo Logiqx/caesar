@@ -1,0 +1,8 @@
+
+emulator	pda_commando	wince	PDA_Commando	\N	\N	\N	Commando (PDA)	-	December 2001	WinCE	Commando (Capcom)	A commercial Capcom title for your PDA.	Dormant
+emulator_homepage	pda_commando	http://www.capcom.com/pc.xpml	\N
+emulator_homepage	pda_commando	http://hive.speedhost.com/	\N
+emulator_author_link	pda_commando	larry_bank	\N	author
+
+emulator_features	pda_commando	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_commando	Stylus

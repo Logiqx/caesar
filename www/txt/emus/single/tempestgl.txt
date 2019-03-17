@@ -1,0 +1,11 @@
+
+emulator	tempestgl	single	TempestGL	\N	\N	\N	TempestGL	-	21/02/2005	Windows	Tempest (Atari)	Part of the VectorGL series by Tim	Dormant
+emulator_homepage	tempestgl	http://webpages.charter.net/astgl/	\N
+emulator_author_link	tempestgl	tim_astgl	\N	author
+
+emulator_library_link	tempestgl	6502
+emulator_tool_link	tempestgl	msvc
+emulator_tool_link	tempestgl	allegro
+emulator_features	tempestgl	Yes	No	No	Yes	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	tempestgl	Keyboard
+emulator_file	tempestgl	Emulator	TempestGL-2-21-05.rar

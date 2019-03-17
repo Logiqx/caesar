@@ -1,0 +1,39 @@
+
+library	z80em	cpu	Z80Em: Portable Zilog Z80 Emulator	1.2	04/09/1997	\N	Zilog Z80	Based on Marat's Z80 emulator but this includes optional x86 assembly for extra speed
+library_homepage	z80em	http://www.komkon.org/~dekogel/	\N
+library_author_link	z80em	marcel_de_kogel
+library_emulator_link	z80em	1942
+library_emulator_link	z80em	aemu
+library_emulator_link	z80em	asie
+library_emulator_link	z80em	amoad
+library_emulator_link	z80em	annoid
+library_emulator_link	z80em	arcadeemu
+library_emulator_link	z80em	bpe
+library_emulator_link	z80em	crazy_climber
+library_emulator_link	z80em	diamondrun
+library_emulator_link	z80em	dreampac
+library_emulator_link	z80em	gg
+library_emulator_link	z80em	joeys_phoenix
+library_emulator_link	z80em	ladybug_nicola
+library_emulator_link	z80em	mulator
+library_emulator_link	z80em	multipac
+library_emulator_link	z80em	multipac_gp32
+library_emulator_link	z80em	macmultipac
+library_emulator_link	z80em	moon_cresta
+library_emulator_link	z80em	mrdo_nicola
+library_emulator_link	z80em	multipacd
+library_emulator_link	z80em	multipac_dc
+library_emulator_link	z80em	nemesis
+library_emulator_link	z80em	nemesis_dos
+library_emulator_link	z80em	pengo
+library_emulator_link	z80em	phoenix98
+library_emulator_link	z80em	phoenixarcade
+library_emulator_link	z80em	pooyan
+library_emulator_link	z80em	rallyx
+library_emulator_link	z80em	replay
+library_emulator_link	z80em	sage
+library_emulator_link	z80em	salamander
+library_emulator_link	z80em	ssphoenix
+library_emulator_link	z80em	vulgus
+library_file	z80em	Emulator	z80em.zip
+library_relative_link	z80em	z80	predecessor

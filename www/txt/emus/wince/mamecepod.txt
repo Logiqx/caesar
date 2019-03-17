@@ -1,0 +1,9 @@
+
+emulator	mamecepod	wince	dummy	\N	\N	\N	MameCePod (MAME for ePods)	Test Build #2	28/01/2001	WinCE	Emulates a subset of MAME games (mostly those games released before 1984)	This based on the code of MAMECE and is for ePods (tablet device for the home).	Dormant
+emulator_homepage	mamecepod	http://www.geocities.com/dgfinck/	bad
+emulator_author_link	mamecepod	darren_finck	\N	author
+
+emulator_tool_link	mamecepod	msvc
+emulator_features	mamecepod	Yes	No	?	?	?	?	?	?	?	Yes	No	No	No
+emulator_controller	mamecepod	Tablet
+emulator_relative_link	mamecepod	mamece_10x	modification_of

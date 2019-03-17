@@ -1,0 +1,6 @@
+
+tool	lccwin32	compilers	LCC-Win32	?	18/05/2002	Free C compiler system for Windows
+tool_homepage	lccwin32	http://www.cs.virginia.edu/~lcc-win32/	\N
+tool_author_link	lccwin32	jacob_navia
+tool_emulator_link	lccwin32	wingorf
+tool_emulator_link	lccwin32	winvader

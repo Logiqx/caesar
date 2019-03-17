@@ -1,0 +1,6 @@
+
+tool	real_basic	compilers	Real Basic	4.0.2	15/03/2002	Highly Visual Basic compatible language for the Macintosh
+tool_homepage	real_basic	http://www.realsoftware.com/	\N
+tool_author_link	real_basic	real_software
+tool_emulator_link	real_basic	astrofmu
+tool_emulator_link	real_basic	centimu

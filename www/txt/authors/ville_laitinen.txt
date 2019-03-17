@@ -1,0 +1,8 @@
+
+author	ville_laitinen	Ville Laitinen	\N
+author_email	ville_laitinen	ville@sms.fi
+author_emulator_link	ville_laitinen	crazykongemu	author
+
+author_emulator_link	ville_laitinen	theend	author
+
+author_emulator_link	ville_laitinen	arcadeemu	contributor

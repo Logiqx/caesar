@@ -1,0 +1,7 @@
+
+emulator	konami_arcade_classics	psx	Konami_Arcade_Classics	\N	\N	\N	Konami Arcade Classics	-	Dec 1999	Playstation	Time Pilot, Scramble, Super Cobra, Pooyan, Circus Charlie, Yie Ar Kung-Fu, Shao-Lin's Road, Road Fighter, Gyruss, Roc'n Rope	Konami's first retro release for the Playstation	Released
+emulator_homepage	konami_arcade_classics	http://www.konami.com/games_bronze/arcade.html	bad
+emulator_author_link	konami_arcade_classics	konami	\N	author
+
+emulator_features	konami_arcade_classics	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	konami_arcade_classics	Joypad

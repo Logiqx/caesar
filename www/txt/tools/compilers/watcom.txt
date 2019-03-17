@@ -1,0 +1,28 @@
+
+tool	watcom	compilers	WATCOM C/C++	10.0	?	A free C/C++ compiler (but now discontinued by Sybase)
+tool_homepage	watcom	http://www.sybase.com/products/archivedproducts/watcomc/	\N
+tool_author_link	watcom	sybase
+tool_emulator_link	watcom	soundsgood
+tool_emulator_link	watcom	bombjack_pc
+tool_emulator_link	watcom	boo
+tool_emulator_link	watcom	calice
+tool_emulator_link	watcom	classicemu
+tool_emulator_link	watcom	emu
+tool_emulator_link	watcom	gyruss
+tool_emulator_link	watcom	jasdd2
+tool_emulator_link	watcom	jasgaplus
+tool_emulator_link	watcom	jasmappy
+tool_emulator_link	watcom	jassuperpac
+tool_emulator_link	watcom	jas
+tool_emulator_link	watcom	jas-sys1
+tool_emulator_link	watcom	kem
+tool_emulator_link	watcom	mhemu
+tool_emulator_link	watcom	nemesis_dos
+tool_emulator_link	watcom	qix
+tool_emulator_link	watcom	rem
+tool_emulator_link	watcom	retrocade
+tool_emulator_link	watcom	sage
+tool_emulator_link	watcom	thearcade
+tool_emulator_link	watcom	timepilot
+tool_emulator_link	watcom	tmnt
+tool_emulator_link	watcom	zem

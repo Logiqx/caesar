@@ -1,0 +1,13 @@
+
+emulator	theend	single	The_End	\N	\N	\N	The End	?	19/12/1996	DOS	The End (Stern)	\N	Dormant
+emulator_homepage	theend	\N	none
+emulator_author_link	theend	ville_laitinen	\N	author
+
+emulator_library_link	theend	z80
+emulator_tool_link	theend	allegro
+emulator_tool_link	theend	djgpp
+emulator_features	theend	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	theend	Keyboard
+emulator_author_link	theend	allard_van_der_bas	Emulator framework	contributor
+
+emulator_file	theend	Emulator	The End 961220 [Dos].zip

@@ -1,0 +1,9 @@
+
+author	sarayan	Sarayan	\N
+author_emulator_link	sarayan	gxp	author
+
+author_emulator_link	sarayan	gxp_linux	author
+
+author_emulator_link	sarayan	modeler	author
+
+author_emulator_link	sarayan	modeler_linux	author

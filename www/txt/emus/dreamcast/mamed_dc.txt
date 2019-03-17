@@ -1,0 +1,11 @@
+
+emulator	mamed_dc	dreamcast	dummy	\N	\N	\N	MAMED (MAME for Dreamcast)	0.37 beta 15	10/06/2002	Dreamcast	Emulates far more than anything else!	The latest beta release of MAME for Dreamcast. Based on MAME v0.37 beta 15.	Dormant
+emulator_homepage	mamed_dc	http://digita.mame.net/	\N
+emulator_author_link	mamed_dc	james_surine	\N	author
+
+emulator_tool_link	mamed_dc	kos
+emulator_features	mamed_dc	Yes	No	No	No	No	No	Yes	?	Yes	Yes	No	No	Yes
+emulator_controller	mamed_dc	Joypad
+emulator_relative_link	mamed_dc	mame	hybrid_of
+
+emulator_relative_link	mamed_dc	mamed	hybrid_of

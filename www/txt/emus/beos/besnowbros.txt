@@ -1,0 +1,10 @@
+
+emulator	besnowbros	beos	BeSnowBros_v0.80	\N	\N	\N	BeSnowBros	0.80	29/05/2000	BeOS (x86)	Snow Bros (Toaplan)	This is by the author of BeGameboy and BePCEngine. It emulates Snow Bros, but there is no sound support yet. It is a sample of the authors arcade emulators.	Dormant
+emulator_homepage	besnowbros	http://diesel.planet-d.net/BeGameboy/	bad
+emulator_author_link	besnowbros	david_raingeard	\N	author
+
+emulator_library_link	besnowbros	starscream
+emulator_features	besnowbros	No	No	No	No	Yes	No	No	No	No	No	\N	\N	\N
+emulator_controller	besnowbros	Keyboard
+emulator_controller	besnowbros	Joystick
+emulator_file	besnowbros	Emulator	BeSnowBros.zip

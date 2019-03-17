@@ -1,0 +1,18 @@
+
+emulator	phmame	qnx	dummy	\N	\N	\N	PhMAME	0.60.1	12/05/2002	QNX 6.1	Emulates far more than anything else!	PhMAME is a native Photon port of MAME desigined for users of the QNX Realtime Platform. PhMAME was based off XMAME, and tweeked by David Rempel to work with the QNX Realtime Platform.	Dormant
+emulator_homepage	phmame	http://www.classicgaming.com/phmame/	\N
+emulator_homepage	phmame	http://www.qnxzone.com/~travis/phmame/	\N
+emulator_author_link	phmame	travis_cody	\N	author
+
+emulator_tool_link	phmame	djgpp
+emulator_tool_link	phmame	nasm
+emulator_tool_link	phmame	allegro
+emulator_tool_link	phmame	seal
+emulator_tool_link	phmame	zlib
+emulator_features	phmame	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	phmame	Keyboard
+emulator_controller	phmame	Joystick
+emulator_controller	phmame	Mouse
+emulator_relative_link	phmame	xmame	port_of
+
+emulator_relative_link	phmame	mame	port_of

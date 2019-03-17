@@ -1,0 +1,15 @@
+
+emulator	cage	multi	CAGE_v1.07	\N	\N	\N	CAGE (Classic Arcade Game Emulator)	1.07	21/06/1998	Windows	Classic Williams/Namco/Taito/Midway games of the late 70's and early 80's	Was totally re-written to become HiVE. Bubbles, Colony 7, Sinistar and Splat not in HiVE though.	Superceded
+emulator_homepage	cage	http://hive.speedhost.com/	\N
+emulator_author_link	cage	larry_bank	\N	author
+
+emulator_library_link	cage	a6502
+emulator_tool_link	cage	msvc
+emulator_tool_link	cage	zlib
+emulator_features	cage	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	No	\N	\N
+emulator_controller	cage	Keyboard
+emulator_controller	cage	Joystick
+emulator_relative_link	cage	hive	successor
+
+emulator_file	cage	Emulator	cage.zip
+emulator_file	cage	ZLib DLL (required)	zlib.zip

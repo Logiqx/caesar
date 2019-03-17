@@ -1,0 +1,11 @@
+
+emulator	dcsi	dreamcast	DCSI	\N	\N	\N	DCSI (Dreamcast Space Invaders)	0.4	28/05/2001	Dreamcast	Space Invaders and Invaders Deluxe	A Space Invaders Emulator for the Dreamcast	Discontinued
+emulator_homepage	dcsi	http://www.finck.net/dcsi/	\N
+emulator_author_link	dcsi	darren_finck	\N	author
+
+emulator_features	dcsi	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	dcsi	Joypad
+emulator_file	dcsi	Disk Juggler CD Image	dcsi04_cdi.zip
+emulator_file	dcsi	Binary	dcsi04bin.zip
+emulator_file	dcsi	Srec File	dcsi04_srec.zip
+emulator_file	dcsi	Source	dcsi04_src.zip

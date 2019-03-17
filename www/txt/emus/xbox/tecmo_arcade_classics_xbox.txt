@@ -1,0 +1,7 @@
+
+emulator	tecmo_arcade_classics_xbox	xbox	Tecmo_Classic_Arcade	\N	\N	\N	Tecmo Classic Arcade (X-Box)	-	13/09/2005	X-Box	Classic Tecmo arcade games of the 80s and 90s!	All of your old-school Tecmo favorites are back and available in this compilation for the Xbox(R), featuring the original football favorite, Tecmo Bowl! Enjoy 11 great classic games in all! Getting not so good reviews, how can a compilation that has Solomons Key, Bomb Jack and Rygar in it be bad?	Released
+emulator_homepage	tecmo_arcade_classics_xbox	http://www.tecmoinc.com/	\N
+emulator_author_link	tecmo_arcade_classics_xbox	tecmo	\N	author
+
+emulator_features	tecmo_arcade_classics_xbox	Yes	No	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	tecmo_arcade_classics_xbox	Joypad

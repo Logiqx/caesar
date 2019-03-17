@@ -1,0 +1,4 @@
+
+author	jean_loup_gailly	Jean-loup Gailly	\N
+author_email	jean_loup_gailly	jloup@gzip.org
+author_tool_link	jean_loup_gailly	zlib

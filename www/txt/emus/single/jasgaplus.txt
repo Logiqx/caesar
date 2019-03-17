@@ -1,0 +1,12 @@
+
+emulator	jasgaplus	single	JAS-Gaplus_v1.4_beta	\N	\N	\N	JAS-Gaplus (JROK's Arcade Simulator)	1.4 beta	20/11/1997	DOS (but Windows friendly)	Gaplus (Namco)	Grew up to become the multi-arcade emulator JAS	Now part of JAS
+emulator_homepage	jasgaplus	http://www.jrok.com/	\N
+emulator_author_link	jasgaplus	jrok	\N	author
+
+emulator_tool_link	jasgaplus	watcom
+emulator_features	jasgaplus	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	jasgaplus	Keyboard
+emulator_controller	jasgaplus	Joystick
+emulator_relative_link	jasgaplus	jas	successor
+
+emulator_file	jasgaplus	Emulator	gap-bet4.zip

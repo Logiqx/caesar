@@ -1,0 +1,8 @@
+
+emulator	pda_sectionz	wince	PDA_SectionZ	\N	\N	\N	SectionZ (PDA)	-	December 2001	WinCE	SectionZ (Capcom)	A commercial Capcom title for your PDA.	Dormant
+emulator_homepage	pda_sectionz	http://www.capcom.com/pc.xpml	\N
+emulator_homepage	pda_sectionz	http://hive.speedhost.com/	\N
+emulator_author_link	pda_sectionz	larry_bank	\N	author
+
+emulator_features	pda_sectionz	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_sectionz	Stylus

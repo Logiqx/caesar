@@ -1,0 +1,6 @@
+
+author	ulrich_hecht	Ulrich Hecht	\N
+author_email	ulrich_hecht	webmaster@emulinks.de
+author_emulator_link	ulrich_hecht	raine_linux_alt	author
+
+author_emulator_link	ulrich_hecht	sega_c2_linux	author

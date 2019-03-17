@@ -1,0 +1,9 @@
+
+emulator	thenewzealandstory	single	The_NewZealand_Story	\N	\N	\N	The NewZealand Story Emulator	-	01/04/2001	Windows	The NewZealand Story (Taito)	Very small but seems to be a bit slow!	Dormant
+emulator_homepage	thenewzealandstory	http://www.mycgiserver.com/~rollback/	\N
+emulator_author_link	thenewzealandstory	rollback	\N	author
+
+emulator_tool_link	thenewzealandstory	msvc
+emulator_features	thenewzealandstory	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	thenewzealandstory	Keyboard
+emulator_file	thenewzealandstory	Emulator	tnzsemu.zip

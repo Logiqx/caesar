@@ -1,0 +1,11 @@
+game	Pooyan_Arcade_Machine_Emulator	pooyan	\N	\N	\N	\N	\N	Pooyan (Stern)	1982	[Konami] (Stern license)	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic22_a4.cpu	\N	\N	8192	916ae7d7	e96eba381e6ad228acf4b74240d618f9d0bae39d	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic23_a5.cpu	\N	\N	8192	8fe38c61	4588f9f80a5884e056a1d429785c7331e92d5654	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic24_a6.cpu	\N	\N	8192	2660218a	606b10a4bab2432e20471440105e04d15d384570	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic25_a7.cpu	\N	\N	8192	3d2a10ad	962c621a19e9797b8f3d12c150aa0b90958c9498	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	sd01_a7.snd	\N	\N	4096	fbe2b368	5689a84ef110bdc0039ad1a6c5778e0b8eccfce0	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	sd02_a8.snd	\N	\N	4096	e1795b3d	9ab4e5362f9f7d9b46b750e14b1d9d71c57be40f	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic13_g10.cpu	\N	\N	4096	7433aea9	a5ad6311f097fefb6e7b747ebe9d01d72d7755d0	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic14_g9.cpu	\N	\N	4096	87c1789e	7637a9604a3ad4f9a27105d87252de3d923672aa	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic15_a9.cpu	\N	\N	4096	b2d8c121	189ad488869f34d7a38b82ef70eb805acfe04312	\N	\N	\N	\N	\N	\N	
+game_rom	Pooyan_Arcade_Machine_Emulator	pooyan	ic16_a8.cpu	\N	\N	4096	1097c2b6	c815f0d27593efd23923511bdd13835456ef7f76	\N	\N	\N	\N	\N	\N	

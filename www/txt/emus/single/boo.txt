@@ -1,0 +1,12 @@
+
+emulator	boo	single	Boo!_v1.00	\N	\N	\N	Boo!	1.00	03/06/1998	DOS	Ghouls'n Ghosts (Capcom)	\N	Dormant
+emulator_homepage	boo	http://www.mindeater.demon.co.uk/	bad
+emulator_author_link	boo	andy_clark	\N	author
+
+emulator_library_link	boo	starscream
+emulator_library_link	boo	multiz80
+emulator_tool_link	boo	watcom
+emulator_features	boo	Yes	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	boo	Keyboard
+emulator_controller	boo	Joystick
+emulator_file	boo	Emulator	boo.zip

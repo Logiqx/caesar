@@ -1,0 +1,6 @@
+
+author	eric_smith	Eric Smith	\N
+author_email	eric_smith	eric@brouhaha.com
+author_emulator_link	eric_smith	vecsim	author
+
+author_emulator_link	eric_smith	centsim	author

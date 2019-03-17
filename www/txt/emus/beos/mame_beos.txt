@@ -1,0 +1,12 @@
+
+emulator	mame_beos	beos	dummy	\N	\N	\N	MAME for BeOS	0.80	16/03/2004	BeOS	Emulates far more than anything else!	This is the latest BeOS MAME port by Yoshi (author of the NeoGeo CD emulator). Standard and i686 optimised versions available.	Active
+emulator_homepage	mame_beos	http://www.beemulated.net/	\N
+emulator_author_link	mame_beos	caz_jones	\N	author
+
+emulator_features	mame_beos	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame_beos	Keyboard
+emulator_controller	mame_beos	Joystick
+emulator_controller	mame_beos	Mouse
+emulator_author_link	mame_beos	yoshi	Did the early BeOS ports	contributor
+
+emulator_relative_link	mame_beos	mame	port_of

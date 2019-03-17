@@ -1,0 +1,9 @@
+
+author	marcin_dudar	Marcin Dudar (Duddie / TheD / The Author)	\N
+author_emulator_link	marcin_dudar	impact	author
+
+author_emulator_link	marcin_dudar	s11emu	author
+
+author_emulator_link	marcin_dudar	zinc	author
+
+author_emulator_link	marcin_dudar	zinc_linux	author

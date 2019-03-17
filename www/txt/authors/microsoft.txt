@@ -1,0 +1,6 @@
+
+author	microsoft	Microsoft	\N
+author_tool_link	microsoft	vb
+author_tool_link	microsoft	ms
+author_tool_link	microsoft	msvc
+author_tool_link	microsoft	wavmix

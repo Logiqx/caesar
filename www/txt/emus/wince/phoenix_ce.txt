@@ -1,0 +1,8 @@
+
+emulator	phoenix_ce	wince	Phoenix_v0.0.1	\N	\N	\N	Phoenix	0.0.1	24/09/2000	WinCE	Phoenix (Amstar)	Graphic demo (BitBlt), not playable (no input key), no sound. Only MIPS binary and only tested on Compaq Aero 1500.	Dormant
+emulator_homepage	phoenix_ce	http://aemu.cjb.net/	\N
+emulator_author_link	phoenix_ce	boris_fr	\N	author
+
+emulator_features	phoenix_ce	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	phoenix_ce	Buttons
+emulator_file	phoenix_ce	Emulator	phoenix_exe.zip

@@ -1,0 +1,9 @@
+
+emulator	joeys_phoenix	dreamcast	Joeys_Phoenix	\N	\N	\N	Joeys Phoenix	0.4	17/07/2001	Dreamcast	Phoenix (Amstar)	Full speed with no frame skipping.	Discontinued
+emulator_homepage	joeys_phoenix	http://joey.consolesoft.com/	bad
+emulator_author_link	joeys_phoenix	joey	\N	author
+
+emulator_library_link	joeys_phoenix	z80em
+emulator_features	joeys_phoenix	No	Yes	No	No	No	No	Yes	No	N/A	Yes	\N	\N	\N
+emulator_controller	joeys_phoenix	Joypad
+emulator_file	joeys_phoenix	Emulator	phoenix-0.4.tar.gz

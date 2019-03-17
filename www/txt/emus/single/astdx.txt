@@ -1,0 +1,10 @@
+
+emulator	astdx	single	AstDX_v2.0	\N	\N	\N	AstDX	2.0	04/06/2000	DOS	Asteroids (Atari)	Emulates Asteroids but adds enhanced graphics and sounds	Dormant
+emulator_homepage	astdx	http://web.utanet.at/nkehrer/	\N
+emulator_author_link	astdx	norbert_kehrer	\N	author
+
+emulator_tool_link	astdx	djgpp
+emulator_tool_link	astdx	allegro
+emulator_features	astdx	Yes	No	Yes	No	No	No	No	No	N/A	Yes	\N	\N	\N
+emulator_controller	astdx	Keyboard
+emulator_file	astdx	Emulator	astdx2.zip

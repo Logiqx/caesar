@@ -1,0 +1,11 @@
+game	DCSI	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	DCSI	invaders	invaders.h	\N	\N	2048	734f5ad8	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invaders	invaders.g	\N	\N	2048	6bfaca4a	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invaders	invaders.f	\N	\N	2048	0ccead96	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invaders	invaders.e	\N	\N	2048	14e538b0	\N	\N	\N	\N	\N	\N	\N	
+game	DCSI	invdelux	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	DCSI	invdelux	invdelux.h	\N	\N	2048	e690818f	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invdelux	invdelux.g	\N	\N	2048	4268c12d	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invdelux	invdelux.f	\N	\N	2048	f4aa1880	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invdelux	invdelux.e	\N	\N	2048	408849c1	\N	\N	\N	\N	\N	\N	\N	
+game_rom	DCSI	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	\N	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,8 @@
+
+emulator	shaolin	mac	Shaolin	\N	\N	\N	Shaolin	1.0	22/12/1997	Mac	Shaolin's Road	I don't have a Mac so I can't really comment on this emulator!	Discontinued
+emulator_homepage	shaolin	http://www.maya.com/local/phil/shaolin/	bad
+emulator_author_link	shaolin	phil_stroffolino	\N	author
+
+emulator_features	shaolin	No	No	No	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	shaolin	Keyboard
+emulator_file	shaolin	Emulator	Shaolin.sit

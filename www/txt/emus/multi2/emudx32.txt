@@ -1,0 +1,20 @@
+
+emulator	emudx32	multi2	dummy	\N	\N	\N	EmuDX32	Beta 3	08/02/2000	Windows	Donkey Kong, Frogger, Galaxian, Pacman, Ms Pacman	Enhances these classic games with better graphics and sound	Dormant
+emulator_homepage	emudx32	http://emudx.emuviews.com/	bad
+emulator_author_link	emudx32	mike_green	\N	author
+
+emulator_library_link	emudx32	multiz80
+emulator_library_link	emudx32	multi6502
+emulator_library_link	emudx32	multi6809
+emulator_tool_link	emudx32	djgpp
+emulator_tool_link	emudx32	allegro
+emulator_tool_link	emudx32	zlib
+emulator_features	emudx32	Yes	No	Yes	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	emudx32	Keyboard
+emulator_controller	emudx32	Joystick
+emulator_relative_link	emudx32	emudx	port_of
+
+emulator_file	emudx32	Beta 1	EmuDX32b1.zip
+emulator_file	emudx32	Beta 2 (Require Beta 1)	EmuDX32b2.zip
+emulator_file	emudx32	Beta 3 (Require Beta 1)	EmuDX32b3.zip
+emulator_file	emudx32	Allegro DLL 3.9.31 (required)	all3931.zip

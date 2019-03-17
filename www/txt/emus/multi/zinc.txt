@@ -1,0 +1,25 @@
+
+emulator	zinc	multi	Zinc_v1.1	\N	\N	\N	ZiNc	v1.1	25/01/2005	Windows	Sony ZN-1, ZN-2 and Namco System 11	Zinc emulates Sony ZN-1, ZN-2 and Namco System 11 games and supercedes both Impact and S11Emu. The last version of ZiNc from Duddie and Tratax was v0.9, after that they went on to created GCEmu (a Nintendo GameCube emulator) and R.Belmont / SMF took over ZiNc development.	Dormant
+emulator_homepage	zinc	http://www.emuhype.com/	bad
+emulator_author_link	zinc	marcin_dudar	\N	author
+
+emulator_author_link	zinc	tratax	\N	author
+
+emulator_author_link	zinc	richter_belmont	\N	author
+
+emulator_author_link	zinc	smf	\N	author
+
+emulator_tool_link	zinc	msvc
+emulator_tool_link	zinc	zlib
+emulator_features	zinc	Yes	No	Yes	Yes	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	zinc	Keyboard
+emulator_relative_link	zinc	impact	predecessor
+
+emulator_relative_link	zinc	s11emu	predecessor
+
+emulator_relative_link	zinc	zinc_linux	port
+
+emulator_file	zinc	Emulator	zinc11-win32.zip
+emulator_file	zinc	ZiNc JAMMA keyboard driver	zinc102-kbddrv-win32.zip
+emulator_file	zinc	ZiNc Glide renderer v1.3	glide_renderer_1_3.zip
+emulator_file	zinc	ZiNc OpenGL and D3D renderers v1.2	d3d-ogl12.zip

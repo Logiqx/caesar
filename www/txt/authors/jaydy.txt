@@ -1,0 +1,9 @@
+
+author	jaydy	Erik Duijs (Jaydy)	\N
+author_email	jaydy	erikduijs@yahoo.com
+author_homepage	jaydy	http://www.gagaplay.com/	\N
+author_emulator_link	jaydy	cottage	author
+
+author_emulator_link	jaydy	jemu	author
+
+author_emulator_link	jaydy	jemu2	author

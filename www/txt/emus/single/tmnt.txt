@@ -1,0 +1,13 @@
+
+emulator	tmnt	single	TMNT_v0.7_beta	\N	\N	\N	TMNT Emulator	0.7 beta	04/05/1998	DOS and Windows	Teenage Mutant Ninja Turtles (Konami)	Not as complete as DTmnt (lacks sound)	Dormant
+emulator_homepage	tmnt	http://europa.simplenet.com/tmnt/	bad
+emulator_author_link	tmnt	jeff_slutter	\N	author
+
+emulator_tool_link	tmnt	msvc
+emulator_tool_link	tmnt	watcom
+emulator_features	tmnt	No	Yes (Older Version)	Yes	No	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	tmnt	Keyboard
+emulator_controller	tmnt	Joystick
+emulator_file	tmnt	DOS	tmnt07d.zip
+emulator_file	tmnt	Windows DirectDraw	tmnt07dd.zip
+emulator_file	tmnt	Windows GDI	tmnt07g.zip

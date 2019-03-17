@@ -1,0 +1,11 @@
+
+emulator	thunder	single	Thunder_Beta_4	\N	\N	\N	Thunder	Beta 4	16/08/1998	DOS	Rolling Thunder (Namco)	\N	Dormant
+emulator_homepage	thunder	http://www.emuunlim.com/Thunder/	bad
+emulator_author_link	thunder	jimmy_hamm	\N	author
+
+emulator_tool_link	thunder	djgpp
+emulator_features	thunder	Yes (Samples)	No	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	thunder	Keyboard
+emulator_controller	thunder	Joystick
+emulator_file	thunder	Emulator	thunder.zip
+emulator_file	thunder	Samples	rthunder.zip

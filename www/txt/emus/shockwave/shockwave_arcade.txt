@@ -1,0 +1,9 @@
+
+emulator	shockwave_arcade	shockwave	Shockwave_Arcade	\N	\N	\N	Shockwave Arcade	-	2000	Shockwave	Defender, Defender II, Robotron 2084, Bubbles, Joust, Sinistar, Root Beer Tapper, Spy Hunter, Rampage, Satan's Hollow	The first arcade emulation seen in Shockwave Flash. Visit the Midway (www.midway.com) of Shockwave (www.shockwave.com) sites to play the games.	Released
+emulator_homepage	shockwave_arcade	http://www.digitaleclipse.com	\N
+emulator_author_link	shockwave_arcade	midway	\N	author
+
+emulator_features	shockwave_arcade	Yes	No	No	Yes (on web)	No	No	No	No	No	Yes	No	No	No
+emulator_controller	shockwave_arcade	Keyboard
+emulator_controller	shockwave_arcade	Joystick
+emulator_author_link	shockwave_arcade	digital_eclipse	Development	contributor

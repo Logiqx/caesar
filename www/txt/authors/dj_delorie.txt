@@ -1,0 +1,4 @@
+
+author	dj_delorie	DJ Delorie	\N
+author_email	dj_delorie	djgpp@delorie.com
+author_tool_link	dj_delorie	djgpp

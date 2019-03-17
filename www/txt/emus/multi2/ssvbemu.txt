@@ -1,0 +1,11 @@
+
+emulator	ssvbemu	multi2	VBEmu_Screen_Saver_v1.01a	extra	\N	\N	VBEmu Screen Saver	1.01a	24/08/1998	Windows	Invaders, Invaders Deluxe (both Midway) and Lunar Rescue (Taito)	Written in Visual Basic	Dormant
+emulator_homepage	ssvbemu	http://come.to/vbemu	\N
+emulator_author_link	ssvbemu	tony_docherty	\N	author
+
+emulator_tool_link	ssvbemu	vb
+emulator_features	ssvbemu	No	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	ssvbemu	Keyboard
+emulator_relative_link	ssvbemu	vbemu	modification_of
+
+emulator_file	ssvbemu	Screen Saver	ssvbemu101a.zip

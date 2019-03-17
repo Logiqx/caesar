@@ -1,0 +1,13 @@
+
+emulator	oldsparkcpp	multi	OldSpark_C++_20071006	\N	\N	\N	OldSpark C++	Second Public Release (20071006)	06/10/2007	Windows	Z80 based classics	OldSpark C++ is a complete rewrite of the Java Oldspark emulator.	Active
+emulator_homepage	oldsparkcpp	http://bcz.emu-france.com/	\N
+emulator_author_link	oldsparkcpp	bruno_vedder	\N	author
+
+emulator_features	oldsparkcpp	Yes	Yes	Yes	No	Yes	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	oldsparkcpp	Keyboard
+emulator_relative_link	oldsparkcpp	oldspark	predecessor
+
+emulator_relative_link	oldsparkcpp	oldsparkcpplinux	port
+
+emulator_file	oldsparkcpp	Emulator	OldSpark-C++20070812-win-bin.zip
+emulator_file	oldsparkcpp	Source	OldSpark-C++20070812-src.zip

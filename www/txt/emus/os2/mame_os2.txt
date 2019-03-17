@@ -1,0 +1,10 @@
+
+emulator	mame_os2	os2	dummy	\N	\N	\N	MAME for OS/2	0.36 beta 11	10/12/1999	OS/2	Emulates far more than anything else!	The latest beta release of MAME for OS/2. Pentium and 486 versions available.	Unknown
+emulator_homepage	mame_os2	http://emuos2.vintagegaming.com/	bad
+emulator_author_link	mame_os2	martin_amodeo	\N	author
+
+emulator_features	mame_os2	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame_os2	Keyboard
+emulator_controller	mame_os2	Joystick
+emulator_controller	mame_os2	Mouse
+emulator_relative_link	mame_os2	mame	port_of

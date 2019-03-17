@@ -1,0 +1,14 @@
+
+emulator	system16_linux	linux	dummy	\N	\N	\N	System 16 (Linux)	0.76	08/03/1998	Linux	Sega System 16 Games	Linux Port of System 16	Dormant
+emulator_homepage	system16_linux	http://electron.et.tudelft.nl/~jdegoede/system16.html	bad
+emulator_author_link	system16_linux	hans_de_goede	\N	author
+
+emulator_library_link	system16_linux	starscream
+emulator_library_link	system16_linux	maze
+emulator_features	system16_linux	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	\N	\N
+emulator_controller	system16_linux	Keyboard
+emulator_controller	system16_linux	Joystick
+emulator_relative_link	system16_linux	system16	port_of
+
+emulator_file	system16_linux	Emulator	system16-0.76.0.bin.tgz
+emulator_file	system16_linux	Shinobi Samples	shin_samp.tgz

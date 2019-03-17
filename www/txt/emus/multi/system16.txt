@@ -1,0 +1,30 @@
+
+emulator	system16	multi	System_16_v0.82a	\N	\N	\N	System 16 Emulator	0.82a	01/01/1999	DOS	Sega System 16 Games	Originally called the Shinobi Emulator. Faster than MAME at the games it does	Development Stopped
+emulator_homepage	system16	http://www.system16.com/	\N
+emulator_author_link	system16	thierry_lescott	\N	author
+
+emulator_author_link	system16	li_jih_hwa	\N	author
+
+emulator_library_link	system16	starscream
+emulator_library_link	system16	multiz80
+emulator_tool_link	system16	djgpp
+emulator_tool_link	system16	nasm
+emulator_tool_link	system16	allegro
+emulator_tool_link	system16	seal
+emulator_tool_link	system16	eagle
+emulator_features	system16	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	\N	\N
+emulator_controller	system16	Keyboard
+emulator_controller	system16	Joystick
+emulator_relative_link	system16	system16_beta	alt_version
+
+emulator_relative_link	system16	system16_directx	port
+
+emulator_relative_link	system16	system16_linux	port
+
+emulator_file	system16	Emulator	system16-0.82a_dos.zip
+emulator_file	system16	Alien Syndrome Samples	aliensyn.zip
+emulator_file	system16	Altered Beast Samples	altbeast.zip
+emulator_file	system16	Golden Axe Samples	goldnaxe.zip
+emulator_file	system16	Shadow Dancer Samples	shdancer.zip
+emulator_file	system16	Shinobi Samples	shinobi.zip
+emulator_file	system16	Wrestle War Samples	wrestwar.zip

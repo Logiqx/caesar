@@ -1,0 +1,20 @@
+
+emulator	rockulator_orig	multi	Rock-ulator_v0.86	\N	\N	\N	Rockulator	0.86	29/04/1997	DOS	Vanguard, Fantasy, Nibbler (all SNK)	Started life as the Vanguard Emulator by Ivan Mackintosh. Ported to GCC by Allard van der Bas then continued by Brian. Re-written in C++ to become Rockulator++.	Superceded
+emulator_homepage	rockulator_orig	\N	none
+emulator_author_link	rockulator_orig	brian_levine	\N	author
+
+emulator_library_link	rockulator_orig	multi6502
+emulator_tool_link	rockulator_orig	djgpp
+emulator_tool_link	rockulator_orig	allegro
+emulator_features	rockulator_orig	Partial	Yes	Yes	Yes	Yes	No	No	No	No	Yes	No	No	No
+emulator_controller	rockulator_orig	Keyboard
+emulator_controller	rockulator_orig	Joystick
+emulator_author_link	rockulator_orig	ivan_mackintosh	Original Vanguard Emulator (v0.1)	contributor
+
+emulator_author_link	rockulator_orig	allard_van_der_bas	Ported the Vanguard Emulator to GCC (v0.2)	contributor
+
+emulator_author_link	rockulator_orig	martin_scragg	Memory map, schematics and assorted help	contributor
+
+emulator_relative_link	rockulator_orig	rockulator	successor
+
+emulator_file	rockulator_orig	Emulator v0.086	Rockulator V0.86 [Dos].zip

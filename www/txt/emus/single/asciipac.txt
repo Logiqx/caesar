@@ -1,0 +1,12 @@
+
+emulator	asciipac	single	AsciiPac	\N	\N	\N	AsciiPac	First	19/09/1999	DOS	Pacman (Namco)	Mike's second emulator	No plans to update
+emulator_homepage	asciipac	http://emudx.emuviews.com/	bad
+emulator_author_link	asciipac	mike_green	\N	author
+
+emulator_tool_link	asciipac	djgpp
+emulator_tool_link	asciipac	allegro
+emulator_features	asciipac	No	No	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	asciipac	Keyboard
+emulator_relative_link	asciipac	pacdx	successor
+
+emulator_file	asciipac	Emulator	asciipac.zip

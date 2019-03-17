@@ -1,0 +1,15 @@
+
+emulator	emu	multi	EMU_v2.3	\N	\N	\N	EMU	2.3	12/07/1997	DOS	Atari Vector Games and Space Invaders	Merged with CINEMU and KEM to make Retrocade	Superceded
+emulator_homepage	emu	http://www.synthcom.com/~emu/	\N
+emulator_author_link	emu	neil_bradley	\N	author
+
+emulator_tool_link	emu	watcom
+emulator_features	emu	Yes	No	Yes	No	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	emu	Keyboard
+emulator_controller	emu	Joystick
+emulator_controller	emu	Mouse
+emulator_relative_link	emu	mhemu	predecessor
+
+emulator_relative_link	emu	retrocade	successor
+
+emulator_file	emu	Emulator	emu23.zip

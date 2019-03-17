@@ -1,0 +1,13 @@
+
+emulator	nemesis_dos	single2	dummy	\N	\N	\N	Nemesis Emulator (DOS)	1.0	06/07/1997	DOS	Nemesis (Konami)	DOS Port of the Nemesis Emulator	Dormant
+emulator_homepage	nemesis_dos	HTTP://www.ctv.es/USERS/arena	bad
+emulator_author_link	nemesis_dos	david_valdeita_loureiro	\N	author
+
+emulator_library_link	nemesis_dos	z80em
+emulator_tool_link	nemesis_dos	watcom
+emulator_features	nemesis_dos	Yes	No	Yes	No	No	No	No	No	No	No?	\N	\N	\N
+emulator_controller	nemesis_dos	Keyboard
+emulator_controller	nemesis_dos	Joystick
+emulator_relative_link	nemesis_dos	nemesis	port_of
+
+emulator_file	nemesis_dos	Emulator (DOS)	neme32.zip

@@ -1,0 +1,12 @@
+
+emulator	multipac_dc	dreamcast	dummy	\N	\N	\N	Multipac for Dreamcast KOS	-	16/06/2001	Dreamcast	Games using Pacman hardware	MultiPac was the predecer to MAME	Superceded
+emulator_homepage	multipac_dc	http://digita.mame.net/	\N
+emulator_author_link	multipac_dc	james_surine	\N	author
+
+emulator_library_link	multipac_dc	z80em
+emulator_tool_link	multipac_dc	kos
+emulator_features	multipac_dc	Yes	Yes	No	No	No	\N	Yes	Yes	No	Yes	No	No	No
+emulator_controller	multipac_dc	Buttons
+emulator_relative_link	multipac_dc	multipac	port_of
+
+emulator_file	multipac_dc	Emulator	multipacdc.zip

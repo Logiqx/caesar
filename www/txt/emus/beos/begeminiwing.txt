@@ -1,0 +1,10 @@
+
+emulator	begeminiwing	beos	BeGeminiWing_v0.80	\N	\N	\N	BeGeminiWing	0.80	20/06/2001	BeOS (x86)	Gemini Wing (Tecmo)	This is by the author of BeGameboy and BePCEngine. It emulates Geminin Wing, but there is no sound support yet. It is a sample of the authors arcade emulators.	Dormant
+emulator_homepage	begeminiwing	http://diesel.planet-d.net/BeGameboy/	bad
+emulator_author_link	begeminiwing	david_raingeard	\N	author
+
+emulator_library_link	begeminiwing	multiz80
+emulator_features	begeminiwing	No	No	No	No	Yes	No	No	No	No	No	\N	\N	\N
+emulator_controller	begeminiwing	Keyboard
+emulator_controller	begeminiwing	Joystick
+emulator_file	begeminiwing	Emulator	BeGeminiwing.zip

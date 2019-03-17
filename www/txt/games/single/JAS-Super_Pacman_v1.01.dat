@@ -1,0 +1,10 @@
+game	JAS-Super_Pacman_v1.01	superpac	\N	\N	\N	\N	\N	Super Pac-Man (Midway)	1982	[Namco] (Bally Midway license)	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	spc2-1c.bin	\N	\N	8192	1a38c30e	ae0ee9f3df0991a80698fe745a7a853a4bb60710	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	spc1-1b.bin	\N	\N	8192	730e95a9	ca73c8bcb03c2f5c05968c707a5d3f7f9956b886	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	spv1-3c.bin	\N	\N	4096	78337e74	11222adb55e6bce508896ccb1f6dbab0c1d44e5b	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	spv2-3f.bin	\N	\N	8192	670a42f2	9171922df07e31fd1dc415766f7d2cc50a9d10dc	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	sp-3l.bin	\N	\N	256	d4d7026f	a486573437c54bfb503424574ad82655491e85e1	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	sp-4e.bin	\N	\N	256	1253c5c1	df46a90170e9761d45c90fbd04ef2aa1e8c9944b	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	sp-4c.bin	\N	\N	32	9ce22c46	d97f53ef4c5ef26659a22ed0de4ce7ef3758c924	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	spc3-1k.bin	\N	\N	4096	04445ddb	ce7d14963d5ddaefdeaf433a6f82c43cd1611d9b	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Super_Pacman_v1.01	superpac	sp-snd.bin	\N	\N	256	ad43688f	072f427453efb1dda8147da61804fff06e1bc4d5	\N	\N	\N	\N	\N	\N	

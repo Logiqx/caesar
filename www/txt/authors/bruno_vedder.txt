@@ -1,0 +1,13 @@
+
+author	bruno_vedder	Bruno Vedder	\N
+author_email	bruno_vedder	osmose_emulator@yahoo.fr
+author_email	bruno_vedder	bruno.vedder@emu-france.com
+author_emulator_link	bruno_vedder	bpe	author
+
+author_emulator_link	bruno_vedder	mikie	author
+
+author_emulator_link	bruno_vedder	oldspark	author
+
+author_emulator_link	bruno_vedder	oldsparkcpp	author
+
+author_emulator_link	bruno_vedder	oldsparkcpplinux	author

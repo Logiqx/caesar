@@ -1,0 +1,14 @@
+
+emulator	midway_collection_2_pc	commercial	Arcades_Greatest_Hits_-_The_Midway_Collection_2	\N	\N	\N	Arcades Greatest Hits: The Midway Collection 2 (PC)	-	1997	Windows	Joust 2, Splat!, Blaster, Moon Patrol, Root Beer Tapper, Spy Hunter, Burger Time	The second in the Williams/Midway set. The first in the set was called Williams Arcade Classics.	Released
+emulator_homepage	midway_collection_2_pc	http://www.digitaleclipse.com	\N
+emulator_author_link	midway_collection_2_pc	midway	\N	author
+
+emulator_features	midway_collection_2_pc	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	midway_collection_2_pc	Keyboard
+emulator_controller	midway_collection_2_pc	Joytick
+emulator_controller	midway_collection_2_pc	Mouse
+emulator_author_link	midway_collection_2_pc	digital_eclipse	Development	contributor
+
+emulator_relative_link	midway_collection_2_pc	midway_collection_2	port_of
+
+emulator_file	midway_collection_2_pc	Official patch for Spy Hunter music	SpyPatch.zip

@@ -1,0 +1,4 @@
+
+author	tecmo	Tecmo	\N
+author_homepage	tecmo	http://www.tecmoinc.com/	\N
+author_emulator_link	tecmo	tecmo_arcade_classics_xbox	author

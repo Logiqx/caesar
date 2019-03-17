@@ -1,0 +1,13 @@
+
+tool_contents	compilers	Compilers	Here are the development environments and compilers commonly used by emulation authors
+tool_contents_tool_link	compilers	borlandc
+tool_contents_tool_link	compilers	delphi
+tool_contents_tool_link	compilers	djgpp
+tool_contents_tool_link	compilers	future_basic
+tool_contents_tool_link	compilers	lccwin32
+tool_contents_tool_link	compilers	ms
+tool_contents_tool_link	compilers	mingw
+tool_contents_tool_link	compilers	real_basic
+tool_contents_tool_link	compilers	vb
+tool_contents_tool_link	compilers	msvc
+tool_contents_tool_link	compilers	watcom

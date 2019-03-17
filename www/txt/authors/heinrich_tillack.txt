@@ -1,0 +1,6 @@
+
+author	heinrich_tillack	Heinrich Tillack	\N
+author_email	heinrich_tillack	info@tillack.org
+author_emulator_link	heinrich_tillack	asie	author
+
+author_emulator_link	heinrich_tillack	amame	author

@@ -1,0 +1,7 @@
+
+library	6809	cpu	6809 emulator	-	16/03/1998	\N	6809	Written in x86 assembler
+library_homepage	6809	http://webs.ono.com/usr002/jotego/	\N
+library_author_link	6809	jose_tejada_gomez
+library_emulator_link	6809	grytra
+library_emulator_link	6809	mapefer3
+library_file	6809	Emulator	6809_codigo.zip

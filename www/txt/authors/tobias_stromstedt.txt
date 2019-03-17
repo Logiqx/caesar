@@ -1,0 +1,5 @@
+
+author	tobias_stromstedt	Tobias Str&ouml;mstedt	\N
+author_emulator_link	tobias_stromstedt	pcslomo	contributor
+
+author_library_link	tobias_stromstedt	m6502_slomo

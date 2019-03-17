@@ -1,0 +1,6 @@
+
+author	murilo_queiroz	Murilo Saraiva de Queiroz	\N
+author_email	murilo_queiroz	muriloq@dcc.ufmg.br
+author_emulator_link	murilo_queiroz	java_phoenix_emulator	author
+
+author_emulator_link	murilo_queiroz	java_pleiads_emulator	author

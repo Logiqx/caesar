@@ -1,0 +1,7 @@
+
+emulator	namco_museum_4	psx	Namco_Museum_Vol_4	\N	\N	\N	Namco Museum Vol 4	-	1997	Playstation	Pac Land, The Genji and the Heke Clans, The Return of Ishtar, Assault, Ordyne	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_4	http://www.namco.com/	\N
+emulator_author_link	namco_museum_4	namco	\N	author
+
+emulator_features	namco_museum_4	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_4	Joypad

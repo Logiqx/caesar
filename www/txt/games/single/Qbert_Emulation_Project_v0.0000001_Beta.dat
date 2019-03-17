@@ -1,0 +1,10 @@
+game	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	\N	\N	\N	\N	\N	Q*bert (Japan)	1982	Gottlieb (Konami license)	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-rom2.bin	\N	\N	8192	67bb1cb2	23a7f8c86d6db9220a98b3f630c5d000e80f2d53	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-rom1.bin	\N	\N	8192	c61216e7	e727b85dddc2963e33af6c02b675243f6fbe2710	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-rom0.bin	\N	\N	8192	69679d5c	996d45517d0c01a1952fead05dbe201dbb7dca35	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-bg0.bin	\N	\N	4096	7a9ba824	12aa6df499eb6996ee35f56acac403ff6290f844	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-bg1.bin	\N	\N	4096	22e5b891	5bb67e333255c0ea679ab4312256a8a71a950db8	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-fg3.bin	\N	\N	8192	dd436d3a	ae16087a6ceec84551b5d7aae4036e0ed432cbb7	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-fg2.bin	\N	\N	8192	f69b9483	06894a1474c79c1274efbd32d7371179e7e0a661	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-fg1.bin	\N	\N	8192	224e8356	f7f26b879aa8b964ff6311136ed8157e44de736c	\N	\N	\N	\N	\N	\N	
+game_rom	Qbert_Emulation_Project_v0.0000001_Beta	qbertjp	qb-fg0.bin	\N	\N	8192	2f695b85	807d16459838f129e10b913890bbc95065d5dd40	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,13 @@
+
+emulator	mamece_10x	wince	dummy	\N	\N	\N	MameCE-10x (MAME for Casio E-10X PSPC)	?	18/01/2001	WinCE	Emulates a subset of MAME games (mostly those games released before 1984)	This based on the code of MAMECE and is for the Cassiopeia E-10X series.	Dormant
+emulator_homepage	mamece_10x	http://www.geocities.com/dgfinck/	bad
+emulator_author_link	mamece_10x	darren_finck	\N	author
+
+emulator_tool_link	mamece_10x	msvc
+emulator_features	mamece_10x	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mamece_10x	Buttons
+emulator_relative_link	mamece_10x	mamece	modification_of
+
+emulator_relative_link	mamece_10x	mameboy	derivative
+
+emulator_relative_link	mamece_10x	mamecepod	derivative

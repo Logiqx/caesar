@@ -1,0 +1,14 @@
+
+emulator	multipac_gp32	gp32	dummy	\N	\N	\N	MultiPac GP32	1.0	27/11/2004	GP32	Games using Pacman hardware	Grew up to become MAME.	Superceded
+emulator_homepage	multipac_gp32	http://www.talfi.net/gp32_franxis/	\N
+emulator_author_link	multipac_gp32	franxis	\N	author
+
+emulator_library_link	multipac_gp32	z80em
+emulator_features	multipac_gp32	Yes	Yes	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	multipac_gp32	Controller
+emulator_relative_link	multipac_gp32	multipac	port_of
+
+emulator_relative_link	multipac_gp32	mame_gp32	successor
+
+emulator_file	multipac_gp32	Emulator	multipac 1.0.rar
+emulator_file	multipac_gp32	Source	multipac 1.0 source.rar

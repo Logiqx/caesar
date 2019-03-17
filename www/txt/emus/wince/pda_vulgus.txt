@@ -1,0 +1,8 @@
+
+emulator	pda_vulgus	wince	PDA_Vulgus	\N	\N	\N	Vulgus (PDA)	-	06/12/2001	WinCE	Vulgus (Capcom)	A free Capcom title that runs on your PC or PDA.	Dormant
+emulator_homepage	pda_vulgus	http://www.capcom.com/vulgus.xpml	\N
+emulator_author_link	pda_vulgus	larry_bank	\N	author
+
+emulator_features	pda_vulgus	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_vulgus	Stylus
+emulator_file	pda_vulgus	Emulator	capcom_vulgus.zip

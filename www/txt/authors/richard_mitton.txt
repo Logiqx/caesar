@@ -1,0 +1,11 @@
+
+author	richard_mitton	Richard Mitton (Kayamon)	\N
+author_email	richard_mitton	richard.mitton@bigfoot.com
+author_emulator_link	richard_mitton	tnzsemu	author
+
+author_emulator_link	richard_mitton	virtua	author
+
+author_emulator_link	richard_mitton	raine	contributor
+
+author_library_link	richard_mitton	raze
+author_library_link	richard_mitton	snd

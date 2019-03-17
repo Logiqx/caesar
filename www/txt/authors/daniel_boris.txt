@@ -1,0 +1,11 @@
+
+author	daniel_boris	Daniel Boris	\N
+author_email	daniel_boris	danlb_2000@yahoo.com
+author_email	daniel_boris	dboris@comcast.net
+author_emulator_link	daniel_boris	cloakanddagulator	author
+
+author_emulator_link	daniel_boris	discretesim	author
+
+author_emulator_link	daniel_boris	mame	contributor
+
+author_emulator_link	daniel_boris	dice	contributor

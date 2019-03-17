@@ -1,0 +1,39 @@
+game	BattleZoneGL	bzone	\N	\N	\N	\N	\N	Battle Zone (set 1)	1980	Atari	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036414.01	\N	\N	2048	efbc3fa0	6d284fab34b09dde8aa0df7088711d4723f07970	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036413.01	\N	\N	2048	5d9d9111	42638cff53a9791a0f18d316f62a0ea8eea4e194	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036412.01	\N	\N	2048	ab55cbd2	6bbb8316d9f8588ea0893932f9174788292b8edc	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036411.01	\N	\N	2048	ad281297	54c5e06b2e69eb731a6c9b1704e4340f493e7ea5	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036410.01	\N	\N	2048	0b7bfaa4	33ae0f68b4e2eae9f3aecbee2d0b29003ce460b2	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036409.01	\N	\N	2048	1e14e919	448fab30535e6fad7e0ab4427bc06bbbe075e797	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036422.01	\N	\N	2048	7414177b	147d97a3b475e738ce00b1a7909bbd787ad06eda	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone	036421.01	\N	\N	2048	8ea8f939	b71e0ab0e220c3e64dc2b094c701fb1a960b64e4	\N	\N	\N	\N	\N	\N	
+game	BattleZoneGL	bzone2	\N	\N	bzone	bzone	\N	Battle Zone (set 2)	1980	Atari	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036414a.01	\N	\N	2048	13de36d5	40e356ddc5c042bc1ce0b71f51e8b6de72daf1e4	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036413.01	036413.01	\N	2048	5d9d9111	42638cff53a9791a0f18d316f62a0ea8eea4e194	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036412.01	036412.01	\N	2048	ab55cbd2	6bbb8316d9f8588ea0893932f9174788292b8edc	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036411.01	036411.01	\N	2048	ad281297	54c5e06b2e69eb731a6c9b1704e4340f493e7ea5	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036410.01	036410.01	\N	2048	0b7bfaa4	33ae0f68b4e2eae9f3aecbee2d0b29003ce460b2	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036409.01	036409.01	\N	2048	1e14e919	448fab30535e6fad7e0ab4427bc06bbbe075e797	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036422.01	036422.01	\N	2048	7414177b	147d97a3b475e738ce00b1a7909bbd787ad06eda	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzone2	036421.01	036421.01	\N	2048	8ea8f939	b71e0ab0e220c3e64dc2b094c701fb1a960b64e4	\N	\N	\N	\N	\N	\N	
+game	BattleZoneGL	bzonec	\N	\N	bzone	bzone	\N	Battle Zone (cocktail)	1980	Atari	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1g4800	\N	\N	2048	e228dd64	247c788b4ccadf6c1e9201ad4f31d55c0036ff0f	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1f5000	\N	\N	2048	dddfac9a	e6f2761902e1ffafba437a1117e9ba40f116087d	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1e5800	\N	\N	2048	7e00e823	008e491a8074dac16e56c3aedec32d4b340158ce	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1d6000	\N	\N	2048	c0f8c068	66fff6b493371f0015c21b06b94637db12deced2	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1c6800	\N	\N	2048	5adc64bd	4574e4fe375d4ab3151a988235efa11e8744e2c6	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1b7000	\N	\N	2048	ed8a860e	316a3c4870ba44bb3e9cb9fc5200eb081318facf	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz1a7800	\N	\N	2048	04babf45	a59da5ff49fc398ca4a948e28f05250af776b898	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	036422.01	036422.01	\N	2048	7414177b	147d97a3b475e738ce00b1a7909bbd787ad06eda	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonec	bz3b3800	\N	\N	2048	76cf57f6	1b8f3fcd664ed04ce60d94fdf27e56b20d52bdbd	\N	\N	\N	\N	\N	\N	
+game	BattleZoneGL	bzonep	\N	\N	bzone	bzone	\N	Battle Zone Plus!	2000	Clay Cowgill	\N	\N	\N	
+game_comment	BattleZoneGL	bzonep	 CRC information from http://www.ionpool.net/arcade/atari/roms.html	
+game_rom	BattleZoneGL	bzonep	036422.01.bin	\N	\N	2048	7414177b	147d97a3b475e738ce00b1a7909bbd787ad06eda	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036421.01.bin	\N	\N	2048	8ea8f939	b71e0ab0e220c3e64dc2b094c701fb1a960b64e4	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036414.01.bin	\N	\N	2048	55e0b5d5	88cbf5c98b41cde5524e9bef537a03db9e783f17	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036413.01.bin	\N	\N	2048	5d9d9111	42638cff53a9791a0f18d316f62a0ea8eea4e194	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036412.01.bin	\N	\N	2048	3e0931d7	1366a8e9b18a5b2d3f23d9069845403b5d65d32d	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036411.01.bin	\N	\N	2048	ad281297	54c5e06b2e69eb731a6c9b1704e4340f493e7ea5	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036408.01.bin	\N	\N	2048	7513fc40	c01c8959df2c24435a50caa46104a88a9fb7f7fd	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036409.01.bin	\N	\N	2048	debaea12	d23cf62182e76562f4d4e9023a8be6243183da00	\N	\N	\N	\N	\N	\N	
+game_rom	BattleZoneGL	bzonep	036410.01.bin	\N	\N	2048	0b7bfaa4	33ae0f68b4e2eae9f3aecbee2d0b29003ce460b2	\N	\N	\N	\N	\N	\N	

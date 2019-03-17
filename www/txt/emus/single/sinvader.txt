@@ -1,0 +1,13 @@
+
+emulator	sinvader	single	Sinvader	\N	\N	\N	Sinvader	First	16/09/1999	DOS	Space Invaders (Midway)	Mike's first emulator	No plans to update
+emulator_homepage	sinvader	http://emudx.emuviews.com/	bad
+emulator_author_link	sinvader	mike_green	\N	author
+
+emulator_library_link	sinvader	z80
+emulator_tool_link	sinvader	djgpp
+emulator_tool_link	sinvader	allegro
+emulator_features	sinvader	No	C	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sinvader	Keyboard
+emulator_relative_link	sinvader	laser	successor
+
+emulator_file	sinvader	Emulator	sinvader.zip

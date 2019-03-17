@@ -1,0 +1,4 @@
+
+emulator_contents	os2	Emulators for OS/2	These emulators are all for OS/2
+emulator_contents_emulator_link	os2	mame_os2
+emulator_contents_emulator_link	os2	retrocade_os2

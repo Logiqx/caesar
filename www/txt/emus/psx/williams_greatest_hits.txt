@@ -1,0 +1,12 @@
+
+emulator	williams_greatest_hits	psx	Williams_Arcades_Greatest_Hits_PSX	\N	\N	\N	Williams Arcade's Greatest Hits	-	1996	Playstation	Defender, Defender II, Robotron 2084, Bubbles, Joust, Sinistar	The first of the arcade emulators that Digital Eclipse created for the Playstation.	Released
+emulator_homepage	williams_greatest_hits	http://www.digitaleclipse.com	\N
+emulator_author_link	williams_greatest_hits	midway	\N	author
+
+emulator_features	williams_greatest_hits	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	williams_greatest_hits	Joypad
+emulator_author_link	williams_greatest_hits	digital_eclipse	Development	contributor
+
+emulator_relative_link	williams_greatest_hits	williams_greatest_hits_sat	port
+
+emulator_relative_link	williams_greatest_hits	midway_greatest_hits	port

@@ -1,0 +1,12 @@
+
+author	james_surine	James Surine	\N
+author_email	james_surine	xevious@holonet.net
+author_emulator_link	james_surine	mamed	author
+
+author_emulator_link	james_surine	mamed_final	author
+
+author_emulator_link	james_surine	mamed_dc	author
+
+author_emulator_link	james_surine	multipacd	author
+
+author_emulator_link	james_surine	multipac_dc	author

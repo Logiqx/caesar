@@ -1,0 +1,4 @@
+U64Emu_v3.05	ki	kinst	m	
+U64Emu_v3.05	ki_hdd	kinst	h	
+U64Emu_v3.05	ki2	kinst211	m	
+U64Emu_v3.05	ki2_hdd	kinst211	h	

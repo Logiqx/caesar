@@ -1,0 +1,24 @@
+
+emulator	taito_legends_ps2	ps2	dummy	\N	\N	\N	Taito Legends (PS2)	-	14/10/2005	PS2	Classic Taito arcade games of the 70s, 80s and 90s!	Taito Legends offers arcade perfect conversions of more than 30 classic Taito games including Space Invaders, Operation Wolf and Bubble Bobble. This retro games collection spans almost 20 years of arcade gaming history!	Released
+emulator_homepage	taito_legends_ps2	http://www.taitolegends.com/	\N
+emulator_author_link	taito_legends_ps2	taito	\N	author
+
+emulator_features	taito_legends_ps2	Yes	No	?	?	?	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	taito_legends_ps2	Joypad
+emulator_author_link	taito_legends_ps2	brian_mcphail	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	jarek_burczynski	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	mike_montgomery	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	neil_tringham	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	scott_williams	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	steve_berge	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	nicola_salmoria	Programming - Empire Oxford	contributor
+
+emulator_author_link	taito_legends_ps2	andrew_seed	Programming - Atomic Planet Entertainment	contributor
+
+emulator_relative_link	taito_legends_ps2	taito_legends	port_of

@@ -1,0 +1,9 @@
+
+emulator	invadersaver	multi	Invader_Saver_v2.00a	\N	\N	\N	Invader Saver (Space Invaders Screen Saver)	2.00a	14/05/1999	Windows	Invaders, Invaders Deluxe (both Midway) and Lunar Rescue (Taito)	Written in Visual Basic	Dormant
+emulator_homepage	invadersaver	http://come.to/invadersaver	\N
+emulator_author_link	invadersaver	tony_docherty	\N	author
+
+emulator_tool_link	invadersaver	vb
+emulator_features	invadersaver	No	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	invadersaver	Keyboard
+emulator_file	invadersaver	Screen Saver	invadersaver.zip

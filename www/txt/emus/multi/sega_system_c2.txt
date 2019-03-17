@@ -1,0 +1,20 @@
+
+emulator	sega_system_c2	multi	Sega_System_C2_Emulator_v0.2b	\N	\N	\N	Sega System C2 Emulator	0.2b	15/09/2000	DOS	Sega System C2 Games	The first emulator that emulated Sega C2 games. Discontinued on 8th Nov 2000 (almost immediately after MAME added the games). Also, the author requested that no sites provide his source anymore.	Discontinued
+emulator_homepage	sega_system_c2	\N	\N
+emulator_author_link	sega_system_c2	charles_mac_donald	\N	author
+
+emulator_library_link	sega_system_c2	starscream
+emulator_tool_link	sega_system_c2	djgpp
+emulator_tool_link	sega_system_c2	allegro
+emulator_tool_link	sega_system_c2	seal
+emulator_tool_link	sega_system_c2	zlib
+emulator_features	sega_system_c2	Yes	Yes	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sega_system_c2	Keyboard
+emulator_controller	sega_system_c2	Joystick
+emulator_author_link	sega_system_c2	david_haywood	Provider of information about the C2 hardware	contributor
+
+emulator_relative_link	sega_system_c2	sega_system_c2_w	port
+
+emulator_relative_link	sega_system_c2	sega_c2_linux	port
+
+emulator_file	sega_system_c2	DOS Emulator	c2emu-091500-dos.zip

@@ -1,0 +1,4 @@
+
+emulator_contents	arm	Emulators for the Archimedes	These emulators are all for the Archimedes
+emulator_contents_emulator_link	arm	armmame
+emulator_contents_emulator_link	arm	rcps

@@ -1,0 +1,26 @@
+
+author	namco	Namco	\N
+author_email	namco	support@namco.com
+author_emulator_link	namco	namco_history_vol_1	author
+
+author_emulator_link	namco	namco_history_vol_2	author
+
+author_emulator_link	namco	namco_history_vol_3	author
+
+author_emulator_link	namco	namco_history_vol_4	author
+
+author_emulator_link	namco	namco_museum_1	author
+
+author_emulator_link	namco	namco_museum_2	author
+
+author_emulator_link	namco	namco_museum_3	author
+
+author_emulator_link	namco	namco_museum_4	author
+
+author_emulator_link	namco	namco_museum_5	author
+
+author_emulator_link	namco	namco_museum_encore	author
+
+author_emulator_link	namco	namco_museum_64	author
+
+author_emulator_link	namco	namco_museum	author

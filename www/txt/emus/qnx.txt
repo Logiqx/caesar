@@ -1,0 +1,4 @@
+
+emulator_contents	qnx	Emulators for QNX	These emulators are all for QNX
+emulator_contents_emulator_link	qnx	finalburn_qnx
+emulator_contents_emulator_link	qnx	phmame

@@ -1,0 +1,7 @@
+
+emulator	namco_museum_encore	psx	Namco_Museum_Encore	\N	\N	\N	Namco Museum Encore	-	1998	Playstation	Dragon Sabre, Wonder Momo, Rompers, Motos, Sky Kid, King and Balloon, Rolling Thunder	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_encore	http://www.namco.com/	\N
+emulator_author_link	namco_museum_encore	namco	\N	author
+
+emulator_features	namco_museum_encore	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_encore	Joypad

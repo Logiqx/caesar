@@ -1,0 +1,15 @@
+
+emulator	qplayer	sound	QPlayer_v1.4.3	\N	\N	\N	QPlayer	1.4.3	01/07/2001	Windows	QSound music and sound effects	Plays the music and sound effects from arcade games based on Capcom's CPS-1, CPS-2, ZN-1 and ZN-2 hardware	Dormant
+emulator_homepage	qplayer	http://galemu.emuunlim.com/	\N
+emulator_author_link	qplayer	barry_rodewald	\N	author
+
+emulator_library_link	qplayer	multiz80
+emulator_tool_link	qplayer	msvc
+emulator_tool_link	qplayer	qmdx
+emulator_tool_link	qplayer	zlib
+emulator_features	qplayer	Yes	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	qplayer	Keyboard
+emulator_relative_link	qplayer	qplayer_dos	port
+
+emulator_file	qplayer	Player for Windows	qplayer-1.4.3.zip
+emulator_file	qplayer	QSound data file	qsnd-dat.zip

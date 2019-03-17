@@ -1,0 +1,14 @@
+
+emulator	xpac	multi	XPac_Beta_1-2-3	\N	\N	\N	XPac: A Pac-Man emulator	Beta 1-2-3	27/05/1999	Windows	Pacman and various clones	Provides source code that demonstrates how to accomplish emulation using DirectX, DirectSound, and C++	Dormant
+emulator_homepage	xpac	http://unistork.simplenet.com/poochie/xpac123.zip	bad
+emulator_author_link	xpac	mike_sweetster	\N	author
+
+emulator_library_link	xpac	multiz80
+emulator_tool_link	xpac	msvc
+emulator_features	xpac	Yes	Yes (C++)	No	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	xpac	Keyboard
+emulator_controller	xpac	Joystick
+emulator_relative_link	xpac	minipac	predecessor
+
+emulator_file	xpac	Emulator	xpac123.zip
+emulator_file	xpac	Source	xpac123src.zip

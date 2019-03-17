@@ -1,0 +1,8 @@
+
+emulator_contents	amiga	Emulators for the Amiga	These emulators are all for the Amiga
+emulator_contents_emulator_link	amiga	amame
+emulator_contents_emulator_link	amiga	arcem
+emulator_contents_emulator_link	amiga	asie
+emulator_contents_emulator_link	amiga	mame_amiga
+emulator_contents_emulator_link	amiga	mame_amigappc
+emulator_contents_emulator_link	amiga	warpmame

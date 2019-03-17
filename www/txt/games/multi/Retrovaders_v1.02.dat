@@ -1,0 +1,402 @@
+game	Retrovaders_v1.02	astinvad	\N	\N	\N	\N	invaders	Astro Invader	1980	Stern	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_1.rom	\N	\N	1024	20e3ec41	7e77fa3c51d1e83ce91a24808301d9f1e0bed18e	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_2.rom	\N	\N	1024	e8f1ab55	b3e38f2d6bdb65ee7c53c8d5dd3951a3fd43c51c	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_3.rom	\N	\N	1024	a0092553	34fced8ce06d912980ba45fad8d80d2a2e3357b9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_4.rom	\N	\N	1024	be14185c	59ecf450682dab9840c891c18ccda1d5ec4cc954	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_5.rom	\N	\N	1024	fee681ec	b4b94f62e598030e6a432a0bb83d18d0e342aed9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_6.rom	\N	\N	1024	eb338863	e841c6c5903dd6dee9ec2fedaff431f4a31d738a	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	astinvad	ai_cpu_7.rom	\N	\N	1024	16dcfea4	b6a0e206a604297f548ac4658664e98b2d04f75f	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	astinvad	0.sam	
+game_sample	Retrovaders_v1.02	astinvad	1.sam	
+game_sample	Retrovaders_v1.02	astinvad	2.sam	
+game_sample	Retrovaders_v1.02	astinvad	3.sam	
+game_sample	Retrovaders_v1.02	astinvad	4.sam	
+game_sample	Retrovaders_v1.02	astinvad	5.sam	
+game_sample	Retrovaders_v1.02	astinvad	6.sam	
+game_sample	Retrovaders_v1.02	astinvad	7.sam	
+game_sample	Retrovaders_v1.02	astinvad	8.sam	
+game	Retrovaders_v1.02	boothill	\N	\N	\N	\N	\N	Boot Hill	1977	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	boothill	romh.cpu	\N	\N	2048	1615d077	e59a26c2f2fc67ab24301e22d2e3f33043acdf72	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	boothill	romg.cpu	\N	\N	2048	65a90420	9f36c44b5ae5b912cdbbeb9ff11a42221b8362d2	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	boothill	romf.cpu	\N	\N	2048	3fdafd79	b18e8ac9df40c4687ac1acd5174eb99f2ef60081	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	boothill	rome.cpu	\N	\N	2048	374529f4	18c57b79df0c66052eef40a694779a5ade15d0e0	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	boothill	addcoin.sam	
+game_sample	Retrovaders_v1.02	boothill	endgame.sam	
+game_sample	Retrovaders_v1.02	boothill	gunshot.sam	
+game_sample	Retrovaders_v1.02	boothill	killed.sam	
+game	Retrovaders_v1.02	clowns	\N	\N	\N	\N	invaders	Clowns	1978	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	h2.cpu	\N	\N	1024	ff4432eb	997aee1e3669daa1d8169b4e103d04baaab8ea8d	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	g2.cpu	\N	\N	1024	676c934b	72b681ca9ef23d820fdd297cc417932aecc9677b	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	f2.cpu	\N	\N	1024	00757962	ef39211493393e97284a08eea63be0757643ac88	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	e2.cpu	\N	\N	1024	9e506a36	8aad486a72d148d8b03e7bec4c12abd14e425c5f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	d2.cpu	\N	\N	1024	d61b5b47	6051c0a2e81d6e975e82c2d48d0e52dc0d4723e3	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	clowns	c2.cpu	\N	\N	1024	154d129a	61eebb319ee3a6be598b764b295c18a93a953c1e	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	clowns	0.sam	
+game_sample	Retrovaders_v1.02	clowns	1.sam	
+game_sample	Retrovaders_v1.02	clowns	2.sam	
+game_sample	Retrovaders_v1.02	clowns	3.sam	
+game_sample	Retrovaders_v1.02	clowns	4.sam	
+game_sample	Retrovaders_v1.02	clowns	5.sam	
+game_sample	Retrovaders_v1.02	clowns	6.sam	
+game_sample	Retrovaders_v1.02	clowns	7.sam	
+game_sample	Retrovaders_v1.02	clowns	8.sam	
+game	Retrovaders_v1.02	cosmicmo	\N	\N	\N	\N	invaders	Cosmic Monsters	1979	Universal	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.1	\N	\N	1024	d6e4e5da	8b4275a3c71ac3fa80d17237dc04de5f586645f4	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.2	\N	\N	1024	8f7988e6	b6a01d5dcab013350f8f7f3e3ebfc986bb939fe0	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.3	\N	\N	1024	2d2e9dc8	dd3da4fc752e003e5e7c64bf189288133aed545b	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.4	\N	\N	1024	26cae456	2f2262340c10e5c29d71317f6eb8072c26655563	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.5	\N	\N	1024	b13f228e	a0de05aa36435e72c77f5333f3ad964ec448a8f0	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.6	\N	\N	1024	4ae1b9c4	8eed87eebe68caa775fa679363b0fe3728d98c34	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	cosmicmo	cosmicmo.7	\N	\N	1024	6a13b15b	dc03a6c3e938cfd08d16bd1660899f951ba72ea2	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	cosmicmo	0.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	1.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	2.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	3.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	4.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	5.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	6.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	7.sam	
+game_sample	Retrovaders_v1.02	cosmicmo	8.sam	
+game	Retrovaders_v1.02	zzzap	\N	\N	\N	\N	invaders	Datsun 280 Zzzap	1976	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzaph	\N	\N	1024	1fa86e1c	b9cf16eb037ada73631ed24297e9e3b3bf6ab3cd	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzapg	\N	\N	1024	9639bc6b	b2e2497e421e79a411d07ebf2eed2bb8dc227003	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzapf	\N	\N	1024	adc6ede1	206bf2575696c4b14437f3db37a215ba33211943	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzape	\N	\N	1024	472493d6	ae5cf4481ee4b78ca0d2f4d560d295e922aa04a7	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzapd	\N	\N	1024	4c240ee1	972475f80253bb0d24773a10aec26a12f28e7c23	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	zzzap	zzzapc	\N	\N	1024	6e85aeaf	ffa6bb84ef1f7c2d72fd26c24bd33aa014aeab7e	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	zzzap	0.sam	
+game_sample	Retrovaders_v1.02	zzzap	1.sam	
+game_sample	Retrovaders_v1.02	zzzap	2.sam	
+game_sample	Retrovaders_v1.02	zzzap	3.sam	
+game_sample	Retrovaders_v1.02	zzzap	4.sam	
+game_sample	Retrovaders_v1.02	zzzap	5.sam	
+game_sample	Retrovaders_v1.02	zzzap	6.sam	
+game_sample	Retrovaders_v1.02	zzzap	7.sam	
+game_sample	Retrovaders_v1.02	zzzap	8.sam	
+game	Retrovaders_v1.02	desterth	\N	\N	\N	\N	invaders	Destination Earth	1979	bootleg	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	36_h.bin	\N	\N	2048	f86923e5	d19935ba3d2c1c2553b3779f1a7ad8856c003dae	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	35_g.bin	\N	\N	2048	797f440d	a96917f2296ae467acc795eacc1533a2a2d2f401	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	34_f.bin	\N	\N	2048	993d0846	6be0c45add41fa7e43cac96c776cd0ebb45ade7b	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	33_e.bin	\N	\N	2048	8d155fc5	1ef5e62d71abbf870c027fa1e477121ff124b8da	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	32_d.bin	\N	\N	2048	3f531b6f	2fc1f4912688986650e20a050a5d63ddecd4267e	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	31_c.bin	\N	\N	2048	ab019c30	33931510a722168bcf7c30d22eac9345576b6631	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	desterth	42_b.bin	\N	\N	2048	ed9dbac6	4553f445ac32ebb1be490b02df4924f76557e8f9	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	desterth	0.sam	
+game_sample	Retrovaders_v1.02	desterth	1.sam	
+game_sample	Retrovaders_v1.02	desterth	2.sam	
+game_sample	Retrovaders_v1.02	desterth	3.sam	
+game_sample	Retrovaders_v1.02	desterth	4.sam	
+game_sample	Retrovaders_v1.02	desterth	5.sam	
+game_sample	Retrovaders_v1.02	desterth	6.sam	
+game_sample	Retrovaders_v1.02	desterth	7.sam	
+game_sample	Retrovaders_v1.02	desterth	8.sam	
+game	Retrovaders_v1.02	earthinv	\N	\N	\N	\N	invaders	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_rom	Retrovaders_v1.02	earthinv	invaders.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	earthinv	invaders.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	earthinv	invaders.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	earthinv	invaders.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	earthinv	0.sam	
+game_sample	Retrovaders_v1.02	earthinv	1.sam	
+game_sample	Retrovaders_v1.02	earthinv	2.sam	
+game_sample	Retrovaders_v1.02	earthinv	3.sam	
+game_sample	Retrovaders_v1.02	earthinv	4.sam	
+game_sample	Retrovaders_v1.02	earthinv	5.sam	
+game_sample	Retrovaders_v1.02	earthinv	6.sam	
+game_sample	Retrovaders_v1.02	earthinv	7.sam	
+game_sample	Retrovaders_v1.02	earthinv	8.sam	
+game	Retrovaders_v1.02	galxwars	\N	\N	\N	\N	invaders	Galaxy Wars	1979	Taito	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	galxwars	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	galxwars	0.sam	
+game_sample	Retrovaders_v1.02	galxwars	1.sam	
+game_sample	Retrovaders_v1.02	galxwars	2.sam	
+game_sample	Retrovaders_v1.02	galxwars	3.sam	
+game_sample	Retrovaders_v1.02	galxwars	4.sam	
+game_sample	Retrovaders_v1.02	galxwars	5.sam	
+game_sample	Retrovaders_v1.02	galxwars	6.sam	
+game_sample	Retrovaders_v1.02	galxwars	7.sam	
+game_sample	Retrovaders_v1.02	galxwars	8.sam	
+game	Retrovaders_v1.02	gmissile	\N	\N	\N	\N	invaders	Guided Missile	1977	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gmissile	gm_623.h	\N	\N	2048	a3ebb792	30d9613de849c1a868056c5e28cf2a8608b63e88	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gmissile	gm_623.g	\N	\N	2048	a5e740bb	963c0984953eb58fe7eab84fabb724ec6e29e706	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gmissile	gm_623.f	\N	\N	2048	da381025	c9d0511567ed571b424459896ce7de0326850388	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gmissile	gm_623.e	\N	\N	2048	f350146b	a07000a979b1a735754eca623cc880988924877f	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	gmissile	0.sam	
+game_sample	Retrovaders_v1.02	gmissile	1.sam	
+game_sample	Retrovaders_v1.02	gmissile	2.sam	
+game_sample	Retrovaders_v1.02	gmissile	3.sam	
+game_sample	Retrovaders_v1.02	gmissile	4.sam	
+game_sample	Retrovaders_v1.02	gmissile	5.sam	
+game_sample	Retrovaders_v1.02	gmissile	6.sam	
+game_sample	Retrovaders_v1.02	gmissile	7.sam	
+game_sample	Retrovaders_v1.02	gmissile	8.sam	
+game	Retrovaders_v1.02	gunfight	\N	\N	\N	\N	boothill	Gun Fight	1975	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gunfight	7609h.bin	\N	\N	1024	0b117d73	99d01313e251818d336281700e206d9003c71dae	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gunfight	7609g.bin	\N	\N	1024	57bc3159	c177e3f72db9af17ab99b2481448ca26318184b9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gunfight	7609f.bin	\N	\N	1024	8049a6bd	215b068663e431582591001cbe028929fa96d49f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	gunfight	7609e.bin	\N	\N	1024	773264e2	de3f2e6841122bbe6e2fda5b87d37842c072289a	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	gunfight	addcoin.sam	
+game_sample	Retrovaders_v1.02	gunfight	endgame.sam	
+game_sample	Retrovaders_v1.02	gunfight	gunshot.sam	
+game_sample	Retrovaders_v1.02	gunfight	killed.sam	
+game	Retrovaders_v1.02	invrvnge	\N	\N	\N	\N	invaders	Invader's Revenge	1979	Zenitone Microsec	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invrvnge	invrvnge.h	\N	\N	2048	aca41bbb	ca71f792abd6d9a44d15b19d2ccf678e82ccba4f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invrvnge	invrvnge.g	\N	\N	2048	cfe89dad	218b6a0b636c49c4cdc3667e8b1387ef0e257115	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invrvnge	invrvnge.f	\N	\N	2048	e350de2c	e845565e2f96f9dec3242ec5ab75910a515428c9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invrvnge	invrvnge.e	\N	\N	2048	1ec8dfc8	fc8fbe1161958f57c9f4ccbcab8a769184b1c562	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	invrvnge	0.sam	
+game_sample	Retrovaders_v1.02	invrvnge	1.sam	
+game_sample	Retrovaders_v1.02	invrvnge	2.sam	
+game_sample	Retrovaders_v1.02	invrvnge	3.sam	
+game_sample	Retrovaders_v1.02	invrvnge	4.sam	
+game_sample	Retrovaders_v1.02	invrvnge	5.sam	
+game_sample	Retrovaders_v1.02	invrvnge	6.sam	
+game_sample	Retrovaders_v1.02	invrvnge	7.sam	
+game_sample	Retrovaders_v1.02	invrvnge	8.sam	
+game	Retrovaders_v1.02	kamikaze	\N	\N	\N	\N	invaders	Kamikaze	1979	Leijac Corporation	\N	\N	\N	
+game_rom	Retrovaders_v1.02	kamikaze	km01	\N	\N	2048	8aae7414	91cb5c268a03960d50401000903d70dc29f904fb	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	kamikaze	km02	\N	\N	2048	6c7a2beb	86447d077a58e8c1fc096d0d32b02d18523019a6	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	kamikaze	km03	\N	\N	2048	3e8dedb6	19679d0e8ebe2d19dc766b12a07335b1220fb568	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	kamikaze	km04	\N	\N	2048	494e1f6d	f9626072d80897a977c10fe9523a8b608f1f7b7c	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	kamikaze	0.sam	
+game_sample	Retrovaders_v1.02	kamikaze	1.sam	
+game_sample	Retrovaders_v1.02	kamikaze	2.sam	
+game_sample	Retrovaders_v1.02	kamikaze	3.sam	
+game_sample	Retrovaders_v1.02	kamikaze	4.sam	
+game_sample	Retrovaders_v1.02	kamikaze	5.sam	
+game_sample	Retrovaders_v1.02	kamikaze	6.sam	
+game_sample	Retrovaders_v1.02	kamikaze	7.sam	
+game_sample	Retrovaders_v1.02	kamikaze	8.sam	
+game	Retrovaders_v1.02	lrescue	\N	\N	\N	\N	invaders	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	lrescue	0.sam	
+game_sample	Retrovaders_v1.02	lrescue	1.sam	
+game_sample	Retrovaders_v1.02	lrescue	2.sam	
+game_sample	Retrovaders_v1.02	lrescue	3.sam	
+game_sample	Retrovaders_v1.02	lrescue	4.sam	
+game_sample	Retrovaders_v1.02	lrescue	5.sam	
+game_sample	Retrovaders_v1.02	lrescue	6.sam	
+game_sample	Retrovaders_v1.02	lrescue	7.sam	
+game_sample	Retrovaders_v1.02	lrescue	8.sam	
+game	Retrovaders_v1.02	lupin3	\N	\N	\N	\N	invaders	Lupin III	1980	Taito	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp12.bin	\N	\N	2048	68a7f47a	dce99b3810331d7603fa468f1dea984e571f709b	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp13.bin	\N	\N	2048	cae9a17b	a333ba7db45325996e3254ab36162bb7577e8a38	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp14.bin	\N	\N	2048	3553b9e4	6affb5b6caf08f365c0dce669e44046295c3df91	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp15.bin	\N	\N	2048	acbeef64	50d78cdc9938285b6bf9fa81fa0f6c30b23e0756	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp16.bin	\N	\N	2048	19fcdc54	2f18ee8158321fff68886ffe793724001e8b18c2	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp17.bin	\N	\N	2048	66289ab2	fc9b4a7b7a08d43f34beaf1a8e68ed0ff6148534	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	lupin3	lp18.bin	\N	\N	2048	2f07b4ba	982e4c437b39b45e23d15af1b2fc8c7aa3034559	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	lupin3	0.sam	
+game_sample	Retrovaders_v1.02	lupin3	1.sam	
+game_sample	Retrovaders_v1.02	lupin3	2.sam	
+game_sample	Retrovaders_v1.02	lupin3	3.sam	
+game_sample	Retrovaders_v1.02	lupin3	4.sam	
+game_sample	Retrovaders_v1.02	lupin3	5.sam	
+game_sample	Retrovaders_v1.02	lupin3	6.sam	
+game_sample	Retrovaders_v1.02	lupin3	7.sam	
+game_sample	Retrovaders_v1.02	lupin3	8.sam	
+game	Retrovaders_v1.02	rollingc	\N	\N	\N	\N	invaders	Rolling Crash / Moon Base	1979	Nichibutsu	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc01.bin	\N	\N	1024	66fa50bf	7451d4ff8d3b351a324aaecdbdc5b46672f5fdd0	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc02.bin	\N	\N	1024	61c06ae4	7685c806e20e4a4a0508a547ac08ca8f6d75bb79	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc03.bin	\N	\N	1024	77e39fa0	16bf88af1b97c5a2a81e105af08b8d9d1f10dcc8	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc04.bin	\N	\N	1024	3fdfd0f3	4c5e7136a766f3f16399e61eaaa0e00ef6b619f7	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc05.bin	\N	\N	1024	c26a8f5b	f7a541999cfe04c6d6927d285484f0f81857e04a	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc06.bin	\N	\N	1024	0b98dbe5	33cedab82ddccb4caaf681fce553b5230a8d6f92	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc07.bin	\N	\N	1024	6242145c	b01bb02835dda89dc02604ec52e423167183e8c9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc08.bin	\N	\N	1024	d23c2ef1	909e3d53291dbd219f4f9e0047c65317b9f6d5bd	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc09.bin	\N	\N	2048	2e2c5b95	33f4e2789d67e355ccd99d2c0d07301ec2bd3bc1	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc10.bin	\N	\N	2048	ef94c502	07c0504b2ebce0fa6e53e6957e7b6c0e9caab430	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc11.bin	\N	\N	2048	a3164b18	7270af25fa4171f86476f5dc409e658da7fba7fc	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	rollingc	rc12.bin	\N	\N	2048	2052f6d9	036702fc40cf133eb374ed674695d7c6c79e8311	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	rollingc	0.sam	
+game_sample	Retrovaders_v1.02	rollingc	1.sam	
+game_sample	Retrovaders_v1.02	rollingc	2.sam	
+game_sample	Retrovaders_v1.02	rollingc	3.sam	
+game_sample	Retrovaders_v1.02	rollingc	4.sam	
+game_sample	Retrovaders_v1.02	rollingc	5.sam	
+game_sample	Retrovaders_v1.02	rollingc	6.sam	
+game_sample	Retrovaders_v1.02	rollingc	7.sam	
+game_sample	Retrovaders_v1.02	rollingc	8.sam	
+game	Retrovaders_v1.02	seawolf	\N	\N	\N	\N	invaders	Sea Wolf	1976	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	seawolf	sw0041.h	\N	\N	1024	8f597323	b538277d3a633dd8a3179cff202f18d322e6fe17	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	seawolf	sw0042.g	\N	\N	1024	db980974	cc2a99b18695f61e0540c9f6bf8fe3b391dde4a0	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	seawolf	sw0043.f	\N	\N	1024	e6ffa008	385198434b08fe4651ad2c920d44fb49cfe0bc33	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	seawolf	sw0044.e	\N	\N	1024	c3557d6a	bd345dd72fed8ce15da76c381782b025f71b006f	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	seawolf	0.sam	
+game_sample	Retrovaders_v1.02	seawolf	1.sam	
+game_sample	Retrovaders_v1.02	seawolf	2.sam	
+game_sample	Retrovaders_v1.02	seawolf	3.sam	
+game_sample	Retrovaders_v1.02	seawolf	4.sam	
+game_sample	Retrovaders_v1.02	seawolf	5.sam	
+game_sample	Retrovaders_v1.02	seawolf	6.sam	
+game_sample	Retrovaders_v1.02	seawolf	7.sam	
+game_sample	Retrovaders_v1.02	seawolf	8.sam	
+game	Retrovaders_v1.02	spaceatt	\N	\N	\N	\N	invaders	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceatt	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceatt	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceatt	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceatt	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	spaceatt	0.sam	
+game_sample	Retrovaders_v1.02	spaceatt	1.sam	
+game_sample	Retrovaders_v1.02	spaceatt	2.sam	
+game_sample	Retrovaders_v1.02	spaceatt	3.sam	
+game_sample	Retrovaders_v1.02	spaceatt	4.sam	
+game_sample	Retrovaders_v1.02	spaceatt	5.sam	
+game_sample	Retrovaders_v1.02	spaceatt	6.sam	
+game_sample	Retrovaders_v1.02	spaceatt	7.sam	
+game_sample	Retrovaders_v1.02	spaceatt	8.sam	
+game	Retrovaders_v1.02	schaser	\N	\N	\N	\N	invaders	Space Chaser	1980	Taito	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt13.bin	\N	\N	1024	0dfbde68	7367b138ad8448aba9222fed632a892df65cecbd	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt14.bin	\N	\N	1024	5a508a25	c681d0bbf49317e79b596fb094e66b8912f0e409	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt15.bin	\N	\N	1024	2ac43a93	d364f0940681a888c0147e06bcb01f8a0d4a24c8	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt16.bin	\N	\N	1024	f5583afc	5e8edb43ccb138fd47ac8f3da1af79b4444a4a82	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt17.bin	\N	\N	1024	51cf1155	fd8c82d951602fd7e0ada65fc7cdee9f277c70db	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt18.bin	\N	\N	1024	3f0fc73a	b801c3f1e8e6e41c564432db7c5891f6b27293b2	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt19.bin	\N	\N	1024	b66ea369	d277f572f9c7c4301518546cf60671a6539326ee	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt20.bin	\N	\N	1024	e3a7466a	2378970f38b0cec066ef853a6540500e468e4ab4	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt21.bin	\N	\N	1024	b368ac98	6860efe0496955db67611183be0efecda92c9c98	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	schaser	rt22.bin	\N	\N	1024	6e060dfb	614e2ecf676c3ea2f9ea869125cfffef2f713684	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	schaser	0.sam	
+game_sample	Retrovaders_v1.02	schaser	1.sam	
+game_sample	Retrovaders_v1.02	schaser	2.sam	
+game_sample	Retrovaders_v1.02	schaser	3.sam	
+game_sample	Retrovaders_v1.02	schaser	4.sam	
+game_sample	Retrovaders_v1.02	schaser	5.sam	
+game_sample	Retrovaders_v1.02	schaser	6.sam	
+game_sample	Retrovaders_v1.02	schaser	7.sam	
+game_sample	Retrovaders_v1.02	schaser	8.sam	
+game	Retrovaders_v1.02	spacefev	\N	\N	\N	\N	invaders	Space Fever (color)	1980	Nintendo	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.f1	\N	\N	1024	35f295bd	34d1df25fcdea598ca1191cecc2125e6f63dbce3	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.f2	\N	\N	1024	0c633f4c	a551ddbf21670fb1f000404b92da87a97f7ba157	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.g1	\N	\N	1024	f3d851cb	535c52a56e54a064aa3d1c48a129f714234a1007	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.g2	\N	\N	1024	1faef63a	68e1bfc45587bfb1ee2eb477b60efd4f69dffd2c	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.h1	\N	\N	1024	b365389d	e681f2c5e37cc07912915ef74184ff9336309de3	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.h2	\N	\N	1024	a163e800	e8817f3e17f099a0dc66213d2d3d3fdeb117b10e	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spacefev	tsf.i1	\N	\N	1024	00027be2	551a779a2e5a6455b7a348d246731c094e0ec709	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	spacefev	0.sam	
+game_sample	Retrovaders_v1.02	spacefev	1.sam	
+game_sample	Retrovaders_v1.02	spacefev	2.sam	
+game_sample	Retrovaders_v1.02	spacefev	3.sam	
+game_sample	Retrovaders_v1.02	spacefev	4.sam	
+game_sample	Retrovaders_v1.02	spacefev	5.sam	
+game_sample	Retrovaders_v1.02	spacefev	6.sam	
+game_sample	Retrovaders_v1.02	spacefev	7.sam	
+game_sample	Retrovaders_v1.02	spacefev	8.sam	
+game	Retrovaders_v1.02	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	invaders	0.sam	
+game_sample	Retrovaders_v1.02	invaders	1.sam	
+game_sample	Retrovaders_v1.02	invaders	2.sam	
+game_sample	Retrovaders_v1.02	invaders	3.sam	
+game_sample	Retrovaders_v1.02	invaders	4.sam	
+game_sample	Retrovaders_v1.02	invaders	5.sam	
+game_sample	Retrovaders_v1.02	invaders	6.sam	
+game_sample	Retrovaders_v1.02	invaders	7.sam	
+game_sample	Retrovaders_v1.02	invaders	8.sam	
+game	Retrovaders_v1.02	invadpt2	\N	\N	\N	\N	invaders	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invadpt2	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invadpt2	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invadpt2	pv.03	\N	\N	2048	1766337e	ea959bf06c9930d83a07559e191a28641efb07ac	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invadpt2	pv.04	\N	\N	2048	8f0e62e0	a967b155f15f8432222fcc78b23121b00c405c5c	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invadpt2	pv.05	\N	\N	2048	19b505e9	6a31a37586782ce421a7d2cffd8f958c00b7b415	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	invadpt2	0.sam	
+game_sample	Retrovaders_v1.02	invadpt2	1.sam	
+game_sample	Retrovaders_v1.02	invadpt2	2.sam	
+game_sample	Retrovaders_v1.02	invadpt2	3.sam	
+game_sample	Retrovaders_v1.02	invadpt2	4.sam	
+game_sample	Retrovaders_v1.02	invadpt2	5.sam	
+game_sample	Retrovaders_v1.02	invadpt2	6.sam	
+game_sample	Retrovaders_v1.02	invadpt2	7.sam	
+game_sample	Retrovaders_v1.02	invadpt2	8.sam	
+game	Retrovaders_v1.02	invdelux	\N	\N	\N	\N	invaders	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invdelux	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invdelux	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invdelux	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invdelux	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	invdelux	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	invdelux	0.sam	
+game_sample	Retrovaders_v1.02	invdelux	1.sam	
+game_sample	Retrovaders_v1.02	invdelux	2.sam	
+game_sample	Retrovaders_v1.02	invdelux	3.sam	
+game_sample	Retrovaders_v1.02	invdelux	4.sam	
+game_sample	Retrovaders_v1.02	invdelux	5.sam	
+game_sample	Retrovaders_v1.02	invdelux	6.sam	
+game_sample	Retrovaders_v1.02	invdelux	7.sam	
+game_sample	Retrovaders_v1.02	invdelux	8.sam	
+game	Retrovaders_v1.02	spaceph	\N	\N	\N	\N	invaders	Space Phantoms	1979	Zilec Games	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv01.bin	\N	\N	1024	de84771d	13a7e5eedb826cca4d59634d38db9fcf5e65b732	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv02.bin	\N	\N	1024	957fc661	ac0edc901d8033619f62967f8eaf53a02947e109	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv03.bin	\N	\N	1024	dbda38b9	73a277616a0c236b07c9ffa66f16a27a78c12d70	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv04.bin	\N	\N	1024	f51544a5	368411a2dadaebcbb4d5b6cf6c2beec036ce817f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv05.bin	\N	\N	1024	98d02683	f13958df8d385f532e993e4c34569d992904a4ed	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv06.bin	\N	\N	1024	4ec390fd	ade23efde5d55d282fbb28a5f8a1346601501b79	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv07.bin	\N	\N	1024	170862fd	ac64a97b1510ca81d4ef3a5fcf45b7e6c7414914	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv08.bin	\N	\N	1024	511b12cf	08ba43024c8574ded11aa457eca24b72984f5ea9	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv09.bin	\N	\N	1024	af1cd1af	286d77e8556e475b291a3b1a53acaca8b7dc3678	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv10.bin	\N	\N	1024	31b7692e	043880750d134d04311eab55e30ee223977d3d17	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv11.bin	\N	\N	1024	50257351	5c3eb29f36f04b7fb8f0351ccf9c8cfc7587f927	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spaceph	sv12.bin	\N	\N	1024	a2a3366a	87032787450216d378406122effa95ea01145bf7	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	spaceph	0.sam	
+game_sample	Retrovaders_v1.02	spaceph	1.sam	
+game_sample	Retrovaders_v1.02	spaceph	2.sam	
+game_sample	Retrovaders_v1.02	spaceph	3.sam	
+game_sample	Retrovaders_v1.02	spaceph	4.sam	
+game_sample	Retrovaders_v1.02	spaceph	5.sam	
+game_sample	Retrovaders_v1.02	spaceph	6.sam	
+game_sample	Retrovaders_v1.02	spaceph	7.sam	
+game_sample	Retrovaders_v1.02	spaceph	8.sam	
+game	Retrovaders_v1.02	spcenctr	\N	\N	\N	\N	invaders	Space Encounters	1980	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m33.cpu	\N	\N	2048	7458b2db	c4f41efb8a35fd8bebc75bff0111476affe2b34d	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m32.cpu	\N	\N	2048	1b873788	6cdf0d602a65c7efcf8abe149c6172b4c7ab87a1	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m31.cpu	\N	\N	2048	d4319c91	30830595c220f490fe150ad018fbf4671bb71e02	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m30.cpu	\N	\N	2048	9b9a1a45	8023a05c13e8b541f9e2fe4d389e6a2dcd4766ea	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m29.cpu	\N	\N	2048	294d52ce	0ee63413c5caf60d45ae8bef08f6c07099d30f79	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m28.cpu	\N	\N	2048	ce44c923	9d35908de3194c5fe6fc8495ae413fa722018744	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m27.cpu	\N	\N	2048	098070ab	72ae344591df0174353dc2e3d22daf5a70e2261f	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	spcenctr	4m26.cpu	\N	\N	2048	7f1d1f44	2f4951171a55e7ac072742fa24eceeee6aca7e39	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	spcenctr	0.sam	
+game_sample	Retrovaders_v1.02	spcenctr	1.sam	
+game_sample	Retrovaders_v1.02	spcenctr	2.sam	
+game_sample	Retrovaders_v1.02	spcenctr	3.sam	
+game_sample	Retrovaders_v1.02	spcenctr	4.sam	
+game_sample	Retrovaders_v1.02	spcenctr	5.sam	
+game_sample	Retrovaders_v1.02	spcenctr	6.sam	
+game_sample	Retrovaders_v1.02	spcenctr	7.sam	
+game_sample	Retrovaders_v1.02	spcenctr	8.sam	
+game	Retrovaders_v1.02	maze	\N	\N	\N	\N	invaders	Amazing Maze	1976	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	maze	invaders.h	\N	\N	2048	f2860cff	62b3fd3d04bf9c5dd9b50964374fb884dc0ab79c	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	maze	invaders.g	\N	\N	2048	65fad839	893f0a7621e7df19f777be991faff0db4a9ad571	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	maze	0.sam	
+game_sample	Retrovaders_v1.02	maze	1.sam	
+game_sample	Retrovaders_v1.02	maze	2.sam	
+game_sample	Retrovaders_v1.02	maze	3.sam	
+game_sample	Retrovaders_v1.02	maze	4.sam	
+game_sample	Retrovaders_v1.02	maze	5.sam	
+game_sample	Retrovaders_v1.02	maze	6.sam	
+game_sample	Retrovaders_v1.02	maze	7.sam	
+game_sample	Retrovaders_v1.02	maze	8.sam	
+game	Retrovaders_v1.02	tornbase	\N	\N	\N	\N	invaders	Tornado Baseball	1976	Midway	\N	\N	\N	
+game_rom	Retrovaders_v1.02	tornbase	tb.h	\N	\N	2048	653f4797	feb4c802aa3e0c2a66823cd032496cca5742c883	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	tornbase	tb.g	\N	\N	2048	b63dcdb3	bdaa0985bcb5257204ee10faa11a4e02a38b9ac5	\N	\N	\N	\N	\N	\N	
+game_rom	Retrovaders_v1.02	tornbase	tb.f	\N	\N	2048	215e070c	425915b37e5315f9216707de0850290145f69a30	\N	\N	\N	\N	\N	\N	
+game_sample	Retrovaders_v1.02	tornbase	0.sam	
+game_sample	Retrovaders_v1.02	tornbase	1.sam	
+game_sample	Retrovaders_v1.02	tornbase	2.sam	
+game_sample	Retrovaders_v1.02	tornbase	3.sam	
+game_sample	Retrovaders_v1.02	tornbase	4.sam	
+game_sample	Retrovaders_v1.02	tornbase	5.sam	
+game_sample	Retrovaders_v1.02	tornbase	6.sam	
+game_sample	Retrovaders_v1.02	tornbase	7.sam	
+game_sample	Retrovaders_v1.02	tornbase	8.sam	

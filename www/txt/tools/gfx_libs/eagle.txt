@@ -1,0 +1,14 @@
+
+tool	eagle	gfx_libs	Eagle Library	0.41a	10/08/1999	Eagle is a library which generically enhances graphics. Eagle makes graphics from old arcade games less blocky
+tool_homepage	eagle	http://www.retrofx.com/	bad
+tool_author_link	eagle	dirk_stevens
+tool_emulator_link	eagle	modeler
+tool_emulator_link	eagle	raine
+tool_emulator_link	eagle	raine32
+tool_emulator_link	eagle	raine_beos
+tool_emulator_link	eagle	raine_linux
+tool_emulator_link	eagle	raine_linux_alt
+tool_emulator_link	eagle	system16
+tool_emulator_link	eagle	system16_beta
+tool_emulator_link	eagle	system16_directx
+tool_file	eagle	Library	rfxeagle41a.zip

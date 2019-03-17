@@ -1,0 +1,10 @@
+
+emulator	arcade_party_pak	psx	Arcade_Party_Pak	\N	\N	\N	Arcade Party Pak	-	2000	Playstation	Smash TV, Rampage, Toobin, Super Sprint, 720, Klax	The latest collection that Digital Eclipse has created for the Playstation.	Released
+emulator_homepage	arcade_party_pak	http://www.digitaleclipse.com	\N
+emulator_author_link	arcade_party_pak	midway	\N	author
+
+emulator_features	arcade_party_pak	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	arcade_party_pak	Joypad
+emulator_author_link	arcade_party_pak	digital_eclipse	Development	contributor
+
+emulator_relative_link	arcade_party_pak	arcade_party_pak_pc	port

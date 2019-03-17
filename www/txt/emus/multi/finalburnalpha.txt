@@ -1,0 +1,45 @@
+
+emulator	finalburnalpha	multi	FBA_v0.2.97.07	\N	\N	\N	Final Burn Alpha	0.2.97.07	24/10/2009	Windows	Sega and Capcom 68000 games	Originally called the 'After Burner Emulator', Final Burn soon added support for other Sega games on similar hardware. In addition to those it has also started supporting CPS-2 games and a few of the CPS-1 games. Since the original Final Burn was discontinued by it's author (Dave), the Final Burn Alpha team have continued the project. Now available in Chinese too!	Dormant
+emulator_homepage	finalburnalpha	http://fba.emuunlim.com	\N
+emulator_homepage	finalburnalpha	http://www.barryharris.me.uk/	\N
+emulator_author_link	finalburnalpha	treblewinner	\N	author
+
+emulator_author_link	finalburnalpha	loopmaster	\N	author
+
+emulator_author_link	finalburnalpha	kev	\N	author
+
+emulator_author_link	finalburnalpha	mike_haggar	\N	author
+
+emulator_author_link	finalburnalpha	ayeye	\N	author
+
+emulator_author_link	finalburnalpha	hyper_yagami	\N	author
+
+emulator_library_link	finalburnalpha	doze
+emulator_library_link	finalburnalpha	a68k
+emulator_tool_link	finalburnalpha	mingw
+emulator_tool_link	finalburnalpha	msvc
+emulator_tool_link	finalburnalpha	zlib
+emulator_features	finalburnalpha	Yes	Yes	Yes	No	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	finalburnalpha	Keyboard
+emulator_controller	finalburnalpha	Joystick
+emulator_relative_link	finalburnalpha	finalburn	predecessor
+
+emulator_relative_link	finalburnalpha	fbax	port
+
+emulator_file	finalburnalpha	Emulator (Unicode)	fba_029707.zip
+emulator_file	finalburnalpha	Source	fba_src_029707.zip
+emulator_file	finalburnalpha	Cygwin Libraries (needed when compiling)	mingw-cygwin-libs.zip
+emulator_file	finalburnalpha	French language pack	francais.flt
+emulator_file	finalburnalpha	Brazilian language pack	Brazilian_Portugese.flt
+emulator_file	finalburnalpha	Previews pack	fba_previews.zip
+emulator_file	finalburnalpha	Previews pack (update for 0.2.96.66)	fba_previews_update_029666.zip
+emulator_file	finalburnalpha	Previews pack (update for 0.2.96.67)	fba_previews_update_029667.zip
+emulator_file	finalburnalpha	Previews pack (update for 0.2.96.68)	fba_previews_update_029668.zip
+emulator_file	finalburnalpha	Previews pack (update for 0.2.96.71)	fba_previews_update_029671.zip
+emulator_file	finalburnalpha	Previews pack - CMPro datafile	fba_previews_dat.zip
+emulator_file	finalburnalpha	Titles pack	fba_titles.zip
+emulator_file	finalburnalpha	Titles pack (update for 0.2.96.66)	fba_titles_update_029666.zip
+emulator_file	finalburnalpha	Titles pack (update for 0.2.96.67)	fba_titles_update_029667.zip
+emulator_file	finalburnalpha	Titles pack (update for 0.2.96.68)	fba_titles_update_029668.zip
+emulator_file	finalburnalpha	Titles pack (update for 0.2.96.71)	fba_titles_update_029671.zip
+emulator_file	finalburnalpha	Titles pack - CMPro datafile	fba_titles_dat.zip

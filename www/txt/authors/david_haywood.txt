@@ -1,0 +1,11 @@
+
+author	david_haywood	David Haywood (Haze)	\N
+author_email	david_haywood	neohaze@hotmail.com
+author_email	david_haywood	hazemamewip@hotmail.com
+author_homepage	david_haywood	http://haze.mameworld.info/	\N
+author_homepage	david_haywood	http://haze.mame.net/	\N
+author_emulator_link	david_haywood	mame	contributor
+
+author_emulator_link	david_haywood	raine	contributor
+
+author_emulator_link	david_haywood	sega_system_c2	contributor

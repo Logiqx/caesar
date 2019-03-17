@@ -1,0 +1,18 @@
+
+emulator	retrofx_gng	single	empty	\N	\N	\N	RetroFX - Ghosts 'n Goblins	Demo	Unreleased	DOS	Ghosts 'n Goblins (Capcom)	The first game to use the RetroFX library. Never released but from the look of the home page it was coming along well.	Discontinued
+emulator_homepage	retrofx_gng	http://www.retrofx.com/	bad
+emulator_author_link	retrofx_gng	dirk_stevens	\N	author
+
+emulator_tool_link	retrofx_gng	retrofx
+emulator_features	retrofx_gng	Yes	No	?	?	No	No	?	No	?	?	No	?	?
+emulator_controller	retrofx_gng	Keyboard
+emulator_controller	retrofx_gng	Joystick
+emulator_author_link	retrofx_gng	andre_boule	Musician	contributor
+
+emulator_author_link	retrofx_gng	anthony_sisneros	Graphics Artist	contributor
+
+emulator_author_link	retrofx_gng	martin_freij	Musician	contributor
+
+emulator_author_link	retrofx_gng	rene_boutin	Graphics Artist	contributor
+
+emulator_author_link	retrofx_gng	ronnie_viklund	Graphics Artist	contributor

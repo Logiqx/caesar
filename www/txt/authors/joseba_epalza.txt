@@ -1,0 +1,14 @@
+
+author	joseba_epalza	Joseba Epalza	\N
+author_email	joseba_epalza	jepalza@arrakis.es
+author_emulator_link	joseba_epalza	cityconnection	author
+
+author_emulator_link	joseba_epalza	ladybug	author
+
+author_emulator_link	joseba_epalza	mrdo	author
+
+author_emulator_link	joseba_epalza	docastle	author
+
+author_emulator_link	joseba_epalza	dorun	author
+
+author_emulator_link	joseba_epalza	dowild	author

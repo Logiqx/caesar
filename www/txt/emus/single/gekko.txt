@@ -1,0 +1,9 @@
+
+emulator	gekko	single	Gekko_Teaser	\N	\N	\N	Gekko	Teaser	29/04/1998	Windows	NAM-1975 (SNK)	The first ever Neo-Geo emulator but shortly after it's release, J&ouml;han requested it be removed from web sites and he disappeared from the emulation scene!	Dormant
+emulator_homepage	gekko	http://www.c64.org/~edrac/NeoGeo.html	bad
+emulator_author_link	gekko	johan_kohler	\N	author
+
+emulator_tool_link	gekko	msvc
+emulator_features	gekko	No	No	No	No	No	No	No	No	No	No?	\N	\N	\N
+emulator_controller	gekko	Keyboard
+emulator_file	gekko	Emulator	gekko.zip

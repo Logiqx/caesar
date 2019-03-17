@@ -1,0 +1,8 @@
+
+emulator	atari_vector_sim	mac	Atari_Vector_Simulator_v2.1	\N	\N	\N	Atari Vector Simulator	2.1	18/01/1997	Mac	Asteroids, Asteroids Deluxe and Lunar Lander (all Atari)	Near perfect emulation but missing sound	Dormant
+emulator_homepage	atari_vector_sim	http://ns.echo-sol.com/asteroids/	bad
+emulator_author_link	atari_vector_sim	steve_green	\N	author
+
+emulator_features	atari_vector_sim	No	No	?	?	No	No	?	No	No	Yes	No	No	No
+emulator_controller	atari_vector_sim	Keyboard
+emulator_file	atari_vector_sim	Emulator	atarivecsim.sit.hqx

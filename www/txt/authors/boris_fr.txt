@@ -1,0 +1,8 @@
+
+author	boris_fr	Boris	\N
+author_email	boris_fr	boris_fr@yahoo.com
+author_emulator_link	boris_fr	aemu	author
+
+author_emulator_link	boris_fr	phoenix_ce	author
+
+author_emulator_link	boris_fr	invaders_ce	author

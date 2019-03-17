@@ -1,0 +1,8 @@
+
+emulator	pda_legendary_wings	wince	PDA_Legendary_Wings	\N	\N	\N	Legendary Wings (PDA)	-	December 2001	WinCE	Legendary Wings (Capcom)	A commercial Capcom title for your PDA.	Dormant
+emulator_homepage	pda_legendary_wings	http://www.capcom.com/pc.xpml	\N
+emulator_homepage	pda_legendary_wings	http://hive.speedhost.com/	\N
+emulator_author_link	pda_legendary_wings	larry_bank	\N	author
+
+emulator_features	pda_legendary_wings	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_legendary_wings	Stylus

@@ -1,0 +1,10 @@
+
+emulator	kong	multi	Kong_Emulator_v0.2	\N	\N	\N	Kong Emulator	0.2	26/11/96	DOS	Donkey Kong, Donkey Kong Jr. and Mario Bros	\N	Dormant
+emulator_homepage	kong	\N	none
+emulator_author_link	kong	gary_shepherdson	\N	author
+
+emulator_library_link	kong	z80
+emulator_tool_link	kong	borlandc
+emulator_features	kong	No	No	No	No	No	No	No	No	No	No	No	No	No
+emulator_controller	kong	Keyboard
+emulator_file	kong	Emulator	kong_020.zip

@@ -1,0 +1,7 @@
+
+emulator	ultracade_capcom_2	commercial	Ultracade_-_Capcom_Classics_2	\N	\N	\N	Ultracade - Capcom Classics 2	-	2000	?	8 Capcom classics	Game Pack 3 for the Ultracade system.	Discontinued
+emulator_homepage	ultracade_capcom_2	http://www.ultracade.com/	\N
+emulator_author_link	ultracade_capcom_2	ultracade	\N	author
+
+emulator_features	ultracade_capcom_2	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	ultracade_capcom_2	Joystick

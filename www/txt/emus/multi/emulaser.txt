@@ -1,0 +1,9 @@
+
+emulator	emulaser	multi	Laserdisc	\N	\N	\N	emuLaser	2.0	07/11/1999	Windows	Dragon's Lair and Space Ace (both Cinematronics)	Requires a laserdisc player and the game laserdisc. Snapshots from the emuLaser website.	Dormant
+emulator_homepage	emulaser	http://members.aol.com/lasergames/emuLaser.html	\N
+emulator_author_link	emulaser	center_ice	\N	author
+
+emulator_tool_link	emulaser	delphi
+emulator_features	emulaser	yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	emulaser	Keyboard
+emulator_file	emulaser	Emulator	emulaser.zip

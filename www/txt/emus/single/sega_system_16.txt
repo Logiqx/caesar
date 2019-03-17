@@ -1,0 +1,13 @@
+
+emulator	sega_system_16	single	Sega_System_16_v1.0	\N	\N	\N	Sega System 16 Emulator	1.0	21/07/2000	DOS	Shinobi (Sega)	Currently only emulates Shinobi but other System 16 games are planned.	Dormant
+emulator_homepage	sega_system_16	\N	none
+emulator_author_link	sega_system_16	charles_mac_donald	\N	author
+
+emulator_library_link	sega_system_16	raze
+emulator_library_link	sega_system_16	starscream
+emulator_tool_link	sega_system_16	djgpp
+emulator_tool_link	sega_system_16	nasm
+emulator_tool_link	sega_system_16	allegro
+emulator_features	sega_system_16	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sega_system_16	Keyboard
+emulator_file	sega_system_16	Emulator + Source	s16emu.zip

@@ -1,0 +1,11 @@
+
+emulator	vastar	single	VASTAR_Emulator_v0.51	\N	\N	\N	VASTAR Emulator	0.51	21/01/1998	DOS	Vastar (Sesame)	Grew up to become JFF	Superceded
+emulator_homepage	vastar	http://www.retroplay.com/Mecenate/jff/	bad
+emulator_author_link	vastar	roberto_ventura	\N	author
+
+emulator_library_link	vastar	maze
+emulator_features	vastar	No	No	No	No	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	vastar	Keyboard
+emulator_relative_link	vastar	jff	successor
+
+emulator_file	vastar	Emulator	vastar51.zip

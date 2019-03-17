@@ -1,0 +1,14 @@
+
+emulator	epp	multi	E++_v1.03	\N	\N	\N	E++	1.03	02/09/1997	DOS	Space Invaders, Phoenix, Pleiads, Lunar Rescue and Centipede	Also emulates the Sinclair Spectrum!	No longer developed
+emulator_homepage	epp	http://www.guybrush.demon.co.uk/e/	\N
+emulator_author_link	epp	james_sutherland	\N	author
+
+emulator_library_link	epp	z80
+emulator_library_link	epp	m6502
+emulator_tool_link	epp	djgpp
+emulator_tool_link	epp	allegro
+emulator_tool_link	epp	seal
+emulator_features	epp	Some Games	No	No	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	epp	Keyboard
+emulator_controller	epp	Joystick
+emulator_file	epp	Emulator	e103.zip

@@ -1,0 +1,12 @@
+
+emulator	millipede_emulator	single	Millipede_Emulator_v0.2	\N	\N	\N	Millipede Emulator	0.2	21/03/1997	DOS	Millipede (Atari)	No throttle so it runs too fast on modern machines.	Discontinued
+emulator_homepage	millipede_emulator	\N	none
+emulator_author_link	millipede_emulator	ivan_mackintosh	\N	author
+
+emulator_library_link	millipede_emulator	multi6502
+emulator_tool_link	millipede_emulator	djgpp
+emulator_tool_link	millipede_emulator	allegro
+emulator_features	millipede_emulator	No	C	No	No	No	No	Yes	No	No	No	\N	\N	\N
+emulator_controller	millipede_emulator	Keyboard
+emulator_controller	millipede_emulator	Joystick
+emulator_file	millipede_emulator	Emulator	Millipede Emulator v0.2.zip

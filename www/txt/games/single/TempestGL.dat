@@ -1,0 +1,109 @@
+game	TempestGL	tempest	\N	\N	\N	\N	\N	Tempest (rev 3)	1980	Atari	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.113	\N	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.114	\N	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.115	\N	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.316	\N	\N	2048	aeb0f7e9	a5cc25015b98692673cfc1c7c2e9634efd750870	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.217	\N	\N	2048	ef2eb645	b1a2c969e8897e335d5354de6ae04a65d4b2a1e4	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.118	\N	\N	2048	beb352ab	f213166d3970e0bd0f29d8dea8d6afa6990cce38	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.119	\N	\N	2048	a4de050f	ea302e43a313a5a18115e74ddbaaedde0fbecda7	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.120	\N	\N	2048	35619648	48f1e8bed7ec6afa0b4c549a30e5ec331c071e40	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.121	\N	\N	2048	73d38e47	9980606376a79ba94f8e2a325871a6c8d10d83fc	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.222	\N	\N	2048	707bd5c3	2f0af6fb7154c244c794f7247e5c16a1e06ddf7d	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.123	\N	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest	136002.124	\N	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game	TempestGL	tempest1	\N	\N	tempest	tempest	\N	Tempest (rev 1)	1980	Atari	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.113	136002.113	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.114	136002.114	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.115	136002.115	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.116	\N	\N	2048	7356896c	a013ede292189a8f5a907de882ee1a573d784b3c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.117	\N	\N	2048	55952119	470d914fa52fce3786cb6330889876d3547dca65	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.118	136002.118	\N	2048	beb352ab	f213166d3970e0bd0f29d8dea8d6afa6990cce38	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.119	136002.119	\N	2048	a4de050f	ea302e43a313a5a18115e74ddbaaedde0fbecda7	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.120	136002.120	\N	2048	35619648	48f1e8bed7ec6afa0b4c549a30e5ec331c071e40	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.121	136002.121	\N	2048	73d38e47	9980606376a79ba94f8e2a325871a6c8d10d83fc	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.122	\N	\N	2048	796a9918	c862a0d4ea330161e4c3cc8e5e9ad38893fffbd4	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.123	136002.123	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest1	136002.124	136002.124	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game	TempestGL	tempest2	\N	\N	tempest	tempest	\N	Tempest (rev 2)	1980	Atari	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.113	136002.113	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.114	136002.114	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.115	136002.115	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.116	\N	\N	2048	7356896c	a013ede292189a8f5a907de882ee1a573d784b3c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.217	136002.217	\N	2048	ef2eb645	b1a2c969e8897e335d5354de6ae04a65d4b2a1e4	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.118	136002.118	\N	2048	beb352ab	f213166d3970e0bd0f29d8dea8d6afa6990cce38	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.119	136002.119	\N	2048	a4de050f	ea302e43a313a5a18115e74ddbaaedde0fbecda7	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.120	136002.120	\N	2048	35619648	48f1e8bed7ec6afa0b4c549a30e5ec331c071e40	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.121	136002.121	\N	2048	73d38e47	9980606376a79ba94f8e2a325871a6c8d10d83fc	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.222	136002.222	\N	2048	707bd5c3	2f0af6fb7154c244c794f7247e5c16a1e06ddf7d	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.123	136002.123	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempest2	136002.124	136002.124	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game	TempestGL	temptube	\N	\N	tempest	tempest	\N	Tempest Tubes	1980	hack	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.113	136002.113	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.114	136002.114	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.115	136002.115	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.316	136002.316	\N	2048	aeb0f7e9	a5cc25015b98692673cfc1c7c2e9634efd750870	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.217	136002.217	\N	2048	ef2eb645	b1a2c969e8897e335d5354de6ae04a65d4b2a1e4	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	tube.118	\N	\N	2048	cefb03f0	41ddfa4991fa49a31d4740a04551556acca66196	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.119	136002.119	\N	2048	a4de050f	ea302e43a313a5a18115e74ddbaaedde0fbecda7	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.120	136002.120	\N	2048	35619648	48f1e8bed7ec6afa0b4c549a30e5ec331c071e40	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.121	136002.121	\N	2048	73d38e47	9980606376a79ba94f8e2a325871a6c8d10d83fc	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.222	136002.222	\N	2048	707bd5c3	2f0af6fb7154c244c794f7247e5c16a1e06ddf7d	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.123	136002.123	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	temptube	136002.124	136002.124	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game	TempestGL	aliensa	\N	\N	tempest	tempest	\N	Aliens	1981	Atari	\N	\N	\N	
+game_comment	TempestGL	aliensa	 CRC information from http://www.ionpool.net/arcade/atari/roms.html	
+game_rom	TempestGL	aliensa	aliens_r3.bin	\N	\N	2048	6cabcd08	e3950de50f3dfbc4d4d2f4fe26625d8ef94c0819	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_r1.bin	\N	\N	2048	555c3070	032f03af23c7ccac8a2bf50c3c646e141921ffee	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_p1.bin	\N	\N	2048	7c10adbd	38579128a90bff4a7a4ae46d6aaa42118b8bc218	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_n3.bin	\N	\N	2048	5c8fd38b	bb0d6bd062eba53b5d64b3f444d5ce0a34728bf5	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_n1.bin	\N	\N	2048	bd98c5f3	268487d9cf46b4b7b49eab7420d078bf676e636c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_l1.bin	\N	\N	2048	cd246ac2	de2e6fe2e72c092c3874e797fc302a71dbf57710	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_k1.bin	\N	\N	2048	0ac96e87	37461e84e6f46516c25dbf4ddb2ffd65877445c0	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_j1.bin	\N	\N	2048	5487d531	c95f037151b824345af03f27a6c3c7eb8a899b2c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_d1.bin	\N	\N	2048	337e21f6	7adadeaa975e22f0b20e8f1fb6ad68b5c3934133	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_f1.bin	\N	\N	2048	4d2aabb0	31106a1fc22d2a19866f07b8d6c6f4bf76007909	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_e1.bin	\N	\N	2048	337e21f6	7adadeaa975e22f0b20e8f1fb6ad68b5c3934133	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	aliensa	aliens_h1.bin	\N	\N	2048	a503f54a	91ebf9f69a183a04a5bf55fcdd9e191523bb66bb	\N	\N	\N	\N	\N	\N	
+game	TempestGL	vortex	\N	\N	tempest	tempest	\N	Vortex	1981	Atari	\N	\N	\N	
+game_comment	TempestGL	vortex	 CRC information from http://www.ionpool.net/arcade/atari/roms.html	
+game_rom	TempestGL	vortex	e1.bin	\N	\N	2048	11861be3	a35797c649e8286c844cee6dac86ac50f4fbd669	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	f1.bin	\N	\N	2048	1d251111	2912a21dc708231e28d6164e54e593a8300b9c4a	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	h1.bin	\N	\N	2048	937a9859	336b25291533d19294f1ced730bbf20971849adf	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	j1.bin	\N	\N	2048	79481246	c5362670fd29ef1432f8e626323da395d6e8a675	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	k1.bin	\N	\N	2048	390f872a	c5463ea2d2307e21c941b5b459e3652c12154609	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	lm1.bin	\N	\N	2048	515760dd	773f06c9a64e72f9d3d8a5c622bf3ec2b4ba678d	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	mn1.bin	\N	\N	2048	c6c41c68	9323c07fc80a947142dde008c53f5e8c0b0c572d	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	n3.bin	\N	\N	2048	29c6a1cb	290702a1c0942a68e288b37963e51eba02177a3f	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	p1.bin	\N	\N	2048	3c2ff130	32ebabcb2cbd7aab5e29de2b873f02ed78776ae6	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	r1.bin	\N	\N	2048	67cafbb1	467515733d843398e6fe29661002536a1e6c8fc9	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	r3.bin	\N	\N	2048	7fbe5e21	e5de6c3af82e64444b0ddcda559e9cb4fbf6c1da	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vortex	d1.bin	\N	\N	2048	3aff3417	3b7c31f01b7467757ec85e98a17038e5df5720bb	\N	\N	\N	\N	\N	\N	
+game	TempestGL	vectorb	\N	\N	tempest	tempest	\N	Vector Breakout	1999	Clay Cowgill	\N	\N	\N	
+game_comment	TempestGL	vectorb	 CRC information from http://www.ionpool.net/arcade/atari/roms.html	
+game_rom	TempestGL	vectorb	136002.113	136002.113	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	136002.114	136002.114	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	136002.115	136002.115	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	136002.116	\N	\N	2048	7356896c	a013ede292189a8f5a907de882ee1a573d784b3c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	136002.117	\N	\N	2048	55952119	470d914fa52fce3786cb6330889876d3547dca65	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	136002.118	136002.118	\N	2048	beb352ab	f213166d3970e0bd0f29d8dea8d6afa6990cce38	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_r3.bin	\N	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_r1.bin	\N	\N	2048	1ae2dd53	b908ba6b59195aea853380a56a243aa8fa2fba71	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_n3.bin	\N	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_h1.bin	\N	\N	2048	cd58fc11	060e31e55183ccef67a1adc91fb48c22424a4ba5	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_d1.bin	\N	\N	2048	6fd3efe5	d195d08984ad8797607bc1989e8a606d51547c68	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_e1.bin	\N	\N	2048	9974b9a5	6ecc6f72070895bb15992977348f58835233911f	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	vectorb	vb_f1.bin	\N	\N	2048	44d611d8	82cd63fc9067ea1f00feeffbee66e7d750cab7e5	\N	\N	\N	\N	\N	\N	
+game	TempestGL	tempestm	\N	\N	tempest	tempest	\N	Tempest (Multi-game)	2001	Clay Cowgill	\N	\N	\N	
+game_comment	TempestGL	tempestm	 CRC information from http://www.ionpool.net/arcade/atari/roms.html	
+game_rom	TempestGL	tempestm	136002.113	136002.113	\N	2048	65d61fe7	38a1e8a8f65b7887cf3e190269fe4ce2c6f818aa	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	136002.114	136002.114	\N	2048	11077375	ed8ff0ca969da6672a7683b93d4fcf2935a0d903	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	136002.115	136002.115	\N	2048	f3e2827a	bd04fcfbbba995e08c3144c1474fcddaaeb1c700	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	136002.116	\N	\N	2048	7356896c	a013ede292189a8f5a907de882ee1a573d784b3c	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	136002.117	\N	\N	2048	55952119	470d914fa52fce3786cb6330889876d3547dca65	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	136002.118	136002.118	\N	2048	beb352ab	f213166d3970e0bd0f29d8dea8d6afa6990cce38	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_r3.bin	\N	\N	2048	c16ec351	a30a3662c740810c0f20e3712679606921b8ca06	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_d1.bin	\N	\N	2048	8a6633fb	b143a5d2019f24666b350b40b0dab2924bb9c7c0	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_n3.bin	\N	\N	2048	29f7e937	686c8b9b8901262e743497cee7f2f7dd5cb3af7e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_f1.bin	\N	\N	2048	12f62746	37356b5738c27ffe4c38f1b6cf99ae21441d8e8e	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_e1.bin	\N	\N	2048	2eedfdf6	2ed494bd8610bebd07284289ca8b7059fd805300	\N	\N	\N	\N	\N	\N	
+game_rom	TempestGL	tempestm	menu_r1.bin	\N	\N	2048	1d8f194a	c77f6b83f5c498c0f2d5372089a4604913a4aad5	\N	\N	\N	\N	\N	\N	

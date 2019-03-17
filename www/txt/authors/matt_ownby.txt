@@ -1,0 +1,10 @@
+
+author	matt_ownby	Matt Ownby	\N
+author_email	matt_ownby	matt@rulecity.com
+author_emulator_link	matt_ownby	daphne	author
+
+author_emulator_link	matt_ownby	daphne_beos	author
+
+author_emulator_link	matt_ownby	daphne_linux	author
+
+author_emulator_link	matt_ownby	daphne_mac	author

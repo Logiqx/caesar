@@ -1,0 +1,7 @@
+
+emulator	namco_history_vol_3	commercial	Namco_History_Vol_3	\N	\N	\N	Namco History Vol 3	-	1998	Windows	PuckMan, Super Pac-Man, Ms. Pac-Man, Pac + Pal, Dig Dug, Dig Dug II	No playable demos available for this volume.	Released
+emulator_homepage	namco_history_vol_3	http://www.namco.co.jp/home/cs/pc/nh_vol3/	\N
+emulator_author_link	namco_history_vol_3	namco	\N	author
+
+emulator_features	namco_history_vol_3	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	namco_history_vol_3	Keyboard

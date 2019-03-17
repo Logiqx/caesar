@@ -1,0 +1,15 @@
+
+emulator	pengo	single	Pengo_Arcade_Machine_Emulator_v0.5	\N	\N	\N	Pengo Arcade Machine Emulator	v0.5	29/01/1997	DOS	Pengo (Sega)	One of the single emulators Nicola wrote before starting MAME.	Discontinued
+emulator_homepage	pengo	\N	none
+emulator_author_link	pengo	nicola_salmoria	\N	author
+
+emulator_library_link	pengo	z80em
+emulator_tool_link	pengo	allegro
+emulator_tool_link	pengo	seal
+emulator_tool_link	pengo	djgpp
+emulator_features	pengo	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	pengo	Keyboard
+emulator_controller	pengo	Joystick
+emulator_author_link	pengo	sergio_munoz	Information about the sound hardware and colours	contributor
+
+emulator_file	pengo	Emulator and source	pengo5.zip

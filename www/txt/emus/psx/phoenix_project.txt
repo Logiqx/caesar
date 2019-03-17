@@ -1,0 +1,8 @@
+
+emulator	phoenix_project	psx	The_Phoenix_Project_v2.10	\N	\N	\N	The Phoenix Project	2.10	23/09/2000	Playstation	Phoenix and Pleiads variants	Runs full screen and full speed.	Dormant
+emulator_homepage	phoenix_project	http://doubledutchdesigns.co.uk/	\N
+emulator_author_link	phoenix_project	double_dutch_designs	\N	author
+
+emulator_features	phoenix_project	Yes	No	No	No	No	No	No	No	N/A	Yes	\N	\N	Yes
+emulator_controller	phoenix_project	Joypad
+emulator_file	phoenix_project	Emulator	phoenix.zip

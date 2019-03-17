@@ -1,0 +1,8 @@
+
+emulator	laser_ipaq	wince	dummy	\N	\N	\N	Laser (Compaq Ipaq)	0.9	30/10/2000	WinCE	Midway 8080 based games like space invaders	Compaq Ipaq port of Laser	Dormant
+emulator_homepage	laser_ipaq	http://www.laseremu.com/	\N
+emulator_author_link	laser_ipaq	domenico_dato	\N	author
+
+emulator_features	laser_ipaq	No	No	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laser_ipaq	Buttons
+emulator_relative_link	laser_ipaq	laser	port_of

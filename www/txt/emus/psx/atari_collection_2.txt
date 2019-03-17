@@ -1,0 +1,10 @@
+
+emulator	atari_collection_2	psx	Arcades_Greatest_Hits_PSX_-_The_Atari_Collection_2	\N	\N	\N	Arcades Greatest Hits: The Atari Collection 2	-	1998	Playstation	Paperboy, Gauntlet, Road Blasters, Crystal Castles, Marble Madness, Millipede	The second Atari collection that Digital Eclipse created for the Playstation.	Released
+emulator_homepage	atari_collection_2	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_collection_2	midway	\N	author
+
+emulator_features	atari_collection_2	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_collection_2	Joypad
+emulator_author_link	atari_collection_2	digital_eclipse	Development	contributor
+
+emulator_relative_link	atari_collection_2	atari_collection_2_pc	port

@@ -1,0 +1,12 @@
+
+emulator	slutte	single	Slutte!_(Bligh_version)	\N	\N	\N	Slutte!	Bligh	30/03/1998	DOS	Bionic Commando (Capcom)	Runs too fast on my P233MMX due to it not have speed throttling	Dormant
+emulator_homepage	slutte	http://www.geocities.com/SiliconValley/Haven/9015/	bad
+emulator_author_link	slutte	steven_frew	\N	author
+
+emulator_library_link	slutte	starscream
+emulator_tool_link	slutte	djgpp
+emulator_tool_link	slutte	allegro
+emulator_features	slutte	No	No	Yes	Yes	No	No	Yes	No	No	No	\N	\N	\N
+emulator_controller	slutte	Keyboard
+emulator_controller	slutte	Joystick
+emulator_file	slutte	Emulator	slttblgh.zip

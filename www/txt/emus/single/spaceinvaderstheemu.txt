@@ -1,0 +1,11 @@
+
+emulator	spaceinvaderstheemu	single	Space_Invaders_-_The_Emulator_v1.0	\N	\N	\N	Space Invaders - The Emulator	1.0	19/02/1997	DOS	Space Invaders (Taito)	Basic space invaders emulator	Dormant
+emulator_homepage	spaceinvaderstheemu	http://thunder.indstate.edu/~neider	bad
+emulator_author_link	spaceinvaderstheemu	glenn_neidermeier	\N	author
+
+emulator_library_link	spaceinvaderstheemu	z80
+emulator_tool_link	spaceinvaderstheemu	allegro
+emulator_tool_link	spaceinvaderstheemu	djgpp
+emulator_features	spaceinvaderstheemu	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	spaceinvaderstheemu	Keyboard
+emulator_file	spaceinvaderstheemu	Emulator and source	Space Invaders The Emulator V1.0 [Dos].zip

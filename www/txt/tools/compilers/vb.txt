@@ -1,0 +1,15 @@
+
+tool	vb	compilers	VB (Visual Basic)	6.0	?	Part of the Visual Studio development environment
+tool_homepage	vb	http://msdn.microsoft.com/vbasic/	\N
+tool_author_link	vb	microsoft
+tool_emulator_link	vb	discretesim
+tool_emulator_link	vb	domino
+tool_emulator_link	vb	invadersaver
+tool_emulator_link	vb	milliemu
+tool_emulator_link	vb	pacsaver
+tool_emulator_link	vb	pcslomo
+tool_emulator_link	vb	vbemu
+tool_emulator_link	vb	ssvbemu
+tool_emulator_link	vb	vbpac
+tool_emulator_link	vb	visualam
+tool_library_link	vb	m6502_slomo

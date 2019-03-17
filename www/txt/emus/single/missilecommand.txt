@@ -1,0 +1,9 @@
+
+emulator	missilecommand	single	Missile_Command_Emulator_v1.0	\N	\N	\N	Missile Command Emulator	1.0	06/01/1997	DOS	Missile Command (Atari)	Colours seem a little dark and not an ideal video mode (bad aspect ratio)	Dormant
+emulator_homepage	missilecommand	http://www.aracnet.com/~hafner/	\N
+emulator_author_link	missilecommand	tom_hafner	\N	author
+
+emulator_tool_link	missilecommand	borlandc
+emulator_features	missilecommand	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	missilecommand	Mouse
+emulator_file	missilecommand	Emulator	msslcmd.zip

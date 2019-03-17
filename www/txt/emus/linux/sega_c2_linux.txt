@@ -1,0 +1,16 @@
+
+emulator	sega_c2_linux	linux	dummy	\N	\N	\N	Sega System C2 Emulator (Linux)	0.2b	21/09/2000	Linux	Sega System C2 Games	Linux port of the Sega System C2 Emulator.	Dormant
+emulator_homepage	sega_c2_linux	http://www.emulinks.de/	bad
+emulator_author_link	sega_c2_linux	ulrich_hecht	\N	author
+
+emulator_library_link	sega_c2_linux	starscream
+emulator_tool_link	sega_c2_linux	djgpp
+emulator_tool_link	sega_c2_linux	allegro
+emulator_tool_link	sega_c2_linux	seal
+emulator_features	sega_c2_linux	Yes	Yes	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	sega_c2_linux	Keyboard
+emulator_controller	sega_c2_linux	Joystick
+emulator_relative_link	sega_c2_linux	sega_system_c2	port_of
+
+emulator_file	sega_c2_linux	Emulator	c2emu_bin.tar.gz
+emulator_file	sega_c2_linux	Source	c2emu_src.tar.gz

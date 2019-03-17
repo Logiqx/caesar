@@ -1,0 +1,18 @@
+
+tool	sdl	gfx_libs	Simple DirectMedia Layer (SDL)	1.2.9	28/08/2005	Simple DirectMedia Layer is a cross-platform multimedia library designed to provide fast access to the graphics framebuffer and audio device. It is used by MPEG playback software, emulators, and many popular games, including the award winning Linux port of "Civilization: Call To Power." Simple DirectMedia Layer supports Linux, Win32, BeOS, MacOS, Solaris, IRIX, and FreeBSD.
+tool_homepage	sdl	http://www.libsdl.org/	\N
+tool_author_link	sdl	sam_lantinga
+tool_emulator_link	sdl	dice
+tool_emulator_link	sdl	dsp
+tool_emulator_link	sdl	gngeo
+tool_emulator_link	sdl	mikie
+tool_emulator_link	sdl	pacifi3d
+tool_emulator_link	sdl	pacifi3d_linux
+tool_emulator_link	sdl	raine
+tool_emulator_link	sdl	raine32
+tool_emulator_link	sdl	raine_linux
+tool_emulator_link	sdl	sega_system_24_emulator
+tool_emulator_link	sdl	siemu
+tool_emulator_link	sdl	siemu_beos
+tool_emulator_link	sdl	siemu_linux
+tool_file	sdl	Development libraries for MinGW	SDL-devel-1.2.9-mingw32.tar.gz

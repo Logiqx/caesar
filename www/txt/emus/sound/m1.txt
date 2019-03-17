@@ -1,0 +1,13 @@
+
+emulator	m1	sound	dummy	\N	\N	\N	M1	0.7.8a6	11/11/2007	Windows	Lots of arcade games!	A sound emulator that emulates a huge number of systems (over 1000 games).	Active
+emulator_homepage	m1	http://rbelmont.mameworld.info/?page_id=223	\N
+emulator_homepage	m1	http://www.emuhype.com/	\N
+emulator_author_link	m1	richter_belmont	\N	author
+
+emulator_library_link	m1	musashi
+emulator_features	m1	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	m1	Keyboard
+emulator_relative_link	m1	m1_linux	port_of
+
+emulator_file	m1	Emulator	m1078a6-w32.zip
+emulator_file	m1	SDK (Source 0.7.4)	m1074bsdk-win32.zip

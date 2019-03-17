@@ -1,0 +1,9 @@
+
+emulator	arcem	amiga	ArcEm_v0.3	\N	\N	\N	ArcEm	0.3	13/10/1997	Amiga	Space Invaders (Midway) and 4 other games on similar hardware	So far as I know, the only arcade emulator on the Amiga other than MAME	Dormant
+emulator_homepage	arcem	http://www.gauss.demon.co.uk/amiga.html	bad
+emulator_author_link	arcem	andrew_bennett	\N	author
+
+emulator_features	arcem	No	No	No	No	No	No	?	No	No	?	\N	\N	\N
+emulator_controller	arcem	Keyboard
+emulator_controller	arcem	Joystick
+emulator_file	arcem	Emulator	arcem03.lha

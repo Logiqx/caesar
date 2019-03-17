@@ -1,0 +1,10 @@
+
+emulator	dorun	single	Mr._Do!_Run_Run_v1.2	\N	\N	\N	Mr. Do! Run Run Emulator	1.2	13/10/1996	DOS	Mr. Do! Run Run (Universal)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	dorun	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	dorun	joseba_epalza	\N	author
+
+emulator_library_link	dorun	z80
+emulator_tool_link	dorun	ms
+emulator_features	dorun	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	dorun	Keyboard
+emulator_file	dorun	Emulator	dorun12.zip

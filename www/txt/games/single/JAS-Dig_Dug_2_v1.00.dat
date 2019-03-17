@@ -1,0 +1,11 @@
+game	JAS-Dig_Dug_2_v1.00	digdug2	\N	\N	\N	\N	\N	Dig Dug II (set 1)	1985	Namco	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-3.bin	\N	\N	16384	be7ec80b	a053274ffbf3200e9b89a8be1bd91744acb4a823	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-1.bin	\N	\N	16384	5c77c0d4	56709e5db1686fd996d21c1005accf34e2d863e1	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-4.bin	\N	\N	8192	737443b1	0e46204089cc6e5ffab0d2a62f9a1728f8c35948	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddclr-5b.bin	\N	\N	32	9b169db5	77e840d10ab59708a051c3b15305b33d431ee06d	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddclr-4c.bin	\N	\N	256	55a88695	bd6bd641c9f220b6a2cc414a1117d5c089571400	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddclr-5k.bin	\N	\N	256	1525a4d1	bbedb0cf5957671fca1229d38cb33086356813e1	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddsnd.bin	\N	\N	256	e0074ee2	f4f02977130110be52f4dd82fc3c0d02f45778b9	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-3m.bin	\N	\N	16384	df1f4ad8	004fba630018dbf03c4b0e284c98077e19fface3	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-3n.bin	\N	\N	16384	ccadb3ea	77d8d8e6039272f73e63c8f76084138ec613365a	\N	\N	\N	\N	\N	\N	
+game_rom	JAS-Dig_Dug_2_v1.00	digdug2	ddug2-3b.bin	\N	\N	4096	afcb4509	c9a54df22b0b92efbe7417a00200587225906b46	\N	\N	\N	\N	\N	\N	

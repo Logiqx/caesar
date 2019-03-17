@@ -1,0 +1,10 @@
+
+library	mathbox	cpu	Atari Mathbox Emulator	1.1	23/11/1997	\N	Atari Mathbox	Written in x86 assembly
+library_homepage	mathbox	ftp://ftp.synthcom.com/pub/emulators/cpu/	\N
+library_author_link	mathbox	zonn_moore
+library_author_link	mathbox	neil_bradley
+library_emulator_link	mathbox	retrocade
+library_emulator_link	mathbox	retrocade_os2
+library_emulator_link	mathbox	vector_dream
+library_tool_link	mathbox	nasm
+library_file	mathbox	Emulator	mathbox.zip

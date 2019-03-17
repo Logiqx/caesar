@@ -1,0 +1,12 @@
+
+author	caz_jones	Caz Jones	\N
+author_email	caz_jones	turok2@currantbun.com
+author_emulator_link	caz_jones	belaser	author
+
+author_emulator_link	caz_jones	mame_beos	author
+
+author_emulator_link	caz_jones	raine_beos	author
+
+author_emulator_link	caz_jones	pie_beos	author
+
+author_emulator_link	caz_jones	finalburn_beos	author

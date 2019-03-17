@@ -1,0 +1,22 @@
+
+author	larry_bank	Larry Bank	\N
+author_email	larry_bank	bitbank@pobox.com
+author_emulator_link	larry_bank	arcade_pocketpak	author
+
+author_emulator_link	larry_bank	cage	author
+
+author_emulator_link	larry_bank	hive	author
+
+author_emulator_link	larry_bank	pda_vulgus	author
+
+author_emulator_link	larry_bank	pda_commando	author
+
+author_emulator_link	larry_bank	pda_1942	author
+
+author_emulator_link	larry_bank	pda_sectionz	author
+
+author_emulator_link	larry_bank	pda_legendary_wings	author
+
+author_emulator_link	larry_bank	pda_ghosts_n_goblins	author
+
+author_library_link	larry_bank	a6502

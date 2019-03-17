@@ -1,0 +1,9 @@
+
+emulator	visualam	single	VisualAM_Arcade_Machine_Emulator_v0.0.1	\N	\N	\N	VisualAM Arcade Machine Emulator	0.0.1	14/08/2000	Windows	Centipede (Atari)	Written in Visual Basic	Dormant
+emulator_homepage	visualam	\N	none
+emulator_author_link	visualam	matt_barney	\N	author
+
+emulator_tool_link	visualam	vb
+emulator_features	visualam	No	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	visualam	Keyboard
+emulator_file	visualam	Emulator	VisualAM V0.01 [W95].exe

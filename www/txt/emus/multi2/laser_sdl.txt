@@ -1,0 +1,11 @@
+
+emulator	laser_sdl	multi2	dummy	\N	\N	\N	Laser SDL	1.0 revision 1	23/03/2004	Windows	Midway 8080 based games like space invaders	SDL port of Laser	Dormant
+emulator_homepage	laser_sdl	http://laser.sourceforge.net/	\N
+emulator_author_link	laser_sdl	lopantu	\N	author
+
+emulator_features	laser_sdl	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	No
+emulator_controller	laser_sdl	Keyboard
+emulator_controller	laser_sdl	Joystick
+emulator_relative_link	laser_sdl	laser	port_of
+
+emulator_file	laser_sdl	Source	laser-1.0.r1.src.tar.gz

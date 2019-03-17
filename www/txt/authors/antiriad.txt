@@ -1,0 +1,8 @@
+
+author	antiriad	Richard Bush (Antiriad)	\N
+author_email	antiriad	antiriad@rainemu.com
+author_email	antiriad	richardb@argonaut.com
+author_email	antiriad	rbush@firenet.net
+author_emulator_link	antiriad	raine	author
+
+author_emulator_link	antiriad	retrocade	contributor

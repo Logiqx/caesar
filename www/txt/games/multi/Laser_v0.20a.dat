@@ -1,0 +1,575 @@
+game	Laser_v0.20a	pong	\N	\N	\N	\N	\N	Pong	1972	Atari	\N	\N	\N	
+game	Laser_v0.20a	pongdbls	\N	\N	\N	\N	\N	Pong (Doubles)	1972	Atari	\N	\N	\N	
+game	Laser_v0.20a	hockeytv	\N	\N	\N	\N	\N	Hockey TV	1972	Atari	\N	\N	\N	
+game	Laser_v0.20a	seawolf	\N	\N	\N	\N	\N	Sea Wolf	1976	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	seawolf	sw0041.h	\N	\N	1024	8f597323	b538277d3a633dd8a3179cff202f18d322e6fe17	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	seawolf	sw0042.g	\N	\N	1024	db980974	cc2a99b18695f61e0540c9f6bf8fe3b391dde4a0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	seawolf	sw0043.f	\N	\N	1024	e6ffa008	385198434b08fe4651ad2c920d44fb49cfe0bc33	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	seawolf	sw0044.e	\N	\N	1024	c3557d6a	bd345dd72fed8ce15da76c381782b025f71b006f	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	gunfight	\N	\N	\N	\N	\N	Gun Fight	1975	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	gunfight	7609h.bin	\N	\N	1024	0b117d73	99d01313e251818d336281700e206d9003c71dae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gunfight	7609g.bin	\N	\N	1024	57bc3159	c177e3f72db9af17ab99b2481448ca26318184b9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gunfight	7609f.bin	\N	\N	1024	8049a6bd	215b068663e431582591001cbe028929fa96d49f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gunfight	7609e.bin	\N	\N	1024	773264e2	de3f2e6841122bbe6e2fda5b87d37842c072289a	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	tornbase	\N	\N	\N	\N	\N	Tornado Baseball	1976	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	tornbase	tb.h	\N	\N	2048	653f4797	feb4c802aa3e0c2a66823cd032496cca5742c883	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	tornbase	tb.g	\N	\N	2048	b63dcdb3	bdaa0985bcb5257204ee10faa11a4e02a38b9ac5	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	tornbase	tb.f	\N	\N	2048	215e070c	425915b37e5315f9216707de0850290145f69a30	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	maze	\N	\N	\N	\N	\N	Amazing Maze	1976	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	maze	invaders.h	\N	\N	2048	f2860cff	62b3fd3d04bf9c5dd9b50964374fb884dc0ab79c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	maze	invaders.g	\N	\N	2048	65fad839	893f0a7621e7df19f777be991faff0db4a9ad571	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	boothill	\N	\N	\N	\N	\N	Boot Hill	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	boothill	romh.cpu	\N	\N	2048	1615d077	e59a26c2f2fc67ab24301e22d2e3f33043acdf72	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	boothill	romg.cpu	\N	\N	2048	65a90420	9f36c44b5ae5b912cdbbeb9ff11a42221b8362d2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	boothill	romf.cpu	\N	\N	2048	3fdafd79	b18e8ac9df40c4687ac1acd5174eb99f2ef60081	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	boothill	rome.cpu	\N	\N	2048	374529f4	18c57b79df0c66052eef40a694779a5ade15d0e0	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	checkmat	\N	\N	\N	\N	\N	Checkmate	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	checkmat	checkmat.h	\N	\N	1024	3481a6d1	f758599d6393398a6a8e6e7399dc1a3862604f65	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	checkmat	checkmat.g	\N	\N	1024	df5fa551	484ff9bfb95166ba09f34c753a7908a73de3cc7d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	checkmat	checkmat.f	\N	\N	1024	25586406	39e0cf502735819a7e1d933e3686945fcfae21af	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	checkmat	checkmat.e	\N	\N	1024	59330d84	453f95dd31968d439339c41e625481170437eb0f	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	desertgu	\N	\N	\N	\N	\N	Desert Gun	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	desertgu	desertgu.h	\N	\N	2048	c0030d7c	4d0a3a59d4f8181c6e30966a6b1d19ba5b29c398	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desertgu	desertgu.g	\N	\N	2048	1ddde10b	8fb8e85844a8ec6c0722883013ecdd4eeaeb08c1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desertgu	desertgu.f	\N	\N	2048	808e46f1	1cc4e9b0aa7e9546c133bd40d40ede6f2fbe93ba	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desertgu	desertgu.e	\N	\N	2048	ac64dc62	202433dfb174901bd3b91e843d9d697a8333ef9e	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	dplay	\N	\N	\N	\N	\N	Double Play	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	dplay	dplay.h	\N	\N	2048	6680669b	49ad2333f81613c2f27231de60b415cbc254546a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dplay	dplay.g	\N	\N	2048	0eec7e01	2661e77061119d7d95d498807bd29d2630c6b6ab	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dplay	dplay.f	\N	\N	2048	3af4b719	3122138ac36b1a129226836ddf1916d763d73e10	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dplay	dplay.e	\N	\N	2048	65cab4fc	1ce7cb832e95e4a6d0005bf730eec39225b2e960	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	lagunar	\N	\N	\N	\N	\N	Laguna Racer	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	lagunar	lagunar.h	\N	\N	2048	0cd5a280	89a744c912070f11b0b90b0cc92061e238b00b64	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lagunar	lagunar.g	\N	\N	2048	824cd6f5	a74f6983787cf040eab6f19de2669c019962b9cb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lagunar	lagunar.f	\N	\N	2048	62692ca7	d62051bd1b45ca6e60df83942ff26a64ae25a97b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lagunar	lagunar.e	\N	\N	2048	20e098ed	e0c52c013f5e93794b363d7762ce0f34ba98c660	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	gmissile	\N	\N	\N	\N	\N	Guided Missile	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	gmissile	gm_623.h	\N	\N	2048	a3ebb792	30d9613de849c1a868056c5e28cf2a8608b63e88	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gmissile	gm_624.g	\N	\N	2048	a5e740bb	963c0984953eb58fe7eab84fabb724ec6e29e706	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gmissile	gm_625.f	\N	\N	2048	da381025	c9d0511567ed571b424459896ce7de0326850388	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	gmissile	gm_626.e	\N	\N	2048	f350146b	a07000a979b1a735754eca623cc880988924877f	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	m4	\N	\N	\N	\N	\N	M-4	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	m4	m4.h	\N	\N	2048	9ee2a0b5	b81b4001c90ac6db25edd838652c42913022d9a9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	m4	m4.g	\N	\N	2048	0e84b9cb	a7b74851979aaaa16496e506c487a18df14ab6dc	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	m4	m4.f	\N	\N	2048	9ded9956	449204a50efd3345cde815ca5f1fb596843a30ac	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	m4	m4.e	\N	\N	2048	b6983238	3f3b99b33135e144c111d2ebaac8f9433c269bc5	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	clowns	\N	\N	\N	\N	\N	Clowns (rev. 2)	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	h2.cpu	\N	\N	1024	ff4432eb	997aee1e3669daa1d8169b4e103d04baaab8ea8d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	g2.cpu	\N	\N	1024	676c934b	72b681ca9ef23d820fdd297cc417932aecc9677b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	f2.cpu	\N	\N	1024	00757962	ef39211493393e97284a08eea63be0757643ac88	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	e2.cpu	\N	\N	1024	9e506a36	8aad486a72d148d8b03e7bec4c12abd14e425c5f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	d2.cpu	\N	\N	1024	d61b5b47	6051c0a2e81d6e975e82c2d48d0e52dc0d4723e3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns	c2.cpu	\N	\N	1024	154d129a	61eebb319ee3a6be598b764b295c18a93a953c1e	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	clowns1	\N	\N	\N	\N	\N	Clowns (rev. 1)	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.h	\N	\N	1024	5560c951	b6972e1918604263579de577ec58fa6a91e8ff3e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.g	\N	\N	1024	6a571d66	e825f95863e901a1b648c74bb47098c8e74f179b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.f	\N	\N	1024	a2d56cea	61bc07e6a24a1980216453b4dd2688695193a4ae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.e	\N	\N	1024	bbd606f6	1cbaa21d9834c8d76cf335fd118851591e815c86	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.d	\N	\N	1024	37b6ff0e	bf83bebb6c14b3663ca86a180f9ae3cddb84e571	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	clowns1	clownsv1.c	\N	\N	1024	12968e52	71e4f09d30b992a4ac44b0e88e83b4f8a0f63caa	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	einnings	\N	\N	\N	\N	\N	Extra Inning	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	einnings	ei.h	\N	\N	2048	eff9c7af	316fffc972bd9935ead5ee4fd629bddc8a8ed5ce	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	einnings	ei.g	\N	\N	2048	5d1e66cb	a5475362e12b7c251a05d67c2fd070cf7d333ad0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	einnings	ei.f	\N	\N	2048	ed96785d	d5557620227fcf6f30dcf6c8f5edd760d77d30ae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	einnings	ei.e	\N	\N	2048	ad096a5d	81d48302a0e039b8601a6aed7276e966592af693	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	einnings	ei.b	\N	\N	2048	56b407d4	95e4be5b2f28192df85c6118079de2e68838b67c	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	shuffle	\N	\N	\N	\N	\N	Shuffleboard	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	shuffle	shuffle.h	\N	\N	2048	0d422a18	909c5b9e3c1194abd101cbf993a2ed7c8fbeb5d0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	shuffle	shuffle.g	\N	\N	2048	7db7fcf9	f41b568f2340e5307a7a45658946cfd4cf4056bf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	shuffle	shuffle.f	\N	\N	2048	cd04d848	f0f7e9bc483f08934d5c29568b4a7fe084623031	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	shuffle	shuffle.e	\N	\N	2048	2c118357	178db02aaa70963dd8dbcb9b8651209913c539af	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	dogpatch	\N	\N	\N	\N	\N	Dog Patch	1977	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	dogpatch	dogpatch.h	\N	\N	2048	74ebdf4d	6b31f9563b0f79fe9128ee83e85a3e2f90d7985b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dogpatch	dogpatch.g	\N	\N	2048	ac246f70	7ee356c3218558a78ee0ff495f9f51ef88cac951	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dogpatch	dogpatch.f	\N	\N	2048	a975b011	fb807d9eefde7177d7fd7ab06fc2dbdc58ae6fcb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	dogpatch	dogpatch.e	\N	\N	2048	c12b1f60	f0504e16d2ce60a0fb3fc2af8c323bfca0143818	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spcenctr	\N	\N	\N	\N	\N	Space Encounters	1980	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m33.cpu	\N	\N	2048	7458b2db	c4f41efb8a35fd8bebc75bff0111476affe2b34d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m32.cpu	\N	\N	2048	1b873788	6cdf0d602a65c7efcf8abe149c6172b4c7ab87a1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m31.cpu	\N	\N	2048	d4319c91	30830595c220f490fe150ad018fbf4671bb71e02	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m30.cpu	\N	\N	2048	9b9a1a45	8023a05c13e8b541f9e2fe4d389e6a2dcd4766ea	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m29.cpu	\N	\N	2048	294d52ce	0ee63413c5caf60d45ae8bef08f6c07099d30f79	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m28.cpu	\N	\N	2048	ce44c923	9d35908de3194c5fe6fc8495ae413fa722018744	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m27.cpu	\N	\N	2048	098070ab	72ae344591df0174353dc2e3d22daf5a70e2261f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcenctr	4m26.cpu	\N	\N	2048	7f1d1f44	2f4951171a55e7ac072742fa24eceeee6aca7e39	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	phantom2	\N	\N	\N	\N	\N	Phantom II	1979	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	phantom2	phantom2.h	\N	\N	2048	0e3c2439	450182e590845c651530b2c84e1f11fe2451dcf6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	phantom2	phantom2.g	\N	\N	2048	e8df3e52	833925e44e686df4d4056bce4c0ffae3269d57df	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	phantom2	phantom2.f	\N	\N	2048	30e83c6d	fe34a3e4519a7e5ffe66e76fe974049988656b71	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	phantom2	phantom2.e	\N	\N	2048	8c641cac	c4986daacb7ed9efed59b022c6101240b0eddcdc	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	phantom2	pclouds	\N	\N	2048	dcdd2927	d8d42c6594e36c12b40ee6342a9ad01a8bbdef75	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	bowler	\N	\N	\N	\N	\N	4 Player Bowling Alley	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	bowler	h.cpu	\N	\N	2048	74c29b93	9cbd5b7b8a4c889406b6bc065360f74c036320b2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bowler	g.cpu	\N	\N	2048	ca26d8b4	cf18991cde8044a961cf556f18c6eb60a7ade595	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bowler	f.cpu	\N	\N	2048	ba8a0bfa	bb017ddac58d031b249596b70ab1068cd1bad499	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bowler	e.cpu	\N	\N	2048	4da65a40	7795d59870fa722da89888e72152145662554080	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bowler	d.cpu	\N	\N	2048	e7dbc9d9	05049a69ee588de85db86df188e7670778b77e90	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	280zzzap	\N	\N	\N	\N	\N	Datsun 280 Zzzap	1976	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzaph	\N	\N	1024	1fa86e1c	b9cf16eb037ada73631ed24297e9e3b3bf6ab3cd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzapg	\N	\N	1024	9639bc6b	b2e2497e421e79a411d07ebf2eed2bb8dc227003	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzapf	\N	\N	1024	adc6ede1	206bf2575696c4b14437f3db37a215ba33211943	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzape	\N	\N	1024	472493d6	ae5cf4481ee4b78ca0d2f4d560d295e922aa04a7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzapd	\N	\N	1024	4c240ee1	972475f80253bb0d24773a10aec26a12f28e7c23	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	280zzzap	zzzapc	\N	\N	1024	6e85aeaf	ffa6bb84ef1f7c2d72fd26c24bd33aa014aeab7e	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	blueshrk	\N	\N	\N	\N	\N	Blue Shark	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	blueshrk	blueshrk.h	\N	\N	2048	4ff94187	7cb80e2ccc34983bfd688c549ffc032d6dacf880	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	blueshrk	blueshrk.g	\N	\N	2048	e49368fd	2495ba48532bb714361e4f0e94c9317161c6c77f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	blueshrk	blueshrk.f	\N	\N	2048	86cca79d	7b4633fb8033ee2c0e692135c383ebf57deef0e5	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	invad2ct	\N	\N	\N	\N	\N	Space Invaders II (Midway, cocktail)	1980	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.h	\N	\N	2048	51d02a71	2fa82ddc2702a72de0a9559ec244b70ab3db3f18	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.g	\N	\N	2048	533ac770	edb65c289027432dad7861a7d6abbda9223c13b1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.f	\N	\N	2048	d1799f39	f7f1ba34d57f9883241ba3ef90e34ed20dfb8003	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.e	\N	\N	2048	291c1418	0d9f7973ed81d28c43ef8b96f1180d6629871785	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.b	\N	\N	2048	8d9a07c4	4acbe15185d958b5589508dc0ea3a615fbe3bcca	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invad2ct	invad2ct.a	\N	\N	2048	efdabb03	33f4cf249e88e2b7154350e54c479eb4fa86f26f	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	invaddlx	\N	\N	\N	\N	\N	Space Invaders Deluxe	1980	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	invaddlx	invdelux.h	\N	\N	2048	e690818f	0860fb03a64d34a9704a1459a5e96929eafd39c7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaddlx	invdelux.g	\N	\N	2048	4268c12d	df02419f01cf0874afd1f1aa16276751acd0604a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaddlx	invdelux.f	\N	\N	2048	f4aa1880	995d77b67cb4f2f3781c2c8747cb058b7c1b3412	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaddlx	invdelux.e	\N	\N	2048	408849c1	f717e81017047497a2e9f33f0aafecfec5a2ed7d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaddlx	invdelux.d	\N	\N	2048	e8d5afcd	91fde9a9e7c3dd53aac4770bd169721a79b41ed1	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sitv	\N	\N	\N	\N	\N	Space Invaders (TV Version)	1978	Taito	\N	\N	\N	
+game_comment	Laser_v0.20a	sitv	 sitv uses some incorrect ROMs:	
+game_comment	Laser_v0.20a	sitv	\tinvaders.h and invaders.e from invaders (instead of tv0h.s1)	
+game_comment	Laser_v0.20a	sitv	 So long as invaders is complete though, sitv will still run	
+game_rom	Laser_v0.20a	sitv	tv0h.s1	\N	\N	2048	fef18aad	043edeefe6a6d4934bd384eafea19326de1dbeec	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sitv	tv02.rp1	\N	\N	2048	3c759a90	d847d592dee592b1d3a575c21d89eaf3f7f6ae1b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sitv	tv03.n1	\N	\N	2048	0ad3657f	a501f316535c50f7d7a20ef8e6dede1526a3f2a8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sitv	tv04.m1	\N	\N	2048	cd2c67f6	60f9d8fe2d36ff589277b607f07c1edc917c755c	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sicv	\N	\N	\N	\N	\N	Space Invaders (CV Version)	1979	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv17.bin	\N	\N	2048	3dfbe9e6	26487df7fa0bbd0b9b7f74347c4b9318b0a73b89	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv18.bin	\N	\N	2048	bc3c82bf	33e39fc97bd46699be1f9b9741a86f433efdc911	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv19.bin	\N	\N	2048	d202b41c	868fe938ef768655c894ec95b7d9a81bf21f69ca	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv20.bin	\N	\N	2048	c74ee7b6	4f52db274a2d4433ab67c099ee805e8eb8516c0f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv01_1.bin	\N	\N	1024	aac24f34	ad110e776547fb48baac568bb50d61854537ca34	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sicv	cv02_2.bin	\N	\N	1024	2bdf83a0	01ffbd43964c41987e7d44816271308f9a70802b	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sisv2	\N	\N	invaders	invaders	\N	Space Invaders (SV Version 2)	1978	Taito	\N	\N	\N	
+game_comment	Laser_v0.20a	sisv2	 sisv2 also loads ROMs from these locations (but can't be represented):	
+game_comment	Laser_v0.20a	sisv2	\tsv0h.bin from sisv	
+game_comment	Laser_v0.20a	sisv2	\tcv01_1.bin and cv02_2.bin from sicv	
+game_comment	Laser_v0.20a	sisv2	 So long as sisv and sicv are complete though, sisv2 will still run	
+game_rom	Laser_v0.20a	sisv2	sv0h.bin	\N	\N	1024	86bb8cb6	a75648e7f2446c756d86624b15d387d25ce47b66	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	emag_si.b	\N	\N	1024	febe6d1a	e1c3a24b4fa5862107ada1f9d7249466e8c3f06a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	sv12	\N	\N	1024	a08e7202	de9f7c851d1b894915e720cfc5d794cdb31752f6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	invaders.f	invaders.f	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	sv13	\N	\N	1024	a9011634	1f1369ecb02078042cfdf17a497b8dda6dd23793	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	sv14	\N	\N	1024	58730370	13dc806bcecd2d6089a85dd710ac2869413f7475	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	cv01_1.bin	\N	\N	1024	aac24f34	ad110e776547fb48baac568bb50d61854537ca34	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv2	cv02_2.bin	\N	\N	1024	2bdf83a0	01ffbd43964c41987e7d44816271308f9a70802b	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sisv	\N	\N	invaders	invaders	\N	Space Invaders (SV Version)	1978	Taito	\N	\N	\N	
+game_comment	Laser_v0.20a	sisv	 sisv also loads ROMs from these locations (but can't be represented):	
+game_comment	Laser_v0.20a	sisv	\ttv04.m1 from sitv	
+game_comment	Laser_v0.20a	sisv	\tcv01_1.bin and cv02_2.bin from sicv	
+game_comment	Laser_v0.20a	sisv	 So long as sitv and sicv are complete though, sisv will still run	
+game_rom	Laser_v0.20a	sisv	sv0h.bin	\N	\N	1024	86bb8cb6	a75648e7f2446c756d86624b15d387d25ce47b66	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	sv02.bin	\N	\N	1024	0e159534	94b2015a9d38ca738705b8d024a79fd2f9855b98	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	invaders.g	invaders.g	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	invaders.f	invaders.f	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	tv04.m1	\N	\N	2048	cd2c67f6	60f9d8fe2d36ff589277b607f07c1edc917c755c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	cv01_1.bin	\N	\N	1024	aac24f34	ad110e776547fb48baac568bb50d61854537ca34	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sisv	cv02_2.bin	\N	\N	1024	2bdf83a0	01ffbd43964c41987e7d44816271308f9a70802b	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sinvzen	\N	\N	\N	\N	\N	Super Invaders (Zenitone-Microsec)	????	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	1.bin	\N	\N	1024	9b0da779	a52ccdb252eb69c497aa5eafb35d7f25a311b44e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	2.bin	\N	\N	1024	9858ccab	5ad8e5ef0d95779f0e513634b97bc330c9269ce4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	3.bin	\N	\N	1024	a1cc38b5	45fc9466b548d511b8174f6f3a4783164dd59489	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	4.bin	\N	\N	1024	1f2db7a8	354ad155743f724f2bebcab422f1ef96cb57c683	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	5.bin	\N	\N	1024	9b505fcd	7461b7087d31dbe09f7b3078584ccaa2c9122c95	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	6.bin	\N	\N	1024	de0ca0ae	a15d1218361839a2a2bf8da3f78d81621251fe1c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	7.bin	\N	\N	1024	25a296f6	37df98384c1513f0e33a350dfcaa99655f91c9ba	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvzen	8.bin	\N	\N	1024	f4bc4a98	bff3806750a3695a136f398c7dbb69a0b7daa88a	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spaceat2	\N	\N	\N	\N	\N	Space Attack II	1980	Zenitone-Microsec Ltd	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceat2	spaceatt.h	\N	\N	2048	a31d0756	2b76929654ed0b180091348546dac29fc6e5438e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceat2	spaceatt.g	\N	\N	2048	f41241f7	d93cead75922510075433849c4f7099279eafc18	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceat2	spaceatt.f	\N	\N	2048	4c060223	957e75a978aa600627399061cae0a6525e92ad11	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceat2	spaceatt.e	\N	\N	2048	7cf6f604	469557de15178c4b2d686e5724e1006f7c20d7a4	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spaceatt	\N	\N	\N	\N	\N	Space Attack	1978	Video Games GMBH	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	h	\N	\N	1024	d0c32d72	b3bd950b1ba940fbeb5d95e55113ed8f4c311434	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	sv02.bin	\N	\N	1024	0e159534	94b2015a9d38ca738705b8d024a79fd2f9855b98	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	f	\N	\N	1024	483e651e	ae795ee3bc53ac3936f6cf2c72cca7a890783513	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	c	\N	\N	1024	1293b826	165cd5d08a19eadbe954145b12807f10df9e691a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	b	\N	\N	1024	6fc782aa	0275adbeec455e146f4443b0b836b1171436b79b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceatt	a	\N	\N	1024	211ac4a3	e08e90a4e77cfa30400626a484c9f37c87ea13f9	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	earthinv	\N	\N	\N	\N	\N	Super Earth Invasion	1980	bootleg	\N	\N	\N	
+game_comment	Laser_v0.20a	earthinv	 In addition to these ROMs, earthinv also needs to load:	
+game_comment	Laser_v0.20a	earthinv	\t04 from invadpt2 (which does not exist)	
+game_comment	Laser_v0.20a	earthinv	\t05 from invaddlx (which does not exist)	
+game_comment	Laser_v0.20a	earthinv	 i.e. earthinv WILL NOT LOAD into the emulator!	
+game_rom	Laser_v0.20a	earthinv	earthinv.h	\N	\N	2048	58a750c8	90bfa4ea06f38e67fe4286d37d151632439249d2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	earthinv	earthinv.g	\N	\N	2048	b91742f1	8d9ca92405fbaf1d5a7138d400986616378d061e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	earthinv	earthinv.f	\N	\N	2048	4acbbc60	b8c1efb4251a1e690ff6936ec956d6f66136a085	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	earthinv	earthinv.e	\N	\N	2048	df397b12	e7e8c080cb6baf342ec637532e05d38129ae73cf	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sfeverbw	\N	\N	\N	\N	\N	Space Fever (black and white)	1980	Nintendo	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.f1	\N	\N	1024	b8887351	ccd49937f1cbd7a157b3715474ccc3e8fdcea2b2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.f2	\N	\N	1024	cda933a7	a0447c8c98e24674081c9bf4b1ef07dc186c6e2b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.g1	\N	\N	1024	de17578a	d9d5dbf38331f212d2a566c60756a788e169104d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.g2	\N	\N	1024	f1a90948	850f27b42ca12bcba4aa95a1ad3e66206fa63554	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.h1	\N	\N	1024	eefb4273	853a62976a406516f10ac68dc2859399b8b7aae8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.h2	\N	\N	1024	e91703e8	f58606b0c7d945e94c3fccc7ebe17ca25675e6a0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.i1	\N	\N	1024	41e18df9	2212c836313775e7c507a875672c0b3635825e02	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	spacefev.i2	\N	\N	1024	eff9f82d	5004e52dfa652ceefca9ed4210c0fa8f0591dc08	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sfeverbw	ss3.ic2	\N	\N	1024	95c2c1ee	42a3a382fc7d2782052372d71f6d0e8a153e74d0	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spacefev	\N	\N	\N	\N	\N	Space Fever (color)	1980	Nintendo	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	f1.bin	\N	\N	1024	35f295bd	34d1df25fcdea598ca1191cecc2125e6f63dbce3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	f2.bin	\N	\N	1024	0c633f4c	a551ddbf21670fb1f000404b92da87a97f7ba157	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	g1.bin	\N	\N	1024	f3d851cb	535c52a56e54a064aa3d1c48a129f714234a1007	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	g2.bin	\N	\N	1024	1faef63a	68e1bfc45587bfb1ee2eb477b60efd4f69dffd2c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	h1.bin	\N	\N	1024	b365389d	e681f2c5e37cc07912915ef74184ff9336309de3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	h2.bin	\N	\N	1024	a163e800	e8817f3e17f099a0dc66213d2d3d3fdeb117b10e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	i1.bin	\N	\N	1024	00027be2	551a779a2e5a6455b7a348d246731c094e0ec709	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	ss3.ic2	\N	\N	1024	95c2c1ee	42a3a382fc7d2782052372d71f6d0e8a153e74d0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spacefev	f5.bpr	\N	\N	32	c5914ec1	198875fcab36d09c8726bb21e2fdff9882f6721a	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	helifire	\N	\N	\N	\N	\N	HeliFire (revision B)	1980	Nintendo	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.f1b	\N	\N	1024	032f89ca	63b0310875ed78a6385e44eea781ddcc4a63557c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.f2b	\N	\N	1024	2774e70f	98d845e80db61799493dbebe8db801567277432c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.g1b	\N	\N	1024	b5ad6e8a	1eb4931e85bd6a559e85a2b978d383216d3988a7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.g2b	\N	\N	1024	5e015bf4	60f5a9707c8655e54a8381afd764856fb25c29f1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.h1b	\N	\N	1024	23bb4e5a	b59bc0adff3635aca1def2b1997f7edc6ca7e8ee	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.h2b	\N	\N	1024	358227c6	d7bd678ef1737edc6aa609e43e3ae96a8d61dc15	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.i1b	\N	\N	1024	0c679f44	cbe31dbe5f2c5f11a637cb3bde4e059c310d0e76	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.i2b	\N	\N	1024	d8b7a398	3ddfeac39147d5df6096f525f7ef67abef32a28b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.j1b	\N	\N	1024	98ef24db	70ad8dd6e1e8f4bf4ce431737ca1856eecc03d53	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.j2b	\N	\N	1024	5e2b5877	f7c747e8a1d9fe2dda71ee6304636cf3cdf727a7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifire	tub.snd	\N	\N	1024	9d77a31f	36db9b5087b6661de88042854874bc247c92d985	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	helifira	\N	\N	\N	\N	\N	HeliFire (revision A)	1980	Nintendo	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	f1a.bin	\N	\N	1024	92c9d6c1	860a7b3980e9e11d48769fad347c965e04ed3f89	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	f2a.bin	\N	\N	1024	a264dde8	48f972ad5af6c2ab61117f60d9244df6df6d313c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.g1b	\N	\N	1024	b5ad6e8a	1eb4931e85bd6a559e85a2b978d383216d3988a7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	g2a.bin	\N	\N	1024	a987ebcd	46726293c308c18b28941809419ba4c2ffc8084f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	h1a.bin	\N	\N	1024	25abcaf0	a14c795de1fc283405f71bb83f4ac5c98fd406cb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.h2b	\N	\N	1024	358227c6	d7bd678ef1737edc6aa609e43e3ae96a8d61dc15	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.i1b	\N	\N	1024	0c679f44	cbe31dbe5f2c5f11a637cb3bde4e059c310d0e76	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	i2a.bin	\N	\N	1024	296610fd	f1ab379983e45f3cd718dd82962c609297b4dcb8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.j1b	\N	\N	1024	98ef24db	70ad8dd6e1e8f4bf4ce431737ca1856eecc03d53	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.j2b	\N	\N	1024	5e2b5877	f7c747e8a1d9fe2dda71ee6304636cf3cdf727a7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	helifira	tub.snd	\N	\N	1024	9d77a31f	36db9b5087b6661de88042854874bc247c92d985	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	bandido	\N	\N	\N	\N	\N	Bandido	1980	Exidy	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	baf1-3	\N	\N	1024	aec94829	aa6d241670ea061bac4a71dff82dfa832095eae6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	f2	\N	\N	1024	da67721a	ee6a5fb98da1d1fcfad0ef27af300473a637f578	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	g1	\N	\N	1024	3fb7888e	2c2d6b27d577d5ccf759e451e53c2e3314af40f6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	g2	\N	\N	1024	585fcfee	82f2abc14f893c092b80da45fc297fa5fb0890b5	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	bah1-1	\N	\N	1024	5cb63677	59a8e5f8b134bf44d3e5a1105a9346f0c5f9378e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	h2	\N	\N	1024	79e69a6a	1780ce77d7d9ddbf4aceabe0fcf079339837bbe1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	i1	\N	\N	1024	dda7d1e8	bd2a7388e81c71922b2e97d68be71359a75e8d37	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	i2	\N	\N	1024	5c5f3f86	25c64ccb7d0e136f67d6e1da7927ae6d89e0ceb9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	j1	\N	\N	1024	0aa8b79a	aed139e8c8ba912823c57fe4cc7231b2d638f479	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	baj2-2	\N	\N	1024	a10b848a	c045f1f6a11cbf49a1bae06c701b659d587292a3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	bandido	basnd.u2	\N	\N	1024	75731745	538a63c9c60f1886fca4caf3eb1e0bada2d3f162	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sheriff	\N	\N	\N	\N	\N	Sheriff	1980	Nintendo	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	f1	\N	\N	1024	e79df6e8	908176de9bfc3d48e2da9af6ba7ebdee698ec2de	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	f2	\N	\N	1024	da67721a	ee6a5fb98da1d1fcfad0ef27af300473a637f578	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	g1	\N	\N	1024	3fb7888e	2c2d6b27d577d5ccf759e451e53c2e3314af40f6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	g2	\N	\N	1024	585fcfee	82f2abc14f893c092b80da45fc297fa5fb0890b5	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	h1	\N	\N	1024	e59eab52	aa87710237dd48d1831f1b307d547b1b0707cd4e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	h2	\N	\N	1024	79e69a6a	1780ce77d7d9ddbf4aceabe0fcf079339837bbe1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	i1	\N	\N	1024	dda7d1e8	bd2a7388e81c71922b2e97d68be71359a75e8d37	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	i2	\N	\N	1024	5c5f3f86	25c64ccb7d0e136f67d6e1da7927ae6d89e0ceb9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	j1	\N	\N	1024	0aa8b79a	aed139e8c8ba912823c57fe4cc7231b2d638f479	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	basnd.u2	\N	\N	1024	75731745	538a63c9c60f1886fca4caf3eb1e0bada2d3f162	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	sheriff.cl1	\N	\N	1024	820f8cdd	197eeb008c140558e7c1ab2b2bd0f6a27096877c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sheriff	sheriff.cl2	\N	\N	1024	820f8cdd	197eeb008c140558e7c1ab2b2bd0f6a27096877c	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	ballbomb	\N	\N	\N	\N	\N	Balloon Bomber	1980	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn01	\N	\N	2048	551585b5	7c17b046bdfca6ab107b7e68ba9bde6ca590c3d4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn02	\N	\N	2048	7e1f734f	a15656818cd730d9bc98d00ff1e7fe3f860bd624	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn03	\N	\N	2048	d93e20bc	2bf72f813750cef8fad572a18fb8e9fd5bf38804	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn04	\N	\N	2048	d0689a22	1f6b258431b7eb878853ff979e4d97a05fb6b797	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn05	\N	\N	2048	5d5e94f1	b9f8ba38161ef4f0940c274e9d93fed4bb7db017	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn06	\N	\N	1024	7ec554c4	b638605ba2043fdca4c5e18755fa5fa81ed3db07	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ballbomb	tn07	\N	\N	1024	deb0ac82	839581c4e58cb7b0c2c14cf4f239220017cc26eb	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	polaris	\N	\N	\N	\N	\N	Polaris (set 1)	1980	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-01	\N	\N	2048	c04ce5a9	62cc9b3b682ebecfb7600393862c65e26ff5263f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-09	\N	\N	2048	9a5c8cb2	7a8c5d74f8b431072d9476d3ef65a3fe1d639813	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-08	\N	\N	2048	8680d7ea	7fd4b8a415666c36842fed80d2798b48f8b29d0d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-04	\N	\N	2048	65694948	de92a7f3e3ef732b573254baa60df60f8e068a5d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-05	\N	\N	2048	772e31f3	fa0b866b6df1a9217e286ca880b3bb3fb0644bf3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	ps-10	\N	\N	2048	3df77bac	b3275c34b8d42df83df2c404c5b7d220aae651fa	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polaris	mb7052.2c	\N	\N	256	2953253b	2fb851bc9652ca4e51d473b484ede6dab05f1b51	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	polarisa	\N	\N	\N	\N	\N	Polaris (set 2)	1980	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps01-1	\N	\N	2048	7d41007c	168f002fe997aac6e4141292de826d389859bb04	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps-09	\N	\N	2048	9a5c8cb2	7a8c5d74f8b431072d9476d3ef65a3fe1d639813	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps03-1	\N	\N	2048	21f32415	6ac9ae9b55e342729fe260147021ed3911a24dc2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps-04	\N	\N	2048	65694948	de92a7f3e3ef732b573254baa60df60f8e068a5d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps-05	\N	\N	2048	772e31f3	fa0b866b6df1a9217e286ca880b3bb3fb0644bf3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps-10	\N	\N	2048	3df77bac	b3275c34b8d42df83df2c404c5b7d220aae651fa	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps26	\N	\N	2048	9d5c3d50	a6acf9ca6e807625156cb1759269014d5830a44f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	ps07	\N	\N	1024	164aa05d	41c699ce45c76a60c71294f25d8df6c6e6c1280a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	polarisa	mb7052.2c	\N	\N	256	2953253b	2fb851bc9652ca4e51d473b484ede6dab05f1b51	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	schasrcv	\N	\N	\N	\N	\N	Space Chaser (CV version)	1979	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	1	\N	\N	1024	bec2b16b	c62210ecb64d7c38e5b63481d7fe04eb59bb1068	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	2	\N	\N	1024	9d25e608	4cc52a93a3ab96a0ec1d07593e17832fa59b30a1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	3	\N	\N	1024	113d0635	ab5e98d0b5fc37d7d69bb5c541681a0f66460440	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	4	\N	\N	1024	f3a43c8d	29a7a8b7d1de763a255cfec79157fd95e7bff551	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	5	\N	\N	1024	47c84f23	61b475fa92b8335f8edd3a128d8ac8561658e464	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	6	\N	\N	1024	02ff2199	e12c235b2064cb4bb426145172e523256e3c6358	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	7	\N	\N	1024	87d06b88	2d743161f85e47cb8ee2a600cbee790b1ad7ad99	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	8	\N	\N	1024	6dfaad08	2184c4e2f4b6bffdc4fe13e178134331fcd43253	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	9	\N	\N	1024	3d1a2ae3	672ad6590aebdfebc2748455fa638107f3934c41	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	10	\N	\N	1024	037edb99	f2fc5e61f962666e7f6bb81753ac24ea0b97e581	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	cv01	\N	\N	1024	037e16ac	d585030aaff428330c91ae94d7cd5c96ebdd67dd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schasrcv	cv02	\N	\N	1024	8263da38	2e7c769d129e6f8a1a31eba1e02777bb94ac32b2	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	invadpt2	\N	\N	\N	\N	\N	Space Invaders Part II (Taito)	1980	Taito	\N	\N	\N	
+game_comment	Laser_v0.20a	invadpt2	 invadpt2 also loads ROMs from these locations but they do not exist!:	
+game_comment	Laser_v0.20a	invadpt2	\tinvdelux.d and invdelux.e from invaddlx	
+game_comment	Laser_v0.20a	invadpt2	\t(instead of pv06_1.bin and pv07_2.bin)	
+game_comment	Laser_v0.20a	invadpt2	 So long as invaddlx is complete though, invadpt2 will still run	
+game_rom	Laser_v0.20a	invadpt2	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv.03	\N	\N	2048	1766337e	ea959bf06c9930d83a07559e191a28641efb07ac	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv.04	\N	\N	2048	8f0e62e0	a967b155f15f8432222fcc78b23121b00c405c5c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv.05	\N	\N	2048	19b505e9	6a31a37586782ce421a7d2cffd8f958c00b7b415	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv06_1.bin	\N	\N	1024	a732810b	a5fabffa73ca740909e23b9530936f9274dff356	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invadpt2	pv07_2.bin	\N	\N	1024	2c5b91cb	7fa4d4aef85473b1b4f18734230c164e72be44e7	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	desterth	\N	\N	\N	\N	\N	Destination Earth	1979	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	36_h.bin	\N	\N	2048	f86923e5	d19935ba3d2c1c2553b3779f1a7ad8856c003dae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	35_g.bin	\N	\N	2048	797f440d	a96917f2296ae467acc795eacc1533a2a2d2f401	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	34_f.bin	\N	\N	2048	993d0846	6be0c45add41fa7e43cac96c776cd0ebb45ade7b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	33_e.bin	\N	\N	2048	8d155fc5	1ef5e62d71abbf870c027fa1e477121ff124b8da	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	32_d.bin	\N	\N	2048	3f531b6f	2fc1f4912688986650e20a050a5d63ddecd4267e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	31_c.bin	\N	\N	2048	ab019c30	33931510a722168bcf7c30d22eac9345576b6631	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	42_b.bin	\N	\N	2048	ed9dbac6	4553f445ac32ebb1be490b02df4924f76557e8f9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	desterth	7643-1.cpu	\N	\N	1024	8b2e38de	d6a757be31c3a179d31bd3709e71f9e38ec632e9	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	grescue	\N	\N	\N	\N	\N	Galaxy Rescue	1979	Taito (Universal license?)	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.4	\N	\N	2048	ca412991	41b59f338a6c246e0942a8bfa3c0bca2c24c7f81	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.5	\N	\N	2048	a419a4d6	8eeeb31cbebffc98d2c6c5b964f9b320fcf303d2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	grescue	7643-1.cpu	\N	\N	1024	8b2e38de	d6a757be31c3a179d31bd3709e71f9e38ec632e9	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	lrescue	\N	\N	\N	\N	\N	Lunar Rescue	1979	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.1	\N	\N	2048	2bbc4778	0167f1ac1501ab0b4c4e555023fa5efed59d56ae	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.2	\N	\N	2048	49e79706	bed675bb97d59ae0132c007ccead0d096ed2ddf1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.3	\N	\N	2048	1ac969be	67ac47f45b9fa5c530bf6047bb7d5776b52847be	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.4	\N	\N	2048	782fee3c	668295e9d6d99084bb4e7c5491f00fe75f4f5a88	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.5	\N	\N	2048	58fde8bc	663665ac5254204c1eba18357d9867034eae55eb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lrescue	lrescue.6	\N	\N	2048	bfb0f65d	ea0943d764a16094b6e2289f62ef117c9f838c98	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	starw	\N	\N	\N	\N	\N	Star Wars	1979	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	roma	\N	\N	1024	60e8993c	0bdf163ff0f2e6a8771987d4e7ac604c45af21b8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	romb	\N	\N	1024	b8060773	92aa358c338ef8f5773bccada8988d068764e7ea	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	romc	\N	\N	1024	307ce6b8	f4b6f54db3d2377ec27d62d33fa1c4946559a092	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	romd	\N	\N	1024	2b0d0a88	d079d12b6d4136519ded32415d668a02147b7601	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	rome	\N	\N	1024	5b1c3ad0	edb42eec59c3dd7e274e2ea08fed0f3e8fc72e9e	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	starw	romf	\N	\N	1024	c8e42d3d	841b27af251b9c3a964972e864fb7c88acc742e0	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	galxwars	\N	\N	\N	\N	\N	Galaxy Wars (Universal set 1)	1979	Universal	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw3.0	\N	\N	1024	937796f4	88e9494cc532498e51e3a68fa1122c40f22b27dd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw4.1	\N	\N	1024	4b86e7a6	167f9f7491a2de39d08e3e6f7057cc75b36c9340	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw5.2	\N	\N	1024	47a187cd	640c896ba25f34d323624005bd676257ad17b687	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw6.3	\N	\N	1024	7b7d22ff	74364cf2b04dcfbbc8e0131fa12c0e574f693d34	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw1.4	\N	\N	1024	0871156e	3726d0bfe153a0afc62ea56737662074986064b0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwars	univgw2.5	\N	\N	1024	6036d7bf	36c2ad2ffdb47bbecc40fd67ced6ab51a5cd2f3e	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	galxwar2	\N	\N	\N	\N	\N	Galaxy Wars (Universal set 2)	1979	Universal	\N	\N	\N	
+game_comment	Laser_v0.20a	galxwar2	 In addition to these ROMs, galxwar2 also needs to load:	
+game_comment	Laser_v0.20a	galxwar2	\tunivgw4.1, univgw5.2, univgw6.3, univgw2.5 from galxwars	
+game_comment	Laser_v0.20a	galxwar2	 So long as galxwars is complete though, galxwar2 will still run	
+game_rom	Laser_v0.20a	galxwar2	3192.h6	\N	\N	4096	bde6860b	e04b8add32d8f7ea588fae6d6a387f1d40495f1b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwar2	3193.h7	\N	\N	4096	a17cd507	554ab0e8bdc0e7af4a30b0ddc8aa053c8e70255c	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	galxwart	\N	\N	\N	\N	\N	Galaxy Wars (Taito?)	1979	Taito?	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.0	\N	\N	1024	608bfe7f	a41a40a2f0a1bb61a70b9ff8a7da925ab1db7f74	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.1	\N	\N	1024	a810b258	030a72fffcf240f643bc3006028cb4883cf58bbc	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.2	\N	\N	1024	74f31781	1de70e8ebbb26eea20ffedb7bd0ca051a67f45e7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.3	\N	\N	1024	c88f886c	4d705fbb97e3868c3f6c90c5e5753ad17cfbf5d6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.4	\N	\N	1024	ae4fe8fb	494f44167dc84e4515b769c12f6e24419461dce4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	galxwart	galxwars.5	\N	\N	1024	37708a35	df6fd521ddfa146ef93e390e47741bdbfda1e7ba	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sinvemag	\N	\N	\N	\N	\N	Super Invaders (EMAG)	????	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	sv0h.bin	\N	\N	1024	86bb8cb6	a75648e7f2446c756d86624b15d387d25ce47b66	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	emag_si.b	\N	\N	1024	febe6d1a	e1c3a24b4fa5862107ada1f9d7249466e8c3f06a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	emag_si.c	\N	\N	1024	aafb24f7	6718cdfae09f77d735be5145b9d202a73d8ed9db	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	emag_si.d	\N	\N	1024	68c4b9da	8953dc0427b09b71bd763e65caa7deaca09a15da	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	emag_si.e	\N	\N	1024	c4e80586	3d427d5a2eea3c911ec7bd055e06e6747ce5e84d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sinvemag	emag_si.f	\N	\N	1024	077f5ef2	625de6839073ac4c904f949efc1b2e0afea5d676	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	alieninv	\N	\N	\N	\N	\N	Alien Invasion Part II	????	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	alieninv	1h.bin	\N	\N	2048	c46df7f4	eec34b3d5585bae03c7b80585daaa05ddfcc2164	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	alieninv	1g.bin	\N	\N	2048	4b1112d6	b693667656e5d8f44eeb2ea730f4d4db436da579	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	alieninv	1f.bin	\N	\N	2048	adca18a5	7e02651692113db31fd469868ae5ffdb0f941ecf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	alieninv	1e.bin	\N	\N	2048	0449cb52	8adcb7cd4492fa6649d9ee81172d8dff56621d64	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spceking	\N	\N	invaders	invaders	\N	Space King	1978	Leijac (Konami)	\N	\N	\N	
+game_rom	Laser_v0.20a	spceking	invaders.h	invaders.h	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spceking	spcekng2	\N	\N	2048	96dcdd42	e18d7ffca92e863ef40e235b2be973d8c5879fdb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spceking	spcekng3	\N	\N	2048	95fc96ad	38175edad0e538a1561cec8f7613f15ae274dd14	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spceking	spcekng4	\N	\N	2048	54170ada	1e8b3774355ec0d448f04805a917f4c1fe64bceb	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spcewars	\N	\N	spcewr3	spcewr3	\N	Space War (Sanritsu)	1978	Sanritsu	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.1	\N	\N	1024	ca331679	5c362c3d1c721d293bcddbef4033533769c8f0e0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.2	\N	\N	1024	48dc791c	91a98205c83ca38961e6ba2ac43a41e6e8bc2675	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	ic35.bin	ic35.bin	\N	2048	40c2d55b	b641b63046d242ad23911143ed840011fc98eaff	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.5	\N	\N	1024	77475431	15a04a2655847ee462be65d1065d643c872bb47c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.6	\N	\N	1024	392ef82c	77c98c11ee727ed3ed6e118f13d97aabdb555540	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.7	\N	\N	1024	b3a93df8	3afc96814149d4d5343fe06eac09f808384d02c4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.8	\N	\N	1024	64fdc3e1	c3c278bc236ced7fc85e1a9b018e80be6ab33402	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewars	sanritsu.9	\N	\N	1024	b2f29601	ce855e312f50df7a74682974803cb4f9b2d184f3	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spcewr3	\N	\N	\N	\N	\N	Space War Part 3	1978	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewr3	ic36.bin	\N	\N	2048	9e30f88a	314dfb2920d9b43b977cc19e40ac315e6933c3b9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewr3	ic35.bin	\N	\N	2048	40c2d55b	b641b63046d242ad23911143ed840011fc98eaff	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewr3	ic34.bin	\N	\N	2048	b435f021	2d0d813b99d571b53770fa878a1f82ca67827caa	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewr3	ic33.bin	\N	\N	2048	cbdc6fe8	63038ea09d320c54e3d1cf7f043c17bba71bf13c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewr3	ic32.bin	\N	\N	2048	1e5a753c	5b7cd7b347203f4edf816f02c366bd3b1b9517c4	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	invader1	\N	\N	\N	\N	\N	Space Invaders (Logitec)	1978	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c01	\N	\N	1024	499f253a	e13353194277f5d35e92db9b11912b5f392f51b7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c02	\N	\N	1024	2d0b2e1f	2e0262d9dba607824fcd720d2995531649bdd03d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c03	\N	\N	1024	03033dc2	87d7838e6a6542c2c5510af593df45137cb397c6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c07	\N	\N	1024	5a7bbf1f	659f2a8c646660d316d6e70f1d9548375f1da63f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c04	\N	\N	1024	455b1fa7	668800a0a3ba18d8b54c2aa4dfd4bd01a667d679	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	c05	\N	\N	1024	40cbef75	15994ed8bb8ab8faed6198926873851062c9d95f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invader1	sv06.bin	\N	\N	1024	2c68e0b4	a5e5357120102ad32792bf3ef6362f45b7ba7070	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	jspecter	\N	\N	\N	\N	\N	Jatre Specter (set 1)	1979	Jatre	\N	\N	\N	
+game_rom	Laser_v0.20a	jspecter	3305.u6	\N	\N	4096	ab211a4f	d675ed29c3479d7318f8559bd56dd619cf631b6a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	jspecter	3306.u7	\N	\N	4096	0df142a7	2f1c32d6fe7eafb7808fef0bdeb69b4909427417	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	jspectr2	\N	\N	\N	\N	\N	Jatre Specter (set 2)	1979	Jatre	\N	\N	\N	
+game_rom	Laser_v0.20a	jspectr2	unksi.b2	\N	\N	4096	0584b6c4	c130021b878bde2beda4a189f71bbfed61088535	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	jspectr2	unksi.a2	\N	\N	4096	58095955	545df3bb9ee4ff09f491d7a4b704e31aa311a8d7	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	cosmicmo	\N	\N	\N	\N	\N	Cosmic Monsters	1979	Universal	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.1	\N	\N	1024	d6e4e5da	8b4275a3c71ac3fa80d17237dc04de5f586645f4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.2	\N	\N	1024	8f7988e6	b6a01d5dcab013350f8f7f3e3ebfc986bb939fe0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.3	\N	\N	1024	2d2e9dc8	dd3da4fc752e003e5e7c64bf189288133aed545b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.4	\N	\N	1024	26cae456	2f2262340c10e5c29d71317f6eb8072c26655563	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.5	\N	\N	1024	b13f228e	a0de05aa36435e72c77f5333f3ad964ec448a8f0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.6	\N	\N	1024	4ae1b9c4	8eed87eebe68caa775fa679363b0fe3728d98c34	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	cosmicmo	cosmicmo.7	\N	\N	1024	6a13b15b	dc03a6c3e938cfd08d16bd1660899f951ba72ea2	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	superinv	\N	\N	\N	\N	\N	Super Invaders	????	bootleg	\N	\N	\N	
+game_comment	Laser_v0.20a	superinv	 Instead of the correct ROMs (00/01/03/04/05), superinv really loads:	
+game_comment	Laser_v0.20a	superinv	\tinvaders.h, invaders.g and invaders.f from invaders	
+game_comment	Laser_v0.20a	superinv	\t04 from invadpt2 (which does not exist)	
+game_comment	Laser_v0.20a	superinv	\t05 from invaddlx (which does not exist)	
+game_comment	Laser_v0.20a	superinv	 i.e. superinv WILL NOT LOAD into the emulator!	
+game_rom	Laser_v0.20a	superinv	00	\N	\N	1024	7a9b4485	dde918ec106971972bf7c7e5085c1262522f7e35	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	superinv	01	\N	\N	1024	7c86620d	9e92ec0aa4eee96a7fa115a14a611c488d13b9dd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	superinv	02	\N	\N	1024	ccaf38f6	8eb0456e8abdba0d1dda20a335a9ecbe7c38f9ed	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	superinv	03	\N	\N	1024	8ec9eae2	48d7a7dc61e0417ca4093e5c2a36efd96e359233	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	superinv	04	\N	\N	1024	68719b30	2084bd63cd61ef1d2497c32112cdb42b7b582da4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	superinv	05	\N	\N	1024	8abe2466	17494b1e5db207e37a7d28d7c89cbc5f36b7aefc	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sstrangr	\N	\N	\N	\N	\N	Space Stranger	1978	Yachiyo Electronics, Ltd.	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-01.58	\N	\N	1024	feec7600	787a6be4e24ce931e7678e777699b9f6789bc199	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-02.59	\N	\N	1024	7281ff0b	56649d1362be1b9f517cb8616cbf9e4f955e9a2d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-03.60	\N	\N	1024	a09ec572	9c4ad811a6c0460403f9cdc9fe5381c460249ff5	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-04.61	\N	\N	1024	ec411aca	b72eb6f7c3d69e2829280d1ab982099f6eff0bde	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-05.62	\N	\N	1024	7b1b81dd	3fa6e244e203fb75f92b19db7b4b18645b3f66a3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-06.63	\N	\N	1024	de383625	7ec0d7171e771c4b43e026f3f50a88d8ab2236bb	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-07.64	\N	\N	1024	2e41d0f0	bba720b0c5a7bd47abb8bc8498a989e17dc52428	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrangr	hss-08.65	\N	\N	1024	bd14d0b0	9665f639afef9c1291f2efc054216ff44c595b45	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	sstrngr2	\N	\N	\N	\N	\N	Space Stranger 2	1979	Yachiyo Electronics, Ltd.	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrngr2	4764.09	\N	\N	8192	d88f86cc	9f284ee50caf3c64bd04a79a798de620348881bc	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrngr2	2708.10	\N	\N	1024	eba304c1	3fa6fbb29fa46c146283f69a712bfc51cbb2a43c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	sstrngr2	2708.15	\N	\N	1024	c176a89d	955dd540dc3787091c3f34ae122a13e6b7523414	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	moonbase	\N	\N	\N	\N	\N	Moon Base	????	Nichibutsu	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	pv.01	\N	\N	2048	7288a511	ff617872784c28ed03591aefa9f0519e5651701f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	pv.02	\N	\N	2048	097dd8d5	8d68654d54d075c0f0d7f63c87ff4551ce8b7fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-5.bin	\N	\N	1024	2b105ed3	fa0767089b3aaec25be39e950e7163ecbdc2f39f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-6.bin	\N	\N	1024	cb3d6dcb	b4923b12a141c76b7d50274f19a3224db26a5669	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-7.bin	\N	\N	1024	774b52c9	ddbbba874ac069fb930b364a890c45675ec389f7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-8.bin	\N	\N	1024	e88ea83b	ef05be4783c860369ee5ecd4844837207e99ad9f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-9.bin	\N	\N	1024	2dd5adfa	62cb98cad1e48de0e0cbf30392d35834b38dadbd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	moonbase	ze3-10.bin	\N	\N	1024	1e7c22a4	b34173375494ffbf5400dd4014a683a9807f4f08	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spcewar1	\N	\N	\N	\N	\N	Space War (Leijac)	1979	Leijac (Konami)	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewar1	spcewarl.1	\N	\N	2048	1fcd34d2	674139944e0d842a85bd21b326bd735e15453038	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewar1	spcewarl.2	\N	\N	2048	43bc65c5	5f9827c02c2d221e1607359c840374ff7fb92fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewar1	spcewarl.3	\N	\N	2048	7820df3a	53315857f4282c68624b338b068d80ee6828af4c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spcewar1	spcewarl.4	\N	\N	2048	adc05b8d	c4acf75537c0662a4785d5d6a90643239a54bf43	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	rollingc	\N	\N	\N	\N	\N	Rolling Crash / Moon Base	1979	Nichibutsu	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc01.bin	\N	\N	1024	66fa50bf	7451d4ff8d3b351a324aaecdbdc5b46672f5fdd0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc02.bin	\N	\N	1024	61c06ae4	7685c806e20e4a4a0508a547ac08ca8f6d75bb79	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc03.bin	\N	\N	1024	77e39fa0	16bf88af1b97c5a2a81e105af08b8d9d1f10dcc8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc04.bin	\N	\N	1024	3fdfd0f3	4c5e7136a766f3f16399e61eaaa0e00ef6b619f7	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc05.bin	\N	\N	1024	c26a8f5b	f7a541999cfe04c6d6927d285484f0f81857e04a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc06.bin	\N	\N	1024	0b98dbe5	33cedab82ddccb4caaf681fce553b5230a8d6f92	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc07.bin	\N	\N	1024	6242145c	b01bb02835dda89dc02604ec52e423167183e8c9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc08.bin	\N	\N	1024	d23c2ef1	909e3d53291dbd219f4f9e0047c65317b9f6d5bd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc09.bin	\N	\N	2048	2e2c5b95	33f4e2789d67e355ccd99d2c0d07301ec2bd3bc1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc10.bin	\N	\N	2048	ef94c502	07c0504b2ebce0fa6e53e6957e7b6c0e9caab430	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc11.bin	\N	\N	2048	a3164b18	7270af25fa4171f86476f5dc409e658da7fba7fc	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	rollingc	rc12.bin	\N	\N	2048	2052f6d9	036702fc40cf133eb374ed674695d7c6c79e8311	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	solfight	\N	\N	\N	\N	\N	Solar Fight	1979	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	solfight.m	\N	\N	2048	a4f2814e	e2437e3543dcc97eeaea32babcd4aec6455581ac	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	solfight.n	\N	\N	2048	5657ec07	9a2fb398841160f59483bb70060caba37addb8a4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	solfight.p	\N	\N	2048	ef9ce96d	96867b4f2d72f3a8827b1eb3a0748922eaa8d608	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	solfight.r	\N	\N	2048	4f1ef540	a798e57959e72bfb554dd2fed0e37027312f9ed3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	mw05	\N	\N	2048	3bc7d4c7	b084f8cd2ce0f502c2e915da3eceffcbb448e9c0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	solfight	solfight.t	\N	\N	2048	3b6fb206	db631f4a0bd5344d130ff8d723d949e9914b6f92	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spaceph	\N	\N	\N	\N	\N	Space Phantoms	1979	Zilec Games	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv01.bin	\N	\N	1024	de84771d	13a7e5eedb826cca4d59634d38db9fcf5e65b732	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv02.bin	\N	\N	1024	957fc661	ac0edc901d8033619f62967f8eaf53a02947e109	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv03.bin	\N	\N	1024	dbda38b9	73a277616a0c236b07c9ffa66f16a27a78c12d70	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv04.bin	\N	\N	1024	f51544a5	368411a2dadaebcbb4d5b6cf6c2beec036ce817f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv05.bin	\N	\N	1024	98d02683	f13958df8d385f532e993e4c34569d992904a4ed	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv06.bin	\N	\N	1024	4ec390fd	ade23efde5d55d282fbb28a5f8a1346601501b79	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv07.bin	\N	\N	1024	170862fd	ac64a97b1510ca81d4ef3a5fcf45b7e6c7414914	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv08.bin	\N	\N	1024	511b12cf	08ba43024c8574ded11aa457eca24b72984f5ea9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv09.bin	\N	\N	1024	af1cd1af	286d77e8556e475b291a3b1a53acaca8b7dc3678	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv10.bin	\N	\N	1024	31b7692e	043880750d134d04311eab55e30ee223977d3d17	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv11.bin	\N	\N	1024	50257351	5c3eb29f36f04b7fb8f0351ccf9c8cfc7587f927	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spaceph	sv12.bin	\N	\N	1024	a2a3366a	87032787450216d378406122effa95ea01145bf7	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	Laser_v0.20a	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	yosakdon	\N	\N	\N	\N	\N	Yosaku To Donbee (bootleg)	1979	bootleg	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd1.bin	\N	\N	1024	607899c9	219c0c99894715818606fba49cc75517f6f43e0c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd2.bin	\N	\N	1024	78336df4	b0b6254568d191d2d0b9c9280a3ccf2417ef3f38	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd3.bin	\N	\N	1024	c5af6d52	c40af79fe060562c64fc316881b7d0348e11ee3f	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd4.bin	\N	\N	1024	dca8064f	77a58137cc7f0b5fbe0e9e8deb9c5be88b1ebbcf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd5.bin	\N	\N	1024	38804ff1	9b7527b9d2b106355f0c8df46666b1e3f286b2e3	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd6.bin	\N	\N	1024	988d2362	deaf864b4e287cbc2585c2a11343b1ae82e15463	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	yosakdon	yd7.bin	\N	\N	1024	2744e68b	5ad5a7a615d36f57b6d560425e035c15e25e9005	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	lupin3	\N	\N	\N	\N	\N	Lupin III	1980	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp12.bin	\N	\N	2048	68a7f47a	dce99b3810331d7603fa468f1dea984e571f709b	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp13.bin	\N	\N	2048	cae9a17b	a333ba7db45325996e3254ab36162bb7577e8a38	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp14.bin	\N	\N	2048	3553b9e4	6affb5b6caf08f365c0dce669e44046295c3df91	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp15.bin	\N	\N	2048	acbeef64	50d78cdc9938285b6bf9fa81fa0f6c30b23e0756	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp16.bin	\N	\N	2048	19fcdc54	2f18ee8158321fff68886ffe793724001e8b18c2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp17.bin	\N	\N	2048	66289ab2	fc9b4a7b7a08d43f34beaf1a8e68ed0ff6148534	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	lupin3	lp18.bin	\N	\N	2048	2f07b4ba	982e4c437b39b45e23d15af1b2fc8c7aa3034559	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	spclaser	\N	\N	\N	\N	\N	Space Laser	1980	Game Plan, Inc. (Taito)	\N	\N	\N	
+game_rom	Laser_v0.20a	spclaser	la01	\N	\N	2048	bedc0078	a5bb0cbbb8e3f27d03beb8101b2be1111d73689d	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spclaser	spcewarl.2	\N	\N	2048	43bc65c5	5f9827c02c2d221e1607359c840374ff7fb92fbf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spclaser	la03	\N	\N	2048	1083e9cc	7ad45c6230c9e02fcf51e3414c15e2237eebbd7a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	spclaser	la04	\N	\N	2048	5116b234	b165b2574cbcb26a5bb43f91df5f8be5f111f486	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	ozmawars	\N	\N	\N	\N	\N	Ozma Wars (set 1)	1979	SNK	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw01	\N	\N	2048	31f4397d	bba9765aadd608d19e2515a5edf8e0eceb70916a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw02	\N	\N	2048	d8e77c62	84fc81cf9a924ecbb13a008cd7435b7d465bddf6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw03	\N	\N	2048	3bfa418f	7318878202322a2263551ca463e4c70943401f68	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw04	\N	\N	2048	e190ce6c	120898e9a683f5ce874c6fde761570a26de2fa8c	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw05	\N	\N	2048	3bc7d4c7	b084f8cd2ce0f502c2e915da3eceffcbb448e9c0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawars	mw06	\N	\N	2048	99ca2eae	8d0f220f68043eff0c85d2de7bee7fd4365fb51c	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	ozmawar2	\N	\N	ozmawars	ozmawars	\N	Ozma Wars (set 2)	1979	SNK	\N	\N	\N	
+game_comment	Laser_v0.20a	ozmawar2	 All ROMs must be stored in ozmawars - impossible with any ROM manager	
+game_comment	Laser_v0.20a	ozmawar2	 i.e. ozmawar2 WILL NOT LOAD into the emulator!	
+game_rom	Laser_v0.20a	ozmawar2	mw01	mw01	\N	2048	31f4397d	bba9765aadd608d19e2515a5edf8e0eceb70916a	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	mw02	mw02	\N	2048	d8e77c62	84fc81cf9a924ecbb13a008cd7435b7d465bddf6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz5	\N	\N	1024	5597bf52	626c7348365ed974d416485d94d057745b5d9b96	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz6	\N	\N	1024	19b43578	3609b7c77f5ee6f10f302892f56fcc8375577f20	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz7	\N	\N	1024	a285bfde	ed7a9fce4d887d3b5d596645893ea87c0bafda02	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz8	\N	\N	1024	ae59a629	0c9ea67dc35f93ec65ec91e1dab2e4b6212428bf	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	mw05	mw05	\N	2048	3bc7d4c7	b084f8cd2ce0f502c2e915da3eceffcbb448e9c0	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz11	\N	\N	1024	660e934c	1d50ae3a9de041b908e256892203ce1738d588f6	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ozmawar2	oz12	\N	\N	1024	8b969f61	6d12cacc73c31a897812ccd8de24725ee56dd975	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	schaser	\N	\N	\N	\N	\N	Space Chaser	1980	Taito	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt13.bin	\N	\N	1024	0dfbde68	7367b138ad8448aba9222fed632a892df65cecbd	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt14.bin	\N	\N	1024	5a508a25	c681d0bbf49317e79b596fb094e66b8912f0e409	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt15.bin	\N	\N	1024	2ac43a93	d364f0940681a888c0147e06bcb01f8a0d4a24c8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt16.bin	\N	\N	1024	f5583afc	5e8edb43ccb138fd47ac8f3da1af79b4444a4a82	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt17.bin	\N	\N	1024	51cf1155	fd8c82d951602fd7e0ada65fc7cdee9f277c70db	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt18.bin	\N	\N	1024	3f0fc73a	b801c3f1e8e6e41c564432db7c5891f6b27293b2	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt19.bin	\N	\N	1024	b66ea369	d277f572f9c7c4301518546cf60671a6539326ee	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt20.bin	\N	\N	1024	e3a7466a	2378970f38b0cec066ef853a6540500e468e4ab4	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt21.bin	\N	\N	1024	b368ac98	6860efe0496955db67611183be0efecda92c9c98	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	schaser	rt22.bin	\N	\N	1024	6e060dfb	614e2ecf676c3ea2f9ea869125cfffef2f713684	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	laser	\N	\N	\N	\N	\N	Laser	1980	<unknown>	\N	\N	\N	
+game_rom	Laser_v0.20a	laser	1.u36	\N	\N	2048	b44e2c41	00e0b2e088495d6f3bc175e8a53dcb3686ea8484	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	laser	2.u35	\N	\N	2048	9876f331	14e36b26d186d9a195492834ef989ed5664d7b65	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	laser	3.u34	\N	\N	2048	ed79000b	bfe0407e833ce61aa909f5f1f93c3fc1d46605e9	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	laser	4.u33	\N	\N	2048	10a160a1	e2d4208af11b65fc42d2856e57ee3c196f89d360	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	beaminv	\N	\N	\N	\N	\N	Beam Invaders	????	Nintendo	\N	\N	\N	
+game_comment	Laser_v0.20a	beaminv	 beaminv uses some incorrect ROMs:	
+game_comment	Laser_v0.20a	beaminv	\tinvaders.h, invaders.g and invaders.f from invaders	
+game_comment	Laser_v0.20a	beaminv	\t(instead of 5a, 4a and 3a)	
+game_comment	Laser_v0.20a	beaminv	 So long as invaders is complete though, beaminv will still run	
+game_rom	Laser_v0.20a	beaminv	5a	\N	\N	1024	ec08bc1f	e1df6704298e470a77158740c275fdca105e8f69	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	beaminv	4a	\N	\N	1024	3eebf757	990eebda80ec52b7e3a36912c6e9230cd97f9f25	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	beaminv	3a	\N	\N	1024	4f62c2e6	4bd7d5e4f18d250003c7d771f1cdab08d699a765	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	beaminv	2a	\N	\N	1024	ebaa2fc8	b4ff1e1bdfe9efdc08873bba2f0a30d24678f9d8	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	beaminv	1a	\N	\N	1024	aa9e1666	050e2bd169f1502f49b7e6f5f2df9dac0d8107aa	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	beaminv	0a	\N	\N	1024	17503086	18c789216e5c4330dba3eeb24919dae636bf803d	\N	\N	\N	\N	\N	\N	
+game	Laser_v0.20a	ace	\N	\N	\N	\N	\N	Ace	1976	Allied Leisure	\N	\N	\N	
+game_rom	Laser_v0.20a	ace	ace.a1	\N	\N	512	16811834	5502812dd161908eea3fa8851d7e5c1e22b0f8ff	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ace	ace.a2	\N	\N	512	f9eae80e	8865b86c7b5d57c76312c16f8a614bf35ffaf532	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ace	ace.a3	\N	\N	512	c5c63b8c	2079dd12ff0c4aafec19aeb9baa70fc9b6788356	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ace	ace.a4	\N	\N	512	ea4503aa	fea610124b9f7ea18d29b4e4599253ba1ee067e1	\N	\N	\N	\N	\N	\N	
+game_rom	Laser_v0.20a	ace	ace.a5	\N	\N	512	623c58e7	a92418bc323a1ae76eae8e094e4d6ebd1e8da14e	\N	\N	\N	\N	\N	\N	

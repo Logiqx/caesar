@@ -1,0 +1,20 @@
+
+emulator	modeler	multi	Modeler_v0.9.3a	\N	\N	\N	Modeler	0.9.3a	09/12/2001	Windows	Sega System 32 and Model 1 games	Modeler was originally developed by Farfetch'd but later developed by Richter Belmont as well. Now discontinued in favour of adding these systems to MAME.	Discontinued
+emulator_homepage	modeler	http://www.emuhype.com/	\N
+emulator_author_link	modeler	farfetchd	\N	author
+
+emulator_author_link	modeler	richter_belmont	\N	author
+
+emulator_author_link	modeler	sarayan	\N	author
+
+emulator_library_link	modeler	raze
+emulator_tool_link	modeler	msvc
+emulator_tool_link	modeler	eagle
+emulator_tool_link	modeler	zlib
+emulator_features	modeler	Yes	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	modeler	Keyboard
+emulator_relative_link	modeler	modeler_linux	port
+
+emulator_relative_link	modeler	modeler_mac	port
+
+emulator_file	modeler	Emulator	Modeler093a.zip

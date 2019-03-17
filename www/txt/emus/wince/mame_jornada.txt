@@ -1,0 +1,12 @@
+
+emulator	mame_jornada	wince	dummy	\N	\N	\N	MAME for Jornada 720	3	16/07/2001	WinCE	Emulates a subset of MAME games	A Jornada 720 port of M.A.M.E based on the original source from Gandalf. An ARM version is available but there is no SH3 version (yet).	Dormant
+emulator_homepage	mame_jornada	http://www.johnlomax.com/720.htm	\N
+emulator_author_link	mame_jornada	kevin_ng	\N	author
+
+emulator_author_link	mame_jornada	john_lomax	\N	author
+
+emulator_features	mame_jornada	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mame_jornada	Buttons
+emulator_relative_link	mame_jornada	imame_ipaq	modification_of
+
+emulator_relative_link	mame_jornada	mame	port_of

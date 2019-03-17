@@ -1,0 +1,12 @@
+
+emulator	cinelator95	multi	Cinelator_95_Beta	\N	\N	\N	Cinelator 95 (A Cinematronics Emulator)	Beta	28/11/1998	Windows	Cinematronics Vector Games	\N	Dormant
+emulator_homepage	cinelator95	http://www.oakland.edu/~phkahler/emu/emulate.html	bad
+emulator_author_link	cinelator95	paul_kahler	\N	author
+
+emulator_author_link	cinelator95	kurt_mahan	\N	author
+
+emulator_tool_link	cinelator95	msvc
+emulator_features	cinelator95	No	No	No	No	No	No	No	No	No	?	No	No	No
+emulator_controller	cinelator95	Keyboard
+emulator_file	cinelator95	Emulator	cinelatr.zip
+emulator_file	cinelator95	Fixed config for Star Castle - one by Logiqx (modified released config) and one by Paul (includes colour changes)	config.zip

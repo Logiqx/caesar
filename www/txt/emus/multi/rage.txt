@@ -1,0 +1,17 @@
+
+emulator	rage	multi	RAGE_v0.9	\N	\N	\N	RAGE (Real Arcade Game Emulator)	0.9	15/03/1998	DOS	Irem, SNK and Capcom Games	100% assembler. Faster than MAME but sound is often missing (see M72 instead)	Dormant
+emulator_homepage	rage	http://home5.swipnet.se/~w-50884/emulator/rage.htm	\N
+emulator_author_link	rage	anders_nilsson	\N	author
+
+emulator_author_link	rage	janne_korpela	\N	author
+
+emulator_library_link	rage	maze
+emulator_features	rage	Yes	No	No	No	No	No	No	No	No	Yes	No	No	Yes
+emulator_controller	rage	Keyboard
+emulator_controller	rage	Joystick
+emulator_relative_link	rage	ikari	predecessor
+
+emulator_relative_link	rage	sonson	predecessor
+
+emulator_file	rage	Emulator	rage09.zip
+emulator_file	rage	Game Drivers	ragedrv.zip

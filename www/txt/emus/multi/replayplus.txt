@@ -1,0 +1,23 @@
+
+emulator	replayplus	multi	Replay+_v1.00	\N	\N	\N	Replay+	1.00	23/06/1998	DOS	Data East, Namco and Konami games from the 80's	Rewrite of the original Replay emulator.	Dormant
+emulator_homepage	replayplus	http://www.icomm.ca/replay/	\N
+emulator_homepage	replayplus	http://howtoemulation.emuhq.com/pages/replay/	\N
+emulator_author_link	replayplus	kevin_brisley	\N	author
+
+emulator_library_link	replayplus	multi6502
+emulator_library_link	replayplus	multiz80
+emulator_library_link	replayplus	multi6809
+emulator_library_link	replayplus	starscream
+emulator_tool_link	replayplus	djgpp
+emulator_tool_link	replayplus	nasm
+emulator_tool_link	replayplus	allegro
+emulator_tool_link	replayplus	seal
+emulator_features	replayplus	Yes	Yes (C++)	Yes	Yes	Yes	Yes	Yes	No	No	Yes	Yes	No	Yes
+emulator_controller	replayplus	Keyboard
+emulator_controller	replayplus	Joystick
+emulator_relative_link	replayplus	replay	predecessor
+
+emulator_relative_link	replayplus	replayplus_linux	port
+
+emulator_file	replayplus	Emulator	rpbd100.zip
+emulator_file	replayplus	Source	rpd_100.zip

@@ -1,0 +1,8 @@
+
+emulator	invaders_ce	wince	Space_Invaders_v0.0.4	\N	\N	\N	Space Invaders	0.0.4	28/09/2000	WinCE	Space Invaders (Taito)	Playable but no sound. Only MIPS binary and only tested on Compaq Aero 1500.	Dormant
+emulator_homepage	invaders_ce	http://aemu.cjb.net/	\N
+emulator_author_link	invaders_ce	boris_fr	\N	author
+
+emulator_features	invaders_ce	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	invaders_ce	Buttons
+emulator_file	invaders_ce	Emulator	spaceinvaders_exe.zip

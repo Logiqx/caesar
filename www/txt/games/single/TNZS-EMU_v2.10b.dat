@@ -1,0 +1,42 @@
+game	TNZS-EMU_v2.10b	tnzs	\N	\N	\N	\N	\N	The NewZealand Story (Japan)	1988	Taito Corporation	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5310.bin	\N	\N	131072	a73745c6	73eb38e75e08312d752332f988dc655084b4a86d	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5311.bin	\N	\N	65536	9784d443	bc3647aac9974031dbe4898417fbaa99841f9548	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5316.bin	\N	\N	131072	c3519c2a	30fe7946fbc95ab6b3ccb6944fb24bf47bf3d743	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5317.bin	\N	\N	131072	2bf199e8	4ed73e4f00ae2f5f4028a0ea5ae3cd238863a370	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5318.bin	\N	\N	131072	92f35ed9	5fdd8d6ddbb7be9887af3c8dea9ad3b58c4e86f9	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5319.bin	\N	\N	131072	edbb9581	539396a01ca0b69455f000d446759b232530b542	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5322.bin	\N	\N	131072	59d2aef6	b657b7603c3eb5f169000d38497ebb93f26f7832	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5323.bin	\N	\N	131072	74acfb9b	90b544ed7ede7565660bdd13c94c15c54423cda9	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5320.bin	\N	\N	131072	095d0dc0	ced2937d0594fa00ae344a4e3a3cba23772dc160	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs	nzsb5321.bin	\N	\N	131072	9800c54d	761647177d621ac2cdd8b009876eed35809f3c92	\N	\N	\N	\N	\N	\N	
+game	TNZS-EMU_v2.10b	tnzs_alt	\N	\N	\N	\N	\N	The NewZealand Story 2 (World)	1988	Taito Corporation Japan	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_c-11.rom	\N	\N	131072	3c1dae7b	0004fccc171714c80565326f8690f9662c5b75d9	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_e-3.rom	\N	\N	65536	c7662e96	be28298bfde4e3867cfe75633ffb0f8611dbbd8b	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a13.rom	\N	\N	131072	7e0bd5bb	95dfb00ec915778e02d8bfa996735ab817191adc	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a12.rom	\N	\N	131072	95880726	f4fdedd23e80a6ccf32f737ab4bc57f9fc0925be	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a10.rom	\N	\N	131072	2bc4c053	cd7668a7733e5e80c2c566d0cf63c4310e5743b4	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a08.rom	\N	\N	131072	8ff8d88c	31977e39ad048a077e9b5bd712ff66b14a466d27	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a07.rom	\N	\N	131072	291bcaca	4f659a0cd2ff6b4ec04ab95ee8a670222c402c2b	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a05.rom	\N	\N	131072	6e762e20	66731fe4053b9c09bc9c95d10aba212db08b4636	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a04.rom	\N	\N	131072	e1fd1b9d	6027491b927c2ab9c77fbf8895da1abcfbe32d62	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_alt	ns_a02.rom	\N	\N	131072	2ab06bda	2b208b564e55c258665e1f66b26fe14a6c68eb96	\N	\N	\N	\N	\N	\N	
+game	TNZS-EMU_v2.10b	tnzs_new	\N	\N	\N	\N	\N	The NewZealand Story (Japan) - New Version	1988	Taito Corporation	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz9	\N	\N	65536	c7332040	6bb7b14a15d80caa9761fc401e322409f5b57ff4	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz10	\N	\N	65536	708005ac	64167868963b6cf1f3baff587ed9ec6a55ea459f	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz11	\N	\N	65536	7fe204da	910ac0c302d0340e768f19ab290d83e97d2df7ab	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz12	\N	\N	65536	943a744d	4e83631ad04bae4610b21d1891cbb1a0d9e9cb15	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz13	\N	\N	65536	81ed38cb	ea8357ef00c51523622154ed86eaff6b1e9859cb	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz14	\N	\N	65536	03ee1f1b	eb9451c846a0ff85bc536c604eec3d96f6ccf266	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz15	\N	\N	65536	fbeda025	11a3b912dd362df021086d61bd12529ca30445d4	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz16	\N	\N	65536	665c76f1	76157052da1d2b69ed19c2f503aad10be12375c9	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz17	\N	\N	65536	9784d443	bc3647aac9974031dbe4898417fbaa99841f9548	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz18	\N	\N	65536	d0c447fd	a2d1f57687baaff63391a90aace15b939330aa1a	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz19	\N	\N	65536	af3e83d5	97ef841b2be9976fdc92be38953588cd60f451e5	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz2	\N	\N	65536	4ca902fa	d0a5d74d2cdfee4c7eba0a80cde398f7b8a86766	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz3	\N	\N	65536	8de4c673	bfaa0515eb7304b7a71b992f287f3aa859710c17	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz4	\N	\N	65536	3d6ee15c	4a29cbbc4779393b4f9bdcf5931ebcc391d93b72	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz5	\N	\N	65536	13b708ea	08a9cb1f9e1c7948d9c5d8b7396f909330e41aa3	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz6	\N	\N	65536	8f123170	779c8c68f38a2d1ca227db9a842b454ab17b8d54	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz7	\N	\N	65536	772baddb	a448be24c2bd8c2286ab291b4e2ef6bc2592f148	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz8	\N	\N	65536	2edffcce	1d7d5c415ac371b2ad169518ab4e61b43364d480	\N	\N	\N	\N	\N	\N	
+game_rom	TNZS-EMU_v2.10b	tnzs_new	nz1	\N	\N	65536	d87fabab	2e70e01b7cc642eb7a271d64ca474ff91ef55edb	\N	\N	\N	\N	\N	\N	

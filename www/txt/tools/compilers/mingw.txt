@@ -1,0 +1,20 @@
+
+tool	mingw	compilers	MinGW	3.4.2	13/01/2005	Port of GNU C/C++ compiler for Windows
+tool_homepage	mingw	http://sourceforge.net/projects/mingw/	\N
+tool_author_link	mingw	mingw
+tool_emulator_link	mingw	dice
+tool_emulator_link	mingw	finalburnalpha
+tool_emulator_link	mingw	gxp
+tool_emulator_link	mingw	mame
+tool_emulator_link	mingw	raine32
+tool_emulator_link	mingw	sega_system_24_emulator
+tool_emulator_link	mingw	snamew
+tool_emulator_link	mingw	tickle
+tool_file	mingw	GCC	gcc-core-3.4.2-20040916-1.tar.gz
+tool_file	mingw	binutils	binutils-2.15.91-20040904-1.tar.gz
+tool_file	mingw	MinGW Runtime	mingw-runtime-3.9.tar.gz
+tool_file	mingw	Windows API	w32api-3.6.tar.gz
+tool_file	mingw	GDB (GNU Debugger)	gdb-5.2.1-1.exe
+tool_file	mingw	MSYS 1.0.10	MSYS-1.0.10.exe
+tool_file	mingw	DirectX 7.0 libraries and headers	dx70_mgw.zip
+tool_file	mingw	UPX 1.25 for Windows (useful for compacting executables)	upx125w.zip

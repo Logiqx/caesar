@@ -1,0 +1,18 @@
+
+emulator	hive	multi	HiVE_v1.04	\N	\N	\N	HiVE (High Velocity Emulator)	1.04	09/12/1999	Windows	Classic Williams/Namco/Taito/Midway games of the late 70's and early 80's.	A good windows emulator for classic games. Version 1.03 is also available in Spanish, Portuguese, Italian and French.	Dormant
+emulator_homepage	hive	http://hive.speedhost.com/	\N
+emulator_author_link	hive	larry_bank	\N	author
+
+emulator_tool_link	hive	msvc
+emulator_tool_link	hive	zlib
+emulator_features	hive	Yes	No	Yes	Yes	Yes	No	No	No	No	Yes	No	\N	\N
+emulator_controller	hive	Keyboard
+emulator_controller	hive	Joystick
+emulator_relative_link	hive	cage	predecessor
+
+emulator_file	hive	Emulator	hive104.zip
+emulator_file	hive	Samples for Asteroids	asteroid.zip
+emulator_file	hive	Samples for Galaga	galaga.zip
+emulator_file	hive	Samples for Invaders	invaders.zip
+emulator_file	hive	Samples for Rally-X	rallyx.zip
+emulator_file	hive	Samples for Targ	targ.zip

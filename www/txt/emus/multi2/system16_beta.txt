@@ -1,0 +1,21 @@
+
+emulator	system16_beta	multi2	System16_(last_beta)_-_v0.82	extra	\N	\N	System 16 (Beta)	final beta	30/05/1999	DOS	Sega System 16 Games	No need for samples in this version. Has four games that v0.82a doesn't (After Burner, Body Slam, Quartet and Wonder Boy III)	Development Stopped
+emulator_homepage	system16_beta	http://www.system16.com/	\N
+emulator_author_link	system16_beta	thierry_lescott	\N	author
+
+emulator_author_link	system16_beta	li_jih_hwa	\N	author
+
+emulator_library_link	system16_beta	starscream
+emulator_library_link	system16_beta	multiz80
+emulator_tool_link	system16_beta	djgpp
+emulator_tool_link	system16_beta	nasm
+emulator_tool_link	system16_beta	allegro
+emulator_tool_link	system16_beta	eagle
+emulator_tool_link	system16_beta	seal
+emulator_features	system16_beta	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No	Yes	No	\N	\N
+emulator_controller	system16_beta	Keyboard
+emulator_controller	system16_beta	Joystick
+emulator_relative_link	system16_beta	system16	alt_version
+
+emulator_file	system16_beta	Source and Executable for final beta	s16beta.zip
+emulator_file	system16_beta	Source for final beta	s16source.zip

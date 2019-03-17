@@ -1,0 +1,10 @@
+
+emulator	atari_collection	psx	Arcades_Greatest_Hits_PSX_-_The_Atari_Collection_1	\N	\N	\N	Arcades Greatest Hits: The Atari Collection 1	-	1996	Playstation	Asteroids, Battlezone, Centipede, Missile Command, Super Breakout, Tempest	The second of the arcade emulators that Digital Eclipse created for the Playstation.	Released
+emulator_homepage	atari_collection	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_collection	midway	\N	author
+
+emulator_features	atari_collection	Yes	No	No	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_collection	Joypad
+emulator_author_link	atari_collection	digital_eclipse	Development	contributor
+
+emulator_relative_link	atari_collection	atari_collection_sat	port

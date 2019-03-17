@@ -1,0 +1,7 @@
+
+author	andrew_seed	Andrew Seed	\N
+author_emulator_link	andrew_seed	taito_legends	contributor
+
+author_emulator_link	andrew_seed	taito_legends_ps2	contributor
+
+author_emulator_link	andrew_seed	taito_legends_xbox	contributor

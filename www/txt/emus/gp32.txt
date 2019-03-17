@@ -1,0 +1,4 @@
+
+emulator_contents	gp32	Emulators for the GP32	These emulators are all for the GP32 handheld
+emulator_contents_emulator_link	gp32	mame_gp32
+emulator_contents_emulator_link	gp32	multipac_gp32

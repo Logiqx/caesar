@@ -1,0 +1,10 @@
+
+emulator	milliemu	single	milliEmu_v0.0.2	\N	\N	\N	milliEmu	0.0.2	02/05/1999	Windows	Millipede (Atari)	Written in Visual Basic	Dormant
+emulator_homepage	milliemu	http://home.att.net/~r.jarrett/milliEmu.html	\N
+emulator_author_link	milliemu	don_jarrett	\N	author
+
+emulator_library_link	milliemu	m6502_slomo
+emulator_tool_link	milliemu	vb
+emulator_features	milliemu	No	Visual Basic	No	No	No	No	No	No	No	No	\N	\N	\N
+emulator_controller	milliemu	Keyboard
+emulator_file	milliemu	Emulator	milliemu.zip

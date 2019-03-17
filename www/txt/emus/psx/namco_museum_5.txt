@@ -1,0 +1,7 @@
+
+emulator	namco_museum_5	psx	Namco_Museum_Vol_5	\N	\N	\N	Namco Museum Vol 5	-	1997	Playstation	Pac-Mania, Metro Cross, Baraduke, Legend of the Valkyrie, Dragon Spirit	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum_5	http://www.namco.com/	\N
+emulator_author_link	namco_museum_5	namco	\N	author
+
+emulator_features	namco_museum_5	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum_5	Joypad

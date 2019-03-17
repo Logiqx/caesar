@@ -1,0 +1,15 @@
+
+emulator	neogem	multi	empty	\N	\N	\N	NEOGem	0.022	17/03/1999	DOS	SNK Neo-Geo games	NEOGem is an emulator for the home console and arcade Neo-Geo systems (Neo-Geo CD is not supported). Sorry but I can't list the games that are supported here in CAESAR. It would be a huge amount of work to work out the required ROMs without CRC information in the emulator!	Discontinued
+emulator_homepage	neogem	http://www.emuspain.com/neogem	bad
+emulator_author_link	neogem	cristobal_aguilera	\N	author
+
+emulator_author_link	neogem	luis_miguel_dominguez	\N	author
+
+emulator_library_link	neogem	starscream
+emulator_library_link	neogem	multiz80
+emulator_tool_link	neogem	djgpp
+emulator_tool_link	neogem	allegro
+emulator_features	neogem	Yes	No	No	Yes	No	No	No	No	Yes	Yes	\N	\N	\N
+emulator_controller	neogem	Keyboard
+emulator_controller	neogem	Joystick
+emulator_file	neogem	Emulator	neogem.zip

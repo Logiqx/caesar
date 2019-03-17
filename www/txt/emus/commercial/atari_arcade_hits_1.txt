@@ -1,0 +1,12 @@
+
+emulator	atari_arcade_hits_1	commercial	Atari_Arcade_Hits_1	\N	\N	\N	Atari Arcade Hits 1	-	1999	Windows	Asteroids, Pong, Centipede, Missile Command, Super Breakout, Tempest	The first Atari set that Digital Eclipse created for Hasbro Interactive.	Released
+emulator_homepage	atari_arcade_hits_1	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_arcade_hits_1	hasbro_interactive	\N	author
+
+emulator_features	atari_arcade_hits_1	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_arcade_hits_1	Keyboard
+emulator_controller	atari_arcade_hits_1	Joystick
+emulator_controller	atari_arcade_hits_1	Mouse
+emulator_author_link	atari_arcade_hits_1	digital_eclipse	Development	contributor
+
+emulator_file	atari_arcade_hits_1	Official patch	AAHPatch.exe

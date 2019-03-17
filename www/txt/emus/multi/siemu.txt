@@ -1,0 +1,14 @@
+
+emulator	siemu	multi	SIEmu_v1.03	\N	\N	\N	8080A Simulator (siemu)	1.03	15/11/2002	Windows	Space Invaders (Taito)	A simple Space Invaders emulator. Can also emulate other Space Invaders clones if you name the ROMs appropriately. Requires SDL library to run.	Dormant
+emulator_homepage	siemu	http://www.darkpact.com/proj/	\N
+emulator_author_link	siemu	anoakie_turner	\N	author
+
+emulator_tool_link	siemu	sdl
+emulator_features	siemu	Yes	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	siemu	Keyboard
+emulator_relative_link	siemu	siemu_beos	port
+
+emulator_relative_link	siemu	siemu_linux	port
+
+emulator_file	siemu	Emulator and source (ZIP)	siemu-1.03.zip
+emulator_file	siemu	Emulator and source (GZip)	siemu-1.03.tar.gz

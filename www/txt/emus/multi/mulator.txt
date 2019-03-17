@@ -1,0 +1,13 @@
+
+emulator	mulator	multi	M-Ulator_v0.14	\N	\N	\N	M-Ulator	0.14	27/06/1997	DOS	Galaga, DigDug, Bosconian and Xevious (all Namco)	Author stopped work on this project to contribute to MAME	Discontinued
+emulator_homepage	mulator	http://www.users.bigpond.com/mnm	bad
+emulator_author_link	mulator	martin_scragg	\N	author
+
+emulator_library_link	mulator	z80em
+emulator_tool_link	mulator	allegro
+emulator_tool_link	mulator	djgpp
+emulator_tool_link	mulator	seal
+emulator_features	mulator	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	mulator	Keyboard
+emulator_controller	mulator	Joystick
+emulator_file	mulator	Emulator	M-ulator V0.14 [Dos].zip

@@ -1,0 +1,4 @@
+
+author	john_lomax	John Lomax	\N
+author_email	john_lomax	john@johnlomax.com
+author_emulator_link	john_lomax	mame_jornada	author

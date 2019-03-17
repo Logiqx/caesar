@@ -1,0 +1,17 @@
+
+emulator	mameui	multi2	dummy	\N	\N	\N	MameUI	0.121	18/11/2007	Windows	Emulates far more than anything else!	The latest beta release of MameUI. 32-bit and 64-bit versions are available.	Active
+emulator_homepage	mameui	http://mameui.classicgaming.gamespy.com/	\N
+emulator_homepage	mameui	http://www.classicgaming.com/mame32qa/	\N
+emulator_homepage	mameui	http://www.classicgaming.com/mame32/	\N
+emulator_author_link	mameui	michael_soderstrom	\N	author
+
+emulator_tool_link	mameui	msvc
+emulator_tool_link	mameui	midas
+emulator_tool_link	mameui	zlib
+emulator_features	mameui	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mameui	Keyboard
+emulator_controller	mameui	Joystick
+emulator_controller	mameui	Mouse
+emulator_relative_link	mameui	mame	modification_of
+
+emulator_relative_link	mameui	mamece	derivative

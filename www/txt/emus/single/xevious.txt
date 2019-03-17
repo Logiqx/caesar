@@ -1,0 +1,10 @@
+
+emulator	xevious	single	Xevious_Emulator_Demo_v1.6	\N	\N	\N	Xevious Emulator	1.6 (Demo)	19/06/1997	DOS	Xevious (Namco)	This demo version halts after the appearance of the first mother ship	Dormant
+emulator_homepage	xevious	http://ourworld.compuserve.com/homepages/ArcadeWin/Emulator.htm	\N
+emulator_author_link	xevious	heinrich_rueckeshaeuser	\N	author
+
+emulator_library_link	xevious	maze
+emulator_features	xevious	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	xevious	Keyboard
+emulator_controller	xevious	Joystick
+emulator_file	xevious	Emulator	xevious.zip

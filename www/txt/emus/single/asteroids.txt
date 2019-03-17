@@ -1,0 +1,13 @@
+
+emulator	asteroids	single	Asteroids_Emulator_v3.02	\N	\N	\N	Asteroids Emulator	3.02	01/01/1998	DOS	Asteroids (Atari)	This is written in 100% assembler and is very fast. The emulator runs fine under Windows9x in an MS-DOS window (full-screen)	Dormant
+emulator_homepage	asteroids	http://members.tripod.com/~asteroids/	bad
+emulator_author_link	asteroids	chris_pile	\N	author
+
+emulator_features	asteroids	Samples	Assembler	No	Yes	No	No	Yes	No	N/A	Yes	\N	\N	\N
+emulator_controller	asteroids	Keyboard
+emulator_controller	asteroids	Joystick
+emulator_relative_link	asteroids	amoad	successor
+
+emulator_file	asteroids	Emulator	asteroid.zip
+emulator_file	asteroids	Samples	astsamp.zip
+emulator_file	asteroids	Source	roidsors.zip

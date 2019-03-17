@@ -1,0 +1,8 @@
+
+author	lopantu	Mickey McMurray (Lopantu/Bender/MetaFox)	\N
+author_email	lopantu	bender@zophar.net
+author_emulator_link	lopantu	laser	author
+
+author_emulator_link	lopantu	laser32	author
+
+author_emulator_link	lopantu	laser_sdl	author

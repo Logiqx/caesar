@@ -1,0 +1,15 @@
+
+emulator	mrdo_nicola	single	Mr._Do!_Arcade_Machine_Emulator	\N	\N	\N	Mr. Do! Arcade Machine Emulator	?	05/02/1997	DOS	Mr Do! (Universal)	One of the single emulators Nicola wrote before starting MAME.	Discontinued
+emulator_homepage	mrdo_nicola	\N	none
+emulator_author_link	mrdo_nicola	nicola_salmoria	\N	author
+
+emulator_library_link	mrdo_nicola	z80em
+emulator_tool_link	mrdo_nicola	allegro
+emulator_tool_link	mrdo_nicola	seal
+emulator_tool_link	mrdo_nicola	djgpp
+emulator_features	mrdo_nicola	Yes	Yes	Yes	No	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	mrdo_nicola	Keyboard
+emulator_controller	mrdo_nicola	Joystick
+emulator_author_link	mrdo_nicola	paul_swan	Information about the sound hardware and colours	contributor
+
+emulator_file	mrdo_nicola	Emulator and source	mrdo.zip

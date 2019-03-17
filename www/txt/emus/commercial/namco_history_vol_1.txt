@@ -1,0 +1,9 @@
+
+emulator	namco_history_vol_1	commercial	Namco_History_Vol_1	\N	\N	\N	Namco History Vol 1	-	1997	Windows	Mappy, Xevious, Super Xevious, Toypop, Motos	Fully playable demos of Mappy and Xevious are available below. Very good emulation, includes ROMs and is freeware.	Released
+emulator_homepage	namco_history_vol_1	http://www.namco.co.jp/home/cs/pc/nh_vol1/	\N
+emulator_author_link	namco_history_vol_1	namco	\N	author
+
+emulator_features	namco_history_vol_1	Yes	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	namco_history_vol_1	Keyboard
+emulator_file	namco_history_vol_1	Mappy Emulator (inbuilt ROMs)	mappy95.zip
+emulator_file	namco_history_vol_1	Xevious Emulator (inbuilt ROMs)	xevious95.zip

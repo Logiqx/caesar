@@ -1,0 +1,10 @@
+
+emulator	m1_mac	mac	dummy	\N	\N	\N	M1 for the Mac	0.7.6	24/08/2005	Mac	Lots of arcade games!	A sound emulator that emulates a huge number of systems (over 900 games).	Active
+emulator_homepage	m1_mac	http://www.bannister.org/software/	\N
+emulator_author_link	m1_mac	richard_bannister	\N	author
+
+emulator_features	m1_mac	Yes	Yes	N/A	N/A	N/A	N/A	N/A	N/A	N/A	N/A	\N	\N	\N
+emulator_controller	m1_mac	Keyboard
+emulator_relative_link	m1_mac	m1_linux	port_of
+
+emulator_file	m1_mac	Emulator	m1-076.dmg

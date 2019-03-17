@@ -1,0 +1,14 @@
+
+emulator	calice	multi	Calice_v0.6.6	\N	\N	\N	Calice32	0.6.6	13/04/2003	Windows	Capcom CPS-1, CPS-2 (plus ZN-1/ZN-2 sound) and Sega System-16 games	This is by the author of BeGameboy and BePCEngine. It emulates Capcom CPS-1 and CPS-2 games plus the QSound from ZN-1 and ZN-2 games. It also emulates some of Sega's System-16 based games. The original DOS port is no longer supported.	Dormant
+emulator_homepage	calice	http://calice.emu-france.com/calice/	\N
+emulator_author_link	calice	david_raingeard	\N	author
+
+emulator_library_link	calice	starscream
+emulator_tool_link	calice	watcom
+emulator_tool_link	calice	nasm
+emulator_tool_link	calice	qmdx
+emulator_features	calice	Yes	No	No	Yes	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	calice	Keyboard
+emulator_file	calice	Calice v0.6.6 (Main release - 27/10/2002)	calice-0.6.6-win32.zip
+emulator_file	calice	Calice v0.6.6 (Mighty! Pang update - 13/04/2003)	calice-mpang-update.zip
+emulator_file	calice	Driver fixes by Logiqx (to avoid ROM name conflicts)	Calice v0.6.6.zip

@@ -1,0 +1,9 @@
+
+author	brad_oliver	Brad Oliver	\N
+author_email	brad_oliver	bradman@pobox.com
+author_homepage	brad_oliver	http://www.brad-oliver.com:8081/~boliver/blog/	\N
+author_emulator_link	brad_oliver	macmame	author
+
+author_emulator_link	brad_oliver	nemesis_mac	author
+
+author_emulator_link	brad_oliver	mame	contributor

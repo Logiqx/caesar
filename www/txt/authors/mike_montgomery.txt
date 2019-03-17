@@ -1,0 +1,7 @@
+
+author	mike_montgomery	Mike Montgomery	\N
+author_emulator_link	mike_montgomery	taito_legends	contributor
+
+author_emulator_link	mike_montgomery	taito_legends_ps2	contributor
+
+author_emulator_link	mike_montgomery	taito_legends_xbox	contributor

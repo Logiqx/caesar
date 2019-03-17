@@ -1,0 +1,11 @@
+
+emulator	asteroidsgl	single	AsteroidsGL	\N	\N	\N	AsteroidsGL	-	05/03/2005	Windows	Asteroids (Atari)	Part of the VectorGL series by Tim	Dormant
+emulator_homepage	asteroidsgl	http://webpages.charter.net/astgl/	\N
+emulator_author_link	asteroidsgl	tim_astgl	\N	author
+
+emulator_library_link	asteroidsgl	6502
+emulator_tool_link	asteroidsgl	msvc
+emulator_tool_link	asteroidsgl	allegro
+emulator_features	asteroidsgl	Yes	No	No	Yes	No	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	asteroidsgl	Keyboard
+emulator_file	asteroidsgl	Emulator	AsteroidsGL-03-05-2005.zip

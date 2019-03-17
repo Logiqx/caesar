@@ -1,0 +1,52 @@
+
+emulator	emudx	multi	EmuDX_v1.0	\N	\N	\N	EmuDX	1.0	29/01/2000	DOS	Donkey Kong, Frogger, Galaxian, Pacman, Ms Pacman	Enhances these classic games with better graphics and sound	Dormant
+emulator_homepage	emudx	http://emudx.emuviews.com/	bad
+emulator_author_link	emudx	mike_green	\N	author
+
+emulator_library_link	emudx	multiz80
+emulator_library_link	emudx	multi6502
+emulator_library_link	emudx	multi6809
+emulator_tool_link	emudx	djgpp
+emulator_tool_link	emudx	allegro
+emulator_tool_link	emudx	seal
+emulator_tool_link	emudx	zlib
+emulator_features	emudx	Yes	No	Yes	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	emudx	Keyboard
+emulator_controller	emudx	Joystick
+emulator_author_link	emudx	neil_bradley	Z80, M6502 and 6809 CPU Emulation. Additional Program code. Optimisation and general guidelines. Controller routines	contributor
+
+emulator_author_link	emudx	deakin_scott	In-Game Music + Sound effects	contributor
+
+emulator_author_link	emudx	vega_x	Lead Graphic artist	contributor
+
+emulator_author_link	emudx	martin_liguori	In-Game Music	contributor
+
+emulator_author_link	emudx	jorgen_bredskov	Game sound effects	contributor
+
+emulator_author_link	emudx	rodimus_prime	Pentium and AMD optimised versions	contributor
+
+emulator_author_link	emudx	don_quirin	Graphics (MoonCresta)	contributor
+
+emulator_author_link	emudx	andy_fielding	Musical intro for Pacman	contributor
+
+emulator_author_link	emudx	jay_lanagan	Sound effects (Pacman + Ms. Pacman)	contributor
+
+emulator_author_link	emudx	xraves	Sound effects	contributor
+
+emulator_author_link	emudx	djjeremy	Sound effects	contributor
+
+emulator_relative_link	emudx	pacdx	predecessor
+
+emulator_relative_link	emudx	emudx32	port
+
+emulator_file	emudx	Emulator	emudx1.zip
+emulator_file	emudx	Donkey Kong Graphics	dkongg.zip
+emulator_file	emudx	Donkey Kong Music	dkongm.zip
+emulator_file	emudx	Frogger Graphics	froggerg.zip
+emulator_file	emudx	Frogger Music	froggerm.zip
+emulator_file	emudx	Galaxian Graphics	galdxg.zip
+emulator_file	emudx	Galaxian Music	galdxm.zip
+emulator_file	emudx	MsPacman Graphics	mspacmang.zip
+emulator_file	emudx	MsPacman Music	mspacmanm.zip
+emulator_file	emudx	Pacman Graphics	pacmang.zip
+emulator_file	emudx	Pacman Music	pacmanm.zip

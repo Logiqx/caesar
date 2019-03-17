@@ -1,0 +1,10 @@
+
+emulator	pie_beos	beos	dummy	\N	\N	\N	PIE (Pacman Instructional Emulator) for BeOS	v1.12	21/01/2004	BeOS	Pacman and Ms. Pacman	This emulator has been written as an educational tool for those who are interested in knowing how an emulator works. For that use, some knowledge about emulators in general and some programming skills are required. But it is also a fully functional emulator that can be used to have some good fun, and since it is very small in size it can be downloaded very quickly or even sent to friends by e-mail as an attachment.	Discontinued
+emulator_homepage	pie_beos	http://www.beemulated.net/	\N
+emulator_author_link	pie_beos	caz_jones	\N	author
+
+emulator_features	pie_beos	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	pie_beos	Keyboard
+emulator_relative_link	pie_beos	pie	port_of
+
+emulator_file	pie_beos	Emulator	pie-1.12.zip

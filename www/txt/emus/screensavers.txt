@@ -1,0 +1,5 @@
+
+emulator_contents	screensavers	Screen Savers	These emulators are for use as windows screen savers!
+emulator_contents_emulator_link	screensavers	invadersaver
+emulator_contents_emulator_link	screensavers	pacsaver
+emulator_contents_emulator_link	screensavers	ssvbemu

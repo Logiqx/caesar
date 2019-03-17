@@ -1,0 +1,6 @@
+
+author	dave_spicer	Dave Spicer	\N
+author_email	dave_spicer	dave@sparcade.freeserve.co.uk
+author_emulator_link	dave_spicer	sparcade	author
+
+author_emulator_link	dave_spicer	sparcade_stable	author

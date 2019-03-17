@@ -1,0 +1,12 @@
+
+emulator	jasdd2	single	JAS-Dig_Dug_2_v1.00	\N	\N	\N	JAS-Dig Dug 2 (JROK's Arcade Simulator)	1.00	16/07/1997	DOS (but Windows friendly)	Dig Dug 2 (Namco)	Grew up to become the multi-arcade emulator JAS	Now part of JAS
+emulator_homepage	jasdd2	http://www.jrok.com/	\N
+emulator_author_link	jasdd2	jrok	\N	author
+
+emulator_tool_link	jasdd2	watcom
+emulator_features	jasdd2	Yes	No	No	Yes	Yes	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	jasdd2	Keyboard
+emulator_controller	jasdd2	Joystick
+emulator_relative_link	jasdd2	jas	successor
+
+emulator_file	jasdd2	Emulator	jas-dd2.zip

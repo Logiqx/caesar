@@ -1,0 +1,8 @@
+
+author	ivan_mackintosh	Ivan Mackintosh	\N
+author_email	ivan_mackintosh	ivan@rcp.co.uk
+author_emulator_link	ivan_mackintosh	centipede_emulator	author
+
+author_emulator_link	ivan_mackintosh	millipede_emulator	author
+
+author_emulator_link	ivan_mackintosh	rockulator_orig	contributor

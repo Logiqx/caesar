@@ -1,0 +1,10 @@
+
+emulator	emame_symbian	symbian	dummy	\N	\N	\N	EMame (Symbian)	1.2	29/08/2004	Symbian	Emulates a subset of MAME games	Port of EMame to the SonyEricsson P800/P900 (Symbian OS version 7).	Dormant
+emulator_homepage	emame_symbian	http://www.yipton.demon.co.uk/	\N
+emulator_author_link	emame_symbian	emame	\N	author
+
+emulator_features	emame_symbian	Yes	Yes	?	?	No	?	?	?	?	?	No	No	?
+emulator_controller	emame_symbian	Keyboard
+emulator_relative_link	emame_symbian	mame	port_of
+
+emulator_relative_link	emame_symbian	emame	port_of

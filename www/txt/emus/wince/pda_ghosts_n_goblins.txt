@@ -1,0 +1,8 @@
+
+emulator	pda_ghosts_n_goblins	wince	PDA_Ghosts_n_Goblins	\N	\N	\N	Ghosts n Goblins (PDA)	-	December 2001	WinCE	Ghosts n Goblins (Capcom)	A commercial Capcom title for your PDA.	Dormant
+emulator_homepage	pda_ghosts_n_goblins	http://www.capcom.com/pc.xpml	\N
+emulator_homepage	pda_ghosts_n_goblins	http://hive.speedhost.com/	\N
+emulator_author_link	pda_ghosts_n_goblins	larry_bank	\N	author
+
+emulator_features	pda_ghosts_n_goblins	Yes	No	No	No	No	No	No	No	No	Yes	No	\N	\N
+emulator_controller	pda_ghosts_n_goblins	Stylus

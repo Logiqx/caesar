@@ -1,0 +1,36 @@
+
+tool	nasm	assemblers	NASM (NetWide ASseMbler Project)	0.98.39	16/01/2005	General purpose x86 assembler
+tool_homepage	nasm	http://sourceforge.net/projects/nasm/	\N
+tool_author_link	nasm	simon_tatham
+tool_author_link	nasm	julian_hall
+tool_emulator_link	nasm	calice
+tool_emulator_link	nasm	dmame
+tool_emulator_link	nasm	gngeo
+tool_emulator_link	nasm	gxp
+tool_emulator_link	nasm	invmz
+tool_emulator_link	nasm	kawaks
+tool_emulator_link	nasm	m72
+tool_emulator_link	nasm	mame
+tool_emulator_link	nasm	mhemu
+tool_emulator_link	nasm	phmame
+tool_emulator_link	nasm	raine
+tool_emulator_link	nasm	raine32
+tool_emulator_link	nasm	raine_beos
+tool_emulator_link	nasm	raine_linux
+tool_emulator_link	nasm	raine_linux_alt
+tool_emulator_link	nasm	replayplus
+tool_emulator_link	nasm	sega_system_16
+tool_emulator_link	nasm	sega_system_24_emulator
+tool_emulator_link	nasm	snamew
+tool_emulator_link	nasm	system16
+tool_emulator_link	nasm	system16_beta
+tool_emulator_link	nasm	system16_directx
+tool_emulator_link	nasm	vantage
+tool_emulator_link	nasm	yaame
+tool_library_link	nasm	a68k
+tool_library_link	nasm	mathbox
+tool_library_link	nasm	multi6502
+tool_library_link	nasm	multi6808
+tool_library_link	nasm	multiz80
+tool_library_link	nasm	raze
+tool_file	nasm	NASM Distribution for Win32	nasm-0.98.39-win32.zip

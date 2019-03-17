@@ -1,0 +1,11 @@
+
+emulator	aemu	wince	aEmu_v1.1	\N	\N	\N	aEmu (aero Emulator)	1.1	13/11/2000	WinCE	Space Invaders and clones	Fully playable emulation on MIPs and x86.	Discontinued
+emulator_homepage	aemu	http://aemu.cjb.net/	\N
+emulator_author_link	aemu	boris_fr	\N	author
+
+emulator_library_link	aemu	z80em
+emulator_features	aemu	No	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	aemu	Buttons
+emulator_file	aemu	Emulator for x86	aemu_1_1_x86.zip
+emulator_file	aemu	Emulator for MIPs	aemu_1_1_mips.zip
+emulator_file	aemu	Source	aemu_1_1_src.zip

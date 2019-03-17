@@ -1,0 +1,15 @@
+
+emulator	aae	multi	AAE_Alpha_Build_87	\N	\N	\N	AAE (Another Arcade Emulator)	Alpha Build 87 update 1	27/10/2008	Windows	Classic vector games	AAE is a vector based arcade system emulator/simulator written using C and OpenGL. It strives to recreate the experience of playing the games as they were in the arcade, and requires the original game ROMS in order to run. In some cases copies of the original sound files and artwork are required to complete the emulation experience. It provides for simulation options that are not available in MAME, and offers several features that are not available in MAME due to their arcade preservation charter, such as advanced hardware based drawing and motion blur.	Active
+emulator_homepage	aae	http://pages.suddenlink.net/aae/	\N
+emulator_author_link	aae	tim_aae	\N	author
+
+emulator_library_link	aae	multiz80
+emulator_library_link	aae	multi6502
+emulator_library_link	aae	multi6809
+emulator_library_link	aae	starscream
+emulator_tool_link	aae	msvc
+emulator_tool_link	aae	allegro
+emulator_features	aae	Yes	No	Yes	No	No	No	Yes	Yes	Yes	Yes	\N	\N	\N
+emulator_controller	aae	Keyboard
+emulator_file	aae	AAE Binary and Samples	aae092808.zip
+emulator_file	aae	AAE Binary - update 1	aaeu1.zip

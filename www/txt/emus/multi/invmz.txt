@@ -1,0 +1,17 @@
+
+emulator	invmz	multi	INVMZ_v0.05	\N	\N	\N	INVMZ	0.05	16/01/1999	DOS	Space Invaders (Midway) and 10 other games on similar hardware	One of the projects at Zan's EMUL8 site	Dormant
+emulator_homepage	invmz	http://zan.emuunlim.com/emul8/projects/invmz/invmz.html	bad
+emulator_author_link	invmz	zan	\N	author
+
+emulator_author_link	invmz	ld	\N	author
+
+emulator_author_link	invmz	steb	\N	author
+
+emulator_library_link	invmz	multiz80
+emulator_tool_link	invmz	djgpp
+emulator_tool_link	invmz	nasm
+emulator_tool_link	invmz	allegro
+emulator_features	invmz	Yes (Samples)	Yes	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	invmz	Keyboard
+emulator_file	invmz	Source for v0.05	invmz005.zip
+emulator_file	invmz	Source for v0.01 (no graphical output)	invmz001.zip

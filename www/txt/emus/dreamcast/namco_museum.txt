@@ -1,0 +1,7 @@
+
+emulator	namco_museum	dreamcast	Namco_Museum	\N	\N	\N	Namco Museum (Dreamcast)	-	1999	Dreamcast	Galaga, Pac-Man, Pole Position, Galaxian, Dig Dug, Ms Pac-Man	A selection of classic games from Namco plus related information.	Released
+emulator_homepage	namco_museum	http://www.namco.com/	\N
+emulator_author_link	namco_museum	namco	\N	author
+
+emulator_features	namco_museum	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	Yes
+emulator_controller	namco_museum	Joypad

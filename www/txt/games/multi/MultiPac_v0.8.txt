@@ -1,0 +1,6 @@
+MultiPac_v0.8	crush	crush2	m	
+MultiPac_v0.8	hangly	hangly	m	
+MultiPac_v0.8	mspacman	mspacmab	m	
+MultiPac_v0.8	pacman	pacman	m	
+MultiPac_v0.8	pacmod	pacmod	m	
+MultiPac_v0.8	puckman	newpuckx	m	

@@ -1,0 +1,12 @@
+
+emulator	annoid	single	Annoid_v1.0	\N	\N	\N	Annoid	1.1	15/11/2000	Windows	Arkanoid (Taito)	Emulates Arkanoid using the bootleg ROMset.	Dormant
+emulator_homepage	annoid	http://www.ganksoft.com/	\N
+emulator_author_link	annoid	brian_peek	\N	author
+
+emulator_library_link	annoid	z80em
+emulator_tool_link	annoid	seal
+emulator_tool_link	annoid	msvc
+emulator_features	annoid	Yes	No	No	No	Yes	No	Yes	Yes	No	Yes	\N	\N	\N
+emulator_controller	annoid	Keyboard
+emulator_controller	annoid	Mouse
+emulator_file	annoid	Emulator	annoid11.zip

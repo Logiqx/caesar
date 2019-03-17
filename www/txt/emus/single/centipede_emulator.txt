@@ -1,0 +1,12 @@
+
+emulator	centipede_emulator	single	Centipede_Emulator_v0.2	\N	\N	\N	Centipede Emulator	0.2	24/02/1997	DOS	Centipede (Atari)	No throttle so it runs too fast on modern machines.	Discontinued
+emulator_homepage	centipede_emulator	\N	none
+emulator_author_link	centipede_emulator	ivan_mackintosh	\N	author
+
+emulator_library_link	centipede_emulator	multi6502
+emulator_tool_link	centipede_emulator	allegro
+emulator_tool_link	centipede_emulator	djgpp
+emulator_features	centipede_emulator	Yes	C	No	No	No	No	Yes	No	No	No	\N	\N	\N
+emulator_controller	centipede_emulator	Keyboard
+emulator_controller	centipede_emulator	Joystick
+emulator_file	centipede_emulator	Emulator	Centipede Emulator v0.2.zip

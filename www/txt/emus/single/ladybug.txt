@@ -1,0 +1,10 @@
+
+emulator	ladybug	single	Lady_Bug_v1.3	\N	\N	\N	Lady Bug Emulator	1.3	02/02/1997	DOS	Lady Bug (Universal)	One of many single emulators by the Spanish programmer	Dormant
+emulator_homepage	ladybug	http://www.arrakis.es/~jepalza	bad
+emulator_author_link	ladybug	joseba_epalza	\N	author
+
+emulator_library_link	ladybug	z80
+emulator_tool_link	ladybug	ms
+emulator_features	ladybug	No	No	No	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	ladybug	Keyboard
+emulator_file	ladybug	Emulator	lady13.zip

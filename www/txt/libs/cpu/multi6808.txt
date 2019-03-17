@@ -1,0 +1,9 @@
+
+library	multi6808	cpu	Multi-6808 32 Bit emulator	1.0	29/04/1998	\N	6808	Written in x86 assembler and very fast
+library_homepage	multi6808	ftp://ftp.synthcom.com/pub/emulators/cpu/	\N
+library_author_link	multi6808	neil_bradley
+library_emulator_link	multi6808	retrocade
+library_emulator_link	multi6808	retrocade_os2
+library_tool_link	multi6808	nasm
+library_file	multi6808	Emulator	mk6808b2.zip
+library_file	multi6808	Emulator (slightly older)	mk6808b1.zip

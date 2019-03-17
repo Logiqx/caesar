@@ -1,0 +1,13 @@
+
+emulator	phoenixarcade	single	Phoenix_Arcade_Machine_Emulator_v0.1	\N	\N	\N	Phoenix Arcade Machine Emulator	0.1	31/01/1996	DOS	Phoenix (Taito)	Based on Nicola Salmoria's arcade structure	Dormant
+emulator_homepage	phoenixarcade	http://www.debaser.force9.co.uk/	\N
+emulator_author_link	phoenixarcade	richard_davies	\N	author
+
+emulator_library_link	phoenixarcade	z80em
+emulator_tool_link	phoenixarcade	allegro
+emulator_tool_link	phoenixarcade	djgpp
+emulator_features	phoenixarcade	No	Yes	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	phoenixarcade	Keyboard
+emulator_author_link	phoenixarcade	ralph_kummlingen	Phoenix hardware data	contributor
+
+emulator_file	phoenixarcade	Emulator	Phoenix Arcade Machine Emulator V0.1 960131 [Dos].zip

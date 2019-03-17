@@ -1,0 +1,13 @@
+
+emulator	mapefer3	multi	Mapefer3_v0.8b	\N	\N	\N	Mapefer3	0.8b	30/09/1997	DOS	Ghosts'n Goblins and Diamond Run	Runs way too fast on my P233MMX	Dormant
+emulator_homepage	mapefer3	http://www.upv.es/protel/usr/jotego/mapefer3.htm	\N
+emulator_homepage	mapefer3	http://webs.ono.com/usr002/jotego/	\N
+emulator_author_link	mapefer3	jose_tejada_gomez	\N	author
+
+emulator_library_link	mapefer3	6809
+emulator_tool_link	mapefer3	djgpp
+emulator_tool_link	mapefer3	allegro
+emulator_features	mapefer3	No	Yes	Yes	No	Yes	No	Yes (Difficulty)	No	No	No	\N	\N	\N
+emulator_controller	mapefer3	Keyboard
+emulator_file	mapefer3	Emulator	mapefer3.zip
+emulator_file	mapefer3	Source	mapefer3_codigo.zip

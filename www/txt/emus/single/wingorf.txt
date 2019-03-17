@@ -1,0 +1,12 @@
+
+emulator	wingorf	single	WinGorf_v1.3.1	\N	\N	\N	WinGorf	1.3.1	24/11/2001	Windows	Gorf (Midway)	Windows emulation of Gorf with glass art	Dormant
+emulator_homepage	wingorf	http://wingorf.emuunlim.com/	\N
+emulator_author_link	wingorf	mark_hazelwood	\N	author
+
+emulator_tool_link	wingorf	lccwin32
+emulator_tool_link	wingorf	bass
+emulator_features	wingorf	Yes	No	No	Yes	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	wingorf	Keyboard
+emulator_controller	wingorf	Joystick
+emulator_file	wingorf	Emulator (manual installation)	wingorf131.zip
+emulator_file	wingorf	Samples	votrax.zip

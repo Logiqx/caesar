@@ -1,0 +1,15 @@
+game	The_Arcade_Machine	invaders	\N	\N	\N	\N	\N	Space Invaders	1978	Midway	\N	\N	\N	
+game_rom	The_Arcade_Machine	invaders	invaders.h	\N	\N	2048	734f5ad8	ff6200af4c9110d8181249cbcef1a8a40fa40b7f	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	invaders	invaders.g	\N	\N	2048	6bfaca4a	16f48649b531bdef8c2d1446c429b5f414524350	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	invaders	invaders.f	\N	\N	2048	0ccead96	537aef03468f63c5b9e11dd61e253f7ae17d9743	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	invaders	invaders.e	\N	\N	2048	14e538b0	1d6ca0c99f9df71e2990b610deb9d7da0125e2d8	\N	\N	\N	\N	\N	\N	
+game	The_Arcade_Machine	tron	\N	\N	\N	\N	\N	Tron (set 1)	1982	Bally Midway	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc2.bin	\N	\N	8192	5151770b	26f4d830de7be228528e462dd628f439629a2641	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc3.bin	\N	\N	8192	8ddf8717	e0c294afa8ba0b0ba89e3e0fb3ff6d8fc4398e32	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc4.bin	\N	\N	8192	4241e3a0	24c1bd2f31e194542571c391c5dccf21354115c2	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc5.bin	\N	\N	8192	035d2fe7	1b827ca30a439d2f4cc94fcc0e90ee0cf87e018c	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc6.bin	\N	\N	8192	24c185d8	45ac7c53f6f4eba5c7bf3fc6559cddd3821eddad	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronc7.bin	\N	\N	8192	38c4bbaf	a7cd496ce75199b8279ea963520cf70d5f562bb2	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronbg.0	\N	\N	8192	1a9ed2f5	b0d85b47873ac8ad475da18b9540d37232cb2b7c	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	tronbg.1	\N	\N	8192	3220f974	a38ea5f1db27f05d9689db838ce7a8de98f34837	\N	\N	\N	\N	\N	\N	
+game_rom	The_Arcade_Machine	tron	troncb1.bin	\N	\N	32768	c2bbb286	5cf81d4f1c9cab49eac7112689d46a2811dac5c4	\N	\N	\N	\N	\N	\N	

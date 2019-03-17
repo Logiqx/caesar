@@ -1,0 +1,4 @@
+
+emulator_contents	ps2	Emulators for the Playstation 2	These emulators are all for the Playstation 2
+emulator_contents_emulator_link	ps2	taito_legends_ps2
+emulator_contents_emulator_link	ps2	xmame_ps2

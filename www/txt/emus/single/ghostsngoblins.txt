@@ -1,0 +1,8 @@
+
+emulator	ghostsngoblins	single	GEM_-_Ghosts_n_Goblins_Emulator	\N	\N	\N	GEM (Ghosts n Goblins Emulator)	-only version-	19/05/1997	DOS	Ghosts'n Goblins (Capcom)	Written entirely in assembler	Dormant
+emulator_homepage	ghostsngoblins	\N	none
+emulator_author_link	ghostsngoblins	roberto_ventura	\N	author
+
+emulator_features	ghostsngoblins	No	No	No	No	No	No	Yes	No	No	No	\N	\N	\N
+emulator_controller	ghostsngoblins	Keyboard
+emulator_file	ghostsngoblins	Emulator	gem32.zip

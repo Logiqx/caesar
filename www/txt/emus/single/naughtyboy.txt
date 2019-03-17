@@ -1,0 +1,10 @@
+
+emulator	naughtyboy	single	Naughty_Boy_Emulator_Beta_1.05	\N	\N	\N	Naughty Boy Emulator	Beta 1.05	15/05/1997	DOS	Naughty Boy (Cinematronics)	\N	Dormant
+emulator_homepage	naughtyboy	\N	none
+emulator_author_link	naughtyboy	john_bugliarisi	\N	author
+
+emulator_tool_link	naughtyboy	djgpp
+emulator_tool_link	naughtyboy	allegro
+emulator_features	naughtyboy	No	No	Yes	No	No	No	No	No	No	Yes	\N	\N	\N
+emulator_controller	naughtyboy	Keyboard
+emulator_file	naughtyboy	Emulator	naughtyb.zip

@@ -1,0 +1,10 @@
+
+emulator	thearcade	multi	The_Arcade_Machine	\N	\N	\N	The Arcade Machine	1.0	25/02/1997	DOS	Space Invaders and Tron	\N	Discontinued
+emulator_homepage	thearcade	\N	none
+emulator_author_link	thearcade	warren_mills	\N	author
+
+emulator_tool_link	thearcade	watcom
+emulator_tool_link	thearcade	seal
+emulator_features	thearcade	Yes	No	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	thearcade	Keyboard
+emulator_file	thearcade	Emulator	invaders.zip

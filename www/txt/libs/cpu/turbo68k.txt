@@ -1,0 +1,7 @@
+
+library	turbo68k	cpu	Turbo68K	0.60	19/01/2002	\N	M68000 (Motorola)	Written in x86 assembler. Previously known as Genital68K. Fast and accurate
+library_homepage	turbo68k	http://dynarec.com/~bart/turbo68k/	\N
+library_author_link	turbo68k	bart_trzynadlowski
+library_emulator_link	turbo68k	gxp
+library_file	turbo68k	CPU Emulator	t68k060.zip
+library_file	turbo68k	68000 Disassembler for use with Genital68K	68kdb060.zip

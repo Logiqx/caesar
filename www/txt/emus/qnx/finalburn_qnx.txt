@@ -1,0 +1,11 @@
+
+emulator	finalburn_qnx	qnx	dummy	\N	\N	\N	Final Burn for QNX	Preview	19/10/2001	QNX	Sega and Capcom 68000 games	QNX port of Final Burn.	Dormant
+emulator_homepage	finalburn_qnx	http://www.iespana.es/comac_es/fbpre/	\N
+emulator_author_link	finalburn_qnx	daniel_moreno	\N	author
+
+emulator_features	finalburn_qnx	Yes	Yes	No	No	Yes	No	Yes	No	Yes	Yes	\N	\N	\N
+emulator_controller	finalburn_qnx	Keyboard
+emulator_controller	finalburn_qnx	Joystick
+emulator_relative_link	finalburn_qnx	finalburn	port_of
+
+emulator_file	finalburn_qnx	Final Burn for QNX	finalburn.20010912.qnx.tar.bz2

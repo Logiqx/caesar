@@ -1,0 +1,13 @@
+
+emulator	yaame	multi	YAAME_v0.3	\N	\N	\N	YAAME (Yet Another Arcade Machine Emulator)	v0.3	25/10/2002	DOS	Various classic arcade games	A straight forward emulator which comes with source.	Discontinued
+emulator_homepage	yaame	http://yaame.emuunlim.com/	\N
+emulator_author_link	yaame	tom_walker	\N	author
+
+emulator_library_link	yaame	multiz80
+emulator_library_link	yaame	multi6502
+emulator_tool_link	yaame	djgpp
+emulator_tool_link	yaame	nasm
+emulator_features	yaame	Yes	Yes	Yes	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	yaame	Keyboard
+emulator_file	yaame	Emulator v0.3	yaame03.zip
+emulator_file	yaame	Source for v0.2	yaamesrc02.zip

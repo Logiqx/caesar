@@ -1,0 +1,9 @@
+
+author	gollum	Julien Frelat (Gollum)	\N
+author_emulator_link	gollum	cottage	author
+
+author_emulator_link	gollum	jape	author
+
+author_emulator_link	gollum	playscott	author
+
+author_emulator_link	gollum	potatomulti	author

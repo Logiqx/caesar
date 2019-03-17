@@ -1,0 +1,13 @@
+
+library	multi6809	cpu	Multi-6809 32 Bit emulator	0.01	18/11/1997	\N	6809	Written in x86 assembler and very fast
+library_homepage	multi6809	ftp://ftp.synthcom.com/pub/emulators/cpu/	\N
+library_author_link	multi6809	patrick_lawrence
+library_emulator_link	multi6809	aae
+library_emulator_link	multi6809	emudx
+library_emulator_link	multi6809	emudx32
+library_emulator_link	multi6809	replayplus
+library_emulator_link	multi6809	replayplus_linux
+library_emulator_link	multi6809	retrocade
+library_emulator_link	multi6809	retrocade_os2
+library_emulator_link	multi6809	rockulator
+library_file	multi6809	Emulator	m6809.zip

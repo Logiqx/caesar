@@ -1,0 +1,7 @@
+
+author	neil_tringham	Neil Tringham	\N
+author_emulator_link	neil_tringham	taito_legends	contributor
+
+author_emulator_link	neil_tringham	taito_legends_ps2	contributor
+
+author_emulator_link	neil_tringham	taito_legends_xbox	contributor

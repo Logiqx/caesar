@@ -1,0 +1,24 @@
+game	U64Emu_v3.05	ki	\N	\N	\N	\N	\N	Killer Instinct ROMs (L1.5d)	1994	Midway	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u98-l15d	\N	\N	524288	7b65ca3d	607394d4ba1713f38c2cb5159303cace9cde991e	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u10-l1	\N	\N	524288	b6cc155f	810d455df8f385d76143e9d7d048f2b555ff8bf0	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u11-l1	\N	\N	524288	0b5e05df	0595909cb667c38ac7c8c7bd0646b28899e27777	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u12-l1	\N	\N	524288	d05ce6ad	7a8ee405c118fd176b66353fa7bfab888cc63cd2	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u13-l1	\N	\N	524288	7d0954ea	ea4d1f153eb284f1bcfc5295fbce316bba6083f4	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u33-l1	\N	\N	524288	8bbe4f0c	b22e365bc8d58a80eaac226be14b4bb8d9a04844	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u34-l1	\N	\N	524288	b2e73603	ee439f5162a2b3379d3f802328017bb3c68547d2	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u35-l1	\N	\N	524288	0aaef4fc	48c4c954ac9db648f28ad64f9845e19ec432eec3	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki	u36-l1	\N	\N	524288	0577bb60	cc78070cc41701e9a91fde5cfbdc7e1e83354854	\N	\N	\N	\N	\N	\N	
+game	U64Emu_v3.05	ki_hdd	\N	\N	ki	ki	\N	Killer Instinct Disk Image (v1.0)	1994	Midway	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki_hdd	ki.img	\N	\N	131076621	1dd9d8b2	def4b49615eed31296b7cda6eb91adb7de848260	\N	\N	\N	\N	\N	\N	
+game	U64Emu_v3.05	ki2	\N	\N	\N	\N	\N	Killer Instinct 2 ROMs (L1.1)	1996	Midway	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2-l11.u98	\N	\N	524288	0cb8de1e	fe447f4b1d29b524f57c5ba1890652ef6afff88a	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u10	\N	\N	524288	fdf6ed51	acfc9460cd5df01403b7f00b2f68c2a8734ad6d3	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u11	\N	\N	524288	f9e70024	fe7fc78f1c60b15f2bbdc4c455f55cdf30f48ed4	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u12	\N	\N	524288	2994c199	9997a83432cb720f65b40a8af46f31a5d0d16d8e	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u13	\N	\N	524288	3fe6327b	7ff164fc2f079d039921594be92208973d43aa03	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u33	\N	\N	524288	6f4dcdcf	0ab6dbfb76e9fa2db072e287864ad1f9d514dd9b	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u34	\N	\N	524288	5db48206	48456a7b6592c40bc9c664dcd2ee2cfd91942811	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u35	\N	\N	524288	7245ce69	24a3ff009c8a7f5a0bfcb198b8dcb5df365770d3	\N	\N	\N	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2	ki2_l1.u36	\N	\N	524288	8920acbb	0fca72c40067034939b984b4bf32972a5a6c26af	\N	\N	\N	\N	\N	\N	
+game	U64Emu_v3.05	ki2_hdd	\N	\N	ki2	ki2	\N	Killer Instinct 2 Disk Image (v2.1)	1996	Midway	\N	\N	\N	
+game_rom	U64Emu_v3.05	ki2_hdd	ki2.img	\N	\N	419586061	11a9fc01	c6a0363ea9e4489db3fb83432a895fd3139f2121	\N	\N	\N	\N	\N	\N	

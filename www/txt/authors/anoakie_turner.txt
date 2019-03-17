@@ -1,0 +1,8 @@
+
+author	anoakie_turner	Anoakie Ray Turner	\N
+author_email	anoakie_turner	anoakie.turner@asu.edu
+author_emulator_link	anoakie_turner	siemu	author
+
+author_emulator_link	anoakie_turner	siemu_beos	author
+
+author_emulator_link	anoakie_turner	siemu_linux	author

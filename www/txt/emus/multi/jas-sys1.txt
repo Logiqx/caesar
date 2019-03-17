@@ -1,0 +1,10 @@
+
+emulator	jas-sys1	multi	JAS-SYS1_b1.2	\N	\N	\N	JAS-SYS1 (JROK's Arcade Simulation - Namco System 1)	beta 1.2	14/03/1999	DOS	Namco System One (Galaga88 and Pacmania)	Not full speed on my P233MMX (but slightly faster than MAME though)	Dormant
+emulator_homepage	jas-sys1	http://www.jrok.com/frames/sys1.htm	\N
+emulator_author_link	jas-sys1	jrok	\N	author
+
+emulator_tool_link	jas-sys1	watcom
+emulator_features	jas-sys1	Yes	No	Yes	Yes	Yes	No	Yes	No	No	Yes	No	\N	\N
+emulator_controller	jas-sys1	Keyboard
+emulator_controller	jas-sys1	Joystick
+emulator_file	jas-sys1	Emulator	jass-b12.zip

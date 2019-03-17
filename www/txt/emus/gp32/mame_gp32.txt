@@ -1,0 +1,10 @@
+
+emulator	mame_gp32	gp32	dummy	\N	\N	\N	MAME GP32	1.9	29/09/2005	GP32	Emulates far more than anything else!	The latest beta release of MAME for the GP32.	Active
+emulator_homepage	mame_gp32	http://www.talfi.net/gp32_franxis/	\N
+emulator_author_link	mame_gp32	franxis	\N	author
+
+emulator_features	mame_gp32	Yes	Yes	No	No	No	No	No	No	No	Yes	No	No	No
+emulator_controller	mame_gp32	Controller
+emulator_relative_link	mame_gp32	multipac_gp32	predecessor
+
+emulator_relative_link	mame_gp32	mame	port_of

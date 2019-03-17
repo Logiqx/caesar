@@ -1,0 +1,15 @@
+game	TMNT_v0.7_beta	tmnt	\N	\N	\N	\N	\N	Teenage Mutant Ninja Turtles (4 Players US)	1989	Konami	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.j17	\N	\N	131072	a7f61195	db231ffb045f512040793b6815bcb998cee04c3d	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.k17	\N	\N	131072	661e056a	4773883a66540c07dbc969881689184697355537	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.j15	\N	\N	65536	de047bb6	d41d11f1b7dfd3824308f7fff43a5a7ced432ec2	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.k15	\N	\N	65536	d86a0888	c761b3e8acc45a36ae691758c639eb826a8ab5b2	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.g13	\N	\N	32768	1692a6d6	68c3419012b2863e91a7d7e479fce5ceabb10b88	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.h27	\N	\N	524288	db4769a8	810811914f9c1fbf2320d5a9030cbf124f6d78cf	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.k27	\N	\N	524288	8069cd2e	54095d3546119ccd1e8814d692aceb1327c9369f	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.h04	\N	\N	524288	b5239a44	84e94807e7c51aa652b4e4b827b36be59a53d0d6	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.h06	\N	\N	524288	dd51adef	5010c0911b0b9e4f23a785e8a751a0bde5be5be0	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.k04	\N	\N	524288	1f324eed	971a675578518fffa341a943d0cc4fdea005fde0	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.k06	\N	\N	524288	d4bd9984	d780ae7f72e16767c3a492544f02f0f1a332ab22	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.c13	\N	\N	131072	e2ac3063	5bb294c46fb5eaba9935a18c0aa5d3931168f474	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.d18	\N	\N	131072	2dfd674b	bbec5896c70056964fbc972a84bd5b0dfc6af257	\N	\N	\N	\N	\N	\N	
+game_rom	TMNT_v0.7_beta	tmnt	tmnt.d05	\N	\N	524288	fca078c7	3e1124d72c9db4cb11d8de6c44b7aeca967f44e1	\N	\N	\N	\N	\N	\N	

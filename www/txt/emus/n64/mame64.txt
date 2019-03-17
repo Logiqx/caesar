@@ -1,0 +1,8 @@
+
+emulator	mame64	n64	dummy	\N	\N	\N	MAME64	?	11/11/1997	N64	Emulates only a few early MAME games	MAME64 was abandoned early on in it's life due to people leaking it out against the author's wishes. The distribution included the game ROMs within it so you will not find any sites hosting it.	Discontinued
+emulator_homepage	mame64	\N	none
+emulator_author_link	mame64	rbubba	\N	author
+
+emulator_features	mame64	?	No	No	No	No	No	?	No	No	?	No	No	?
+emulator_controller	mame64	Joypad
+emulator_relative_link	mame64	mame	port_of

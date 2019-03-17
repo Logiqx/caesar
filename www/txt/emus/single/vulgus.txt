@@ -1,0 +1,13 @@
+
+emulator	vulgus	single	VULGUS_Arcade_Machine_Emulator_v0.2	\N	\N	\N	VULGUS Arcade Machine Emulator	0.2	30/04/1997	DOS	VULGUS (Capcom)	\N	Discontinued
+emulator_homepage	vulgus	http://www.geocities.com/TimesSquare/Dungeon/7939/arcade.html	bad
+emulator_author_link	vulgus	paul_leaman	\N	author
+
+emulator_library_link	vulgus	z80em
+emulator_tool_link	vulgus	djgpp
+emulator_tool_link	vulgus	allegro
+emulator_tool_link	vulgus	seal
+emulator_features	vulgus	Yes	No	No	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	vulgus	Keyboard
+emulator_controller	vulgus	Joystick
+emulator_file	vulgus	Emulator	vulg-020.zip

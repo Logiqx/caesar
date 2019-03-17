@@ -1,0 +1,12 @@
+
+emulator	atari_collection_2_pc	commercial	Arcades_Greatest_Hits_-_The_Atari_Collection_2_(PC)	\N	\N	\N	Arcades Greatest Hits: The Atari Collection 2 (PC)	-	1998	Windows	Paperboy, Gauntlet, Road Blasters, 720, Marble Madness, Vindicators	Note that there was no Atari Collection 1. All of those games were contained on Atari Arcade Hits 1 and 2 by Hasbro Interactive.	Released
+emulator_homepage	atari_collection_2_pc	http://www.digitaleclipse.com	\N
+emulator_author_link	atari_collection_2_pc	midway	\N	author
+
+emulator_features	atari_collection_2_pc	Yes	No	?	?	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	atari_collection_2_pc	Keboard
+emulator_controller	atari_collection_2_pc	Joystick
+emulator_controller	atari_collection_2_pc	Mouse
+emulator_author_link	atari_collection_2_pc	digital_eclipse	Development	contributor
+
+emulator_relative_link	atari_collection_2_pc	atari_collection_2	port_of

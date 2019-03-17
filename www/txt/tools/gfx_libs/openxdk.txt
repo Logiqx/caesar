@@ -1,0 +1,5 @@
+
+tool	openxdk	gfx_libs	OpenXDK	0.0.1 Beta 2	26/11/2002	The OpenXDK project will attempt to create an open source development kit for the Microsoft Xbox console. The project will be free from Microsoft code and will be developed to facilitate hobbyist and "homebrew" coding for the console.
+tool_homepage	openxdk	http://sourceforge.net/projects/openxdk/	\N
+tool_author_link	openxdk	openxdk_team
+tool_emulator_link	openxdk	centipede_xbox

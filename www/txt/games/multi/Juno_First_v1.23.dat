@@ -1,0 +1,379 @@
+game	Juno_First_v1.23	circusch	\N	\N	\N	\N	\N	Circus Charlie (no level select)	1984	Konami	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	h03_r05.bin	\N	\N	8192	ed52c60f	aa9dc6a57e29895be521ac6a146de56a7beef957	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	h04_n04.bin	\N	\N	8192	fcc99e33	da140a849ac22419e8890414b8984aa264f7e3c7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	h05_n03.bin	\N	\N	8192	5ef5b3b5	b058600c915a0d6653eaa5fc87ecee44a38eed00	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	h06_n02.bin	\N	\N	8192	a5a5e796	a41700b272ff4198447ed75138d65ec3a759d221	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	h07_n01.bin	\N	\N	8192	70d26721	eb71cb0da26991a3628150f45f1389c2f2ef90fc	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	cd05_l14.bin	\N	\N	8192	607df0fb	67103d61994fd3a1e2de7cf9487e4f763234b18e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	cd07_l15.bin	\N	\N	8192	a6ad30e1	14f305717edcc2471e763b262960a0b96eef3530	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	a04_j12.bin	\N	\N	8192	56e5b408	73b9e3d46dfe9e39b390c634df153648a0906876	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	a05_k13.bin	\N	\N	8192	5aca0193	4d0b0a773c385b7f1dcf024760d0437f47e78fbe	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e11_j06.bin	\N	\N	8192	df0405c6	70a50dcc86dfbdaa9c2af613105aae7f90747804	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e12_j07.bin	\N	\N	8192	23dfe3a6	2ad7cbcbdbb434dc43e9c94cd00df9e57ac097f5	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e13_j08.bin	\N	\N	8192	3ba95390	b22ad7cfda392894208eb4b39505f38bfe4c4342	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e14_j09.bin	\N	\N	8192	a9fba85a	1a649ec667d377ffab26b4694be790b3a2742f30	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e15_j10.bin	\N	\N	8192	0532347e	4c02b75a62993cce60d2cb87b81c7738abbc9a0d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusch	e16_j11.bin	\N	\N	8192	e1725d24	d315588e6cc2f4263be621d2d8603c8215a90046	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	circusc2	\N	\N	\N	\N	\N	Circus Charlie	1984	Konami	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	s05	\N	\N	8192	48feafcf	0e5bd350fa5fee42569eb0c4accf7512d645b792	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	q04	\N	\N	8192	c283b887	458c398911453d558003f49c298b0d593c941c11	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	q03	\N	\N	8192	e90c0e86	03211f0cc90b6e356989c5e2a41b70f4ff2ead83	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	q02	\N	\N	8192	4d847dc6	a1f65e73c4e5abff1b0970bad32a128173245561	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	q01	\N	\N	8192	18c20adf	2f40e1a109d129bb127a8b98e27817988cd08c8b	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	l14	\N	\N	8192	607df0fb	67103d61994fd3a1e2de7cf9487e4f763234b18e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	l15	\N	\N	8192	a6ad30e1	14f305717edcc2471e763b262960a0b96eef3530	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j12	\N	\N	8192	56e5b408	73b9e3d46dfe9e39b390c634df153648a0906876	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	k13	\N	\N	8192	5aca0193	4d0b0a773c385b7f1dcf024760d0437f47e78fbe	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j06	\N	\N	8192	df0405c6	70a50dcc86dfbdaa9c2af613105aae7f90747804	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j07	\N	\N	8192	23dfe3a6	2ad7cbcbdbb434dc43e9c94cd00df9e57ac097f5	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j08	\N	\N	8192	3ba95390	b22ad7cfda392894208eb4b39505f38bfe4c4342	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j09	\N	\N	8192	a9fba85a	1a649ec667d377ffab26b4694be790b3a2742f30	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j10	\N	\N	8192	0532347e	4c02b75a62993cce60d2cb87b81c7738abbc9a0d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	circusc2	j11	\N	\N	8192	e1725d24	d315588e6cc2f4263be621d2d8603c8215a90046	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	crystalc	\N	\N	\N	\N	\N	Crystal Castles (set 1)	1983	Atari	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.303	\N	\N	8192	10e39fce	5247f52e14ccf39f0ec699a39c8ebe35e61e07d2	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.304	\N	\N	8192	74510f72	d22550f308ff395d51869b52449bc0669a4e35e4	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.305	\N	\N	8192	9418cf8a	1f835db94270e4a16e721b2ac355fb7e7c052285	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.102	\N	\N	8192	f6ccfbd4	69c3da2cbefc5e03a77357e817e3015da5d8334a	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.101	\N	\N	8192	e2e17236	81fa95b4d9beacb06d6b4afdf346d94117396557	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.107	\N	\N	8192	39960b7d	82bdf764ac23e72598883283c5e957169387abd4	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	crystalc	136022.106	\N	\N	8192	9d1d89fc	01c279edee322cc28f34506c312e4a9e3363b1be	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	hyperspt	\N	\N	\N	\N	\N	Hyper Sports	1984	Konami (Centuri license)	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c01	\N	\N	8192	0c720eeb	cc0719db7e59c72e603ab2ca42565303bc41d281	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c02	\N	\N	8192	560258e0	788d0d3cbbd97fb54eceb3281ccf84a31e5e3e98	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c03	\N	\N	8192	9b01c7e6	0106f94b38ad62e7514e56aab35581968074bbe0	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c04	\N	\N	8192	10d7e9a2	ebf1dd7ba10179c41b42358c45e49424ce8495cd	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c05	\N	\N	8192	b105a8cd	7d77ab4d75c0bff7ac7372a5ff5fe55839b57d19	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c06	\N	\N	8192	1a34a849	daa42a959ea162ca7f098010c85a7453a8805df8	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c10	\N	\N	8192	3dc1a6ff	1e67cac46b6c8a9a0bb1560e135983435520f1fc	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c09	\N	\N	8192	9b525c3e	d8775ec3b4f12117431a2b7c7eaa038c1255241b	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c26	\N	\N	8192	a6897eac	a1dd950c29885f7bb4784fed46810ae47bff87dd	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c24	\N	\N	8192	5fb230c0	8caebf3788c1fb71c1ba72b0045503d45936d4ce	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c22	\N	\N	8192	ed9271a0	a458ad79922383f45f6522775e19cf693e226883	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c20	\N	\N	8192	183f4324	f6bcd03c25dea300876ace950f118a971557168f	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c14	\N	\N	8192	c72d63be	0677b4f7196551ebc1bbbecd0e15d79f8e32857d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c13	\N	\N	8192	76565608	418fb9a81c0583d0214afb27fea28794563b8460	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c12	\N	\N	8192	74d2cc69	684b65455217f243b3690822d445efdcb18211bb	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c11	\N	\N	8192	66cbcb4d	c4ea51a6f30d2cd0cd6e22fdadb83d889f2cc471	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c18	\N	\N	8192	ed25e669	2e306db101cd4443b0a81cecf817e5ebbdaf1bba	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c17	\N	\N	8192	b145b39f	e696e1f9b44aa44360ea9962c4ee9b61db8e53f5	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c16	\N	\N	8192	d7ff9f2b	b0e6a056db96027ba0c10d3ee3bfdef145a236e2	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c15	\N	\N	8192	f3d454e6	9d04dcd1b0354e01773923295bba2602e00467f9	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	hyperspt	c08	\N	\N	8192	e8f8ea78	8d37818e5a2740c96696f37996f2a3f870386690	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	juno	\N	\N	\N	\N	\N	Juno First	1983	Konami	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfa_b9.bin	\N	\N	8192	f5a7ab9d	9603e797839290f8e1f93ccff9cc820604cc49ab	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfb_b10.bin	\N	\N	8192	f20626e0	46f58bdc1a613124e2c148b61f774fcc6c232868	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc_a10.bin	\N	\N	8192	1e7744a7	bee69833af886436016560295cddf0c8b4c5e771	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc1_a4.bin	\N	\N	8192	03ccbf1d	02b45fe3c51bdc940919aac68136a121ed9bee18	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc2_a5.bin	\N	\N	8192	cb372372	a48e7de08647cbece7787c287217eac7e7a7510b	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc3_a6.bin	\N	\N	8192	879d194b	3c7af8767c9ce908fa1761180c6e585823216d8a	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc4_a7.bin	\N	\N	8192	f28af80b	4d0e247e729365476dd3996c7d1f2a19fc83d773	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc5_a8.bin	\N	\N	8192	0539f328	c532aaed7f9e6f564e3df0dc6d8fdbee6ed721a2	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfc6_a9.bin	\N	\N	8192	1da2ad6e	de997d1b2ff6671088b57192bc9f1279359fad5d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfs1_j3.bin	\N	\N	4096	235a2893	b90251c4971f7ba12e407f86c32723d513d6b4a0	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfs2_p4.bin	\N	\N	4096	d0fa5d5f	9d0730d1d037bf96b0c933a32355602bf2d735dd	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfs3_c7.bin	\N	\N	8192	aeacf6db	f99ef9f9153d7a83e1881d9181faac99cb8c8a57	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfs4_d7.bin	\N	\N	8192	206d954c	65494766676f18d8b5ae9a54cee00790e7b1e67e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	juno	jfs5_e7.bin	\N	\N	8192	1eb87a6e	f5471b9f6f1fa6d6e5d76300d89f71da3129516a	\N	\N	\N	\N	\N	\N	
+game_sample	Juno_First_v1.23	juno	juno_01.wav	
+game_sample	Juno_First_v1.23	juno	juno_02.wav	
+game_sample	Juno_First_v1.23	juno	juno_03.wav	
+game_sample	Juno_First_v1.23	juno	juno_04.wav	
+game_sample	Juno_First_v1.23	juno	juno_05.wav	
+game_sample	Juno_First_v1.23	juno	juno_06.wav	
+game_sample	Juno_First_v1.23	juno	juno_07.wav	
+game_sample	Juno_First_v1.23	juno	juno_08.wav	
+game_sample	Juno_First_v1.23	juno	juno_09.wav	
+game_sample	Juno_First_v1.23	juno	juno_10.wav	
+game_sample	Juno_First_v1.23	juno	juno_11.wav	
+game_sample	Juno_First_v1.23	juno	juno_12.wav	
+game_sample	Juno_First_v1.23	juno	juno_13.wav	
+game_sample	Juno_First_v1.23	juno	juno_14.wav	
+game_sample	Juno_First_v1.23	juno	juno_15.wav	
+game_sample	Juno_First_v1.23	juno	juno_16.wav	
+game_sample	Juno_First_v1.23	juno	juno_17.wav	
+game_sample	Juno_First_v1.23	juno	juno_20.wav	
+game_sample	Juno_First_v1.23	juno	juno_22.wav	
+game_sample	Juno_First_v1.23	juno	juno_24l.wav	
+game_sample	Juno_First_v1.23	juno	juno_25l.wav	
+game_sample	Juno_First_v1.23	juno	juno_26l.wav	
+game_sample	Juno_First_v1.23	juno	juno_38.wav	
+game_sample	Juno_First_v1.23	juno	juno_44.wav	
+game_sample	Juno_First_v1.23	juno	juno_45.wav	
+game_sample	Juno_First_v1.23	juno	juno_47.wav	
+game_sample	Juno_First_v1.23	juno	juno_49.wav	
+game_sample	Juno_First_v1.23	juno	juno_50.wav	
+game_sample	Juno_First_v1.23	juno	juno_51.wav	
+game_sample	Juno_First_v1.23	juno	juno_52.wav	
+game_sample	Juno_First_v1.23	juno	juno_54.wav	
+game	Juno_First_v1.23	loht	\N	\N	\N	\N	\N	Legend of Hero Tonma	1989	Irem	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_c-h0.rom	\N	\N	131072	a63204b6	d217bc70650a1a1bbe0cf536ec3bb678f670718d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_c-l0.rom	\N	\N	131072	e788002f	35f509976b342fd47e645453381faa3d86645876	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_c-h3.rom	\N	\N	131072	714778b5	e2eaa35d6b5fa5df5163fe0d7b45fa66667f9947	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_c-l3.rom	\N	\N	131072	2f049b03	21047cb10912b1fc23795673af3ea7de249328b7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m53.rom	\N	\N	131072	0b83265f	b31918d6442b79c9fe4f20410189788b050a994e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m51.rom	\N	\N	131072	8ec5f6f3	210f2753f5eeb06396758d21ab1778d459add247	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m49.rom	\N	\N	131072	a41d3bfd	536fb7c0321dbbc1a8b73e9647fba9c53a253fcc	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m47.rom	\N	\N	131072	9d81a25b	a354537c2fbba85f06485aa8487d7583a7133357	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m21.rom	\N	\N	65536	3ca3e771	be052e01c5429ee89057c9d408794f2c7744047c	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m22.rom	\N	\N	65536	7a05ee2f	7d1ca5db9a5a85610129e3bc6c640ade036fe7f9	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m20.rom	\N	\N	65536	79aa2335	6b70c79d800a7b755aa7c9a368c4ea74029aaa1e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m23.rom	\N	\N	65536	789e8b24	e957cd25c3c155ca295ab1aea03d610f91562cfb	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m26.rom	\N	\N	65536	44626bf6	571ef74d42d30a272ff0fb33f830652b4a4bad29	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m27.rom	\N	\N	65536	464952cf	6b99360b6ba1ed5a72c257f51291f9f7a1ddf363	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m25.rom	\N	\N	65536	3db9b2c7	02a318ffc459c494b7f40827eff5f89b41ac0426	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m24.rom	\N	\N	65536	f01fe899	c5ab967b7af55a757638bcdc9975f4b15064022d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	loht	tom_m44.rom	\N	\N	65536	3ed51d1f	84f3aa17d640df91387e5f1f5b5971cf8dcd4e17	\N	\N	\N	\N	\N	\N	
+game_sample	Juno_First_v1.23	loht	lohta_02.wav	
+game_sample	Juno_First_v1.23	loht	lohta_04.wav	
+game_sample	Juno_First_v1.23	loht	lohta_10.wav	
+game_sample	Juno_First_v1.23	loht	lohta_13.wav	
+game_sample	Juno_First_v1.23	loht	lohta_14.wav	
+game_sample	Juno_First_v1.23	loht	lohta_41.wav	
+game_sample	Juno_First_v1.23	loht	lohta_43.wav	
+game_sample	Juno_First_v1.23	loht	lohta_44.wav	
+game_sample	Juno_First_v1.23	loht	lohta_46.wav	
+game_sample	Juno_First_v1.23	loht	lohta_47.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_01.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_02.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_03.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_04.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_07.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_08.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_09.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_10.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_12.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_13.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_18.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_19.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_20.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_22.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_23.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_24.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_25.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_27.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_28.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_29.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_31.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_32.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_34.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_35.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_37.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_38.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_39.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_40.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_41.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_42.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_44.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_46.wav	
+game_sample	Juno_First_v1.23	loht	lohtb_47.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_01.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_02.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_03.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_04.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_05.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_06.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_08.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_11.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_12.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_13.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_14.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_15.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_16.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_17.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_18.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_19.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_20.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_21.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_22.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_23.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_24.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_25.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_26.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_27.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_28.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_29.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_31.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_32.wav	
+game_sample	Juno_First_v1.23	loht	lohtc_33.wav	
+game	Juno_First_v1.23	rocnrope	\N	\N	\N	\N	\N	Roc'n Rope (Kosuka)	1983	Konami + Kosuka	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h1.vid	\N	\N	8192	0fddc1f6	a9c6c033799883dc45eaa448387d4f0728b9e47e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h2.vid	\N	\N	8192	ce9db49a	7a6ffb65cb65aa90e953706ee67c6ae91322ebf6	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h3.vid	\N	\N	8192	6d278459	a1417f158f288b0b0cbffc58f9e22b6c7cdf0fc7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h4.vid	\N	\N	8192	9b2e5f2a	e91d7a9141dbe0fc5eacc2c5a672935993a3316f	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h5.vid	\N	\N	8192	150a6264	930ccf8dcf4971d0a15f406d9114be5ecfaa1727	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_7a.snd	\N	\N	4096	75d2c4e2	b701019b4e7b06b268be660ce7958b5367318c27	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_8a.snd	\N	\N	4096	ca4325ae	34ac035c0c2ed6bcafde1491d976bb9e9d2a2a7d	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h12.vid	\N	\N	8192	e2114539	0ea19ae4d7c2da14f23c81abb8e2c931785b2715	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_h11.vid	\N	\N	8192	169a8f3f	182c7c9b9849ebb57b3ff7c0b629f2f8e2efa9ba	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_a11.vid	\N	\N	8192	afdaba5e	27c090cb1c3767c997daeedbe1ba24786f9e78f1	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_a12.vid	\N	\N	8192	054cafeb	4c3cd850b347217af3dd5c9bb84bcff7b30689bd	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_a9.vid	\N	\N	8192	9d2166b2	42d2b05360e58b1b2b3ad06c98eb46d9da2b1c21	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rocnrope	rnr_a10.vid	\N	\N	8192	aff6e22f	476d67821519feddc9f9c8537b46e6eede790035	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	rtype	\N	\N	\N	\N	\N	R-Type (US)	1987	Irem (Nintendo of America license)	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	aud-h0.bin	\N	\N	65536	36008a4e	832006cb14a34e1671e305cc8ae606c3c6185a6a	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	aud-l0.bin	\N	\N	65536	4aaa668e	87059460b59f43f2ca8cd959d76f721facd9de96	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	aud-h1.bin	\N	\N	65536	7ebb2a53	1466df19888c3374847eb77f702060647e49d6ad	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	aud-l1.bin	\N	\N	65536	c28b103b	f294a23c3917b97812eb4c7f3a99253fd0cbb7ea	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-00.bin	\N	\N	65536	dad53bc0	1e3bc498861946278a0b1fe24259f5d224e265d7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-01.bin	\N	\N	65536	b28d1a60	26d0b5a381f5b462a223cb474067c7b5e67706df	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-10.bin	\N	\N	65536	d6a66298	d2873d05aa3b257e7699c188880ac3daad672fa5	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-11.bin	\N	\N	65536	bb182f1a	93b24bb0d6abd5c42c84a041c79b1dcea568e443	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-20.bin	\N	\N	65536	fc247c8a	01cf0a60f47fa5e2ed430a3f075e69e6cb762a48	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-21.bin	\N	\N	65536	5b41f5f3	8f47a77fb6513b8f611671d34721e33d284dc035	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-30.bin	\N	\N	65536	eb02a1cb	60a394ab53afdcbbf9e88083b8dbe8c897170d77	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-31.bin	\N	\N	65536	2bec510a	3455e72095832135ac006944a1209e720ec5c8bf	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-a0.bin	\N	\N	32768	4e212fb0	687061ecade2ebd0bd1343c9c4a831791853f79c	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-a1.bin	\N	\N	32768	8a65bdff	130bf6af521f13247a739a95eab4bdaa24b2ac10	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-a2.bin	\N	\N	32768	5a4ae5b9	95c3b64f50e6f673b2bf9b40642c152da5009d25	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-a3.bin	\N	\N	32768	73327606	9529ecdedd30e2a0400fb1083117992cc18b5158	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-b0.bin	\N	\N	32768	a7b17491	5b390770e56ba2d35e108534d7eda8dca996fdf7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-b1.bin	\N	\N	32768	b9709686	700905a3e9661e0874939f54da2909e1396ce596	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-b2.bin	\N	\N	32768	433b229a	14222eaa3e67e5a7f80eafcf22bac4eb2d485a9a	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype	cpu-b3.bin	\N	\N	32768	ad89b072	e2683d0e7415f3abd147e518bf6c87e44744cd4f	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	trackfld	\N	\N	\N	\N	\N	Track & Field	1983	Konami	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	a01_e01.bin	\N	\N	8192	2882f6d4	f7ddae2c5412a2849efd7f9629e92a5b0328e7cb	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	a02_e02.bin	\N	\N	8192	1743b5ee	31301031a525f893c31461f634350f01a9492ef4	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	a03_k03.bin	\N	\N	8192	6c0d1ee9	380ab2162153a61910a6fe5b6d091ca9451ad4fd	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	a04_e04.bin	\N	\N	8192	21d6c448	6c42cc76302485954a31520bdd08469fa948c72f	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	a05_e05.bin	\N	\N	8192	f08c7b7e	50e65d9b0ea37d2afb2dfdf1f3e1378e3290bc81	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c2_d13.bin	\N	\N	8192	95bf79b6	ea9135acd7ad162c19c5cdde356e69792d61b675	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	h16_e12.bin	\N	\N	8192	50075768	dfff92c0f59dd3d8d3d6256944bfd48792cef6a9	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	h15_e11.bin	\N	\N	8192	dda9e29f	0f41cde82bb60c3f1591ee14dc3cff4642bbddc1	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	h14_e10.bin	\N	\N	8192	c2166a5c	5ba25900e653ce4edcf35f1fbce758a327a715ce	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c11_d06.bin	\N	\N	8192	82e2185a	1da9ea20e7af0b49c62fb39834a7ec686491af04	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c12_d07.bin	\N	\N	8192	800ff1f1	33d73b18903e3e6bfb30f1a06db4b8105d4040d8	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c13_d08.bin	\N	\N	8192	d9faf183	4448b6242790783d37acf50704d597af5878c2ab	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c14_d09.bin	\N	\N	8192	5886c802	884a12a8f63600da4f23b29be6dbaacef37add20	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	trackfld	c9_d15.bin	\N	\N	8192	f546a56b	caee3d8546eb7a75ce2a578c6a1a630246aec6b8	\N	\N	\N	\N	\N	\N	
+game	Juno_First_v1.23	tutankhm	\N	\N	\N	\N	\N	Tutankham (Stern)	1982	[Konami] (Stern license)	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_1h.cpu	\N	\N	4096	da18679f	8d2a3665db937d0e1d19300ae22277d9db61fcbc	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_1i.cpu	\N	\N	4096	7eb59b21	664d3e08df0f3d6690838810b6fe273eec3b7821	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_2h.cpu	\N	\N	4096	a0f02c85	29a78b3ffd6b597772953543b02dd59acf5af38c	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_2i.cpu	\N	\N	4096	6615eff3	e8455eab03f66642880595cfa0e9be285bf9fad0	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_3h.cpu	\N	\N	4096	2d62d7b1	910718f36735f2614cda0c3a1abdfa995d82dbd2	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_3i.cpu	\N	\N	4096	a10d4444	683899e1014ee075b16d9d2610c3c5b5c4efedb6	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_4h.cpu	\N	\N	4096	bd06fad0	bd10bbb413d8dd362072522e902575d819fa8336	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_4i.cpu	\N	\N	4096	58cd143c	e4ab27c09858cede478f4ed3ac6d7392e383a470	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_5h.cpu	\N	\N	4096	bf9fd9b0	458ea2ff5eedaaa02e32444dd6004d2eaadbdeab	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_5i.cpu	\N	\N	4096	d7e7ae95	7068797770a6c42dc733b253bf6b7376eb6e071e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_6h.cpu	\N	\N	4096	c43b3865	3112cf831c5b6318337e591ccb0003aeab722652	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_6i.cpu	\N	\N	4096	91f62b82	2a78039ee63226978544142727d00d1ccc6d2ab4	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_7a.snd	\N	\N	4096	b52d01fa	9b6cf9ea51d3a87c174f34d42a4b1b5f38b48723	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_7i.cpu	\N	\N	4096	afd0a81f	cf10308a0fa4ffabd0deeb186b5602468028ff92	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_8a.snd	\N	\N	4096	9db5c0ce	b5bc1d89a7f7d7a0baae64390c37ee11f69a0e76	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_8i.cpu	\N	\N	4096	dabb609b	773b99b670db41a9de58d14b51f81ce0c446ca84	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	tutankhm	ra1_9i.cpu	\N	\N	4096	8ea9c6a6	fe1b299f8760fc5418179d3569932ee2c4dff461	\N	\N	\N	\N	\N	\N	
+game_sample	Juno_First_v1.23	tutankhm	tut_crd2.wav	
+game_sample	Juno_First_v1.23	tutankhm	tut_key2.wav	
+game_sample	Juno_First_v1.23	tutankhm	tut_maz2.wav	
+game_sample	Juno_First_v1.23	tutankhm	tut_mon2.wav	
+game_sample	Juno_First_v1.23	tutankhm	tut_sht2.wav	
+game	Juno_First_v1.23	rtype2	\N	\N	\N	\N	\N	R-Type II	1989	Irem	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g00l.bin	\N	\N	65536	b79a958e	e3931ebfbce2326bfd2c1d3eb234f3e64c2db055	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g00u.bin	\N	\N	65536	955beb3d	c5415e2d9b372d2b5872d3bccff324143c8bd2de	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g01l.bin	\N	\N	65536	9afc5896	e29ce121ea95e73faecf9a234eb8be371d873186	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g01u.bin	\N	\N	65536	d7978eeb	1adc95bebe9eea8c112d40cd04ab7a8d75c4f961	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g10l.bin	\N	\N	65536	8453dca5	aa074132ff2747f3592045a3b998738955685355	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g10u.bin	\N	\N	65536	2bc7cf79	be5ed199adb19d13a765b3ce2d69d7557d4dfdc5	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g11l.bin	\N	\N	65536	d350c2c6	d16a4daa816283121304c0ea6543ae7107b99e15	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g11u.bin	\N	\N	65536	d7978eeb	1adc95bebe9eea8c112d40cd04ab7a8d75c4f961	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g20l.bin	\N	\N	65536	1135b455	017de29d643a20561c9603d8452a5ccf7dfdbb41	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g20u.bin	\N	\N	65536	48c4a6e0	a450d56e953f473778b4cede0750308d48ba3845	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g21l.bin	\N	\N	65536	8a6a29fa	fdf8af067a3136347a24ef85e65975db625c6300	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g21u.bin	\N	\N	65536	d7978eeb	1adc95bebe9eea8c112d40cd04ab7a8d75c4f961	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g30l.bin	\N	\N	65536	77e2e8fc	6a5817e629b37072512d5362f60fa483c71fcd88	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g30u.bin	\N	\N	65536	bff5e464	245f05fbbb0624980c16acfebcd98d80d5d63655	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g31l.bin	\N	\N	65536	5b64cbd5	2a048120354f600977303f5bc8fccf79c7a9f09b	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_g31u.bin	\N	\N	65536	d7978eeb	1adc95bebe9eea8c112d40cd04ab7a8d75c4f961	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_h0.bin	\N	\N	131072	d8ece6f4	f7bb246fe8b75af24716d419bb3c6e7d9cd0971e	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_h1.bin	\N	\N	131072	4f6e9b15	ef733c2615951f54691877ad3e84d08107723324	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_l0.bin	\N	\N	131072	32cfb2e4	d4b44a40e2933040eddb2b09de7bfe28d76c5f25	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_l1.bin	\N	\N	131072	0fd123bf	1133163f6716e9a4bbb437b3a471477d0bd97051	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n0_l.bin	\N	\N	65536	78d2c8b2	8b6a0e914cb7937afc522e7a23728c807e99d9a4	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n0_u.bin	\N	\N	65536	b0a42f9c	3c93ac9e804ef4c38effe490972569004e0a17cb	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n1_l.bin	\N	\N	65536	e3fcdc8b	fff53efe91c55f6ede17db018d779dc9c8749444	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n1_u.bin	\N	\N	65536	48dc911e	62c59602f4fe144272f182e5075d7919b41d6b40	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n2_l.bin	\N	\N	65536	1591294a	a56c9c6ff6687b6363cc8c9bc2408f2d96355bb7	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n2_u.bin	\N	\N	65536	e898b182	511c14f61d5f70bd0939b6fc039320ae2f9e4264	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n3_l.bin	\N	\N	65536	696ac2b7	d5c3d0b70d86171c3164e28e1205ac9b5307a164	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_n3_u.bin	\N	\N	65536	bfa202b1	68d75b0cb0a97f583edafc3888194064e7cea3f1	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_sp.bin	\N	\N	65536	73ffecb4	4795bf0d6263060c3d3759b659bdb189a4087600	\N	\N	\N	\N	\N	\N	
+game_rom	Juno_First_v1.23	rtype2	rt2_vo.bin	\N	\N	131072	637172d5	9dd0dc409306287238826bf301e2a7a12d6cd9ce	\N	\N	\N	\N	\N	\N	
+game_sample	Juno_First_v1.23	rtype2	rtiia_02.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_05.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_06.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_14.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_39.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_41.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_43.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_45.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiia_46.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_02.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_03.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_06.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_07.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_09.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_10.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_11.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_13.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_15.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_17.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_18.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_20.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_22.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_23.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_35.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_36.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_37.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_38.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_40.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_41.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_42.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_43.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_44.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiib_45.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_03.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_04.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_06.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_09.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_10.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_11.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_12.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_13.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_14.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_15.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_16.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_17.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_18.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_19.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_20.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_21.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_23.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_24.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_25.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_26.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_30.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_31.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_35.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_36.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_37.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_38.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_40.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_41.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_42.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_44.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiic_47.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_01.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_02.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_03.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_04.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_05.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_06.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_07.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_11.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_12.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_13.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_14.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_15.wav	
+game_sample	Juno_First_v1.23	rtype2	rtiid_17.wav	

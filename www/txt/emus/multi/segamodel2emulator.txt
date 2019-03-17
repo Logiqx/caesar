@@ -1,0 +1,15 @@
+
+emulator	segamodel2emulator	multi	SEGA_Model_2_Emulator_v0.9	\N	\N	\N	SEGA Model 2 Emulator	0.9	29/01/2009	Windows	Sega Model 2	A rewrite of the Nebula Model 2 emulator (includes a special version for dual core machines).	Active
+emulator_homepage	segamodel2emulator	http://nebula.emulatronia.com/	\N
+emulator_author_link	segamodel2emulator	elsemi	\N	author
+
+emulator_tool_link	segamodel2emulator	msvc
+emulator_tool_link	segamodel2emulator	zlib
+emulator_features	segamodel2emulator	Yes	No	Yes	No	Yes	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	segamodel2emulator	Keyboard
+emulator_controller	segamodel2emulator	Joystick
+emulator_relative_link	segamodel2emulator	nebulam2	predecessor
+
+emulator_relative_link	segamodel2emulator	msega	derivative
+
+emulator_file	segamodel2emulator	Emulator	m2emulator09.zip

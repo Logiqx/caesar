@@ -1,0 +1,53 @@
+
+tool	seal	snd_libs	Synthetic Audio Library (SEAL) Development Kit	1.0.7	30/07/1999	Can play digital audio waveforms and music modules on many platforms
+tool_homepage	seal	http://www.egerter.com/seal/	bad
+tool_author_link	seal	carlos_hasan
+tool_emulator_link	seal	1942
+tool_emulator_link	seal	annoid
+tool_emulator_link	seal	crazy_climber
+tool_emulator_link	seal	diamondrun
+tool_emulator_link	seal	epp
+tool_emulator_link	seal	emudx
+tool_emulator_link	seal	finalpengo
+tool_emulator_link	seal	fm_emu
+tool_emulator_link	seal	galemu
+tool_emulator_link	seal	galemu_windows
+tool_emulator_link	seal	gg
+tool_emulator_link	seal	gyruss
+tool_emulator_link	seal	kallus2
+tool_emulator_link	seal	ladybug_nicola
+tool_emulator_link	seal	m72
+tool_emulator_link	seal	mulator
+tool_emulator_link	seal	dmame
+tool_emulator_link	seal	mcemu
+tool_emulator_link	seal	mmsnd
+tool_emulator_link	seal	multipac
+tool_emulator_link	seal	macmultipac
+tool_emulator_link	seal	mrdo_nicola
+tool_emulator_link	seal	multipacd
+tool_emulator_link	seal	pengo
+tool_emulator_link	seal	phmame
+tool_emulator_link	seal	qplayer_dos
+tool_emulator_link	seal	raine_linux_alt
+tool_emulator_link	seal	replay
+tool_emulator_link	seal	replayplus
+tool_emulator_link	seal	replayplus_linux
+tool_emulator_link	seal	retrovaders
+tool_emulator_link	seal	rockulator
+tool_emulator_link	seal	sega_system_c2
+tool_emulator_link	seal	sega_c2_linux
+tool_emulator_link	seal	sage
+tool_emulator_link	seal	sse
+tool_emulator_link	seal	sname
+tool_emulator_link	seal	system_16_sound_player
+tool_emulator_link	seal	system16
+tool_emulator_link	seal	system16_beta
+tool_emulator_link	seal	thearcade
+tool_emulator_link	seal	timepilot
+tool_emulator_link	seal	vantage
+tool_emulator_link	seal	vulgus
+tool_file	seal	SEAL v1.07 source	seal107.zip
+tool_file	seal	MAME/RAINE SEAL v1.07 source fixes for DJGPP	mameseal107src.zip
+tool_file	seal	MAME/RAINE SEAL v1.07 pre-built for DJGPP	mameseal107.zip
+tool_file	seal	RAINE SEAL v1.07 source for MinGW	raineseal107src.zip
+tool_file	seal	RAINE SEAL v1.07 pre-built for MinGW	raineseal107.zip

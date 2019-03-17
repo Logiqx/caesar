@@ -1,0 +1,16 @@
+
+emulator	mamece	wince	dummy	\N	\N	\N	MameCE	1.03	15/05/2000	WinCE	Emulates a subset of MAME games (mostly those games released before 1984)	This CE port of MAME is based on the Win32 version of MAME. Written for the Cassiopeia E-10X series.	Dormant
+emulator_homepage	mamece	http://www.mamece.com/	bad
+emulator_author_link	mamece	ben_cooley	\N	author
+
+emulator_tool_link	mamece	msvc
+emulator_features	mamece	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+emulator_controller	mamece	Buttons
+emulator_relative_link	mamece	mame	hybrid_of
+
+emulator_relative_link	mamece	mameui	hybrid_of
+
+emulator_relative_link	mamece	mamece_10x	modified_version
+
+emulator_file	mamece	Emulator v1.03	MameCE003.zip
+emulator_file	mamece	Source for v0.01	MameCESrc001.zip

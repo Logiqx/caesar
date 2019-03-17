@@ -1,0 +1,32 @@
+
+author	midway	Midway	\N
+author_email	midway	service@midwayhome.com
+author_emulator_link	midway	williams_digital_arcade	author
+
+author_emulator_link	midway	williams_arcade_classics	author
+
+author_emulator_link	midway	williams_arcade_classics_95	author
+
+author_emulator_link	midway	williams_greatest_hits	author
+
+author_emulator_link	midway	williams_greatest_hits_sat	author
+
+author_emulator_link	midway	midway_greatest_hits	author
+
+author_emulator_link	midway	midway_collection_2	author
+
+author_emulator_link	midway	midway_collection_2_pc	author
+
+author_emulator_link	midway	atari_collection	author
+
+author_emulator_link	midway	atari_collection_sat	author
+
+author_emulator_link	midway	atari_collection_2	author
+
+author_emulator_link	midway	atari_collection_2_pc	author
+
+author_emulator_link	midway	arcade_party_pak	author
+
+author_emulator_link	midway	arcade_party_pak_pc	author
+
+author_emulator_link	midway	shockwave_arcade	author

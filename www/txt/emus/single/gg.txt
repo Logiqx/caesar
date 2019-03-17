@@ -1,0 +1,13 @@
+
+emulator	gg	single	Ghosts_n_Goblins_Arcade_Machine_Emulator_v0.32	\N	\N	\N	Ghosts'n Goblins Arcade Machine Emulator	0.32	06/06/1997	DOS	Ghosts'n Goblins (Capcom)	\N	Discontinued
+emulator_homepage	gg	http://www.geocities.com/TimesSquare/Dungeon/7939/arcade.html	bad
+emulator_author_link	gg	paul_leaman	\N	author
+
+emulator_library_link	gg	z80em
+emulator_tool_link	gg	djgpp
+emulator_tool_link	gg	allegro
+emulator_tool_link	gg	seal
+emulator_features	gg	Yes	No	Yes	No	No	No	Yes	No	No	Yes	\N	\N	\N
+emulator_controller	gg	Keyboard
+emulator_controller	gg	Joystick
+emulator_file	gg	Emulator	gg-032.zip

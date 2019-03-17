@@ -1,0 +1,50 @@
+
+emulator	sse	single	Sil_s_Single_Emulator_v2.0	\N	\N	\N	Sil's Single Emulator (S.S.E.)	v2.0	30/11/1998	DOS	Various Games	Sil's Single Emulators are based on the sources of Mame029. They were made for speed and size.	Dormant
+emulator_homepage	sse	http://home.kabelfoon.nl/~msilvius/sse.htm	\N
+emulator_author_link	sse	marcel_silvius	\N	author
+
+emulator_tool_link	sse	djgpp
+emulator_tool_link	sse	seal
+emulator_features	sse	Yes	Yes	No	Yes	No	No	Yes	No	No	Yes	No	No	No
+emulator_controller	sse	Keyboard
+emulator_controller	sse	Joystick
+emulator_file	sse	1942 - Emulator	1942.zip
+emulator_file	sse	Amidar - Emulator	amidar.zip
+emulator_file	sse	Beastie Feastie - Emulator	beastf.zip
+emulator_file	sse	Williams Blaster - Emulator	blaster.zip
+emulator_file	sse	Crazy Climber - Emulator	cclimber.zip
+emulator_file	sse	Crazy Kong - Emulator	ckong.zip
+emulator_file	sse	Crush Roller - Emulator	crush.zip
+emulator_file	sse	Williams Defender - Emulator	defender.zip
+emulator_file	sse	DigDug  - Emulator	digdug.zip
+emulator_file	sse	DigDug 2 - Emulator	digdug2.zip
+emulator_file	sse	Donkey Kong - Emulator	dkong.zip
+emulator_file	sse	Mr.Do Run Run  - Emulator	dorunrun.zip
+emulator_file	sse	Mr.Do's Wild Ride  - Emulator	dowild.zip
+emulator_file	sse	Eyes - Emulator	eyes.zip
+emulator_file	sse	Frogger - Emulator	frogger.zip
+emulator_file	sse	Frogger on Scramble hardware - Emulator	froggers.zip
+emulator_file	sse	Galaga - Emulator	galaga.zip
+emulator_file	sse	Jr. PacMan - Emulator	jrpacman.zip
+emulator_file	sse	LadyBug - Emulator	ladybug.zip
+emulator_file	sse	Lizard Wizard - Emulator	lizwiz.zip
+emulator_file	sse	Mappy - Emulator	mappy.zip
+emulator_file	sse	Mr.Do! - Emulator	mrdo.zip
+emulator_file	sse	Mr.Do Snow! - Emulator	mrdosnow.zip
+emulator_file	sse	Mr.TNT - Emulator	mrtnt.zip
+emulator_file	sse	Ms.PacMan - Emulator	mspacman.zip
+emulator_file	sse	PacMan Namco version - Emulator	namcopac.zip
+emulator_file	sse	Nite Driver - Emulator	nitedrvr.zip
+emulator_file	sse	PacMan Hearts Bootleg - Emulator	pacheart.zip
+emulator_file	sse	PacMan Midway version - Emulator	pacman.zip
+emulator_file	sse	PacMan Plus - Emulator	pacplus.zip
+emulator_file	sse	Pengo - Emulator	pengo.zip
+emulator_file	sse	Ponpoko - Emulator	ponpoko.zip
+emulator_file	sse	Popeye - Emulator	popeye.zip
+emulator_file	sse	Rally X - Emulator	rallyx.zip
+emulator_file	sse	Super Cobra - Emulator	scobra.zip
+emulator_file	sse	Scramble - Emulator	scramble.zip
+emulator_file	sse	Williams Stargate - Emulator	stargate.zip
+emulator_file	sse	The Glob - Emulator	theglob.zip
+emulator_file	sse	Turtles - Emulator	turtles.zip
+emulator_file	sse	Xevious - Emulator	xevious.zip

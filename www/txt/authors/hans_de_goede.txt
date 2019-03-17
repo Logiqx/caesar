@@ -1,0 +1,7 @@
+
+author	hans_de_goede	Hans De Goede	\N
+author_email	hans_de_goede	hans@highrise.nl
+author_email	hans_de_goede	j.w.r.degoede@et.tudelft.nl
+author_emulator_link	hans_de_goede	system16_linux	author
+
+author_emulator_link	hans_de_goede	xmame	contributor

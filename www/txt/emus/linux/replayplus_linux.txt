@@ -1,0 +1,18 @@
+
+emulator	replayplus_linux	linux	dummy	\N	\N	\N	Replay+ (Linux)	1.00	23/06/1998	Linux	Data East, Namco and Konami games from the 80's	Rewrite of the original Replay emulator.	Dormant
+emulator_homepage	replayplus_linux	http://www.icomm.ca/replay/	\N
+emulator_author_link	replayplus_linux	kevin_brisley	\N	author
+
+emulator_library_link	replayplus_linux	multi6502
+emulator_library_link	replayplus_linux	multiz80
+emulator_library_link	replayplus_linux	multi6809
+emulator_library_link	replayplus_linux	starscream
+emulator_tool_link	replayplus_linux	djgpp
+emulator_tool_link	replayplus_linux	allegro
+emulator_tool_link	replayplus_linux	seal
+emulator_features	replayplus_linux	Yes	No	Yes	Yes	Yes	Yes	Yes	No	No	Yes	Yes	No	Yes
+emulator_controller	replayplus_linux	Keyboard
+emulator_controller	replayplus_linux	Joystick
+emulator_relative_link	replayplus_linux	replayplus	port_of
+
+emulator_file	replayplus_linux	Emulator	rpbl100.zip

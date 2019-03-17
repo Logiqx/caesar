@@ -1,0 +1,10 @@
+
+author	martin_scragg	Martin Scragg	\N
+author_email	martin_scragg	mnm@scrigbys.com
+author_emulator_link	martin_scragg	moon_cresta	author
+
+author_emulator_link	martin_scragg	mulator	author
+
+author_emulator_link	martin_scragg	arcadeemu	contributor
+
+author_emulator_link	martin_scragg	rockulator_orig	contributor

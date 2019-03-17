@@ -1,0 +1,29 @@
+
+emulator	multipac	multi	MultiPac_v0.8	\N	\N	\N	MultiPac	v0.8	29/01/1997	DOS	Games using Pacman hardware	You can run any Pac Man clone, even if it isn't directly supported. For example if you have six roms called foo.5e, foo.5f, foo.6e ... foo.6j, just create a directory named "foo", put the roms into it and launch the emulator with "pacman foo". Grew up to become the amazing emulator that is MAME.	Superceded
+emulator_homepage	multipac	http://valhalla.ph.tn.tudelft.nl/emul8/	bad
+emulator_author_link	multipac	nicola_salmoria	\N	author
+
+emulator_library_link	multipac	z80em
+emulator_tool_link	multipac	allegro
+emulator_tool_link	multipac	djgpp
+emulator_tool_link	multipac	seal
+emulator_features	multipac	Yes	Yes	Yes	No	No	Yes	Yes	No	No	Yes	No	No	No
+emulator_controller	multipac	Keyboard
+emulator_controller	multipac	Joystick
+emulator_author_link	multipac	allard_van_der_bas	Emulator Framework	contributor
+
+emulator_author_link	multipac	sergio_munoz	Information about the sound hardware	contributor
+
+emulator_author_link	multipac	gary_walton	Helped make the Crush Roller colors better	contributor
+
+emulator_relative_link	multipac	macmultipac	port
+
+emulator_relative_link	multipac	multipacd	port
+
+emulator_relative_link	multipac	multipac_gp32	port
+
+emulator_relative_link	multipac	multipac_dc	port
+
+emulator_relative_link	multipac	mame	successor
+
+emulator_file	multipac	Emulator and source	multipc8.zip

@@ -1,0 +1,4 @@
+
+emulator_contents	n64	Emulators for the Nintendo 64	These emulators are all for the Nintendo 64
+emulator_contents_emulator_link	n64	mame64
+emulator_contents_emulator_link	n64	namco_museum_64

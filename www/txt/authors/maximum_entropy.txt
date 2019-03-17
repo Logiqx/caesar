@@ -1,0 +1,7 @@
+
+author	maximum_entropy	Maximum Entropy	\N
+author_email	maximum_entropy	entropy@tappedin.com
+author_email	maximum_entropy	entropy@zippy.bernstein.com
+author_emulator_link	maximum_entropy	xcade	contributor
+
+author_emulator_link	maximum_entropy	xcade_unix	contributor

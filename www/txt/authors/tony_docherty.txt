@@ -1,0 +1,17 @@
+
+author	tony_docherty	Tony Docherty	\N
+author_email	tony_docherty	vbemu@yahoo.com
+author_email	tony_docherty	tony.docherty@almac.co.uk
+author_emulator_link	tony_docherty	amoad	author
+
+author_emulator_link	tony_docherty	invadersaver	author
+
+author_emulator_link	tony_docherty	pacsaver	author
+
+author_emulator_link	tony_docherty	vbemu	author
+
+author_emulator_link	tony_docherty	ssvbemu	author
+
+author_emulator_link	tony_docherty	vbpac	author
+
+author_emulator_link	tony_docherty	pcslomo	contributor

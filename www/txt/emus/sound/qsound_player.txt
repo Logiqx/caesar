@@ -1,0 +1,9 @@
+
+emulator	qsound_player	sound	QSound_Player_v2	\N	\N	\N	QSound Player	2	17/06/1998	Windows	QSound music and sound effects	Plays the music and sound effects from CPS1/CPS2 arcade boards	Discontinued
+emulator_homepage	qsound_player	\N	none
+emulator_author_link	qsound_player	sardu	\N	author
+
+emulator_tool_link	qsound_player	msvc
+emulator_features	qsound_player	Yes	No	No	No	No	No	No	No	No	No	No	\N	No
+emulator_controller	qsound_player	Keyboard
+emulator_file	qsound_player	Player	qsp2.zip

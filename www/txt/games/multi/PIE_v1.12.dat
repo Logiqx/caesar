@@ -1,0 +1,30 @@
+game	PIE_v1.12	puckman	\N	\N	\N	\N	\N	PuckMan (Japan set 1, Probably Bootleg)	1980	Namco	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	namcopac.6e	\N	\N	4096	fee263b3	87117ba5082cd7a615b4ec7c02dd819003fbd669	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	namcopac.6f	\N	\N	4096	39d1fc83	326dbbf94c6fa2e96613dedb53702f8832b47d59	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	namcopac.6h	\N	\N	4096	02083b03	7e1945f6eb51f2e51806d0439f975f7a2889b9b8	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	namcopac.6j	\N	\N	4096	7a36fe55	01b4c38108d9dc4e48da4f8d685248e1e6821377	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	pacman.5e	\N	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	pacman.5f	\N	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	puckman	82s126.4a	\N	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game	PIE_v1.12	pacman	\N	\N	puckman	puckman	\N	Pac-Man (Midway)	1980	[Namco] (Midway license)	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.5e	pacman.5e	\N	4096	0c944964	06ef227747a440831c9a3a613b76693d52a2f0a9	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	pacman.5f	pacman.5f	\N	4096	958fedf9	4a937ac02216ea8c96477d4a15522070507fb599	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	82s123.7f	82s123.7f	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	pacman	82s126.4a	82s126.4a	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	
+game	PIE_v1.12	mspacman	\N	\N	\N	\N	\N	Ms. Pac-Man	1981	Midway	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	pacman.6e	\N	\N	4096	c1e6ab10	e87e059c5be45753f7e9f33dff851f16d6751181	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	pacman.6f	\N	\N	4096	1a6fb2d4	674d3a7f00d8be5e38b1fdc208ebef5a92d38329	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	pacman.6h	\N	\N	4096	bcdd1beb	8e47e8c2c4d6117d174cdac150392042d3e0a881	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	pacman.6j	\N	\N	4096	817d94e3	d4a70d56bb01d27d094d73db8667ffb00ca69cb9	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	u5	\N	\N	2048	f45fbbcd	b26cc1c8ee18e9b1daa97956d2159b954703a0ec	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	u6	\N	\N	4096	a90e7000	e4df96f1db753533f7d770aa62ae1973349ea4cf	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	u7	\N	\N	4096	c82cd714	1d8ac7ad03db2dc4c8c18ade466e12032673f874	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	5e	\N	\N	4096	5c281d01	5e8b472b615f12efca3fe792410c23619f067845	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	5f	\N	\N	4096	615af909	fd6a1dde780b39aea76bf1c4befa5882573c2ef4	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	82s123.7f	\N	\N	32	2fc650bd	8d0268dee78e47c712202b0ec4f1f51109b1f2a5	\N	\N	\N	\N	\N	\N	
+game_rom	PIE_v1.12	mspacman	82s126.4a	\N	\N	256	3eb3a8e4	19097b5f60d1030f8b82d9f1d3a241f93e5c75d6	\N	\N	\N	\N	\N	\N	

@@ -1,0 +1,13 @@
+
+emulator	tickle_mac	mac	dummy	\N	\N	\N	Tickle (Mac)	0.93	02/06/2006	Mac	Arcade classics from the 1980s	Tickle is an object oriented framework written to develop hardware emulators, but it can also used to write simple games and similar stuff. Tickle is composed by a portable library of functions and interfaces, and by an OS-dependent front end that provides access to system input and output devices (keyboard, mouse, joystick, sound, video and so on).	Dormant
+emulator_homepage	tickle_mac	http://www.ascotti.org/programming/tickle/tickle.htm	\N
+emulator_author_link	tickle_mac	alessandro_scotti	\N	author
+
+emulator_features	tickle_mac	Yes	Yes	No	No	No	No	Yes	No	Yes	Yes	No	No	No
+emulator_controller	tickle_mac	Keyboard
+emulator_controller	tickle_mac	Joystick
+emulator_controller	tickle_mac	Mouse
+emulator_relative_link	tickle_mac	tickle	port_of
+
+emulator_file	tickle_mac	Emulator	Tickle0.93_DEV.dmg
+emulator_file	tickle_mac	Source	Tickle0.93_DEV_src.dmg

@@ -1,0 +1,7 @@
+
+emulator	ultracade_fighting_1	commercial	Ultracade_-_Fighting_Classics_1	\N	\N	\N	Ultracade - Fighting Classics 1	-	2000	?	8 Capcom/Taito Fighting classics	Game Pack 5 for the Ultracade system.	Discontinued
+emulator_homepage	ultracade_fighting_1	http://www.ultracade.com/	\N
+emulator_author_link	ultracade_fighting_1	ultracade	\N	author
+
+emulator_features	ultracade_fighting_1	Yes	No	No	Yes	No	No	Yes	No	No	Yes	No	No	Yes
+emulator_controller	ultracade_fighting_1	Joystick

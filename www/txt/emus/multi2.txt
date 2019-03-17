@@ -1,0 +1,16 @@
+
+emulator_contents	multi2	Multi Emulators	These emulators support a variety of different games, not just a single game and it's clones
+emulator_contents_emulator_link	multi2	callus95
+emulator_contents_emulator_link	multi2	dmame
+emulator_contents_emulator_link	multi2	emudx32
+emulator_contents_emulator_link	multi2	galemu_windows
+emulator_contents_emulator_link	multi2	laser32
+emulator_contents_emulator_link	multi2	laser_sdl
+emulator_contents_emulator_link	multi2	mameui
+emulator_contents_emulator_link	multi2	raine
+emulator_contents_emulator_link	multi2	sega_system_c2_w
+emulator_contents_emulator_link	multi2	sname
+emulator_contents_emulator_link	multi2	sparcade_stable
+emulator_contents_emulator_link	multi2	ssvbemu
+emulator_contents_emulator_link	multi2	system16_beta
+emulator_contents_emulator_link	multi2	system16_directx
