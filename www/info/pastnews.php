@@ -25,23 +25,31 @@
 
 			for ($i=date("Y"); $i>=2000; $i--)
 			{
-				echo INDENT . '<table class="links">' . LF;
-                        	echo INDENT . TAB . '<tr><th>' . $i . '</th></tr>' . LF;
-
+				$yearOutput = false;
 				$class = 'odd';
 
 				for ($j=11; $j>=0; $j--)
 				{
 					if (file_exists('../news/arc' . $j . '-' . $i . '.txt'))
 					{
-                				echo INDENT . TAB . '<tr class="' . $class . '"><td><a href="../news.php?year=' . $i . '&amp;month=' . $j . '">' . date('F', mktime(0, 0, 0, $j+1, 1)) . ' ' . $i . '</a></td></tr>' . LF;
+						if ($yearOutput == false)
+						{
+							echo INDENT . '<table class="links">' . LF;
+							echo INDENT . TAB . '<tr><th>' . $i . '</th></tr>' . LF;
+							$yearOutput = true;
+						}
+
+						echo INDENT . TAB . '<tr class="' . $class . '"><td><a href="../news.php?year=' . $i . '&amp;month=' . $j . '">' . date('F', mktime(0, 0, 0, $j+1, 1)) . ' ' . $i . '</a></td></tr>' . LF;
 
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
 				}
 
-				echo INDENT . '</table>' . LF . LF;
-				echo INDENT . '<p/>' . LF . LF;
+				if ($yearOutput == true)
+				{
+					echo INDENT . '</table>' . LF . LF;
+					echo INDENT . '<p/>' . LF . LF;
+				}
 			}
 
 			// Standard page footer (counter)
