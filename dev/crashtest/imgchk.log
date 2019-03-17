@@ -1,0 +1,101 @@
+===============================================================================
+ImgChk v2.4 (Private Beta) - using DatLib v1.9 (30 July 2004)
+Written by Logiqx (http://www.logiqx.com/)
+===============================================================================
+Processing h:\caesar\data\games\multi\mame v0.85.dat:
+  Loading the file into memory (15.94MB)...
+  Identified the file as being 'MAME ListInfo' format.
+  Calling the 'MAME ListInfo' pre-parser/tokenizer...
+  Storing the tokenized dat within the actual dat structure...
+Processing complete!
+
+Loaded 5061 games (1119 parents, 2210 clones, 1732 others) and 22 resources.
+
+Testing titles...
+   Unknown: sfzch-1.png
+   Unknown: kof2001.png
+   Unknown: snowbro3.png
+   Unknown: cthd2003.png
+   Unknown: matrim.png
+   Unknown: mslug4.png
+   Unknown: kof2002.png
+   Unknown: 4in1boot.png
+   Unknown: kof2003.png
+   Unknown: mslug5.png
+   Unknown: rotd.png
+   Unknown: svc.png
+   Unknown: pnyaa.png
+   Unknown: puzbobb-1.png
+   Unknown: prtytime.png
+   Unknown: goldmeda.png
+   Unknown: phrcraze.png
+   Unknown: samsho5-1.png
+   Unknown: samsho5.png
+   Unknown: tcobra2.png
+   Unknown: tictac.png
+   Unknown: trvwhiz.png
+   Unknown: trvwhzii.png
+   Unknown: vsnetscj.png
+Done!
+
+Testing select...
+   Unknown: kof2001.png
+   Unknown: kof2k.png
+   Unknown: cthd2003.png
+   Unknown: matrim.png
+   Unknown: mslug4.png
+   Unknown: kof2002.png
+   Unknown: 4in1boot_1.png
+   Unknown: 4in1boot_2.png
+   Unknown: kof2003.png
+   Unknown: mslug5.png
+   Unknown: rotd.png
+   Unknown: svc.png
+   Unknown: pnyaa-1.png
+   Unknown: pnyaa.png
+   Unknown: goldmeda.png
+   Unknown: samsho5.png
+Done!
+
+Testing versus...
+   Unknown: kof2001.png
+   Unknown: kof2002.png
+   Unknown: kof2003.png
+   Unknown: matrim.png
+   Unknown: rotd.png
+   Unknown: samsho5.png
+Done!
+
+Testing wallpaper...
+   Unknown: kof2003.png
+   Unknown: rotd.png
+   Unknown: svc.png
+Done!
+
+Testing snap...
+   Unknown: kof2001.png
+   Unknown: snowbro3.png
+   Unknown: cthd2003.png
+   Unknown: matrim.png
+   Unknown: mslug4.png
+   Unknown: kof2002.png
+   Unknown: 4in1boot_1.png
+   Unknown: 4in1boot_2.png
+   Unknown: 4in1boot_3.png
+   Unknown: 4in1boot_4.png
+   Unknown: kof2003.png
+   Unknown: mslug5.png
+   Unknown: rotd.png
+   Unknown: svc.png
+   Unknown: 4in1boot.png
+   Unknown: pnyaa.png
+   Unknown: vsnetscj.png
+   Unknown: trvwhiz.png
+   Unknown: trvwhzii.png
+   Unknown: tictac.png
+   Unknown: prtytime.png
+   Unknown: goldmeda.png
+   Unknown: phrcraze.png
+   Unknown: samsho5.png
+   Unknown: tcobra2.png
+Done!

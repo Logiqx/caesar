@@ -1,0 +1,26 @@
+===============================================================================
+Images v1.0 (17 August 2004) - using DatLib v1.9 (30 July 2004)
+Written by Logiqx (http://www.logiqx.com/)
+===============================================================================
+Processing h:\caesar\data\games\multi\mame v0.85.dat:
+  Loading the file into memory (15.94MB)...
+  Identified the file as being 'MAME ListInfo' format.
+  Calling the 'MAME ListInfo' pre-parser/tokenizer...
+  Storing the tokenized dat within the actual dat structure...
+Processing complete!
+
+Loaded 5061 games (1119 parents, 2210 clones, 1732 others) and 22 resources.
+
+Testing cabinets...
+   Unknown: centipb2.png
+Done!
+
+Testing flyers...
+   Unknown: kof2001.png
+   Resource: neogeo.png
+Done!
+
+Testing marquees...
+   Resource: neogeo.png
+   Resource: playch10.png
+Done!
