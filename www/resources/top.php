@@ -6,7 +6,7 @@
 			<tr>
 				<td>
 					<?php
-						echo '<p><a href="' . $www_root . '/"><img src="' . $www_root . 'resources/caesar_small.png" alt="CAESAR Logo" width="168" height="25"/></a></p>' . LF . LF;
+						echo '<p><a href="' . $www_root . '"><img src="' . $www_root . 'resources/caesar_small.png" alt="CAESAR Logo" width="168" height="25"/></a></p>' . LF . LF;
 
 						echo INDENT . '<p><small>Catalogue of Arcade Emulation Software - the Absolute Reference</small></p>' . LF . LF;
 
@@ -175,7 +175,7 @@
 						{
 							echo INDENT . '<table class="menu">' . LF;
 							echo INDENT . TAB . '<tr><th>General</th></tr>' . LF;
-							echo INDENT . TAB . '<tr class="odd"><td><a href="' . $www_root . '/">Latest News</a></td></tr>' . LF;
+							echo INDENT . TAB . '<tr class="odd"><td><a href="' . $www_root . '">Latest News</a></td></tr>' . LF;
 							echo INDENT . TAB . '<tr class="even"><td><a href="' . $www_root . 'info/pastnews.php">Past News</a></td></tr>' . LF;
 							echo INDENT . TAB . '<tr class="odd"><td><a href="' . $www_root . 'info/about.php">About</a></td></tr>' . LF;
 							echo INDENT . TAB . '<tr class="even"><td><a href="http://forum.logiqx.com/">Forum</a></td></tr>' . LF;
