@@ -1,14 +1,16 @@
-web:
+version: '2'
+services:
+  web:
     image: nginx:1.15.9-alpine
     ports:
-    - "80:80"
+      - "80:80"
     volumes:
-        - C:\CAESAR\WWW:/www
-        - .\nginx\site.conf:/etc/nginx/conf.d/site.conf
-    links:
-        - php
-php:
+      - C:\CAESAR\www:/www
+      - .\nginx\site.conf:/etc/nginx/conf.d/site.conf
+    depends_on:
+      - php
+  php:
     image: php:7.3.3-fpm-alpine3.9
     volumes:
-        - C:\CAESAR\WWW:/www
-        - .\php-fpm\log.conf:/usr/local/etc/php-fpm.d/zz-log.conf
+      - C:\CAESAR\www:/www
+      - .\php-fpm\log.conf:/usr/local/etc/php-fpm.d/zz-log.conf
