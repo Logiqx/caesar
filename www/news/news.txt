@@ -1,6 +1,0 @@
-
-	<!-- NP v3.7.5 -->
-	<a name="newsitem1175638316,13484,"></a><h2>Tuesday 3 April</h2>
-<p><table class="news">  <colgroup><!--Nutscrape--></colgroup>
-  <tr><th><strong>Daytonaaa</strong><br/> 
-<small>Posted by <a href="/info/about.shtml">logiqx</a> at at 10:11PM [BST]</small>  </th></tr>  <tr><td> ElSemi has released his <a href="http://nebula.emulatronia.com/">Model 2 emulator 0.4</a> supporting some Model 2 and Model 2 A-CRX boards. It includes a preliminary emulation of the Fujitsu MB86234 DSP but keep in mind that the emulation is still preliminary. There is no documentation on this chip, and it has been done by reverse engineering the binary programs and comparing with the model 2B and 2C programs and the MAME Model 1 HLE.  </td></tr>  </table></p>
