@@ -10,21 +10,6 @@
 
 						echo INDENT . '<p><small>Catalogue of Arcade Emulation Software - the Absolute Reference</small></p>' . LF . LF;
 
-						echo INDENT . '<p>' . LF;
-
-						if (!isset($non_xhtml_compliant))
-						{
-							echo INDENT . TAB . '<a href="http://validator.w3.org/check?uri=referer">';
-							echo '<img src="' . $www_root . 'resources/valid-xhtml10.png" alt="Valid XHTML 1.0!" height="31" width="88"/>';
-							echo '</a>' . LF;
-
-							echo INDENT . TAB . '<a href="http://jigsaw.w3.org/css-validator/check/referer">';
-							echo '<img src="' . $www_root . 'resources/valid-css.png" alt="Valid CSS!" height="31" width="88" />';
-							echo '</a>' . LF;
-						}
-
-						echo INDENT . '</p>' . LF . LF;
-
 						if (isset($menu))
 						{
 							echo INDENT . '<table class="menu">' . LF;
@@ -292,15 +277,20 @@
 							echo INDENT . '<p></p>' . LF ;
 						}
 
-						// Adverts
+						echo INDENT . '<p>' . LF;
 
-						if (@$_GET['ads'] != 'no')
+						if (!isset($non_xhtml_compliant))
 						{
-							echo LF. INDENT . '<p>' . LF;
-							echo INDENT . TAB. '<!-- Cube Advert -->' . LF;
-							echo INDENT . TAB . '<a href="http://www.x-arcade.com/landingpage.shtml?kbid=72062&amp;img=banner.gif"><img src="http://www.xgaming.com/Rotate3.php?id=72062&amp;img=banner.gif" alt="X-Arcade"/></a>' . LF;
-							echo INDENT . '</p>' . LF;
+							echo INDENT . TAB . '<a href="http://validator.w3.org/check?uri=referer">';
+							echo '<img src="' . $www_root . 'resources/valid-xhtml10.png" alt="Valid XHTML 1.0!" height="31" width="88"/>';
+							echo '</a>' . LF;
+
+							echo INDENT . TAB . '<a href="http://jigsaw.w3.org/css-validator/check/referer">';
+							echo '<img src="' . $www_root . 'resources/valid-css.png" alt="Valid CSS!" height="31" width="88" />';
+							echo '</a>' . LF;
 						}
+
+						echo INDENT . '</p>' . LF . LF;
 
 						echo TAB . TAB . TAB . TAB . '</td>' . LF . LF;
 
@@ -308,14 +298,6 @@
 
 						echo TAB . TAB . TAB . TAB . '<td>' . LF;
 
-						if (@$_GET['ads'] != 'no')
-						{
-							echo INDENT . '<p>' . LF;
-							echo INDENT . TAB. '<!-- Banner Advert -->' . LF;
-							echo INDENT . TAB. '<a href="http://www.x-arcade.com/landingpage.shtml?kbid=72062"><img src="http://www.xgaming.com/Rotate1.php?id=72062" alt="X-Arcade"/></a>' . LF;
-							echo INDENT . '</p>' . LF . LF;
-						}
-
-					echo INDENT . '<p><img src="' . $www_root . 'resources/caesar_big.png" alt="Large CAESAR Logo" width="495" height="104"/></p>' . LF;
+						echo INDENT . '<p><img src="' . $www_root . 'resources/caesar_big.png" alt="Large CAESAR Logo" width="495" height="104"/></p>' . LF;
 					?>
 
