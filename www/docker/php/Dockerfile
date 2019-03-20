@@ -5,6 +5,6 @@ FROM php:${PHP_VERSION:+${PHP_VERSION}-}fpm-alpine${ALPINE_VERSION:+${ALPINE_VER
 RUN apk update; \
     apk upgrade;
 
-RUN docker-php-ext-install mysqli
-
 COPY log.conf /usr/local/etc/php-fpm.d/zz-log.conf
+
+RUN docker-php-ext-install mysqli

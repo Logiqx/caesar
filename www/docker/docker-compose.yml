@@ -39,9 +39,9 @@ services:
     ports:
       - "3306:3306"
     volumes:
-      - caesar_db:/var/lib/mysql
+      - db:/var/lib/mysql
 networks:
   frontend:
   backend:
 volumes:
-    caesar_db:
+    db:
