@@ -16,6 +16,7 @@ services:
       context: ./nginx
       args:
         NGINX_VERSION: ${NGINX_VERSION}
+    image: ${COMPOSE_PROJECT_NAME:-caesar}_nginx:${PROJECT_NGINX_VERSION:-latest}
     networks:
       - frontend
     ports:
@@ -30,6 +31,7 @@ services:
       args:
         ALPINE_VERSION: ${ALPINE_VERSION}
         PHP_VERSION: ${PHP_VERSION}
+    image: ${COMPOSE_PROJECT_NAME:-caesar}_php:${PROJECT_PHP_VERSION:-latest}
     networks:
       - frontend
       - backend
