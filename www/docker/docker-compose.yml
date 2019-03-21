@@ -1,5 +1,16 @@
 version: '3'
 services:
+  mysql:
+    image: mysql:${MYSQL_VERSION:-latest}
+    environment:
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_RANDOM_ROOT_PASSWORD: "true"
+    networks:
+      - backend
+    ports:
+      - "3306:3306"
+    volumes:
+      - db:/var/lib/mysql
   nginx:
     build:
       context: ./nginx
@@ -26,17 +37,6 @@ services:
       - mysql
     volumes:
       - ${WWW_ROOT}:/www
-  mysql:
-    image: mysql:${MYSQL_VERSION:-latest}
-    environment:
-      MYSQL_DATABASE: ${MYSQL_DATABASE}
-      MYSQL_RANDOM_ROOT_PASSWORD: "true"
-    networks:
-      - backend
-    ports:
-      - "3306:3306"
-    volumes:
-      - db:/var/lib/mysql
 networks:
   frontend:
   backend:
