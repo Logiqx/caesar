@@ -17,8 +17,8 @@ services:
     build:
       context: ./php
       args:
-        PHP_VERSION: ${PHP_VERSION}
         ALPINE_VERSION: ${ALPINE_VERSION}
+        PHP_VERSION: ${PHP_VERSION}
     networks:
       - frontend
       - backend
@@ -29,8 +29,8 @@ services:
   mysql:
     image: mysql:${MYSQL_VERSION:-latest}
     environment:
-      MYSQL_RANDOM_ROOT_PASSWORD: "true"
       MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_RANDOM_ROOT_PASSWORD: "true"
     networks:
       - backend
     ports:
