@@ -43,4 +43,4 @@ networks:
   frontend:
   backend:
 volumes:
-    db:
+  db:
