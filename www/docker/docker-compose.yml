@@ -16,7 +16,7 @@ services:
       context: ./nginx
       args:
         NGINX_VERSION: ${NGINX_VERSION}
-    image: ${COMPOSE_PROJECT_NAME:-caesar}_nginx:${PROJECT_NGINX_VERSION:-latest}-nginx-${NGINX_VERSION:-latest}
+    image: ${COMPOSE_PROJECT_NAME:-caesar}_nginx:${PROJECT_NGINX_VERSION:-latest}-nginx-${NGINX_VERSION:-stable}
     networks:
       - frontend
     ports:

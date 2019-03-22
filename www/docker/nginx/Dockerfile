@@ -1,4 +1,4 @@
-ARG NGINX_VERSION=""
-FROM nginx:${NGINX_VERSION:+${NGINX_VERSION}-}alpine
+ARG NGINX_VERSION
+FROM nginx:${NGINX_VERSION:-stable}-alpine
 
 COPY site.conf /etc/nginx/conf.d/
