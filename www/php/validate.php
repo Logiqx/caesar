@@ -29,7 +29,7 @@
 
 			include '../resources/top.php';
 
-			function run_query($query, $comment, $num_cols)
+			function run_query($query, $comment, $num_cols, $mysqli)
 			{
 				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
@@ -91,7 +91,7 @@
 					)
 					";
 
-				run_query($query, "Unused authors (not in author_emulator_link, author_tool_link, author_library_link)", 1);
+				run_query($query, "Unused authors (not in author_emulator_link, author_tool_link, author_library_link)", 1, $mysqli);
 
 				$query="
 					SELECT *
@@ -106,7 +106,7 @@
 					)
 					";
 
-				run_query($query, "author_emulator_link without an emulator_author_link", 3);
+				run_query($query, "author_emulator_link without an emulator_author_link", 3, $mysqli);
 
 				$query="
 					SELECT *
@@ -120,7 +120,7 @@
 					)
 					";
 
-				run_query($query, "author_library_link without an library_author_link", 2);
+				run_query($query, "author_library_link without an library_author_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -134,7 +134,7 @@
 					)
 					";
 
-				run_query($query, "author_tool_link without an tool_author_link", 2);
+				run_query($query, "author_tool_link without an tool_author_link", 2, $mysqli);
 
 				// Custom validation for e-mail image cache
 
@@ -205,7 +205,7 @@
 					ORDER BY emulator_contents_id, emulator_id;
 					";
 
-				run_query($query, "Emulators missing from the appropriate contents page", 2);
+				run_query($query, "Emulators missing from the appropriate contents page", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -221,7 +221,7 @@
 					ORDER BY author_id, emulator_id;
 					";
 
-				run_query($query, "emulator_author_link without an author_emulator_link", 4);
+				run_query($query, "emulator_author_link without an author_emulator_link", 4, $mysqli);
 
 				$query="
 					SELECT *
@@ -236,7 +236,7 @@
 					ORDER BY library_id, emulator_id;
 					";
 
-				run_query($query, "emulator_library_link without an library_emulator_link", 2);
+				run_query($query, "emulator_library_link without an library_emulator_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -251,7 +251,7 @@
 					ORDER BY tool_id, emulator_id;
 					";
 
-				run_query($query, "emulator_tool_link without an tool_emulator_link", 2);
+				run_query($query, "emulator_tool_link without an tool_emulator_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -266,7 +266,7 @@
 					ORDER BY relative_id, emulator_id;
 					";
 
-				run_query($query, "emulator_relative_link without return link", 3);
+				run_query($query, "emulator_relative_link without return link", 3, $mysqli);
 
 				$query="
 					SELECT concat('emus/', emulator.emulator_contents_id, '/', emulator.emulator_id), emulator_file.name
@@ -282,7 +282,7 @@
 					ORDER BY emulator_file.name, concat('emus/', emulator.emulator_contents_id, '/', emulator.emulator_id);
 					";
 
-				run_query($query, "emulator_file without a zip", 2);
+				run_query($query, "emulator_file without a zip", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -297,7 +297,7 @@
 					);
 					";
 
-				run_query($query, "emulator_contents_emulator_link with invalid emulator", 2);
+				run_query($query, "emulator_contents_emulator_link with invalid emulator", 2, $mysqli);
 
 				/*$query="
 					SELECT emulator.emulator_id, emulator_file.name, CEIL(zip.bytes/1024), emulator_file.size
@@ -308,7 +308,7 @@
 					AND CEIL(zip.bytes/1024)!=emulator_file.size;
 					";
 
-				run_query($query, "emulator_file with incorrect size", 4);*/
+				run_query($query, "emulator_file with incorrect size", 4, $mysqli);*/
 
 				$query="
 					SELECT emulator_id, dat
@@ -323,7 +323,7 @@
 					ORDER BY dat;
 					";
 
-				run_query($query, "Emulators referring to a missing dat", 2);
+				run_query($query, "Emulators referring to a missing dat", 2, $mysqli);
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='files')
@@ -351,7 +351,7 @@
 					ORDER BY path, name;
 					";
 
-				//run_query($query, "snap without a game", 2);
+				//run_query($query, "snap without a game", 2, $mysqli);
 
 				$query="
 					SELECT path, name
@@ -375,7 +375,7 @@
 					ORDER BY path, name;
 					";
 
-				run_query($query, "snap without an emulator", 2);
+				run_query($query, "snap without an emulator", 2, $mysqli);
 
 				$query="
 					SELECT path, name
@@ -390,7 +390,7 @@
 					ORDER BY path, name;
 					";
 
-				run_query($query, "image without a game", 2);
+				run_query($query, "image without a game", 2, $mysqli);
 
 				$query="
 					SELECT path, name
@@ -422,7 +422,7 @@
 					ORDER BY path, name;
 					";
 
-				run_query($query, "zip without an emulator_file, library_file or tool_file", 2);
+				run_query($query, "zip without an emulator_file, library_file or tool_file", 2, $mysqli);
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='games')
@@ -440,7 +440,7 @@
 					ORDER BY dat;
 					";
 
-				run_query($query, "Unused dats", 1);
+				run_query($query, "Unused dats", 1, $mysqli);
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='libs')
@@ -458,7 +458,7 @@
 					ORDER BY library_contents_id, library_id;
 					";
 
-				run_query($query, "library without a library_contents_library_link", 2);
+				run_query($query, "library without a library_contents_library_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -473,7 +473,7 @@
 					ORDER BY author_id, library_id;
 					";
 
-				run_query($query, "library_author_link without an author_library_link", 2);
+				run_query($query, "library_author_link without an author_library_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -488,7 +488,7 @@
 					ORDER BY emulator_id, library_id;
 					";
 
-				run_query($query, "library_emulator_link without an emulator_library_link", 2);
+				run_query($query, "library_emulator_link without an emulator_library_link", 2, $mysqli);
 
 				$query="
 					SELECT concat('libs/', library.library_contents_id, '/', library.library_id), library_file.name
@@ -504,7 +504,7 @@
 					ORDER BY library_file.name, concat('libs/', library.library_contents_id, '/', library.library_id);
 					";
 
-				run_query($query, "library_file without a zip", 2);
+				run_query($query, "library_file without a zip", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -519,7 +519,7 @@
 					ORDER BY relative_id, library_id;
 					";
 
-				run_query($query, "library_relative_link without reverse link", 3);
+				run_query($query, "library_relative_link without reverse link", 3, $mysqli);
 
 				$query="
 					SELECT *
@@ -533,7 +533,7 @@
 					);
 				";
 
-				run_query($query, "library_contents_library_link with invalid library", 2);
+				run_query($query, "library_contents_library_link with invalid library", 2, $mysqli);
 
 				/*$query="
 					SELECT library.library_id, library_file.name, CEIL(zip.bytes/1024), library_file.size
@@ -544,7 +544,7 @@
 					AND CEIL(zip.bytes/1024)!=library_file.size;
 					";
 
-				run_query($query, "library_file with incorrect size", 4);*/
+				run_query($query, "library_file with incorrect size", 4, $mysqli);*/
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='tools')
@@ -562,7 +562,7 @@
 					ORDER BY tool_contents_id, tool_id;
 					";
 
-				run_query($query, "tool without a tool_contents_tool_link", 2);
+				run_query($query, "tool without a tool_contents_tool_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -577,7 +577,7 @@
 					ORDER BY author_id, tool_id;
 					";
 
-				run_query($query, "tool_author_link without an author_tool_link", 2);
+				run_query($query, "tool_author_link without an author_tool_link", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -592,7 +592,7 @@
 					ORDER BY emulator_id, tool_id;
 					";
 
-				run_query($query, "tool_emulator_link without an emulator_tool_link", 2);
+				run_query($query, "tool_emulator_link without an emulator_tool_link", 2, $mysqli);
 
 				$query="
 					SELECT concat('tools/', tool.tool_contents_id, '/', tool.tool_id), tool_file.name
@@ -608,7 +608,7 @@
 					ORDER BY tool_file.name, concat('tools/', tool.tool_contents_id, '/', tool.tool_id);
 					";
 
-				run_query($query, "tool_file without a zip", 2);
+				run_query($query, "tool_file without a zip", 2, $mysqli);
 
 				$query="
 					SELECT *
@@ -622,7 +622,7 @@
 					);
 					";
 
-				run_query($query, "tool_contents_tool_link with invalid tool", 2);
+				run_query($query, "tool_contents_tool_link with invalid tool", 2, $mysqli);
 
 				/*$query="
 					SELECT tool.tool_id, tool_file.name, CEIL(zip.bytes/1024), tool_file.size
@@ -633,7 +633,7 @@
 					AND CEIL(zip.bytes/1024)!=tool_file.size;
 					";
 
-				run_query($query, "tool_file with incorrect size", 4);*/
+				run_query($query, "tool_file with incorrect size", 4, $mysqli);*/
 			}
 
 			// Standard page footer (XHTML compliance logo)
