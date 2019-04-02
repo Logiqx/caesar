@@ -4,7 +4,7 @@
 		<?php
 			// Standard PHP includes (database connection and constants)
 
-			include ('../resources/include.php');
+			include '../resources/include.php';
 
 			// Identify the group name
 
@@ -39,7 +39,7 @@
 
 			// Include standard <head> metadata
 
-			include ('../resources/head.php');
+			include '../resources/head.php';
 		?>
 	</head>
 	<body>
@@ -50,7 +50,7 @@
 
 			$menu="games";
 
-			include ('../resources/top.php');
+			include '../resources/top.php';
 
 			// Process the parent
 
@@ -253,7 +253,7 @@
 
 			// Standard page footer (XHTML compliance logo)
 
-			include ('../resources/bottom.php');
+			include '../resources/bottom.php';
 		?>
 	</body>
 </html>

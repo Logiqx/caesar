@@ -4,7 +4,7 @@
 		<?php
 			// Standard PHP includes (database connection and constants)
 
-			include ('../resources/include.php');
+			include '../resources/include.php';
 
 			// Display the page title
 
@@ -29,11 +29,11 @@
 
 			// Include standard <head> metadata
 
-			include ('../resources/head.php');
+			include '../resources/head.php';
 
 			// Include PHP function for creation of text images
 
-			include ('../resources/text_image.php');
+			include '../resources/text_image.php';
 
 			// Define the encryption ranges for PHP
 
@@ -150,7 +150,7 @@
 
 			echo '<!-- CAESAR pages are basically a table with one row and three columns -->' . LF . LF;
 
-			include ('../resources/top.php');
+			include '../resources/top.php';
 
 			// Select the page title and comment
 
@@ -451,7 +451,7 @@
 
 			// Standard page footer (XHTML compliance logo)
 
-			include ('../resources/bottom.php');
+			include '../resources/bottom.php';
 		?>
 	</body>
 </html>

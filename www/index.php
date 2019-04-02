@@ -4,7 +4,7 @@
 		<?php
 			// Standard PHP includes (database connection and constants)
 
-			include ('resources/include.php');
+			include 'resources/include.php';
 
 			// Display the page title
 
@@ -12,7 +12,7 @@
 
 			// Include standard <head> metadata
 
-			include('resources/head.php');
+			include 'resources/head.php';
 		?>
 	</head>
 	<body>
@@ -23,15 +23,15 @@
 
 			//$non_xhtml_compliant="no";
 
-			include('resources/top.php');
+			include 'resources/top.php';
 
 			// Display the news
 
 			echo INDENT . 'Have some news to tell us about? Then <a href="http://www.logiqx.com/forum/viewforum.php?f=15">submit news</a> here!' . LF ;
 
 			$template = "CAESAR";
-			include("cutenews/show_news.php");
-			//include("cutenews/show_archives.php");
+			include 'cutenews/show_news.php';
+			//include 'cutenews/show_archives.php';
 
 			echo '<p><a title="RSS Feed" href="cutenews/rss.php">';
 			echo '<img src="cutenews/skins/images/rss_icon.gif" alt="rss" />';
@@ -39,7 +39,7 @@
 
 			// Standard page footer (counter)
 
-			include('resources/bottom.php');
+			include 'resources/bottom.php';
 		?>
 	</body>
 </html>

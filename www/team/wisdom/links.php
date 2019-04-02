@@ -4,7 +4,7 @@
 		<?php
 			// Standard PHP includes (database connection and constants)
 
-			include ('../../resources/include.php');
+			include '../../resources/include.php';
 
 			// Display the page title
 
@@ -12,7 +12,7 @@
 
 			// Include standard <head> metadata
 
-			include('../../resources/head.php');
+			include '../../resources/head.php';
 		?>
 	</head>
 	<body>
@@ -21,7 +21,7 @@
 
 			echo '<!-- CAESAR pages are basically a table with one row and three columns -->' . LF . LF;
 
-			include('../../resources/top.php');
+			include '../../resources/top.php';
 		?>
 
 					<h1>Linking example<br />(how emulators are related)</h1>
@@ -31,7 +31,7 @@
 		<?php
 			// Standard page footer (counter)
 
-			include('../../resources/bottom.php');
+			include '../../resources/bottom.php';
 		?>
 	</body>
 </html>

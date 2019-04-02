@@ -4,7 +4,7 @@
 		<?php
 			// Standard PHP includes (database connection and constants)
 
-			include ('resources/include.php');
+			include 'resources/include.php';
 
 			// Display the page title
 
@@ -12,7 +12,7 @@
 
 			// Include standard <head> metadata
 
-			include('resources/head.php');
+			include 'resources/head.php';
 		?>
 	</head>
 	<body>
@@ -23,7 +23,7 @@
 
 			$non_xhtml_compliant="yes";
 
-			include('resources/top.php');
+			include 'resources/top.php';
 
 			// Display the news
 
@@ -34,7 +34,7 @@
 				$news='news/' . 'arc' . $_GET['month'] . '-' . $_GET['year'] . '.txt';
 
 				if (file_exists($news))
-					include($news);
+					include ($news);
 			}
 			else if (isset($_GET['year']))
 			{
@@ -43,7 +43,7 @@
 					$news='news/' . 'arc' . $i . '-' . $_GET['year'] . '.txt';
 
 					if (file_exists($news))
-						include($news);
+						include ($news);
 				}
 			}
 			else
@@ -51,12 +51,12 @@
 				$news='news/news.txt';
 
 				if (file_exists($news))
-					include($news);
+					include ($news);
 			}
 
 			// Standard page footer (counter)
 
-			include('resources/bottom.php');
+			include 'resources/bottom.php';
 		?>
 	</body>
 </html>
