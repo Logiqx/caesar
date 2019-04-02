@@ -12,14 +12,14 @@
 				FROM	emulator
 				WHERE	emulator_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
-				$emulator = mysql_fetch_assoc ($result);
+				$emulator = mysqli_fetch_assoc($result);
 			}
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Display the page title
 
@@ -30,11 +30,11 @@
 					WHERE	dat=' . "'" . $emulator['dat'] . "'
 					AND	game_name='" . $_GET ['game'] ."'";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
-					$row = mysql_fetch_assoc ($result);
+					$row = mysqli_fetch_assoc($result);
 
 					echo '<title>CAESAR - ' . htmlspecialchars($row ['description']) . '</title>' . LF . LF;
 				}
@@ -43,7 +43,7 @@
 					echo '<title>CAESAR</title>' . LF . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 			else
 			{
@@ -72,17 +72,17 @@
 					WHERE	dat=' . "'" . $emulator['dat'] . "'
 					AND	game_name='" . $_GET ['game'] ."'";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 				// If no rows were found, the id was invalid (or unspecified)
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					// Title and comment
 
-					$row = mysql_fetch_assoc ($result);
+					$row = mysqli_fetch_assoc($result);
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					echo INDENT . '<h2>' . htmlspecialchars($row ['description']) . '</h2>' . LF . LF;
 
@@ -102,13 +102,13 @@
 						WHERE	x_master_ind=1
 						AND	x_group_name='" . $row ['x_group_name'] . "'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
-						$group = mysql_fetch_assoc ($result);
+						$group = mysqli_fetch_assoc($result);
 
-						mysql_free_result ($result);
+						mysqli_free_result($result);
 					}
 
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
@@ -163,11 +163,11 @@
 						FROM catver
 						WHERE game_name=' . "'" . $row ['x_map_name'] . "'";
 
-					$catver = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$catver = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($catver) != 0)
+					if (mysqli_num_rows($catver) != 0)
 					{
-						$catver_row = mysql_fetch_assoc ($catver);
+						$catver_row = mysqli_fetch_assoc($catver);
 
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<th>Category</th>' . LF;
@@ -175,7 +175,7 @@
 						echo INDENT . TAB . '</tr>' . LF;
 					}
 
-					mysql_free_result ($catver);
+					mysqli_free_result($catver);
 
 					// In MAME?
 
@@ -203,9 +203,9 @@
 						FROM history_link
 						WHERE history_link.game_name=' . "'" . $row ['x_map_name'] . "'";
 
-					$history = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$history = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($history) != 0)
+					if (mysqli_num_rows($history) != 0)
 					{
 						if ($additional_info == 0)
 						{
@@ -219,7 +219,7 @@
 						echo INDENT . TAB . TAB . TAB . '<a href="history.php?id=' . $row ['x_map_name'] . '">History</a><br />' . LF;
 					}
 
-					mysql_free_result ($history);
+					mysqli_free_result($history);
 
 					// Check for mameinfo (game)
 
@@ -227,9 +227,9 @@
 						FROM mameinfo_link
 						WHERE mameinfo_link.game_name=' . "'" . $row ['x_group_name'] . "'";
 
-					$mameinfo = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$mameinfo = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if ($emulator ['emulator_id']=="mame" && mysql_num_rows ($mameinfo) != 0)
+					if ($emulator ['emulator_id']=="mame" && mysqli_num_rows($mameinfo) != 0)
 					{
 						if ($additional_info == 0)
 						{
@@ -245,7 +245,7 @@
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
 
-					mysql_free_result ($mameinfo);
+					mysqli_free_result($mameinfo);
 
 					// Check for mameinfo (driver)
 
@@ -253,9 +253,9 @@
 						FROM mameinfo_link
 						WHERE mameinfo_link.game_name=' . "'" . $row ['game_sourcefile'] . "'";
 
-					$mameinfo = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$mameinfo = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if ($_GET ['id']=="mame" && mysql_num_rows ($mameinfo) != 0)
+					if ($_GET ['id']=="mame" && mysqli_num_rows($mameinfo) != 0)
 					{
 						if ($additional_info == 0)
 						{
@@ -271,7 +271,7 @@
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
 
-					mysql_free_result ($mameinfo);
+					mysqli_free_result($mameinfo);
 
 					// MAWS
 
@@ -310,14 +310,14 @@
 						WHERE	x_master_ind=1
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
-						$master = mysql_fetch_assoc ($result);
+						$master = mysqli_fetch_assoc($result);
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Get video details (for aspect ratio fixing)
 
@@ -326,7 +326,7 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 					$orientation = 'horizontal';
 					$x = 0;
@@ -334,9 +334,9 @@
 					$aspectx = isset($emulator ['aspectx']) ? $emulator ['aspectx'] : 0;
 					$aspecty = isset($emulator ['aspecty']) ? $emulator ['aspecty'] : 0;
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
-						while ($video = mysql_fetch_assoc ($result))
+						while ($video = mysqli_fetch_assoc($result))
 						{
 							if (isset($video ['orientation']))
 								$orientation = $video ['orientation'];
@@ -355,7 +355,7 @@
 						}
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Get display details (for aspect ratio fixing)
 
@@ -369,7 +369,7 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 					$max_width = 0;
 					$sum_width = 0;
@@ -381,9 +381,9 @@
 					$sum_aspecty = isset($emulator ['aspecty']) ? $emulator ['aspecty'] : 0;
 					$num_displays = 0;
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
-						while ($display = mysql_fetch_assoc ($result))
+						while ($display = mysqli_fetch_assoc($result))
 						{
 							if (isset($display ['orientation']))
 								$orientation = $display ['orientation'];
@@ -433,7 +433,7 @@
 						}
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Snaps (firstly check for ones specific to this clone, then check for ones specific to the parent)
 
@@ -446,11 +446,11 @@
 							LENGTH(name)<=" . (strlen($_GET ['game']) + 7) . "
 						ORDER BY name";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) == 0 and $row ['cloneof'] != "")
+					if (mysqli_num_rows($result) == 0 and $row ['cloneof'] != "")
 					{
-						mysql_free_result ($result);
+						mysqli_free_result($result);
 
 						$query = "SELECT *
 							FROM	snap
@@ -461,15 +461,15 @@
 								LENGTH(name)<=" . (strlen($row ['cloneof']) + 7) . "
 							ORDER BY name";
 
-						$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+						$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 					}
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<h2>Snapshots</h2>' . LF . LF;
 						echo INDENT . '<p>' . LF . LF;
 
-						while ($snap = mysql_fetch_assoc ($result))
+						while ($snap = mysqli_fetch_assoc($result))
 						{
 							$width=$snap ['width'];
 							$height=$snap ['height'];
@@ -670,7 +670,7 @@
 						echo INDENT . '</p>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Details
 
@@ -687,9 +687,9 @@
 						AND	game_name='" . $row ['x_map_name'] ."'
 						ORDER 	BY type DESC, chip_name";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
@@ -700,7 +700,7 @@
 
 						$class = 'odd';
 
-						while ($chip = mysql_fetch_assoc ($result))
+						while ($chip = mysqli_fetch_assoc($result))
 						{
 							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 							echo INDENT . TAB . TAB . '<td>' . $chip ['type'];
@@ -716,7 +716,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Video
 
@@ -725,9 +725,9 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
@@ -738,7 +738,7 @@
 
 						$class = 'odd';
 
-						while ($video = mysql_fetch_assoc ($result))
+						while ($video = mysqli_fetch_assoc($result))
 						{
 							if (isset($video ['screen']))
 							{
@@ -780,7 +780,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Display
 
@@ -789,19 +789,19 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						$display_no = 1;
 
-						while ($display = mysql_fetch_assoc ($result))
+						while ($display = mysqli_fetch_assoc($result))
 						{
 							echo INDENT . '<table class="links">' . LF;
 							echo INDENT . TAB . '<colgroup class="general"/>' . LF;
 
 							echo INDENT . TAB . '<tr>' . LF;
-							if (mysql_num_rows ($result) == 1)
+							if (mysqli_num_rows($result) == 1)
 								echo INDENT . TAB . TAB . '<th>Display</th>' . LF;
 							else
 								echo INDENT . TAB . TAB . '<th>Display '. $display_no . '</th>' . LF;
@@ -851,7 +851,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Sound
 
@@ -860,9 +860,9 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
@@ -873,7 +873,7 @@
 
 						$class = 'odd';
 
-						while ($video = mysql_fetch_assoc ($result))
+						while ($video = mysqli_fetch_assoc($result))
 						{
 							if (isset($video ['channels']))
 							{
@@ -888,7 +888,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Input
 
@@ -897,9 +897,9 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
@@ -910,7 +910,7 @@
 
 						$class = 'odd';
 
-						while ($input = mysql_fetch_assoc ($result))
+						while ($input = mysqli_fetch_assoc($result))
 						{
 							if (isset($input ['players']))
 							{
@@ -970,7 +970,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Control
 
@@ -979,9 +979,9 @@
 						WHERE	dat='" . $master['dat'] . "'
 						AND	game_name='" . $row ['x_map_name'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="general"/>' . LF;
@@ -992,7 +992,7 @@
 
 						$class = 'odd';
 
-						while ($control = mysql_fetch_assoc ($result))
+						while ($control = mysqli_fetch_assoc($result))
 						{
 							if (isset($control ['type']))
 							{
@@ -1008,7 +1008,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Driver
 
@@ -1017,9 +1017,9 @@
 						WHERE	dat=' . "'" . $emulator['dat'] . "'
 						AND	game_name='" . $_GET ['game'] ."'";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<h2>Emulation Details</h2>' . LF . LF;
 
@@ -1032,7 +1032,7 @@
 
 						$class = 'odd';
 
-						while ($sound = mysql_fetch_assoc ($result))
+						while ($sound = mysqli_fetch_assoc($result))
 						{
 							if (isset($sound ['status']))
 							{
@@ -1128,7 +1128,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// ROMs
 
@@ -1138,9 +1138,9 @@
 						AND	game_name='" . $_GET ['game'] ."'
 						ORDER 	BY region, rom_name";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<h2>ROMs required by ' . $emulator ['name'] . '</h2>' . LF . LF;
 
@@ -1177,7 +1177,7 @@
 
 						$class = 'odd';
 
-						while ($rom = mysql_fetch_assoc ($result))
+						while ($rom = mysqli_fetch_assoc($result))
 						{
 							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 							echo INDENT . TAB . TAB . '<td>' . $rom ['rom_name'] . '</td>' . LF;
@@ -1201,7 +1201,7 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 
 					// Disks
 
@@ -1211,9 +1211,9 @@
 						AND	game_name='" . $_GET ['game'] ."'
 						ORDER 	BY disk_name";
 
-					$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($result) != 0)
+					if (mysqli_num_rows($result) != 0)
 					{
 						echo INDENT . '<h2>Disks required by ' . $emulator ['name'] . '</h2>' . LF . LF;
 
@@ -1228,7 +1228,7 @@
 
 						$class = 'odd';
 
-						while ($disk = mysql_fetch_assoc ($result))
+						while ($disk = mysqli_fetch_assoc($result))
 						{
 							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 							echo INDENT . TAB . TAB . '<td>' . $disk ['disk_name'] . '</td>' . LF;
@@ -1241,13 +1241,13 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 				}
 				else
 				{
 					echo INDENT . 'Invalid id has been passed as a parameter, check the URL!' . LF;
 
-					mysql_free_result ($result);
+					mysqli_free_result($result);
 				}
 			}
 			else

@@ -12,11 +12,11 @@
 				FROM tool
 				WHERE tool_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo '<title>CAESAR - ' . $row ['name'] . '</title>' . LF . LF;
 			}
@@ -25,7 +25,7 @@
 				echo '<title>CAESAR</title>' . LF . LF;
 			}
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Include standard <head> metadata
 
@@ -46,15 +46,15 @@
 				FROM tool
 				WHERE tool_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 			// If no rows were found, the id was invalid (or unspecified)
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
 				// Title and comment
 
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo INDENT . '<h2>' . $row ['name'] . '</h2>' . LF . LF;
 
@@ -91,15 +91,15 @@
 					FROM	tool_homepage
 					WHERE	tool_id='". $_GET ['id'] . "'";
 
-				$urls = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$urls = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($urls) != 0)
+				if (mysqli_num_rows($urls) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>Homepage</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($url = mysql_fetch_assoc ($urls))
+					while ($url = mysqli_fetch_assoc($urls))
 					{
 						if ($url ['status'] == 'none' )
 						{
@@ -121,7 +121,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($urls);
+				mysqli_free_result($urls);
 
 				// Authors (possibly more than one for a single tool)
 
@@ -131,15 +131,15 @@
 						tool_author_link.author_id=author.author_id
 					ORDER BY name";
 
-				$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($authors) != 0)
+				if (mysqli_num_rows($authors) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>Author(s)</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($author = mysql_fetch_assoc ($authors))
+					while ($author = mysqli_fetch_assoc($authors))
 					{
 						echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 						echo $author ['name'] . '</a><br/>';
@@ -150,7 +150,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($authors);
+				mysqli_free_result($authors);
 
 				// Comment
 
@@ -173,9 +173,9 @@
 						tool_emulator_link.emulator_id=emulator.emulator_id
 					ORDER BY name";
 
-				$emus = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$emus = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($emus) != 0)
+				if (mysqli_num_rows($emus) != 0)
 				{
 					echo INDENT . '<h2>Used by these Emulators</h2>' . LF . LF;
 
@@ -192,7 +192,7 @@
 
 					$class = 'odd';
 
-					while ($emu = mysql_fetch_assoc ($emus))
+					while ($emu = mysqli_fetch_assoc($emus))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><b><a href="emulator.php?id=' .
@@ -210,9 +210,9 @@
 								emulator_author_link.relationship='author'
 							ORDER BY name";
 
-						$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+						$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-						while ($author = mysql_fetch_assoc ($authors))
+						while ($author = mysqli_fetch_assoc($authors))
 						{
 							echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 							echo $author ['name'] . '</a><br/>';
@@ -221,7 +221,7 @@
 
 						echo INDENT . TAB . '</tr>' . LF;
 
-						mysql_free_result ($authors);
+						mysqli_free_result($authors);
 
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
@@ -229,7 +229,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($emus);
+				mysqli_free_result($emus);
 
 				// Libraries
 
@@ -239,9 +239,9 @@
 						tool_library_link.library_id=library.library_id
 					ORDER BY name";
 
-				$libs = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$libs = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($libs) != 0)
+				if (mysqli_num_rows($libs) != 0)
 				{
 					echo INDENT . '<h2>Used by these Libraries</h2>' . LF . LF;
 
@@ -256,7 +256,7 @@
 
 					$class = 'odd';
 
-					while ($lib = mysql_fetch_assoc ($libs))
+					while ($lib = mysqli_fetch_assoc($libs))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><b><a href="library.php?id=' .
@@ -272,9 +272,9 @@
 								library_author_link.author_id=author.author_id
 							ORDER BY name";
 
-						$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+						$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-						while ($author = mysql_fetch_assoc ($authors))
+						while ($author = mysqli_fetch_assoc($authors))
 						{
 							echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 							echo $author ['name'] . '</a><br/>';
@@ -283,7 +283,7 @@
 
 						echo INDENT . TAB . '</tr>' . LF;
 
-						mysql_free_result ($authors);
+						mysqli_free_result($authors);
 
 						$class = ($class == 'even') ? 'odd' : 'even';
 					}
@@ -291,7 +291,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($libs);
+				mysqli_free_result($libs);
 
 				// Downloads
 
@@ -301,9 +301,9 @@
 					AND	zip.path=concat('tools/', '" . $row ['tool_contents_id'] . "', '/', '" . $_GET ['id'] . "')
 					AND	zip.name=tool_file.name";
 
-				$files = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$files = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($files) != 0)
+				if (mysqli_num_rows($files) != 0)
 				{
 					echo INDENT . '<h2>Downloads</h2>' . LF . LF;
 
@@ -320,7 +320,7 @@
 
 					$class = 'odd';
 
-					while ($file = mysql_fetch_assoc ($files))
+					while ($file = mysqli_fetch_assoc($files))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><a href="../zips/tools/' .
@@ -336,17 +336,17 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($files);
+				mysqli_free_result($files);
 
 				// End of page
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 			else
 			{
 				echo INDENT . 'Invalid id has been passed as a parameter, check the URL!' . LF;
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			// Standard page footer (XHTML compliance logo)

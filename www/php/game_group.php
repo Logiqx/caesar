@@ -13,10 +13,10 @@
 				WHERE x_master_ind=1
 				AND game_name='" . $_GET['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
-			$row = mysql_fetch_assoc ($result);
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
+			$row = mysqli_fetch_assoc($result);
 			$x_group_name = $row ['x_group_name'];
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Fetch the group description
 
@@ -25,10 +25,10 @@
 				WHERE x_master_ind=1
 				AND game_name='" . $x_group_name . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
-			$row = mysql_fetch_assoc ($result);
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
+			$row = mysqli_fetch_assoc($result);
 			$group_desc = htmlspecialchars($row ['description']);
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Display the page title
 
@@ -65,9 +65,9 @@
 					AND x_hidden_ind IS NULL
 					ORDER BY description";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				while ($row = mysql_fetch_assoc ($result))
+				while ($row = mysqli_fetch_assoc($result))
 				{
 					// Display description
 
@@ -81,16 +81,16 @@
 						FROM catver
 						WHERE game_name=' . "'" . $row ['game_name'] . "'";
 
-					$catver = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$catver = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($catver) != 0)
+					if (mysqli_num_rows($catver) != 0)
 					{
-						$catver_row = mysql_fetch_assoc ($catver);
+						$catver_row = mysqli_fetch_assoc($catver);
 
 						echo $catver_row ['category'] . ' - ';
 					}
 
-					mysql_free_result ($catver);
+					mysqli_free_result($catver);
 
 					// Display manufacturer and year
 
@@ -105,14 +105,14 @@
 						FROM history_link
 						WHERE history_link.game_name=' . "'" . $row ['game_name'] . "'";
 
-					$history = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$history = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($history) != 0)
+					if (mysqli_num_rows($history) != 0)
 					{
 						echo ' - read <a href="history.php?id=' . $row ['game_name'] . '">history</a>';
 					}
 
-					mysql_free_result ($history);
+					mysqli_free_result($history);
 
 					// Main info done!
 
@@ -125,9 +125,9 @@
 						WHERE	path='marquees' AND
 							name='" . $row ['game_name'] . ".png'";
 
-					$marquees = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$marquees = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					while ($marquee = mysql_fetch_assoc ($marquees))
+					while ($marquee = mysqli_fetch_assoc($marquees))
 					{
 						echo INDENT . '<p><img src="../images/' . $marquee ['path'] . '/' .
 							$marquee ['name'] . '" alt="' . $marquee ['name'] .
@@ -135,7 +135,7 @@
 							'" height="' . $marquee ['height'] . '"/></p>' . LF;
 					}
 
-					mysql_free_result ($marquees);
+					mysqli_free_result($marquees);
 
 					// Emulators supporting the clone
 
@@ -146,9 +146,9 @@
 						AND game.x_hidden_ind IS NULL
 						ORDER BY description";
 
-					$games = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$games = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($games) != 0)
+					if (mysqli_num_rows($games) != 0)
 					{
 						echo INDENT . '<table class="links">' . LF;
 						echo INDENT . TAB . '<colgroup class="game"/>' . LF;
@@ -163,7 +163,7 @@
 
 						$class = 'odd';
 
-						while ($game = mysql_fetch_assoc ($games))
+						while ($game = mysqli_fetch_assoc($games))
 						{
 							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 							echo INDENT . TAB . TAB . '<td>';
@@ -183,10 +183,10 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($games);
+					mysqli_free_result($games);
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 
 				// Flyers
 
@@ -198,13 +198,13 @@
 					AND game.x_group_name='" . $x_group_name . "'
 					ORDER BY description";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					echo INDENT . '<p>' . LF;
 
-					while ($row = mysql_fetch_assoc ($result))
+					while ($row = mysqli_fetch_assoc($result))
 					{
 						echo INDENT . '<img src="../images/' . $row ['path'] . '/' .
 							$row ['name'] . '" alt="' . $row ['name'] .
@@ -215,7 +215,7 @@
 					echo INDENT . '</p>' . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 
 				// Cabinets
 
@@ -227,13 +227,13 @@
 					AND x_group_name='" . $x_group_name . "'
 					ORDER BY description";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					echo INDENT . '<p>' . LF;
 
-					while ($row = mysql_fetch_assoc ($result))
+					while ($row = mysqli_fetch_assoc($result))
 					{
 						echo INDENT . '<img src="../images/' . $row ['path'] . '/' .
 							$row ['name'] . '" alt="' . $row ['name'] .
@@ -244,7 +244,7 @@
 					echo INDENT . '</p>' . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 			else
 			{

@@ -12,11 +12,11 @@
 				FROM game
 				WHERE x_master_ind=1 and game_name=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				$title = $row ['description'];
 			}
@@ -27,7 +27,7 @@
 
 			echo '<title>CAESAR - ' . $title . '</title>' . LF . LF;
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Include standard <head> metadata
 
@@ -54,13 +54,13 @@
 				history_text.history_id=history_link.history_id
 				ORDER BY history_text.line_no';
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
 				echo INDENT . '<table class="news"><tr><td>' . LF;
 
-				while ($row = mysql_fetch_assoc ($result))
+				while ($row = mysqli_fetch_assoc($result))
 				{
 					echo INDENT . TAB . htmlspecialchars($row ['text']) . '<br />' . LF;
 				}
@@ -72,7 +72,7 @@
 				echo INDENT . 'Invalid id has been passed as a parameter, check the URL!' . LF;
 			}
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Standard page footer (XHTML compliance logo)
 

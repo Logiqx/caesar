@@ -12,11 +12,11 @@
 				FROM emulator
 				WHERE emulator_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo '<title>CAESAR - ' . $row ['name'] . '</title>' . LF . LF;
 			}
@@ -25,7 +25,7 @@
 				echo '<title>CAESAR</title>' . LF . LF;
 			}
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Include standard <head> metadata
 
@@ -46,15 +46,15 @@
 				FROM emulator
 				WHERE emulator_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 			// If no rows were found, the id was invalid (or unspecified)
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
 				// Title and comment
 
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo INDENT . '<h2>' . $row ['name'] . '</h2>' . LF . LF;
 
@@ -100,15 +100,15 @@
 					FROM	emulator_homepage
 					WHERE	emulator_id='". $_GET ['id'] . "'";
 
-				$urls = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$urls = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($urls) != 0)
+				if (mysqli_num_rows($urls) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>Homepage</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($url = mysql_fetch_assoc ($urls))
+					while ($url = mysqli_fetch_assoc($urls))
 					{
 						if ($url ['status'] == 'none' )
 						{
@@ -130,7 +130,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($urls);
+				mysqli_free_result($urls);
 
 				// Authors (possibly more than one for a single emulator)
 
@@ -141,15 +141,15 @@
 						emulator_author_link.relationship='author'
 					ORDER BY name";
 
-				$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($authors) != 0)
+				if (mysqli_num_rows($authors) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>Author(s)</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($author = mysql_fetch_assoc ($authors))
+					while ($author = mysqli_fetch_assoc($authors))
 					{
 						echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 						echo $author ['name'] . '</a><br/>';
@@ -160,7 +160,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($authors);
+				mysqli_free_result($authors);
 
 				// Emulates
 
@@ -198,15 +198,15 @@
 						library.library_contents_id='cpu'
 					ORDER BY name";
 
-				$libs = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$libs = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($libs) != 0)
+				if (mysqli_num_rows($libs) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>CPU Cores</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($lib = mysql_fetch_assoc ($libs))
+					while ($lib = mysqli_fetch_assoc($libs))
 					{
 						echo '<a href="library.php?id=' . $lib ['library_id'] . '">';
 						echo $lib ['name'] . '</a><br/>';
@@ -217,7 +217,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($libs);
+				mysqli_free_result($libs);
 
 				// Tools
 
@@ -227,15 +227,15 @@
 						emulator_tool_link.tool_id=tool.tool_id
 					ORDER BY name";
 
-				$tools = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$tools = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($tools) != 0)
+				if (mysqli_num_rows($tools) != 0)
 				{
 					echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 					echo INDENT . TAB . TAB . '<th>Development Tools</th>' . LF;
 
 					echo INDENT . TAB . TAB . '<td>';
-					while ($tool = mysql_fetch_assoc ($tools))
+					while ($tool = mysqli_fetch_assoc($tools))
 					{
 						echo '<a href="tool.php?id=' . $tool ['tool_id'] . '">';
 						echo $tool ['name'] . '</a><br/>';
@@ -246,7 +246,7 @@
 					$class = ($class == 'even') ? 'odd' : 'even';
 				}
 
-				mysql_free_result ($tools);
+				mysqli_free_result($tools);
 
 				// End of table
 
@@ -258,9 +258,9 @@
 					FROM	emulator_features
 					WHERE	emulator_id='". $_GET ['id'] . "'";
 
-				$features = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$features = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($features) != 0)
+				if (mysqli_num_rows($features) != 0)
 				{
 					echo INDENT . '<h2>Features</h2>' . LF . LF;
 
@@ -284,7 +284,7 @@
 
 					$class = 'odd';
 
-					while ($feature = mysql_fetch_assoc ($features))
+					while ($feature = mysqli_fetch_assoc($features))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td>' . ifnull_qmark($feature ['sound']) . '</td>' . LF;
@@ -308,7 +308,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($features);
+				mysqli_free_result($features);
 
 				// Contributors
 
@@ -319,9 +319,9 @@
 						emulator_author_link.relationship='contributor'
 					ORDER BY name";
 
-				$contributors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$contributors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($contributors) != 0)
+				if (mysqli_num_rows($contributors) != 0)
 				{
 					echo INDENT . '<h2>Contributors</h2>' . LF . LF;
 
@@ -336,7 +336,7 @@
 
 					$class = 'odd';
 
-					while ($contributor = mysql_fetch_assoc ($contributors))
+					while ($contributor = mysqli_fetch_assoc($contributors))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><a href="author.php?id=' .
@@ -350,7 +350,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($contributors);
+				mysqli_free_result($contributors);
 
 				// Snaps
 
@@ -360,14 +360,14 @@
 						name like '" . $_GET ['id'] . "_%'
 					ORDER BY name";
 
-				$snaps = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$snaps = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($snaps) != 0)
+				if (mysqli_num_rows($snaps) != 0)
 				{
 					echo INDENT . '<h2>GUI</h2>' . LF . LF;
 					echo INDENT . '<p>' . LF . LF;
 
-					while ($snap = mysql_fetch_assoc ($snaps))
+					while ($snap = mysqli_fetch_assoc($snaps))
 					{
 						echo INDENT . TAB . '<img src="../snaps/' . $snap ['path'] . '/' .
 							$snap ['name'] . '" alt="' . $snap ['name'] .
@@ -378,11 +378,11 @@
 					echo INDENT . '</p>' . LF;
 				}
 
-				mysql_free_result ($snaps);
+				mysqli_free_result($snaps);
 
 				// Relatives
 
-				function list_relatives($id, $title, $relationship)
+				function list_relatives($id, $title, $relationship, $mysqli)
 				{
 					$query = "SELECT emulator.*
 						FROM	emulator, emulator_relative_link
@@ -391,9 +391,9 @@
 							emulator_relative_link.relationship='" . $relationship . "'
 						ORDER BY name";
 
-					$relatives = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$relatives = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					if (mysql_num_rows ($relatives) != 0)
+					if (mysqli_num_rows($relatives) != 0)
 					{
 						echo INDENT . '<h2>' . $title . '</h2>' . LF . LF;
 						echo INDENT . '<table class="links">' . LF;
@@ -409,7 +409,7 @@
 
 						$class = 'odd';
 
-						while ($relative = mysql_fetch_assoc ($relatives))
+						while ($relative = mysqli_fetch_assoc($relatives))
 						{
 							echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 							echo INDENT . TAB . TAB . '<td>';
@@ -428,16 +428,16 @@
 									emulator_author_link.relationship='author'
 								ORDER BY name";
 
-							$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+							$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-							while ($author = mysql_fetch_assoc ($authors))
+							while ($author = mysqli_fetch_assoc($authors))
 							{
 								echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 								echo $author ['name'] . '</a><br/>';
 							}
 							echo '</td>' . LF;
 
-							mysql_free_result ($authors);
+							mysqli_free_result($authors);
 
 							echo INDENT . TAB . '</tr>' . LF;
 
@@ -447,19 +447,19 @@
 						echo INDENT . '</table>' . LF;
 					}
 
-					mysql_free_result ($relatives);
+					mysqli_free_result($relatives);
 				}
 
-				list_relatives ($_GET ['id'], "Predecessors", "predecessor");
-				list_relatives ($_GET ['id'], "Derivative Of", "derivative_of");
-				list_relatives ($_GET ['id'], "Hybrid Of", "hybrid_of");
-				list_relatives ($_GET ['id'], "Modifiction Of", "modification_of");
-				list_relatives ($_GET ['id'], "Port Of", "port_of");
-				list_relatives ($_GET ['id'], "Alternative Versions", "alt_version");
-				list_relatives ($_GET ['id'], "Ports", "port");
-				list_relatives ($_GET ['id'], "Modified Versions", "modified_version");
-				list_relatives ($_GET ['id'], "Derivatives", "derivative");
-				list_relatives ($_GET ['id'], "Successors", "successor");
+				list_relatives ($_GET ['id'], "Predecessors", "predecessor", $mysqli);
+				list_relatives ($_GET ['id'], "Derivative Of", "derivative_of", $mysqli);
+				list_relatives ($_GET ['id'], "Hybrid Of", "hybrid_of", $mysqli);
+				list_relatives ($_GET ['id'], "Modifiction Of", "modification_of", $mysqli);
+				list_relatives ($_GET ['id'], "Port Of", "port_of", $mysqli);
+				list_relatives ($_GET ['id'], "Alternative Versions", "alt_version", $mysqli);
+				list_relatives ($_GET ['id'], "Ports", "port", $mysqli);
+				list_relatives ($_GET ['id'], "Modified Versions", "modified_version", $mysqli);
+				list_relatives ($_GET ['id'], "Derivatives", "derivative", $mysqli);
+				list_relatives ($_GET ['id'], "Successors", "successor", $mysqli);
 
 				// Downloads
 
@@ -469,9 +469,9 @@
 					AND	zip.path=concat('emus/', '" . $row ['emulator_contents_id'] . "', '/', '" . $_GET ['id'] . "')
 					AND	zip.name=emulator_file.name";
 
-				$files = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$files = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($files) != 0)
+				if (mysqli_num_rows($files) != 0)
 				{
 					echo INDENT . '<h2>Downloads</h2>' . LF . LF;
 
@@ -488,7 +488,7 @@
 
 					$class = 'odd';
 
-					while ($file = mysql_fetch_assoc ($files))
+					while ($file = mysqli_fetch_assoc($files))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><a href="../zips/emus/' .
@@ -504,7 +504,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($files);
+				mysqli_free_result($files);
 
 				// Games
 
@@ -516,9 +516,9 @@
 					AND	x_hidden_ind IS NULL
 					ORDER BY description";
 
-				$games = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$games = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				if (mysql_num_rows ($games) >= 350)
+				if (mysqli_num_rows($games) >= 350)
 				{
 					echo INDENT . '<p>' . LF;
 					echo INDENT . INDENT . '<a href="emulator_games.php?id=' . $_GET ['id'] . '&amp;letter=0-9">0-9</a>';
@@ -528,7 +528,7 @@
 					}
 					echo INDENT . '</p>' . LF;
 				}
-				elseif (mysql_num_rows ($games) != 0)
+				elseif (mysqli_num_rows($games) != 0)
 				{
 					echo INDENT . '<table class="links">' . LF;
 					echo INDENT . TAB . '<colgroup class="name"/>' . LF;
@@ -545,7 +545,7 @@
 
 					$class = 'odd';
 
-					while ($game = mysql_fetch_assoc ($games))
+					while ($game = mysqli_fetch_assoc($games))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 						echo INDENT . TAB . TAB . '<td><a href="emulator_game.php?id=' .
@@ -577,17 +577,17 @@
 					echo INDENT . '<p>Note: This list only shows games that are not in the main version of the emulator (see above).</p>' . LF . LF;
 				}
 
-				mysql_free_result ($games);
+				mysqli_free_result($games);
 
 				// End of page
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 			else
 			{
 				echo INDENT . 'Invalid id has been passed as a parameter, check the URL!' . LF;
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			// Standard page footer (XHTML compliance logo)

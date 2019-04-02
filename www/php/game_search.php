@@ -235,7 +235,7 @@
 
 			if ($desc != '' || $manu != '' || $year != '' || $nonmame != '' || $sourcefile != '' || $multiscreen != '')
 			{
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 				echo INDENT . '<hr/>' . LF . LF;
 
@@ -243,7 +243,7 @@
 
 				echo INDENT . '<p>';
 
-				switch (mysql_num_rows ($result))
+				switch (mysqli_num_rows($result))
 				{
 					case 0:
 						echo 'No matches for the search criteria!';
@@ -252,13 +252,13 @@
 						echo 'Exactly one match for the search criteria!';
 						break;
 					default:
-						echo mysql_num_rows ($result) . ' matches for the search criteria!';
+						echo mysqli_num_rows($result) . ' matches for the search criteria!';
 						break;
 				}
 
 				echo '</p>' . LF . LF;
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					echo INDENT . '<table class="links">' . LF;
 
@@ -276,7 +276,7 @@
 
 					$class = 'odd';
 
-					while ($row = mysql_fetch_assoc ($result))
+					while ($row = mysqli_fetch_assoc($result))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 
@@ -303,7 +303,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			// Standard page footer (XHTML compliance logo)

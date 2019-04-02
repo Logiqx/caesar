@@ -31,9 +31,9 @@
 
 			function run_query($query, $comment, $num_cols)
 			{
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-				$count = mysql_num_rows ($result);
+				$count = mysqli_num_rows($result);
 
 				echo INDENT . '<p><b>' . $comment . ' (' . $count . ')</b></p>' . LF . LF;
 
@@ -43,7 +43,7 @@
 
 					$class = 'odd';
 
-					while ($row = mysql_fetch_array ($result))
+					while ($row = mysqli_fetch_row($result))
 					{
 						echo INDENT . TAB . '<tr class="'. $class . '">' . LF;
 
@@ -64,7 +64,7 @@
 					echo INDENT . '<p>None</p>' . LF . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			if (isset($_GET ['type']) && $_GET ['type']=='authors')
@@ -143,17 +143,17 @@
 					FROM author_email
 					";
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 				echo INDENT . '<p><b>' . 'missing cache images' . '</b></p>' . LF . LF;
 
 				$missing = 0;
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					$class = 'odd';
 
-					while ($row = mysql_fetch_assoc ($result))
+					while ($row = mysqli_fetch_assoc($result))
 					{
 						$image = text_image($row ['email']);
 
@@ -187,7 +187,7 @@
 					echo INDENT . '<p>None</p>' . LF . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			elseif (isset($_GET ['type']) && $_GET ['type']=='emus')

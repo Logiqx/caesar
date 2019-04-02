@@ -114,7 +114,7 @@
 
 			if ($emulator != '' || $author != '')
 			{
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 				echo INDENT . '<hr/>' . LF . LF;
 
@@ -122,7 +122,7 @@
 
 				echo INDENT . '<p>';
 
-				switch (mysql_num_rows ($result))
+				switch (mysqli_num_rows($result))
 				{
 					case 0:
 						echo 'No matches for the search criteria!';
@@ -131,13 +131,13 @@
 						echo 'Exactly one match for the search criteria!';
 						break;
 					default:
-						echo mysql_num_rows ($result) . ' matches for the search criteria!';
+						echo mysqli_num_rows($result) . ' matches for the search criteria!';
 						break;
 				}
 
 				echo '</p>' . LF . LF;
 
-				if (mysql_num_rows ($result) != 0)
+				if (mysqli_num_rows($result) != 0)
 				{
 					// Create table for the links and define the column groups
 
@@ -161,7 +161,7 @@
 
 					$class = 'odd';
 
-					while ($row = mysql_fetch_assoc ($result))
+					while ($row = mysqli_fetch_assoc($result))
 					{
 						// Emulator and platform
 
@@ -186,16 +186,16 @@
 								emulator_author_link.relationship='author'
 							ORDER BY name";
 
-						$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+						$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-						while ($author = mysql_fetch_assoc ($authors))
+						while ($author = mysqli_fetch_assoc($authors))
 						{
 							echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 							echo $author ['name'] . '</a><br/>';
 						}
 						echo '</td>' . LF;
 
-						mysql_free_result ($authors);
+						mysqli_free_result($authors);
 
 						// Version and date
 
@@ -211,7 +211,7 @@
 					echo INDENT . '</table>' . LF;
 				}
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			// Standard page footer (XHTML compliance logo)

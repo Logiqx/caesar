@@ -12,11 +12,11 @@
 				FROM emulator_contents
 				WHERE emulator_contents_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo '<title>CAESAR - ' . $row ['title'] . '</title>' . LF . LF;
 			}
@@ -25,7 +25,7 @@
 				echo '<title>CAESAR</title>' . LF . LF;
 			}
 
-			mysql_free_result ($result);
+			mysqli_free_result($result);
 
 			// Include standard <head> metadata
 
@@ -46,20 +46,20 @@
 				FROM emulator_contents
 				WHERE emulator_contents_id=' . "'" . $_GET ['id'] . "'";
 
-			$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+			$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 			// If no rows were found, the id was invalid (or unspecified)
 
-			if (mysql_num_rows ($result) != 0)
+			if (mysqli_num_rows($result) != 0)
 			{
 				// Title and comment
 
-				$row = mysql_fetch_assoc ($result);
+				$row = mysqli_fetch_assoc($result);
 
 				echo INDENT . '<h2>' . $row ['title'] . '</h2>' . LF . LF;
 				echo INDENT . '<p>' . $row ['comment'] . '</p>' . LF . LF;
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 
 				// Create table for the links and define the column groups
 
@@ -97,11 +97,11 @@
 						ORDER BY emulator.name";
 				}
 
-				$result = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+				$result = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
 				$class = 'odd';
 
-				while ($row = mysql_fetch_assoc ($result))
+				while ($row = mysqli_fetch_assoc($result))
 				{
 					// Emulator and platform
 
@@ -126,16 +126,16 @@
 							emulator_author_link.relationship='author'
 						ORDER BY name";
 
-					$authors = @mysql_query ($query) or die ('Could not run query: ' . mysql_error ());
+					$authors = mysqli_query($mysqli, $query) or die ('Could not run query: ' . mysqli_error($mysqli));
 
-					while ($author = mysql_fetch_assoc ($authors))
+					while ($author = mysqli_fetch_assoc($authors))
 					{
 						echo '<a href="author.php?id=' . $author ['author_id'] . '">';
 						echo $author ['name'] . '</a><br/>';
 					}
 					echo '</td>' . LF;
 
-					mysql_free_result ($authors);
+					mysqli_free_result($authors);
 
 					// Version and date
 
@@ -150,13 +150,13 @@
 
 				echo INDENT . '</table>' . LF;
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 			else
 			{
 				echo INDENT . 'Invalid id has been passed as a parameter, check the URL!' . LF;
 
-				mysql_free_result ($result);
+				mysqli_free_result($result);
 			}
 
 			// Standard page footer (XHTML compliance logo)
