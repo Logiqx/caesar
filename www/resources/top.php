@@ -282,11 +282,11 @@
 						if (!isset($non_xhtml_compliant))
 						{
 							echo INDENT . TAB . '<a href="http://validator.w3.org/check?uri=referer">';
-							echo '<img src="' . $www_root . 'resources/valid-xhtml10.png" alt="Valid XHTML 1.0!" height="31" width="88"/>';
+							echo '<img src="' . $www_root . 'resources/valid-xhtml10-blue.png" alt="Valid XHTML 1.0!" height="31" width="88"/>';
 							echo '</a>' . LF;
 
 							echo INDENT . TAB . '<a href="http://jigsaw.w3.org/css-validator/check/referer">';
-							echo '<img src="' . $www_root . 'resources/valid-css.png" alt="Valid CSS!" height="31" width="88" />';
+							echo '<img src="' . $www_root . 'resources/valid-css-blue.png" alt="Valid CSS!" height="31" width="88" />';
 							echo '</a>' . LF;
 						}
 
